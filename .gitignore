@@ -1,0 +1,8 @@
+.DS_Store
+Data/accoriger.txt
+Data/caspbmtiquNER.txt
+Data/notes_NER.txt
+Data/notes_NER2.txt
+Models/Train_2/
+_DOC/
+_OLD/
