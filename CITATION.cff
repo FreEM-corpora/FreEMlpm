@@ -1,0 +1,24 @@
+cff-version: 4.0.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Gabay
+    given-names: Simon
+    orcid: https://orcid.org/0000-0001-9094-4475
+  - family-names: Clérice
+    given-names: Thibault
+    orcid: https://orcid.org/0000-0003-1852-9204
+  - family-names: Gille Levenson
+    given-names: Matthias
+    orcid: https://orcid.org/0000-0001-9488-5986
+  - family-names: Camps
+    given-names: Jean-Baptiste
+    orcid: https://orcid.org/0000-0003-0385-7037
+  - family-names: Tanguy
+    given-names: Jean-Baptiste
+    orcid: https://orcid.org/0000-0002-0007-1664
+title: FreEM-corpora/FreEMlpm: FreEM LPM (Lemma, POS-tags, Morphology)corpus
+repository-code: https://github.com/FreEM-corpora/FreEMlpm
+url: https://freem-corpora.github.io
+license: CC-BY
+version: 4.0.0
+date-released: 2022-01-17
