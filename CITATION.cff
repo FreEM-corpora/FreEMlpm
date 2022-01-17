@@ -16,7 +16,7 @@ authors:
   - family-names: Tanguy
     given-names: Jean-Baptiste
     orcid: https://orcid.org/0000-0002-0007-1664
-title: "FreEM-corpora/FreEMlpm: FreEM LPM (Lemma, POS-tags, Morphology)corpus"
+title: "FreEM-corpora/FreEMlpm: FreEM LPM (Lemma, POS-tags, Morphology) corpus"
 repository-code: "https://github.com/FreEM-corpora/FreEMlpm"
 url: "https://freem-corpora.github.io"
 license: "CC-BY"
