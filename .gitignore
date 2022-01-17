@@ -1,4 +1,5 @@
 .DS_Store
+Data/notes_lemmes.txt
 Data/accoriger.txt
 Data/caspbmtiquNER.txt
 Data/notes_NER.txt
