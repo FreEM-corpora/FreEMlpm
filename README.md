@@ -1,6 +1,8 @@
 # FreEM LPM
 
-**WARNING: This repository is the new repository of [LEM17](https://github.com/e-ditiones/LEM17), which is not maintained anymore**
+```diff
+- WARNING: This repository is the new repository of [LEM17](https://github.com/e-ditiones/LEM17), which is not maintained anymore
+```
 
 FreEM LPM (Lemmas, POS, Morphology). Linguistically annotated corpora of modern French (16-18th c.)
 
@@ -80,9 +82,8 @@ The morphology is provided but has _not_ been carefully proofread.
 If you want to contribute, you can do so by cloning the repository and sending us a pull request, or by sending an email at simon.gabay[at]unige.ch.
 
 ## Cite this repository
-Simon Gabay, Thibault Clérice, Matthias Gille-Levenson, Jean-Baptiste Camps, Jean-Baptiste Tanguy, _FreEMlpm: data and models for modern French (16-18th c.)_, Neuchâtel: Université de Neuchâtel, 2020, [https://github.com/freem-corpora/FreEMlpm](https://github.com/freem-corpora/FreEMlpm).
+Simon Gabay, Thibault Clérice, Matthias Gille-Levenson, Jean-Baptiste Camps, Jean-Baptiste Tanguy, _FreEMlpm: data and models for modern French (16-18th c.)_, Neuchâtel: Université de Genève, 2022, [https://github.com/freem-corpora/FreEMlpm](https://github.com/freem-corpora/FreEMlpm).
 
-Please keep me posted if you use this data! simon.gabay[at]unige.ch
-
+Please keep me posted if you use this data!
 ## Contact
 simon.gabay[at]unige.ch

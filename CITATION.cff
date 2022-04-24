@@ -19,6 +19,6 @@ authors:
 title: "FreEM-corpora/FreEMlpm: FreEM LPM (Lemma, POS-tags, Morphology) corpus"
 repository-code: "https://github.com/FreEM-corpora/FreEMlpm"
 url: "https://freem-corpora.github.io"
-license: cc-by-4.0
+license: by-nc-sa-4.0
 version: 4.0.1
 date-released: 2022-04-24
