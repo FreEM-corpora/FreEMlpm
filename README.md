@@ -85,8 +85,58 @@ The morphology is provided but has _not_ been carefully proofread.
 If you want to contribute, you can do so by cloning the repository and sending us a pull request, or by sending an email at simon.gabay[at]unige.ch.
 
 ## Cite this repository
-Simon Gabay, Thibault Clérice, Matthias Gille-Levenson, Jean-Baptiste Camps, Jean-Baptiste Tanguy, _FreEMlpm: data and models for modern French (16-18th c.)_, Neuchâtel: Université de Genève, 2022, [https://github.com/freem-corpora/FreEMlpm](https://github.com/freem-corpora/FreEMlpm).
+
+```bibtex
+@software{gabay_simon_2022_6481300,
+  author       = {Gabay, Simon and
+                  Clérice, Thibault and
+                  Gille Levenson, Matthias and
+                  Camps, Jean-Baptiste and
+                  Tanguy, Jean-Baptiste},
+  title        = {{FreEM-corpora/FreEMlpm: FreEM LPM (Lemma, POS-
+                   tags, Morphology) corpus}},
+  month        = apr,
+  year         = 2022,
+  note         = {If you use this software, please cite it as below.},
+  publisher    = {Zenodo},
+  version      = {4.0.1},
+  doi          = {10.5281/zenodo.6481300},
+  url          = {https://doi.org/10.5281/zenodo.6481300}
+}
+```
+
+```bibtex
+@article{jdmdh:7161,
+  TITLE = {{Corpus and Models for Lemmatisation and POS-tagging of Classical French
+  Theatre}},
+  AUTHOR = {Jean-Baptiste Camps and Simon Gabay and Paul Fièvre and Thibault Clérice and Florian Cafiero},
+  URL = {https://jdmdh.episciences.org/7161},
+  DOI = {10.46298/jdmdh.6485},
+  JOURNAL = {{Journal of Data Mining \& Digital Humanities}},
+  VOLUME = {{2021}},
+  YEAR = {2021},
+  MONTH = Feb,
+  KEYWORDS = {Computer Science - Computation and Language},
+}
+```
+```bibtex
+@inproceedings{gabay:hal-03018381,
+  TITLE = {{Standardizing linguistic data: method and tools for annotating (pre-orthographic) French}},
+  AUTHOR = {Gabay, Simon and Cl{\'e}rice, Thibault and Camps, Jean-Baptiste and Tanguy, Jean-Baptiste and Gille-Levenson, Matthias},
+  URL = {https://hal.archives-ouvertes.fr/hal-03018381},
+  BOOKTITLE = {{Proceedings of the 2nd International Digital Tools \& Uses Congress (DTUC '20)}},
+  ADDRESS = {Hammamet, Tunisia},
+  YEAR = {2020},
+  MONTH = Oct,
+  DOI = {10.1145/3423603.3423996},
+  KEYWORDS = {linguistic annotation ; pre-orthographic language ; lemmatisation ; POS-tagging ; Lemmatisation ; Etiquetage morpho-syntaxique ; POStagging ; Lemmatisation},
+  PDF = {https://hal.archives-ouvertes.fr/hal-03018381/file/Lemmatisation.pdf},
+  HAL_ID = {hal-03018381},
+  HAL_VERSION = {v1},
+}
+```
 
 Please keep me posted if you use this data!
+
 ## Contact
 simon.gabay[at]unige.ch
