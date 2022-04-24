@@ -1,5 +1,8 @@
 # FreEM LPM
 
+[![DOI](https://zenodo.org/badge/448958805.svg)](https://zenodo.org/badge/latestdoi/448958805)
+
+
 ```diff
 - WARNING: This repository is the new repository of [LEM17](https://github.com/e-ditiones/LEM17), which is not maintained anymore
 ```
