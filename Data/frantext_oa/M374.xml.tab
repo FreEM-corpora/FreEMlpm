@@ -810,7 +810,7 @@ option	option	NC	_
 Les	le	DET	_
 frais	frais	NC	_
 de	de	P	_
-main-d'oeuvre	main-d'oeuvre	NC	_
+main-d'oeuvre	main-d'œuvre	NC	_
 ,	,	PONCT	_
 d'	de	P	_
 ustensiles	ustensile	NC	_
@@ -7396,7 +7396,7 @@ sept_huitièmes	sept_huitièmes	NC	_
 des	de_le	P+D	_
 femmes	femme	NC	_
 devenues	devenir	VPP	_
-désoeuvrées	désoeuvrer	VPP	_
+désoeuvrées	désœuvrer	VPP	_
 par	par	P	_
 la	le	DET	_
 simplification	simplification	NC	_

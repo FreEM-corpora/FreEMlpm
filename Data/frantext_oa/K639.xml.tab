@@ -7059,7 +7059,7 @@ si	si	ADV	_
 bien	bien	ADV	_
 au	à_le	P+D	_
 grand	grand	ADJ	_
-trompe-l'oeil	trompe-l'oeil	NC	_
+trompe-l'oeil	trompe-l'œil	NC	_
 final	final	ADJ	_
 .	.	PONCT	_
 Au	à_le	P+D	_
@@ -24380,7 +24380,7 @@ conséquence	conséquence	NC	_
 fatale	fatal	ADJ	_
 de	de	P	_
 ce	ce	DET	_
-désoeuvrement	désoeuvrement	NC	_
+désoeuvrement	désœuvrement	NC	_
 ennuyé	ennuyer	VPP	_
 et	et	CC	_
 souvent	souvent	ADV	_
@@ -25804,7 +25804,7 @@ déception	déception	NC	_
 cruelle	cruel	ADJ	_
 -	-	PONCT	_
 l'	il	CLO	_
-écoeurant	écoeurer	VPR	_
+écoeurant	écœurer	VPR	_
 formalisme	formalisme	NC	_
 de	de	P	_
 tout	tout	ADV	_
@@ -54421,7 +54421,7 @@ Et	et	CC	_
 puis	puis	ADV	_
 là	là	ADV	_
 ,	,	PONCT	_
-désoeuvré	désoeuvrer	VPP	_
+désoeuvré	désœuvrer	VPP	_
 ,	,	PONCT	_
 contrarié	contrarier	VPP	_
 de	de	P	_

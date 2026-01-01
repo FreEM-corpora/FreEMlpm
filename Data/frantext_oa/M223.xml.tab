@@ -3696,7 +3696,7 @@ se	se	CLO	_
 composait	composer	V	_
 d'	de	P	_
 un	un	DET	_
-hors-d'oeuvre	hors-d'oeuvre	NC	_
+hors-d'oeuvre	hors-d'œuvre	NC	_
 ,	,	PONCT	_
 d'	de	P	_
 un	un	DET	_
@@ -16282,7 +16282,7 @@ ne	ne	ADV	_
 contemplerait	contempler	V	_
 ni	ni	CC	_
 les	le	DET	_
-chefs-d'oeuvre	chef-d'oeuvre	NC	_
+chefs-d'oeuvre	chef-d'œuvre	NC	_
 d'	de	P	_
 éléphanta	éléphanta	NP	_
 ,	,	PONCT	_
@@ -57581,7 +57581,7 @@ La	le	DET	_
 rapidité	rapidité	NC	_
 de	de	P	_
 la	le	DET	_
-main-d'oeuvre	main-d'oeuvre	NC	_
+main-d'oeuvre	main-d'œuvre	NC	_
 ne	ne	ADV	_
 devait	devoir	V	_
 nuire	nuire	VINF	_

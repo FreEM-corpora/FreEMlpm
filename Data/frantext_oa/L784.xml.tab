@@ -5502,7 +5502,7 @@ tard	tard	ADV	_
 C'	ce	CLS	_
 est	être	V	_
 un	un	DET	_
-chef-d'oeuvre	chef-d'oeuvre	NC	_
+chef-d'oeuvre	chef-d'œuvre	NC	_
 ,	,	PONCT	_
 une	un	DET	_
 pièce	pièce	NC	_
@@ -116061,7 +116061,7 @@ de	de	P	_
 lui	il	CLO	_
 dire	dire	VINF	_
 la	le	DET	_
-rancoeur	rancoeur	NC	_
+rancoeur	rancœur	NC	_
 que	que	ADV	_
 je	je	CLS	_
 lui	il	CLO	_

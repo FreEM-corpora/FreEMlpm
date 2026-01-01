@@ -35641,7 +35641,7 @@ les	le	DET	_
 seuls	seul	NC	_
 dont	dont	PROREL	_
 le	le	DET	_
-foetus	foetus	NC	_
+foetus	fœtus	NC	_
 ,	,	PONCT	_
 enfermé	enfermer	VPP	_
 dans	dans	P	_
@@ -37071,7 +37071,7 @@ plus	plus	ADV	_
 ailleurs	ailleurs	ADV	_
 .	.	PONCT	_
 Leur	leur	DET	_
-foetus	foetus	NC	_
+foetus	fœtus	NC	_
 ,	,	PONCT	_
 enfermé	enfermer	VPP	_
 dans	dans	P	_
@@ -58872,7 +58872,7 @@ dans	dans	P	_
 les	le	DET	_
 mâchoires	mâchoire	NC	_
 du	de_le	P+D	_
-foetus	foetus	NC	_
+foetus	fœtus	NC	_
 de	de	P	_
 cet	ce	DET	_
 animal	animal	NC	_
@@ -77165,7 +77165,7 @@ Pass	Pass	NP	_
 .	.	PONCT	_
 Conirostres	conirostre	NC	_
 .	.	PONCT	_
-Pique-boeuf	pique-boeuf	NC	_
+Pique-boeuf	pique-bœuf	NC	_
 ,	,	PONCT	_
 glaucope	glaucope	NC	_
 ,	,	PONCT	_

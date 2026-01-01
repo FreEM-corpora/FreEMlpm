@@ -10954,7 +10954,7 @@ C'	ce	CLS	_
 est	être	V	_
 un	un	DET	_
 magnifique	magnifique	ADJ	_
-hors-d'oeuvre	hors-d'oeuvre	NC	_
+hors-d'oeuvre	hors-d'œuvre	NC	_
 que	que	CS	_
 le	le	DET	_
 tableau	tableau	NC	_
@@ -18993,7 +18993,7 @@ la	le	DET	_
 valeur	valeur	NC	_
 est	être	V	_
 en	en	P	_
-main-d'oeuvre	main-d'oeuvre	NC	_
+main-d'oeuvre	main-d'œuvre	NC	_
 ,	,	PONCT	_
 n'	ne	ADV	_
 est	être	V	_
@@ -23360,7 +23360,7 @@ nonobstant	nonobstant	P	_
 la	le	DET	_
 multitude	multitude	NC	_
 de	de	P	_
-désoeuvrés	désoeuvré	NC	_
+désoeuvrés	désœuvré	NC	_
 et	et	CC	_
 de	de	P	_
 travailleurs	travailleur	NC	_
@@ -40620,7 +40620,7 @@ du	de_le	P+D	_
 salaire	salaire	NC	_
 de	de	P	_
 leur	leur	DET	_
-main-d'oeuvre	main-d'oeuvre	NC	_
+main-d'oeuvre	main-d'œuvre	NC	_
 ,	,	PONCT	_
 n'	ne	ADV	_
 ont	avoir	V	_
@@ -57051,7 +57051,7 @@ répandu	répandre	VPP	_
 en	en	P	_
 France	France	NP	_
 une	un	DET	_
-main-d'oeuvre	main-d'oeuvre	NC	_
+main-d'oeuvre	main-d'œuvre	NC	_
 prodigieuse	prodigieux	ADJ	_
 ,	,	PONCT	_
 par	par	P	_
@@ -66001,7 +66001,7 @@ mêmes	même	ADJ	_
 capitaux	capital	NC	_
 ,	,	PONCT	_
 une	un	DET	_
-main-d'oeuvre	main-d'oeuvre	NC	_
+main-d'oeuvre	main-d'œuvre	NC	_
 équivalente	équivalent	ADJ	_
 ,	,	PONCT	_
 à	à	P	_
@@ -67607,7 +67607,7 @@ ces	ce	DET	_
 capitaux	capital	NC	_
 et	et	CC	_
 cette	ce	DET	_
-main-d'oeuvre	main-d'oeuvre	NC	_
+main-d'oeuvre	main-d'œuvre	NC	_
 peuvent	pouvoir	V	_
 trouver	trouver	VINF	_
 des	un	DET	_
@@ -89111,7 +89111,7 @@ ou	ou	CC	_
 par	par	P	_
 de	un	DET	_
 nombreux	nombreux	ADJ	_
-chefs-d'oeuvre	chef-d'oeuvre	NC	_
+chefs-d'oeuvre	chef-d'œuvre	NC	_
 des	de_le	P+D	_
 arts	art	NC	_
 qui	qui	PROREL	_
@@ -109534,7 +109534,7 @@ qui	qui	PROREL	_
 fait	faire	V	_
 que	que	CS	_
 la	le	DET	_
-main-d'oeuvre	main-d'oeuvre	NC	_
+main-d'oeuvre	main-d'œuvre	NC	_
 est	être	V	_
 à	à	P	_
 si	si	ADV	_
@@ -147883,7 +147883,7 @@ le	le	DET	_
 prix	prix	NC	_
 de	de	P	_
 la	le	DET	_
-main-d'oeuvre	main-d'oeuvre	NC	_
+main-d'oeuvre	main-d'œuvre	NC	_
 ,	,	PONCT	_
 en	en	P	_
 raison	raison	NC	_
@@ -147963,7 +147963,7 @@ plus	plus	ADV	_
 grands	grand	ADJ	_
 frais	frais	NC	_
 de	de	P	_
-main-d'oeuvre	main-d'oeuvre	NC	_
+main-d'oeuvre	main-d'œuvre	NC	_
 ,	,	PONCT	_
 qui	qui	PROREL	_
 retomberaient	retomber	V	_
@@ -148214,7 +148214,7 @@ la	le	DET	_
 société	société	NC	_
 .	.	PONCT	_
 La	le	DET	_
-main-d'oeuvre	main-d'oeuvre	NC	_
+main-d'oeuvre	main-d'œuvre	NC	_
 des	de_le	P+D	_
 gens	gens	NC	_
 qui	qui	PROREL	_
@@ -148603,7 +148603,7 @@ le	le	DET	_
 prix	prix	NC	_
 de	de	P	_
 la	le	DET	_
-main-d'oeuvre	main-d'oeuvre	NC	_
+main-d'oeuvre	main-d'œuvre	NC	_
 la	le	DET	_
 plus	plus	ADV	_
 commune	commun	ADJ	_
@@ -148917,7 +148917,7 @@ la	le	DET	_
 chute	chute	NC	_
 de	de	P	_
 la	le	DET	_
-main-d'oeuvre	main-d'oeuvre	NC	_
+main-d'oeuvre	main-d'œuvre	NC	_
 est	être	V	_
 de	de	P	_
 nature	nature	NC	_
@@ -150813,7 +150813,7 @@ contraindre	contraindre	VINF	_
 à	à	P	_
 payer	payer	VINF	_
 une	un	DET	_
-main-d'oeuvre	main-d'oeuvre	NC	_
+main-d'oeuvre	main-d'œuvre	NC	_
 lorsque	lorsque	CS	_
 aucun	aucun	DET	_
 produit	produit	NC	_
@@ -163813,7 +163813,7 @@ capital	capital	NC	_
 et	et	CC	_
 de	de	P	_
 la	le	DET	_
-main-d'oeuvre	main-d'oeuvre	NC	_
+main-d'oeuvre	main-d'œuvre	NC	_
 qu'	que	PROREL	_
 on	on	CLS	_
 y	y	CLO	_
@@ -170289,7 +170289,7 @@ diverses	divers	ADJ	_
 il	il	CLS	_
 donnait	donner	V	_
 au	à_le	P+D	_
-désoeuvrement	désoeuvrement	NC	_
+désoeuvrement	désœuvrement	NC	_
 et	et	CC	_
 à	à	P	_
 l'	le	DET	_
@@ -170396,7 +170396,7 @@ n'	ne	ADV	_
 admet	admettre	V	_
 point	point	ADV	_
 de	de	P	_
-désoeuvrés	désoeuvré	NC	_
+désoeuvrés	désœuvré	NC	_
 ,	,	PONCT	_
 ses	son	DET	_
 progrès	progrès	NC	_
@@ -205184,7 +205184,7 @@ qu'	que	CS	_
 on	on	CLS	_
 fait	faire	V	_
 à	à	P	_
-contre-coeur	contre-coeur	NC	_
+contre-coeur	contre-cœur	NC	_
 ,	,	PONCT	_
 sont	être	V	_
 des	un	DET	_

@@ -1622,7 +1622,7 @@ La	le	DET	_
 Fontaine	Fontaine	NP	_
 est	être	V	_
 un	un	DET	_
-chef-d'oeuvre	chef-d'oeuvre	NC	_
+chef-d'oeuvre	chef-d'œuvre	NC	_
 .	.	PONCT	_
 La	le	DET	_
 raison	raison	NC	_
@@ -7940,7 +7940,7 @@ myrtes	myrte	NC	_
 odorants	odorant	ADJ	_
 ,	,	PONCT	_
 les	le	DET	_
-chefs-d'oeuvre	chef-d'oeuvre	NC	_
+chefs-d'oeuvre	chef-d'œuvre	NC	_
 de	de	P	_
 l'	le	DET	_
 art	art	NC	_

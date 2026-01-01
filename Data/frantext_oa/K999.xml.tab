@@ -6034,7 +6034,7 @@ oeillet	œillet	NC	_
 ,	,	PONCT	_
 oeillade	œillade	NC	_
 ,	,	PONCT	_
-oeillère	oeillère	ADJ	_
+oeillère	œillère	ADJ	_
 ;	;	PONCT	_
 de	de	P	_
 oreille	oreille	NC	_
@@ -8580,7 +8580,7 @@ poitrail	poitrail	NC	_
 ,	,	PONCT	_
 corbeau	corbeau	NC	_
 ,	,	PONCT	_
-oeil-de-boeuf	oeil-de-boeuf	NC	_
+oeil-de-boeuf	œil-de-bœuf	NC	_
 ,	,	PONCT	_
 gueule-de-loup	gueule-de-loup	NC	_
 ,	,	PONCT	_
@@ -16532,7 +16532,7 @@ habitua	habituer	V	_
 considérer	considérer	VINF	_
 comme	comme	P	_
 les	le	DET	_
-chefs-d'oeuvre	chef-d'oeuvre	NC	_
+chefs-d'oeuvre	chef-d'œuvre	NC	_
 de	de	P	_
 la	le	DET	_
 littérature	littérature	NC	_
@@ -49404,7 +49404,7 @@ le	le	DET	_
 charme	charme	NC	_
 futur	futur	ADJ	_
 des	de_le	P+D	_
-chefs-d'oeuvre	chef-d'oeuvre	NC	_
+chefs-d'oeuvre	chef-d'œuvre	NC	_
 .	.	PONCT	_
 Ils	il	CLS	_
 avilissent	avilir	V	_

@@ -235,7 +235,7 @@ usage	usage	NC	_
 ,	,	PONCT	_
 une	un	DET	_
 nouvelle	nouveau	ADJ	_
-main-d'oeuvre	main-d'oeuvre	NC	_
+main-d'oeuvre	main-d'œuvre	NC	_
 ,	,	PONCT	_
 plus	plus	ADV	_
 ou	ou	CC	_
@@ -13009,7 +13009,7 @@ bien	bien	ADV	_
 peur	peur	NC	_
 que	que	CS	_
 ce	ce	DET	_
-chef-d'oeuvre	chef-d'oeuvre	NC	_
+chef-d'oeuvre	chef-d'œuvre	NC	_
 tant	tant	ADV	_
 vanté	vanter	VPP	_
 ne	ne	ADV	_

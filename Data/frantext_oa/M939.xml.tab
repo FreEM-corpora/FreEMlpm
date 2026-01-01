@@ -13256,7 +13256,7 @@ goût	goût	NC	_
 de	de	P	_
 son	son	DET	_
 dernier	dernier	ADJ	_
-chef-d'oeuvre	chef-d'oeuvre	NC	_
+chef-d'oeuvre	chef-d'œuvre	NC	_
 :	:	PONCT	_
 Je	je	CLS	_
 consens	consentir	V	_
@@ -63480,7 +63480,7 @@ familiarisant	familiariser	VPR	_
 avec	avec	P	_
 les	le	DET	_
 principaux	principal	ADJ	_
-chefs-d'oeuvre	chef-d'oeuvre	NC	_
+chefs-d'oeuvre	chef-d'œuvre	NC	_
 de	de	P	_
 tous	tout	ADJ	_
 les	le	DET	_
@@ -93265,7 +93265,7 @@ siècles	siècle	NC	_
 plus	plus	ADV	_
 de	un	DET	_
 vrais	vrai	ADJ	_
-chefs-d'oeuvre	chef-d'oeuvre	NC	_
+chefs-d'oeuvre	chef-d'œuvre	NC	_
 que	que	CS	_
 n'	ne	ADV	_
 en	en	CLO	_
@@ -94961,7 +94961,7 @@ placer	placer	VINF	_
 souvent	souvent	ADV	_
 de	un	DET	_
 vrais	vrai	ADJ	_
-chefs-d'oeuvre	chef-d'oeuvre	NC	_
+chefs-d'oeuvre	chef-d'œuvre	NC	_
 au-dessous	au-dessous	ADV	_
 de	de	P	_
 compositions	composition	NC	_

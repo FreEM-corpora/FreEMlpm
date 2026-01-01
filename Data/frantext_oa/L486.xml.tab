@@ -1430,7 +1430,7 @@ Par	par	P	_
 curiosité	curiosité	NC	_
 ,	,	PONCT	_
 par	par	P	_
-désoeuvrement	désoeuvrement	NC	_
+désoeuvrement	désœuvrement	NC	_
 ,	,	PONCT	_
 par	par	P	_
 politesse	politesse	NC	_
@@ -5546,7 +5546,7 @@ tel	tel	ADJ	_
 qu'	que	CS	_
 un	un	DET	_
 immense	immense	ADJ	_
-oeil-de-boeuf	oeil-de-boeuf	NC	_
+oeil-de-boeuf	œil-de-bœuf	NC	_
 ,	,	PONCT	_
 enchâssé	enchâsser	VPP	_
 dans	dans	P	_
@@ -18349,7 +18349,7 @@ avait	avoir	V	_
 acquis	acquérir	VPP	_
 ses	son	DET	_
 deux	deux	ADJ	_
-chefs-d'oeuvre	chef-d'oeuvre	NC	_
+chefs-d'oeuvre	chef-d'œuvre	NC	_
 et	et	CC	_
 ,	,	PONCT	_
 pendant	pendant	P	_
@@ -23629,7 +23629,7 @@ la	le	DET	_
 promiscuité	promiscuité	NC	_
 ,	,	PONCT	_
 le	le	DET	_
-désoeuvrement	désoeuvrement	NC	_
+désoeuvrement	désœuvrement	NC	_
 monotone	monotone	ADJ	_
 .	.	PONCT	_
 De	de	P	_
@@ -31802,7 +31802,7 @@ argent	argent	NC	_
 elle	il	CLS	_
 était	être	V	_
 le	le	DET	_
-chef-d'oeuvre	chef-d'oeuvre	NC	_
+chef-d'oeuvre	chef-d'œuvre	NC	_
 du	de_le	P+D	_
 factice	factice	NC	_
 ;	;	PONCT	_
@@ -34323,7 +34323,7 @@ retourna	retourner	V	_
 vit	vivre	V	_
 par	par	P	_
 l'	le	DET	_
-oeil-de-boeuf	oeil-de-boeuf	NC	_
+oeil-de-boeuf	œil-de-bœuf	NC	_
 des	de_le	P+D	_
 oreilles	oreille	NC	_
 droites	droit	ADJ	_
@@ -42840,7 +42840,7 @@ après-midi	après-midi	NC	_
 Pantin	Pantin	NP	_
 ,	,	PONCT	_
 par	par	P	_
-désoeuvrement	désoeuvrement	NC	_
+désoeuvrement	désœuvrement	NC	_
 ,	,	PONCT	_
 par	par	P	_
 curiosité	curiosité	NC	_
@@ -54679,7 +54679,7 @@ prise	prise	NC	_
 de	de	P	_
 voile	voile	NC	_
 au	à_le	P+D	_
-sacré-coeur	sacré-coeur	NC	_
+sacré-coeur	sacré-cœur	NC	_
 ,	,	PONCT	_
 ne	ne	ADV	_
 se	se	CLO	_
@@ -54931,7 +54931,7 @@ ciel	ciel	NC	_
 ;	;	PONCT	_
 sans	sans	P	_
 doute	doute	NC	_
-écoeuré	écoeurer	VPP	_
+écoeuré	écœurer	VPP	_
 par	par	P	_
 la	le	DET	_
 banalité	banalité	NC	_
@@ -60565,7 +60565,7 @@ cependant	cependant	ADV	_
 en	en	P	_
 expulsant	expulser	VPR	_
 un	un	DET	_
-foetus	foetus	NC	_
+foetus	fœtus	NC	_
 ,	,	PONCT	_
 on	on	CLS	_
 détruisait	détruire	V	_
@@ -62999,7 +62999,7 @@ engourdissement	engourdissement	NC	_
 dans	dans	P	_
 cet	ce	DET	_
 ennui	ennui	NC	_
-désoeuvré	désoeuvré	ADJ	_
+désoeuvré	désœuvré	ADJ	_
 où	où	PROREL	_
 il	il	CLS	_
 plongeait	plonger	V	_
@@ -68760,7 +68760,7 @@ ainsi	ainsi	ADV	_
 qu'	que	CS	_
 un	un	DET	_
 petit	petit	ADJ	_
-chef-d'oeuvre	chef-d'oeuvre	NC	_
+chef-d'oeuvre	chef-d'œuvre	NC	_
 .	.	PONCT	_
 Ici	ici	ADV	_
 ,	,	PONCT	_
@@ -70709,7 +70709,7 @@ hiver	hiver	NC	_
 qui	qui	PROREL	_
 étaient	être	V	_
 les	le	DET	_
-chefs-d'oeuvre	chef-d'oeuvre	NC	_
+chefs-d'oeuvre	chef-d'œuvre	NC	_
 de	de	P	_
 Mallarmé	Mallarmé	NP	_
 et	et	CC	_
@@ -70717,7 +70717,7 @@ comptaient	compter	V	_
 également	également	ADV	_
 parmi	parmi	P	_
 les	le	DET	_
-chefs-d'oeuvre	chef-d'oeuvre	NC	_
+chefs-d'oeuvre	chef-d'œuvre	NC	_
 du	de_le	P+D	_
 poème	poème	NC	_
 en	en	P	_

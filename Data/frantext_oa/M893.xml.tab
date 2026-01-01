@@ -1727,7 +1727,7 @@ elle	il	CLS	_
 une	un	DET	_
 espèce	espèce	NC	_
 d'	de	P	_
-écoeurement	écoeurement	NC	_
+écoeurement	écœurement	NC	_
 à	à	P	_
 entendre	entendre	VINF	_
 là	là	ADV	_
@@ -6354,7 +6354,7 @@ bâtie	bâtir	VPP	_
 reconstruite	reconstruire	VPP	_
 avec	avec	P	_
 les	le	DET	_
-chefs-d'oeuvre	chef-d'oeuvre	NC	_
+chefs-d'oeuvre	chef-d'œuvre	NC	_
 et	et	CC	_
 les	le	DET	_
 fragments	fragment	NC	_
@@ -7254,7 +7254,7 @@ des	de_le	P+D	_
 nuances	nuance	NC	_
 ,	,	PONCT	_
 vrais	vrai	ADJ	_
-chefs-d'oeuvre	chef-d'oeuvre	NC	_
+chefs-d'oeuvre	chef-d'œuvre	NC	_
 de	de	P	_
 la	le	DET	_
 fioraia	fioraia	NC	_
@@ -18889,7 +18889,7 @@ de	de	P	_
 la	le	DET	_
 liturgie	liturgie	NC	_
 ,	,	PONCT	_
-chef-d'oeuvre	chef-d'oeuvre	NC	_
+chef-d'oeuvre	chef-d'œuvre	NC	_
 du	de_le	P+D	_
 triomphal	triomphal	ADJ	_
 spectacle	spectacle	NC	_
@@ -27402,7 +27402,7 @@ membres	membre	NC	_
 comme	comme	P	_
 un	un	DET	_
 grand	grand	ADJ	_
-chef-d'oeuvre	chef-d'oeuvre	NC	_
+chef-d'oeuvre	chef-d'œuvre	NC	_
 tombé	tomber	VPP	_
 d'	de	P	_
 un	un	DET	_
@@ -27560,7 +27560,7 @@ la	le	DET	_
 beauté	beauté	NC	_
 accomplie	accomplir	VPP	_
 des	de_le	P+D	_
-chefs-d'oeuvre	chef-d'oeuvre	NC	_
+chefs-d'oeuvre	chef-d'œuvre	NC	_
 elle	il	CLS	_
 ne	ne	ADV	_
 touchait	toucher	V	_
@@ -28735,7 +28735,7 @@ pour	pour	P	_
 se	se	CLO	_
 distraire	distraire	VINF	_
 du	de_le	P+D	_
-désoeuvrement	désoeuvrement	NC	_
+désoeuvrement	désœuvrement	NC	_
 de	de	P	_
 sa	son	DET	_
 pensée	pensée	NC	_
@@ -35488,7 +35488,7 @@ la	le	DET	_
 mère	mère	NC	_
 générale	général	ADJ	_
 du	de_le	P+D	_
-sacré-coeur	sacré-coeur	NC	_
+sacré-coeur	sacré-cœur	NC	_
 qui	qui	PROREL	_
 a	avoir	V	_
 bien	bien	ADV	_
@@ -36402,7 +36402,7 @@ prononcer	prononcer	VINF	_
 ses	son	DET	_
 voeux	vœu	NC	_
 au	à_le	P+D	_
-sacré-coeur	sacré-coeur	NC	_
+sacré-coeur	sacré-cœur	NC	_
 ,	,	PONCT	_
 et	et	CC	_
 partant	partir	VPR	_
@@ -61907,7 +61907,7 @@ sur	sur	P	_
 le	le	DET	_
 lit	lit	NC	_
 des	de_le	P+D	_
-chefs-d'oeuvre	chef-d'oeuvre	NC	_
+chefs-d'oeuvre	chef-d'œuvre	NC	_
 noyés	noyer	VPP	_
 dans	dans	P	_
 sa	son	DET	_

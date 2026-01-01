@@ -41323,7 +41323,7 @@ des	un	DET	_
 attributs	attribut	NC	_
 distinctifs	distinctif	ADJ	_
 du	de_le	P+D	_
-chef-d'oeuvre	chef-d'oeuvre	NC	_
+chef-d'oeuvre	chef-d'œuvre	NC	_
 de	de	P	_
 la	le	DET	_
 dernière	dernier	ADJ	_
@@ -48507,7 +48507,7 @@ avons	avoir	V	_
 rendu	rendre	VPP	_
 justice	justice	NC	_
 aux	à_le	P+D	_
-chefs-d'oeuvre	chef-d'oeuvre	NC	_
+chefs-d'oeuvre	chef-d'œuvre	NC	_
 de	de	P	_
 Racine	Racine	NP	_
 et	et	CC	_
@@ -57887,7 +57887,7 @@ ils	il	CLS	_
 entrent	entrer	V	_
 dans	dans	P	_
 l'	le	DET	_
-oesophage	oesophage	NC	_
+oesophage	œsophage	NC	_
 .	.	PONCT	_
 Pendant	pendant	P	_
 ce	ce	DET	_
@@ -58029,7 +58029,7 @@ fait	fait	NC	_
 entrer	entrer	VINF	_
 dans	dans	P	_
 l'	le	DET	_
-oesophage	oesophage	NC	_
+oesophage	œsophage	NC	_
 ,	,	PONCT	_
 dont	dont	PROREL	_
 le	le	DET	_
@@ -58478,7 +58478,7 @@ la	le	DET	_
 bouche	bouche	NC	_
 et	et	CC	_
 l'	le	DET	_
-oesophage	oesophage	NC	_
+oesophage	œsophage	NC	_
 ,	,	PONCT	_
 arrivent	arriver	V	_
 dans	dans	P	_
@@ -78565,7 +78565,7 @@ jamais	jamais	ADV	_
 jeûné	jeûner	VPP	_
 .	.	PONCT	_
 Le	le	DET	_
-chef-d'oeuvre	chef-d'oeuvre	NC	_
+chef-d'oeuvre	chef-d'œuvre	NC	_
 de	de	P	_
 la	le	DET	_
 cuisine	cuisine	NC	_
@@ -85395,7 +85395,7 @@ matière	matière	NC	_
 soit	soit	CC	_
 pour	pour	P	_
 la	le	DET	_
-main-d'oeuvre	main-d'oeuvre	NC	_
+main-d'oeuvre	main-d'œuvre	NC	_
 .	.	PONCT	_
 Le	le	DET	_
 nombre	nombre	NC	_
@@ -93417,7 +93417,7 @@ moins	moins	NC	_
 potages	potage	NC	_
 ,	,	PONCT	_
 24	24	DET	_
-hors-d'oeuvre	hors-d'oeuvre	NC	_
+hors-d'oeuvre	hors-d'œuvre	NC	_
 ,	,	PONCT	_
 15	15	DET	_
 ou	ou	CC	_
@@ -100279,7 +100279,7 @@ haute	haut	ADJ	_
 distinction	distinction	NC	_
 et	et	CC	_
 autres	autre	ADJ	_
-hors-d'oeuvre	hors-d'oeuvre	NC	_
+hors-d'oeuvre	hors-d'œuvre	NC	_
 pareils	pareil	ADJ	_
 .	.	PONCT	_
 Semés	semer	VPP	_
@@ -113970,7 +113970,7 @@ nécessaire	nécessaire	ADJ	_
 pour	pour	P	_
 faire	faire	VINF	_
 le	le	DET	_
-chef-d'oeuvre	chef-d'oeuvre	NC	_
+chef-d'oeuvre	chef-d'œuvre	NC	_
 attendu	attendre	VPP	_
 ,	,	PONCT	_
 y	y	CLO	_
@@ -115468,7 +115468,7 @@ bourrait	bourrer	V	_
 jusqu'	jusque	P	_
 à	à	P	_
 l'	le	DET	_
-oesophage	oesophage	NC	_
+oesophage	œsophage	NC	_
 ,	,	PONCT	_
 et	et	CC	_
 partait	partir	V	_

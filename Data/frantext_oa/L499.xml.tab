@@ -14518,7 +14518,7 @@ dispense	dispenser	V	_
 des	un	DET	_
 frais	frais	NC	_
 de	de	P	_
-main-d'oeuvre	main-d'oeuvre	NC	_
+main-d'oeuvre	main-d'œuvre	NC	_
 qu'	que	PROREL	_
 il	il	CLS	_
 avait	avoir	V	_
@@ -14685,7 +14685,7 @@ la	le	DET	_
 raréfaction	raréfaction	NC	_
 de	de	P	_
 la	le	DET	_
-main-d'oeuvre	main-d'oeuvre	NC	_
+main-d'oeuvre	main-d'œuvre	NC	_
 ,	,	PONCT	_
 la	le	DET	_
 diminution	diminution	NC	_
@@ -14710,7 +14710,7 @@ naturellement	naturellement	ADV	_
 besoin	besoin	NC	_
 d'	de	P	_
 une	un	DET	_
-main-d'oeuvre	main-d'oeuvre	NC	_
+main-d'oeuvre	main-d'œuvre	NC	_
 toujours	toujours	ADV	_
 disponible	disponible	ADJ	_
 .	.	PONCT	_
@@ -14932,7 +14932,7 @@ avoir	avoir	VINF	_
 compter	compter	VINF	_
 avec	avec	P	_
 une	un	DET	_
-main-d'oeuvre	main-d'oeuvre	NC	_
+main-d'oeuvre	main-d'œuvre	NC	_
 trop	trop	ADV	_
 rare	rare	ADJ	_
 ,	,	PONCT	_
@@ -15336,7 +15336,7 @@ extraordinaire	extraordinaire	ADJ	_
 Précisément	précisément	ADV	_
 parce_que	parce_que	CS	_
 la	le	DET	_
-main-d'oeuvre	main-d'oeuvre	NC	_
+main-d'oeuvre	main-d'œuvre	NC	_
 s'	se	CLO	_
 y	y	CLO	_
 fait	faire	V	_
@@ -29789,7 +29789,7 @@ la	le	DET	_
 révolution	révolution	NC	_
 prolétarienne	prolétarien	ADJ	_
 l'	le	DET	_
-écoeurante	écoeurant	ADJ	_
+écoeurante	écœurant	ADJ	_
 et	et	CC	_
 cruelle	cruel	ADJ	_
 odeur	odeur	NC	_

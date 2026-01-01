@@ -6521,7 +6521,7 @@ les	le	DET	_
 parties	partie	NC	_
 d'	de	P	_
 un	un	DET	_
-foetus	foetus	NC	_
+foetus	fœtus	NC	_
 ou	ou	CC	_
 d'	de	P	_
 une	un	DET	_
@@ -16557,7 +16557,7 @@ une	un	DET	_
 branche	branche	NC	_
 ou	ou	CC	_
 un	un	DET	_
-foetus	foetus	NC	_
+foetus	fœtus	NC	_
 qui	qui	PROREL	_
 se	se	CLO	_
 développe	développer	V	_
@@ -16587,7 +16587,7 @@ vivant	vivant	ADJ	_
 ou	ou	CC	_
 enfin	enfin	ADV	_
 un	un	DET	_
-foetus	foetus	NC	_
+foetus	fœtus	NC	_
 enveloppé	envelopper	VPP	_
 dans	dans	P	_
 une	un	DET	_
@@ -24181,7 +24181,7 @@ branches	branche	NC	_
 qui	qui	PROREL	_
 enveloppent	envelopper	V	_
 l'	le	DET	_
-oesophage	oesophage	NC	_
+oesophage	œsophage	NC	_
 comme	comme	P	_
 un	un	DET	_
 collier	collier	NC	_
@@ -32985,7 +32985,7 @@ gestation	gestation	NC	_
 les	le	DET	_
 os	os	NC	_
 du	de_le	P+D	_
-foetus	foetus	NC	_
+foetus	fœtus	NC	_
 ne	ne	ADV	_
 sont	être	V	_
 que	que	ADV	_
@@ -36112,7 +36112,7 @@ qu'	que	CS	_
 un	un	DET	_
 os	os	NC	_
 de	de	P	_
-foetus	foetus	NC	_
+foetus	fœtus	NC	_
 ou	ou	CC	_
 d'	de	P	_
 enfant	enfant	NC	_
@@ -47476,7 +47476,7 @@ gouttière	gouttière	NC	_
 pour	pour	P	_
 loger	loger	VINF	_
 l'	le	DET	_
-oesophage	oesophage	NC	_
+oesophage	œsophage	NC	_
 dans	dans	P	_
 toutes	tout	ADJ	_
 les	le	DET	_
@@ -59951,7 +59951,7 @@ est	être	V	_
 gauche	gauche	NC	_
 passe	passer	V	_
 l'	le	DET	_
-oesophage	oesophage	NC	_
+oesophage	œsophage	NC	_
 ;	;	PONCT	_
 enfin	enfin	ADV	_
 le	le	DET	_
@@ -69181,7 +69181,7 @@ par	par	P	_
 lequel	lequel	PROREL	_
 passent	passer	V	_
 l'	le	DET	_
-oesophage	oesophage	NC	_
+oesophage	œsophage	NC	_
 ,	,	PONCT	_
 la	le	DET	_
 trachée	trachée	NC	_
@@ -135037,7 +135037,7 @@ cette	ce	DET	_
 vessie	vessie	NC	_
 dans	dans	P	_
 l'	le	DET	_
-oesophage	oesophage	NC	_
+oesophage	œsophage	NC	_
 ,	,	PONCT	_
 ou	ou	CC	_
 dans	dans	P	_

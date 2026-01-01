@@ -7358,7 +7358,7 @@ la	le	DET	_
 nature	nature	NC	_
 et	et	CC	_
 aux	à_le	P+D	_
-chefs-d'oeuvre	chef-d'oeuvre	NC	_
+chefs-d'oeuvre	chef-d'œuvre	NC	_
 des	de_le	P+D	_
 arts	art	NC	_
 .	.	PONCT	_
@@ -14081,7 +14081,7 @@ souvenirs	souvenir	NC	_
 !	!	PONCT	_
 Tous	tout	ADJ	_
 nos	notre	DET	_
-chefs-d'oeuvre	chef-d'oeuvre	NC	_
+chefs-d'oeuvre	chef-d'œuvre	NC	_
 sont	être	V	_
 l'	le	DET	_
 ouvrage	ouvrage	NC	_
@@ -23521,7 +23521,7 @@ ne	ne	ADV	_
 connaissiez	connaître	V	_
 ni	ni	CC	_
 les	le	DET	_
-chefs-d'oeuvre	chef-d'oeuvre	NC	_
+chefs-d'oeuvre	chef-d'œuvre	NC	_
 de	de	P	_
 nos	notre	DET	_
 beaux	beau	ADJ	_
@@ -25240,7 +25240,7 @@ esprit	esprit	NC	_
 humain	humain	ADJ	_
 .	.	PONCT	_
 Les	le	DET	_
-chefs-d'oeuvre	chef-d'oeuvre	NC	_
+chefs-d'oeuvre	chef-d'œuvre	NC	_
 en	en	P	_
 divers	divers	DET	_
 genres	genre	NC	_
@@ -28352,7 +28352,7 @@ et	et	CC	_
 fidèles	fidèle	ADJ	_
 copies	copie	NC	_
 des	de_le	P+D	_
-chefs-d'oeuvre	chef-d'oeuvre	NC	_
+chefs-d'oeuvre	chef-d'œuvre	NC	_
 de	de	P	_
 nos	notre	DET	_
 grands	grand	ADJ	_
@@ -28399,7 +28399,7 @@ un	un	DET	_
 monument	monument	NC	_
 où	où	PROREL	_
 les	le	DET	_
-chefs-d'oeuvre	chef-d'oeuvre	NC	_
+chefs-d'oeuvre	chef-d'œuvre	NC	_
 de	de	P	_
 l'	le	DET	_
 esprit	esprit	NC	_
@@ -28886,7 +28886,7 @@ un	un	DET	_
 cercueil	cercueil	NC	_
 par	par	P	_
 les	le	DET	_
-chefs-d'oeuvre	chef-d'oeuvre	NC	_
+chefs-d'oeuvre	chef-d'œuvre	NC	_
 du	de_le	P+D	_
 génie	génie	NC	_
 .	.	PONCT	_
@@ -29347,7 +29347,7 @@ chrétien	chrétien	ADJ	_
 de	de	P	_
 tous	tout	ADJ	_
 les	le	DET	_
-chefs-d'oeuvre	chef-d'oeuvre	NC	_
+chefs-d'oeuvre	chef-d'œuvre	NC	_
 que	que	CS	_
 les	le	DET	_
 autres	autre	ADJ	_
@@ -32244,7 +32244,7 @@ et	et	CC	_
 d'	de	P	_
 accorder	accorder	VINF	_
 aux	à_le	P+D	_
-chefs-d'oeuvre	chef-d'oeuvre	NC	_
+chefs-d'oeuvre	chef-d'œuvre	NC	_
 de	de	P	_
 l'	le	DET	_
 art	art	NC	_
@@ -34265,7 +34265,7 @@ y	y	CLO	_
 faisaient	faire	V	_
 exposer	exposer	VINF	_
 les	le	DET	_
-chefs-d'oeuvre	chef-d'oeuvre	NC	_
+chefs-d'oeuvre	chef-d'œuvre	NC	_
 de	de	P	_
 la	le	DET	_
 peinture	peinture	NC	_
@@ -34610,7 +34610,7 @@ architecture	architecture	NC	_
 que	que	CS	_
 ar	ar	NC	_
 les	le	DET	_
-chefs-d'oeuvre	chef-d'oeuvre	NC	_
+chefs-d'oeuvre	chef-d'œuvre	NC	_
 de	de	P	_
 l'	le	DET	_
 imagination	imagination	NC	_
@@ -40066,7 +40066,7 @@ on	on	CLS	_
 songe	songer	V	_
 que	que	CS	_
 les	le	DET	_
-chefs-d'oeuvre	chef-d'oeuvre	NC	_
+chefs-d'oeuvre	chef-d'œuvre	NC	_
 du	de_le	P+D	_
 génie	génie	NC	_
 humain	humain	ADJ	_
@@ -42454,7 +42454,7 @@ d'	de	P	_
 Auguste	Auguste	NP	_
 .	.	PONCT	_
 Les	le	DET	_
-chefs-d'oeuvre	chef-d'oeuvre	NC	_
+chefs-d'oeuvre	chef-d'œuvre	NC	_
 de	de	P	_
 sculpture	sculpture	NC	_
 que	que	PROREL	_
@@ -56609,7 +56609,7 @@ ballet	ballet	NC	_
 est	être	V	_
 encore	encore	ADV	_
 un	un	DET	_
-chef-d'oeuvre	chef-d'oeuvre	NC	_
+chef-d'oeuvre	chef-d'œuvre	NC	_
 de	de	P	_
 mauvais	mauvais	ADJ	_
 goût	goût	NC	_
@@ -61042,7 +61042,7 @@ scène	scène	NC	_
 De	de	P	_
 tous	tout	ADJ	_
 les	le	DET	_
-chefs-d'oeuvre	chef-d'oeuvre	NC	_
+chefs-d'oeuvre	chef-d'œuvre	NC	_
 de	de	P	_
 la	le	DET	_
 littérature	littérature	NC	_

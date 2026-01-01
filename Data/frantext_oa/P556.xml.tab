@@ -4968,7 +4968,7 @@ les	le	DET	_
 corvées	corvée	NC	_
 ,	,	PONCT	_
 la	le	DET	_
-main-d'oeuvre	main-d'oeuvre	NC	_
+main-d'oeuvre	main-d'œuvre	NC	_
 à	à	P	_
 bon	bon	ADJ	_
 marché	marché	NC	_
@@ -5021,7 +5021,7 @@ d'	de	P	_
 oeuvre	œuvre	NC	_
 ;	;	PONCT	_
 la	le	DET	_
-main-d'oeuvre	main-d'oeuvre	NC	_
+main-d'oeuvre	main-d'œuvre	NC	_
 est	être	V	_
 chère	cher	ADJ	_
 ,	,	PONCT	_
@@ -5361,7 +5361,7 @@ deniers	denier	NC	_
 comptants	comptant	ADJ	_
 .	.	PONCT	_
 La	le	DET	_
-main-d'oeuvre	main-d'oeuvre	NC	_
+main-d'oeuvre	main-d'œuvre	NC	_
 se	se	CLO	_
 perfectionne	perfectionner	V	_
 ,	,	PONCT	_
@@ -15712,7 +15712,7 @@ cheminées	cheminée	NC	_
 ,	,	PONCT	_
 reprendre	reprendre	VINF	_
 en	en	P	_
-sous-oeuvre	sous-oeuvre	NC	_
+sous-oeuvre	sous-œuvre	NC	_
 des	de_le	P+D	_
 fondations	fondation	NC	_
 ,	,	PONCT	_
@@ -16560,7 +16560,7 @@ l'	le	DET	_
 imperfection	imperfection	NC	_
 de	de	P	_
 la	le	DET	_
-main-d'oeuvre	main-d'oeuvre	NC	_
+main-d'oeuvre	main-d'œuvre	NC	_
 ,	,	PONCT	_
 des	un	DET	_
 effets	effet	NC	_
@@ -17264,7 +17264,7 @@ employée	employé	ADJ	_
 et	et	CC	_
 dans	dans	P	_
 la	le	DET	_
-main-d'oeuvre	main-d'oeuvre	NC	_
+main-d'oeuvre	main-d'œuvre	NC	_
 .	.	PONCT	_
 Tout	tout	ADJ	_
 le	le	DET	_
@@ -21072,7 +21072,7 @@ cube	cube	NC	_
 soit	soit	CC	_
 dans	dans	P	_
 la	le	DET	_
-main-d'oeuvre	main-d'oeuvre	NC	_
+main-d'oeuvre	main-d'œuvre	NC	_
 .	.	PONCT	_
 Il	il	CLS	_
 est	être	V	_
@@ -21144,7 +21144,7 @@ avec	avec	P	_
 une	un	DET	_
 plus-value	plus-value	NC	_
 de	de	P	_
-main-d'oeuvre	main-d'oeuvre	NC	_
+main-d'oeuvre	main-d'œuvre	NC	_
 .	.	PONCT	_
 Les	le	DET	_
 entrepreneurs	entrepreneur	NC	_
@@ -23040,7 +23040,7 @@ la	le	DET	_
 matière	matière	NC	_
 et	et	CC	_
 la	le	DET	_
-main-d'oeuvre	main-d'oeuvre	NC	_
+main-d'oeuvre	main-d'œuvre	NC	_
 .	.	PONCT	_
 Mais	mais	CC	_
 ,	,	PONCT	_
@@ -23661,7 +23661,7 @@ la	le	DET	_
 matière	matière	NC	_
 et	et	CC	_
 la	le	DET	_
-main-d'oeuvre	main-d'oeuvre	NC	_
+main-d'oeuvre	main-d'œuvre	NC	_
 ont	avoir	V	_
 notablement	notablement	ADV	_
 changés	changer	VPP	_
@@ -23719,7 +23719,7 @@ autre	autre	ADJ	_
 part	part	NC	_
 ,	,	PONCT	_
 la	le	DET	_
-main-d'oeuvre	main-d'oeuvre	NC	_
+main-d'oeuvre	main-d'œuvre	NC	_
 n'	ne	ADV	_
 a	avoir	V	_
 cessé	cesser	VPP	_
@@ -23733,7 +23733,7 @@ est	être	V	_
 donc	donc	ADV	_
 sur	sur	P	_
 la	le	DET	_
-main-d'oeuvre	main-d'oeuvre	NC	_
+main-d'oeuvre	main-d'œuvre	NC	_
 qu'	que	PROREL	_
 il	il	CLS	_
 faut	falloir	V	_
@@ -26067,7 +26067,7 @@ trop	trop	ADV	_
 compliqués	compliqué	ADJ	_
 ,	,	PONCT	_
 une	un	DET	_
-main-d'oeuvre	main-d'oeuvre	NC	_
+main-d'oeuvre	main-d'œuvre	NC	_
 inutile	inutile	ADJ	_
 ,	,	PONCT	_
 mais	mais	CC	_
@@ -36302,7 +36302,7 @@ le	le	DET	_
 montage	montage	NC	_
 ,	,	PONCT	_
 la	le	DET	_
-main-d'oeuvre	main-d'oeuvre	NC	_
+main-d'oeuvre	main-d'œuvre	NC	_
 et	et	CC	_
 le	le	DET	_
 temps	temps	NC	_
@@ -36326,7 +36326,7 @@ la	le	DET	_
 place	place	NC	_
 ,	,	PONCT	_
 la	le	DET	_
-main-d'oeuvre	main-d'oeuvre	NC	_
+main-d'oeuvre	main-d'œuvre	NC	_
 superflue	superflu	ADJ	_
 ,	,	PONCT	_
 comme	comme	P	_
@@ -58791,7 +58791,7 @@ parce_qu'	parce_que	CS	_
 elle	il	CLS	_
 exige	exiger	V	_
 une	un	DET	_
-main-d'oeuvre	main-d'oeuvre	NC	_
+main-d'oeuvre	main-d'œuvre	NC	_
 compliquée	compliqué	ADJ	_
 .	.	PONCT	_
 Il	il	CLS	_
@@ -93475,7 +93475,7 @@ aller	aller	VINF	_
 entendre	entendre	VINF	_
 les	le	DET	_
 quelques	quelque	DET	_
-chefs-d'oeuvre	chef-d'oeuvre	NC	_
+chefs-d'oeuvre	chef-d'œuvre	NC	_
 des	de_le	P+D	_
 Corneille	Corneille	NP	_
 et	et	CC	_
@@ -99188,7 +99188,7 @@ faire	faire	VINF	_
 produire	produire	VINF	_
 de	un	DET	_
 nouveaux	nouveau	ADJ	_
-chefs-d'oeuvre	chef-d'oeuvre	NC	_
+chefs-d'oeuvre	chef-d'œuvre	NC	_
 ...	…	PONCT	_
 isolés	isoler	VPP	_
 ,	,	PONCT	_
@@ -99301,7 +99301,7 @@ classées	classer	VPP	_
 ,	,	PONCT	_
 ou	ou	CC	_
 de	de	P	_
-chefs-d'oeuvre	chef-d'oeuvre	NC	_
+chefs-d'oeuvre	chef-d'œuvre	NC	_
 fragmentaires	fragmentaire	ADJ	_
 ,	,	PONCT	_
 les	le	DET	_
@@ -99722,7 +99722,7 @@ de	de	P	_
 statuaire	statuaire	NC	_
 comme	comme	P	_
 un	un	DET	_
-hors-d'oeuvre	hors-d'oeuvre	NC	_
+hors-d'oeuvre	hors-d'œuvre	NC	_
 ,	,	PONCT	_
 celui	celui	PRO	_
 -ci	ci	ADV	_
@@ -100788,7 +100788,7 @@ et	et	CC	_
 présentant	présenter	VPR	_
 parfois	parfois	ADV	_
 des	un	DET	_
-chefs-d'oeuvre	chef-d'oeuvre	NC	_
+chefs-d'oeuvre	chef-d'œuvre	NC	_
 d'	de	P	_
 exécution	exécution	NC	_
 noyés	noyer	VPP	_
@@ -103255,7 +103255,7 @@ parlé	parler	VPP	_
 ,	,	PONCT	_
 est	être	V	_
 un	un	DET	_
-chef-d'oeuvre	chef-d'oeuvre	NC	_
+chef-d'oeuvre	chef-d'œuvre	NC	_
 ;	;	PONCT	_
 et	et	CC	_
 les	le	DET	_
@@ -111065,7 +111065,7 @@ est	être	V	_
 pas	pas	ADV	_
 ici	ici	ADV	_
 un	un	DET	_
-hors-d'oeuvre	hors-d'oeuvre	NC	_
+hors-d'oeuvre	hors-d'œuvre	NC	_
 ,	,	PONCT	_
 un	un	DET	_
 objet	objet	NC	_
@@ -145388,7 +145388,7 @@ années	année	NC	_
 les	il	CLO	_
 replacer	replacer	VINF	_
 en	en	P	_
-sous-oeuvre	sous-oeuvre	NC	_
+sous-oeuvre	sous-œuvre	NC	_
 ;	;	PONCT	_
 ce	ce	PRO	_
 qui	qui	PROREL	_
@@ -146089,7 +146089,7 @@ et	et	CC	_
 d'	de	P	_
 une	un	DET	_
 monotonie	monotonie	NC	_
-écoeurante	écoeurant	ADJ	_
+écoeurante	écœurant	ADJ	_
 .	.	PONCT	_
 La	le	DET	_
 construction	construction	NC	_
@@ -147744,7 +147744,7 @@ devantures	devanture	NC	_
 sont	être	V	_
 -elles	il	CLS	_
 des	un	DET	_
-hors-d'oeuvre	hors-d'oeuvre	NC	_
+hors-d'oeuvre	hors-d'œuvre	NC	_
 et	et	CC	_
 ne	ne	ADV	_
 viennent	venir	V	_
@@ -154665,7 +154665,7 @@ atelier	atelier	NC	_
 on	on	CLS	_
 obtiendrait	obtenir	V	_
 une	un	DET	_
-main-d'oeuvre	main-d'oeuvre	NC	_
+main-d'oeuvre	main-d'œuvre	NC	_
 plus	plus	ADV	_
 régulière	régulier	ADJ	_
 et	et	CC	_
@@ -156008,7 +156008,7 @@ d'	de	P	_
 oeuvre	œuvre	NC	_
 ,	,	PONCT	_
 cette	ce	DET	_
-main-d'oeuvre	main-d'oeuvre	NC	_
+main-d'oeuvre	main-d'œuvre	NC	_
 est	être	V	_
 régulière	régulier	ADJ	_
 ,	,	PONCT	_
@@ -171868,7 +171868,7 @@ amélioration	amélioration	NC	_
 notable	notable	ADJ	_
 dans	dans	P	_
 la	le	DET	_
-main-d'oeuvre	main-d'oeuvre	NC	_
+main-d'oeuvre	main-d'œuvre	NC	_
 ,	,	PONCT	_
 dans	dans	P	_
 l'	le	DET	_
@@ -172148,7 +172148,7 @@ des	de_le	P+D	_
 champs	champ	NC	_
 aux	à_le	P+D	_
 parfums	parfum	NC	_
-écoeurants	écoeurant	ADJ	_
+écoeurants	écœurant	ADJ	_
 de	de	P	_
 la	le	DET	_
 serre	serre	NC	_
@@ -187509,7 +187509,7 @@ matériaux	matériau	NC	_
 et	et	CC	_
 de	de	P	_
 la	le	DET	_
-main-d'oeuvre	main-d'oeuvre	NC	_
+main-d'oeuvre	main-d'œuvre	NC	_
 ,	,	PONCT	_
 à	à	P	_
 un	un	DET	_
@@ -190099,7 +190099,7 @@ catégories	catégorie	NC	_
 :	:	PONCT	_
 matériaux	matériau	NC	_
 ,	,	PONCT	_
-main-d'oeuvre	main-d'oeuvre	NC	_
+main-d'oeuvre	main-d'œuvre	NC	_
 ,	,	PONCT	_
 faux	faux	ADJ	_
 frais	frais	NC	_
@@ -191582,7 +191582,7 @@ de	de	P	_
 matériaux	matériau	NC	_
 ,	,	PONCT	_
 en	en	P	_
-main-d'oeuvre	main-d'oeuvre	NC	_
+main-d'oeuvre	main-d'œuvre	NC	_
 et	et	CC	_
 en	en	P	_
 faux	faux	ADJ	_
@@ -193054,7 +193054,7 @@ poids	poids	NC	_
 ,	,	PONCT	_
 et	et	CC	_
 la	le	DET	_
-main-d'oeuvre	main-d'oeuvre	NC	_
+main-d'oeuvre	main-d'œuvre	NC	_
 qui	qui	PROREL	_
 compose	composer	V	_
 une	un	DET	_
@@ -199069,7 +199069,7 @@ et	et	CC	_
 cotés	coter	VPP	_
 de	de	P	_
 son	son	DET	_
-chef-d'oeuvre	chef-d'oeuvre	NC	_
+chef-d'oeuvre	chef-d'œuvre	NC	_
 ,	,	PONCT	_
 le	le	DET	_
 parthénon	parthénon	NC	_
