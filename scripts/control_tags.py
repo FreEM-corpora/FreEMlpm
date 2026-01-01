@@ -9,7 +9,7 @@ import re
 # User configuration
 # ============================================================
 
-FICHIER_TSV = "Data/presto_max_v5.5.txt"
+FICHIER_TSV = "Data/presto_max/presto_max_v5.5.txt"
 NB_EXPECTED_COLUMNS = 8
 
 # Valid entities for columns 4 and 5
