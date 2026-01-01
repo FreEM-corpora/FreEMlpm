@@ -65,6 +65,7 @@ Type:
 de	de	S	I-org	I-org.adm	O	O	_
 Gènes	Gênes	Np	I-org	I-org.adm	B-comp.name	B-loc.adm.town	_
 ```
+
 Recontrôler tous les _saint_ (Saint-Denis, etc.)
 ```console
 s'	se	Pp	O	O	O	O	_
