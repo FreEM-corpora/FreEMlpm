@@ -78,6 +78,12 @@ Catherine	Catherine	Np	I-pers	I-pers.ind	O	O	_
 guere	guère	Rn	O	O	O	O	_
 
 
+Recontrôler tous les _pays de_
+```console
+pays	pays	Nc	O	O	O	O	_
+des	de_le	S+Da	O	O	O	O	_
+```
+
 Contrôler:
 ```console
 aux	à_le	S+Da	O	O	O	O	_
