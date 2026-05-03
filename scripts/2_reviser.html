@@ -1,0 +1,746 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Révision CoNLL — Wikidata</title>
+<style>
+  *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+  :root {
+    --bg: #ffffff;
+    --bg2: #f5f5f3;
+    --bg3: #ebebea;
+    --text: #1a1a18;
+    --text2: #6b6b67;
+    --text3: #9b9b97;
+    --border: rgba(0,0,0,0.12);
+    --border2: rgba(0,0,0,0.22);
+    --blue-bg: #E6F1FB;
+    --blue-text: #0C447C;
+    --blue-mid: #185FA5;
+    --green-bg: #EAF3DE;
+    --green-text: #27500A;
+    --amber-bg: #FAEEDA;
+    --amber-text: #633806;
+    --red-bg: #FCEBEB;
+    --red-text: #791F1F;
+    --teal-bg: #E1F5EE;
+    --teal-text: #085041;
+    --purple-bg: #EEEDFE;
+    --purple-text: #3C3489;
+    --radius: 8px;
+    --radius-lg: 12px;
+  }
+
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --bg: #1c1c1a; --bg2: #272725; --bg3: #323230;
+      --text: #e8e8e4; --text2: #a0a09b; --text3: #686864;
+      --border: rgba(255,255,255,0.1); --border2: rgba(255,255,255,0.2);
+      --blue-bg: #0C447C; --blue-text: #B5D4F4;
+      --green-bg: #27500A; --green-text: #C0DD97;
+      --amber-bg: #633806; --amber-text: #FAC775;
+      --red-bg: #791F1F; --red-text: #F7C1C1;
+      --teal-bg: #085041; --teal-text: #9FE1CB;
+      --purple-bg: #3C3489; --purple-text: #CECBF6;
+    }
+  }
+
+  body { font-family: system-ui, sans-serif; font-size: 14px; color: var(--text); background: var(--bg2); line-height: 1.5; }
+
+  header { background: var(--bg); border-bottom: 0.5px solid var(--border); padding: 12px 20px; display: flex; align-items: center; justify-content: space-between; }
+  header h1 { font-size: 15px; font-weight: 500; }
+  .header-stats { display: flex; gap: 16px; font-size: 12px; color: var(--text2); }
+  .header-stat strong { color: var(--text); }
+
+  .layout { display: grid; grid-template-columns: 280px 1fr; height: calc(100vh - 49px); }
+
+  .sidebar { background: var(--bg); border-right: 0.5px solid var(--border); overflow-y: auto; }
+  .sidebar-header { padding: 10px 12px; border-bottom: 0.5px solid var(--border); display: flex; flex-direction: column; gap: 6px; }
+  .sidebar-header input { width: 100%; padding: 6px 8px; border: 0.5px solid var(--border2); border-radius: var(--radius); background: var(--bg2); color: var(--text); font-size: 12px; }
+  .sidebar-header select { width: 100%; padding: 5px 8px; border: 0.5px solid var(--border2); border-radius: var(--radius); background: var(--bg2); color: var(--text); font-size: 12px; }
+
+  .group-item { padding: 10px 12px; border-bottom: 0.5px solid var(--border); cursor: pointer; }
+  .group-item:hover { background: var(--bg2); }
+  .group-item.active { background: var(--blue-bg); }
+  .group-item .gi-text { font-weight: 500; font-size: 13px; }
+  .group-item .gi-meta { font-size: 11px; color: var(--text2); display: flex; gap: 8px; margin-top: 2px; }
+  .group-item .gi-status { font-size: 10px; padding: 1px 6px; border-radius: 4px; font-weight: 500; }
+  .status-done { background: var(--green-bg); color: var(--green-text); }
+  .status-partial { background: var(--amber-bg); color: var(--amber-text); }
+  .status-todo { background: var(--bg3); color: var(--text2); }
+  .status-ignored { background: var(--bg3); color: var(--text3); }
+  .status-impossible { background: var(--red-bg); color: var(--red-text); }
+
+  .main { overflow-y: auto; padding: 20px; display: flex; flex-direction: column; gap: 16px; }
+
+  .empty-state { text-align: center; color: var(--text2); padding: 60px 20px; }
+  .empty-state h2 { font-size: 16px; font-weight: 500; margin-bottom: 8px; }
+
+  .panel { background: var(--bg); border: 0.5px solid var(--border); border-radius: var(--radius-lg); padding: 16px; }
+  .panel-title { font-size: 13px; font-weight: 500; color: var(--text2); margin-bottom: 12px; text-transform: uppercase; letter-spacing: 0.04em; font-size: 11px; }
+
+  .entity-header { display: flex; align-items: baseline; gap: 10px; margin-bottom: 4px; }
+  .entity-text { font-size: 22px; font-weight: 500; }
+  .ner-badge { font-size: 11px; padding: 2px 8px; border-radius: 4px; font-weight: 500; }
+  .ner-loc { background: var(--teal-bg); color: var(--teal-text); }
+  .ner-pers { background: var(--purple-bg); color: var(--purple-text); }
+  .ner-time { background: var(--amber-bg); color: var(--amber-text); }
+  .ner-other { background: var(--bg3); color: var(--text2); }
+
+  .occ-count { font-size: 13px; color: var(--text2); }
+
+  .id-section { display: flex; flex-direction: column; gap: 8px; }
+  .existing-ids { display: flex; flex-wrap: wrap; gap: 6px; }
+  .id-chip { display: flex; align-items: center; gap: 6px; padding: 4px 10px; border-radius: var(--radius); border: 0.5px solid var(--border2); font-size: 12px; background: var(--bg2); cursor: pointer; }
+  .id-chip:hover { background: var(--blue-bg); border-color: var(--blue-mid); }
+  .id-chip .qid { font-family: monospace; font-weight: 500; }
+  .id-chip .cnt { color: var(--text2); font-size: 11px; }
+
+  .search-row { display: flex; gap: 6px; }
+  .search-row input { flex: 1; padding: 7px 10px; border: 0.5px solid var(--border2); border-radius: var(--radius); background: var(--bg); color: var(--text); font-size: 13px; }
+  .btn { padding: 7px 14px; border: 0.5px solid var(--border2); border-radius: var(--radius); background: var(--bg); color: var(--text); font-size: 13px; cursor: pointer; white-space: nowrap; }
+  .btn:hover { background: var(--bg2); }
+  .btn-primary { background: var(--blue-mid); color: #E6F1FB; border-color: var(--blue-mid); }
+  .btn-primary:hover { background: var(--blue-text); }
+  .btn-success { background: var(--green-bg); color: var(--green-text); border-color: var(--green-text); }
+  .btn-danger { background: var(--red-bg); color: var(--red-text); border-color: var(--red-text); }
+
+  .results-list { border: 0.5px solid var(--border); border-radius: var(--radius); overflow: hidden; }
+  .result-item { padding: 8px 12px; cursor: pointer; border-bottom: 0.5px solid var(--border); display: flex; justify-content: space-between; align-items: center; }
+  .result-item:last-child { border-bottom: none; }
+  .result-item:hover { background: var(--blue-bg); }
+  .result-label { font-weight: 500; font-size: 13px; }
+  .result-qid { font-family: monospace; font-size: 11px; color: var(--text2); }
+  .result-desc { font-size: 11px; color: var(--text2); margin-top: 2px; }
+
+  .occurrences-list { display: flex; flex-direction: column; gap: 8px; }
+  .occ-card { border: 0.5px solid var(--border); border-radius: var(--radius); padding: 10px 12px; }
+  .occ-card.has-id { border-left: 3px solid #1D9E75; }
+  .occ-card.no-id { border-left: 3px solid var(--border2); }
+  .occ-context { font-size: 13px; line-height: 1.7; font-family: Georgia, serif; color: var(--text2); }
+  .occ-entity { color: var(--text); font-weight: 500; background: var(--blue-bg); padding: 0 3px; border-radius: 3px; }
+  .occ-footer { display: flex; justify-content: space-between; align-items: center; margin-top: 8px; font-size: 11px; color: var(--text3); }
+  .occ-id { font-family: monospace; font-size: 11px; color: var(--text2); }
+
+  .decision-bar { display: flex; gap: 8px; flex-wrap: wrap; }
+  .manual-row { display: flex; gap: 6px; margin-top: 6px; }
+  .manual-row input { flex: 1; padding: 6px 10px; border: 0.5px solid var(--border2); border-radius: var(--radius); background: var(--bg); color: var(--text); font-size: 12px; font-family: monospace; }
+
+  .progress-bar { height: 3px; background: var(--bg3); border-radius: 2px; margin-top: 6px; }
+  .progress-fill { height: 100%; background: var(--blue-mid); border-radius: 2px; transition: width 0.3s; }
+
+  .load-screen { display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100vh; gap: 16px; }
+  .load-screen h1 { font-size: 18px; font-weight: 500; }
+  .load-screen p { color: var(--text2); font-size: 13px; }
+  .load-screen input[type=file] { display: none; }
+  .file-label { padding: 10px 20px; background: var(--blue-mid); color: #E6F1FB; border-radius: var(--radius); cursor: pointer; font-size: 14px; }
+
+  .toast { position: fixed; bottom: 20px; right: 20px; background: var(--text); color: var(--bg); padding: 10px 16px; border-radius: var(--radius); font-size: 13px; opacity: 0; transition: opacity 0.2s; pointer-events: none; z-index: 100; }
+  .toast.show { opacity: 1; }
+
+  .corrections-count { font-size: 11px; background: var(--blue-bg); color: var(--blue-text); padding: 2px 8px; border-radius: 10px; font-weight: 500; }
+
+  .wiki-snippet { display: flex; gap: 12px; align-items: flex-start; }
+  .wiki-thumb { width: 64px; height: 64px; object-fit: cover; border-radius: 6px; flex-shrink: 0; background: var(--bg3); }
+  .wiki-thumb-placeholder { width: 64px; height: 64px; border-radius: 6px; flex-shrink: 0; background: var(--bg3); display: flex; align-items: center; justify-content: center; font-size: 22px; color: var(--text3); }
+  .wiki-body { flex: 1; min-width: 0; }
+  .wiki-title { font-weight: 500; font-size: 14px; margin-bottom: 3px; }
+  .wiki-extract { font-size: 12px; color: var(--text2); line-height: 1.6; }
+  .wiki-link { font-size: 11px; color: var(--blue-mid); text-decoration: none; margin-top: 4px; display: inline-block; }
+  .wiki-link:hover { text-decoration: underline; }
+  .wiki-loading { font-size: 12px; color: var(--text3); font-style: italic; }
+</style>
+</head>
+<body>
+
+<div id="load-screen" class="load-screen">
+  <h1>Révision CoNLL — Wikidata</h1>
+  <p>Charge le fichier <code>rapport.json</code> produit par <code>1_analyser.py</code></p>
+  <label class="file-label" for="file-input">Charger rapport.json</label>
+  <input type="file" id="file-input" accept=".json">
+  <p style="font-size:11px; color: var(--text3);">Le fichier reste sur ton ordinateur, rien n'est envoyé.</p>
+</div>
+
+<div id="app" style="display:none;">
+  <header>
+    <div style="display:flex; align-items:center; gap:12px;">
+      <h1 id="header-title">Révision CoNLL</h1>
+      <span class="corrections-count" id="corrections-count">0 corrections</span>
+    </div>
+    <div class="header-stats">
+      <span><strong id="stat-total">0</strong> groupes</span>
+      <span><strong id="stat-done">0</strong> traités</span>
+      <span><strong id="stat-todo">0</strong> restants</span>
+    </div>
+    <div style="display:flex; gap:8px;">
+      <button class="btn" onclick="resetCorrections()" style="color:var(--red-text);">Repartir de zéro</button>
+      <button class="btn" onclick="exportCorrections()">Exporter corrections.json</button>
+    </div>
+  </header>
+
+  <div class="progress-bar" style="border-radius:0;">
+    <div class="progress-fill" id="progress-fill" style="width:0%"></div>
+  </div>
+
+  <div class="layout">
+    <div class="sidebar">
+      <div class="sidebar-header">
+        <input type="text" id="search-groups" placeholder="Rechercher une entité..." oninput="filterGroups()">
+        <select id="filter-status" onchange="filterGroups()">
+          <option value="all">Tous les groupes</option>
+          <option value="todo">À traiter</option>
+          <option value="done">Traités</option>
+          <option value="ignored">À revoir</option>
+          <option value="impossible">Impossibles</option>
+        </select>
+      </div>
+      <div id="group-list"></div>
+    </div>
+
+    <div class="main" id="main-panel">
+      <div class="empty-state">
+        <h2>Sélectionne un groupe</h2>
+        <p>Clique sur une entité dans la liste de gauche pour commencer la révision.</p>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="toast" id="toast"></div>
+
+<script>
+let rapport = null;
+let groups = [];
+let corrections = {};
+let currentGroupIdx = null;
+let searchResults = [];
+
+document.getElementById('file-input').addEventListener('change', e => {
+  const file = e.target.files[0];
+  if (!file) return;
+  const reader = new FileReader();
+  reader.onload = ev => {
+    try {
+      rapport = JSON.parse(ev.target.result);
+      groups = rapport.groups || [];
+      loadSavedCorrections();
+      initApp();
+    } catch(err) {
+      alert('Erreur de lecture du JSON : ' + err.message);
+    }
+  };
+  reader.readAsText(file);
+});
+
+function loadSavedCorrections() {
+  try {
+    const key = 'conll_corrections_' + (rapport.meta?.rapport_id || rapport.meta?.source_file || 'default');
+    const saved = localStorage.getItem(key);
+    if (saved) {
+      corrections = JSON.parse(saved);
+      const n = Object.keys(corrections).length;
+      if (n > 0) showToast(`${n} correction(s) précédente(s) rechargée(s)`);
+    }
+  } catch(e) {}
+}
+
+function saveCorrections() {
+  try {
+    const key = 'conll_corrections_' + (rapport.meta?.rapport_id || rapport.meta?.source_file || 'default');
+    localStorage.setItem(key, JSON.stringify(corrections));
+  } catch(e) {}
+}
+
+function resetCorrections() {
+  if (!confirm('Effacer toutes les corrections en cours pour ce rapport ? Cette action est irréversible.')) return;
+  const key = 'conll_corrections_' + (rapport.meta?.rapport_id || rapport.meta?.source_file || 'default');
+  localStorage.removeItem(key);
+  corrections = {};
+  updateStats();
+  renderMainPanel();
+  renderGroupList(
+    document.getElementById('search-groups').value.toLowerCase(),
+    document.getElementById('filter-status').value
+  );
+  showToast('Corrections effacées');
+}
+
+function initApp() {
+  document.getElementById('load-screen').style.display = 'none';
+  document.getElementById('app').style.display = 'block';
+  document.getElementById('header-title').textContent = rapport.meta?.source_file || 'Corpus';
+  updateStats();
+  renderGroupList();
+}
+
+function groupStatus(g) {
+  const corr = corrections[g.group_id];
+  if (corr?.impossible) return 'impossible';
+  if (corr?.ignored) return 'ignored';
+  if (corr?.wikidata) return 'done';
+  if (Object.keys(g.existing_ids).length > 0) return 'partial';
+  return 'todo';
+}
+
+function updateStats() {
+  const total = groups.length;
+  const done = groups.filter(g => groupStatus(g) === 'done').length;
+  const ignored = groups.filter(g => groupStatus(g) === 'ignored').length;
+  const impossible = groups.filter(g => groupStatus(g) === 'impossible').length;
+  document.getElementById('stat-total').textContent = total;
+  document.getElementById('stat-done').textContent = done;
+  document.getElementById('stat-todo').textContent = total - done - ignored - impossible;
+  document.getElementById('corrections-count').textContent = Object.keys(corrections).length + ' décisions';
+  const pct = total > 0 ? Math.round((done + ignored + impossible) / total * 100) : 0;
+  document.getElementById('progress-fill').style.width = pct + '%';
+}
+
+function filterGroups() {
+  const q = document.getElementById('search-groups').value.toLowerCase();
+  const f = document.getElementById('filter-status').value;
+  renderGroupList(q, f);
+}
+
+// Ordre de priorité pour le tri : todo/partial en haut, impossible/ignored/done en bas
+const STATUS_ORDER = { todo: 0, partial: 0, impossible: 1, ignored: 2, done: 3 };
+
+function renderGroupList(q = '', f = 'all') {
+  const list = document.getElementById('group-list');
+  list.innerHTML = '';
+
+  const TYPES_SANS_ID = ['time', 'amount'];
+
+  const visible = groups
+    .map((g, idx) => ({g, idx}))
+    .filter(({g}) => {
+      if (TYPES_SANS_ID.some(t => g.ner_type.toLowerCase().includes(t)) && Object.keys(g.existing_ids).length === 0) return false;
+      const status = groupStatus(g);
+      if (f !== 'all' && f !== status && !(f === 'todo' && status === 'partial')) return false;
+      if (q && !g.text_display.toLowerCase().includes(q) && !g.ner_type.toLowerCase().includes(q)) return false;
+      return true;
+    })
+    .sort((a, b) => {
+      const sa = STATUS_ORDER[groupStatus(a.g)] ?? 0;
+      const sb = STATUS_ORDER[groupStatus(b.g)] ?? 0;
+      if (sa !== sb) return sa - sb;
+      return b.g.total_occurrences - a.g.total_occurrences;
+    });
+
+  visible.forEach(({g, idx}) => {
+    const status = groupStatus(g);
+
+    const div = document.createElement('div');
+    div.className = 'group-item' + (idx === currentGroupIdx ? ' active' : '');
+    div.onclick = () => selectGroup(idx);
+
+    const statusLabel = {done:'traité', partial:'ID existant', todo:'à traiter', ignored:'à revoir', impossible:'impossible'}[status];
+    const statusClass = {done:'status-done', partial:'status-partial', todo:'status-todo', ignored:'status-ignored', impossible:'status-impossible'}[status];
+
+    div.innerHTML = `
+      <div style="display:flex; justify-content:space-between; align-items:baseline;">
+        <span class="gi-text">${esc(g.text_display)}</span>
+        <span class="gi-status ${statusClass}">${statusLabel}</span>
+      </div>
+      <div class="gi-meta">
+        <span>${nerLabel(g.ner_type)}</span>
+        <span>${g.total_occurrences} occ.</span>
+        ${Object.keys(g.existing_ids).length ? '<span>' + Object.keys(g.existing_ids).join(', ') + '</span>' : ''}
+      </div>
+    `;
+    list.appendChild(div);
+  });
+}
+
+
+function nerLabel(t) {
+  if (!t) return '?';
+  if (t.includes('loc')) return 'lieu';
+  if (t.includes('pers')) return 'personne';
+  if (t.includes('time')) return 'date/temps';
+  return t;
+}
+
+function nerClass(t) {
+  if (!t) return 'ner-other';
+  if (t.includes('loc')) return 'ner-loc';
+  if (t.includes('pers')) return 'ner-pers';
+  if (t.includes('time')) return 'ner-time';
+  return 'ner-other';
+}
+
+function selectGroup(idx) {
+  currentGroupIdx = idx;
+  renderGroupList(
+    document.getElementById('search-groups').value.toLowerCase(),
+    document.getElementById('filter-status').value
+  );
+  renderMainPanel();
+}
+
+function renderMainPanel() {
+  const g = groups[currentGroupIdx];
+  if (!g) return;
+  const corr = corrections[g.group_id] || {};
+  const currentId = corr.wikidata || '';
+  const existingIds = g.existing_ids || {};
+
+  const main = document.getElementById('main-panel');
+
+  let existingHtml = '';
+  if (Object.keys(existingIds).length > 0) {
+    existingHtml = `
+      <div class="panel">
+        <div class="panel-title">IDs déjà présents dans le corpus</div>
+        <div class="existing-ids">
+          ${Object.entries(existingIds).sort((a,b) => b[1]-a[1]).map(([qid, cnt]) => `
+            <div class="id-chip" onclick="selectId('${esc(qid)}', '${esc(g.group_id)}')">
+              <span class="qid">${esc(qid)}</span>
+              <span class="cnt">${cnt}×</span>
+              <a href="https://www.wikidata.org/wiki/${esc(qid)}" target="_blank" onclick="event.stopPropagation()" style="color:var(--text3); font-size:10px;">↗</a>
+              <span style="font-size:10px; color:var(--blue-mid); border-left:0.5px solid var(--border2); padding-left:6px; margin-left:2px;">✓ Valider</span>
+            </div>
+          `).join('')}
+        </div>
+        <div style="font-size:11px; color:var(--text2); margin-top:8px;">Clique sur un ID pour le valider comme correction de référence pour tout le groupe.</div>
+      </div>
+    `;
+  }
+
+  const corrId = corr.ignored ? '— ignoré —' : (corr.wikidata ? corr.wikidata : '');
+  const activeId = corr.wikidata || (Object.keys(existingIds).length === 1 ? Object.keys(existingIds)[0] : '');
+
+  const occsHtml = g.occurrences.slice(0, 30).map(occ => {
+    const wdDisplay = occ.current_wikidata !== '_' ? occ.current_wikidata : '';
+    return `
+      <div class="occ-card ${wdDisplay ? 'has-id' : 'no-id'}">
+        <div class="occ-context">
+          ${esc(occ.context_before)} <span class="occ-entity">${esc(occ.token_text)}</span> ${esc(occ.context_after)}
+        </div>
+        <div class="occ-footer">
+          <span>ligne ${occ.line_start + 1}</span>
+          <span class="occ-id">${wdDisplay ? wdDisplay : '—'}</span>
+        </div>
+      </div>
+    `;
+  }).join('');
+
+  const moreOccs = g.total_occurrences > 30
+    ? `<div style="text-align:center; font-size:12px; color:var(--text2); padding:8px;">${g.total_occurrences - 30} occurrences supplémentaires non affichées</div>`
+    : '';
+
+  main.innerHTML = `
+    <div class="panel">
+      <div class="entity-header">
+        <span class="entity-text">${esc(g.text_display)}</span>
+        <span class="ner-badge ${nerClass(g.ner_type)}">${nerLabel(g.ner_type)}</span>
+      </div>
+      <div class="occ-count">${g.total_occurrences} occurrence${g.total_occurrences > 1 ? 's' : ''} dans le corpus</div>
+      ${corrId ? `<div style="margin-top:8px; font-size:13px;">ID actuel : <span style="font-family:monospace; font-weight:500;">${esc(corrId)}</span></div>` : ''}
+    </div>
+
+    ${existingHtml}
+
+    <div class="panel">
+      <div class="panel-title">Recherche Wikidata</div>
+      <div class="search-row">
+        <input type="text" id="wd-search" placeholder="Rechercher..." value="${esc(g.text_display)}">
+        <button class="btn btn-primary" onclick="searchWikidata()">Chercher</button>
+      </div>
+      <div id="wd-results" style="margin-top:8px;"></div>
+      <div class="manual-row" style="margin-top:10px;">
+        <input type="text" id="manual-qid" placeholder="ID manuel (ex: Q90)">
+        <button class="btn" onclick="applyManual()">Appliquer</button>
+      </div>
+    </div>
+
+    <div class="panel" id="wiki-panel" style="${activeId ? '' : 'display:none;'}">
+      <div class="panel-title">Aperçu Wikipedia</div>
+      <div id="wiki-content" class="wiki-loading">Chargement…</div>
+    </div>
+
+    <div class="panel">
+      <div class="panel-title">Décision pour ce groupe</div>
+      <div class="decision-bar">
+        ${corr.wikidata ? `<button class="btn btn-success" disabled>✓ ${esc(corr.wikidata)} appliqué</button>` : ''}
+        <button class="btn ${corr.ignored ? 'btn-danger' : ''}" onclick="ignoreGroup()">
+          ${corr.ignored ? '↩ Réactiver' : '⏸ À revoir'}
+        </button>
+        <button class="btn ${corr.impossible ? 'btn-danger' : ''}" onclick="markImpossible()">
+          ${corr.impossible ? '↩ Réactiver' : '✗ Impossible'}
+        </button>
+        ${corr.wikidata || corr.ignored || corr.impossible ? `<button class="btn" onclick="clearGroup()">Effacer la décision</button>` : ''}
+        <button class="btn" onclick="nextGroup()">Groupe suivant →</button>
+      </div>
+      ${corr.impossible ? `<div style="font-size:11px; color:var(--red-text); margin-top:8px;">Marqué comme non référençable (personnage fictif, entité sans QID possible…)</div>` : ''}
+      ${corr.ignored ? `<div style="font-size:11px; color:var(--text2); margin-top:8px;">Marqué à revoir ultérieurement.</div>` : ''}
+    </div>
+
+    <div class="panel">
+      <div class="panel-title">Contextes (${Math.min(g.total_occurrences, 30)} affichés)</div>
+      <div class="occurrences-list">
+        ${occsHtml}
+        ${moreOccs}
+      </div>
+    </div>
+  `;
+
+  document.getElementById('wd-search').addEventListener('keydown', e => {
+    if (e.key === 'Enter') searchWikidata();
+  });
+
+  if (activeId) loadWikipediaSnippet(activeId);
+}
+
+async function loadWikipediaSnippet(qid) {
+  const panel = document.getElementById('wiki-panel');
+  const content = document.getElementById('wiki-content');
+  if (!panel || !content) return;
+  panel.style.display = '';
+  content.className = 'wiki-loading';
+  content.textContent = 'Chargement…';
+
+  try {
+    // 1. Récupérer le titre Wikipedia FR depuis Wikidata
+    const wdUrl = `https://www.wikidata.org/w/api.php?action=wbgetentities&ids=${encodeURIComponent(qid)}&props=sitelinks&sitefilter=frwiki&format=json&origin=*`;
+    const wdRes = await fetch(wdUrl);
+    const wdData = await wdRes.json();
+    const sitelinks = wdData.entities?.[qid]?.sitelinks;
+    const frTitle = sitelinks?.frwiki?.title;
+
+    if (!frTitle) {
+      // Pas d'article FR — essayer EN
+      const wdEnUrl = `https://www.wikidata.org/w/api.php?action=wbgetentities&ids=${encodeURIComponent(qid)}&props=sitelinks&sitefilter=enwiki&format=json&origin=*`;
+      const wdEnRes = await fetch(wdEnUrl);
+      const wdEnData = await wdEnRes.json();
+      const enTitle = wdEnData.entities?.[qid]?.sitelinks?.enwiki?.title;
+      if (!enTitle) {
+        content.className = 'wiki-extract';
+        content.textContent = 'Aucun article Wikipedia pour cet identifiant.';
+        return;
+      }
+      await fetchAndRenderWikiSnippet(enTitle, qid, 'en');
+      return;
+    }
+
+    await fetchAndRenderWikiSnippet(frTitle, qid, 'fr');
+
+  } catch(e) {
+    if (content) {
+      content.className = 'wiki-extract';
+      content.textContent = 'Erreur réseau lors du chargement de l\'aperçu.';
+    }
+  }
+}
+
+async function fetchAndRenderWikiSnippet(title, qid, lang) {
+  const content = document.getElementById('wiki-content');
+  if (!content) return;
+  const apiUrl = `https://${lang}.wikipedia.org/api/rest_v1/page/summary/${encodeURIComponent(title)}`;
+  const res = await fetch(apiUrl);
+  if (!res.ok) {
+    content.className = 'wiki-extract';
+    content.textContent = 'Article introuvable sur Wikipedia.';
+    return;
+  }
+  const data = await res.json();
+  const extract = data.extract || '';
+  const thumb = data.thumbnail?.source || '';
+  const pageUrl = data.content_urls?.desktop?.page || `https://${lang}.wikipedia.org/wiki/${encodeURIComponent(title)}`;
+  const langLabel = lang === 'fr' ? '' : ' (en anglais)';
+
+  content.className = '';
+  content.innerHTML = `
+    <div class="wiki-snippet">
+      ${thumb
+        ? `<img class="wiki-thumb" src="${esc(thumb)}" alt="">`
+        : `<div class="wiki-thumb-placeholder">📖</div>`}
+      <div class="wiki-body">
+        <div class="wiki-title">${esc(data.title || title)}${langLabel}</div>
+        <div class="wiki-extract">${esc(extract.slice(0, 300))}${extract.length > 300 ? '…' : ''}</div>
+        <a class="wiki-link" href="${esc(pageUrl)}" target="_blank">Lire l'article complet ↗</a>
+      </div>
+    </div>
+  `;
+}
+
+function selectId(qid, groupId) {
+  const g = groups[currentGroupIdx];
+  if (!g || g.group_id !== groupId) return;
+
+  // Logique restrictive :
+  // - Si le groupe est homogène (toutes les occurrences ont _ ou toutes ont déjà qid) → on touche tout
+  // - Si le groupe est mixte → on ne touche que les occurrences qui ont déjà exactement qid, ou _ si toutes les _ peuvent recevoir qid sans conflit
+  const hasConflict = g.occurrences.some(o => o.current_wikidata !== '_' && o.current_wikidata !== qid);
+
+  const eligibleOccs = g.occurrences.filter(o => {
+    if (o.current_wikidata === qid) return true;       // déjà cet ID → confirmer
+    if (o.current_wikidata === '_' && !hasConflict) return true;  // sans ID et pas de conflit → assigner
+    return false;                                       // autre ID → ne pas toucher
+  });
+
+  const skipped = g.occurrences.length - eligibleOccs.length;
+
+  corrections[g.group_id] = {
+    wikidata: qid,
+    group_id: g.group_id,
+    text: g.text_display,
+    ner_type: g.ner_type,
+    skipped_count: skipped,
+    occurrences: eligibleOccs.map(o => ({
+      occurrence_id: o.occurrence_id,
+      line_start: o.line_start,
+      line_end: o.line_end,
+      old_wikidata: o.current_wikidata,
+      new_wikidata: qid,
+      entity_text: o.token_text,
+      ner_type: g.ner_type
+    }))
+  };
+  saveCorrections();
+  updateStats();
+  renderMainPanel();
+  renderGroupList(
+    document.getElementById('search-groups').value.toLowerCase(),
+    document.getElementById('filter-status').value
+  );
+  const msg = skipped > 0
+    ? `${qid} appliqué à ${eligibleOccs.length} occ. — ${skipped} ignorée(s) (ID différent)`
+    : `${qid} appliqué à ${eligibleOccs.length} occurrence(s)`;
+  showToast(msg);
+}
+
+async function searchWikidata() {
+  const q = document.getElementById('wd-search').value.trim();
+  if (!q) return;
+  const div = document.getElementById('wd-results');
+  div.innerHTML = '<div style="font-size:12px; color:var(--text2); padding:6px 0;">Recherche...</div>';
+  try {
+    const url = `https://www.wikidata.org/w/api.php?action=wbsearchentities&search=${encodeURIComponent(q)}&language=fr&limit=8&format=json&origin=*`;
+    const res = await fetch(url);
+    const data = await res.json();
+    searchResults = data.search || [];
+    if (!searchResults.length) {
+      div.innerHTML = '<div style="font-size:12px; color:var(--text2); padding:6px 0;">Aucun résultat.</div>';
+      return;
+    }
+    div.innerHTML = `<div class="results-list">${searchResults.map(r => `
+      <div class="result-item" onclick="selectId('${esc(r.id)}', '${esc(groups[currentGroupIdx].group_id)}')">
+        <div>
+          <div class="result-label">${esc(r.label||r.id)} <span class="result-qid">${esc(r.id)}</span></div>
+          <div class="result-desc">${esc(r.description||'')}</div>
+        </div>
+        <a href="https://www.wikidata.org/wiki/${esc(r.id)}" target="_blank" onclick="event.stopPropagation()" style="font-size:11px; color:var(--text3); margin-left:8px;">↗ WD</a>
+      </div>
+    `).join('')}</div>`;
+  } catch(e) {
+    div.innerHTML = '<div style="font-size:12px; color:var(--red-text); padding:6px 0;">Erreur réseau.</div>';
+  }
+}
+
+function applyManual() {
+  const qid = document.getElementById('manual-qid').value.trim().toUpperCase();
+  if (!qid || !qid.startsWith('Q')) { showToast('Format invalide — ex: Q90'); return; }
+  selectId(qid, groups[currentGroupIdx].group_id);
+}
+
+function ignoreGroup() {
+  const g = groups[currentGroupIdx];
+  const corr = corrections[g.group_id] || {};
+  if (corr.ignored) {
+    delete corrections[g.group_id];
+  } else {
+    corrections[g.group_id] = { ignored: true, group_id: g.group_id, text: g.text_display };
+  }
+  saveCorrections();
+  updateStats();
+  renderMainPanel();
+  renderGroupList(
+    document.getElementById('search-groups').value.toLowerCase(),
+    document.getElementById('filter-status').value
+  );
+}
+
+function markImpossible() {
+  const g = groups[currentGroupIdx];
+  const corr = corrections[g.group_id] || {};
+  if (corr.impossible) {
+    delete corrections[g.group_id];
+  } else {
+    corrections[g.group_id] = { impossible: true, group_id: g.group_id, text: g.text_display };
+  }
+  saveCorrections();
+  updateStats();
+  renderMainPanel();
+  renderGroupList(
+    document.getElementById('search-groups').value.toLowerCase(),
+    document.getElementById('filter-status').value
+  );
+}
+
+function clearGroup() {
+  const g = groups[currentGroupIdx];
+  delete corrections[g.group_id];
+  saveCorrections();
+  updateStats();
+  renderMainPanel();
+  renderGroupList(
+    document.getElementById('search-groups').value.toLowerCase(),
+    document.getElementById('filter-status').value
+  );
+}
+
+function nextGroup() {
+  const f = document.getElementById('filter-status').value;
+  const q = document.getElementById('search-groups').value.toLowerCase();
+  const visible = groups
+    .map((g, i) => ({g, i}))
+    .filter(({g}) => {
+      const status = groupStatus(g);
+      if (f !== 'all' && f !== status && !(f === 'todo' && status === 'partial')) return false;
+      if (q && !g.text_display.toLowerCase().includes(q) && !g.ner_type.toLowerCase().includes(q)) return false;
+      return true;
+    });
+  const cur = visible.findIndex(({i}) => i === currentGroupIdx);
+  const next = visible[cur + 1];
+  if (next) selectGroup(next.i);
+}
+
+function exportCorrections() {
+  const allCorrs = [];
+  Object.values(corrections).forEach(c => {
+    if (c.ignored || !c.occurrences) return;
+    c.occurrences.forEach(o => allCorrs.push(o));
+  });
+  const data = {
+    meta: {
+      exported_at: new Date().toISOString(),
+      source_file: rapport.meta?.source_file || '',
+      total_corrections: allCorrs.length,
+      groups_corrected: Object.values(corrections).filter(c => !c.ignored && c.wikidata).length,
+      groups_ignored: Object.values(corrections).filter(c => c.ignored).length,
+    },
+    corrections: allCorrs
+  };
+  const blob = new Blob([JSON.stringify(data, null, 2)], {type: 'application/json'});
+  const a = document.createElement('a');
+  a.href = URL.createObjectURL(blob);
+  a.download = 'corrections.json';
+  a.click();
+  showToast(allCorrs.length + ' corrections exportées');
+}
+
+function esc(s) {
+  return String(s || '').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;').replace(/'/g,'&#39;');
+}
+
+function showToast(msg) {
+  const t = document.getElementById('toast');
+  t.textContent = msg;
+  t.classList.add('show');
+  setTimeout(() => t.classList.remove('show'), 2000);
+}
+</script>
+</body>
+</html>
