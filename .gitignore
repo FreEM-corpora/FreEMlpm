@@ -7,3 +7,6 @@ Data/notes_NER2.txt
 Models/Train_2/
 _DOC/
 _OLD/
+corpus_corrige_log.json
+corrections.json
+rapport.json
