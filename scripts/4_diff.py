@@ -93,6 +93,8 @@ def compute_diff(source_path: str, corrige_path: str) -> dict:
                 "ner2": s_cols[4],
                 "old_id": s_wikidata,
                 "new_id": c_wikidata,
+                "raw_source": "\t".join(s_cols),
+                "raw_corrige": "\t".join(c_cols),
             })
         else:
             unchanged += 1
@@ -136,6 +138,8 @@ def group_into_spans(changes: list[dict]) -> list[dict]:
                 "ner_type": ch["ner1"] if ch["ner1"] != "O" else ch["ner2"],
                 "old_id": ch["old_id"],
                 "new_id": ch["new_id"],
+                "lines_source": [ch["raw_source"]],
+                "lines_corrige": [ch["raw_corrige"]],
             }
         elif (
             ch["line"] == current["line_end"] + 1
@@ -144,6 +148,8 @@ def group_into_spans(changes: list[dict]) -> list[dict]:
         ):
             current["line_end"] = ch["line"]
             current["tokens"].append(ch["token"])
+            current["lines_source"].append(ch["raw_source"])
+            current["lines_corrige"].append(ch["raw_corrige"])
         else:
             current["entity_text"] = " ".join(current["tokens"])
             spans.append(current)
@@ -154,6 +160,8 @@ def group_into_spans(changes: list[dict]) -> list[dict]:
                 "ner_type": ch["ner1"] if ch["ner1"] != "O" else ch["ner2"],
                 "old_id": ch["old_id"],
                 "new_id": ch["new_id"],
+                "lines_source": [ch["raw_source"]],
+                "lines_corrige": [ch["raw_corrige"]],
             }
 
     if current:
@@ -167,155 +175,142 @@ def group_into_spans(changes: list[dict]) -> list[dict]:
 # Rapport HTML
 # ---------------------------------------------------------------------------
 
+def esc(s: str) -> str:
+    return str(s).replace("&","&amp;").replace("<","&lt;").replace(">","&gt;").replace('"',"&quot;")
+
+
+def render_span(sp: dict) -> str:
+    line_range = str(sp['line_start']) if sp['line_start'] == sp['line_end'] else f"{sp['line_start']}–{sp['line_end']}"
+    source_lines = "".join(
+        f'<div class="diff-line diff-del"><span class="diff-marker">−</span><span class="diff-code">{esc(l)}</span></div>'
+        for l in sp["lines_source"]
+    )
+    corrige_lines = "".join(
+        f'<div class="diff-line diff-add"><span class="diff-marker">+</span><span class="diff-code">{esc(l)}</span></div>'
+        for l in sp["lines_corrige"]
+    )
+    return f"""<div class="span-block">
+      <div class="span-header">
+        <span class="span-entity">{esc(sp['entity_text'])}</span>
+        <span class="span-ner">{esc(sp.get('ner_type',''))}</span>
+        <span class="span-ids"><span class="id-old">{esc(sp['old_id'])}</span> → <span class="id-new">{esc(sp['new_id'])}</span></span>
+        <span class="span-line">ligne {line_range}</span>
+      </div>
+      <div class="diff-block">{source_lines}{corrige_lines}</div>
+    </div>"""
+
+
 def write_html(diff: dict, output_path: str):
     stats = diff["stats"]
     spans = diff["spans"]
     anomalies = diff["anomalies"]
 
-    # Regrouper les spans par (old_id → new_id)
     by_change = defaultdict(list)
     for sp in spans:
-        key = (sp["old_id"], sp["new_id"])
-        by_change[key].append(sp)
+        by_change[(sp["old_id"], sp["new_id"])].append(sp)
 
-    # Trier : nouvelles assignations en premier, puis corrections d'ID
     def sort_key(item):
         (old, new), sps = item
-        if old == "_":
-            return (0, -len(sps))
-        return (1, -len(sps))
+        return (0 if old == "_" else 1, -len(sps))
 
-    sorted_changes = sorted(by_change.items(), key=sort_key)
-
-    # Générer les sections HTML
     sections_html = ""
-    for (old_id, new_id), sps in sorted_changes:
+    for (old_id, new_id), sps in sorted(by_change.items(), key=sort_key):
         change_type = "Nouvel ID assigné" if old_id == "_" else "ID corrigé"
-        arrow = f'<span class="id-old">{old_id}</span> → <span class="id-new">{new_id}</span>'
-        rows = "".join(f"""
-            <tr>
-                <td class="mono">{sp['line_start']}{f"–{sp['line_end']}" if sp['line_end'] != sp['line_start'] else ''}</td>
-                <td><strong>{sp['entity_text']}</strong></td>
-                <td class="ner">{sp.get('ner_type','')}</td>
-            </tr>
-        """ for sp in sps)
-        more = ""
-
-        sections_html += f"""
-        <div class="change-block">
-            <div class="change-header">
-                <span class="change-type">{change_type}</span>
-                <span class="change-arrow">{arrow}</span>
-                <span class="change-count">{len(sps)} entité(s)</span>
-            </div>
-            <table class="change-table">
-                <thead><tr><th>Ligne(s)</th><th>Entité</th><th>Type NER</th></tr></thead>
-                <tbody>{rows}{more}</tbody>
-            </table>
-        </div>
-        """
+        spans_html = "".join(render_span(sp) for sp in sps)
+        sections_html += f"""<section>
+      <div class="section-header">
+        <span class="change-type">{change_type}</span>
+        <span class="change-arrow"><span class="id-old">{esc(old_id)}</span> → <span class="id-new">{esc(new_id)}</span></span>
+        <span class="change-count">{len(sps)} entité(s)</span>
+      </div>
+      {spans_html}
+    </section>"""
 
     anomalies_html = ""
     if anomalies:
-        rows = "".join(f"""
-            <tr>
-                <td class="mono">{a.get('line', a.get('source_line', '?'))}</td>
-                <td class="warn">{a['type']}</td>
-                <td class="mono small">{a.get('source', '')[:80]}</td>
-                <td class="mono small">{a.get('corrige', '')[:80]}</td>
-            </tr>
-        """ for a in anomalies)
-        anomalies_html = f"""
-        <section>
-            <h2 class="section-title warn">⚠ Anomalies ({len(anomalies)})</h2>
-            <table class="change-table">
-                <thead><tr><th>Ligne</th><th>Type</th><th>Source</th><th>Corrigé</th></tr></thead>
-                <tbody>{rows}</tbody>
-            </table>
-        </section>
-        """
+        rows = "".join(f"""<tr>
+          <td class="mono">{a.get('line', a.get('source_line', '?'))}</td>
+          <td class="warn-text">{esc(a['type'])}</td>
+          <td class="mono small">{esc(a.get('source',''))[:100]}</td>
+          <td class="mono small">{esc(a.get('corrige',''))[:100]}</td>
+        </tr>""" for a in anomalies)
+        anomalies_html = f"""<section class="anom-section">
+      <div class="section-header warn-header">
+        <span class="change-type">⚠ Anomalies</span>
+        <span class="change-count">{len(anomalies)}</span>
+      </div>
+      <table class="anom-table">
+        <thead><tr><th>Ligne</th><th>Type</th><th>Source</th><th>Corrigé</th></tr></thead>
+        <tbody>{rows}</tbody>
+      </table>
+    </section>"""
 
     html = f"""<!DOCTYPE html>
 <html lang="fr">
 <head>
 <meta charset="UTF-8">
-<title>Diff CoNLL — {Path(diff['source_file']).name} → {Path(diff['corrige_file']).name}</title>
+<title>Diff CoNLL — {esc(Path(diff['source_file']).name)}</title>
 <style>
   *, *::before, *::after {{ box-sizing: border-box; margin: 0; padding: 0; }}
-  body {{ font-family: system-ui, sans-serif; font-size: 14px; color: #1a1a18; background: #f5f5f3; line-height: 1.5; }}
-  header {{ background: #fff; border-bottom: 0.5px solid rgba(0,0,0,0.12); padding: 20px 32px; }}
-  header h1 {{ font-size: 18px; font-weight: 500; margin-bottom: 4px; }}
-  header p {{ font-size: 12px; color: #6b6b67; }}
-  .stats-row {{ display: flex; gap: 16px; padding: 20px 32px; flex-wrap: wrap; }}
-  .stat-card {{ background: #fff; border: 0.5px solid rgba(0,0,0,0.12); border-radius: 10px; padding: 12px 20px; min-width: 140px; }}
-  .stat-val {{ font-size: 28px; font-weight: 500; }}
-  .stat-val.green {{ color: #27500A; }}
-  .stat-val.amber {{ color: #633806; }}
-  .stat-val.red {{ color: #791F1F; }}
-  .stat-lbl {{ font-size: 12px; color: #6b6b67; }}
-  main {{ padding: 0 32px 40px; display: flex; flex-direction: column; gap: 12px; }}
-  section {{ background: #fff; border: 0.5px solid rgba(0,0,0,0.12); border-radius: 10px; padding: 16px 20px; }}
-  .section-title {{ font-size: 13px; font-weight: 500; margin-bottom: 12px; color: #6b6b67; text-transform: uppercase; letter-spacing: 0.04em; }}
-  .section-title.warn {{ color: #791F1F; }}
-  .change-block {{ border: 0.5px solid rgba(0,0,0,0.1); border-radius: 8px; margin-bottom: 10px; overflow: hidden; }}
-  .change-header {{ display: flex; align-items: center; gap: 12px; padding: 8px 12px; background: #f5f5f3; flex-wrap: wrap; }}
-  .change-type {{ font-size: 11px; font-weight: 500; color: #6b6b67; }}
+  body {{ font-family: system-ui, sans-serif; font-size: 13px; color: #1a1a18; background: #f5f5f3; line-height: 1.5; }}
+  header {{ background: #fff; border-bottom: 0.5px solid rgba(0,0,0,0.12); padding: 18px 28px; }}
+  header h1 {{ font-size: 16px; font-weight: 500; margin-bottom: 6px; }}
+  .files {{ font-size: 12px; color: #6b6b67; display: flex; flex-direction: column; gap: 2px; }}
+  .files span {{ font-family: monospace; color: #1a1a18; }}
+  .stats-row {{ display: flex; gap: 12px; padding: 14px 28px; flex-wrap: wrap; }}
+  .stat-card {{ background: #fff; border: 0.5px solid rgba(0,0,0,0.12); border-radius: 8px; padding: 10px 18px; }}
+  .stat-val {{ font-size: 22px; font-weight: 500; }}
+  .stat-val.green {{ color: #27500A; }} .stat-val.amber {{ color: #633806; }} .stat-val.red {{ color: #791F1F; }}
+  .stat-lbl {{ font-size: 11px; color: #6b6b67; }}
+  main {{ padding: 0 28px 48px; display: flex; flex-direction: column; gap: 10px; }}
+  section {{ background: #fff; border: 0.5px solid rgba(0,0,0,0.12); border-radius: 10px; overflow: hidden; }}
+  .section-header {{ display: flex; align-items: center; gap: 10px; padding: 9px 14px; background: #f5f5f3; border-bottom: 0.5px solid rgba(0,0,0,0.1); }}
+  .warn-header {{ background: #FCEBEB; }}
+  .change-type {{ font-size: 11px; font-weight: 500; color: #6b6b67; text-transform: uppercase; letter-spacing: 0.04em; }}
   .change-arrow {{ font-family: monospace; font-size: 13px; }}
-  .id-old {{ color: #791F1F; }}
-  .id-new {{ color: #27500A; font-weight: 500; }}
   .change-count {{ font-size: 11px; color: #9b9b97; margin-left: auto; }}
-  .change-table {{ width: 100%; border-collapse: collapse; font-size: 13px; }}
-  .change-table th {{ text-align: left; padding: 6px 12px; font-size: 11px; font-weight: 500; color: #6b6b67; border-bottom: 0.5px solid rgba(0,0,0,0.1); }}
-  .change-table td {{ padding: 5px 12px; border-bottom: 0.5px solid rgba(0,0,0,0.06); }}
-  .change-table tr:last-child td {{ border-bottom: none; }}
-  .mono {{ font-family: monospace; font-size: 12px; color: #6b6b67; }}
-  .small {{ font-size: 11px; max-width: 300px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }}
-  .ner {{ font-size: 11px; color: #6b6b67; }}
-  .warn {{ color: #791F1F; }}
-  .more {{ font-size: 11px; color: #9b9b97; font-style: italic; text-align: center; padding: 6px; }}
-  .files {{ font-size: 12px; color: #6b6b67; display: flex; flex-direction: column; gap: 2px; margin-top: 6px; }}
-  .files span {{ font-family: monospace; }}
+  .id-old {{ color: #791F1F; font-family: monospace; font-weight: 600; }}
+  .id-new {{ color: #27500A; font-family: monospace; font-weight: 600; }}
+  .span-block {{ border-bottom: 0.5px solid rgba(0,0,0,0.07); }}
+  .span-block:last-child {{ border-bottom: none; }}
+  .span-header {{ display: flex; align-items: baseline; gap: 10px; padding: 6px 14px; background: #fafaf9; border-bottom: 0.5px solid rgba(0,0,0,0.06); flex-wrap: wrap; }}
+  .span-entity {{ font-weight: 500; }}
+  .span-ner {{ font-size: 11px; color: #9b9b97; }}
+  .span-ids {{ font-size: 12px; }}
+  .span-line {{ font-size: 11px; color: #9b9b97; margin-left: auto; font-family: monospace; }}
+  .diff-block {{ font-family: monospace; font-size: 12px; }}
+  .diff-line {{ display: flex; gap: 8px; padding: 2px 14px; }}
+  .diff-del {{ background: #FFF0F0; color: #791F1F; }}
+  .diff-add {{ background: #F0FFF4; color: #1A5C1A; }}
+  .diff-marker {{ font-weight: 700; width: 12px; flex-shrink: 0; user-select: none; }}
+  .diff-code {{ white-space: pre; overflow-x: auto; }}
+  .anom-table {{ width: 100%; border-collapse: collapse; font-size: 12px; }}
+  .anom-table th {{ text-align: left; padding: 6px 12px; font-size: 11px; color: #6b6b67; border-bottom: 0.5px solid rgba(0,0,0,0.1); }}
+  .anom-table td {{ padding: 5px 12px; border-bottom: 0.5px solid rgba(0,0,0,0.06); vertical-align: top; }}
+  .mono {{ font-family: monospace; color: #6b6b67; }}
+  .small {{ max-width: 260px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }}
+  .warn-text {{ color: #791F1F; font-weight: 500; }}
 </style>
 </head>
 <body>
 <header>
   <h1>Rapport de diff CoNLL</h1>
   <div class="files">
-    <div>Source  : <span>{diff['source_file']}</span></div>
-    <div>Corrigé : <span>{diff['corrige_file']}</span></div>
-    <div>Généré le {datetime.fromisoformat(diff['generated_at']).strftime('%d/%m/%Y à %H:%M')}</div>
+    <div>Source  : <span>{esc(diff['source_file'])}</span></div>
+    <div>Corrigé : <span>{esc(diff['corrige_file'])}</span></div>
+    <div style="margin-top:4px;font-size:11px;">Généré le {datetime.fromisoformat(diff['generated_at']).strftime('%d/%m/%Y à %H:%M')}</div>
   </div>
 </header>
-
 <div class="stats-row">
-  <div class="stat-card">
-    <div class="stat-val">{stats['total_lines']:,}</div>
-    <div class="stat-lbl">lignes totales</div>
-  </div>
-  <div class="stat-card">
-    <div class="stat-val green">{stats['spans_changed']:,}</div>
-    <div class="stat-lbl">entités modifiées</div>
-  </div>
-  <div class="stat-card">
-    <div class="stat-val amber">{stats['lines_changed']:,}</div>
-    <div class="stat-lbl">lignes modifiées</div>
-  </div>
-  <div class="stat-card">
-    <div class="stat-val">{stats['lines_unchanged']:,}</div>
-    <div class="stat-lbl">lignes inchangées</div>
-  </div>
-  <div class="stat-card">
-    <div class="stat-val {'red' if stats['anomalies'] else 'green'}">{stats['anomalies']}</div>
-    <div class="stat-lbl">anomalies</div>
-  </div>
+  <div class="stat-card"><div class="stat-val">{stats['total_lines']:,}</div><div class="stat-lbl">lignes totales</div></div>
+  <div class="stat-card"><div class="stat-val green">{stats['spans_changed']:,}</div><div class="stat-lbl">entités modifiées</div></div>
+  <div class="stat-card"><div class="stat-val amber">{stats['lines_changed']:,}</div><div class="stat-lbl">lignes modifiées</div></div>
+  <div class="stat-card"><div class="stat-val">{stats['lines_unchanged']:,}</div><div class="stat-lbl">lignes inchangées</div></div>
+  <div class="stat-card"><div class="stat-val {'red' if stats['anomalies'] else 'green'}">{stats['anomalies']}</div><div class="stat-lbl">anomalies</div></div>
 </div>
-
 <main>
   {anomalies_html}
-  <section>
-    <div class="section-title">Modifications par type de changement</div>
-    {sections_html if sections_html else '<p style="color:#9b9b97; font-size:13px;">Aucune modification détectée.</p>'}
-  </section>
+  {sections_html or '<section style="padding:20px;color:#9b9b97;">Aucune modification détectée.</section>'}
 </main>
 </body>
 </html>"""
@@ -323,6 +318,8 @@ def write_html(diff: dict, output_path: str):
     with open(output_path, "w", encoding="utf-8") as f:
         f.write(html)
     print(f"Rapport écrit : {output_path}")
+
+
 
 
 # ---------------------------------------------------------------------------
