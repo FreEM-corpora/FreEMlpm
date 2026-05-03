@@ -5,6 +5,8 @@ Contrôler tous les mots répétés en majuscule:
 ^([A-Z]{2,})\t.*\n\1\t.*
 ```
 
+Recontrôler tous les _Le_/_La_ etc. + nom
+
 Contrôler les lieux suivants:
 ```console
 Asie
