@@ -45,6 +45,37 @@ François	François	Np	B-pers	B-pers.ind	B-comp.name	O	Q132548
 II	2	Mc	I-pers	I-pers.ind	B-comp.qualifier	O	Q132548
 ```
 
+Recontrôler _hay_
+```console
+mouillons	mouiller	Vvc	O	O	O	O	_
+hay	haïr	Ge	O	O	O	O	_
+il	il	Pp	O	O	O	O	_
+```
+
+Nouvelles mesures:
+```console
+pesoient	peser	Vvc	O	O	O	O	_
+cinq	cinq	Mc	O	O	O	O	_
+quarterons	quarteron	Nc	O	O	O	O	_
+```
+
+Lemmes _morfiaillé_ 
+
+Distinger B-comp.type
+```console
+dix	dix	Mo	B-time	B-time.date.abs	O	O	_
+-	-	Mo	I-time	I-time.date.abs	O	O	_
+huitieme	huitième	Mo	I-time	I-time.date.abs	O	O	_
+siecle	siècle	Nc	I-time	I-time.date.abs	O	O	_
+```
+
+Compléter:
+```console
+chancellerie	chancellerie	Nc	O	O	O	O	_
+de	de	S	O	O	O	O	_
+Bretagne	Bretagne	Np	B-loc	B-loc.adm.reg	O	O	Q327
+```
+
 Type:
 ```console
 ordonnance	ordonnance	Nc	B-prod	B-prod.rule	B-comp.kind	O	_
@@ -85,6 +116,26 @@ Recontrôler tous les _pays de_
 pays	pays	Nc	O	O	O	O	_
 des	de_le	S+Da	O	O	O	O	_
 ```
+
+contôler poujr les amount de … à 
+```console
+de	de	S	O	O	O	O	_
+dix	dix	Mc	O	O	O	O	_
+ou	ou	Cc	O	O	O	O	_
+douze	douze	Mc	B-amount	B-amount	B-comp.val	O	_
+pieds	pied	Nc	I-amount	I-amount	B-comp.unit	O	_
+```
+
+ou les plus|moins de (qualifier range-mark?)
+```console
+plus	plus	Rg	B-amount	B-amount	B-comp.qualifier	O	_
+de	de	S	I-amount	I-amount	I-comp.qualifier	O	_
+douze	douze	Mc	B-amount	B-amount	B-comp.val	O	_
+cents	cent	Mc	I-amount	I-amount	I-comp.val	O	_
+toises	toise	Nc	I-amount	I-amount	B-comp.unit	O	_
+```
+
+Recontrôler tout les `AMOUNT`
 
 Contrôler:
 ```console
