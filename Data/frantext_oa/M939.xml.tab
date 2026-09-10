@@ -127,7 +127,7 @@ tome	tome	NC	_
 deuxième	deuxième	ADJ	_
 de	de	P	_
 mon	mon	DET	_
-Système	Système	NC	_
+Système	système	NC	_
 de	de	P	_
 politique	politique	NC	_
 positive	positif	ADJ	_
@@ -163,7 +163,7 @@ donc	donc	ADV	_
 ouvertement	ouvertement	ADV	_
 délivrer	délivrer	VINF	_
 l'	le	DET	_
-Occident	Occident	NC	_
+Occident	occident	NC	_
 d'	de	P	_
 une	un	DET	_
 démocratie	démocratie	NC	_
@@ -271,7 +271,9 @@ politique	politique	NC	_
 s'	se	CLO	_
 élève	élever	V	_
 également	également	ADV	_
-au-dessus	au-dessus	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 de	de	P	_
 ces	ce	DET	_
 deux	deux	ADJ	_
@@ -407,7 +409,7 @@ qui	qui	PROREL	_
 ne	ne	ADV	_
 pouvait	pouvoir	V	_
 convenir	convenir	VINF	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 au	à_le	P+D	_
 XVIIIe	XVIIIe	NC	_
 ,	,	PONCT	_
@@ -482,7 +484,7 @@ est	être	V	_
 au	à_le	P+D	_
 fond	fond	NC	_
 ,	,	PONCT	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 un	un	DET	_
 pis	pis	NC	_
 aller	aller	VINF	_
@@ -782,7 +784,7 @@ son	son	DET	_
 dogme	dogme	NC	_
 fondamental	fondamental	ADJ	_
 .	.	PONCT	_
-Tous	tous	PRO	_
+Tous	tout	PRO	_
 reconnaissent	reconnaître	V	_
 aujourd'hui	aujourd'hui	ADV	_
 que	que	CS	_
@@ -1031,7 +1033,7 @@ alors	alors	ADV	_
 la	le	DET	_
 notion	notion	NC	_
 .	.	PONCT	_
-Tous	tous	PRO	_
+Tous	tout	PRO	_
 se	se	CLO	_
 rallieraient	rallier	V	_
 aujourd'hui	aujourd'hui	ADV	_
@@ -1141,7 +1143,8 @@ théologiques	théologique	ADJ	_
 soit	soit	CC	_
 métaphysiques	métaphysique	ADJ	_
 .	.	PONCT	_
-Tandis_que	tandis_que	CS	_
+Tandis	tandis	ADV	_
+que	que	CS	_
 Hume	Hume	NP	_
 constitue	constituer	V	_
 mon	mon	DET	_
@@ -1350,7 +1353,7 @@ nécessaire	nécessaire	ADJ	_
 sans	sans	P	_
 laquelle	il	PROREL	_
 l'	le	DET	_
-Humanité	Humanité	NC	_
+Humanité	humanité	NC	_
 ne	ne	ADV	_
 pourrait	pouvoir	V	_
 suivre	suivre	VINF	_
@@ -1364,7 +1367,7 @@ efforts	effort	NC	_
 opposés	opposer	VPP	_
 n'	ne	ADV	_
 aboutirent	aboutir	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 à	à	P	_
 se	se	CLO	_
 neutraliser	neutraliser	VINF	_
@@ -1395,7 +1398,7 @@ renonce	renoncer	V	_
 à	à	P	_
 dominer	dominer	VINF	_
 l'	le	DET	_
-Occident	Occident	NC	_
+Occident	occident	NC	_
 ,	,	PONCT	_
 et	et	CC	_
 le	le	DET	_
@@ -1442,10 +1445,10 @@ monothéismes	monothéisme	NC	_
 inconciliables	inconciliable	ADJ	_
 .	.	PONCT	_
 L'	le	DET	_
-Orient	Orient	NC	_
+Orient	orient	NC	_
 et	et	CC	_
 l'	le	DET	_
-Occident	Occident	NC	_
+Occident	occident	NC	_
 doivent	devoir	V	_
 donc	donc	ADV	_
 chercher	chercher	VINF	_
@@ -1610,7 +1613,7 @@ devenu	devenir	VPP	_
 ,	,	PONCT	_
 dans	dans	P	_
 l'	le	DET	_
-Occident	Occident	NC	_
+Occident	occident	NC	_
 moderne	moderne	ADJ	_
 ,	,	PONCT	_
 aussi	aussi	ADV	_
@@ -1671,7 +1674,7 @@ meilleurs	meilleur	ADJ	_
 interprètes	interprète	NC	_
 .	.	PONCT	_
 Désormais	désormais	ADV	_
-abandonnée	abandonnée	ADJ	_
+abandonnée	abandonné	ADJ	_
 spontanément	spontanément	ADV	_
 à	à	P	_
 sa	son	DET	_
@@ -1875,7 +1878,7 @@ ménagements	ménagement	NC	_
 des	de_le	P+D	_
 conservateurs	conservateur	NC	_
 prudents	prudent	ADJ	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 autant	autant	ADV	_
 qu'	que	CS	_
 il	il	CLS	_
@@ -2119,7 +2122,8 @@ altruiste	altruiste	ADJ	_
 .	.	PONCT	_
 Mais	mais	CC	_
 ,	,	PONCT	_
-afin_d'	afin_de	P	_
+afin	afin	ADV	_
+d'	de	P	_
 instituer	instituer	VINF	_
 cette	ce	DET	_
 concurrence	concurrence	NC	_
@@ -2291,7 +2295,7 @@ troisième	troisième	ADJ	_
 volume	volume	NC	_
 de	de	P	_
 mon	mon	DET	_
-Système	Système	NC	_
+Système	système	NC	_
 de	de	P	_
 politique	politique	NC	_
 positive	positif	ADJ	_
@@ -2789,10 +2793,10 @@ véritable	véritable	ADJ	_
 catéchisme	catéchisme	NC	_
 pour	pour	P	_
 la	le	DET	_
-Religion	Religion	NC	_
+Religion	religion	NC	_
 de	de	P	_
 l'	le	DET	_
-Humanité	Humanité	NC	_
+Humanité	humanité	NC	_
 ,	,	PONCT	_
 je	je	CLS	_
 dus	devoir	V	_
@@ -2896,7 +2900,7 @@ peine	peine	NC	_
 de	de	P	_
 confusion	confusion	NC	_
 ,	,	PONCT	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 un	un	DET	_
 seul	seul	ADJ	_
 interlocuteur	interlocuteur	NC	_
@@ -2907,7 +2911,7 @@ ne	ne	ADV	_
 peut	pouvoir	V	_
 réellement	réellement	ADV	_
 convenir	convenir	VINF	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 à	à	P	_
 la	le	DET	_
 conception	conception	NC	_
@@ -3016,7 +3020,7 @@ même	même	ADV	_
 être	être	VINF	_
 assez	assez	ADV	_
 remplies	remplir	VPP	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 en	en	P	_
 supposant	supposer	VPR	_
 un	un	DET	_
@@ -3106,7 +3110,8 @@ quelconque	quelconque	ADJ	_
 .	.	PONCT	_
 Toutefois	toutefois	ADV	_
 ,	,	PONCT	_
-afin_d'	afin_de	P	_
+afin	afin	ADV	_
+d'	de	P	_
 éviter	éviter	VINF	_
 une	un	DET	_
 laborieuse	laborieux	ADJ	_
@@ -3289,7 +3294,7 @@ didactique	didactique	ADJ	_
 ne	ne	ADV	_
 devient	devenir	V	_
 réalisable	réalisable	ADJ	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 envers	envers	P	_
 des	un	DET	_
 doctrines	doctrine	NC	_
@@ -3816,7 +3821,7 @@ devenu	devenir	VPP	_
 ,	,	PONCT	_
 pour	pour	P	_
 l'	le	DET	_
-Humanité	Humanité	NC	_
+Humanité	humanité	NC	_
 ,	,	PONCT	_
 un	un	DET	_
 organe	organe	NC	_
@@ -3970,7 +3975,7 @@ tome	tome	NC	_
 premier	premier	ADJ	_
 de	de	P	_
 mon	mon	DET	_
-Système	Système	NC	_
+Système	système	NC	_
 de	de	P	_
 politique	politique	NC	_
 positive	positif	ADJ	_
@@ -4074,7 +4079,7 @@ sa	son	DET	_
 supériorité	supériorité	NC	_
 personnelle	personnel	ADJ	_
 ,	,	PONCT	_
-Mme	Mme	NC	_
+Mme	madame	NC	_
 Clotilde	Clotilde	NP	_
 de	de	P	_
 Vaux	Vaux	NP	_
@@ -4245,7 +4250,7 @@ expliquée	expliquer	VPP	_
 déjà	déjà	ADV	_
 dans	dans	P	_
 ma	mon	DET	_
-Politique	Politique	NC	_
+Politique	politique	NC	_
 positive	positif	ADJ	_
 ,	,	PONCT	_
 savent	savoir	V	_
@@ -4433,7 +4438,7 @@ des	de_le	P+D	_
 prêtres	prêtre	NC	_
 de	de	P	_
 l'	le	DET	_
-Humanité	Humanité	NC	_
+Humanité	humanité	NC	_
 à	à	P	_
 l'	le	DET	_
 âge	âge	NC	_
@@ -4525,7 +4530,7 @@ plus	plus	ADV	_
 dissimuler	dissimuler	VINF	_
 au	à_le	P+D	_
 lecteur	lecteur	NC	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 à	à	P	_
 moi	je	PRO	_
 -même	même	ADJ	_
@@ -4759,7 +4764,7 @@ ne	ne	ADV	_
 puis	pouvoir	V	_
 assez	assez	ADV	_
 caractériser	caractériser	VINF	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 en	en	P	_
 combinant	combiner	VPR	_
 deux	deux	DET	_
@@ -4933,7 +4938,7 @@ irrécusable	irrécusable	ADJ	_
 aux	à_le	P+D	_
 yeux	œil	NC	_
 de	de	P	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 .	.	PONCT	_
 J'	je	CLS	_
 ose	oser	V	_
@@ -5232,7 +5237,8 @@ esprit	esprit	NC	_
 se	se	CLO	_
 concertant	concerter	VPR	_
 religieusement	religieusement	ADV	_
-afin_de	afin_de	P	_
+afin	afin	ADV	_
+de	de	P	_
 moraliser	moraliser	VINF	_
 la	le	DET	_
 puissance	puissance	NC	_
@@ -5307,7 +5313,7 @@ même	même	ADJ	_
 de	de	P	_
 ce	ce	DET	_
 catéchisme	catéchisme	NC	_
-indique	indique	ADJ	_
+indique	indiquer	ADJ	_
 aussitôt	aussitôt	ADV	_
 la	le	DET	_
 principale	principal	ADJ	_
@@ -5335,7 +5341,8 @@ et	et	CC	_
 la	le	DET	_
 sympathie	sympathie	NC	_
 ,	,	PONCT	_
-afin_de	afin_de	P	_
+afin	afin	ADV	_
+de	de	P	_
 régulariser	régulariser	VINF	_
 la	le	DET	_
 synergie	synergie	NC	_
@@ -5449,7 +5456,7 @@ pratique	pratique	ADJ	_
 qui	qui	PROREL	_
 domine	dominer	V	_
 l'	le	DET	_
-Occident	Occident	NC	_
+Occident	occident	NC	_
 moderne	moderne	ADJ	_
 .	.	PONCT	_
 C'	ce	CLS	_
@@ -5694,7 +5701,7 @@ plus	plus	NC	_
 en	en	P	_
 plus	plus	NC	_
 l'	le	DET	_
-Occident	Occident	NC	_
+Occident	occident	NC	_
 ,	,	PONCT	_
 et	et	CC	_
 surtout	surtout	ADV	_
@@ -5823,7 +5830,8 @@ développer	développer	VINF	_
 le	le	DET	_
 mieux	mieux	NC	_
 .	.	PONCT	_
-Quant_à	quant_à	P	_
+Quant	quant	ADV	_
+à	à	P	_
 la	le	DET	_
 bonté	bonté	NC	_
 générale	général	ADJ	_
@@ -6323,7 +6331,8 @@ des	de_le	P+D	_
 révolutions	révolution	NC	_
 humaines	humain	ADJ	_
 ,	,	PONCT	_
-tandis_qu'	tandis_que	CS	_
+tandis	tandis	ADV	_
+qu'	que	CS	_
 elles	il	CLS	_
 participèrent	participer	V	_
 profondément	profondément	ADV	_
@@ -6529,7 +6538,7 @@ direction	direction	NC	_
 officielle	officiel	ADJ	_
 de	de	P	_
 l'	le	DET	_
-Occident	Occident	NC	_
+Occident	occident	NC	_
 à	à	P	_
 ceux	celui	PRO	_
 que	que	PROREL	_
@@ -6556,10 +6565,10 @@ publique	public	ADJ	_
 .	.	PONCT	_
 Mais	mais	CC	_
 la	le	DET	_
-Religion	Religion	NC	_
+Religion	religion	NC	_
 de	de	P	_
 l'	le	DET	_
-Humanité	Humanité	NC	_
+Humanité	humanité	NC	_
 privera	priver	V	_
 bientôt	bientôt	ADV	_
 la	le	DET	_
@@ -6852,7 +6861,8 @@ un	un	DET	_
 contraste	contraste	NC	_
 décisif	décisif	ADJ	_
 .	.	PONCT	_
-Afin_de	afin_de	P	_
+Afin	afin	ADV	_
+de	de	P	_
 mieux	mieux	ADV	_
 incorporer	incorporer	VINF	_
 les	le	DET	_
@@ -6975,7 +6985,7 @@ ne	ne	ADV	_
 put	pouvoir	V	_
 être	être	VINF	_
 surmontée	surmonter	VPP	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 en	en	P	_
 appelant	appeler	VPR	_
 les	le	DET	_
@@ -7106,7 +7116,7 @@ il	il	CLS	_
 ne	ne	ADV	_
 peut	pouvoir	V	_
 aboutir	aboutir	VINF	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 à	à	P	_
 prolonger	prolonger	VINF	_
 nos	notre	DET	_
@@ -7140,7 +7150,7 @@ n'	ne	ADV	_
 émana	émaner	V	_
 de	de	P	_
 la	le	DET	_
-précédente	précédente	NC	_
+précédente	précédent	NC	_
 .	.	PONCT	_
 Il	il	CLS	_
 se	se	CLO	_
@@ -7203,7 +7213,7 @@ féminine	féminin	ADJ	_
 y	y	CLO	_
 reste	rester	V	_
 habituellement	habituellement	ADV	_
-abandonnée	abandonnée	ADJ	_
+abandonnée	abandonné	ADJ	_
 à	à	P	_
 une	un	DET	_
 horrible	horrible	ADJ	_
@@ -7238,7 +7248,8 @@ nourrir	nourrir	VINF	_
 la	le	DET	_
 femme	femme	NC	_
 ,	,	PONCT	_
-afin_qu'	afin_que	CS	_
+afin	afin	ADV	_
+qu'	que	CS	_
 elle	il	CLS	_
 puisse	pouvoir	V	_
 remplir	remplir	VINF	_
@@ -7424,7 +7435,7 @@ vrais	vrai	ADJ	_
 serviteurs	serviteur	NC	_
 de	de	P	_
 l'	le	DET	_
-Humanité	Humanité	NC	_
+Humanité	humanité	NC	_
 .	.	PONCT	_
 L'	le	DET	_
 impulsion	impulsion	NC	_
@@ -7580,7 +7591,8 @@ au	à_le	P+D	_
 sentiment	sentiment	NC	_
 féminin	féminin	ADJ	_
 ,	,	PONCT	_
-afin_que	afin_que	CS	_
+afin	afin	ADV	_
+que	que	CS	_
 le	le	DET	_
 coeur	cœur	NC	_
 applique	appliquer	V	_
@@ -7673,7 +7685,7 @@ au	à_le	P+D	_
 véritable	véritable	ADJ	_
 être	être	VINF	_
 -	-	PONCT	_
-Suprême	Suprême	NP	_
+Suprême	suprême	NP	_
 ,	,	PONCT	_
 sa	son	DET	_
 tendre	tendre	ADJ	_
@@ -7685,7 +7697,7 @@ fournit	fournir	V	_
 aux	à_le	P+D	_
 yeux	œil	NC	_
 de	de	P	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 ,	,	PONCT	_
 la	le	DET	_
 meilleure	meilleur	ADJ	_
@@ -7730,7 +7742,7 @@ devise	devise	NC	_
 morale	moral	ADJ	_
 du	de_le	P+D	_
 positivisme	positivisme	NC	_
-Vivre	Vivre	NP	_
+Vivre	vivre	NP	_
 pour	pour	P	_
 autrui	autrui	PRO	_
 :	:	PONCT	_
@@ -7752,7 +7764,7 @@ COMTE	COMTE	NC	_
 Fondateur	Fondateur	NC	_
 de	de	P	_
 la	le	DET	_
-Religion	Religion	NC	_
+Religion	religion	NC	_
 de	de	P	_
 l'	le	DET	_
 HUMANITé	HUMANITé	NC	_
@@ -7771,7 +7783,7 @@ juillet	juillet	NC	_
 .	.	PONCT	_
 P	P	NC	_
 S.	S.	NP	_
-Pour	Pour	NP	_
+Pour	pour	NP	_
 augmenter	augmenter	VINF	_
 l'	le	DET	_
 utilité	utilité	NC	_
@@ -7799,7 +7811,8 @@ le	le	DET	_
 octobre	octobre	NC	_
 1851	1851	ADJ	_
 ,	,	PONCT	_
-afin_de	afin_de	P	_
+afin	afin	ADV	_
+de	de	P	_
 diriger	diriger	VINF	_
 les	le	DET	_
 bons	bon	ADJ	_
@@ -7891,7 +7904,7 @@ ENTR	ENTR	ADJ	_
 .	.	PONCT	_
 1	1	X	_
 THéORIE	théorie	NC	_
-GéNéRALE	GéNéRALE	ADJ	_
+GéNéRALE	générale	ADJ	_
 DE	de	P	_
 LA	le	DET	_
 RELIGION	religion	NC	_
@@ -8084,7 +8097,7 @@ mot	mot	NC	_
 religion	religion	NC	_
 .	.	PONCT	_
 LE	le	DET	_
-PRêTRE	PRêTRE	NC	_
+PRÊTRE	prêtre	NC	_
 .	.	PONCT	_
 CE	ce	DET	_
 nom	nom	NC	_
@@ -8202,7 +8215,8 @@ de	de	P	_
 l'	le	DET	_
 esprit	esprit	NC	_
 ,	,	PONCT	_
-tandis_que	tandis_que	CS	_
+tandis	tandis	ADV	_
+que	que	CS	_
 l'	le	DET	_
 autre	autre	NC	_
 comprend	comprendre	V	_
@@ -8474,7 +8488,7 @@ existe	exister	V	_
 au	à_le	P+D	_
 fond	fond	NC	_
 ,	,	PONCT	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 une	un	DET	_
 seule	seul	ADJ	_
 religion	religion	NC	_
@@ -8565,7 +8579,7 @@ domaine	domaine	NC	_
 du	de_le	P+D	_
 fond	fond	NC	_
 commun	commun	ADJ	_
-auquel	auquel	PROREL	_
+auquel	à_lequel	PROREL	_
 toutes	tout	ADJ	_
 se	se	CLO	_
 rapportèrent	rapporter	V	_
@@ -8608,7 +8622,7 @@ portion	portion	NC	_
 quelconque	quelconque	ADJ	_
 de	de	P	_
 l'	le	DET	_
-Humanité	Humanité	NC	_
+Humanité	humanité	NC	_
 .	.	PONCT	_
 LA	le	DET	_
 FEMME	femme	NC	_
@@ -8715,7 +8729,7 @@ la	le	DET	_
 morale	morale	NC	_
 .	.	PONCT	_
 LE	le	DET	_
-PRêTRE	PRêTRE	NC	_
+PRÊTRE	prêtre	NC	_
 .	.	PONCT	_
 Cependant	cependant	ADV	_
 ,	,	PONCT	_
@@ -8741,7 +8755,7 @@ n'	ne	ADV	_
 est	être	V	_
 dû	devoir	VPP	_
 réellement	réellement	ADV	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 à	à	P	_
 l'	le	DET	_
 insuffisance	insuffisance	NC	_
@@ -8757,7 +8771,7 @@ put	pouvoir	V	_
 discipliner	discipliner	VINF	_
 l'	le	DET	_
 âme	âme	NC	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 en	en	CLO	_
 abandonnant	abandonner	V	_
 aux	à_le	P+D	_
@@ -9202,7 +9216,7 @@ attributions	attribution	NC	_
 respectives	respectif	ADJ	_
 ?	?	PONCT	_
 LE	le	DET	_
-PRêTRE	PRêTRE	NC	_
+PRÊTRE	prêtre	NC	_
 .	.	PONCT	_
 Cette	ce	DET	_
 appréciation	appréciation	NC	_
@@ -9255,7 +9269,8 @@ de	de	P	_
 notre	notre	DET	_
 unité	unité	NC	_
 .	.	PONCT	_
-Afin_de	afin_de	P	_
+Afin	afin	ADV	_
+de	de	P	_
 constituer	constituer	VINF	_
 une	un	DET	_
 harmonie	harmonie	NC	_
@@ -9317,7 +9332,7 @@ tout	tout	PRO	_
 ,	,	PONCT	_
 un	un	DET	_
 sentiment	sentiment	NC	_
-auquel	auquel	PROREL	_
+auquel	à_lequel	PROREL	_
 nos	notre	DET	_
 divers	divers	NC	_
 penchants	penchant	ADJ	_
@@ -9397,7 +9412,8 @@ modifiant	modifier	VPR	_
 .	.	PONCT	_
 C'	ce	CLS	_
 est	être	V	_
-afin_de	afin_de	P	_
+afin	afin	ADV	_
+de	de	P	_
 mieux	mieux	ADV	_
 subir	subir	VINF	_
 ce	ce	DET	_
@@ -9577,7 +9593,7 @@ pleinement	pleinement	ADV	_
 compatibles	compatible	ADJ	_
 .	.	PONCT	_
 LE	le	DET	_
-PRêTRE	PRêTRE	NC	_
+PRÊTRE	prêtre	NC	_
 .	.	PONCT	_
 Vous	vous	CLS	_
 avez	avoir	V	_
@@ -9779,7 +9795,7 @@ existence	existence	NC	_
 morale	moral	ADJ	_
 .	.	PONCT	_
 Si	si	CS	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 ne	ne	ADV	_
 se	se	CLO	_
 subordonnaient	subordonner	V	_
@@ -9813,7 +9829,7 @@ de	de	P	_
 la	le	DET	_
 vanité	vanité	NC	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 ,	,	PONCT	_
 quand	quand	CS	_
 la	le	DET	_
@@ -9947,7 +9963,7 @@ plus	plus	ADV	_
 énergiques	énergique	ADJ	_
 .	.	PONCT	_
 LE	le	DET	_
-PRêTRE	PRêTRE	NC	_
+PRÊTRE	prêtre	NC	_
 .	.	PONCT	_
 Cette	ce	DET	_
 difficulté	difficulté	NC	_
@@ -10003,7 +10019,7 @@ morale	morale	NC	_
 dans	dans	P	_
 la	le	DET	_
 loi	loi	NC	_
-Vivre	Vivre	NP	_
+Vivre	vivre	NP	_
 pour	pour	P	_
 autrui	autrui	PRO	_
 ,	,	PONCT	_
@@ -10141,7 +10157,7 @@ affections	affection	NC	_
 sympathiques	sympathique	ADJ	_
 .	.	PONCT	_
 LE	le	DET	_
-PRêTRE	PRêTRE	NC	_
+PRÊTRE	prêtre	NC	_
 .	.	PONCT	_
 Aussi	aussi	ADV	_
 ,	,	PONCT	_
@@ -10257,7 +10273,7 @@ bienveillantes	bienveillant	ADJ	_
 seules	seul	ADJ	_
 susceptibles	susceptible	ADJ	_
 chez	chez	P	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 d'	de	P	_
 un	un	DET	_
 développement	développement	NC	_
@@ -10416,7 +10432,7 @@ père	père	NC	_
 ,	,	PONCT	_
 à	à	P	_
 désirer	désirer	VINF	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 un	un	DET	_
 dernier	dernier	ADJ	_
 éclaircissement	éclaircissement	NC	_
@@ -10467,7 +10483,7 @@ les	le	DET	_
 systèmes	système	NC	_
 .	.	PONCT	_
 LE	le	DET	_
-PRêTRE	PRêTRE	NC	_
+PRÊTRE	prêtre	NC	_
 .	.	PONCT	_
 En	en	P	_
 effet	effet	NC	_
@@ -10480,7 +10496,7 @@ foi	foi	NC	_
 n'	ne	ADV	_
 eut	avoir	V	_
 jamais	jamais	ADV	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 un	un	DET	_
 même	même	ADJ	_
 objet	objet	NC	_
@@ -10530,7 +10546,8 @@ indépendant	indépendant	ADJ	_
 de	de	P	_
 nous	nous	PRO	_
 ,	,	PONCT	_
-afin_de	afin_de	P	_
+afin	afin	ADV	_
+de	de	P	_
 le	le	DET	_
 mieux	mieux	NC	_
 subir	subir	VINF	_
@@ -10822,7 +10839,7 @@ d'	de	P	_
 un	un	DET	_
 ordre	ordre	NC	_
 immuable	immuable	ADJ	_
-auquel	auquel	PROREL	_
+auquel	à_lequel	PROREL	_
 sont	être	V	_
 soumis	soumettre	VPP	_
 les	le	DET	_
@@ -11206,7 +11223,7 @@ accord	accord	NC	_
 général	général	ADJ	_
 .	.	PONCT	_
 LE	le	DET	_
-PRêTRE	PRêTRE	NC	_
+PRêTRE	prêtre	NC	_
 .	.	PONCT	_
 Pour	pour	P	_
 y	y	CLO	_
@@ -11276,7 +11293,8 @@ cette	ce	DET	_
 disposition	disposition	NC	_
 générale	général	ADJ	_
 ,	,	PONCT	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 elle	il	CLS	_
 concerna	concerner	V	_
 d'	de	P	_
@@ -11363,7 +11381,8 @@ imaginer	imaginer	VINF	_
 l'	le	DET	_
 amélioration	amélioration	NC	_
 ,	,	PONCT	_
-afin_de	afin_de	P	_
+afin	afin	ADV	_
+de	de	P	_
 corriger	corriger	VINF	_
 un	un	DET	_
 aveugle	aveugle	ADJ	_
@@ -11434,7 +11453,8 @@ des	de_le	P+D	_
 lois	loi	NC	_
 réelles	réel	ADJ	_
 ,	,	PONCT	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 elles	il	CLS	_
 ne	ne	ADV	_
 deviennent	devenir	V	_
@@ -11644,7 +11664,7 @@ avec	avec	P	_
 le	le	DET	_
 sentiment	sentiment	NC	_
 ,	,	PONCT	_
-auquel	auquel	PROREL	_
+auquel	à_lequel	PROREL	_
 sa	son	DET	_
 nature	nature	NC	_
 me	je	CLO	_
@@ -11726,7 +11746,7 @@ la	le	DET	_
 religion	religion	NC	_
 .	.	PONCT	_
 LE	le	DET	_
-PRêTRE	PRêTRE	NC	_
+PRêTRE	prêtre	NC	_
 .	.	PONCT	_
 Je	je	CLS	_
 reconnais	reconnaître	V	_
@@ -12021,7 +12041,7 @@ et	et	CC	_
 éternel	éternel	ADJ	_
 ,	,	PONCT	_
 l'	le	DET	_
-Humanité	Humanité	NC	_
+Humanité	humanité	NC	_
 ,	,	PONCT	_
 dont	dont	PROREL	_
 les	le	DET	_
@@ -12161,7 +12181,7 @@ lutte	lutte	NC	_
 croissante	croissant	ADJ	_
 de	de	P	_
 l'	le	DET	_
-Humanité	Humanité	NC	_
+Humanité	humanité	NC	_
 contre	contre	P	_
 l'	le	DET	_
 ensemble	ensemble	NC	_
@@ -12225,7 +12245,7 @@ un	un	DET	_
 tel	tel	ADJ	_
 être	être	NC	_
 -	-	PONCT	_
-Suprême	Suprême	NP	_
+Suprême	suprême	NP	_
 excite	exciter	V	_
 profondément	profondément	ADV	_
 une	un	DET	_
@@ -12310,7 +12330,7 @@ amour	amour	NC	_
 universel	universel	ADJ	_
 .	.	PONCT	_
 LE	le	DET	_
-PRêTRE	PRêTRE	NC	_
+PRêTRE	prêtre	NC	_
 .	.	PONCT	_
 J'	je	CLS	_
 espère	espérer	V	_
@@ -12400,8 +12420,8 @@ laborieux	laborieux	ADJ	_
 serviteurs	serviteur	NC	_
 de	de	P	_
 l'	le	DET	_
-Humanité	Humanité	NC	_
-qu'	qu'	ADV	_
+Humanité	humanité	NC	_
+qu'	que	ADV	_
 un	un	DET	_
 sentiment	sentiment	NC	_
 complet	complet	ADJ	_
@@ -12610,7 +12630,7 @@ autant	autant	ADV	_
 combinées	combiner	VPP	_
 .	.	PONCT	_
 LE	le	DET	_
-PRêTRE	PRêTRE	NC	_
+PRêTRE	prêtre	NC	_
 .	.	PONCT	_
 Plus	plus	ADV	_
 vous	vous	CLS	_
@@ -12801,7 +12821,8 @@ surpasse	surpasser	V	_
 nécessairement	nécessairement	ADV	_
 ,	,	PONCT	_
 même	même	ADV	_
-quant_au	quant_à_le	P+D	_
+Quant	quant	ADV	_
+au	à_le	P+D	_
 sentiment	sentiment	NC	_
 ,	,	PONCT	_
 la	le	DET	_
@@ -12814,7 +12835,8 @@ théologistes	théologistes	NC	_
 LA	le	DET	_
 FEMME	femme	NC	_
 .	.	PONCT	_
-Afin_de	afin_de	P	_
+Afin	afin	ADV	_
+de	de	P	_
 compléter	compléter	VINF	_
 cet	ce	DET	_
 entretien	entretien	NC	_
@@ -12848,7 +12870,7 @@ partie	partie	NC	_
 essentielle	essentiel	ADJ	_
 .	.	PONCT	_
 LE	le	DET	_
-PRêTRE	PRêTRE	NC	_
+PRêTRE	prêtre	NC	_
 .	.	PONCT	_
 Cette	ce	DET	_
 décomposition	décomposition	NC	_
@@ -13099,7 +13121,7 @@ Je	je	CLS	_
 n'	ne	ADV	_
 apporte	apporter	V	_
 ici	ici	ADV	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 une	un	DET	_
 pleine	plein	ADJ	_
 confiance	confiance	NC	_
@@ -13155,7 +13177,7 @@ aussi	aussi	ADV	_
 difficile	difficile	ADJ	_
 .	.	PONCT	_
 LE	le	DET	_
-PRêTRE	PRêTRE	NC	_
+PRêTRE	prêtre	NC	_
 .	.	PONCT	_
 Vos	votre	DET	_
 inquiétudes	inquiétude	NC	_
@@ -13273,7 +13295,7 @@ notez	noter	V	_
 aussi	aussi	ADV	_
 que	que	CS	_
 le	le	DET	_
-Je	Je	NC	_
+Je	je	NC	_
 consens	consentir	V	_
 d'	de	P	_
 alors	alors	ADV	_
@@ -13379,7 +13401,8 @@ ce	ce	PRO	_
 qui	qui	PROREL	_
 sera	être	V	_
 ,	,	PONCT	_
-afin_de	afin_de	P	_
+afin	afin	ADV	_
+de	de	P	_
 l'	il	CLO	_
 améliorer	améliorer	VINF	_
 autant	autant	ADV	_
@@ -13596,7 +13619,7 @@ le	il	CLO	_
 veulent	vouloir	V	_
 .	.	PONCT	_
 Mais	mais	CC	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 ont	avoir	V	_
 besoin	besoin	NC	_
 de	de	P	_
@@ -13713,7 +13736,8 @@ une	un	DET	_
 importance	importance	NC	_
 capitale	capital	ADJ	_
 ,	,	PONCT	_
-afin_de	afin_de	P	_
+afin	afin	ADV	_
+de	de	P	_
 mettre	mettre	VINF	_
 un	un	DET	_
 terme	terme	NC	_
@@ -13764,7 +13788,7 @@ beaucoup	beaucoup	ADV	_
 à	à	P	_
 pacifier	pacifier	VINF	_
 l'	le	DET	_
-Occident	Occident	NC	_
+Occident	occident	NC	_
 .	.	PONCT	_
 Or	or	CC	_
 ,	,	PONCT	_
@@ -13796,7 +13820,8 @@ sa	son	DET	_
 culture	culture	NC	_
 systématique	systématique	ADJ	_
 .	.	PONCT	_
-Quant_aux	quant_à_le	P+D	_
+quant	quant	ADV	_
+aux	à_le	P+D	_
 difficultés	difficulté	NC	_
 que	que	PROREL	_
 vous	vous	CLS	_
@@ -14188,7 +14213,7 @@ moyen	moyen	ADJ	_
 âge	âge	NC	_
 ,	,	PONCT	_
 où	où	PROREL	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 savaient	savoir	V	_
 apprécier	apprécier	VINF	_
 le	le	DET	_
@@ -14383,7 +14408,7 @@ du	de_le	P+D	_
 positivisme	positivisme	NC	_
 .	.	PONCT	_
 LE	le	DET	_
-PRêTRE	PRêTRE	NC	_
+PRêTRE	prêtre	NC	_
 .	.	PONCT	_
 Pour	pour	P	_
 y	y	CLO	_
@@ -14399,7 +14424,7 @@ définir	définir	VINF	_
 d'	de	P	_
 abord	abord	NC	_
 l'	le	DET	_
-Humanité	Humanité	NC	_
+Humanité	humanité	NC	_
 comme	comme	P	_
 l'	le	DET	_
 ensemble	ensemble	NC	_
@@ -14450,15 +14475,15 @@ existence	existence	NC	_
 commune	commun	ADJ	_
 .	.	PONCT	_
 Quoique	quoique	CS	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 naissent	naître	V	_
 nécessairement	nécessairement	ADV	_
 enfants	enfant	NC	_
 de	de	P	_
 l'	le	DET	_
-Humanité	Humanité	NC	_
+Humanité	humanité	NC	_
 ,	,	PONCT	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 ne	ne	ADV	_
 deviennent	devenir	V	_
 pas	pas	ADV	_
@@ -14541,7 +14566,7 @@ e	e	ET	_
 senza	senza	ET	_
 lode	lode	ET	_
 ...	…	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 Vous	vous	CLS	_
 voyez	voir	V	_
 ainsi	ainsi	ADV	_
@@ -14582,7 +14607,7 @@ point	point	ADV	_
 partie	partie	NC	_
 de	de	P	_
 l'	le	DET	_
-Humanité	Humanité	NC	_
+Humanité	humanité	NC	_
 ,	,	PONCT	_
 une	un	DET	_
 juste	juste	ADJ	_
@@ -14595,7 +14620,7 @@ au	à_le	P+D	_
 nouvel	nouveau	ADJ	_
 être	être	VINF	_
 -	-	PONCT	_
-Suprême	Suprême	NC	_
+Suprême	suprême	NC	_
 tous	tout	ADJ	_
 ses	son	DET	_
 dignes	digne	ADJ	_
@@ -14657,7 +14682,7 @@ complément	complément	NC	_
 nous	nous	CLS	_
 n'	ne	ADV	_
 avons	avoir	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 à	à	P	_
 supposer	supposer	VINF	_
 qu'	que	CS	_
@@ -14679,7 +14704,7 @@ chiens	chien	NC	_
 ,	,	PONCT	_
 boeufs	bœuf	NC	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 ,	,	PONCT	_
 comme	comme	P	_
 plus	plus	ADV	_
@@ -14720,7 +14745,8 @@ abord	abord	NC	_
 moins	moins	ADV	_
 sentie	sentir	VPP	_
 ,	,	PONCT	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 elle	il	CLS	_
 exige	exiger	V	_
 un	un	DET	_
@@ -14918,7 +14944,7 @@ permanente	permanent	ADJ	_
 ,	,	PONCT	_
 ne	ne	ADV	_
 commence	commencer	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 après	après	P	_
 la	le	DET	_
 mort	mort	NC	_
@@ -14934,7 +14960,7 @@ peut	pouvoir	V	_
 être	être	VINF	_
 qualifiée	qualifier	VPP	_
 d'	de	P	_
-objective	objective	NC	_
+objective	objectif	NC	_
 ;	;	PONCT	_
 surtout	surtout	ADV	_
 par	par	P	_
@@ -14963,7 +14989,7 @@ mérite	mériter	V	_
 le	le	DET	_
 nom	nom	NC	_
 de	de	P	_
-subjective	subjective	NC	_
+subjective	subjectif	NC	_
 .	.	PONCT	_
 Telle	tel	ADJ	_
 est	être	V	_
@@ -15296,7 +15322,7 @@ la	le	DET	_
 conception	conception	NC	_
 de	de	P	_
 l'	le	DET	_
-Humanité	Humanité	NC	_
+Humanité	humanité	NC	_
 ,	,	PONCT	_
 dans	dans	P	_
 cette	ce	DET	_
@@ -15324,7 +15350,7 @@ révéler	révéler	VINF	_
 le	le	DET	_
 tronc	tronc	NC	_
 unique	unique	ADJ	_
-auquel	auquel	PROREL	_
+auquel	à_lequel	PROREL	_
 appartiennent	appartenir	V	_
 nécessairement	nécessairement	ADV	_
 tous	tout	ADJ	_
@@ -15353,7 +15379,7 @@ fondamentale	fondamental	ADJ	_
 ,	,	PONCT	_
 quelques	quelque	DET	_
 difficultés	difficulté	NC	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 elle	il	CLS	_
 m'	je	CLO	_
 offre	offrir	V	_
@@ -15415,7 +15441,7 @@ du	de_le	P+D	_
 nouvel	nouveau	ADJ	_
 être	être	VINF	_
 -	-	PONCT	_
-Suprême	Suprême	NP	_
+Suprême	suprême	NP	_
 ,	,	PONCT	_
 j'	je	CLS	_
 ai	avoir	V	_
@@ -15434,7 +15460,7 @@ mon	mon	DET	_
 individualité	individualité	NC	_
 .	.	PONCT	_
 LE	le	DET	_
-PRêTRE	PRêTRE	NC	_
+PRêTRE	prêtre	NC	_
 .	.	PONCT	_
 Cela	cela	PRO	_
 va	aller	V	_
@@ -15463,7 +15489,7 @@ l'	le	DET	_
 ensemble	ensemble	NC	_
 de	de	P	_
 l'	le	DET	_
-Humanité	Humanité	NC	_
+Humanité	humanité	NC	_
 constitue	constituer	V	_
 toujours	toujours	ADV	_
 le	le	DET	_
@@ -15556,7 +15582,7 @@ du	de_le	P+D	_
 nouvel	nouveau	ADJ	_
 être	être	VINF	_
 -	-	PONCT	_
-Suprême	Suprême	V	_
+Suprême	suprême	V	_
 davantage	davantage	ADV	_
 qu'	que	CS	_
 envers	envers	P	_
@@ -15633,12 +15659,12 @@ réellement	réellement	ADV	_
 indispensables	indispensable	ADJ	_
 à	à	P	_
 l'	le	DET	_
-Humanité	Humanité	NC	_
+Humanité	humanité	NC	_
 :	:	PONCT	_
 cela	cela	PRO	_
 ne	ne	ADV	_
 convient	convenir	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 aux	à_le	P+D	_
 vrais	vrai	ADJ	_
 promoteurs	promoteur	NC	_
@@ -15756,7 +15782,7 @@ telle	tel	ADJ	_
 unité	unité	NC	_
 .	.	PONCT	_
 LE	le	DET	_
-PRêTRE	PRêTRE	NC	_
+PRêTRE	prêtre	NC	_
 .	.	PONCT	_
 Vous	vous	CLS	_
 devez	devoir	V	_
@@ -15831,7 +15857,7 @@ Celles	celui	PRO	_
 -ci	ci	ADV	_
 ne	ne	ADV	_
 comportent	comporter	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 une	un	DET	_
 unité	unité	NC	_
 purement	purement	ADV	_
@@ -15978,7 +16004,7 @@ organisés	organiser	VPP	_
 n'	ne	ADV	_
 ont	avoir	V	_
 abouti	aboutir	VPP	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 à	à	P	_
 discréditer	discréditer	VINF	_
 cette	ce	DET	_
@@ -15990,14 +16016,15 @@ qu'	que	CS	_
 oiseuse	oiseux	ADJ	_
 ,	,	PONCT	_
 désormais	désormais	ADV	_
-abandonnée	abandonnée	ADJ	_
+abandonnée	abandonné	ADJ	_
 aux	à_le	P+D	_
 esprits	esprit	NC	_
 antiscientifiques	antiscientifique	ADJ	_
 .	.	PONCT	_
 Mais	mais	CC	_
 ,	,	PONCT	_
-en_outre	en_outre	ADV	_
+en	en	P	_
+outre	outre	P	_
 ,	,	PONCT	_
 il	il	CLS	_
 s'	se	CLO	_
@@ -16225,7 +16252,7 @@ le	le	DET	_
 dogme	dogme	NC	_
 de	de	P	_
 l'	le	DET	_
-Humanité	Humanité	NC	_
+Humanité	humanité	NC	_
 fournit	fournir	V	_
 à	à	P	_
 l'	le	DET	_
@@ -16290,7 +16317,8 @@ au	à_le	P+D	_
 sexe	sexe	NC	_
 affectif	affectif	ADJ	_
 ,	,	PONCT	_
-tandis_que	tandis_que	CS	_
+tandis	tandis	ADV	_
+que	que	CS	_
 l'	le	DET	_
 ordre	ordre	NC	_
 intermédiaire	intermédiaire	ADJ	_
@@ -16400,7 +16428,7 @@ leurs	leur	DET	_
 efforts	effort	NC	_
 ne	ne	ADV	_
 comportèrent	comporter	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 une	un	DET	_
 précieuse	précieux	ADJ	_
 réaction	réaction	NC	_
@@ -16621,7 +16649,7 @@ unité	unité	NC	_
 systématique	systématique	ADJ	_
 .	.	PONCT	_
 LE	le	DET	_
-PRêTRE	PRêTRE	NC	_
+PRêTRE	prêtre	NC	_
 .	.	PONCT	_
 Je	je	CLS	_
 dois	devoir	V	_
@@ -16901,7 +16929,7 @@ guider	guider	VINF	_
 la	le	DET	_
 pratique	pratique	NC	_
 ,	,	PONCT	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 elle	il	CLS	_
 entraînerait	entraîner	V	_
 isolément	isolément	ADV	_
@@ -17144,7 +17172,8 @@ et	et	CC	_
 de	de	P	_
 régulateur	régulateur	NC	_
 .	.	PONCT	_
-Tandis_que	tandis_que	CS	_
+Tandis	tandis	ADV	_
+que	que	CS	_
 la	le	DET	_
 subordination	subordination	NC	_
 du	de_le	P+D	_
@@ -17551,7 +17580,7 @@ fonctions	fonction	NC	_
 corporelles	corporel	ADJ	_
 .	.	PONCT	_
 LE	le	DET	_
-PRêTRE	PRêTRE	NC	_
+PRêTRE	prêtre	NC	_
 .	.	PONCT	_
 Il	il	CLS	_
 vous	vous	CLO	_
@@ -17811,7 +17840,7 @@ marche	marche	NC	_
 générale	général	ADJ	_
 .	.	PONCT	_
 LE	le	DET	_
-PRêTRE	PRêTRE	NC	_
+PRêTRE	prêtre	NC	_
 .	.	PONCT	_
 Elle	il	CLS	_
 consiste	consister	V	_
@@ -18088,7 +18117,7 @@ telle	tel	ADJ	_
 évolution	évolution	NC	_
 .	.	PONCT	_
 LE	le	DET	_
-PRêTRE	PRêTRE	NC	_
+PRêTRE	prêtre	NC	_
 .	.	PONCT	_
 Il	il	CLS	_
 résulte	résulter	V	_
@@ -18441,7 +18470,8 @@ les	le	DET	_
 résultats	résultat	NC	_
 respectifs	respectif	ADJ	_
 .	.	PONCT	_
-Tandis_que	tandis_que	CS	_
+Tandis	tandis	ADV	_
+que	que	CS	_
 l'	le	DET	_
 ontologie	ontologie	NC	_
 germanique	germanique	ADJ	_
@@ -18718,7 +18748,7 @@ telle	tel	ADJ	_
 perplexité	perplexité	NC	_
 .	.	PONCT	_
 LE	le	DET	_
-PRêTRE	PRêTRE	NC	_
+PRêTRE	prêtre	NC	_
 .	.	PONCT	_
 Elle	il	CLS	_
 disparaîtra	disparaître	V	_
@@ -18846,7 +18876,8 @@ théories	théorie	NC	_
 restent	rester	V	_
 métaphysiques	métaphysique	ADJ	_
 ,	,	PONCT	_
-tandis_que	tandis_que	CS	_
+tandis	tandis	ADV	_
+que	que	CS	_
 d'	un	DET	_
 autres	autre	NC	_
 plus	plus	ADV	_
@@ -19119,7 +19150,7 @@ principe	principe	NC	_
 universel	universel	ADJ	_
 de	de	P	_
 l'	le	DET	_
-Humanité	Humanité	NC	_
+Humanité	humanité	NC	_
 peut	pouvoir	V	_
 enfin	enfin	ADV	_
 instituer	instituer	VINF	_
@@ -19144,7 +19175,7 @@ lois	loi	NC	_
 physiques	physique	ADJ	_
 .	.	PONCT	_
 LE	le	DET	_
-PRêTRE	PRêTRE	NC	_
+PRêTRE	prêtre	NC	_
 .	.	PONCT	_
 Ce	ce	DET	_
 juste	juste	ADJ	_
@@ -19310,7 +19341,8 @@ et	et	CC	_
 l'	le	DET	_
 action	action	NC	_
 .	.	PONCT	_
-Tandis_que	tandis_que	CS	_
+Tandis	tandis	ADV	_
+que	que	CS	_
 la	le	DET	_
 pratique	pratique	ADJ	_
 reste	reste	NC	_
@@ -19414,7 +19446,8 @@ jamais	jamais	ADV	_
 en	en	P	_
 défaut	défaut	NC	_
 ,	,	PONCT	_
-afin_d'	afin_de	P	_
+afin	afin	ADV	_
+d'	de	P	_
 éviter	éviter	VINF	_
 une	un	DET	_
 fluctuation	fluctuation	NC	_
@@ -19425,7 +19458,7 @@ ne	ne	ADV	_
 peut	pouvoir	V	_
 y	y	CLO	_
 parvenir	parvenir	VINF	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 en	en	P	_
 décomposant	décomposer	VPR	_
 ,	,	PONCT	_
@@ -19827,7 +19860,9 @@ institution	institution	NC	_
 me	je	CLO	_
 paraît	paraître	V	_
 même	même	ADV	_
-au-dessus	au-dessus	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 de	de	P	_
 nos	notre	DET	_
 forces	force	NC	_
@@ -19855,7 +19890,7 @@ l'	le	DET	_
 ensemble	ensemble	NC	_
 .	.	PONCT	_
 LE	le	DET	_
-PRêTRE	PRêTRE	NC	_
+PRêTRE	prêtre	NC	_
 .	.	PONCT	_
 Pour	pour	P	_
 vous	vous	CLO	_
@@ -19923,7 +19958,7 @@ Les	le	DET	_
 plus	plus	ADV	_
 simples	simple	ADJ	_
 de	de	P	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 ,	,	PONCT	_
 quoique	quoique	ADV	_
 répandus	répandre	VPP	_
@@ -20018,7 +20053,7 @@ suivantes	suivante	NC	_
 quoique	quoique	CS	_
 soumis	soumettre	VPP	_
 aux	à_le	P+D	_
-précédentes	précédente	NC	_
+précédentes	précédent	NC	_
 ,	,	PONCT	_
 dont	dont	PROREL	_
 l'	le	DET	_
@@ -20032,7 +20067,7 @@ attention	attention	NC	_
 vers	vers	P	_
 la	le	DET	_
 classe	classe	NC	_
-introduite	introduit	ADJ	_
+introduite	introduire	ADJ	_
 .	.	PONCT	_
 Quand	quand	CS	_
 même	même	ADV	_
@@ -20244,7 +20279,7 @@ sa	son	DET	_
 construction	construction	NC	_
 .	.	PONCT	_
 LE	le	DET	_
-PRêTRE	PRêTRE	NC	_
+PRêTRE	prêtre	NC	_
 .	.	PONCT	_
 Le	le	DET	_
 concours	concours	NC	_
@@ -20444,7 +20479,8 @@ Bichat	Bichat	NP	_
 et	et	CC	_
 Gall	Gall	NP	_
 ,	,	PONCT	_
-afin_d'	afin_de	P	_
+afin	afin	ADV	_
+d'	de	P	_
 élaborer	élaborer	VINF	_
 les	le	DET	_
 matériaux	matériau	NC	_
@@ -20576,7 +20612,7 @@ le	le	DET	_
 dogme	dogme	NC	_
 de	de	P	_
 l'	le	DET	_
-Humanité	Humanité	NC	_
+Humanité	humanité	NC	_
 procure	procurer	V	_
 successivement	successivement	ADV	_
 à	à	P	_
@@ -20605,7 +20641,7 @@ universelle	universel	ADJ	_
 connexité	connexité	NC	_
 .	.	PONCT	_
 LE	le	DET	_
-PRêTRE	PRêTRE	NC	_
+PRêTRE	prêtre	NC	_
 .	.	PONCT	_
 Pour	pour	P	_
 mieux	mieux	ADV	_
@@ -20692,7 +20728,7 @@ au	à_le	P+D	_
 fond	fond	NC	_
 ,	,	PONCT	_
 destinée	destiner	VPP	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 à	à	P	_
 les	il	CLO	_
 consolider	consolider	VINF	_
@@ -20709,7 +20745,7 @@ l'	le	DET	_
 directe	direct	ADJ	_
 de	de	P	_
 l'	le	DET	_
-Humanité	Humanité	NC	_
+Humanité	humanité	NC	_
 peut	pouvoir	V	_
 autant	autant	ADV	_
 dégénérer	dégénérer	VINF	_
@@ -20997,7 +21033,7 @@ isolait	isoler	V	_
 profondément	profondément	ADV	_
 de	de	P	_
 l'	le	DET	_
-Humanité	Humanité	NC	_
+Humanité	humanité	NC	_
 .	.	PONCT	_
 Au	à_le	P+D	_
 contraire	contraire	NC	_
@@ -21038,7 +21074,8 @@ de	de	P	_
 soi	soi	PRO	_
 -même	même	ADJ	_
 ,	,	PONCT	_
-afin_d'	afin_de	P	_
+afin	afin	ADV	_
+d'	de	P	_
 établir	établir	VINF	_
 des	un	DET	_
 notions	notion	NC	_
@@ -21078,10 +21115,11 @@ sans	sans	P	_
 cesse	cesse	NC	_
 de	de	P	_
 l'	le	DET	_
-Humanité	Humanité	NC	_
+Humanité	humanité	NC	_
 ,	,	PONCT	_
 surtout	surtout	ADV	_
-quant_à	quant_à	P	_
+quant	quant	ADV	_
+à	à	P	_
 nos	notre	DET	_
 plus	plus	ADV	_
 nobles	noble	ADJ	_
@@ -21187,7 +21225,8 @@ ce	ce	DET	_
 premier	premier	ADJ	_
 pas	pas	NC	_
 ,	,	PONCT	_
-afin_d'	afin_de	P	_
+afin	afin	ADV	_
+d'	de	P	_
 y	y	CLO	_
 résoudre	résoudre	VINF	_
 la	le	DET	_
@@ -21239,7 +21278,7 @@ vue	vue	NC	_
 social	social	ADJ	_
 .	.	PONCT	_
 LE	le	DET	_
-PRêTRE	PRêTRE	NC	_
+PRêTRE	prêtre	NC	_
 .	.	PONCT	_
 Cela	cela	PRO	_
 ne	ne	ADV	_
@@ -21248,7 +21287,7 @@ tient	tenir	V	_
 ma	mon	DET	_
 fille	fille	NC	_
 ,	,	PONCT	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 à	à	P	_
 ce	ce	PRO	_
 que	que	PROREL	_
@@ -21386,7 +21425,8 @@ un	un	DET	_
 compte	compte	NC	_
 spécial	spécial	ADJ	_
 ,	,	PONCT	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 leurs	leur	DET	_
 résultats	résultat	NC	_
 ,	,	PONCT	_
@@ -21490,7 +21530,7 @@ filiation	filiation	NC	_
 générale	général	ADJ	_
 .	.	PONCT	_
 LE	le	DET	_
-PRêTRE	PRêTRE	NC	_
+PRêTRE	prêtre	NC	_
 .	.	PONCT	_
 Votre	votre	DET	_
 objection	objection	NC	_
@@ -21739,7 +21779,7 @@ dont	dont	PROREL	_
 elle	il	CLS	_
 ne	ne	ADV	_
 peut	pouvoir	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 ébaucher	ébaucher	VINF	_
 grossièrement	grossièrement	ADV	_
 la	le	DET	_
@@ -21915,7 +21955,8 @@ nom	nom	NC	_
 de	de	P	_
 sociologie	sociologie	NC	_
 ,	,	PONCT	_
-afin_de	afin_de	P	_
+afin	afin	ADV	_
+de	de	P	_
 caractériser	caractériser	VINF	_
 davantage	davantage	ADV	_
 la	le	DET	_
@@ -22395,7 +22436,8 @@ son	son	DET	_
 vrai	vrai	ADJ	_
 domaine	domaine	NC	_
 ,	,	PONCT	_
-afin_de	afin_de	P	_
+afin	afin	ADV	_
+de	de	P	_
 comprimer	comprimer	VINF	_
 systématiquement	systématiquement	ADV	_
 l'	le	DET	_
@@ -22475,7 +22517,7 @@ ne	ne	ADV	_
 peuvent	pouvoir	V	_
 être	être	VINF	_
 systématisées	systématiser	VPP	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 à	à	P	_
 l'	le	DET	_
 aide	aide	NC	_
@@ -22503,7 +22545,7 @@ sentir	sentir	VINF	_
 Ce	ce	CLS	_
 n'	ne	ADV	_
 est	être	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 en	en	P	_
 mathématique	mathématique	NC	_
 qu'	que	PROREL	_
@@ -22762,7 +22804,8 @@ des	un	DET	_
 fondements	fondement	NC	_
 positifs	positif	ADJ	_
 ,	,	PONCT	_
-afin_de	afin_de	P	_
+afin	afin	ADV	_
+de	de	P	_
 remplacer	remplacer	VINF	_
 irrévocablement	irrévocablement	ADV	_
 ses	son	DET	_
@@ -22937,7 +22980,7 @@ de	de	P	_
 satisfaction	satisfaction	NC	_
 à	à	P	_
 monter	monter	VINF	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 à	à	P	_
 descendre	descendre	VINF	_
 votre	votre	DET	_
@@ -22945,7 +22988,7 @@ votre	votre	DET	_
 encyclopédique	encyclopédique	ADJ	_
 .	.	PONCT	_
 LE	le	DET	_
-PRêTRE	PRêTRE	NC	_
+PRêTRE	prêtre	NC	_
 .	.	PONCT	_
 Cette	ce	DET	_
 alternance	alternance	NC	_
@@ -23482,7 +23525,8 @@ que	que	CS	_
 les	le	DET	_
 femmes	femme	NC	_
 ,	,	PONCT	_
-afin_d'	afin_de	P	_
+afin	afin	ADV	_
+d'	de	P	_
 y	y	CLO	_
 puiser	puiser	VINF	_
 les	le	DET	_
@@ -23749,7 +23793,7 @@ hiérarchie	hiérarchie	NC	_
 théorique	théorique	ADJ	_
 .	.	PONCT	_
 LE	le	DET	_
-PRêTRE	PRêTRE	NC	_
+PRêTRE	prêtre	NC	_
 .	.	PONCT	_
 Réduisez	réduire	V	_
 -les	il	CLO	_
@@ -23907,7 +23951,7 @@ absorbe	absorber	V	_
 spontanément	spontanément	ADV	_
 toutes	tout	ADJ	_
 les	le	DET	_
-précédentes	précédente	NC	_
+précédentes	précédent	NC	_
 ,	,	PONCT	_
 d'	de	P	_
 après	après	P	_
@@ -24215,7 +24259,7 @@ série	série	NC	_
 encyclopédique	encyclopédique	ADJ	_
 .	.	PONCT	_
 LE	le	DET	_
-PRêTRE	PRêTRE	NC	_
+PRêTRE	prêtre	NC	_
 .	.	PONCT	_
 Elle	il	CLS	_
 consiste	consister	V	_
@@ -24694,7 +24738,7 @@ m'	je	CLO	_
 occuper	occuper	VINF	_
 .	.	PONCT	_
 LE	le	DET	_
-PRêTRE	PRêTRE	NC	_
+PRêTRE	prêtre	NC	_
 .	.	PONCT	_
 Les	le	DET	_
 notions	notion	NC	_
@@ -24796,7 +24840,7 @@ humain	humain	ADJ	_
 Le	le	DET	_
 premier	premier	NC	_
 ,	,	PONCT	_
-auquel	auquel	PROREL	_
+auquel	à_lequel	PROREL	_
 correspondent	correspondre	V	_
 la	le	DET	_
 cosmologie	cosmologie	NC	_
@@ -24864,7 +24908,7 @@ ne	ne	ADV	_
 pouvait	pouvoir	V	_
 longtemps	longtemps	ADV	_
 aboutir	aboutir	VINF	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 à	à	P	_
 compromettre	compromettre	VINF	_
 l'	le	DET	_
@@ -24928,7 +24972,7 @@ fut	être	V	_
 -il	il	CLS	_
 vraiment	vraiment	ADV	_
 apprécié	apprécier	VPP	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 au	à_le	P+D	_
 moyen	moyen	ADJ	_
 âge	âge	NC	_
@@ -25201,7 +25245,8 @@ la	le	DET	_
 possibilité	possibilité	NC	_
 générale	général	ADJ	_
 ,	,	PONCT	_
-afin_de	afin_de	P	_
+afin	afin	ADV	_
+de	de	P	_
 s'	se	CLO	_
 assurer	assurer	VINF	_
 que	que	CS	_
@@ -25321,7 +25366,7 @@ lui	il	CLO	_
 attribuez	attribuer	V	_
 .	.	PONCT	_
 LE	le	DET	_
-PRêTRE	PRêTRE	NC	_
+PRêTRE	prêtre	NC	_
 .	.	PONCT	_
 Pour	pour	P	_
 concevoir	concevoir	VINF	_
@@ -25824,7 +25869,8 @@ les	le	DET	_
 attributs	attribut	NC	_
 géométriques	géométrique	ADJ	_
 .	.	PONCT	_
-Quant_au	quant_à_le	P+D	_
+Quant	quant	ADV	_
+au	à_le	P+D	_
 mouvement	mouvement	NC	_
 ,	,	PONCT	_
 vous	vous	CLS	_
@@ -25866,7 +25912,7 @@ purent	pouvoir	V	_
 ébaucher	ébaucher	VINF	_
 la	le	DET	_
 mécanique	mécanique	NC	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 envers	envers	P	_
 quelques	quelque	DET	_
 cas	cas	NC	_
@@ -26430,7 +26476,7 @@ effet	effet	NC	_
 les	le	DET	_
 vicieuses	vicieux	ADJ	_
 objections	objection	NC	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 éprouva	éprouver	V	_
 sa	son	DET	_
 découverte	découverte	NC	_
@@ -26689,7 +26735,8 @@ avec	avec	P	_
 l'	le	DET	_
 ordre	ordre	NC	_
 .	.	PONCT	_
-Quant_à	quant_à	P	_
+Quant	quant	ADV	_
+à	à	P	_
 la	le	DET	_
 troisième	troisième	NC	_
 ,	,	PONCT	_
@@ -26704,7 +26751,7 @@ qui	qui	PROREL	_
 jamais	jamais	ADV	_
 ne	ne	ADV	_
 varie	varier	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 envers	envers	P	_
 la	le	DET	_
 mesure	mesure	NC	_
@@ -26784,7 +26831,7 @@ ordre	ordre	NC	_
 matériel	matériel	ADJ	_
 .	.	PONCT	_
 LE	le	DET	_
-PRêTRE	PRêTRE	NC	_
+PRêTRE	prêtre	NC	_
 .	.	PONCT	_
 Sa	son	DET	_
 pleine	plein	ADJ	_
@@ -27142,7 +27189,8 @@ aurais	avoir	V	_
 prochainement	prochainement	ADV	_
 exposé	exposer	VPP	_
 ,	,	PONCT	_
-quant_à	quant_à	P	_
+quant	quant	ADV	_
+à	à	P	_
 la	le	DET	_
 continuité	continuité	NC	_
 encyclopédique	encyclopédique	ADJ	_
@@ -27372,7 +27420,7 @@ hiérarchie	hiérarchie	NC	_
 abstraite	abstrait	ADJ	_
 .	.	PONCT	_
 LE	le	DET	_
-PRêTRE	PRêTRE	NC	_
+PRêTRE	prêtre	NC	_
 .	.	PONCT	_
 Puisque	puisque	CS	_
 vous	vous	CLS	_
@@ -27394,7 +27442,7 @@ reste	rester	V	_
 ma	mon	DET	_
 fille	fille	NC	_
 ,	,	PONCT	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 à	à	P	_
 compléter	compléter	VINF	_
 votre	votre	DET	_
@@ -27413,7 +27461,7 @@ destination	destination	NC	_
 des	de_le	P+D	_
 trois	trois	ADJ	_
 sciences	science	NC	_
-introduites	introduit	ADJ	_
+introduites	introduire	ADJ	_
 .	.	PONCT	_
 La	le	DET	_
 religion	religion	NC	_
@@ -27672,7 +27720,7 @@ alors	alors	ADV	_
 ,	,	PONCT	_
 dans	dans	P	_
 un	un	DET	_
-charmant	charmant	ADJ	_
+charmant	charmer	ADJ	_
 opuscule	opuscule	NC	_
 ,	,	PONCT	_
 que	que	CS	_
@@ -27958,10 +28006,10 @@ distincte	distinct	ADJ	_
 ,	,	PONCT	_
 tant	tant	ADV	_
 en	en	P	_
-Orient	Orient	NC	_
+Orient	orient	NC	_
 qu'	que	CS	_
 en	en	P	_
-Occident	Occident	NC	_
+Occident	occident	NC	_
 ,	,	PONCT	_
 plusieurs	plusieurs	DET	_
 siècles	siècle	NC	_
@@ -27972,7 +28020,8 @@ que	que	PROREL	_
 Galilée	Galilée	NP	_
 fonda	fonder	V	_
 spontanément	spontanément	ADV	_
-afin_d'	afin_de	P	_
+afin	afin	ADV	_
+d'	de	P	_
 établir	établir	VINF	_
 une	un	DET	_
 transition	transition	NC	_
@@ -28408,7 +28457,8 @@ la	le	DET	_
 chimie	chimie	NC	_
 l'	il	CLO	_
 emporte	emporter	V	_
-quant_à	quant_à	P	_
+quant	quant	ADV	_
+à	à	P	_
 l'	le	DET	_
 influence	influence	NC	_
 encyclopédique	encyclopédique	ADJ	_
@@ -28797,7 +28847,7 @@ matérielles	matériel	ADJ	_
 toujours	toujours	ADV	_
 subordonnée	subordonner	VPP	_
 aux	à_le	P+D	_
-précédentes	précédente	NC	_
+précédentes	précédent	NC	_
 ,	,	PONCT	_
 suivant	suivant	P	_
 notre	notre	DET	_
@@ -28819,7 +28869,7 @@ doive	devoir	V	_
 se	se	CLO	_
 développer	développer	VINF	_
 assez	assez	ADV	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 en	en	P	_
 biologie	biologie	NC	_
 ,	,	PONCT	_
@@ -28861,7 +28911,7 @@ père	père	NC	_
 mieux	mieux	ADV	_
 juger	juger	VINF	_
 les	le	DET	_
-brillants	brillant	ADJ	_
+brillants	briller	ADJ	_
 conflits	conflit	NC	_
 qui	qui	PROREL	_
 surgissent	surgir	V	_
@@ -28940,7 +28990,7 @@ domaines	domaine	NC	_
 respectifs	respectif	ADJ	_
 .	.	PONCT	_
 LE	le	DET	_
-PRêTRE	PRêTRE	NC	_
+PRêTRE	prêtre	NC	_
 .	.	PONCT	_
 Une	un	DET	_
 telle	tel	ADJ	_
@@ -29214,7 +29264,7 @@ la	le	DET	_
 mort	mort	NC	_
 .	.	PONCT	_
 LE	le	DET	_
-PRêTRE	PRêTRE	NC	_
+PRêTRE	prêtre	NC	_
 .	.	PONCT	_
 Votre	votre	DET	_
 embarras	embarras	NC	_
@@ -29613,7 +29663,8 @@ la	le	DET	_
 vie	vie	NC	_
 végétative	végétatif	ADJ	_
 ;	;	PONCT	_
-tandis_que	tandis_que	CS	_
+tandis	tandis	ADV	_
+que	que	CS	_
 la	le	DET	_
 vie	vie	NC	_
 animale	animal	ADJ	_
@@ -29856,7 +29907,7 @@ la	le	DET	_
 pesanteur	pesanteur	NC	_
 .	.	PONCT	_
 LE	le	DET	_
-PRêTRE	PRêTRE	NC	_
+PRêTRE	prêtre	NC	_
 .	.	PONCT	_
 La	le	DET	_
 difficulté	difficulté	NC	_
@@ -30519,7 +30570,7 @@ et	et	CC	_
 animalité	animalité	NC	_
 .	.	PONCT	_
 LE	le	DET	_
-PRêTRE	PRêTRE	NC	_
+PRêTRE	prêtre	NC	_
 .	.	PONCT	_
 Ce	ce	DET	_
 juste	juste	ADJ	_
@@ -30733,7 +30784,8 @@ inorganique	inorganique	ADJ	_
 .	.	PONCT	_
 Mais	mais	CC	_
 ,	,	PONCT	_
-en_outre	en_outre	ADV	_
+en	en	P	_
+outre	outre	P	_
 ,	,	PONCT	_
 une	un	DET	_
 espèce	espèce	NC	_
@@ -30831,7 +30883,8 @@ le	le	DET	_
 type	type	NC	_
 humain	humain	ADJ	_
 .	.	PONCT	_
-Quant_aux	quant_à_le	P+D	_
+quant	quant	ADV	_
+aux	à_le	P+D	_
 trois	trois	DET	_
 lois	loi	NC	_
 d'	de	P	_
@@ -30893,7 +30946,8 @@ moitié	moitié	NC	_
 peut	pouvoir	V	_
 être	être	VINF	_
 active	actif	ADJ	_
-tandis_que	tandis_que	CS	_
+tandis	tandis	ADV	_
+que	que	CS	_
 l'	le	DET	_
 autre	autre	ADJ	_
 reste	reste	NC	_
@@ -30914,7 +30968,7 @@ cas	cas	NC	_
 ,	,	PONCT	_
 suppose	supposer	V	_
 la	le	DET	_
-précédente	précédente	NC	_
+précédente	précédent	NC	_
 mais	mais	CC	_
 sans	sans	P	_
 en	en	CLO	_
@@ -31132,12 +31186,12 @@ elle	il	CLS	_
 ne	ne	ADV	_
 soit	être	V	_
 logiquement	logiquement	ADV	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 une	un	DET	_
 conséquence	conséquence	NC	_
 nécessaire	nécessaire	ADJ	_
 des	de_le	P+D	_
-précédentes	précédente	NC	_
+précédentes	précédent	NC	_
 .	.	PONCT	_
 Toute	tout	DET	_
 fonction	fonction	NC	_
@@ -31263,7 +31317,7 @@ ici	ici	ADV	_
 une	un	DET	_
 telle	tel	ADJ	_
 considération	considération	NC	_
-indique	indique	ADJ	_
+indique	indiquer	ADJ	_
 sa	son	DET	_
 haute	haut	ADJ	_
 efficacité	efficacité	NC	_
@@ -31349,7 +31403,7 @@ domestiques	domestique	ADJ	_
 ne	ne	ADV	_
 doivent	devoir	V	_
 donner	donner	VINF	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 une	un	DET	_
 faible	faible	ADJ	_
 idée	idée	NC	_
@@ -31430,7 +31484,7 @@ dogme	dogme	NC	_
 positif	positif	ADJ	_
 .	.	PONCT	_
 LE	le	DET	_
-PRêTRE	PRêTRE	NC	_
+PRêTRE	prêtre	NC	_
 .	.	PONCT	_
 Vous	vous	CLS	_
 pouvez	pouvoir	V	_
@@ -31683,7 +31737,7 @@ le	le	DET	_
 positivisme	positivisme	NC	_
 .	.	PONCT	_
 LE	le	DET	_
-PRêTRE	PRêTRE	NC	_
+PRêTRE	prêtre	NC	_
 .	.	PONCT	_
 Il	il	CLS	_
 est	être	V	_
@@ -31919,7 +31973,8 @@ a	avoir	V	_
 comprises	comprendre	VPP	_
 .	.	PONCT	_
 Mais	mais	CC	_
-en_outre	en_outre	ADV	_
+en	en	P	_
+outre	outre	P	_
 ,	,	PONCT	_
 chacun	chacun	PRO	_
 est	être	V	_
@@ -32326,7 +32381,7 @@ monde	monde	NC	_
 social	social	ADJ	_
 .	.	PONCT	_
 LE	le	DET	_
-PRêTRE	PRêTRE	NC	_
+PRêTRE	prêtre	NC	_
 .	.	PONCT	_
 Vous	vous	CLS	_
 devez	devoir	V	_
@@ -32402,9 +32457,10 @@ destinées	destinée	NC	_
 successives	successif	ADJ	_
 de	de	P	_
 l'	le	DET	_
-Humanité	Humanité	NC	_
+Humanité	humanité	NC	_
 ,	,	PONCT	_
-afin_de	afin_de	P	_
+afin	afin	ADV	_
+de	de	P	_
 guider	guider	VINF	_
 convenablement	convenablement	ADV	_
 la	le	DET	_
@@ -32490,7 +32546,8 @@ alors	alors	ADV	_
 plus	plus	ADV	_
 prononcée	prononcer	VPP	_
 ;	;	PONCT	_
-tandis_que	tandis_que	CS	_
+tandis	tandis	ADV	_
+que	que	CS	_
 la	le	DET	_
 simplification	simplification	NC	_
 résultée	résulter	VPP	_
@@ -32546,7 +32603,7 @@ les	le	DET	_
 successifs	successif	ADJ	_
 de	de	P	_
 l'	le	DET	_
-Humanité	Humanité	NC	_
+Humanité	humanité	NC	_
 doivent	devoir	V	_
 ainsi	ainsi	ADV	_
 manifester	manifester	VINF	_
@@ -32696,7 +32753,7 @@ notre	notre	DET	_
 nature	nature	NC	_
 .	.	PONCT	_
 LE	le	DET	_
-PRêTRE	PRêTRE	NC	_
+PRêTRE	prêtre	NC	_
 .	.	PONCT	_
 Il	il	CLS	_
 vous	vous	CLO	_
@@ -32725,14 +32782,15 @@ social	social	ADJ	_
 .	.	PONCT	_
 Car	car	CC	_
 ,	,	PONCT	_
-afin_de	afin_de	P	_
+afin	afin	ADV	_
+de	de	P	_
 représenter	représenter	VINF	_
 l'	le	DET	_
 exigence	exigence	NC	_
 générale	général	ADJ	_
 de	de	P	_
 l'	le	DET	_
-Humanité	Humanité	NC	_
+Humanité	humanité	NC	_
 ,	,	PONCT	_
 elle	il	CLS	_
 doit	devoir	V	_
@@ -32917,7 +32975,7 @@ corporelle	corporel	ADJ	_
 imposent	imposer	V	_
 à	à	P	_
 l'	le	DET	_
-Humanité	Humanité	NC	_
+Humanité	humanité	NC	_
 une	un	DET	_
 activité	activité	NC	_
 matérielle	matériel	ADJ	_
@@ -33224,7 +33282,7 @@ première	première	NC	_
 ne	ne	ADV	_
 puisse	pouvoir	V	_
 être	être	VINF	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 indirecte	indirect	ADJ	_
 ,	,	PONCT	_
 elle	il	CLS	_
@@ -33243,7 +33301,8 @@ représentant	représenter	VPR	_
 la	le	DET	_
 continuité	continuité	NC	_
 ,	,	PONCT	_
-tandis_que	tandis_que	CS	_
+tandis	tandis	ADV	_
+que	que	CS	_
 la	le	DET	_
 seconde	seconde	NC	_
 correspond	correspondre	V	_
@@ -33258,7 +33317,7 @@ trésors	trésor	NC	_
 matériels	matériel	ADJ	_
 que	que	CS	_
 l'	le	DET	_
-Humanité	Humanité	NC	_
+Humanité	humanité	NC	_
 confie	confier	V	_
 aux	à_le	P+D	_
 riches	riche	NC	_
@@ -33527,11 +33586,12 @@ faire	faire	VINF	_
 accepter	accepter	VINF	_
 dignement	dignement	ADV	_
 ,	,	PONCT	_
-afin_de	afin_de	P	_
+afin	afin	ADV	_
+de	de	P	_
 réaliser	réaliser	VINF	_
 le	le	DET	_
 bien	bien	NC	_
-auquel	auquel	PROREL	_
+auquel	à_lequel	PROREL	_
 il	il	CLS	_
 aspire	aspirer	V	_
 naturellement	naturellement	ADV	_
@@ -33548,7 +33608,7 @@ apprécier	apprécier	VINF	_
 assez	assez	ADV	_
 .	.	PONCT	_
 LE	le	DET	_
-PRêTRE	PRêTRE	NC	_
+PRêTRE	prêtre	NC	_
 .	.	PONCT	_
 Vous	vous	CLS	_
 avez	avoir	V	_
@@ -33710,7 +33770,7 @@ décroissante	décroissant	ADJ	_
 représenter	représenter	VINF	_
 naturellement	naturellement	ADV	_
 l'	le	DET	_
-Humanité	Humanité	NC	_
+Humanité	humanité	NC	_
 ,	,	PONCT	_
 ils	il	CLS	_
 suivent	suivre	V	_
@@ -33911,9 +33971,10 @@ incorporera	incorporer	V	_
 convenablement	convenablement	ADV	_
 à	à	P	_
 l'	le	DET	_
-Humanité	Humanité	NC	_
+Humanité	humanité	NC	_
 .	.	PONCT	_
-Afin_de	afin_de	P	_
+Afin	afin	ADV	_
+de	de	P	_
 mieux	mieux	ADV	_
 comprendre	comprendre	VINF	_
 la	le	DET	_
@@ -33964,7 +34025,7 @@ trésors	trésor	NC	_
 matériels	matériel	ADJ	_
 de	de	P	_
 l'	le	DET	_
-Humanité	Humanité	NC	_
+Humanité	humanité	NC	_
 ,	,	PONCT	_
 pour	pour	P	_
 être	être	VINF	_
@@ -34003,7 +34064,8 @@ la	le	DET	_
 vie	vie	NC	_
 réelle	réel	ADJ	_
 ,	,	PONCT	_
-afin_d'	afin_de	P	_
+afin	afin	ADV	_
+d'	de	P	_
 y	y	CLO	_
 ramener	ramener	VINF	_
 chaque	chaque	DET	_
@@ -34067,7 +34129,7 @@ peuvent	pouvoir	V	_
 simultanément	simultanément	ADV	_
 servir	servir	VINF	_
 à	à	P	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 sans	sans	P	_
 s'	se	CLO	_
 épuiser	épuiser	VINF	_
@@ -34207,7 +34269,7 @@ acquérir	acquérir	VINF	_
 assez	assez	ADV	_
 de	de	P	_
 consistance	consistance	NC	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 en	en	P	_
 s'	se	CLO	_
 appuyant	appuyer	VPR	_
@@ -34240,7 +34302,7 @@ réservoirs	réservoir	NC	_
 nutritifs	nutritif	ADJ	_
 de	de	P	_
 l'	le	DET	_
-Humanité	Humanité	NC	_
+Humanité	humanité	NC	_
 ,	,	PONCT	_
 qui	qui	PROREL	_
 doivent	devoir	V	_
@@ -34252,7 +34314,8 @@ l'	le	DET	_
 existence	existence	NC	_
 matérielle	matériel	ADJ	_
 ,	,	PONCT	_
-tandis_que	tandis_que	CS	_
+tandis	tandis	ADV	_
+que	que	CS	_
 leurs	leur	DET	_
 gardiens	gardien	NC	_
 dirigent	diriger	V	_
@@ -34338,7 +34401,8 @@ peut	pouvoir	V	_
 que	que	ADV	_
 gratuit	gratuit	ADJ	_
 ,	,	PONCT	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 il	il	CLS	_
 ne	ne	ADV	_
 comporte	comporter	V	_
@@ -34356,7 +34420,7 @@ véritable	véritable	ADJ	_
 ne	ne	ADV	_
 saurait	savoir	V	_
 exister	exister	VINF	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 entre	entre	P	_
 les	le	DET	_
 matériaux	matériau	NC	_
@@ -34402,7 +34466,7 @@ humain	humain	ADJ	_
 ne	ne	ADV	_
 reste	rester	V	_
 douteuse	douteux	ADJ	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 envers	envers	P	_
 le	le	DET	_
 prolétariat	prolétariat	NC	_
@@ -34418,7 +34482,7 @@ moins	moins	NC	_
 Une	un	DET	_
 telle	tel	ADJ	_
 contradiction	contradiction	NC	_
-indique	indique	ADJ	_
+indique	indiquer	ADJ	_
 assez	assez	ADV	_
 la	le	DET	_
 source	source	NC	_
@@ -34681,7 +34745,7 @@ la	le	DET	_
 vérité	vérité	NC	_
 .	.	PONCT	_
 LE	le	DET	_
-PRêTRE	PRêTRE	NC	_
+PRêTRE	prêtre	NC	_
 .	.	PONCT	_
 Pour	pour	P	_
 compléter	compléter	VINF	_
@@ -34783,7 +34847,7 @@ milieu	milieu	NC	_
 repose	reposer	V	_
 sur	sur	P	_
 la	le	DET	_
-précédente	précédente	NC	_
+précédente	précédent	NC	_
 et	et	CC	_
 sert	servir	V	_
 de	de	P	_
@@ -34800,7 +34864,7 @@ l'	le	DET	_
 amour	amour	NC	_
 ,	,	PONCT	_
 la	le	DET	_
-Famille	Famille	NC	_
+Famille	famille	NC	_
 est	être	V	_
 la	le	DET	_
 société	société	NC	_
@@ -34993,7 +35057,7 @@ peut	pouvoir	V	_
 être	être	VINF	_
 vraiement	vraiement	ADV	_
 durable	durable	ADJ	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 autant	autant	ADV	_
 qu'	que	CS	_
 il	il	CLS	_
@@ -35014,7 +35078,7 @@ vraie	vrai	ADJ	_
 notion	notion	NC	_
 de	de	P	_
 l'	le	DET	_
-Humanité	Humanité	NC	_
+Humanité	humanité	NC	_
 .	.	PONCT	_
 Or	or	CC	_
 ,	,	PONCT	_
@@ -35076,7 +35140,7 @@ domination	domination	NC	_
 romaine	romain	ADJ	_
 .	.	PONCT	_
 L'	le	DET	_
-Occident	Occident	NC	_
+Occident	occident	NC	_
 offrit	offrir	V	_
 ainsi	ainsi	ADV	_
 ,	,	PONCT	_
@@ -35199,7 +35263,7 @@ encore	encore	ADV	_
 sensibles	sensible	ADJ	_
 ,	,	PONCT	_
 les	le	DET	_
-Occidentaux	Occidentaux	NC	_
+Occidentaux	occidental	NC	_
 laissèrent	laisser	V	_
 partout	partout	ADV	_
 former	former	VINF	_
@@ -35445,7 +35509,7 @@ la	le	DET	_
 plus	plus	ADV	_
 difficile	difficile	ADJ	_
 de	de	P	_
-toutes	tous	PRO	_
+toutes	tout	PRO	_
 ,	,	PONCT	_
 sa	son	DET	_
 culture	culture	NC	_
@@ -35485,7 +35549,7 @@ homme	homme	NC	_
 individuel	individuel	ADJ	_
 .	.	PONCT	_
 LE	le	DET	_
-PRêTRE	PRêTRE	NC	_
+PRêTRE	prêtre	NC	_
 .	.	PONCT	_
 EN	en	P	_
 effet	effet	NC	_
@@ -35664,7 +35728,7 @@ elles	il	CLS	_
 n'	ne	ADV	_
 y	y	CLO	_
 parviennent	parvenir	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 en	en	P	_
 négligeant	négliger	VPR	_
 à	à	P	_
@@ -35805,7 +35869,7 @@ plus	plus	ADV	_
 complète	complet	ADJ	_
 que	que	CS	_
 les	le	DET	_
-précédentes	précédente	NC	_
+précédentes	précédent	NC	_
 ,	,	PONCT	_
 elle	il	CLS	_
 n'	ne	ADV	_
@@ -36052,7 +36116,7 @@ toujours	toujours	ADV	_
 dominé	dominer	VPP	_
 par	par	P	_
 l'	le	DET	_
-Humanité	Humanité	NC	_
+Humanité	humanité	NC	_
 .	.	PONCT	_
 Mais	mais	CC	_
 d'	de	P	_
@@ -36085,7 +36149,7 @@ véritable	véritable	ADJ	_
 nature	nature	NC	_
 .	.	PONCT	_
 LE	le	DET	_
-PRêTRE	PRêTRE	NC	_
+PRêTRE	prêtre	NC	_
 .	.	PONCT	_
 Cet	ce	DET	_
 embarras	embarras	NC	_
@@ -36150,7 +36214,8 @@ la	le	DET	_
 raison	raison	NC	_
 universelle	universel	ADJ	_
 ,	,	PONCT	_
-afin_de	afin_de	P	_
+afin	afin	ADV	_
+de	de	P	_
 leur	il	CLO	_
 procurer	procurer	VINF	_
 une	un	DET	_
@@ -36181,7 +36246,7 @@ ne	ne	ADV	_
 pouvant	pouvoir	VPR	_
 être	être	VINF	_
 systématisées	systématiser	VPP	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 en	en	P	_
 dernier	dernier	ADJ	_
 lieu	lieu	NC	_
@@ -36462,7 +36527,7 @@ raison	raison	NC	_
 commune	commun	ADJ	_
 .	.	PONCT	_
 LE	le	DET	_
-PRêTRE	PRêTRE	NC	_
+PRêTRE	prêtre	NC	_
 .	.	PONCT	_
 Pour	pour	P	_
 fonder	fonder	VINF	_
@@ -37020,7 +37085,8 @@ philosophiques	philosophique	ADJ	_
 ,	,	PONCT	_
 du	de_le	P+D	_
 moins	moins	NC	_
-quant_aux	quant_à_le	P+D	_
+quant	quant	ADV	_
+aux	à_le	P+D	_
 penchants	penchant	NC	_
 ,	,	PONCT	_
 surtout	surtout	ADV	_
@@ -37415,7 +37481,7 @@ séparation	séparation	NC	_
 exorbitante	exorbitant	ADJ	_
 des	de_le	P+D	_
 sièges	siège	NC	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 on	on	CLS	_
 leur	il	CLO	_
 avait	avoir	V	_
@@ -37504,7 +37570,7 @@ conception	conception	NC	_
 nouvelle	nouveau	ADJ	_
 .	.	PONCT	_
 LE	le	DET	_
-PRêTRE	PRêTRE	NC	_
+PRêTRE	prêtre	NC	_
 .	.	PONCT	_
 Ce	ce	DET	_
 reproche	reproche	NC	_
@@ -37515,7 +37581,7 @@ applique	appliquer	V	_
 ma	mon	DET	_
 fille	fille	NC	_
 ,	,	PONCT	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 à	à	P	_
 l'	le	DET	_
 ébauche	ébauche	NC	_
@@ -37597,7 +37663,7 @@ ont	avoir	V	_
 de	un	DET	_
 communications	communication	NC	_
 nerveuses	nerveux	ADJ	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 avec	avec	P	_
 les	le	DET	_
 sens	sens	NC	_
@@ -37636,7 +37702,7 @@ avec	avec	P	_
 le	le	DET	_
 dehors	dehors	NC	_
 ,	,	PONCT	_
-auquel	auquel	PROREL	_
+auquel	à_lequel	PROREL	_
 la	il	CLO	_
 rattache	rattacher	V	_
 indirectement	indirectement	ADV	_
@@ -37907,7 +37973,7 @@ de	de	P	_
 soi	soi	PRO	_
 ?	?	PONCT	_
 LE	le	DET	_
-PRêTRE	PRêTRE	NC	_
+PRêTRE	prêtre	NC	_
 .	.	PONCT	_
 La	le	DET	_
 liaison	liaison	NC	_
@@ -38234,7 +38300,7 @@ vraiment	vraiment	ADV	_
 irréductibles	irréductible	ADJ	_
 .	.	PONCT	_
 LE	le	DET	_
-PRêTRE	PRêTRE	NC	_
+PRêTRE	prêtre	NC	_
 .	.	PONCT	_
 Elle	il	CLS	_
 résulte	résulter	V	_
@@ -38313,7 +38379,7 @@ observations	observation	NC	_
 la	le	DET	_
 portée	portée	NC	_
 de	de	P	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 .	.	PONCT	_
 Si	si	CS	_
 des	un	DET	_
@@ -38394,7 +38460,7 @@ c'	ce	CLS	_
 est	être	V	_
 le	le	DET	_
 dernier	dernier	NC	_
-auquel	auquel	PROREL	_
+auquel	à_lequel	PROREL	_
 devait	devoir	V	_
 s'	se	CLO	_
 étendre	étendre	VINF	_
@@ -38667,7 +38733,7 @@ oiseau	oiseau	NC	_
 .	.	PONCT	_
 Dans	dans	P	_
 cette	ce	DET	_
-charmante	charmant	ADJ	_
+charmante	charmer	ADJ	_
 description	description	NC	_
 ,	,	PONCT	_
 un	un	DET	_
@@ -38748,7 +38814,8 @@ contempler	contempler	VINF	_
 les	le	DET	_
 animaux	animal	NC	_
 ,	,	PONCT	_
-afin_d'	afin_de	P	_
+afin	afin	ADV	_
+d'	de	P	_
 y	y	CLO	_
 retrouver	retrouver	VINF	_
 tous	tout	ADJ	_
@@ -38779,7 +38846,7 @@ esprits	esprit	NC	_
 quelconques	quelconque	ADJ	_
 .	.	PONCT	_
 LE	le	DET	_
-PRêTRE	PRêTRE	NC	_
+PRêTRE	prêtre	NC	_
 .	.	PONCT	_
 Les	le	DET	_
 observations	observation	NC	_
@@ -38997,7 +39064,7 @@ l'	le	DET	_
 égoïsme	égoïsme	NC	_
 .	.	PONCT	_
 LE	le	DET	_
-PRêTRE	PRêTRE	NC	_
+PRêTRE	prêtre	NC	_
 .	.	PONCT	_
 Vous	vous	CLS	_
 le	il	CLO	_
@@ -39359,7 +39426,8 @@ de	un	DET	_
 tels	tel	ADJ	_
 mécomptes	mécompte	NC	_
 ,	,	PONCT	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 elles	il	CLS	_
 y	y	CLO	_
 sont	être	V	_
@@ -39520,7 +39588,7 @@ intellectuelles	intellectuel	ADJ	_
 ,	,	PONCT	_
 je	je	CLS	_
 suis	être	V	_
-étonnée	étonné	ADJ	_
+étonnée	étonner	ADJ	_
 ,	,	PONCT	_
 mon	mon	DET	_
 père	père	NC	_
@@ -39541,9 +39609,9 @@ jugement	jugement	NC	_
 ,	,	PONCT	_
 imagination	imagination	NC	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 LE	le	DET	_
-PRêTRE	PRêTRE	NC	_
+PRêTRE	prêtre	NC	_
 .	.	PONCT	_
 Regardez	regarder	V	_
 -les	il	CLO	_
@@ -39651,7 +39719,8 @@ cinq	cinq	ADJ	_
 fonctions	fonction	NC	_
 intellectuelles	intellectuel	ADJ	_
 ,	,	PONCT	_
-afin_d'	afin_de	P	_
+afin	afin	ADV	_
+d'	de	P	_
 instituer	instituer	VINF	_
 ,	,	PONCT	_
 entre	entre	P	_
@@ -39704,7 +39773,8 @@ aux	à_le	P+D	_
 opérations	opération	NC	_
 scientifiques	scientifique	ADJ	_
 .	.	PONCT	_
-Quant_à	quant_à	P	_
+Quant	quant	ADV	_
+à	à	P	_
 la	le	DET	_
 volonté	volonté	NC	_
 ,	,	PONCT	_
@@ -39769,7 +39839,7 @@ fonctions	fonction	NC	_
 intellectuelles	intellectuel	ADJ	_
 .	.	PONCT	_
 LE	le	DET	_
-PRêTRE	PRêTRE	NC	_
+PRêTRE	prêtre	NC	_
 .	.	PONCT	_
 Votre	votre	DET	_
 erreur	erreur	NC	_
@@ -39881,7 +39951,7 @@ activité	activité	NC	_
 directe	direct	ADJ	_
 ne	ne	ADV	_
 produit	produire	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 un	un	DET	_
 pur	pur	ADJ	_
 verbiage	verbiage	NC	_
@@ -39982,7 +40052,8 @@ souvent	souvent	ADV	_
 très	très	ADV	_
 imparfaits	imparfait	ADJ	_
 .	.	PONCT	_
-Quant_au	quant_à_le	P+D	_
+Quant	quant	ADV	_
+au	à_le	P+D	_
 langage	langage	NC	_
 actuel	actuel	ADJ	_
 des	de_le	P+D	_
@@ -40083,7 +40154,7 @@ suffisamment	suffisamment	ADV	_
 étudié	étudier	VPP	_
 .	.	PONCT	_
 LE	le	DET	_
-PRêTRE	PRêTRE	NC	_
+PRêTRE	prêtre	NC	_
 .	.	PONCT	_
 Il	il	CLS	_
 ne	ne	ADV	_
@@ -40348,7 +40419,7 @@ ou	ou	CC	_
 la	le	DET	_
 luxure	luxure	NC	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 Le	le	DET	_
 tableau	tableau	NC	_
 cérébral	cérébral	ADJ	_
@@ -40589,7 +40660,7 @@ en	en	P	_
 remarquant	remarquer	VPR	_
 la	le	DET	_
 préférence	préférence	NC	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 il	il	CLS	_
 obtient	obtenir	V	_
 partout	partout	ADV	_
@@ -40668,12 +40739,13 @@ elles	il	CLS	_
 n'	ne	ADV	_
 aspirent	aspirer	V	_
 directement	directement	ADV	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 à	à	P	_
 l'	le	DET	_
 action	action	NC	_
 .	.	PONCT	_
-Quant_aux	quant_à_le	P+D	_
+quant	quant	ADV	_
+aux	à_le	P+D	_
 cinq	cinq	ADJ	_
 fonctions	fonction	NC	_
 intellectuelles	intellectuel	ADJ	_
@@ -40889,7 +40961,7 @@ gouvernement	gouvernement	NC	_
 spirituel	spirituel	ADJ	_
 de	de	P	_
 l'	le	DET	_
-Humanité	Humanité	NC	_
+Humanité	humanité	NC	_
 ,	,	PONCT	_
 comme	comme	P	_
 notre	notre	DET	_
@@ -40930,7 +41002,8 @@ réellement	réellement	ADV	_
 la	le	DET	_
 mort	mort	NC	_
 ;	;	PONCT	_
-tandis_que	tandis_que	CS	_
+tandis	tandis	ADV	_
+que	que	CS	_
 les	le	DET	_
 modifications	modification	NC	_
 graduelles	graduel	ADJ	_
@@ -40970,7 +41043,7 @@ réorganisation	réorganisation	NC	_
 occidentale	occidental	ADJ	_
 .	.	PONCT	_
 LE	le	DET	_
-PRêTRE	PRêTRE	NC	_
+PRêTRE	prêtre	NC	_
 .	.	PONCT	_
 Cette	ce	DET	_
 conviction	conviction	NC	_
@@ -41117,7 +41190,8 @@ difficile	difficile	ADJ	_
 ,	,	PONCT	_
 soit	soit	CC	_
 même	même	ADV	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 je	je	CLS	_
 ne	ne	ADV	_
 pouvais	pouvoir	V	_
@@ -41174,7 +41248,7 @@ mieux	mieux	ADV	_
 servir	servir	VINF	_
 l'	le	DET	_
 incomparable	incomparable	ADJ	_
-Déesse	Déesse	NC	_
+Déesse	déesse	NC	_
 que	que	PROREL	_
 vous	vous	CLS	_
 m'	je	CLO	_
@@ -41229,7 +41303,7 @@ je	je	CLS	_
 ne	ne	ADV	_
 vous	vous	CLO	_
 interromprai	interrompre	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 afin	afin	NC	_
 d'	de	P	_
 éclaircir	éclaircir	VINF	_
@@ -41302,7 +41376,7 @@ construction	construction	NC	_
 sacerdotale	sacerdotal	ADJ	_
 .	.	PONCT	_
 LE	le	DET	_
-PRêTRE	PRêTRE	NC	_
+PRêTRE	prêtre	NC	_
 .	.	PONCT	_
 Je	je	CLS	_
 compte	compter	V	_
@@ -41331,7 +41405,8 @@ suivante	suivante	NC	_
 .	.	PONCT	_
 Mais	mais	CC	_
 ,	,	PONCT	_
-afin_de	afin_de	P	_
+afin	afin	ADV	_
+de	de	P	_
 mieux	mieux	ADV	_
 utiliser	utiliser	VINF	_
 votre	votre	DET	_
@@ -41509,7 +41584,7 @@ partie	partie	NC	_
 théorique	théorique	ADJ	_
 ne	ne	ADV	_
 correspond	correspondre	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 à	à	P	_
 l'	le	DET	_
 intelligence	intelligence	NC	_
@@ -41567,7 +41642,7 @@ en	en	P	_
 qualifiant	qualifier	VPR	_
 de	de	P	_
 pratiques	pratique	ADJ	_
-religieuses	religieuse	NC	_
+religieuses	religieux	NC	_
 les	le	DET	_
 habitudes	habitude	NC	_
 relatives	relatif	ADJ	_
@@ -41661,7 +41736,8 @@ religion	religion	NC	_
 nous	nous	CLS	_
 aimons	aimer	V	_
 davantage	davantage	ADV	_
-afin_de	afin_de	P	_
+afin	afin	ADV	_
+de	de	P	_
 mieux	mieux	ADV	_
 servir	servir	VINF	_
 .	.	PONCT	_
@@ -42194,10 +42270,10 @@ culte	culte	NC	_
 propre	propre	ADJ	_
 à	à	P	_
 notre	notre	DET	_
-Déesse	Déesse	NC	_
+Déesse	déesse	NC	_
 .	.	PONCT	_
 LE	le	DET	_
-PRêTRE	PRêTRE	NC	_
+PRêTRE	prêtre	NC	_
 .	.	PONCT	_
 Nous	nous	CLS	_
 ne	ne	ADV	_
@@ -42217,7 +42293,8 @@ ma	mon	DET	_
 fille	fille	NC	_
 ,	,	PONCT	_
 mais	mais	CC	_
-afin_de	afin_de	P	_
+afin	afin	ADV	_
+de	de	P	_
 la	le	DET	_
 mieux	mieux	ADV	_
 servir	servir	VINF	_
@@ -42238,7 +42315,8 @@ du	de_le	P+D	_
 culte	culte	NC	_
 positif	positif	ADJ	_
 ,	,	PONCT	_
-afin_d'	afin_de	P	_
+afin	afin	ADV	_
+d'	de	P	_
 y	y	CLO	_
 prévenir	prévenir	VINF	_
 ou	ou	CC	_
@@ -42428,7 +42506,7 @@ la	le	DET	_
 notion	notion	NC	_
 de	de	P	_
 l'	le	DET	_
-Humanité	Humanité	NC	_
+Humanité	humanité	NC	_
 ,	,	PONCT	_
 d'	de	P	_
 après	après	P	_
@@ -42664,7 +42742,7 @@ nature	nature	NC	_
 du	de_le	P+D	_
 système	système	NC	_
 religieux	religieux	ADJ	_
-auquel	auquel	PROREL	_
+auquel	à_lequel	PROREL	_
 tous	tout	DET	_
 deux	deux	NC	_
 se	se	CLO	_
@@ -43156,7 +43234,7 @@ espoir	espoir	NC	_
 général	général	ADJ	_
 .	.	PONCT	_
 LE	le	DET	_
-PRêTRE	PRêTRE	NC	_
+PRêTRE	prêtre	NC	_
 .	.	PONCT	_
 Au	à_le	P+D	_
 contraire	contraire	NC	_
@@ -43417,7 +43495,7 @@ dans	dans	P	_
 l'	le	DET	_
 espèce	espèce	NC	_
 ,	,	PONCT	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 au	à_le	P+D	_
 temps	temps	NC	_
 de	de	P	_
@@ -43589,7 +43667,8 @@ sciemment	sciemment	ADV	_
 au	à_le	P+D	_
 dedans	dedans	NC	_
 ;	;	PONCT	_
-tandis_que	tandis_que	CS	_
+tandis	tandis	ADV	_
+que	que	CS	_
 nos	notre	DET	_
 prédécesseurs	prédécesseur	NC	_
 s'	se	CLO	_
@@ -43603,7 +43682,7 @@ ce	ce	PRO	_
 qui	qui	PROREL	_
 n'	ne	ADV	_
 existait	exister	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 en	en	P	_
 eux	il	PRO	_
 -mêmes	même	ADJ	_
@@ -43682,7 +43761,8 @@ contemplons	contempler	V	_
 pour	pour	P	_
 méditer	méditer	VINF	_
 ,	,	PONCT	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 nos	notre	DET	_
 études	étude	NC	_
 essentielles	essentiel	ADJ	_
@@ -43721,8 +43801,9 @@ entendement	entendement	NC	_
 Ils	il	CLS	_
 ne	ne	ADV	_
 méditaient	méditer	V	_
-qu'	qu'	ADV	_
-afin_de	afin_de	P	_
+qu'	que	ADV	_
+afin	afin	ADV	_
+de	de	P	_
 pouvoir	pouvoir	VINF	_
 contempler	contempler	VINF	_
 des	un	DET	_
@@ -43759,14 +43840,16 @@ ses	son	DET	_
 effusions	effusion	NC	_
 secrètes	secret	ADJ	_
 ,	,	PONCT	_
-afin_de	afin_de	P	_
+afin	afin	ADV	_
+de	de	P	_
 mieux	mieux	ADV	_
 voir	voir	VINF	_
 l'	le	DET	_
 image	image	NC	_
 intérieure	intérieur	ADJ	_
 ;	;	PONCT	_
-tandis_que	tandis_que	CS	_
+tandis	tandis	ADV	_
+que	que	CS	_
 le	le	DET	_
 théologiste	théologiste	NC	_
 les	il	CLO	_
@@ -43850,7 +43933,7 @@ efforts	effort	NC	_
 spéciaux	spécial	ADJ	_
 .	.	PONCT	_
 LE	le	DET	_
-PRêTRE	PRêTRE	NC	_
+PRêTRE	prêtre	NC	_
 .	.	PONCT	_
 Vous	vous	CLS	_
 avez	avoir	V	_
@@ -44002,7 +44085,7 @@ ne	ne	ADV	_
 puisse	pouvoir	V	_
 être	être	VINF	_
 ici	ici	ADV	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 ébauchée	ébaucher	VPP	_
 ,	,	PONCT	_
 son	son	DET	_
@@ -44044,7 +44127,8 @@ usage	usage	NC	_
 presque	presque	ADV	_
 journalier	journalier	ADJ	_
 ,	,	PONCT	_
-afin_d'	afin_de	P	_
+afin	afin	ADV	_
+d'	de	P	_
 y	y	CLO	_
 prévenir	prévenir	VINF	_
 toute	tout	DET	_
@@ -44054,7 +44138,7 @@ ou	ou	CC	_
 empirique	empirique	ADJ	_
 .	.	PONCT	_
 LE	le	DET	_
-PRêTRE	PRêTRE	NC	_
+PRêTRE	prêtre	NC	_
 .	.	PONCT	_
 Pour	pour	P	_
 satisfaire	satisfaire	VINF	_
@@ -44097,7 +44181,8 @@ essentiellement	essentiellement	ADV	_
 le	le	DET	_
 dedans	dedans	NC	_
 ,	,	PONCT	_
-tandis_qu'	tandis_que	CS	_
+tandis	tandis	ADV	_
+qu'	que	CS	_
 il	il	CLS	_
 l'	il	CLO	_
 alimente	alimenter	V	_
@@ -44107,7 +44192,8 @@ excite	exciter	V	_
 ,	,	PONCT	_
 aussi	aussi	ADV	_
 bien	bien	ADV	_
-quant_à	quant_à	P	_
+quant	quant	ADV	_
+à	à	P	_
 notre	notre	DET	_
 vie	vie	NC	_
 cérébrale	cérébral	ADJ	_
@@ -44194,7 +44280,7 @@ ne	ne	ADV	_
 pouvant	pouvoir	VPR	_
 jamais	jamais	ADV	_
 consister	consister	VINF	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 à	à	P	_
 perfectionner	perfectionner	VINF	_
 l'	le	DET	_
@@ -44282,7 +44368,8 @@ la	le	DET	_
 vie	vie	NC	_
 subjective	subjectif	ADJ	_
 .	.	PONCT	_
-Afin_de	afin_de	P	_
+Afin	afin	ADV	_
+de	de	P	_
 mieux	mieux	ADV	_
 fixer	fixer	VINF	_
 vos	votre	DET	_
@@ -44577,7 +44664,7 @@ telle	tel	ADJ	_
 extension	extension	NC	_
 .	.	PONCT	_
 LE	le	DET	_
-PRêTRE	PRêTRE	NC	_
+PRêTRE	prêtre	NC	_
 .	.	PONCT	_
 Elles	il	CLS	_
 consistent	consister	V	_
@@ -44852,7 +44939,8 @@ vague	vague	ADJ	_
 et	et	CC	_
 ténébreux	ténébreux	ADJ	_
 .	.	PONCT	_
-Afin_de	afin_de	P	_
+Afin	afin	ADV	_
+de	de	P	_
 mieux	mieux	ADV	_
 préciser	préciser	VINF	_
 cette	ce	DET	_
@@ -45064,7 +45152,8 @@ phénomènes	phénomène	NC	_
 ,	,	PONCT	_
 et	et	CC	_
 ensuite	ensuite	ADV	_
-quant_à	quant_à	P	_
+quant	quant	ADV	_
+à	à	P	_
 nos	notre	DET	_
 conceptions	conception	NC	_
 ,	,	PONCT	_
@@ -45147,7 +45236,8 @@ moindres	moindre	ADJ	_
 lois	loi	NC	_
 physiques	physique	ADJ	_
 .	.	PONCT	_
-Tandis_que	tandis_que	CS	_
+Tandis	tandis	ADV	_
+que	que	CS	_
 nos	notre	DET	_
 fictions	fiction	NC	_
 poétiques	poétique	ADJ	_
@@ -45340,7 +45430,8 @@ une	un	DET	_
 telle	tel	ADJ	_
 liberté	liberté	NC	_
 ,	,	PONCT	_
-afin_de	afin_de	P	_
+afin	afin	ADV	_
+de	de	P	_
 faciliter	faciliter	VINF	_
 davantage	davantage	ADV	_
 le	le	DET	_
@@ -45359,7 +45450,7 @@ des	de_le	P+D	_
 chéris	chérir	VPP	_
 .	.	PONCT	_
 LE	le	DET	_
-PRêTRE	PRêTRE	NC	_
+PRêTRE	prêtre	NC	_
 .	.	PONCT	_
 Ainsi	ainsi	ADV	_
 posée	poser	VPP	_
@@ -45445,7 +45536,7 @@ cet	ce	DET	_
 ,	,	PONCT	_
 dans	dans	P	_
 le	le	DET	_
-Système	Système	NC	_
+Système	système	NC	_
 de	de	P	_
 politique	politique	NC	_
 positive	positif	ADJ	_
@@ -46026,7 +46117,7 @@ existence	existence	NC	_
 extérieure	extérieur	ADJ	_
 .	.	PONCT	_
 LE	le	DET	_
-PRêTRE	PRêTRE	NC	_
+PRêTRE	prêtre	NC	_
 .	.	PONCT	_
 Elle	il	CLS	_
 consiste	consister	V	_
@@ -46110,7 +46201,8 @@ culte	culte	NC	_
 deviendrait	devenir	V	_
 mystique	mystique	ADJ	_
 ,	,	PONCT	_
-tandis_qu'	tandis_que	CS	_
+tandis	tandis	ADV	_
+qu'	que	CS	_
 il	il	CLS	_
 resterait	rester	V	_
 empirique	empirique	ADJ	_
@@ -46159,7 +46251,7 @@ conçue	concevoir	VPP	_
 n'	ne	ADV	_
 y	y	CLO	_
 voyez	voir	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 une	un	DET	_
 déduction	déduction	NC	_
 spéciale	spécial	ADJ	_
@@ -46167,12 +46259,12 @@ du	de_le	P+D	_
 dogme	dogme	NC	_
 de	de	P	_
 l'	le	DET	_
-Humanité	Humanité	NC	_
+Humanité	humanité	NC	_
 .	.	PONCT	_
 Car	car	CC	_
 si	si	CS	_
 notre	notre	DET	_
-Déesse	Déesse	NC	_
+Déesse	déesse	NC	_
 ne	ne	ADV	_
 s'	se	CLO	_
 incorpore	incorporer	V	_
@@ -46326,7 +46418,8 @@ qu'	que	CS	_
 il	il	CLS	_
 est	être	V	_
 ,	,	PONCT	_
-afin_de	afin_de	P	_
+afin	afin	ADV	_
+de	de	P	_
 mieux	mieux	ADV	_
 concentrer	concentrer	VINF	_
 sur	sur	P	_
@@ -46667,9 +46760,9 @@ il	il	CLS	_
 la	il	CLO	_
 transforme	transformer	V	_
 d'	de	P	_
-objective	objective	NC	_
+objective	objectif	NC	_
 en	en	P	_
-subjective	subjective	NC	_
+subjective	subjectif	NC	_
 .	.	PONCT	_
 Mais	mais	CC	_
 cette	ce	DET	_
@@ -46706,7 +46799,7 @@ nouvelle	nouveau	ADJ	_
 foi	foi	NC	_
 .	.	PONCT	_
 LE	le	DET	_
-PRêTRE	PRêTRE	NC	_
+PRêTRE	prêtre	NC	_
 .	.	PONCT	_
 Une	un	DET	_
 telle	tel	ADJ	_
@@ -46882,7 +46975,7 @@ amour	amour	NC	_
 envers	envers	P	_
 notre	notre	DET	_
 grande	grand	ADJ	_
-Déesse	Déesse	NC	_
+Déesse	déesse	NC	_
 ou	ou	CC	_
 ses	son	DET	_
 dignes	digne	ADJ	_
@@ -47028,7 +47121,7 @@ intelligence	intelligence	NC	_
 ne	ne	ADV	_
 fût	être	V	_
 -ce	ce	CLS	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 en	en	P	_
 nous	nous	CLO	_
 inspirant	inspirer	VPR	_
@@ -47184,7 +47277,7 @@ prière	prière	NC	_
 positiviste	positiviste	ADJ	_
 .	.	PONCT	_
 LE	le	DET	_
-PRêTRE	PRêTRE	NC	_
+PRêTRE	prêtre	NC	_
 .	.	PONCT	_
 Pour	pour	P	_
 cela	cela	PRO	_
@@ -47390,7 +47483,7 @@ digne	digne	ADJ	_
 prosélytisme	prosélytisme	NC	_
 .	.	PONCT	_
 LE	le	DET	_
-PRêTRE	PRêTRE	NC	_
+PRêTRE	prêtre	NC	_
 .	.	PONCT	_
 Quoique	quoique	CS	_
 notre	notre	DET	_
@@ -47791,7 +47884,7 @@ aussi	aussi	ADV	_
 sensible	sensible	ADJ	_
 .	.	PONCT	_
 LE	le	DET	_
-PRêTRE	PRêTRE	NC	_
+PRêTRE	prêtre	NC	_
 .	.	PONCT	_
 Distinguez	distinguer	V	_
 -y	y	CLO	_
@@ -47938,7 +48031,8 @@ y	y	CLO	_
 doivent	devoir	V	_
 devenir	devenir	VINF	_
 fixes	fixe	NC	_
-afin_d'	afin_de	P	_
+afin	afin	ADV	_
+d'	de	P	_
 obtenir	obtenir	VINF	_
 plus	plus	ADV	_
 de	de	P	_
@@ -48120,7 +48214,7 @@ trésor	trésor	NC	_
 esthétique	esthétique	ADJ	_
 de	de	P	_
 l'	le	DET	_
-Humanité	Humanité	NC	_
+Humanité	humanité	NC	_
 .	.	PONCT	_
 Quoiqu'	quoique	CS	_
 une	un	DET	_
@@ -48271,7 +48365,7 @@ ne	ne	ADV	_
 devient	devenir	V	_
 pleinement	pleinement	ADV	_
 efficace	efficace	ADJ	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 à	à	P	_
 la	le	DET	_
 condition	condition	NC	_
@@ -48481,7 +48575,7 @@ régimes	régime	NC	_
 inconciliables	inconciliable	ADJ	_
 .	.	PONCT	_
 LE	le	DET	_
-PRêTRE	PRêTRE	NC	_
+PRêTRE	prêtre	NC	_
 .	.	PONCT	_
 Cette	ce	DET	_
 erreur	erreur	NC	_
@@ -48781,7 +48875,8 @@ que	que	CS	_
 de	de	P	_
 bien	bien	ADV	_
 :	:	PONCT	_
-tandis_que	tandis_que	CS	_
+tandis	tandis	ADV	_
+que	que	CS	_
 les	le	DET	_
 moindres	moindre	ADJ	_
 philosophes	philosophe	NC	_
@@ -48841,7 +48936,7 @@ il	il	CLS	_
 n'	ne	ADV	_
 existe	exister	V	_
 en	en	P	_
-Occident	Occident	NC	_
+Occident	occident	NC	_
 que	que	ADV	_
 treize	treize	DET	_
 poètes	poète	NC	_
@@ -48883,7 +48978,8 @@ doive	devoir	V	_
 devenir	devenir	VINF	_
 journalière	journalière	NC	_
 .	.	PONCT	_
-Quant_au	quant_à_le	P+D	_
+Quant	quant	ADV	_
+au	à_le	P+D	_
 reste	reste	NC	_
 ,	,	PONCT	_
 on	on	CLS	_
@@ -48964,7 +49060,7 @@ momentanément	momentanément	ADV	_
 poètes	poète	ADJ	_
 quand	quand	CS	_
 notre	notre	DET	_
-Déesse	Déesse	NP	_
+Déesse	déesse	NP	_
 aura	avoir	V	_
 besoin	besoin	NC	_
 de	de	P	_
@@ -49007,7 +49103,8 @@ féminine	féminin	ADJ	_
 ou	ou	CC	_
 prolétaire	prolétaire	ADJ	_
 .	.	PONCT	_
-Quant_aux	quant_à_le	P+D	_
+quant	quant	ADV	_
+aux	à_le	P+D	_
 deux	deux	ADJ	_
 arts	art	NC	_
 spéciaux	spécial	ADJ	_
@@ -49115,7 +49212,7 @@ influence	influence	NC	_
 scientifique	scientifique	ADJ	_
 .	.	PONCT	_
 LE	le	DET	_
-PRêTRE	PRêTRE	NC	_
+PRêTRE	prêtre	NC	_
 .	.	PONCT	_
 à	à	P	_
 mieux	mieux	ADV	_
@@ -49398,7 +49495,7 @@ ici	ici	ADV	_
 n'	ne	ADV	_
 ont	avoir	V	_
 guère	guère	ADV	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 une	un	DET	_
 valeur	valeur	NC	_
 logique	logique	ADJ	_
@@ -49472,7 +49569,7 @@ reste	rester	V	_
 mon	mon	DET	_
 père	père	NC	_
 ,	,	PONCT	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 à	à	P	_
 vous	vous	CLO	_
 demander	demander	VINF	_
@@ -49526,7 +49623,7 @@ nos	notre	DET	_
 efforts	effort	NC	_
 .	.	PONCT	_
 LE	le	DET	_
-PRêTRE	PRêTRE	NC	_
+PRêTRE	prêtre	NC	_
 .	.	PONCT	_
 Vous	vous	CLS	_
 le	il	CLO	_
@@ -49600,7 +49697,8 @@ la	le	DET	_
 religion	religion	NC	_
 positive	positif	ADJ	_
 .	.	PONCT	_
-Afin_de	afin_de	P	_
+Afin	afin	ADV	_
+de	de	P	_
 la	le	DET	_
 mieux	mieux	NC	_
 saisir	saisir	VINF	_
@@ -49624,14 +49722,14 @@ le	le	DET	_
 second	second	NC	_
 à	à	P	_
 l'	le	DET	_
-Humanité	Humanité	NC	_
+Humanité	humanité	NC	_
 .	.	PONCT	_
 Vous	vous	CLS	_
 sentirez	sentir	V	_
 alors	alors	ADV	_
 que	que	CS	_
 notre	notre	DET	_
-Déesse	Déesse	NC	_
+Déesse	déesse	NC	_
 ne	ne	ADV	_
 comporte	comporter	V	_
 d'	un	DET	_
@@ -49682,7 +49780,7 @@ base	base	NC	_
 primitive	primitif	ADJ	_
 la	le	DET	_
 simple	simple	ADJ	_
-Famille	Famille	NC	_
+Famille	famille	NC	_
 ,	,	PONCT	_
 encore	encore	ADV	_
 plus	plus	ADV	_
@@ -49795,7 +49893,7 @@ adorateurs	adorateur	NC	_
 sincères	sincère	ADJ	_
 de	de	P	_
 l'	le	DET	_
-Humanité	Humanité	NC	_
+Humanité	humanité	NC	_
 .	.	PONCT	_
 Entre	entre	P	_
 elle	il	PRO	_
@@ -49826,7 +49924,7 @@ rattachent	rattacher	V	_
 spécialement	spécialement	ADV	_
 à	à	P	_
 la	le	DET	_
-Patrie	Patrie	NC	_
+Patrie	patrie	NC	_
 proprement	proprement	ADV	_
 dite	dire	VPP	_
 .	.	PONCT	_
@@ -49883,7 +49981,7 @@ ENTR	ENTR	NP	_
 .	.	PONCT	_
 6	6	X	_
 CULTE	culte	ADJ	_
-PRIVé	PRIVé	NC	_
+PRIVÉ	privé	NC	_
 .	.	PONCT	_
 La	le	DET	_
 Femme	femme	NC	_
@@ -49931,7 +50029,7 @@ son	son	DET	_
 explication	explication	NC	_
 .	.	PONCT	_
 Le	le	DET	_
-Prêtre	Prêtre	NC	_
+Prêtre	prêtre	NC	_
 .	.	PONCT	_
 Cette	ce	DET	_
 division	division	NC	_
@@ -50149,7 +50247,7 @@ vraie	vrai	ADJ	_
 nature	nature	NC	_
 .	.	PONCT	_
 Le	le	DET	_
-Prêtre	Prêtre	NC	_
+Prêtre	prêtre	NC	_
 .	.	PONCT	_
 Elle	il	CLS	_
 consiste	consister	V	_
@@ -50170,7 +50268,7 @@ puissions	pouvoir	V	_
 assigner	assigner	VINF	_
 à	à	P	_
 l'	le	DET	_
-Humanité	Humanité	NC	_
+Humanité	humanité	NC	_
 ,	,	PONCT	_
 d'	de	P	_
 après	après	P	_
@@ -50188,7 +50286,7 @@ de	de	P	_
 l'	le	DET	_
 être	être	NC	_
 -	-	PONCT	_
-Suprême	Suprême	NC	_
+Suprême	suprême	NC	_
 étant	être	VPR	_
 fondée	fonder	VPP	_
 sur	sur	P	_
@@ -50230,7 +50328,7 @@ pourra	pouvoir	V	_
 figurer	figurer	VINF	_
 dignement	dignement	ADV	_
 l'	le	DET	_
-Humanité	Humanité	NC	_
+Humanité	humanité	NC	_
 autrement	autrement	ADV	_
 que	que	ADV	_
 sous	sous	P	_
@@ -50244,7 +50342,7 @@ providence	providence	NC	_
 morale	moral	ADJ	_
 de	de	P	_
 notre	notre	DET	_
-Déesse	Déesse	NC	_
+Déesse	déesse	NC	_
 ne	ne	ADV	_
 s'	se	CLO	_
 exerce	exercer	V	_
@@ -50521,7 +50619,7 @@ relations	relation	NC	_
 domestiques	domestique	ADJ	_
 .	.	PONCT	_
 Le	le	DET	_
-Prêtre	Prêtre	NC	_
+Prêtre	prêtre	NC	_
 .	.	PONCT	_
 Il	il	CLS	_
 faut	falloir	V	_
@@ -50608,7 +50706,8 @@ et	et	CC	_
 la	le	DET	_
 bonté	bonté	NC	_
 .	.	PONCT	_
-Quant_à	quant_à	P	_
+Quant	quant	ADV	_
+à	à	P	_
 la	le	DET	_
 soeur	sœur	NC	_
 ,	,	PONCT	_
@@ -50746,7 +50845,8 @@ souvent	souvent	ADV	_
 devenu	devenir	VPP	_
 subjectif	subjectif	ADJ	_
 ,	,	PONCT	_
-tandis_qu'	tandis_que	CS	_
+tandis	tandis	ADV	_
+qu'	que	CS	_
 un	un	DET	_
 autre	autre	ADJ	_
 reste	reste	NC	_
@@ -50835,7 +50935,7 @@ culture	culture	NC	_
 habituelle	habituel	ADJ	_
 .	.	PONCT	_
 Le	le	DET	_
-Prêtre	Prêtre	NC	_
+Prêtre	prêtre	NC	_
 .	.	PONCT	_
 La	le	DET	_
 pluralité	pluralité	NC	_
@@ -50948,7 +51048,8 @@ indiqués	indiquer	VPP	_
 pour	pour	P	_
 le	le	DET	_
 mien	mien	NC	_
-quant_à	quant_à	P	_
+quant	quant	ADV	_
+à	à	P	_
 l'	le	DET	_
 épouse	épouse	NC	_
 et	et	CC	_
@@ -51039,7 +51140,7 @@ types	type	NC	_
 naturels	naturel	ADJ	_
 .	.	PONCT	_
 Le	le	DET	_
-Prêtre	Prêtre	NC	_
+Prêtre	prêtre	NC	_
 .	.	PONCT	_
 Ce	ce	DET	_
 double	double	ADJ	_
@@ -51226,7 +51327,7 @@ reste	rester	V	_
 mon	mon	DET	_
 père	père	NC	_
 ,	,	PONCT	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 à	à	P	_
 vous	vous	CLO	_
 demander	demander	VINF	_
@@ -51248,7 +51349,7 @@ culte	culte	NC	_
 fondamental	fondamental	ADJ	_
 .	.	PONCT	_
 Le	le	DET	_
-Prêtre	Prêtre	NC	_
+Prêtre	prêtre	NC	_
 .	.	PONCT	_
 Il	il	CLS	_
 exige	exiger	V	_
@@ -51371,7 +51472,7 @@ nous	nous	CLO	_
 Une	un	DET	_
 telle	tel	ADJ	_
 destination	destination	NC	_
-indique	indique	ADJ	_
+indique	indiquer	ADJ	_
 aussitôt	aussitôt	ADV	_
 les	le	DET	_
 époques	époque	NC	_
@@ -51439,7 +51540,8 @@ invasion	invasion	NC	_
 du	de_le	P+D	_
 sommeil	sommeil	NC	_
 ,	,	PONCT	_
-afin_de	afin_de	P	_
+afin	afin	ADV	_
+de	de	P	_
 mieux	mieux	ADV	_
 assurer	assurer	VINF	_
 le	le	DET	_
@@ -51661,7 +51763,8 @@ et	et	CC	_
 l'	le	DET	_
 effusion	effusion	NC	_
 .	.	PONCT	_
-Tandis_que	tandis_que	CS	_
+Tandis	tandis	ADV	_
+que	que	CS	_
 celle	celui	PRO	_
 -ci	ci	ADV	_
 dure	dur	ADJ	_
@@ -51991,7 +52094,7 @@ trésor	trésor	NC	_
 esthétique	esthétique	ADJ	_
 de	de	P	_
 l'	le	DET	_
-Humanité	Humanité	NC	_
+Humanité	humanité	NC	_
 .	.	PONCT	_
 Ils	il	CLS	_
 sont	être	V	_
@@ -52186,7 +52289,7 @@ adresse	adresser	V	_
 directement	directement	ADV	_
 à	à	P	_
 l'	le	DET	_
-Humanité	Humanité	NC	_
+Humanité	humanité	NC	_
 .	.	PONCT	_
 Ces	ce	DET	_
 deux	deux	ADJ	_
@@ -52247,7 +52350,7 @@ l'	le	DET	_
 intermédiaire	intermédiaire	NC	_
 .	.	PONCT	_
 Le	le	DET	_
-Prêtre	Prêtre	NC	_
+Prêtre	prêtre	NC	_
 .	.	PONCT	_
 L'	le	DET	_
 Institution	Institution	NC	_
@@ -52370,7 +52473,7 @@ digne	digne	ADJ	_
 serviteur	serviteur	NC	_
 de	de	P	_
 l'	le	DET	_
-Humanité	Humanité	NC	_
+Humanité	humanité	NC	_
 tend	tendre	V	_
 graduellement	graduellement	ADV	_
 vers	vers	P	_
@@ -52387,7 +52490,7 @@ organe	organe	NC	_
 propre	propre	ADJ	_
 de	de	P	_
 la	le	DET	_
-Déesse	Déesse	NC	_
+Déesse	déesse	NC	_
 .	.	PONCT	_
 La	le	DET	_
 Femme	femme	NC	_
@@ -52427,7 +52530,7 @@ d'	de	P	_
 eux	il	PRO	_
 .	.	PONCT	_
 Le	le	DET	_
-Prêtre	Prêtre	NC	_
+Prêtre	prêtre	NC	_
 .	.	PONCT	_
 Par	par	P	_
 le	le	DET	_
@@ -52463,7 +52566,7 @@ nouveau	nouveau	ADJ	_
 rejeton	rejeton	NC	_
 de	de	P	_
 l'	le	DET	_
-Humanité	Humanité	NC	_
+Humanité	humanité	NC	_
 viennent	venir	V	_
 le	il	CLO	_
 présenter	présenter	VINF	_
@@ -52483,7 +52586,7 @@ au	à_le	P+D	_
 service	service	NC	_
 de	de	P	_
 la	le	DET	_
-Déesse	Déesse	NC	_
+Déesse	déesse	NC	_
 .	.	PONCT	_
 Cette	ce	DET	_
 garantie	garantie	NC	_
@@ -52605,7 +52708,7 @@ représentants	représentant	NC	_
 sacrés	sacré	ADJ	_
 de	de	P	_
 l'	le	DET	_
-Humanité	Humanité	NC	_
+Humanité	humanité	NC	_
 .	.	PONCT	_
 Dans	dans	P	_
 la	le	DET	_
@@ -52836,7 +52939,7 @@ autorise	autoriser	V	_
 servir	servir	VINF	_
 librement	librement	ADV	_
 l'	le	DET	_
-Humanité	Humanité	NC	_
+Humanité	humanité	NC	_
 ,	,	PONCT	_
 dont	dont	PROREL	_
 jusqu'	jusque	P	_
@@ -53007,7 +53110,7 @@ en	en	CLO	_
 offrait	offrir	V	_
 l'	le	DET	_
 ébauche	ébauche	NC	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 envers	envers	P	_
 les	le	DET	_
 plus	plus	ADV	_
@@ -53109,7 +53212,8 @@ quatre	quatre	ADJ	_
 autres	autre	ADJ	_
 sacrements	sacrement	NC	_
 .	.	PONCT	_
-Quant_à	quant_à	P	_
+Quant	quant	ADV	_
+à	à	P	_
 ce	ce	DET	_
 sacrement	sacrement	NC	_
 principal	principal	ADJ	_
@@ -53238,7 +53342,7 @@ nos	notre	DET	_
 consécrations	consécration	NC	_
 .	.	PONCT	_
 Le	le	DET	_
-Prêtre	Prêtre	NC	_
+Prêtre	prêtre	NC	_
 .	.	PONCT	_
 Toutefois	toutefois	ADV	_
 ,	,	PONCT	_
@@ -53308,7 +53412,8 @@ chef	chef	NC	_
 de	de	P	_
 famille	famille	NC	_
 ,	,	PONCT	_
-afin_de	afin_de	P	_
+afin	afin	ADV	_
+de	de	P	_
 mieux	mieux	ADV	_
 prévenir	prévenir	VINF	_
 toute	tout	DET	_
@@ -53323,7 +53428,8 @@ nos	notre	DET	_
 actes	acte	NC	_
 privés	privé	ADJ	_
 .	.	PONCT	_
-Quant_aux	quant_à_le	P+D	_
+quant	quant	ADV	_
+aux	à_le	P+D	_
 femmes	femme	NC	_
 ,	,	PONCT	_
 le	le	DET	_
@@ -53502,7 +53608,7 @@ Je	je	CLS	_
 ne	ne	ADV	_
 pense	penser	V	_
 ici	ici	ADV	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 à	à	P	_
 votre	votre	DET	_
 sexe	sexe	NC	_
@@ -53544,7 +53650,7 @@ le	le	DET	_
 mariage	mariage	NC	_
 .	.	PONCT	_
 Le	le	DET	_
-Prêtre	Prêtre	NC	_
+Prêtre	prêtre	NC	_
 .	.	PONCT	_
 Quoique	quoique	CS	_
 vous	vous	CLS	_
@@ -53652,7 +53758,7 @@ au	à_le	P+D	_
 serviteur	serviteur	NC	_
 de	de	P	_
 l'	le	DET	_
-Humanité	Humanité	NC	_
+Humanité	humanité	NC	_
 l'	le	DET	_
 inflexible	inflexible	ADJ	_
 responsabilité	responsabilité	NC	_
@@ -53715,7 +53821,7 @@ sixième	sixième	ADJ	_
 consécration	consécration	NC	_
 .	.	PONCT	_
 Le	le	DET	_
-Prêtre	Prêtre	NC	_
+Prêtre	prêtre	NC	_
 .	.	PONCT	_
 Le	le	DET	_
 sacrement	sacrement	NC	_
@@ -53755,7 +53861,7 @@ vrai	vrai	ADJ	_
 serviteur	serviteur	NC	_
 de	de	P	_
 l'	le	DET	_
-Humanité	Humanité	NC	_
+Humanité	humanité	NC	_
 .	.	PONCT	_
 Dans	dans	P	_
 l'	le	DET	_
@@ -53931,14 +54037,15 @@ ne	ne	ADV	_
 voyais	voir	V	_
 d'	de	P	_
 abord	abord	NC	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 une	un	DET	_
 sorte	sorte	NC	_
 de	de	P	_
 fête	fête	NC	_
 domestique	domestique	ADJ	_
 .	.	PONCT	_
-Quant_au	quant_à_le	P+D	_
+Quant	quant	ADV	_
+au	à_le	P+D	_
 suivant	suivant	P	_
 ,	,	PONCT	_
 la	le	DET	_
@@ -54056,7 +54163,7 @@ encore	encore	ADV	_
 mûr	mûr	ADJ	_
 .	.	PONCT	_
 Le	le	DET	_
-Prêtre	Prêtre	NC	_
+Prêtre	prêtre	NC	_
 .	.	PONCT	_
 Puisque	puisque	CS	_
 vous	vous	CLS	_
@@ -54168,7 +54275,7 @@ le	le	DET	_
 temple	temple	NC	_
 de	de	P	_
 l'	le	DET	_
-Humanité	Humanité	NC	_
+Humanité	humanité	NC	_
 .	.	PONCT	_
 Chaque	chaque	DET	_
 tombe	tombe	NC	_
@@ -54198,7 +54305,8 @@ la	le	DET	_
 glorification	glorification	NC	_
 obtenue	obtenir	VPP	_
 .	.	PONCT	_
-Quant_aux	quant_à_le	P+D	_
+quant	quant	ADV	_
+aux	à_le	P+D	_
 cas	cas	NC	_
 exceptionnels	exceptionnel	ADJ	_
 d'	de	P	_
@@ -54371,7 +54479,7 @@ très	très	ADV	_
 personnels	personnel	ADJ	_
 .	.	PONCT	_
 Le	le	DET	_
-Prêtre	Prêtre	NC	_
+Prêtre	prêtre	NC	_
 .	.	PONCT	_
 Vous	vous	CLS	_
 comblerez	combler	V	_
@@ -54402,7 +54510,7 @@ vrai	vrai	ADJ	_
 serviteur	serviteur	NC	_
 de	de	P	_
 l'	le	DET	_
-Humanité	Humanité	NC	_
+Humanité	humanité	NC	_
 ,	,	PONCT	_
 sans	sans	P	_
 même	même	ADV	_
@@ -54447,7 +54555,7 @@ mère	mère	NC	_
 l'	le	DET	_
 épouse	épouse	NC	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 ,	,	PONCT	_
 auxquelles	il	PROREL	_
 son	son	DET	_
@@ -54555,7 +54663,7 @@ reste	rester	V	_
 mon	mon	DET	_
 père	père	NC	_
 ,	,	PONCT	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 à	à	P	_
 vous	vous	CLO	_
 demander	demander	VINF	_
@@ -54572,7 +54680,7 @@ divers	divers	ADJ	_
 sacrements	sacrement	NC	_
 .	.	PONCT	_
 Le	le	DET	_
-Prêtre	Prêtre	NC	_
+Prêtre	prêtre	NC	_
 .	.	PONCT	_
 Ils	il	CLS	_
 doivent	devoir	V	_
@@ -54854,7 +54962,7 @@ ENTR	ENTR	NP	_
 .	.	PONCT	_
 7	7	X	_
 CULTE	culte	ADJ	_
-PUBLIC	PUBLIC	NC	_
+PUBLIC	public	NC	_
 .	.	PONCT	_
 La	le	DET	_
 Femme	femme	NC	_
@@ -55003,7 +55111,8 @@ une	un	DET	_
 telle	tel	ADJ	_
 récompense	récompense	NC	_
 ,	,	PONCT	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 ils	il	CLS	_
 comptent	compter	V	_
 la	il	CLO	_
@@ -55022,7 +55131,7 @@ leurs	leur	DET	_
 successeurs	successeur	NC	_
 .	.	PONCT	_
 Le	le	DET	_
-Prêtre	Prêtre	NC	_
+Prêtre	prêtre	NC	_
 .	.	PONCT	_
 Cette	ce	DET	_
 rectification	rectification	NC	_
@@ -55148,7 +55257,8 @@ doit	devoir	V	_
 s'	se	CLO	_
 accomplir	accomplir	VINF	_
 .	.	PONCT	_
-Quant_au	quant_à_le	P+D	_
+Quant	quant	ADV	_
+au	à_le	P+D	_
 sacerdoce	sacerdoce	NC	_
 qui	qui	PROREL	_
 la	il	CLO	_
@@ -55170,7 +55280,7 @@ du	de_le	P+D	_
 régime	régime	NC	_
 .	.	PONCT	_
 Le	le	DET	_
-Prêtre	Prêtre	NC	_
+Prêtre	prêtre	NC	_
 .	.	PONCT	_
 Nos	notre	DET	_
 temples	temple	NC	_
@@ -55316,7 +55426,7 @@ positif	positif	ADJ	_
 .	.	PONCT	_
 Puisque	puisque	CS	_
 l'	le	DET	_
-Humanité	Humanité	NC	_
+Humanité	humanité	NC	_
 se	se	CLO	_
 compose	composer	V	_
 essentiellement	essentiellement	ADV	_
@@ -55445,7 +55555,8 @@ nos	notre	DET	_
 édifices	édifice	NC	_
 sacrés	sacré	ADJ	_
 .	.	PONCT	_
-Quant_à	quant_à	P	_
+Quant	quant	ADV	_
+à	à	P	_
 leur	leur	DET	_
 distribution	distribution	NC	_
 intérieure	intérieur	ADJ	_
@@ -55471,12 +55582,13 @@ femmes	femme	NC	_
 convenablement	convenablement	ADV	_
 choisies	choisir	VPP	_
 ,	,	PONCT	_
-afin_que	afin_que	CS	_
+afin	afin	ADV	_
+que	que	CS	_
 les	le	DET	_
 prêtres	prêtre	NC	_
 de	de	P	_
 l'	le	DET	_
-Humanité	Humanité	NC	_
+Humanité	humanité	NC	_
 s'	se	CLO	_
 y	y	CLO	_
 trouvent	trouver	V	_
@@ -55514,7 +55626,7 @@ les	le	DET	_
 symboles	symbole	NC	_
 de	de	P	_
 notre	notre	DET	_
-Déesse	Déesse	NC	_
+Déesse	déesse	NC	_
 .	.	PONCT	_
 Leur	leur	DET	_
 détermination	détermination	NC	_
@@ -55557,7 +55669,7 @@ au	à_le	P+D	_
 troisième	troisième	NC	_
 .	.	PONCT	_
 Le	le	DET	_
-Prêtre	Prêtre	NC	_
+Prêtre	prêtre	NC	_
 .	.	PONCT	_
 En	en	P	_
 effet	effet	NC	_
@@ -55584,7 +55696,7 @@ ou	ou	CC	_
 sculptée	sculpter	VPP	_
 ,	,	PONCT	_
 notre	notre	DET	_
-Déesse	Déesse	NP	_
+Déesse	déesse	NP	_
 aura	avoir	V	_
 toujours	toujours	ADV	_
 pour	pour	P	_
@@ -55699,7 +55811,8 @@ nos	notre	DET	_
 marches	marche	NC	_
 solennelles	solennel	ADJ	_
 .	.	PONCT	_
-Tandis_que	tandis_que	CS	_
+Tandis	tandis	ADV	_
+que	que	CS	_
 leur	leur	DET	_
 face	face	NC	_
 blanche	blanc	ADJ	_
@@ -55753,7 +55866,7 @@ formule	formule	NC	_
 caractéristique	caractéristique	ADJ	_
 .	.	PONCT	_
 Le	le	DET	_
-Prêtre	Prêtre	NC	_
+Prêtre	prêtre	NC	_
 .	.	PONCT	_
 Il	il	CLS	_
 résulte	résulter	V	_
@@ -55955,7 +56068,7 @@ culte	culte	NC	_
 public	public	ADJ	_
 .	.	PONCT	_
 Le	le	DET	_
-Prêtre	Prêtre	NC	_
+Prêtre	prêtre	NC	_
 .	.	PONCT	_
 Vous	vous	CLS	_
 le	il	CLO	_
@@ -56090,7 +56203,8 @@ l'	le	DET	_
 ordre	ordre	NC	_
 normal	normal	ADJ	_
 .	.	PONCT	_
-Quant_aux	quant_à_le	P+D	_
+quant	quant	ADV	_
+aux	à_le	P+D	_
 états	état	NC	_
 préparatoires	préparatoire	ADJ	_
 ,	,	PONCT	_
@@ -56336,7 +56450,7 @@ d'	de	P	_
 autre	autre	ADJ	_
 grave	grave	ADJ	_
 difficulté	difficulté	NC	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 envers	envers	P	_
 la	le	DET	_
 domesticité	domesticité	NC	_
@@ -56359,7 +56473,7 @@ liens	lien	NC	_
 fondamentaux	fondamental	ADJ	_
 .	.	PONCT	_
 Le	le	DET	_
-Prêtre	Prêtre	NC	_
+Prêtre	prêtre	NC	_
 .	.	PONCT	_
 Une	un	DET	_
 telle	tel	ADJ	_
@@ -56610,7 +56724,7 @@ laisse	laisser	V	_
 maintenant	maintenant	ADV	_
 à	à	P	_
 désirer	désirer	VINF	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 une	un	DET	_
 dernière	dernier	ADJ	_
 explication	explication	NC	_
@@ -56671,7 +56785,7 @@ disposer	disposer	VINF	_
 autrement	autrement	ADV	_
 .	.	PONCT	_
 Le	le	DET	_
-Prêtre	Prêtre	NC	_
+Prêtre	prêtre	NC	_
 .	.	PONCT	_
 Vous	vous	CLS	_
 oubliez	oublier	V	_
@@ -56806,7 +56920,7 @@ culte	culte	NC	_
 abstrait	abstrait	ADJ	_
 de	de	P	_
 l'	le	DET	_
-Humanité	Humanité	NC	_
+Humanité	humanité	NC	_
 ,	,	PONCT	_
 destiné	destiner	VPP	_
 principalement	principalement	ADV	_
@@ -56837,7 +56951,9 @@ le	le	DET	_
 sacerdoce	sacerdoce	NC	_
 lui	il	PRO	_
 -même	même	ADJ	_
-au-dessous	au-dessous	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessous	dessous	ADV	_
 du	de_le	P+D	_
 prolétariat	prolétariat	NC	_
 ,	,	PONCT	_
@@ -56941,7 +57057,9 @@ imposent	imposer	V	_
 le	il	CLO	_
 placent	placer	V	_
 toujours	toujours	ADV	_
-au-dessus	au-dessus	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 du	de_le	P+D	_
 prolétariat	prolétariat	NC	_
 .	.	PONCT	_
@@ -57191,7 +57309,7 @@ toujours	toujours	ADV	_
 convergents	convergent	ADJ	_
 .	.	PONCT	_
 Le	le	DET	_
-Prêtre	Prêtre	NC	_
+Prêtre	prêtre	NC	_
 .	.	PONCT	_
 Avant	avant	P	_
 de	de	P	_
@@ -57310,7 +57428,7 @@ Matridi	Matridi	NP	_
 Dimanche	dimanche	NC	_
 :	:	PONCT	_
 L'	le	DET	_
-Humanité	Humanité	NC	_
+Humanité	humanité	NC	_
 Humanidi	Humanidi	NP	_
 .	.	PONCT	_
 Sous	sous	P	_
@@ -57413,7 +57531,8 @@ année	année	NC	_
 positiviste	positiviste	ADJ	_
 ,	,	PONCT	_
 puis	puis	CC	_
-quant_au	quant_à_le	P+D	_
+Quant	quant	ADV	_
+au	à_le	P+D	_
 jour	jour	NC	_
 additionnel	additionnel	ADJ	_
 qui	qui	PROREL	_
@@ -57430,7 +57549,7 @@ la	le	DET	_
 règle	règle	NC	_
 usitée	usiter	VPP	_
 en	en	P	_
-Occident	Occident	NC	_
+Occident	occident	NC	_
 .	.	PONCT	_
 Chacune	chacun	PRO	_
 de	de	P	_
@@ -57523,7 +57642,7 @@ par	par	P	_
 exception	exception	NC	_
 .	.	PONCT	_
 Le	le	DET	_
-Prêtre	Prêtre	NC	_
+Prêtre	prêtre	NC	_
 .	.	PONCT	_
 Ce	ce	DET	_
 préambule	préambule	NC	_
@@ -57593,7 +57712,7 @@ mois	mois	NC	_
 consacré	consacrer	VPP	_
 à	à	P	_
 l'	le	DET	_
-Humanité	Humanité	NC	_
+Humanité	humanité	NC	_
 ,	,	PONCT	_
 exige	exiger	V	_
 ,	,	PONCT	_
@@ -58128,7 +58247,8 @@ le	le	DET	_
 cinquième	cinquième	NC	_
 mois	mois	NC	_
 .	.	PONCT	_
-Quant_au	quant_à_le	P+D	_
+Quant	quant	ADV	_
+au	à_le	P+D	_
 sixième	sixième	ADJ	_
 ,	,	PONCT	_
 il	il	CLS	_
@@ -58364,7 +58484,7 @@ imparfaitement	imparfaitement	ADV	_
 connu	connaître	VPP	_
 .	.	PONCT	_
 Le	le	DET	_
-Prêtre	Prêtre	NC	_
+Prêtre	prêtre	NC	_
 .	.	PONCT	_
 Cela	cela	PRO	_
 suffit	suffire	V	_
@@ -58390,7 +58510,8 @@ tableau	tableau	NC	_
 sociolatrique	sociolatrique	ADJ	_
 .	.	PONCT	_
 Mais	mais	CC	_
-quant_à	quant_à	P	_
+quant	quant	ADV	_
+à	à	P	_
 la	le	DET	_
 décomposition	décomposition	NC	_
 hebdomadaire	hebdomadaire	ADJ	_
@@ -58503,7 +58624,8 @@ le	le	DET	_
 fétichisme	fétichisme	NC	_
 initial	initial	ADJ	_
 ;	;	PONCT	_
-tandis_que	tandis_que	CS	_
+tandis	tandis	ADV	_
+que	que	CS	_
 l'	le	DET	_
 indirect	indirect	NC	_
 caractérise	caractériser	V	_
@@ -58556,7 +58678,7 @@ institue	instituer	V	_
 au	à_le	P+D	_
 fond	fond	NC	_
 ,	,	PONCT	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 une	un	DET	_
 immense	immense	ADJ	_
 transition	transition	NC	_
@@ -58737,7 +58859,7 @@ m'	je	CLO	_
 encore	encore	ADV	_
 .	.	PONCT	_
 Le	le	DET	_
-Prêtre	Prêtre	NC	_
+Prêtre	prêtre	NC	_
 .	.	PONCT	_
 Concevez	concevoir	V	_
 -la	il	CLO	_
@@ -58882,7 +59004,8 @@ aucun	aucun	DET	_
 service	service	NC	_
 social	social	ADJ	_
 .	.	PONCT	_
-Quant_au	quant_à_le	P+D	_
+Quant	quant	ADV	_
+au	à_le	P+D	_
 sacerdoce	sacerdoce	NC	_
 complet	complet	ADJ	_
 ,	,	PONCT	_
@@ -59100,7 +59223,8 @@ cette	ce	DET	_
 hiérarchie	hiérarchie	NC	_
 naturelle	naturel	ADJ	_
 ,	,	PONCT	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 elles	il	CLS	_
 se	se	CLO	_
 trouvent	trouver	V	_
@@ -59167,7 +59291,7 @@ mois	mois	NC	_
 final	final	ADJ	_
 .	.	PONCT	_
 Le	le	DET	_
-Prêtre	Prêtre	NC	_
+Prêtre	prêtre	NC	_
 .	.	PONCT	_
 Elle	il	CLS	_
 résulte	résulter	V	_
@@ -59339,7 +59463,8 @@ toujours	toujours	ADV	_
 les	il	CLO	_
 respecter	respecter	VINF	_
 ,	,	PONCT	_
-afin_de	afin_de	P	_
+afin	afin	ADV	_
+de	de	P	_
 les	il	CLO	_
 utiliser	utiliser	VINF	_
 assez	assez	ADV	_
@@ -59542,7 +59667,8 @@ distincte	distinct	ADJ	_
 La	le	DET	_
 Femme	femme	NC	_
 .	.	PONCT	_
-Quant_au	quant_à_le	P+D	_
+Quant	quant	ADV	_
+au	à_le	P+D	_
 jour	jour	NC	_
 complémentaire	complémentaire	ADJ	_
 ,	,	PONCT	_
@@ -59704,7 +59830,7 @@ aucune	aucun	DET	_
 altération	altération	NC	_
 .	.	PONCT	_
 Le	le	DET	_
-Prêtre	Prêtre	NC	_
+Prêtre	prêtre	NC	_
 .	.	PONCT	_
 Puisque	puisque	CS	_
 vous	vous	CLS	_
@@ -59815,13 +59941,13 @@ P	P	NC	_
 EXPLICAT	EXPLICAT	NC	_
 .	.	PONCT	_
 DU	de_le	P+D	_
-RéGIME	RéGIME	NC	_
+RÉGIME	régime	NC	_
 ENTR	ENTR	ADJ	_
 .	.	PONCT	_
 8	8	X	_
 ENSEMBLE	ensemble	ADV	_
 DU	DU	X	_
-RéGIME	RéGIME	NP	_
+RéGIME	régime	NP	_
 .	.	PONCT	_
 La	le	DET	_
 Femme	femme	NC	_
@@ -59975,7 +60101,8 @@ collective	collectif	ADJ	_
 qu'	que	CS	_
 individuelle	individuel	ADJ	_
 ,	,	PONCT	_
-afin_de	afin_de	P	_
+afin	afin	ADV	_
+de	de	P	_
 juger	juger	VINF	_
 les	le	DET	_
 vrais	vrai	ADJ	_
@@ -60018,7 +60145,7 @@ et	et	CC	_
 commune	commun	ADJ	_
 .	.	PONCT	_
 Le	le	DET	_
-Prêtre	Prêtre	NC	_
+Prêtre	prêtre	NC	_
 .	.	PONCT	_
 Il	il	CLS	_
 ne	ne	ADV	_
@@ -60128,7 +60255,8 @@ des	de_le	P+D	_
 deux	deux	ADJ	_
 sexes	sexe	NC	_
 ,	,	PONCT	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 il	il	CLS	_
 dépend	dépendre	V	_
 autant	autant	ADV	_
@@ -60207,7 +60335,8 @@ notre	notre	DET	_
 régime	régime	NC	_
 moral	moral	ADJ	_
 .	.	PONCT	_
-Tandis_que	tandis_que	CS	_
+Tandis	tandis	ADV	_
+que	que	CS	_
 le	le	DET	_
 prêtre	prêtre	NC	_
 agit	agir	V	_
@@ -60341,7 +60470,7 @@ distinction	distinction	NC	_
 correspondante	correspondant	ADJ	_
 .	.	PONCT	_
 Le	le	DET	_
-Prêtre	Prêtre	NC	_
+Prêtre	prêtre	NC	_
 .	.	PONCT	_
 Le	le	DET	_
 domaine	domaine	NC	_
@@ -60424,7 +60553,8 @@ jamais	jamais	ADV	_
 au	à_le	P+D	_
 sacerdoce	sacerdoce	NC	_
 .	.	PONCT	_
-Afin_de	afin_de	P	_
+Afin	afin	ADV	_
+de	de	P	_
 mieux	mieux	ADV	_
 préciser	préciser	VINF	_
 cette	ce	DET	_
@@ -60750,7 +60880,8 @@ pour	pour	P	_
 la	le	DET	_
 spéculation	spéculation	NC	_
 .	.	PONCT	_
-Quant_à	quant_à	P	_
+Quant	quant	ADV	_
+à	à	P	_
 l'	le	DET	_
 ordre	ordre	NC	_
 extérieur	extérieur	ADJ	_
@@ -60909,7 +61040,7 @@ spontanée	spontané	ADJ	_
 appartient	appartenir	V	_
 donc	donc	ADV	_
 à	à	P	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 ,	,	PONCT	_
 en	en	P	_
 proportion	proportion	NC	_
@@ -60973,7 +61104,7 @@ comme	comme	P	_
 art	art	NC	_
 .	.	PONCT	_
 Le	le	DET	_
-Prêtre	Prêtre	NC	_
+Prêtre	prêtre	NC	_
 .	.	PONCT	_
 Vous	vous	CLS	_
 devez	devoir	V	_
@@ -61164,7 +61295,7 @@ ne	ne	ADV	_
 se	se	CLO	_
 rapporte	rapporter	V	_
 essentiellement	essentiellement	ADV	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 au	à_le	P+D	_
 progrès	progrès	NC	_
 ,	,	PONCT	_
@@ -61236,7 +61367,7 @@ comme	comme	P	_
 conservateur	conservateur	NC	_
 .	.	PONCT	_
 Le	le	DET	_
-Prêtre	Prêtre	NC	_
+Prêtre	prêtre	NC	_
 .	.	PONCT	_
 Pour	pour	P	_
 vous	vous	CLO	_
@@ -61337,7 +61468,8 @@ spécial	spécial	ADJ	_
 ,	,	PONCT	_
 puis	puis	CC	_
 ,	,	PONCT	_
-quant_à	quant_à	P	_
+quant	quant	ADV	_
+à	à	P	_
 l'	le	DET	_
 harmonie	harmonie	NC	_
 générale	général	ADJ	_
@@ -61964,7 +62096,7 @@ régime	régime	NC	_
 provisoire	provisoire	ADJ	_
 ,	,	PONCT	_
 l'	le	DET	_
-Humanité	Humanité	NC	_
+Humanité	humanité	NC	_
 dans	dans	P	_
 l'	le	DET	_
 ordre	ordre	NC	_
@@ -62064,7 +62196,7 @@ quelconque	quelconque	ADJ	_
 Pareillement	pareillement	ADV	_
 indispensable	indispensable	ADJ	_
 à	à	P	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 pour	pour	P	_
 l'	le	DET	_
 éducation	éducation	NC	_
@@ -62288,7 +62420,7 @@ démêle	démêler	V	_
 pas	pas	ADV	_
 .	.	PONCT	_
 Le	le	DET	_
-Prêtre	Prêtre	NC	_
+Prêtre	prêtre	NC	_
 .	.	PONCT	_
 Ils	il	CLS	_
 résultent	résulter	V	_
@@ -62480,7 +62612,8 @@ deux	deux	ADJ	_
 pouvoirs	pouvoir	NC	_
 humains	humain	ADJ	_
 ,	,	PONCT	_
-quant_à	quant_à	P	_
+quant	quant	ADV	_
+à	à	P	_
 leur	leur	DET	_
 extension	extension	NC	_
 respective	respectif	ADJ	_
@@ -62503,7 +62636,8 @@ une	un	DET	_
 entière	entier	ADJ	_
 universalité	universalité	NC	_
 ;	;	PONCT	_
-tandis_que	tandis_que	CS	_
+tandis	tandis	ADV	_
+que	que	CS	_
 l'	le	DET	_
 autorité	autorité	NC	_
 pratique	pratique	ADJ	_
@@ -62573,7 +62707,7 @@ devient	devenir	V	_
 incontestable	incontestable	ADJ	_
 .	.	PONCT	_
 Le	le	DET	_
-Prêtre	Prêtre	NC	_
+Prêtre	prêtre	NC	_
 .	.	PONCT	_
 Tel	tel	ADJ	_
 est	être	V	_
@@ -62823,7 +62957,8 @@ vivre	vivre	VINF	_
 pour	pour	P	_
 autrui	autrui	PRO	_
 ,	,	PONCT	_
-afin_de	afin_de	P	_
+afin	afin	ADV	_
+de	de	P	_
 revivre	revivre	VINF	_
 en	en	P	_
 autrui	autrui	PRO	_
@@ -62880,7 +63015,7 @@ offices	office	NC	_
 respectifs	respectif	ADJ	_
 .	.	PONCT	_
 Le	le	DET	_
-Prêtre	Prêtre	NC	_
+Prêtre	prêtre	NC	_
 .	.	PONCT	_
 Pour	pour	P	_
 cela	cela	PRO	_
@@ -62923,7 +63058,7 @@ serviteur	serviteur	NC	_
 direct	direct	ADJ	_
 de	de	P	_
 l'	le	DET	_
-Humanité	Humanité	NC	_
+Humanité	humanité	NC	_
 ,	,	PONCT	_
 qui	qui	PROREL	_
 jusqu'	jusque	P	_
@@ -63110,7 +63245,7 @@ lui	il	CLO	_
 représente	représenter	V	_
 nécessairement	nécessairement	ADV	_
 l'	le	DET	_
-Humanité	Humanité	NC	_
+Humanité	humanité	NC	_
 ,	,	PONCT	_
 dont	dont	PROREL	_
 la	le	DET	_
@@ -63219,7 +63354,8 @@ quelques	quelque	DET	_
 opérations	opération	NC	_
 matérielles	matériel	ADJ	_
 ,	,	PONCT	_
-afin_qu'	afin_que	CS	_
+afin	afin	ADV	_
+qu'	que	CS	_
 il	il	CLS	_
 apprécie	apprécier	V	_
 mieux	mieux	ADV	_
@@ -63406,7 +63542,8 @@ et	et	CC	_
 le	le	DET	_
 dessin	dessin	NC	_
 .	.	PONCT	_
-Tandis_que	tandis_que	CS	_
+Tandis	tandis	ADV	_
+que	que	CS	_
 l'	le	DET	_
 essor	essor	NC	_
 moral	moral	ADJ	_
@@ -63472,7 +63609,7 @@ plus	plus	ADV	_
 complet	complet	ADJ	_
 de	de	P	_
 l'	le	DET	_
-Humanité	Humanité	NC	_
+Humanité	humanité	NC	_
 ,	,	PONCT	_
 en	en	P	_
 se	se	CLO	_
@@ -63524,7 +63661,7 @@ père	père	NC	_
 de	de	P	_
 difficultés	difficulté	NC	_
 sérieuses	sérieux	ADJ	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 envers	envers	P	_
 la	le	DET	_
 religion	religion	NC	_
@@ -63568,7 +63705,7 @@ ne	ne	ADV	_
 peut	pouvoir	V	_
 cependant	cependant	ADV	_
 éviter	éviter	VINF	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 il	il	CLS	_
 s'	se	CLO	_
 en	en	CLO	_
@@ -63579,7 +63716,7 @@ en	en	CLO	_
 informe	informer	V	_
 .	.	PONCT	_
 Le	le	DET	_
-Prêtre	Prêtre	NC	_
+Prêtre	prêtre	NC	_
 .	.	PONCT	_
 Rappelez	rappeler	V	_
 -vous	vous	CLS	_
@@ -63670,7 +63807,8 @@ les	le	DET	_
 facultés	faculté	NC	_
 esthétiques	esthétique	ADJ	_
 .	.	PONCT	_
-Quant_aux	quant_à_le	P+D	_
+quant	quant	ADV	_
+aux	à_le	P+D	_
 questions	question	NC	_
 qu'	que	PROREL	_
 il	il	CLS	_
@@ -63788,7 +63926,8 @@ de	de	P	_
 l'	le	DET	_
 absolu	absolu	NC	_
 ,	,	PONCT	_
-tandis_que	tandis_que	CS	_
+tandis	tandis	ADV	_
+que	que	CS	_
 son	son	DET	_
 coeur	cœur	NC	_
 sympathise	sympathiser	V	_
@@ -63908,7 +64047,7 @@ la	le	DET	_
 stupidité	stupidité	NC	_
 .	.	PONCT	_
 Le	le	DET	_
-Prêtre	Prêtre	NC	_
+Prêtre	prêtre	NC	_
 .	.	PONCT	_
 C'	ce	CLS	_
 est	être	V	_
@@ -63951,7 +64090,7 @@ au	à_le	P+D	_
 temple	temple	NC	_
 de	de	P	_
 l'	le	DET	_
-Humanité	Humanité	NC	_
+Humanité	humanité	NC	_
 ,	,	PONCT	_
 entendre	entendre	VINF	_
 ,	,	PONCT	_
@@ -64149,7 +64288,7 @@ essor	essor	NC	_
 spontané	spontané	ADJ	_
 de	de	P	_
 l'	le	DET	_
-Humanité	Humanité	NC	_
+Humanité	humanité	NC	_
 .	.	PONCT	_
 Pendant	pendant	P	_
 cette	ce	DET	_
@@ -64196,7 +64335,8 @@ de	de	P	_
 nos	notre	DET	_
 prolétaires	prolétaire	NC	_
 .	.	PONCT	_
-Tandis_qu'	tandis_que	CS	_
+Tandis	tandis	ADV	_
+qu'	que	CS	_
 elles	il	CLS	_
 s'	se	CLO	_
 accompliront	accomplir	V	_
@@ -64312,14 +64452,14 @@ peut	pouvoir	V	_
 enfin	enfin	ADV	_
 servir	servir	VINF	_
 la	le	DET	_
-Famille	Famille	NC	_
+Famille	famille	NC	_
 ,	,	PONCT	_
 la	le	DET	_
-Patrie	Patrie	NP	_
+Patrie	patrie	NP	_
 ,	,	PONCT	_
 et	et	CC	_
 l'	le	DET	_
-Humanité	Humanité	NC	_
+Humanité	humanité	NC	_
 ,	,	PONCT	_
 sans	sans	P	_
 que	que	CS	_
@@ -64418,7 +64558,7 @@ l'	le	DET	_
 théorique	théorique	ADJ	_
 .	.	PONCT	_
 Le	le	DET	_
-Prêtre	Prêtre	NC	_
+Prêtre	prêtre	NC	_
 .	.	PONCT	_
 Vous	vous	CLS	_
 seriez	être	V	_
@@ -64900,7 +65040,7 @@ obtenir	obtenir	VINF	_
 l'	le	DET	_
 ascendant	ascendant	NC	_
 systématique	systématique	ADJ	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 exige	exiger	V	_
 sa	son	DET	_
 destination	destination	NC	_
@@ -64969,7 +65109,7 @@ leçons	leçon	NC	_
 séparées	séparé	ADJ	_
 .	.	PONCT	_
 Le	le	DET	_
-Prêtre	Prêtre	NC	_
+Prêtre	prêtre	NC	_
 .	.	PONCT	_
 Le	le	DET	_
 grand	grand	ADJ	_
@@ -65160,7 +65300,8 @@ chez	chez	P	_
 le	le	DET	_
 professeur	professeur	NC	_
 .	.	PONCT	_
-Quant_à	quant_à	P	_
+Quant	quant	ADV	_
+à	à	P	_
 la	le	DET	_
 diversité	diversité	NC	_
 des	de_le	P+D	_
@@ -65194,7 +65335,8 @@ le	le	DET	_
 sacerdoce	sacerdoce	NC	_
 positif	positif	ADJ	_
 ;	;	PONCT	_
-afin_de	afin_de	P	_
+afin	afin	ADV	_
+de	de	P	_
 mieux	mieux	ADV	_
 exclure	exclure	VINF	_
 les	le	DET	_
@@ -65218,7 +65360,8 @@ là	là	ADV	_
 doit	devoir	V	_
 résulter	résulter	VINF	_
 ,	,	PONCT	_
-en_outre	en_outre	ADV	_
+en	en	P	_
+outre	outre	P	_
 ,	,	PONCT	_
 le	le	DET	_
 précieux	précieux	ADJ	_
@@ -65294,7 +65437,7 @@ le	le	DET	_
 Grand-Prêtre	Grand-Prêtre	NC	_
 de	de	P	_
 l'	le	DET	_
-Humanité	Humanité	NC	_
+Humanité	humanité	NC	_
 ne	ne	ADV	_
 change	changer	V	_
 pas	pas	ADV	_
@@ -65331,7 +65474,7 @@ prêtres	prêtre	NC	_
 qui	qui	PROREL	_
 ne	ne	ADV	_
 parleraient	parler	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 à	à	P	_
 l'	le	DET	_
 un	un	NC	_
@@ -65420,9 +65563,9 @@ harmonie	harmonie	NC	_
 universelle	universel	ADJ	_
 .	.	PONCT	_
 Le	le	DET	_
-Prêtre	Prêtre	NC	_
+Prêtre	prêtre	NC	_
 .	.	PONCT	_
-Tous	tous	PRO	_
+Tous	tout	PRO	_
 doivent	devoir	V	_
 résulter	résulter	VINF	_
 ,	,	PONCT	_
@@ -65436,7 +65579,8 @@ de	de	P	_
 l'	le	DET	_
 éducation	éducation	NC	_
 .	.	PONCT	_
-Afin_de	afin_de	P	_
+Afin	afin	ADV	_
+de	de	P	_
 les	le	DET	_
 mieux	mieux	ADV	_
 apprécier	apprécier	VINF	_
@@ -65652,7 +65796,7 @@ n'	ne	ADV	_
 est	être	V	_
 moins	moins	ADV	_
 disposé	disposer	VPP	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 un	un	DET	_
 égoïste	égoïste	NC	_
 à	à	P	_
@@ -65839,7 +65983,7 @@ un	un	DET	_
 tel	tel	ADJ	_
 jugement	jugement	NC	_
 ,	,	PONCT	_
-auquel	auquel	PROREL	_
+auquel	à_lequel	PROREL	_
 chacun	chacun	PRO	_
 participe	participer	V	_
 envers	envers	P	_
@@ -65855,7 +65999,7 @@ doctrine	doctrine	NC	_
 librement	librement	ADV	_
 admise	admettre	VPP	_
 par	par	P	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 .	.	PONCT	_
 Cependant	cependant	ADV	_
 ,	,	PONCT	_
@@ -65896,7 +66040,8 @@ réclamer	réclamer	VINF	_
 contre	contre	P	_
 elle	il	PRO	_
 ,	,	PONCT	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 elle	il	CLS	_
 reste	rester	V	_
 purement	purement	ADV	_
@@ -65941,7 +66086,7 @@ ne	ne	ADV	_
 doit	devoir	V	_
 y	y	CLO	_
 recourir	recourir	VINF	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 après	après	P	_
 avoir	avoir	VINF	_
 épuisé	épuiser	VPP	_
@@ -65992,7 +66137,7 @@ le	le	DET	_
 temple	temple	NC	_
 de	de	P	_
 l'	le	DET	_
-Humanité	Humanité	NC	_
+Humanité	humanité	NC	_
 ;	;	PONCT	_
 enfin	enfin	ADV	_
 l'	le	DET	_
@@ -66144,7 +66289,8 @@ fournir	fournir	VINF	_
 aucune	aucun	DET	_
 mesure	mesure	NC	_
 ,	,	PONCT	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 un	un	DET	_
 tel	tel	ADJ	_
 concours	concours	NC	_
@@ -66222,7 +66368,8 @@ sa	son	DET	_
 propre	propre	ADJ	_
 subsistance	subsistance	NC	_
 ,	,	PONCT	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 personne	personne	PRO	_
 ne	ne	ADV	_
 voudrait	vouloir	V	_
@@ -66243,7 +66390,7 @@ réprobation	réprobation	NC	_
 du	de_le	P+D	_
 sacerdoce	sacerdoce	NC	_
 universel	universel	ADJ	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 en	en	P	_
 se	se	CLO	_
 réfugiant	réfugier	VPR	_
@@ -66339,7 +66486,7 @@ les	le	DET	_
 personnes	personne	NC	_
 .	.	PONCT	_
 Le	le	DET	_
-Prêtre	Prêtre	NC	_
+Prêtre	prêtre	NC	_
 .	.	PONCT	_
 En	en	P	_
 effet	effet	NC	_
@@ -66566,7 +66713,7 @@ fréquent	fréquent	ADJ	_
 mesure	mesure	NC	_
 que	que	CS	_
 l'	le	DET	_
-Humanité	Humanité	NC	_
+Humanité	humanité	NC	_
 se	se	CLO	_
 développe	développer	V	_
 .	.	PONCT	_
@@ -66635,7 +66782,7 @@ sacerdoce	sacerdoce	NC	_
 même	même	ADJ	_
 .	.	PONCT	_
 Le	le	DET	_
-Prêtre	Prêtre	NC	_
+Prêtre	prêtre	NC	_
 .	.	PONCT	_
 Alors	alors	ADV	_
 ,	,	PONCT	_
@@ -66762,7 +66909,7 @@ le	le	DET	_
 sacerdoce	sacerdoce	NC	_
 de	de	P	_
 l'	le	DET	_
-Humanité	Humanité	NC	_
+Humanité	humanité	NC	_
 se	se	CLO	_
 trouve	trouver	V	_
 habituellement	habituellement	ADV	_
@@ -66793,7 +66940,7 @@ pouvoir	pouvoir	NC	_
 spirituel	spirituel	ADJ	_
 impose	imposer	V	_
 à	à	P	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 au	à_le	P+D	_
 nom	nom	NC	_
 de	de	P	_
@@ -66964,7 +67111,7 @@ sacerdoce	sacerdoce	NC	_
 positif	positif	ADJ	_
 .	.	PONCT	_
 Le	le	DET	_
-Prêtre	Prêtre	NC	_
+Prêtre	prêtre	NC	_
 .	.	PONCT	_
 Vous	vous	CLS	_
 sentirez	sentir	V	_
@@ -67036,7 +67183,8 @@ leurs	leur	DET	_
 familles	famille	NC	_
 ,	,	PONCT	_
 soit	soit	CC	_
-afin_de	afin_de	P	_
+afin	afin	ADV	_
+de	de	P	_
 se	se	CLO	_
 préserver	préserver	VINF	_
 des	un	DET	_
@@ -67251,7 +67399,8 @@ leur	leur	DET	_
 existence	existence	NC	_
 matérielle	matériel	ADJ	_
 .	.	PONCT	_
-Afin_de	afin_de	P	_
+Afin	afin	ADV	_
+de	de	P	_
 mieux	mieux	ADV	_
 caractériser	caractériser	VINF	_
 la	le	DET	_
@@ -67500,7 +67649,7 @@ chaque	chaque	DET	_
 temple	temple	NC	_
 de	de	P	_
 l'	le	DET	_
-Humanité	Humanité	NC	_
+Humanité	humanité	NC	_
 ,	,	PONCT	_
 parallèlement	parallèlement	ADV	_
 à	à	P	_
@@ -67597,7 +67746,8 @@ sur	sur	P	_
 l'	le	DET	_
 homme	homme	NC	_
 .	.	PONCT	_
-Afin_de	afin_de	P	_
+Afin	afin	ADV	_
+de	de	P	_
 les	le	DET	_
 mieux	mieux	ADV	_
 éprouver	éprouver	VINF	_
@@ -67775,7 +67925,7 @@ l'	le	DET	_
 ensemble	ensemble	NC	_
 de	de	P	_
 l'	le	DET	_
-Occident	Occident	NC	_
+Occident	occident	NC	_
 :	:	PONCT	_
 ce	ce	PRO	_
 qui	qui	PROREL	_
@@ -67851,7 +68001,8 @@ corporation	corporation	NC	_
 sacerdotale	sacerdotal	ADJ	_
 ,	,	PONCT	_
 soit	soit	CC	_
-afin_d'	afin_de	P	_
+afin	afin	ADV	_
+d'	de	P	_
 éviter	éviter	VINF	_
 les	le	DET	_
 dépenses	dépense	NC	_
@@ -67893,7 +68044,7 @@ vaste	vaste	ADJ	_
 corps	corps	NC	_
 .	.	PONCT	_
 Le	le	DET	_
-Prêtre	Prêtre	NC	_
+Prêtre	prêtre	NC	_
 .	.	PONCT	_
 Quoique	quoique	CS	_
 sa	son	DET	_
@@ -67936,7 +68087,7 @@ au	à_le	P+D	_
 Grand-Prêtre	Grand-Prêtre	NC	_
 de	de	P	_
 l'	le	DET	_
-Humanité	Humanité	NC	_
+Humanité	humanité	NC	_
 ,	,	PONCT	_
 qui	qui	PROREL	_
 résidera	résider	V	_
@@ -67947,7 +68098,7 @@ métropole	métropole	NC	_
 parisienne	parisien	ADJ	_
 de	de	P	_
 l'	le	DET	_
-Occident	Occident	NC	_
+Occident	occident	NC	_
 régénéré	régénérer	VPP	_
 .	.	PONCT	_
 Son	son	DET	_
@@ -68108,7 +68259,8 @@ germaniques	germanique	ADJ	_
 et	et	CC	_
 britanniques	britannique	ADJ	_
 .	.	PONCT	_
-Quant_à	quant_à	P	_
+Quant	quant	ADV	_
+à	à	P	_
 la	le	DET	_
 France	France	NP	_
 ,	,	PONCT	_
@@ -68187,12 +68339,12 @@ P	P	NC	_
 EXPLICAT	EXPLICAT	NC	_
 .	.	PONCT	_
 DU	de_le	P+D	_
-RéGIME	RéGIME	NC	_
+RÉGIME	régime	NC	_
 ENTR	ENTR	ADJ	_
 .	.	PONCT	_
 9	9	X	_
 RéGIME	régime	NC	_
-PRIVé	PRIVé	ADJ	_
+PRIVÉ	privé	ADJ	_
 .	.	PONCT	_
 La	le	DET	_
 Femme	femme	NC	_
@@ -68310,7 +68462,7 @@ vie	vie	NC	_
 domestique	domestique	ADJ	_
 .	.	PONCT	_
 Le	le	DET	_
-Prêtre	Prêtre	NC	_
+Prêtre	prêtre	NC	_
 .	.	PONCT	_
 Pour	pour	P	_
 la	le	DET	_
@@ -68449,7 +68601,7 @@ appartient	appartenir	V	_
 donc	donc	ADV	_
 à	à	P	_
 l'	le	DET	_
-Humanité	Humanité	NC	_
+Humanité	humanité	NC	_
 ;	;	PONCT	_
 car	car	CC	_
 tout	tout	ADV	_
@@ -68470,7 +68622,7 @@ tendresse	tendresse	NC	_
 ,	,	PONCT	_
 énergie	énergie	NC	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 Un	un	DET	_
 poète	poète	NC	_
 ,	,	PONCT	_
@@ -68598,7 +68750,7 @@ entière	entier	ADJ	_
 dépendance	dépendance	NC	_
 envers	envers	P	_
 l'	le	DET	_
-Humanité	Humanité	NC	_
+Humanité	humanité	NC	_
 ,	,	PONCT	_
 de	de	P	_
 manière	manière	NC	_
@@ -68670,7 +68822,7 @@ soigne	soigner	V	_
 l'	le	DET	_
 instruit	instruit	NC	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 Mais	mais	CC	_
 il	il	CLS	_
 ne	ne	ADV	_
@@ -68751,7 +68903,7 @@ continuellement	continuellement	ADV	_
 redevable	redevable	ADJ	_
 à	à	P	_
 l'	le	DET	_
-Humanité	Humanité	NC	_
+Humanité	humanité	NC	_
 d'	de	P	_
 une	un	DET	_
 foule	foule	NC	_
@@ -68873,7 +69025,7 @@ ne	ne	ADV	_
 peut	pouvoir	V	_
 jamais	jamais	ADV	_
 rendre	rendre	VINF	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 une	un	DET	_
 minime	minime	ADJ	_
 portion	portion	NC	_
@@ -68899,11 +69051,11 @@ protégé	protéger	VPP	_
 ,	,	PONCT	_
 développé	développer	VPP	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 ,	,	PONCT	_
 par	par	P	_
 l'	le	DET	_
-Humanité	Humanité	NC	_
+Humanité	humanité	NC	_
 .	.	PONCT	_
 Seulement	seulement	ADV	_
 ,	,	PONCT	_
@@ -69086,7 +69238,7 @@ en	en	CLO	_
 douter	douter	VINF	_
 .	.	PONCT	_
 Le	le	DET	_
-Prêtre	Prêtre	NC	_
+Prêtre	prêtre	NC	_
 .	.	PONCT	_
 Vous	vous	CLS	_
 avez	avoir	V	_
@@ -69214,7 +69366,7 @@ qui	qui	PROREL	_
 n'	ne	ADV	_
 aspirent	aspirer	V	_
 aujourd'hui	aujourd'hui	ADV	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 à	à	P	_
 vivre	vivre	VINF	_
 ,	,	PONCT	_
@@ -69294,7 +69446,8 @@ un	un	DET	_
 essor	essor	NC	_
 inaltérable	inaltérable	ADJ	_
 ,	,	PONCT	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 chaque	chaque	DET	_
 individu	individu	NC	_
 s'	se	CLO	_
@@ -69592,7 +69745,7 @@ en	en	CLO	_
 traité	traiter	VPP	_
 .	.	PONCT	_
 Quelque	quelque	DET	_
-précieuse	précieuse	NC	_
+précieuse	précieux	NC	_
 que	que	PROREL	_
 fût	être	V	_
 alors	alors	ADV	_
@@ -69704,7 +69857,8 @@ bornait	borner	V	_
 aux	à_le	P+D	_
 actes	acte	NC	_
 ,	,	PONCT	_
-tandis_que	tandis_que	CS	_
+tandis	tandis	ADV	_
+que	que	CS	_
 le	le	DET	_
 second	second	NC	_
 pénètre	pénétrer	V	_
@@ -69812,7 +69966,8 @@ est	être	V	_
 même	même	ADV	_
 prescrite	prescrire	VPP	_
 ,	,	PONCT	_
-afin_de	afin_de	P	_
+afin	afin	ADV	_
+de	de	P	_
 nous	nous	PRO	_
 bien	bien	ADV	_
 adapter	adapter	VINF	_
@@ -69821,7 +69976,7 @@ service	service	NC	_
 réel	réel	ADJ	_
 de	de	P	_
 l'	le	DET	_
-Humanité	Humanité	NC	_
+Humanité	humanité	NC	_
 ,	,	PONCT	_
 à	à	P	_
 laquelle	il	PROREL	_
@@ -69884,7 +70039,7 @@ plus	plus	ADV	_
 précieuse	précieux	ADJ	_
 à	à	P	_
 l'	le	DET	_
-Humanité	Humanité	NC	_
+Humanité	humanité	NC	_
 ,	,	PONCT	_
 de	de	P	_
 qui	qui	PROWH	_
@@ -69954,7 +70109,7 @@ Thébaïde	Thébaïde	NP	_
 ,	,	PONCT	_
 que	que	CS	_
 leurs	leur	DET	_
-abbés	abbés	NC	_
+abbés	abbé	NC	_
 furent	être	V	_
 enfin	enfin	ADV	_
 obligés	obliger	VPP	_
@@ -69979,7 +70134,7 @@ longtemps	longtemps	ADV	_
 genoux	genou	NC	_
 .	.	PONCT	_
 Le	le	DET	_
-Prêtre	Prêtre	NC	_
+Prêtre	prêtre	NC	_
 .	.	PONCT	_
 Outre	outre	P	_
 que	que	CS	_
@@ -70049,7 +70204,7 @@ surnaturelles	surnaturel	ADJ	_
 qui	qui	PROREL	_
 ne	ne	ADV	_
 comportent	comporter	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 une	un	DET	_
 validité	validité	NC	_
 temporaire	temporaire	ADJ	_
@@ -70144,13 +70299,13 @@ notre	notre	DET	_
 service	service	NC	_
 envers	envers	P	_
 la	le	DET	_
-Famille	Famille	NC	_
+Famille	famille	NC	_
 ,	,	PONCT	_
 la	le	DET	_
-Patrie	Patrie	NP	_
+Patrie	patrie	NP	_
 et	et	CC	_
 l'	le	DET	_
-Humanité	Humanité	NC	_
+Humanité	humanité	NC	_
 ,	,	PONCT	_
 nous	nous	CLS	_
 consommons	consommer	V	_
@@ -70334,7 +70489,7 @@ de	de	P	_
 la	le	DET	_
 nature	nature	NC	_
 humaine	humain	ADJ	_
-auquel	auquel	PROREL	_
+auquel	à_lequel	PROREL	_
 nous	nous	CLS	_
 devons	devoir	V	_
 l'	le	DET	_
@@ -70382,7 +70537,7 @@ remplaçant	remplacer	VPR	_
 Dieu	Dieu	NP	_
 par	par	P	_
 l'	le	DET	_
-Humanité	Humanité	NC	_
+Humanité	humanité	NC	_
 ,	,	PONCT	_
 vous	vous	CLS	_
 sentirez	sentir	V	_
@@ -70478,7 +70633,7 @@ genre	genre	NC	_
 d'	de	P	_
 activité	activité	NC	_
 temporelle	temporel	ADJ	_
-auquel	auquel	PROREL	_
+auquel	à_lequel	PROREL	_
 nous	nous	CLS	_
 le	il	CLO	_
 jugeons	juger	V	_
@@ -70501,7 +70656,7 @@ tarde	tarder	V	_
 point	point	ADV	_
 à	à	P	_
 reconnaître	reconnaître	VINF	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 il	il	CLS	_
 voulut	vouloir	V	_
 ainsi	ainsi	ADV	_
@@ -70643,7 +70798,7 @@ librement	librement	ADV	_
 dans	dans	P	_
 tout	tout	ADJ	_
 l'	le	DET	_
-Occident	Occident	NC	_
+Occident	occident	NC	_
 ,	,	PONCT	_
 sauf	sauf	P	_
 les	le	DET	_
@@ -70801,10 +70956,10 @@ service	service	NC	_
 continu	continu	ADJ	_
 de	de	P	_
 l'	le	DET	_
-Humanité	Humanité	NC	_
+Humanité	humanité	NC	_
 .	.	PONCT	_
 Le	le	DET	_
-Prêtre	Prêtre	NC	_
+Prêtre	prêtre	NC	_
 .	.	PONCT	_
 Ce	ce	DET	_
 grand	grand	ADJ	_
@@ -70985,13 +71140,15 @@ d'	de	P	_
 l'	le	DET	_
 objet	objet	NC	_
 ,	,	PONCT	_
-afin_de	afin_de	P	_
+afin	afin	ADV	_
+de	de	P	_
 déterminer	déterminer	VINF	_
 les	le	DET	_
 répressions	répression	NC	_
 convenables	convenable	ADJ	_
 .	.	PONCT	_
-Quant_aux	quant_à_le	P+D	_
+quant	quant	ADV	_
+aux	à_le	P+D	_
 moyens	moyen	NC	_
 de	de	P	_
 développer	développer	VINF	_
@@ -71002,7 +71159,7 @@ sympathiques	sympathique	ADJ	_
 ,	,	PONCT	_
 notre	notre	DET	_
 culte	culte	NC	_
-indique	indique	ADJ	_
+indique	indiquer	ADJ	_
 déjà	déjà	ADV	_
 ceux	celui	PRO	_
 qui	qui	PROREL	_
@@ -71142,7 +71299,7 @@ existence	existence	NC	_
 domestique	domestique	ADJ	_
 .	.	PONCT	_
 Le	le	DET	_
-Prêtre	Prêtre	NC	_
+Prêtre	prêtre	NC	_
 .	.	PONCT	_
 Elle	il	CLS	_
 consiste	consister	V	_
@@ -71270,7 +71427,8 @@ la	le	DET	_
 science	science	NC	_
 moderne	moderne	ADJ	_
 ,	,	PONCT	_
-quant_à	quant_à	P	_
+quant	quant	ADV	_
+à	à	P	_
 l'	le	DET	_
 existence	existence	NC	_
 naturelle	naturel	ADJ	_
@@ -71428,7 +71586,8 @@ source	source	NC	_
 du	de_le	P+D	_
 commandement	commandement	NC	_
 .	.	PONCT	_
-Quant_à	quant_à	P	_
+Quant	quant	ADV	_
+à	à	P	_
 l'	le	DET	_
 intelligence	intelligence	NC	_
 ,	,	PONCT	_
@@ -71588,7 +71747,8 @@ plus	plus	ADV	_
 de	de	P	_
 gravité	gravité	NC	_
 ,	,	PONCT	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 la	le	DET	_
 femme	femme	NC	_
 s'	se	CLO	_
@@ -71999,7 +72159,8 @@ des	de_le	P+D	_
 deux	deux	ADJ	_
 sexes	sexe	NC	_
 .	.	PONCT	_
-Quant_aux	quant_à_le	P+D	_
+quant	quant	ADV	_
+aux	à_le	P+D	_
 fonctions	fonction	NC	_
 de	de	P	_
 la	le	DET	_
@@ -72023,7 +72184,8 @@ l'	le	DET	_
 éducation	éducation	NC	_
 humaine	humain	ADJ	_
 ,	,	PONCT	_
-afin_que	afin_que	CS	_
+afin	afin	ADV	_
+que	que	CS	_
 le	le	DET	_
 coeur	cœur	NC	_
 y	y	CLO	_
@@ -72060,7 +72222,7 @@ mien	mien	NC	_
 Une	un	DET	_
 telle	tel	ADJ	_
 destination	destination	NC	_
-indique	indique	ADJ	_
+indique	indiquer	ADJ	_
 aussitôt	aussitôt	ADV	_
 que	que	CS	_
 le	le	DET	_
@@ -72073,7 +72235,8 @@ et	et	CC	_
 même	même	ADV	_
 indissoluble	indissoluble	ADJ	_
 ,	,	PONCT	_
-afin_que	afin_que	CS	_
+afin	afin	ADV	_
+que	que	CS	_
 les	le	DET	_
 relations	relation	NC	_
 domestiques	domestique	ADJ	_
@@ -72123,7 +72286,7 @@ entièrement	entièrement	ADV	_
 interdit	interdire	VPP	_
 .	.	PONCT	_
 Le	le	DET	_
-Prêtre	Prêtre	NC	_
+Prêtre	prêtre	NC	_
 .	.	PONCT	_
 Vous	vous	CLS	_
 savez	savoir	V	_
@@ -72212,7 +72375,7 @@ Il	il	CLS	_
 n'	ne	ADV	_
 existe	exister	V	_
 vraiment	vraiment	ADV	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 un	un	DET	_
 seul	seul	ADJ	_
 cas	cas	NC	_
@@ -72515,7 +72678,7 @@ lu	lire	VPP	_
 ,	,	PONCT	_
 dans	dans	P	_
 la	le	DET	_
-Politique	Politique	NC	_
+Politique	politique	NC	_
 positive	positif	ADJ	_
 ,	,	PONCT	_
 une	un	DET	_
@@ -72721,7 +72884,7 @@ entière	entier	ADJ	_
 harmonie	harmonie	NC	_
 .	.	PONCT	_
 Le	le	DET	_
-Prêtre	Prêtre	NC	_
+Prêtre	prêtre	NC	_
 .	.	PONCT	_
 Outre	outre	P	_
 cela	cela	PRO	_
@@ -72969,7 +73132,7 @@ conditions	condition	NC	_
 matérielles	matériel	ADJ	_
 .	.	PONCT	_
 Le	le	DET	_
-Prêtre	Prêtre	NC	_
+Prêtre	prêtre	NC	_
 .	.	PONCT	_
 Elles	il	CLS	_
 résultent	résulter	V	_
@@ -73080,7 +73243,8 @@ du	de_le	P+D	_
 travail	travail	NC	_
 extérieur	extérieur	ADJ	_
 ,	,	PONCT	_
-afin_de	afin_de	P	_
+afin	afin	ADV	_
+de	de	P	_
 pouvoir	pouvoir	VINF	_
 accomplir	accomplir	VINF	_
 dignement	dignement	ADV	_
@@ -73170,7 +73334,8 @@ sauf	sauf	P	_
 la	le	DET	_
 différence	différence	NC	_
 essentielle	essentiel	ADJ	_
-quant_au	quant_à_le	P+D	_
+Quant	quant	ADV	_
+au	à_le	P+D	_
 mode	mode	NC	_
 d'	de	P	_
 exécution	exécution	NC	_
@@ -73333,7 +73498,8 @@ influence	influence	NC	_
 corruptrice	corrupteur	ADJ	_
 ,	,	PONCT	_
 soit	soit	CC	_
-afin_de	afin_de	P	_
+afin	afin	ADV	_
+de	de	P	_
 concentrer	concentrer	VINF	_
 les	le	DET	_
 capitaux	capital	NC	_
@@ -73444,7 +73610,8 @@ richesse	richesse	NC	_
 .	.	PONCT	_
 Mais	mais	CC	_
 ,	,	PONCT	_
-afin_que	afin_que	CS	_
+afin	afin	ADV	_
+que	que	CS	_
 l'	le	DET	_
 ensemble	ensemble	NC	_
 de	de	P	_
@@ -73594,9 +73761,10 @@ des	un	DET	_
 femmes	femme	NC	_
 .	.	PONCT	_
 Le	le	DET	_
-Prêtre	Prêtre	NC	_
+Prêtre	prêtre	NC	_
 .	.	PONCT	_
-Afin_de	afin_de	P	_
+Afin	afin	ADV	_
+de	de	P	_
 compléter	compléter	VINF	_
 cet	ce	DET	_
 aperçu	aperçu	NC	_
@@ -73817,7 +73985,7 @@ installation	installation	NC	_
 sociale	social	ADJ	_
 .	.	PONCT	_
 Alors	alors	ADV	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 se	se	CLO	_
 livreront	livrer	V	_
 sans	sans	P	_
@@ -73951,7 +74119,7 @@ qui	qui	PROREL	_
 n'	ne	ADV	_
 est	être	V	_
 dû	devoir	VPP	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 à	à	P	_
 l'	le	DET	_
 amour	amour	NC	_
@@ -74036,7 +74204,7 @@ au	à_le	P+D	_
 sacerdoce	sacerdoce	NC	_
 de	de	P	_
 l'	le	DET	_
-Humanité	Humanité	NC	_
+Humanité	humanité	NC	_
 ,	,	PONCT	_
 qui	qui	PROREL	_
 peut	pouvoir	V	_
@@ -74070,12 +74238,12 @@ P	P	NC	_
 EXPLICAT	EXPLICAT	NC	_
 .	.	PONCT	_
 DU	de_le	P+D	_
-RéGIME	RéGIME	NC	_
+RéGIME	régime	NC	_
 ENTR	ENTR	ADJ	_
 .	.	PONCT	_
 10	10	X	_
 RéGIME	régime	NC	_
-PUBLIC	PUBLIC	ADJ	_
+PUBLIC	public	ADJ	_
 .	.	PONCT	_
 La	le	DET	_
 Femme	femme	NC	_
@@ -74198,7 +74366,7 @@ des	un	DET	_
 sentiments	sentiment	NC	_
 .	.	PONCT	_
 Le	le	DET	_
-Prêtre	Prêtre	NC	_
+Prêtre	prêtre	NC	_
 .	.	PONCT	_
 Il	il	CLS	_
 est	être	V	_
@@ -74385,7 +74553,7 @@ des	de_le	P+D	_
 deux	deux	ADJ	_
 parts	part	NC	_
 ,	,	PONCT	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 à	à	P	_
 prolonger	prolonger	VINF	_
 la	le	DET	_
@@ -74423,9 +74591,9 @@ des	un	DET	_
 devoirs	devoir	NC	_
 ,	,	PONCT	_
 chez	chez	P	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 envers	envers	P	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 .	.	PONCT	_
 Car	car	CC	_
 son	son	DET	_
@@ -74539,7 +74707,7 @@ Ce	ce	CLS	_
 ne	ne	ADV	_
 serait	être	V	_
 pourtant	pourtant	ADV	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 après	après	P	_
 une	un	DET	_
 restitution	restitution	NC	_
@@ -74653,7 +74821,7 @@ l'	le	DET	_
 autre	autre	NC	_
 .	.	PONCT	_
 Le	le	DET	_
-Prêtre	Prêtre	NC	_
+Prêtre	prêtre	NC	_
 .	.	PONCT	_
 Celles	celui	PRO	_
 qui	qui	PROREL	_
@@ -74832,7 +75000,7 @@ humain	humain	ADJ	_
 et	et	CC	_
 purs	pur	ADJ	_
 de	de	P	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 douloureux	douloureux	ADJ	_
 résultats	résultat	NC	_
 envers	envers	P	_
@@ -74873,7 +75041,7 @@ le	le	DET	_
 sacerdoce	sacerdoce	NC	_
 de	de	P	_
 l'	le	DET	_
-Humanité	Humanité	NC	_
+Humanité	humanité	NC	_
 doit	devoir	V	_
 utiliser	utiliser	VINF	_
 une	un	DET	_
@@ -74885,7 +75053,7 @@ luttes	lutte	NC	_
 sociales	social	ADJ	_
 ne	ne	ADV	_
 pourront	pouvoir	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 y	y	CLO	_
 mieux	mieux	ADV	_
 développer	développer	VINF	_
@@ -74957,7 +75125,8 @@ le	le	DET	_
 sexe	sexe	NC	_
 aimant	aimant	ADJ	_
 .	.	PONCT	_
-Quant_aux	quant_à_le	P+D	_
+quant	quant	ADV	_
+aux	à_le	P+D	_
 dispositions	disposition	NC	_
 résultées	résulter	VPP	_
 de	de	P	_
@@ -75054,7 +75223,7 @@ Nul	nul	PRO	_
 ne	ne	ADV	_
 devant	devant	P	_
 aspirer	aspirer	VINF	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 à	à	P	_
 l'	le	DET	_
 estime	estime	NC	_
@@ -75235,7 +75404,7 @@ esser	esser	NC	_
 corrotta	corrotta	ADJ	_
 ,	,	PONCT	_
 ...	…	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 Ces	ce	DET	_
 pressentiments	pressentiment	NC	_
 croissants	croissant	ADJ	_
@@ -75318,16 +75487,16 @@ dignement	dignement	ADV	_
 monter	monter	VINF	_
 de	de	P	_
 la	le	DET	_
-Famille	Famille	NC	_
+Famille	famille	NC	_
 à	à	P	_
 l'	le	DET	_
-Humanité	Humanité	NC	_
+Humanité	humanité	NC	_
 sans	sans	P	_
 l'	le	DET	_
 entremise	entremise	NC	_
 de	de	P	_
 la	le	DET	_
-Patrie	Patrie	NP	_
+Patrie	patrie	NP	_
 .	.	PONCT	_
 Dès	dès	P	_
 lors	lors	ADV	_
@@ -75359,7 +75528,7 @@ rapports	rapport	NC	_
 universels	universel	ADJ	_
 .	.	PONCT	_
 Le	le	DET	_
-Prêtre	Prêtre	NC	_
+Prêtre	prêtre	NC	_
 .	.	PONCT	_
 En	en	P	_
 effet	effet	NC	_
@@ -75401,7 +75570,7 @@ la	le	DET	_
 sainte	saint	ADJ	_
 notion	notion	NC	_
 de	de	P	_
-Patrie	Patrie	NP	_
+Patrie	patrie	NP	_
 ,	,	PONCT	_
 devenue	devenir	VPP	_
 trop	trop	ADV	_
@@ -75533,7 +75702,7 @@ Sicile	Sicile	NP	_
 la	le	DET	_
 Sardaigne	Sardaigne	NP	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 Une	un	DET	_
 population	population	NC	_
 d'	de	P	_
@@ -75640,7 +75809,7 @@ XIXe	XIXe	ADJ	_
 siècle	siècle	NC	_
 ,	,	PONCT	_
 la	le	DET	_
-République	République	NC	_
+République	république	NC	_
 française	français	ADJ	_
 se	se	CLO	_
 trouvera	trouver	V	_
@@ -75730,7 +75899,7 @@ grandes	grand	ADJ	_
 républiques	république	NC	_
 de	de	P	_
 l'	le	DET	_
-Occident	Occident	NC	_
+Occident	occident	NC	_
 .	.	PONCT	_
 C'	ce	CLS	_
 est	être	V	_
@@ -75802,7 +75971,7 @@ régime	régime	NC	_
 public	public	ADJ	_
 .	.	PONCT	_
 Le	le	DET	_
-Prêtre	Prêtre	NC	_
+Prêtre	prêtre	NC	_
 .	.	PONCT	_
 Il	il	CLS	_
 consiste	consister	V	_
@@ -75867,7 +76036,7 @@ amour	amour	NC	_
 chacun	chacun	PRO	_
 n'	ne	ADV	_
 obéit	obéir	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 à	à	P	_
 la	le	DET	_
 force	force	NC	_
@@ -75913,7 +76082,7 @@ ne	ne	ADV	_
 fut	être	V	_
 réellement	réellement	ADV	_
 introduite	introduire	VPP	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 au	à_le	P+D	_
 moyen	moyen	ADJ	_
 âge	âge	NC	_
@@ -76057,7 +76226,7 @@ obtenir	obtenir	VINF	_
 d'	de	P	_
 ascendant	ascendant	NC	_
 social	social	ADJ	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 en	en	P	_
 se	se	CLO	_
 dévouant	dévouer	VPR	_
@@ -76119,7 +76288,8 @@ même	même	ADV	_
 la	le	DET	_
 richesse	richesse	NC	_
 .	.	PONCT	_
-Afin_de	afin_de	P	_
+Afin	afin	ADV	_
+de	de	P	_
 la	le	DET	_
 mieux	mieux	NC	_
 garantir	garantir	VINF	_
@@ -76227,7 +76397,8 @@ la	le	DET	_
 troisième	troisième	ADJ	_
 infraction	infraction	NC	_
 .	.	PONCT	_
-Afin_de	afin_de	P	_
+Afin	afin	ADV	_
+de	de	P	_
 compléter	compléter	VINF	_
 la	le	DET	_
 purification	purification	NC	_
@@ -76425,7 +76596,7 @@ office	office	NC	_
 fondamental	fondamental	ADJ	_
 .	.	PONCT	_
 Le	le	DET	_
-Prêtre	Prêtre	NC	_
+Prêtre	prêtre	NC	_
 .	.	PONCT	_
 Pour	pour	P	_
 cela	cela	PRO	_
@@ -76595,7 +76766,7 @@ chaque	chaque	DET	_
 classe	classe	NC	_
 sur	sur	P	_
 la	le	DET	_
-précédente	précédente	NC	_
+précédente	précédent	NC	_
 .	.	PONCT	_
 Des	un	DET	_
 opérations	opération	NC	_
@@ -76696,7 +76867,8 @@ peut	pouvoir	V	_
 réellement	réellement	ADV	_
 diriger	diriger	VINF	_
 ,	,	PONCT	_
-afin_de	afin_de	P	_
+afin	afin	ADV	_
+de	de	P	_
 diminuer	diminuer	VINF	_
 le	le	DET	_
 plus	plus	ADV	_
@@ -76881,7 +77053,7 @@ compléter	compléter	VINF	_
 ici	ici	ADV	_
 .	.	PONCT	_
 Le	le	DET	_
-Prêtre	Prêtre	NC	_
+Prêtre	prêtre	NC	_
 .	.	PONCT	_
 Il	il	CLS	_
 faut	falloir	V	_
@@ -76950,7 +77122,7 @@ n'	ne	ADV	_
 a	avoir	V	_
 jamais	jamais	ADV	_
 servi	servir	VPP	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 à	à	P	_
 dissoudre	dissoudre	VINF	_
 graduellement	graduellement	ADV	_
@@ -76972,7 +77144,7 @@ différer	différer	VINF	_
 du	de_le	P+D	_
 régime	régime	NC	_
 primitif	primitif	ADJ	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 en	en	P	_
 substituant	substituer	VPR	_
 à	à	P	_
@@ -77011,7 +77183,7 @@ défiance	défiance	NC	_
 n'	ne	ADV	_
 aboutissent	aboutir	V	_
 réellement	réellement	ADV	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 à	à	P	_
 l'	le	DET	_
 irresponsabilité	irresponsabilité	NC	_
@@ -77075,7 +77247,8 @@ au	à_le	P+D	_
 chef	chef	NC	_
 suprême	suprême	ADJ	_
 ,	,	PONCT	_
-afin_d'	afin_de	P	_
+afin	afin	ADV	_
+d'	de	P	_
 obtenir	obtenir	VINF	_
 la	le	DET	_
 suffisante	suffisant	ADJ	_
@@ -77263,7 +77436,7 @@ des	de_le	P+D	_
 fils	fils	NC	_
 ,	,	PONCT	_
 si	si	CS	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 sont	être	V	_
 vraiment	vraiment	ADV	_
 incapables	incapable	ADJ	_
@@ -77371,7 +77544,7 @@ du	de_le	P+D	_
 sacerdoce	sacerdoce	NC	_
 de	de	P	_
 l'	le	DET	_
-Humanité	Humanité	NC	_
+Humanité	humanité	NC	_
 dans	dans	P	_
 les	le	DET	_
 principaux	principal	ADJ	_
@@ -77379,9 +77552,10 @@ conflits	conflit	NC	_
 civiques	civique	ADJ	_
 .	.	PONCT	_
 Le	le	DET	_
-Prêtre	Prêtre	NC	_
+Prêtre	prêtre	NC	_
 .	.	PONCT	_
-Afin_de	afin_de	P	_
+Afin	afin	ADV	_
+de	de	P	_
 mieux	mieux	ADV	_
 caractériser	caractériser	VINF	_
 cette	ce	DET	_
@@ -77409,7 +77583,7 @@ l'	le	DET	_
 ensemble	ensemble	NC	_
 de	de	P	_
 l'	le	DET	_
-Occident	Occident	NC	_
+Occident	occident	NC	_
 .	.	PONCT	_
 Deux_mille	deux_mille	DET	_
 banquiers	banquier	NC	_
@@ -77536,7 +77710,7 @@ le	le	DET	_
 Grand-Prêtre	Grand-Prêtre	NC	_
 de	de	P	_
 l'	le	DET	_
-Humanité	Humanité	NC	_
+Humanité	humanité	NC	_
 ,	,	PONCT	_
 devra	devoir	V	_
 dignement	dignement	ADV	_
@@ -77694,7 +77868,7 @@ réalités	réalité	NC	_
 habituelles	habituel	ADJ	_
 .	.	PONCT	_
 Le	le	DET	_
-Prêtre	Prêtre	NC	_
+Prêtre	prêtre	NC	_
 .	.	PONCT	_
 Notre	notre	DET	_
 principe	principe	NC	_
@@ -77761,7 +77935,7 @@ davantage	davantage	ADV	_
 aux	à_le	P+D	_
 yeux	œil	NC	_
 de	de	P	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 .	.	PONCT	_
 Le	le	DET	_
 sacerdoce	sacerdoce	NC	_
@@ -77934,7 +78108,7 @@ plus	plus	ADV	_
 ferme	ferme	ADJ	_
 à	à	P	_
 suivre	suivre	VINF	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 à	à	P	_
 conduire	conduire	VINF	_
 .	.	PONCT	_
@@ -78157,7 +78331,7 @@ ordre	ordre	NC	_
 civil	civil	ADJ	_
 .	.	PONCT	_
 Le	le	DET	_
-Prêtre	Prêtre	NC	_
+Prêtre	prêtre	NC	_
 .	.	PONCT	_
 Bornez	borner	V	_
 -vous	vous	CLS	_
@@ -78252,7 +78426,8 @@ de	de	P	_
 leurs	leur	DET	_
 vêtements	vêtement	NC	_
 .	.	PONCT	_
-Quant_au	quant_à_le	P+D	_
+Quant	quant	ADV	_
+au	à_le	P+D	_
 domicile	domicile	NC	_
 ,	,	PONCT	_
 vous	vous	CLS	_
@@ -78447,7 +78622,8 @@ dans	dans	P	_
 leur	leur	DET	_
 clientèle	clientèle	NC	_
 .	.	PONCT	_
-Quant_au	quant_à_le	P+D	_
+Quant	quant	ADV	_
+au	à_le	P+D	_
 salaire	salaire	NC	_
 périodique	périodique	ADJ	_
 ,	,	PONCT	_
@@ -78620,7 +78796,7 @@ conflits	conflit	NC	_
 quelconques	quelconque	ADJ	_
 chez	chez	P	_
 les	le	DET	_
-Occidentaux	Occidentaux	NC	_
+Occidentaux	occidental	NC	_
 régénérés	régénérer	VPP	_
 .	.	PONCT	_
 Je	je	CLS	_
@@ -78640,7 +78816,7 @@ inévitables	inévitable	ADJ	_
 débats	débat	NC	_
 ?	?	PONCT	_
 Le	le	DET	_
-Prêtre	Prêtre	NC	_
+Prêtre	prêtre	NC	_
 .	.	PONCT	_
 Il	il	CLS	_
 s'	se	CLO	_
@@ -78858,7 +79034,7 @@ attacher	attacher	VINF	_
 modérer	modérer	VINF	_
 les	le	DET	_
 conflits	conflit	NC	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 il	il	CLS	_
 ne	ne	ADV	_
 pourra	pouvoir	V	_
@@ -79101,7 +79277,7 @@ La	le	DET	_
 Femme	femme	NC	_
 .	.	PONCT	_
 Quelque	quelque	DET	_
-précieuse	précieuse	NC	_
+précieuse	précieux	NC	_
 que	que	PROREL	_
 soit	être	V	_
 une	un	DET	_
@@ -79276,9 +79452,10 @@ la	le	DET	_
 richesse	richesse	NC	_
 .	.	PONCT	_
 Le	le	DET	_
-Prêtre	Prêtre	NC	_
+Prêtre	prêtre	NC	_
 .	.	PONCT	_
-Afin_de	afin_de	P	_
+Afin	afin	ADV	_
+de	de	P	_
 vous	vous	CLO	_
 rassurer	rassurer	VINF	_
 ,	,	PONCT	_
@@ -79317,7 +79494,7 @@ est	être	V	_
 égal	égal	ADJ	_
 ,	,	PONCT	_
 en	en	P	_
-Occident	Occident	NC	_
+Occident	occident	NC	_
 ,	,	PONCT	_
 à	à	P	_
 celui	celui	PRO	_
@@ -79406,7 +79583,8 @@ interrompe	interrompre	V	_
 un	un	DET	_
 moment	moment	NC	_
 ,	,	PONCT	_
-quant_à	quant_à	P	_
+quant	quant	ADV	_
+à	à	P	_
 cette	ce	DET	_
 dernière	dernier	ADJ	_
 influence	influence	NC	_
@@ -79488,7 +79666,7 @@ la	le	DET	_
 vertu	vertu	NC	_
 .	.	PONCT	_
 Le	le	DET	_
-Prêtre	Prêtre	NC	_
+Prêtre	prêtre	NC	_
 .	.	PONCT	_
 Cette	ce	DET	_
 objection	objection	NC	_
@@ -79580,7 +79758,8 @@ de	de	P	_
 plus	plus	ADV	_
 d'	de	P	_
 efforts	effort	NC	_
-afin_de	afin_de	P	_
+afin	afin	ADV	_
+de	de	P	_
 recueillir	recueillir	VINF	_
 les	le	DET	_
 informations	information	NC	_
@@ -79641,7 +79820,9 @@ que	que	CS	_
 leurs	leur	DET	_
 enfants	enfant	NC	_
 restent	rester	V	_
-au-dessous	au-dessous	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessous	dessous	ADV	_
 de	de	P	_
 l'	le	DET	_
 instruction	instruction	NC	_
@@ -79780,7 +79961,7 @@ conflits	conflit	NC	_
 pratiques	pratique	ADJ	_
 .	.	PONCT	_
 Le	le	DET	_
-Prêtre	Prêtre	NC	_
+Prêtre	prêtre	NC	_
 .	.	PONCT	_
 Outre	outre	P	_
 ses	son	DET	_
@@ -79979,7 +80160,7 @@ au	à_le	P+D	_
 sacerdoce	sacerdoce	NC	_
 de	de	P	_
 l'	le	DET	_
-Humanité	Humanité	NC	_
+Humanité	humanité	NC	_
 pour	pour	P	_
 régler	régler	VINF	_
 dignement	dignement	ADV	_
@@ -80001,7 +80182,7 @@ rapports	rapport	NC	_
 universels	universel	ADJ	_
 .	.	PONCT	_
 Le	le	DET	_
-Prêtre	Prêtre	NC	_
+Prêtre	prêtre	NC	_
 .	.	PONCT	_
 Il	il	CLS	_
 faut	falloir	V	_
@@ -80038,7 +80219,7 @@ cas	cas	NC	_
 n'	ne	ADV	_
 exige	exiger	V	_
 réellement	réellement	ADV	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 une	un	DET	_
 simple	simple	ADJ	_
 extension	extension	NC	_
@@ -80082,8 +80263,8 @@ actuels	actuel	ADJ	_
 ,	,	PONCT	_
 la	le	DET	_
 grande	grand	ADJ	_
-République	République	NC	_
-Occidentale	Occidentale	NP	_
+République	république	NC	_
+Occidentale	occidental	NP	_
 se	se	CLO	_
 trouvera	trouver	V	_
 partagée	partager	VPP	_
@@ -80169,7 +80350,8 @@ des	de_le	P+D	_
 triumvirats	triumvirat	NC	_
 correspondants	correspondant	ADJ	_
 .	.	PONCT	_
-Quant_aux	quant_à_le	P+D	_
+quant	quant	ADV	_
+aux	à_le	P+D	_
 institutions	institution	NC	_
 pratiques	pratique	ADJ	_
 qui	qui	PROREL	_
@@ -80233,7 +80415,7 @@ monnaies	monnaie	NC	_
 les	le	DET	_
 mesures	mesure	NC	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 ,	,	PONCT	_
 peuvent	pouvoir	V	_
 acquérir	acquérir	VINF	_
@@ -80253,7 +80435,7 @@ soixante	soixante	ADJ	_
 républiques	république	NC	_
 de	de	P	_
 l'	le	DET	_
-Occident	Occident	NC	_
+Occident	occident	NC	_
 régénéré	régénérer	VPP	_
 ne	ne	ADV	_
 se	se	CLO	_
@@ -80321,7 +80503,7 @@ Le	le	DET	_
 Grand-Prêtre	Grand-Prêtre	NC	_
 de	de	P	_
 l'	le	DET	_
-Humanité	Humanité	NC	_
+Humanité	humanité	NC	_
 constituera	constituer	V	_
 ,	,	PONCT	_
 mieux	mieux	ADV	_
@@ -80350,7 +80532,8 @@ toute	tout	ADJ	_
 l'	le	DET	_
 action	action	NC	_
 sacerdotale	sacerdotal	ADJ	_
-afin_de	afin_de	P	_
+afin	afin	ADV	_
+de	de	P	_
 réprimer	réprimer	VINF	_
 chaque	chaque	DET	_
 triumvirat	triumvirat	NC	_
@@ -80450,7 +80633,7 @@ plus	plus	ADV	_
 mon	mon	DET	_
 père	père	NC	_
 ,	,	PONCT	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 à	à	P	_
 déterminer	déterminer	VINF	_
 les	le	DET	_
@@ -80474,7 +80657,7 @@ religion	religion	NC	_
 universelle	universel	ADJ	_
 .	.	PONCT	_
 Le	le	DET	_
-Prêtre	Prêtre	NC	_
+Prêtre	prêtre	NC	_
 .	.	PONCT	_
 D'	de	P	_
 après	après	P	_
@@ -80513,7 +80696,7 @@ l'	le	DET	_
 ensemble	ensemble	NC	_
 de	de	P	_
 l'	le	DET	_
-Occident	Occident	NC	_
+Occident	occident	NC	_
 européen	européen	ADJ	_
 ,	,	PONCT	_
 y_compris	y_compris	P	_
@@ -80592,7 +80775,7 @@ général	général	NC	_
 ,	,	PONCT	_
 comment	comment	PROWH	_
 l'	le	DET	_
-Occident	Occident	NC	_
+Occident	occident	NC	_
 régénéré	régénérer	VPP	_
 devra	devoir	V	_
 graduellement	graduellement	ADV	_
@@ -80709,7 +80892,7 @@ et	et	CC	_
 durables	durable	ADJ	_
 de	de	P	_
 l'	le	DET	_
-Occident	Occident	NC	_
+Occident	occident	NC	_
 avec	avec	P	_
 le	le	DET	_
 reste	reste	NC	_
@@ -80786,7 +80969,7 @@ caractère	caractère	NC	_
 essentiel	essentiel	ADJ	_
 .	.	PONCT	_
 Le	le	DET	_
-Prêtre	Prêtre	NC	_
+Prêtre	prêtre	NC	_
 .	.	PONCT	_
 Il	il	CLS	_
 résulte	résulter	V	_
@@ -80938,7 +81121,7 @@ niveau	niveau	NC	_
 final	final	ADJ	_
 de	de	P	_
 l'	le	DET	_
-Occident	Occident	NC	_
+Occident	occident	NC	_
 ,	,	PONCT	_
 sans	sans	P	_
 leur	il	CLO	_
@@ -81243,7 +81426,7 @@ analogie	analogie	NC	_
 religieuse	religieux	ADJ	_
 avec	avec	P	_
 l'	le	DET	_
-Occident	Occident	NC	_
+Occident	occident	NC	_
 .	.	PONCT	_
 Mais	mais	CC	_
 la	le	DET	_
@@ -81254,7 +81437,7 @@ Perse	Perse	NP	_
 ne	ne	ADV	_
 comportent	comporter	V	_
 peut-être	peut-être	ADV	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 une	un	DET	_
 intervention	intervention	NC	_
 beaucoup	beaucoup	ADV	_
@@ -81273,7 +81456,7 @@ la	le	DET	_
 monogamie	monogamie	NC	_
 .	.	PONCT	_
 Le	le	DET	_
-Prêtre	Prêtre	NC	_
+Prêtre	prêtre	NC	_
 .	.	PONCT	_
 La	le	DET	_
 polygamie	polygamie	NC	_
@@ -81325,10 +81508,10 @@ d'	de	P	_
 opinions	opinion	NC	_
 entre	entre	P	_
 les	le	DET	_
-Orientaux	Orientaux	NC	_
+Orientaux	oriental	NC	_
 et	et	CC	_
 les	le	DET	_
-Occidentaux	Occidentaux	NC	_
+Occidentaux	occidental	NC	_
 ;	;	PONCT	_
 comme	comme	P	_
 le	il	CLO	_
@@ -81352,7 +81535,8 @@ des	de_le	P+D	_
 deux	deux	ADJ	_
 pouvoirs	pouvoir	NC	_
 ,	,	PONCT	_
-afin_de	afin_de	P	_
+afin	afin	ADV	_
+de	de	P	_
 mieux	mieux	ADV	_
 constituer	constituer	VINF	_
 sa	son	DET	_
@@ -81395,7 +81579,7 @@ comme	comme	P	_
 particulière	particulière	NC	_
 à	à	P	_
 l'	le	DET	_
-Occident	Occident	NC	_
+Occident	occident	NC	_
 ,	,	PONCT	_
 où	où	PROREL	_
 son	son	DET	_
@@ -81412,7 +81596,7 @@ l'	le	DET	_
 islamisme	islamisme	NC	_
 priva	priver	V	_
 les	le	DET	_
-Orientaux	Orientaux	NC	_
+Orientaux	oriental	NC	_
 des	de_le	P+D	_
 admirables	admirable	ADJ	_
 progrès	progrès	NC	_
@@ -81565,7 +81749,7 @@ trop	trop	ADV	_
 grande	grand	ADJ	_
 .	.	PONCT	_
 Le	le	DET	_
-Prêtre	Prêtre	NC	_
+Prêtre	prêtre	NC	_
 .	.	PONCT	_
 Au	à_le	P+D	_
 contraire	contraire	NC	_
@@ -81632,11 +81816,11 @@ au	à_le	P+D	_
 moins	moins	NC	_
 ,	,	PONCT	_
 en	en	P	_
-Occident	Occident	NC	_
+Occident	occident	NC	_
 et	et	CC	_
 même	même	ADV	_
 en	en	P	_
-Orient	Orient	NC	_
+Orient	orient	NC	_
 .	.	PONCT	_
 Mais	mais	CC	_
 la	le	DET	_
@@ -81733,7 +81917,8 @@ bientôt	bientôt	ADV	_
 La	le	DET	_
 Femme	femme	NC	_
 .	.	PONCT	_
-Quant_aux	quant_à_le	P+D	_
+quant	quant	ADV	_
+aux	à_le	P+D	_
 fétichistes	fétichiste	NC	_
 ,	,	PONCT	_
 d'	de	P	_
@@ -81770,10 +81955,10 @@ niveau	niveau	NC	_
 final	final	ADJ	_
 de	de	P	_
 l'	le	DET	_
-Occident	Occident	NC	_
+Occident	occident	NC	_
 .	.	PONCT	_
 Le	le	DET	_
-Prêtre	Prêtre	NC	_
+Prêtre	prêtre	NC	_
 .	.	PONCT	_
 Malgré	malgré	P	_
 leur	leur	DET	_
@@ -81887,7 +82072,7 @@ pour	pour	P	_
 le	le	DET	_
 dogme	dogme	NC	_
 ,	,	PONCT	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 en	en	P	_
 confondant	confondre	VPR	_
 l'	le	DET	_
@@ -81897,7 +82082,8 @@ la	le	DET	_
 vie	vie	NC	_
 ,	,	PONCT	_
 et	et	CC	_
-quant_au	quant_à_le	P+D	_
+Quant	quant	ADV	_
+au	à_le	P+D	_
 culte	culte	NC	_
 ,	,	PONCT	_
 en	en	P	_
@@ -81932,7 +82118,8 @@ soit	être	V	_
 vraiment	vraiment	ADV	_
 inévitable	inévitable	ADJ	_
 ,	,	PONCT	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 il	il	CLS	_
 surgit	surgir	V	_
 en	en	P	_
@@ -82134,7 +82321,7 @@ des	de_le	P+D	_
 races	race	NC	_
 .	.	PONCT	_
 Le	le	DET	_
-Prêtre	Prêtre	NC	_
+Prêtre	prêtre	NC	_
 .	.	PONCT	_
 La	le	DET	_
 vraie	vrai	ADJ	_
@@ -82232,7 +82419,7 @@ différences	différence	NC	_
 essentielles	essentiel	ADJ	_
 et	et	CC	_
 durables	durable	ADJ	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 envers	envers	P	_
 la	le	DET	_
 prépondérance	prépondérance	NC	_
@@ -82403,7 +82590,7 @@ ENTR	ENTR	ADJ	_
 .	.	PONCT	_
 11	11	X	_
 HISTOIRE	histoire	NC	_
-GéNéRALE	GéNéRALE	ADJ	_
+GÉNÉRALE	générale	ADJ	_
 DE	de	P	_
 LA	le	DET	_
 RELIGION	religion	NC	_
@@ -82477,10 +82664,10 @@ final	final	ADJ	_
 réglé	régler	VPP	_
 par	par	P	_
 la	le	DET	_
-Religion	Religion	NC	_
+Religion	religion	NC	_
 de	de	P	_
 l'	le	DET	_
-Humanité	Humanité	NC	_
+Humanité	humanité	NC	_
 dut	devoir	V	_
 être	être	VINF	_
 toujours	toujours	ADV	_
@@ -82505,7 +82692,7 @@ vues	vue	NC	_
 partielles	partiel	ADJ	_
 ne	ne	ADV	_
 font	faire	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 exciter	exciter	VINF	_
 ,	,	PONCT	_
 sans	sans	P	_
@@ -82541,7 +82728,7 @@ le	le	DET	_
 présent	présent	NC	_
 .	.	PONCT	_
 Le	le	DET	_
-Prêtre	Prêtre	NC	_
+Prêtre	prêtre	NC	_
 .	.	PONCT	_
 Son	son	DET	_
 principal	principal	ADJ	_
@@ -82614,7 +82801,8 @@ ce	ce	DET	_
 principe	principe	NC	_
 fondamental	fondamental	ADJ	_
 ,	,	PONCT	_
-afin_d'	afin_de	P	_
+afin	afin	ADV	_
+d'	de	P	_
 y	y	CLO	_
 juger	juger	VINF	_
 indispensable	indispensable	ADJ	_
@@ -82639,7 +82827,8 @@ une	un	DET	_
 telle	tel	ADJ	_
 initiation	initiation	NC	_
 ,	,	PONCT	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 il	il	CLS	_
 est	être	V	_
 moins	moins	ADV	_
@@ -82803,7 +82992,8 @@ l'	le	DET	_
 état	état	NC	_
 positif	positif	ADJ	_
 .	.	PONCT	_
-Tandis_que	tandis_que	CS	_
+Tandis	tandis	ADV	_
+que	que	CS	_
 la	le	DET	_
 spéculation	spéculation	NC	_
 attribuait	attribuer	V	_
@@ -82989,7 +83179,7 @@ autorités	autorité	NC	_
 directrices	directeur	ADJ	_
 .	.	PONCT	_
 Le	le	DET	_
-Prêtre	Prêtre	NC	_
+Prêtre	prêtre	NC	_
 .	.	PONCT	_
 Pour	pour	P	_
 compléter	compléter	VINF	_
@@ -83009,7 +83199,7 @@ reste	rester	V	_
 ma	mon	DET	_
 fille	fille	NC	_
 ,	,	PONCT	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 à	à	P	_
 vous	vous	CLO	_
 indiquer	indiquer	VINF	_
@@ -83361,7 +83551,8 @@ se	se	CLO	_
 transformer	transformer	VINF	_
 spontanément	spontanément	ADV	_
 ,	,	PONCT	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 la	le	DET	_
 défense	défense	NC	_
 devient	devenir	V	_
@@ -83487,7 +83678,7 @@ conception	conception	NC	_
 dynamique	dynamique	ADJ	_
 de	de	P	_
 l'	le	DET	_
-Humanité	Humanité	NC	_
+Humanité	humanité	NC	_
 ne	ne	ADV	_
 me	je	CLO	_
 semble	sembler	V	_
@@ -83556,7 +83747,7 @@ l'	le	DET	_
 existence	existence	NC	_
 .	.	PONCT	_
 Le	le	DET	_
-Prêtre	Prêtre	NC	_
+Prêtre	prêtre	NC	_
 .	.	PONCT	_
 Vous	vous	CLS	_
 oubliez	oublier	V	_
@@ -83787,7 +83978,7 @@ l'	le	DET	_
 histoire	histoire	NC	_
 de	de	P	_
 l'	le	DET	_
-Humanité	Humanité	NC	_
+Humanité	humanité	NC	_
 se	se	CLO	_
 condense	condenser	V	_
 nécessairement	nécessairement	ADV	_
@@ -83912,12 +84103,13 @@ principales	principal	ADJ	_
 phases	phase	NC	_
 de	de	P	_
 l'	le	DET	_
-Humanité	Humanité	NC	_
+Humanité	humanité	NC	_
 .	.	PONCT	_
 Le	le	DET	_
-Prêtre	Prêtre	NC	_
+Prêtre	prêtre	NC	_
 .	.	PONCT	_
-Afin_de	afin_de	P	_
+Afin	afin	ADV	_
+de	de	P	_
 vous	vous	CLO	_
 en	en	CLO	_
 faciliter	faciliter	VINF	_
@@ -83956,8 +84148,8 @@ transition	transition	NC	_
 organique	organique	ADJ	_
 de	de	P	_
 la	le	DET	_
-République	République	NC	_
-Occidentale	Occidentale	ADJ	_
+République	république	NC	_
+Occidentale	occidental	ADJ	_
 .	.	PONCT	_
 Vous	vous	CLS	_
 y	y	CLO	_
@@ -84118,7 +84310,8 @@ ignorons	ignorer	V	_
 les	le	DET	_
 lois	loi	NC	_
 ,	,	PONCT	_
-afin_de	afin_de	P	_
+afin	afin	ADV	_
+de	de	P	_
 les	il	CLO	_
 modifier	modifier	VINF	_
 après	après	P	_
@@ -84597,7 +84790,7 @@ influence	influence	NC	_
 divine	divin	ADJ	_
 .	.	PONCT	_
 Le	le	DET	_
-Prêtre	Prêtre	NC	_
+Prêtre	prêtre	NC	_
 .	.	PONCT	_
 Toutefois	toutefois	ADV	_
 ,	,	PONCT	_
@@ -84970,7 +85163,8 @@ trouver	trouver	VINF	_
 profondément	profondément	ADV	_
 combinés	combiner	VPP	_
 ,	,	PONCT	_
-afin_de	afin_de	P	_
+afin	afin	ADV	_
+de	de	P	_
 surmonter	surmonter	VINF	_
 assez	assez	ADV	_
 l'	le	DET	_
@@ -85233,7 +85427,8 @@ des	de_le	P+D	_
 conquêtes	conquête	NC	_
 ,	,	PONCT	_
 puis	puis	CC	_
-afin_d'	afin_de	P	_
+afin	afin	ADV	_
+d'	de	P	_
 habituer	habituer	VINF	_
 l'	le	DET	_
 homme	homme	NC	_
@@ -85305,7 +85500,7 @@ principaux	principal	ADJ	_
 modes	mode	NC	_
 .	.	PONCT	_
 Le	le	DET	_
-Prêtre	Prêtre	NC	_
+Prêtre	prêtre	NC	_
 .	.	PONCT	_
 Le	le	DET	_
 plus	plus	ADV	_
@@ -85455,7 +85650,7 @@ l'	le	DET	_
 en	en	P	_
 fournissant	fournir	VPR	_
 à	à	P	_
-toutes	tous	PRO	_
+toutes	tout	PRO	_
 un	un	DET	_
 lien	lien	NC	_
 vénéré	vénérer	VPP	_
@@ -85626,7 +85821,7 @@ mieux	mieux	ADV	_
 comprendre	comprendre	VINF	_
 l'	le	DET	_
 antique	antique	NC	_
-égypte	égypte	ADJ	_
+égypte	Égypte	ADJ	_
 ,	,	PONCT	_
 vénérable	vénérable	ADJ	_
 mère	mère	NC	_
@@ -85985,7 +86180,7 @@ progrès	progrès	NC	_
 accomplis	accompli	ADJ	_
 .	.	PONCT	_
 Le	le	DET	_
-Prêtre	Prêtre	NC	_
+Prêtre	prêtre	NC	_
 .	.	PONCT	_
 Toutes	tout	ADJ	_
 ces	ce	DET	_
@@ -86218,7 +86413,7 @@ niveau	niveau	NC	_
 final	final	ADJ	_
 de	de	P	_
 l'	le	DET	_
-Occident	Occident	NC	_
+Occident	occident	NC	_
 ,	,	PONCT	_
 suivant	suivre	VPR	_
 une	un	DET	_
@@ -86736,7 +86931,7 @@ transition	transition	NC	_
 nécessaire	nécessaire	ADJ	_
 .	.	PONCT	_
 Le	le	DET	_
-Prêtre	Prêtre	NC	_
+Prêtre	prêtre	NC	_
 .	.	PONCT	_
 Une	un	DET	_
 telle	tel	ADJ	_
@@ -86841,7 +87036,7 @@ n'	ne	ADV	_
 accéléra	accélérer	V	_
 la	le	DET	_
 marche	marche	NC	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 en	en	P	_
 brisant	briser	VPR	_
 une	un	DET	_
@@ -87108,7 +87303,7 @@ l'	le	DET	_
 grecque	grec	ADJ	_
 .	.	PONCT	_
 Le	le	DET	_
-Prêtre	Prêtre	NC	_
+Prêtre	prêtre	NC	_
 .	.	PONCT	_
 Son	son	DET	_
 immortel	immortel	ADJ	_
@@ -87132,7 +87327,8 @@ l'	le	DET	_
 évolution	évolution	NC	_
 romaine	romain	ADJ	_
 ,	,	PONCT	_
-quant_à	quant_à	P	_
+quant	quant	ADV	_
+à	à	P	_
 leur	leur	DET	_
 influence	influence	NC	_
 respective	respectif	ADJ	_
@@ -87276,7 +87472,9 @@ qui	qui	PROREL	_
 finit	finir	V	_
 par	par	P	_
 mettre	mettre	VINF	_
-au-dessus	au-dessus	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 de	de	P	_
 tout	tout	ADJ	_
 les	le	DET	_
@@ -87310,7 +87508,7 @@ vantées	vanter	VPP	_
 ne	ne	ADV	_
 comportèrent	comporter	V	_
 vraiment	vraiment	ADV	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 une	un	DET	_
 belle	beau	ADJ	_
 phase	phase	NC	_
@@ -87369,7 +87567,7 @@ destinées	destinée	NC	_
 intellectuelles	intellectuel	ADJ	_
 de	de	P	_
 l'	le	DET	_
-Humanité	Humanité	NC	_
+Humanité	humanité	NC	_
 .	.	PONCT	_
 Mais	mais	CC	_
 ,	,	PONCT	_
@@ -87589,7 +87787,8 @@ irrévocablement	irrévocablement	ADV	_
 La	le	DET	_
 Femme	femme	NC	_
 .	.	PONCT	_
-Quant_à	quant_à	P	_
+Quant	quant	ADV	_
+à	à	P	_
 la	le	DET	_
 préparation	préparation	NC	_
 romaine	romain	ADJ	_
@@ -87692,7 +87891,7 @@ intimement	intimement	ADV	_
 liée	lier	VPP	_
 .	.	PONCT	_
 Le	le	DET	_
-Prêtre	Prêtre	NC	_
+Prêtre	prêtre	NC	_
 .	.	PONCT	_
 Vous	vous	CLS	_
 n'	ne	ADV	_
@@ -87702,7 +87901,7 @@ plus	plus	ADV	_
 ma	mon	DET	_
 fille	fille	NC	_
 ,	,	PONCT	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 à	à	P	_
 compléter	compléter	VINF	_
 un	un	DET	_
@@ -87728,7 +87927,7 @@ majeure	majeure	NC	_
 partie	partie	NC	_
 de	de	P	_
 l'	le	DET	_
-Occident	Occident	NC	_
+Occident	occident	NC	_
 ,	,	PONCT	_
 l'	le	DET	_
 activité	activité	NC	_
@@ -88233,7 +88432,7 @@ se	se	CLO	_
 borner	borner	VINF	_
 au	à_le	P+D	_
 conseil	conseil	NC	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 autant	autant	ADV	_
 qu'	que	CS	_
 il	il	CLS	_
@@ -88293,7 +88492,8 @@ même	même	ADV	_
 en	en	P	_
 Judée	Judée	NP	_
 ,	,	PONCT	_
-afin_de	afin_de	P	_
+afin	afin	ADV	_
+de	de	P	_
 s'	se	CLO	_
 en	en	CLO	_
 faire	faire	VINF	_
@@ -88397,7 +88597,7 @@ préparée	préparer	VPP	_
 n'	ne	ADV	_
 était	être	V	_
 destinée	destiner	VPP	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 à	à	P	_
 la	le	DET	_
 phase	phase	NC	_
@@ -88480,7 +88680,7 @@ du	de_le	P+D	_
 règne	règne	NC	_
 de	de	P	_
 l'	le	DET	_
-Humanité	Humanité	NC	_
+Humanité	humanité	NC	_
 ,	,	PONCT	_
 sous	sous	P	_
 la	le	DET	_
@@ -88555,8 +88755,9 @@ d'	de	P	_
 abord	abord	NC	_
 au	à_le	P+D	_
 catholicisme	catholicisme	NC	_
-qu'	qu'	ADV	_
-afin_de	afin_de	P	_
+qu'	que	ADV	_
+afin	afin	ADV	_
+de	de	P	_
 mieux	mieux	ADV	_
 caractériser	caractériser	VINF	_
 sa	son	DET	_
@@ -88647,7 +88848,7 @@ que	que	CS	_
 pourra	pouvoir	V	_
 .	.	PONCT	_
 Le	le	DET	_
-Prêtre	Prêtre	NC	_
+Prêtre	prêtre	NC	_
 .	.	PONCT	_
 Je	je	CLS	_
 n'	ne	ADV	_
@@ -88656,7 +88857,7 @@ ai	avoir	V	_
 ma	mon	DET	_
 fille	fille	NC	_
 ,	,	PONCT	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 à	à	P	_
 compléter	compléter	VINF	_
 votre	votre	DET	_
@@ -88951,7 +89152,7 @@ il	il	CLS	_
 ne	ne	ADV	_
 me	je	CLO	_
 reste	rester	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 à	à	P	_
 connaître	connaître	VINF	_
 la	le	DET	_
@@ -88964,7 +89165,7 @@ transition	transition	NC	_
 organique	organique	ADJ	_
 .	.	PONCT	_
 Le	le	DET	_
-Prêtre	Prêtre	NC	_
+Prêtre	prêtre	NC	_
 .	.	PONCT	_
 Elle	il	CLS	_
 résulte	résulter	V	_
@@ -88987,9 +89188,10 @@ activité	activité	NC	_
 collective	collectif	ADJ	_
 de	de	P	_
 l'	le	DET	_
-Occident	Occident	NC	_
+Occident	occident	NC	_
 ,	,	PONCT	_
-tandis_que	tandis_que	CS	_
+tandis	tandis	ADV	_
+que	que	CS	_
 s'	se	CLO	_
 y	y	CLO	_
 consommait	consommer	V	_
@@ -89100,7 +89302,7 @@ activité	activité	NC	_
 collective	collectif	ADJ	_
 de	de	P	_
 l'	le	DET	_
-Occident	Occident	NC	_
+Occident	occident	NC	_
 se	se	CLO	_
 trouva	trouver	V	_
 dirigée	diriger	VPP	_
@@ -89124,8 +89326,8 @@ Ainsi	ainsi	ADV	_
 se	se	CLO	_
 fonde	fonder	V	_
 la	le	DET	_
-République	République	NC	_
-Occidentale	Occidentale	NP	_
+République	république	NC	_
+Occidentale	occidental	NP	_
 ,	,	PONCT	_
 où	où	PROREL	_
 l'	le	DET	_
@@ -89226,7 +89428,7 @@ seconde	second	ADJ	_
 phase	phase	NC	_
 ,	,	PONCT	_
 l'	le	DET	_
-Orient	Orient	NC	_
+Orient	orient	NC	_
 subit	subir	V	_
 un	un	DET	_
 vaste	vaste	ADJ	_
@@ -89242,7 +89444,7 @@ l'	le	DET	_
 ensemble	ensemble	NC	_
 de	de	P	_
 l'	le	DET	_
-Occident	Occident	NC	_
+Occident	occident	NC	_
 ,	,	PONCT	_
 d'	de	P	_
 abord	abord	NC	_
@@ -89390,14 +89592,14 @@ réalisée	réaliser	VPP	_
 que	que	ADV	_
 dans	dans	P	_
 l'	le	DET	_
-Occident	Occident	NC	_
+Occident	occident	NC	_
 ,	,	PONCT	_
 au	à_le	P+D	_
 moyen	moyen	ADJ	_
 âge	âge	NC	_
 .	.	PONCT	_
 L'	le	DET	_
-Orient	Orient	NC	_
+Orient	orient	NC	_
 devait	devoir	V	_
 donc	donc	ADV	_
 tendre	tendre	VINF	_
@@ -89501,7 +89703,7 @@ dut	devoir	V	_
 acquérir	acquérir	VINF	_
 ,	,	PONCT	_
 en	en	P	_
-Orient	Orient	NC	_
+Orient	orient	NC	_
 ,	,	PONCT	_
 une	un	DET	_
 simplicité	simplicité	NC	_
@@ -89512,7 +89714,7 @@ ne	ne	ADV	_
 comportait	comporter	V	_
 pas	pas	ADV	_
 en	en	P	_
-Occident	Occident	NC	_
+Occident	occident	NC	_
 .	.	PONCT	_
 Car	car	CC	_
 ,	,	PONCT	_
@@ -89743,8 +89945,8 @@ héroïques	héroïque	ADJ	_
 expéditions	expédition	NC	_
 où	où	PROREL	_
 la	le	DET	_
-République	République	NC	_
-Occidentale	Occidentale	NP	_
+République	république	NC	_
+Occidentale	occidental	NP	_
 ,	,	PONCT	_
 consolidée	consolider	VPP	_
 et	et	CC	_
@@ -89876,7 +90078,7 @@ Mais	mais	CC	_
 une	un	DET	_
 telle	tel	ADJ	_
 appréciation	appréciation	NC	_
-indique	indique	ADJ	_
+indique	indiquer	ADJ	_
 mieux	mieux	ADV	_
 combien	combien	PROWH	_
 le	le	DET	_
@@ -89942,7 +90144,7 @@ continuité	continuité	NC	_
 humaine	humain	ADJ	_
 .	.	PONCT	_
 Le	le	DET	_
-Prêtre	Prêtre	NC	_
+Prêtre	prêtre	NC	_
 .	.	PONCT	_
 En	en	P	_
 effet	effet	NC	_
@@ -90461,7 +90663,7 @@ décisive	décisif	ADJ	_
 portée	portée	NC	_
 ,	,	PONCT	_
 en	en	P	_
-Occident	Occident	NC	_
+Occident	occident	NC	_
 ,	,	PONCT	_
 au	à_le	P+D	_
 régime	régime	NC	_
@@ -90720,7 +90922,7 @@ n'	ne	ADV	_
 a	avoir	V	_
 -t-il	il	CLS	_
 maintenant	maintenant	ADV	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 à	à	P	_
 reprendre	reprendre	VINF	_
 l'	le	DET	_
@@ -90817,10 +91019,10 @@ prélude	prélude	NC	_
 nécessaire	nécessaire	ADJ	_
 à	à	P	_
 la	le	DET	_
-Religion	Religion	NC	_
+Religion	religion	NC	_
 de	de	P	_
 l'	le	DET	_
-Humanité	Humanité	NC	_
+Humanité	humanité	NC	_
 ,	,	PONCT	_
 le	le	DET	_
 sentiment	sentiment	NC	_
@@ -90843,7 +91045,7 @@ occidental	occidental	ADJ	_
 ,	,	PONCT	_
 quand	quand	CS	_
 la	le	DET	_
-Vierge	Vierge	NP	_
+Vierge	vierge	NP	_
 y	y	CLO	_
 tendit	tendre	V	_
 à	à	P	_
@@ -90900,7 +91102,7 @@ aptitude	aptitude	NC	_
 ne	ne	ADV	_
 pouvait	pouvoir	V	_
 durer	durer	VINF	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 autant	autant	ADV	_
 que	que	CS	_
 sa	son	DET	_
@@ -90925,7 +91127,7 @@ telle	tel	ADJ	_
 mission	mission	NC	_
 poussa	pousser	V	_
 l'	le	DET	_
-Occident	Occident	NC	_
+Occident	occident	NC	_
 vers	vers	P	_
 des	un	DET	_
 progrès	progrès	NC	_
@@ -91094,7 +91296,7 @@ constitution	constitution	NC	_
 féodale	féodal	ADJ	_
 .	.	PONCT	_
 L'	le	DET	_
-Occident	Occident	NC	_
+Occident	occident	NC	_
 commençait	commencer	V	_
 à	à	P	_
 réaliser	réaliser	VINF	_
@@ -91187,7 +91389,8 @@ plus	plus	NC	_
 en	en	P	_
 plus	plus	NC	_
 organique	organique	ADJ	_
-quant_aux	quant_à_le	P+D	_
+quant	quant	ADV	_
+aux	à_le	P+D	_
 éléments	élément	NC	_
 .	.	PONCT	_
 La	le	DET	_
@@ -91238,7 +91441,7 @@ la	le	DET	_
 rénovation	rénovation	NC	_
 .	.	PONCT	_
 Le	le	DET	_
-Prêtre	Prêtre	NC	_
+Prêtre	prêtre	NC	_
 .	.	PONCT	_
 Dans	dans	P	_
 la	le	DET	_
@@ -91314,7 +91517,7 @@ prononcées	prononcé	ADJ	_
 .	.	PONCT	_
 Tout	tout	ADJ	_
 l'	le	DET	_
-Occident	Occident	NC	_
+Occident	occident	NC	_
 participe	participer	V	_
 à	à	P	_
 la	le	DET	_
@@ -91327,7 +91530,7 @@ négation	négation	NC	_
 systématique	systématique	ADJ	_
 ne	ne	ADV	_
 prévaut	prévaloir	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 au	à_le	P+D	_
 Nord	Nord	NC	_
 .	.	PONCT	_
@@ -91406,7 +91609,8 @@ que	que	CS	_
 la	le	DET	_
 première	première	NC	_
 ,	,	PONCT	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 leur	leur	DET	_
 commun	commun	ADJ	_
 esprit	esprit	NC	_
@@ -91421,7 +91625,8 @@ des	de_le	P+D	_
 applications	application	NC	_
 sociales	social	ADJ	_
 .	.	PONCT	_
-Tandis_que	tandis_que	CS	_
+Tandis	tandis	ADV	_
+que	que	CS	_
 les	le	DET	_
 métaphysiciens	métaphysicien	NC	_
 ne	ne	ADV	_
@@ -91596,7 +91801,7 @@ temporelle	temporel	ADJ	_
 en	en	P	_
 ne	ne	ADV	_
 laissant	laisser	VPR	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 une	un	DET	_
 influence	influence	NC	_
 illusoire	illusoire	ADJ	_
@@ -91804,7 +92009,8 @@ du	de_le	P+D	_
 mouvement	mouvement	NC	_
 moderne	moderne	ADJ	_
 .	.	PONCT	_
-Quant_à	quant_à	P	_
+Quant	quant	ADV	_
+à	à	P	_
 la	le	DET	_
 progression	progression	NC	_
 positive	positif	ADJ	_
@@ -91874,7 +92080,7 @@ permanentes	permanent	ADJ	_
 pour	pour	P	_
 dispenser	dispenser	VINF	_
 les	le	DET	_
-Occidentaux	Occidentaux	NC	_
+Occidentaux	occidental	NC	_
 d'	de	P	_
 une	un	DET	_
 éducation	éducation	NC	_
@@ -91951,7 +92157,7 @@ ne	ne	ADV	_
 devient	devenir	V	_
 alors	alors	ADV	_
 éminent	éminent	ADJ	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 envers	envers	P	_
 la	le	DET	_
 poésie	poésie	NC	_
@@ -92031,7 +92237,7 @@ qui	qui	PROREL	_
 prévaut	prévaloir	V	_
 alors	alors	ADV	_
 en	en	P	_
-Occident	Occident	NC	_
+Occident	occident	NC	_
 repose	reposer	V	_
 essentiellement	essentiellement	ADV	_
 sur	sur	P	_
@@ -92162,7 +92368,7 @@ l'	le	DET	_
 final	final	ADJ	_
 de	de	P	_
 l'	le	DET	_
-Occident	Occident	NC	_
+Occident	occident	NC	_
 .	.	PONCT	_
 La	le	DET	_
 Femme	femme	NC	_
@@ -92193,7 +92399,7 @@ période	période	NC	_
 systématique	systématique	ADJ	_
 .	.	PONCT	_
 Le	le	DET	_
-Prêtre	Prêtre	NC	_
+Prêtre	prêtre	NC	_
 .	.	PONCT	_
 Restées	rester	VPP	_
 auparavant	auparavant	ADV	_
@@ -92231,7 +92437,8 @@ indispensable	indispensable	ADJ	_
 qu'	que	CS	_
 inévitable	inévitable	ADJ	_
 ,	,	PONCT	_
-afin_de	afin_de	P	_
+afin	afin	ADV	_
+de	de	P	_
 manifester	manifester	VINF	_
 le	le	DET	_
 besoin	besoin	NC	_
@@ -92326,7 +92533,7 @@ crise	crise	NC	_
 révolutionnaire	révolutionnaire	ADJ	_
 dont	dont	PROREL	_
 l'	le	DET	_
-Occident	Occident	NC	_
+Occident	occident	NC	_
 subit	subir	V	_
 encore	encore	ADV	_
 ,	,	PONCT	_
@@ -92366,7 +92573,8 @@ du	de_le	P+D	_
 régime	régime	NC	_
 théologique	théologique	ADJ	_
 ,	,	PONCT	_
-tandis_qu'	tandis_que	CS	_
+tandis	tandis	ADV	_
+qu'	que	CS	_
 elle	il	CLS	_
 leur	il	CLO	_
 devient	devenir	V	_
@@ -92412,7 +92620,7 @@ suffit	suffire	V	_
 pour	pour	P	_
 les	il	CLO	_
 séparer	séparer	VINF	_
-toutes	tous	PRO	_
+toutes	tout	PRO	_
 de	de	P	_
 l'	le	DET	_
 émancipation	émancipation	NC	_
@@ -92583,7 +92791,7 @@ le	le	DET	_
 culte	culte	NC	_
 de	de	P	_
 la	le	DET	_
-Vierge	Vierge	NC	_
+Vierge	vierge	NC	_
 et	et	CC	_
 des	de_le	P+D	_
 Saints	Saints	NP	_
@@ -92688,7 +92896,7 @@ prévalut	prévaloir	V	_
 officiellement	officiellement	ADV	_
 .	.	PONCT	_
 Le	le	DET	_
-Prêtre	Prêtre	NC	_
+Prêtre	prêtre	NC	_
 .	.	PONCT	_
 Vos	votre	DET	_
 justes	juste	ADJ	_
@@ -92704,7 +92912,7 @@ intime	intime	ADJ	_
 discordance	discordance	NC	_
 de	de	P	_
 l'	le	DET	_
-Occident	Occident	NC	_
+Occident	occident	NC	_
 envers	envers	P	_
 une	un	DET	_
 doctrine	doctrine	NC	_
@@ -92877,7 +93085,8 @@ nulle	nul	DET	_
 part	part	NC	_
 prévaloir	prévaloir	VINF	_
 ,	,	PONCT	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 un	un	DET	_
 clergé	clergé	NC	_
 rétrograde	rétrograde	ADJ	_
@@ -92911,7 +93120,7 @@ majeure	majeure	NC	_
 partie	partie	NC	_
 de	de	P	_
 l'	le	DET	_
-Occident	Occident	NC	_
+Occident	occident	NC	_
 ait	avoir	V	_
 été	être	VPP	_
 préservée	préserver	VPP	_
@@ -93054,7 +93263,7 @@ ailleurs	ailleurs	NC	_
 nécessairement	nécessairement	ADV	_
 passagère	passager	ADJ	_
 ,	,	PONCT	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 envers	envers	P	_
 la	le	DET	_
 population	population	NC	_
@@ -93109,7 +93318,7 @@ telle	tel	ADJ	_
 concentration	concentration	NC	_
 ne	ne	ADV	_
 devint	devenir	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 une	un	DET	_
 aveugle	aveugle	NC	_
 et	et	CC	_
@@ -93274,7 +93483,8 @@ toute	tout	ADJ	_
 l'	le	DET	_
 antiquité	antiquité	NC	_
 .	.	PONCT	_
-Quant_à	quant_à	P	_
+Quant	quant	ADV	_
+à	à	P	_
 l'	le	DET	_
 essor	essor	NC	_
 industriel	industriel	ADJ	_
@@ -93345,7 +93555,7 @@ phase	phase	NC	_
 moderne	moderne	ADJ	_
 .	.	PONCT	_
 Le	le	DET	_
-Prêtre	Prêtre	NC	_
+Prêtre	prêtre	NC	_
 .	.	PONCT	_
 Elle	il	CLS	_
 fut	être	V	_
@@ -93360,7 +93570,7 @@ résultat	résultat	NC	_
 général	général	ADJ	_
 de	de	P	_
 la	le	DET	_
-précédente	précédente	NC	_
+précédente	précédent	NC	_
 .	.	PONCT	_
 Renonçant	renoncer	VPR	_
 à	à	P	_
@@ -93376,7 +93586,7 @@ catholicisme	catholicisme	NC	_
 divisaient	diviser	V	_
 irrévocablement	irrévocablement	ADV	_
 l'	le	DET	_
-Occident	Occident	NC	_
+Occident	occident	NC	_
 ,	,	PONCT	_
 comme	comme	CS	_
 l'	le	DET	_
@@ -93540,7 +93750,8 @@ monarchique	monarchique	ADJ	_
 et	et	CC	_
 catholique	catholique	ADJ	_
 ,	,	PONCT	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 elle	il	CLS	_
 fut	être	V	_
 mieux	mieux	ADV	_
@@ -93665,7 +93876,7 @@ l'	il	CLO	_
 isoler	isoler	VINF	_
 de	de	P	_
 l'	le	DET	_
-Occident	Occident	NC	_
+Occident	occident	NC	_
 .	.	PONCT	_
 Une	un	DET	_
 telle	tel	ADJ	_
@@ -93842,8 +94053,9 @@ ensemble	ensemble	NC	_
 de	de	P	_
 la	le	DET	_
 destruction	destruction	NC	_
-qu'	qu'	ADV	_
-afin_de	afin_de	P	_
+qu'	que	ADV	_
+afin	afin	ADV	_
+de	de	P	_
 concevoir	concevoir	VINF	_
 autant	autant	ADV	_
 que	que	CS	_
@@ -94084,7 +94296,8 @@ l'	le	DET	_
 essor	essor	NC	_
 négatif	négatif	ADJ	_
 .	.	PONCT	_
-Tandis_que	tandis_que	CS	_
+Tandis	tandis	ADV	_
+que	que	CS	_
 celui	celui	PRO	_
 -ci	ci	ADV	_
 détruisait	détruire	V	_
@@ -94138,7 +94351,7 @@ purs	pur	ADJ	_
 qui	qui	PROREL	_
 n'	ne	ADV	_
 aspiraient	aspirer	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 à	à	P	_
 la	le	DET	_
 pédantocratie	pédantocratie	NC	_
@@ -94185,7 +94398,8 @@ sa	son	DET	_
 marche	marche	NC	_
 générale	général	ADJ	_
 ,	,	PONCT	_
-afin_de	afin_de	P	_
+afin	afin	ADV	_
+de	de	P	_
 bien	bien	ADV	_
 apprécier	apprécier	VINF	_
 son	son	DET	_
@@ -94200,7 +94414,7 @@ entretien	entretien	NC	_
 final	final	ADJ	_
 .	.	PONCT	_
 Le	le	DET	_
-Prêtre	Prêtre	NC	_
+Prêtre	prêtre	NC	_
 .	.	PONCT	_
 Il	il	CLS	_
 y	y	CLO	_
@@ -94482,7 +94696,8 @@ artifices	artifice	NC	_
 rétrogrades	rétrograde	ADJ	_
 introduits	introduire	VPP	_
 ensuite	ensuite	ADV	_
-afin_d'	afin_de	P	_
+afin	afin	ADV	_
+d'	de	P	_
 empêcher	empêcher	VINF	_
 une	un	DET	_
 telle	tel	ADJ	_
@@ -94549,7 +94764,7 @@ positivistes	positiviste	NC	_
 pour	pour	P	_
 que	que	CS	_
 les	le	DET	_
-Arabes	Arabe	NC	_
+Arabe	arabe	NC	_
 expulsent	expulser	V	_
 énergiquement	énergiquement	ADV	_
 les	le	DET	_
@@ -94665,7 +94880,7 @@ n'	ne	ADV	_
 y	y	CLO	_
 servit	servir	V	_
 réellement	réellement	ADV	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 à	à	P	_
 réaliser	réaliser	VINF	_
 une	un	DET	_
@@ -94962,7 +95177,9 @@ souvent	souvent	ADV	_
 de	un	DET	_
 vrais	vrai	ADJ	_
 chefs-d'oeuvre	chef-d'œuvre	NC	_
-au-dessous	au-dessous	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessous	dessous	ADV	_
 de	de	P	_
 compositions	composition	NC	_
 non	non	ADV	_
@@ -95008,7 +95225,7 @@ ce	ce	DET	_
 catéchisme	catéchisme	NC	_
 .	.	PONCT	_
 Le	le	DET	_
-Prêtre	Prêtre	NC	_
+Prêtre	prêtre	NC	_
 .	.	PONCT	_
 Elle	il	CLS	_
 surgit	surgir	V	_
@@ -95064,7 +95281,7 @@ il	il	CLS	_
 ne	ne	ADV	_
 suffisait	suffire	V	_
 encore	encore	ADV	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 en	en	P	_
 cosmologie	cosmologie	NC	_
 ,	,	PONCT	_
@@ -95252,7 +95469,7 @@ que	que	PROREL	_
 dut	devoir	V	_
 subir	subir	VINF	_
 l'	le	DET	_
-Humanité	Humanité	NC	_
+Humanité	humanité	NC	_
 ,	,	PONCT	_
 sous	sous	P	_
 l'	le	DET	_
@@ -95308,7 +95525,8 @@ avenir	avenir	NC	_
 ,	,	PONCT	_
 mais	mais	CC	_
 aussi	aussi	ADV	_
-quant_au	quant_à_le	P+D	_
+Quant	quant	ADV	_
+au	à_le	P+D	_
 présent	présent	NC	_
 ,	,	PONCT	_
 dont	dont	PROREL	_
@@ -95340,7 +95558,8 @@ dominer	dominer	VINF	_
 l'	le	DET	_
 égoïsme	égoïsme	NC	_
 ,	,	PONCT	_
-tandis_qu'	tandis_que	CS	_
+tandis	tandis	ADV	_
+qu'	que	CS	_
 une	un	DET	_
 marche	marche	NC	_
 systématique	systématique	ADJ	_
@@ -95354,7 +95573,7 @@ un	un	DET	_
 mot	mot	NC	_
 ,	,	PONCT	_
 l'	le	DET	_
-Humanité	Humanité	NC	_
+Humanité	humanité	NC	_
 se	se	CLO	_
 substitue	substituer	V	_
 définitivement	définitivement	ADV	_
@@ -95400,10 +95619,10 @@ de	de	P	_
 siècles	siècle	NC	_
 ,	,	PONCT	_
 l'	le	DET	_
-Occident	Occident	NC	_
+Occident	occident	NC	_
 et	et	CC	_
 l'	le	DET	_
-Orient	Orient	NC	_
+Orient	orient	NC	_
 .	.	PONCT	_
 Quoiqu'	quoique	CS	_
 il	il	CLS	_
@@ -95484,7 +95703,8 @@ humaine	humain	ADJ	_
 AVIS	avir	VPP	_
 AU	à_le	P+D	_
 LECTEUR	lecteur	NC	_
-Afin_de	afin_de	P	_
+Afin	afin	ADV	_
+de	de	P	_
 faciliter	faciliter	VINF	_
 l'	le	DET	_
 étude	étude	NC	_

@@ -315,7 +315,8 @@ de	de	P	_
 la	le	DET	_
 vérité	vérité	NC	_
 ,	,	PONCT	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 l'	le	DET	_
 un	un	NC	_
 la	il	CLO	_
@@ -463,7 +464,7 @@ auteur	auteur	NC	_
 ne	ne	ADV	_
 peut	pouvoir	V	_
 être	être	VINF	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 historien	historien	ADJ	_
 ,	,	PONCT	_
 et	et	CC	_
@@ -635,7 +636,7 @@ bien	bien	ADV	_
 absolu	absolu	ADJ	_
 ,	,	PONCT	_
 et	et	CC	_
-auquel	auquel	PROREL	_
+auquel	à_lequel	PROREL	_
 il	il	CLS	_
 faut	falloir	V	_
 toujours	toujours	ADV	_
@@ -828,7 +829,7 @@ présentant	présenter	VPR	_
 ainsi	ainsi	ADV	_
 que	que	CS	_
 *	*	X	_
-M	M	NC	_
+M	monsieur	NC	_
 Bossuet	Bossuet	NP	_
 l'	il	CLO	_
 a	avoir	V	_
@@ -932,7 +933,7 @@ qu'	que	CS	_
 elles	il	CLS	_
 se	se	CLO	_
 prêtent	prêter	V	_
-toutes	tous	PRO	_
+toutes	tout	PRO	_
 un	un	DET	_
 secours	secours	NC	_
 mutuel	mutuel	ADJ	_
@@ -1258,7 +1259,7 @@ lesquelles	il	PROREL	_
 ,	,	PONCT	_
 dit	dire	V	_
 *	*	PONCT	_
-M	M	NC	_
+M	monsieur	NC	_
 Bossuet	Bossuet	NP	_
 ,	,	PONCT	_
 tout	tout	ADJ	_
@@ -1384,7 +1385,7 @@ résistance	résistance	NC	_
 des	de_le	P+D	_
 milieux	milieu	NC	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 Etc.	etc.	ADV	_
 La	le	DET	_
 comparaison	comparaison	NC	_
@@ -1446,7 +1447,8 @@ prudence	prudence	NC	_
 et	et	CC	_
 circonspection	circonspection	NC	_
 ,	,	PONCT	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 elle	il	CLS	_
 est	être	V	_
 incertaine	incertain	ADJ	_
@@ -1500,7 +1502,8 @@ de	de	P	_
 la	il	CLO	_
 révéler	révéler	VINF	_
 ,	,	PONCT	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 c'	ce	CLS	_
 est	être	V	_
 toujours	toujours	ADV	_
@@ -1736,7 +1739,8 @@ de	de	P	_
 l'	il	CLO	_
 acquérir	acquérir	VINF	_
 ,	,	PONCT	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 dans	dans	P	_
 leur	leur	DET	_
 improbation	improbation	NC	_
@@ -1768,7 +1772,7 @@ doctrine	doctrine	NC	_
 ,	,	PONCT	_
 éprouvez	éprouver	VPP	_
 -les	il	CLO	_
-toutes	tous	PRO	_
+toutes	tout	PRO	_
 ,	,	PONCT	_
 et	et	CC	_
 retenez	retenir	V	_
@@ -1861,7 +1865,7 @@ que	que	CS	_
 les	le	DET	_
 êtres	être	NC	_
 sont	être	V	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 compris	comprendre	VPP	_
 sous	sous	P	_
 les	le	DET	_
@@ -1995,7 +1999,7 @@ des	de_le	P+D	_
 objets	objet	NC	_
 ,	,	PONCT	_
 et	et	CC	_
-auxquels	auquel	PROREL	_
+auxquels	à_lequel	PROREL	_
 le	le	DET	_
 langage	langage	NC	_
 des	de_le	P+D	_
@@ -2382,7 +2386,7 @@ ne	ne	ADV	_
 doit	devoir	V	_
 être	être	VINF	_
 exprimé	exprimer	VPP	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 à	à	P	_
 la	le	DET	_
 pensée	pensée	NC	_
@@ -2418,7 +2422,7 @@ Les	le	DET	_
 philosophes	philosophe	NC	_
 hébreux	hébreu	ADJ	_
 s'	se	CLO	_
-appeloient	appeloient	V	_
+appeloient	appeler	V	_
 ,	,	PONCT	_
 avec	avec	P	_
 raison	raison	NC	_
@@ -2688,7 +2692,7 @@ ne	ne	ADV	_
 pénétra	pénétrer	V	_
 à	à	P	_
 rome	Rome	NP	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 avec	avec	P	_
 tous	tout	ADJ	_
 les	le	DET	_
@@ -3115,7 +3119,7 @@ raison	raison	NC	_
 humaine	humain	ADJ	_
 n'	ne	ADV	_
 est	être	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 une	un	DET	_
 lueur	lueur	NC	_
 vaine	vain	ADJ	_
@@ -3419,7 +3423,7 @@ de	de	P	_
 cette	ce	DET	_
 sublime	sublime	ADJ	_
 doctrine	doctrine	NC	_
-mourant	mourant	ADJ	_
+mourant	mourir	ADJ	_
 pour	pour	P	_
 la	il	CLO	_
 propager	propager	VINF	_
@@ -4008,7 +4012,7 @@ ne	ne	ADV	_
 méconnoissoient	méconnoissoient	V	_
 la	le	DET	_
 divinité	divinité	NC	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 après	après	P	_
 l'	il	CLO	_
 avoir	avoir	VINF	_
@@ -4361,7 +4365,7 @@ les	le	DET	_
 sages	sage	NC	_
 modernes	moderne	ADJ	_
 ,	,	PONCT	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 un	un	DET	_
 lien	lien	NC	_
 de	de	P	_
@@ -4697,7 +4701,7 @@ depuis	depuis	P	_
 Descartes	Descartes	NP	_
 ,	,	PONCT	_
 ...	…	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 "	"	PONCT	_
 cependant	cependant	ADV	_
 il	il	CLS	_
@@ -4918,7 +4922,7 @@ distingue	distinguer	V	_
 si	si	ADV	_
 nettement	nettement	ADV	_
 ce	ce	PRO	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 il	il	CLS	_
 faut	falloir	V	_
 commencer	commencer	VINF	_
@@ -5315,10 +5319,11 @@ la	le	DET	_
 remarque	remarque	NC	_
 de	de	P	_
 *	*	PONCT	_
-M	M	NC	_
+M	monsieur	NC	_
 Bossuet	Bossuet	NP	_
 ,	,	PONCT	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 une	un	DET	_
 notion	notion	NC	_
 même	même	ADV	_
@@ -5509,7 +5514,8 @@ approfondir	approfondir	VINF	_
 la	le	DET	_
 vérité	vérité	NC	_
 ,	,	PONCT	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 on	on	CLS	_
 ne	ne	ADV	_
 la	il	CLO	_
@@ -6317,7 +6323,7 @@ Si	si	CS	_
 les	le	DET	_
 hommes	homme	NC	_
 apportent	apporter	V	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 en	en	P	_
 naissant	naître	VPR	_
 les	le	DET	_
@@ -6539,7 +6545,7 @@ une	un	DET	_
 autre	autre	ADJ	_
 vie	vie	NC	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 Etc.	etc.	ADV	_
 Cependant	cependant	ADV	_
 il	il	CLS	_
@@ -6810,7 +6816,7 @@ la	le	DET	_
 religion	religion	NC	_
 est	être	V	_
 ce	ce	PRO	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 il	il	CLS	_
 y	y	CLO	_
 a	avoir	V	_
@@ -6917,7 +6923,8 @@ de	de	P	_
 plus	plus	ADV	_
 naturel	naturel	ADJ	_
 ,	,	PONCT	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 elle	il	CLS	_
 est	être	V	_
 ce	ce	PRO	_
@@ -6942,12 +6949,13 @@ surnaturelle	surnaturel	ADJ	_
 à	à	P	_
 l'	le	DET	_
 homme	homme	NC	_
-ignorant	ignorant	ADJ	_
+ignorant	ignorer	ADJ	_
 et	et	CC	_
 corrompu	corrompre	VPP	_
 ,	,	PONCT	_
 que	que	CS	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 elle	il	CLS	_
 est	être	V	_
 naturelle	naturel	ADJ	_
@@ -7034,7 +7042,7 @@ foible	faible	ADJ	_
 ,	,	PONCT	_
 misérable	misérable	ADJ	_
 ,	,	PONCT	_
-ignorant	ignorant	ADJ	_
+ignorant	ignorer	ADJ	_
 ,	,	PONCT	_
 barbare	barbare	ADJ	_
 ,	,	PONCT	_
@@ -7419,7 +7427,7 @@ un	un	DET	_
 état	état	NC	_
 futur	futur	ADJ	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 ,	,	PONCT	_
 et	et	CC	_
 qu'	que	CS	_
@@ -7520,7 +7528,8 @@ avant	avant	P	_
 leurs	leur	DET	_
 sens	sens	NC	_
 ,	,	PONCT	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 ce	ce	PRO	_
 qui	qui	PROREL	_
 est	être	V	_
@@ -7538,7 +7547,7 @@ désordre	désordre	NC	_
 précéder	précéder	VINF	_
 dans	dans	P	_
 ses	son	DET	_
-développemens	développemens	NC	_
+développemens	développement	NC	_
 ce	ce	PRO	_
 qui	qui	PROREL	_
 est	être	V	_
@@ -7599,7 +7608,7 @@ l'	le	DET	_
 auteur	auteur	NC	_
 d'	de	P	_
 *	*	PONCT	_
-émile	émile	NC	_
+émile	Émile	NC	_
 ,	,	PONCT	_
 on	on	CLS	_
 suit	suivre	V	_
@@ -7980,7 +7989,7 @@ puis	pouvoir	V	_
 entendre	entendre	VINF	_
 une	un	DET	_
 expression	expression	NC	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 autant	autant	ADV	_
 qu'	que	CS	_
 elle	il	CLS	_
@@ -8258,7 +8267,8 @@ ne	ne	ADV	_
 parlent	parler	V	_
 pas	pas	ADV	_
 ,	,	PONCT	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 ils	il	CLS	_
 n'	ne	ADV	_
 entendent	entendre	V	_
@@ -8376,7 +8386,7 @@ l'	le	DET	_
 esprit	esprit	NC	_
 ne	ne	ADV	_
 marche	marcher	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 à	à	P	_
 l'	le	DET	_
 aide	aide	NC	_
@@ -8466,7 +8476,7 @@ de	de	P	_
 science	science	NC	_
 n'	ne	ADV	_
 est	être	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 une	un	DET	_
 langue	langue	NC	_
 bien	bien	ADV	_
@@ -8833,7 +8843,8 @@ toujours	toujours	ADV	_
 être	être	VINF	_
 combattue	combattre	VPP	_
 ,	,	PONCT	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 ,	,	PONCT	_
 quoique	quoique	CS	_
 certaine	certain	ADJ	_
@@ -8931,7 +8942,7 @@ toujours	toujours	ADV	_
 partout	partout	ADV	_
 et	et	CC	_
 pour	pour	P	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 :	:	PONCT	_
 si	si	CS	_
 l'	le	DET	_
@@ -8956,7 +8967,8 @@ acquérir	acquérir	VINF	_
 par	par	P	_
 invention	invention	NC	_
 ;	;	PONCT	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 si	si	CS	_
 l'on	on	CLS	_
 peut	pouvoir	V	_
@@ -9122,7 +9134,7 @@ pour	pour	P	_
 laisser	laisser	VINF	_
 son	son	DET	_
 *	*	PONCT	_
-émile	émile	NC	_
+émile	Émile	NC	_
 dans	dans	P	_
 l'	le	DET	_
 ignorance	ignorance	NC	_
@@ -9131,7 +9143,8 @@ toute	tout	DET	_
 religion	religion	NC	_
 ,	,	PONCT	_
 mais	mais	CC	_
-afin_qu'	afin_que	CS	_
+afin	afin	ADV	_
+qu'	que	CS	_
 il	il	CLS	_
 ne	ne	ADV	_
 suive	suivre	V	_
@@ -9158,7 +9171,8 @@ dans	dans	P	_
 la	le	DET	_
 religion	religion	NC	_
 ,	,	PONCT	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 il	il	CLS	_
 suppose	supposer	V	_
 que	que	CS	_
@@ -9470,7 +9484,7 @@ n'	ne	ADV	_
 a	avoir	V	_
 un	un	DET	_
 esprit	esprit	NC	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 à	à	P	_
 la	le	DET	_
 charge	charge	NC	_
@@ -9729,7 +9743,7 @@ pour	pour	P	_
 parler	parler	VINF	_
 avec	avec	P	_
 *	*	PONCT	_
-M	M	NC	_
+M	monsieur	NC	_
 Bossuet	Bossuet	NP	_
 ,	,	PONCT	_
 croyoient	croire	V	_
@@ -10036,7 +10050,7 @@ prouver	prouver	VINF	_
 que	que	CS	_
 des	un	DET	_
 enfans	enfant	NC	_
-abandonnés	abandonnés	ADJ	_
+abandonnés	abandonner	ADJ	_
 avoient	avoyer	V	_
 pu	pouvoir	VPP	_
 inventer	inventer	VINF	_
@@ -10548,7 +10562,7 @@ lois	loi	NC	_
 ,	,	PONCT	_
 même	même	ADV	_
 les	le	DET	_
-meilleures	meilleure	NC	_
+meilleures	meilleur	NC	_
 ;	;	PONCT	_
 car	car	CC	_
 s'	si	CS	_
@@ -10829,7 +10843,7 @@ parole	parole	NC	_
 .	.	PONCT	_
 Des	un	DET	_
 enfans	enfant	NC	_
-abandonnés	abandonnés	ADJ	_
+abandonnés	abandonner	ADJ	_
 ,	,	PONCT	_
 hors	hors	P	_
 de	de	P	_
@@ -10855,7 +10869,7 @@ mouvemens	mouvement	NC	_
 animaux	animal	ADJ	_
 ,	,	PONCT	_
 et	et	CC	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 ils	il	CLS	_
 donnassent	donner	V	_
 des	un	DET	_
@@ -11044,7 +11058,7 @@ mes	mon	DET	_
 sens	sens	NC	_
 ne	ne	ADV	_
 voient	voir	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 un	un	DET	_
 ,	,	PONCT	_
 un	un	DET	_
@@ -11066,7 +11080,7 @@ cent	cent	DET	_
 ,	,	PONCT	_
 mille	mille	DET	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 Etc.	etc.	ADV	_
 ,	,	PONCT	_
 et	et	CC	_
@@ -11203,7 +11217,7 @@ il	il	CLS	_
 ne	ne	ADV	_
 les	il	CLO	_
 combine	combiner	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 à	à	P	_
 l'	le	DET	_
 aide	aide	NC	_
@@ -11230,7 +11244,8 @@ les	le	DET	_
 sophistes	sophiste	NC	_
 modernes	moderne	ADJ	_
 ,	,	PONCT	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 à	à	P	_
 cause	cause	NC	_
 de	de	P	_
@@ -11286,7 +11301,7 @@ n'	ne	ADV	_
 a	avoir	V	_
 fait	faire	VPP	_
 grâce	grâce	NC	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 aux	à_le	P+D	_
 vérités	vérité	NC	_
 physiques	physique	ADJ	_
@@ -11305,10 +11320,11 @@ foibles	faible	ADJ	_
 ,	,	PONCT	_
 dit	dire	V	_
 *	*	PONCT	_
-M	M	NC	_
+M	monsieur	NC	_
 Bossuet	Bossuet	NP	_
 ,	,	PONCT	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 elles	il	CLS	_
 nourrissent	nourrir	V	_
 l'	le	DET	_
@@ -11610,7 +11626,8 @@ les	le	DET	_
 la	le	DET	_
 métaphysique	métaphysique	NC	_
 ,	,	PONCT	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 la	le	DET	_
 philosophie	philosophie	NC	_
 moderne	moderne	ADJ	_
@@ -12173,7 +12190,7 @@ et	et	CC	_
 que	que	PROREL	_
 les	le	DET	_
 grecs	grec	NC	_
-appeloient	appeloient	NC	_
+appeloient	appeler	NC	_
 du	de_le	P+D	_
 même	même	ADJ	_
 nom	nom	NC	_
@@ -12587,7 +12604,7 @@ c'	ce	CLS	_
 est	être	V	_
 par	par	P	_
 l'	le	DET	_
-analise	analise	NC	_
+analise	analyse	NC	_
 de	de	P	_
 la	le	DET	_
 sensation	sensation	NC	_
@@ -12623,7 +12640,7 @@ Descartes	Descartes	NP	_
 Malebranche	Malebranche	NP	_
 ,	,	PONCT	_
 *	*	X	_
-Fénélon	Fénélon	NP	_
+Fénélon	Fénelon	NP	_
 et	et	CC	_
 Leibnitz	Leibnitz	NP	_
 ,	,	PONCT	_
@@ -12635,7 +12652,7 @@ formellement	formellement	ADV	_
 combattue	combattre	VPP	_
 par	par	P	_
 *	*	PONCT	_
-M	M	NC	_
+M	monsieur	NC	_
 Kant	Kant	NP	_
 ,	,	PONCT	_
 le	le	DET	_
@@ -12800,7 +12817,7 @@ grâces	grâce	NC	_
 comme	comme	P	_
 une	un	DET	_
 lumière	lumière	NC	_
-brillante	brillant	ADJ	_
+brillante	briller	ADJ	_
 à	à	P	_
 travers	travers	NC	_
 un	un	DET	_
@@ -12880,7 +12897,7 @@ esprit	esprit	NC	_
 Fontenelle	Fontenelle	NP	_
 ,	,	PONCT	_
 esprit	esprit	NC	_
-brillant	brillant	ADJ	_
+brillant	briller	ADJ	_
 ,	,	PONCT	_
 mais	mais	CC	_
 sans	sans	P	_
@@ -12915,7 +12932,8 @@ philosophie	philosophie	NC	_
 de	de	P	_
 Malebranche	Malebranche	NP	_
 ,	,	PONCT	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 il	il	CLS	_
 trouvoit	trouver	V	_
 beaucoup	beaucoup	PRO	_
@@ -12998,7 +13016,8 @@ homme	homme	NC	_
 à	à	P	_
 imagination	imagination	NC	_
 ,	,	PONCT	_
-tandis_que	tandis_que	CS	_
+tandis	tandis	ADV	_
+que	que	CS	_
 Locke	Locke	NP	_
 et	et	CC	_
 Condillac	Condillac	NP	_
@@ -13016,7 +13035,7 @@ figures	figure	NC	_
 ,	,	PONCT	_
 ne	ne	ADV	_
 pensent	penser	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 images	image	NC	_
 de	de	P	_
 corps	corps	NC	_
@@ -13067,7 +13086,8 @@ hommes	homme	NC	_
 à	à	P	_
 imaginations	imagination	NC	_
 ,	,	PONCT	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 l'	le	DET	_
 imagination	imagination	NC	_
 est	être	V	_
@@ -13405,7 +13425,7 @@ sens	sens	NC	_
 puisque	puisque	CS	_
 nous	nous	CLS	_
 avons	avoir	V	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 sur	sur	P	_
 beaucoup	beaucoup	PRO	_
 d'	de	P	_
@@ -13491,7 +13511,8 @@ sens	sens	NC	_
 ;	;	PONCT	_
 enfin	enfin	ADV	_
 ,	,	PONCT	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 nous	nous	CLS	_
 pensons	penser	V	_
 le	le	DET	_
@@ -13714,7 +13735,8 @@ ou	ou	CC	_
 en	en	P	_
 parole	parole	NC	_
 ,	,	PONCT	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 l'	le	DET	_
 homme	homme	NC	_
 ,	,	PONCT	_
@@ -13769,7 +13791,7 @@ de	de	P	_
 ses	son	DET	_
 mains	main	NC	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 Etc.	etc.	ADV	_
 Et	et	CC	_
 c'	ce	CLS	_
@@ -13832,7 +13854,8 @@ réelle	réel	ADJ	_
 de	de	P	_
 valeurs	valeur	NC	_
 ,	,	PONCT	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 elle	il	CLS	_
 est	être	V	_
 valeur	valeur	NC	_
@@ -14204,7 +14227,7 @@ compréhension	compréhension	NC	_
 ,	,	PONCT	_
 réflexions	réflexion	NC	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 Etc.	etc.	ADV	_
 Etc.	etc.	ADV	_
 ,	,	PONCT	_
@@ -14238,7 +14261,7 @@ art	art	NC	_
 ,	,	PONCT	_
 que	que	CS	_
 l'	le	DET	_
-analise	analise	NC	_
+analise	analyse	NC	_
 pédantesque	pédantesque	ADJ	_
 des	de_le	P+D	_
 sons	son	NC	_
@@ -14668,7 +14691,8 @@ intelligence	intelligence	NC	_
 humaine	humain	ADJ	_
 ;	;	PONCT	_
 mais	mais	CC	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 il	il	CLS	_
 n'	ne	ADV	_
 y	y	CLO	_
@@ -14748,7 +14772,7 @@ trois	trois	DET	_
 systèmes	système	NC	_
 généraux	général	ADJ	_
 ,	,	PONCT	_
-auxquels	auquel	PROREL	_
+auxquels	à_lequel	PROREL	_
 toutes	tout	ADJ	_
 les	le	DET	_
 opinions	opinion	NC	_
@@ -14975,7 +14999,8 @@ la	le	DET	_
 société	société	NC	_
 judaïque	judaïque	ADJ	_
 ,	,	PONCT	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 l'	le	DET	_
 homme	homme	NC	_
 y	y	CLO	_
@@ -14990,7 +15015,8 @@ la	le	DET	_
 société	société	NC	_
 païenne	païen	ADJ	_
 ,	,	PONCT	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 l'	le	DET	_
 homme	homme	NC	_
 y	y	CLO	_
@@ -15156,7 +15182,7 @@ publient	publier	V	_
 des	un	DET	_
 lois	loi	NC	_
 justes	juste	ADJ	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 en	en	P	_
 se	se	CLO	_
 conformant	conformer	VPR	_
@@ -15809,7 +15835,8 @@ la	le	DET	_
 divinité	divinité	NC	_
 ,	,	PONCT	_
 mais	mais	CC	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 il	il	CLS	_
 est	être	V	_
 constitué	constituer	VPP	_
@@ -15841,7 +15868,7 @@ fait	faire	V	_
 ,	,	PONCT	_
 dit	dire	V	_
 *	*	PONCT	_
-M	M	NC	_
+M	monsieur	NC	_
 Bossuet	Bossuet	NP	_
 ,	,	PONCT	_
 est	être	V	_
@@ -15995,7 +16022,7 @@ populaire	populaire	ADJ	_
 de	de	P	_
 Jurieu	Jurieu	NP	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 Etc.	etc.	ADV	_
 Le	le	DET	_
 pouvoir	pouvoir	NC	_
@@ -16334,7 +16361,7 @@ législation	législation	NC	_
 ,	,	PONCT	_
 de	de	P	_
 *	*	PONCT	_
-M	M	NC	_
+M	monsieur	NC	_
 Jérémie	Jérémie	NP	_
 Bentham	Bentham	NP	_
 ,	,	PONCT	_
@@ -16350,8 +16377,8 @@ année	année	NC	_
 ,	,	PONCT	_
 par	par	P	_
 *	*	PONCT	_
-M	M	NC	_
-Et	Et	NP	_
+M	monsieur	NC	_
+Et	et	NP	_
 Dumont	Dumont	NP	_
 ,	,	PONCT	_
 de	de	P	_
@@ -16501,7 +16528,7 @@ doctrine	doctrine	NC	_
 généreuse	généreux	ADJ	_
 de	de	P	_
 *	*	PONCT	_
-M	M	NC	_
+M	monsieur	NC	_
 Bossuet	Bossuet	NP	_
 ,	,	PONCT	_
 lorsqu'	lorsque	CS	_
@@ -16761,7 +16788,7 @@ des	de_le	P+D	_
 états	état	NC	_
 .	.	PONCT	_
 *	*	PONCT	_
-M	M	NC	_
+M	monsieur	NC	_
 Bossuet	Bossuet	NP	_
 lui	il	PRO	_
 -même	même	ADJ	_
@@ -16992,7 +17019,7 @@ dignité	dignité	NC	_
 .	.	PONCT	_
 Cependant	cependant	ADV	_
 *	*	PONCT	_
-M	M	NC	_
+M	monsieur	NC	_
 Bossuet	Bossuet	NP	_
 ,	,	PONCT	_
 le	le	DET	_
@@ -17253,7 +17280,7 @@ de	de	P	_
 Samuel	Samuel	NP	_
 Pufendorff	Pufendorff	NP	_
 ...	…	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 "	"	PONCT	_
 les	le	DET	_
 connoissances	connaissance	NC	_
@@ -17321,7 +17348,8 @@ hommes	homme	NC	_
 de	de	P	_
 génie	génie	NC	_
 ,	,	PONCT	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 ils	il	CLS	_
 ont	avoir	V	_
 jugé	juger	VPP	_
@@ -17398,7 +17426,8 @@ un	un	DET	_
 succès	succès	NC	_
 égal	égal	ADJ	_
 ,	,	PONCT	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 les	le	DET	_
 talens	talent	NC	_
 étoient	être	V	_
@@ -17927,7 +17956,7 @@ de	de	P	_
 Montesquieu	Montesquieu	NP	_
 ne	ne	ADV	_
 défendirent	défendre	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 avec	avec	P	_
 la	le	DET	_
 foiblesse	faiblesse	NC	_
@@ -18395,7 +18424,7 @@ paroît	paraître	V	_
 d'	de	P	_
 abord	abord	NC	_
 convenir	convenir	VINF	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 à	à	P	_
 la	le	DET	_
 société	société	NC	_
@@ -18413,7 +18442,8 @@ ou	ou	CC	_
 des	de_le	P+D	_
 esprits	esprit	NC	_
 ,	,	PONCT	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 leur	leur	DET	_
 production	production	NC	_
 est	être	V	_
@@ -19193,7 +19223,7 @@ germain	germain	NC	_
 de	de	P	_
 Tacite	Tacite	NP	_
 ,	,	PONCT	_
-auquel	auquel	PROREL	_
+auquel	à_lequel	PROREL	_
 il	il	CLS	_
 ressemble	ressembler	V	_
 ,	,	PONCT	_
@@ -19251,7 +19281,7 @@ et	et	CC	_
 de	de	P	_
 Hollande	Hollande	NP	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 Rien	Rien	NP	_
 ne	ne	ADV	_
 prouve	prouver	V	_
@@ -19437,7 +19467,7 @@ sont	être	V	_
 et	et	CC	_
 démagogique	démagogique	ADJ	_
 si	si	CS	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 ou	ou	CC	_
 la	le	DET	_
 plus	plus	ADV	_
@@ -19521,7 +19551,7 @@ le	le	DET	_
 plus	plus	ADV	_
 éminent	éminent	ADJ	_
 de	de	P	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 ,	,	PONCT	_
 le	le	DET	_
 pouvoir	pouvoir	NC	_
@@ -19623,7 +19653,8 @@ pas	pas	ADV	_
 de	un	DET	_
 noblesse	noblesse	NC	_
 ,	,	PONCT	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 à	à	P	_
 la	le	DET	_
 place	place	NC	_
@@ -20088,7 +20119,7 @@ un	un	DET	_
 édit.	édit.	NC	_
 .	.	PONCT	_
 .	.	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 "	"	PONCT	_
 mais	mais	CC	_
 la	le	DET	_
@@ -20739,7 +20770,7 @@ historique	historique	ADJ	_
 dans	dans	P	_
 un	un	DET	_
 essai	essai	NC	_
-analitique	analitique	ADJ	_
+analitique	analytique	ADJ	_
 sur	sur	P	_
 les	le	DET	_
 lois	loi	NC	_
@@ -21072,7 +21103,8 @@ la	il	CLO	_
 faire	faire	VINF	_
 exécuter	exécuter	VINF	_
 ,	,	PONCT	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 le	le	DET	_
 pouvoir	pouvoir	NC	_
 suprême	suprême	ADJ	_
@@ -21410,7 +21442,7 @@ elle	il	CLS	_
 n'	ne	ADV	_
 eût	avoir	V	_
 été	être	VPP	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 une	un	DET	_
 décoration	décoration	NC	_
 ;	;	PONCT	_
@@ -21421,7 +21453,8 @@ auroit	avoir	V	_
 pas	pas	ADV	_
 été	être	VPP	_
 ,	,	PONCT	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 elle	il	CLS	_
 n'	ne	ADV	_
 auroit	avoir	V	_
@@ -21479,7 +21512,7 @@ les	le	DET	_
 familles	famille	NC	_
 ,	,	PONCT	_
 qui	qui	PROREL	_
-toutes	tous	PRO	_
+toutes	tout	PRO	_
 devoient	dévoyer	V	_
 tendre	tendre	VINF	_
 à	à	P	_
@@ -21499,7 +21532,8 @@ l'	le	DET	_
 état	état	NC	_
 public	public	ADJ	_
 ,	,	PONCT	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 il	il	CLS	_
 est	être	V	_
 raisonnable	raisonnable	ADJ	_
@@ -21518,7 +21552,7 @@ l'on	on	CLS	_
 n'	ne	ADV	_
 est	être	V	_
 occupé	occuper	VPP	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 à	à	P	_
 travailler	travailler	VINF	_
 pour	pour	P	_
@@ -21693,7 +21727,7 @@ famille	famille	NC	_
 ne	ne	ADV	_
 peut	pouvoir	V	_
 aspirer	aspirer	VINF	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 à	à	P	_
 s'	se	CLO	_
 enrichir	enrichir	VINF	_
@@ -21742,7 +21776,7 @@ passagèrement	passagèrement	ADV	_
 ne	ne	ADV	_
 sont	être	V	_
 souvent	souvent	ADV	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 un	un	DET	_
 moyen	moyen	NC	_
 pour	pour	P	_
@@ -21959,7 +21993,7 @@ doivent	devoir	V	_
 la	le	DET	_
 règle	règle	NC	_
 de	de	P	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 .	.	PONCT	_
 3	3	X	_
 rien	rien	PRO	_
@@ -22187,7 +22221,8 @@ il	il	CLS	_
 puisse	pouvoir	V	_
 être	être	VINF	_
 ,	,	PONCT	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 il	il	CLS	_
 est	être	V	_
 contre	contre	P	_
@@ -22478,7 +22513,8 @@ pour	pour	P	_
 toujours	toujours	ADV	_
 renversée	renverser	VPP	_
 ,	,	PONCT	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 elle	il	CLS	_
 repose	reposer	V	_
 sur	sur	P	_
@@ -22532,7 +22568,8 @@ battent	battre	V	_
 en	en	P	_
 vain	vain	NC	_
 ,	,	PONCT	_
-tandis_qu'	tandis_que	CS	_
+tandis	tandis	ADV	_
+qu'	que	CS	_
 ils	il	CLS	_
 emportent	emporter	V	_
 jusqu'	jusque	P	_
@@ -22868,7 +22905,8 @@ soit	soit	CC	_
 en	en	P	_
 mal	mal	NC	_
 ,	,	PONCT	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 les	le	DET	_
 erreurs	erreur	NC	_
 des	de_le	P+D	_
@@ -23165,7 +23203,8 @@ commençoit	commencer	V	_
 alors	alors	ADV	_
 seulement	seulement	ADV	_
 ,	,	PONCT	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 ils	il	CLS	_
 aperçurent	apercevoir	V	_
 des	un	DET	_
@@ -23369,7 +23408,8 @@ dit	dire	V	_
 *	*	X	_
 Mably	Mably	NP	_
 ,	,	PONCT	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 nous	nous	CLS	_
 ne	ne	ADV	_
 changeons	changer	V	_
@@ -23388,7 +23428,7 @@ et	et	CC	_
 de	de	P	_
 sentir	sentir	VINF	_
 ...	…	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 "	"	PONCT	_
 rien	rien	PRO	_
 ne	ne	ADV	_
@@ -24133,7 +24173,8 @@ lois	loi	NC	_
 ex	ex	P	_
 leges	lège	ADJ	_
 ,	,	PONCT	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 ils	il	CLS	_
 sont	être	V	_
 proscrits	proscrire	VPP	_
@@ -24722,7 +24763,7 @@ débauche	débauche	NC	_
 son	son	DET	_
 antique	antique	NC	_
 et	et	CC	_
-brillant	brillant	ADJ	_
+brillant	briller	ADJ	_
 patrimoine	patrimoine	NC	_
 ,	,	PONCT	_
 tomberoit	tomber	V	_
@@ -25055,7 +25096,7 @@ connoissances	connaissance	NC	_
 ,	,	PONCT	_
 au	à_le	P+D	_
 hasard	hasard	NC	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 il	il	CLS	_
 n'	ne	ADV	_
 en	en	CLO	_
@@ -25145,22 +25186,24 @@ d'	de	P	_
 vérité	vérité	NC	_
 .	.	PONCT	_
 Cependant	cependant	ADV	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 seront	être	V	_
 -ils	il	CLS	_
 dépravés	dépraver	VPP	_
 ,	,	PONCT	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 quelques-uns	quelqu'un	PRO	_
 sont	être	V	_
 corrompus	corrompre	VPP	_
 ?	?	PONCT	_
-Tous	tous	PRO	_
+Tous	tout	PRO	_
 seront	être	V	_
 -ils	il	CLS	_
 malheureux	malheureux	ADJ	_
 ,	,	PONCT	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 quelques-uns	quelqu'un	PRO	_
 ont	avoir	V	_
 été	être	VPP	_
@@ -25578,7 +25621,8 @@ la	le	DET	_
 science	science	NC	_
 ,	,	PONCT	_
 uniquement	uniquement	ADV	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 elles	il	CLS	_
 étoient	être	V	_
 le	le	DET	_
@@ -25641,7 +25685,8 @@ aux	à_le	P+D	_
 sujets	sujet	NC	_
 enfin	enfin	ADV	_
 ,	,	PONCT	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 ils	il	CLS	_
 sentoient	sentir	V	_
 trop	trop	ADV	_
@@ -25718,7 +25763,7 @@ cette	ce	DET	_
 lueur	lueur	NC	_
 trompeuse	trompeur	ADJ	_
 que	que	CS	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 examinèrent	examiner	V	_
 leur	leur	DET	_
 position	position	NC	_
@@ -25892,7 +25937,7 @@ succès	succès	NC	_
 ne	ne	ADV	_
 pouvoit	pouvoir	V	_
 être	être	VINF	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 une	un	DET	_
 calamité	calamité	NC	_
 ,	,	PONCT	_
@@ -25984,8 +26029,9 @@ avant	avant	P	_
 les	le	DET	_
 autres	autre	NC	_
 ,	,	PONCT	_
-afin_que	afin_que	CS	_
-tous	tous	PRO	_
+afin	afin	ADV	_
+que	que	CS	_
+tous	tout	PRO	_
 puissent	pouvoir	V	_
 arriver	arriver	VINF	_
 à	à	P	_
@@ -26264,7 +26310,7 @@ désuétude	désuétude	NC	_
 ,	,	PONCT	_
 et	et	CC	_
 furent	être	V	_
-abandonnés	abandonnés	VPP	_
+abandonnés	abandonner	VPP	_
 aux	à_le	P+D	_
 démagogues	démagogue	NC	_
 de	de	P	_
@@ -26299,7 +26345,7 @@ législative	législatif	ADJ	_
 ,	,	PONCT	_
 ces	ce	DET	_
 mots	mot	NC	_
-effrayans	effrayant	ADJ	_
+effrayans	effrayer	ADJ	_
 ,	,	PONCT	_
 les	le	DET	_
 droits	droit	NC	_
@@ -27248,7 +27294,7 @@ annoncée	annoncer	VPP	_
 par	par	P	_
 tout	tout	ADJ	_
 le	le	DET	_
-cortége	cortége	NC	_
+cortége	cortège	NC	_
 des	de_le	P+D	_
 vérités	vérité	NC	_
 antécédentes	antécédent	ADJ	_
@@ -27302,7 +27348,8 @@ ne	ne	ADV	_
 reçoivent	recevoir	V	_
 pas	pas	ADV	_
 ,	,	PONCT	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 ils	il	CLS	_
 la	il	CLO	_
 voient	voir	V	_
@@ -27481,7 +27528,8 @@ de	de	P	_
 sa	son	DET	_
 force	force	NC	_
 ;	;	PONCT	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 eux	il	PRO	_
 -mêmes	même	ADJ	_
 ,	,	PONCT	_
@@ -27980,7 +28028,7 @@ raison	raison	NC	_
 n'	ne	ADV	_
 est	être	V	_
 naturelle	naturel	ADJ	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 autant	autant	ADV	_
 ou	ou	CC	_
 en	en	P	_
@@ -28003,7 +28051,8 @@ dans	dans	P	_
 l'	le	DET	_
 expression	expression	NC	_
 ,	,	PONCT	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 il	il	CLS	_
 y	y	CLO	_
 a	avoir	V	_
@@ -28099,7 +28148,7 @@ l'	le	DET	_
 enfance	enfance	NC	_
 ,	,	PONCT	_
 même	même	ADV	_
-abandonnée	abandonnée	ADJ	_
+abandonnée	abandonné	ADJ	_
 ,	,	PONCT	_
 et	et	CC	_
 qui	qui	PROREL	_
@@ -28899,7 +28948,7 @@ image	image	NC	_
 de	de	P	_
 Dieu	Dieu	NP	_
 ...	…	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 "	"	PONCT	_
 quoi	quoi	PROWH	_
 qu'	que	PROREL	_
@@ -29112,7 +29161,7 @@ parens	parent	NC	_
 ,	,	PONCT	_
 des	un	DET	_
 alimens	aliment	NC	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 à	à	P	_
 proportion	proportion	NC	_
 de	de	P	_
@@ -30054,7 +30103,7 @@ chrétiens	chrétien	NC	_
 cunctos	cunctos	ADJ	_
 populos	populo	NC	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 Pour	pour	P	_
 aller	aller	VINF	_
 du	de_le	P+D	_
@@ -30124,7 +30173,7 @@ Dieu	Dieu	NP	_
 a	avoir	V	_
 établis	établir	VPP	_
 ...	…	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 "	"	PONCT	_
 je	je	CLS	_
 vais	aller	V	_
@@ -30219,7 +30268,7 @@ pour	pour	P	_
 l'	le	DET	_
 utilité	utilité	NC	_
 de	de	P	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 ,	,	PONCT	_
 et	et	CC	_
 non	non	ADV	_
@@ -30227,7 +30276,7 @@ comme	comme	P	_
 une	un	DET	_
 jouissance	jouissance	NC	_
 que	que	PROREL	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 fussent	être	V	_
 appelés	appeler	VPP	_
 à	à	P	_
@@ -30794,7 +30843,7 @@ et	et	CC	_
 quarante_mille	quarante_mille	DET	_
 lois	loi	NC	_
 ,	,	PONCT	_
-toutes	tous	PRO	_
+toutes	tout	PRO	_
 d'	de	P	_
 urgence	urgence	NC	_
 ?	?	PONCT	_
@@ -31482,7 +31531,8 @@ ne	ne	ADV	_
 peut	pouvoir	V	_
 enfreindre	enfreindre	VINF	_
 ,	,	PONCT	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 il	il	CLS	_
 ne	ne	ADV	_
 peut	pouvoir	V	_
@@ -31605,7 +31655,7 @@ la	le	DET	_
 vie	vie	NC	_
 ne	ne	ADV	_
 dure	durer	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 autant	autant	ADV	_
 qu'	que	CS	_
 il	il	CLS	_
@@ -31896,7 +31946,8 @@ fond	fond	NC	_
 des	de_le	P+D	_
 coeurs	cœur	NC	_
 ,	,	PONCT	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 on	on	CLS	_
 ne	ne	ADV	_
 peut	pouvoir	V	_
@@ -31927,7 +31978,8 @@ avoir	avoir	VINF	_
 toujours	toujours	ADV	_
 sues	savoir	VPP	_
 ,	,	PONCT	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 on	on	CLS	_
 ne	ne	ADV	_
 se	se	CLO	_
@@ -32234,7 +32286,7 @@ tout	tout	ADJ	_
 le	le	DET	_
 monde	monde	NC	_
 ...	…	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 "	"	PONCT	_
 il	il	CLS	_
 n'	ne	ADV	_
@@ -32756,7 +32808,7 @@ les	le	DET	_
 états	état	NC	_
 anciens	ancien	ADJ	_
 ,	,	PONCT	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 despotiques	despotique	ADJ	_
 ou	ou	CC	_
 démagogiques	démagogique	ADJ	_
@@ -32798,7 +32850,8 @@ lui	il	CLO	_
 appartenir	appartenir	VINF	_
 ;	;	PONCT	_
 et	et	CC	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 les	le	DET	_
 brutes	brute	NC	_
 sont	être	V	_
@@ -32896,7 +32949,8 @@ langage	langage	NC	_
 devenu	devenir	VPP	_
 faux	faux	ADJ	_
 ,	,	PONCT	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 il	il	CLS	_
 étoit	être	V	_
 exclusif	exclusif	ADJ	_
@@ -32978,7 +33032,7 @@ société	société	NC	_
 ,	,	PONCT	_
 qu'	que	CS	_
 ils	il	CLS	_
-appeloient	appeloient	V	_
+appeloient	appeler	V	_
 l'	le	DET	_
 état	état	NC	_
 naturel	naturel	ADJ	_
@@ -32990,7 +33044,9 @@ l'	le	DET	_
 état	état	NC	_
 domestique	domestique	ADJ	_
 bien	bien	ADV	_
-au-dessus	au-dessus	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 de	de	P	_
 l'	le	DET	_
 état	état	NC	_
@@ -33004,7 +33060,9 @@ lors	lors	ADV	_
 ,	,	PONCT	_
 le	le	DET	_
 sauvage	sauvage	NC	_
-au-dessus	au-dessus	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 de	de	P	_
 l'	le	DET	_
 homme	homme	NC	_
@@ -33432,7 +33490,8 @@ les	le	DET	_
 plus	plus	ADV	_
 nécessaires	nécessaire	ADJ	_
 ,	,	PONCT	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 ,	,	PONCT	_
 disoit	dire	V	_
 -on	on	CLS	_
@@ -33540,7 +33599,7 @@ service	service	NC	_
 des	de_le	P+D	_
 autres	autre	NC	_
 ,	,	PONCT	_
-auquel	auquel	PROREL	_
+auquel	à_lequel	PROREL	_
 le	le	DET	_
 célibat	célibat	NC	_
 rend	rendre	V	_
@@ -33651,7 +33710,7 @@ dans	dans	P	_
 la	le	DET	_
 législation	législation	NC	_
 ,	,	PONCT	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 avec	avec	P	_
 une	un	DET	_
 extrême	extrême	ADJ	_
@@ -33690,7 +33749,8 @@ toutes	tout	ADJ	_
 lois	loi	NC	_
 subséquentes	subséquent	ADJ	_
 ;	;	PONCT	_
-tandis_qu'	tandis_que	CS	_
+tandis	tandis	ADV	_
+qu'	que	CS	_
 il	il	CLS	_
 est	être	V	_
 vrai	vrai	ADJ	_
@@ -33707,7 +33767,7 @@ la	le	DET	_
 société	société	NC	_
 ,	,	PONCT	_
 sont	être	V	_
-toutes	tous	PRO	_
+toutes	tout	PRO	_
 des	de_le	P+D	_
 lois	loi	NC	_
 naturelles	naturel	ADJ	_
@@ -33915,7 +33975,7 @@ politique	politique	ADJ	_
 ne	ne	ADV	_
 faisoient	faire	V	_
 pas	pas	ADV	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 partie	partie	NC	_
 de	de	P	_
 la	le	DET	_
@@ -33927,7 +33987,7 @@ et	et	CC	_
 n'	ne	ADV	_
 étoient	être	V	_
 pas	pas	ADV	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 frères	frère	ADJ	_
 ,	,	PONCT	_
 comme	comme	P	_
@@ -34292,7 +34352,7 @@ rapprochés	rapprocher	VPP	_
 d'	de	P	_
 une	un	DET	_
 enfance	enfance	NC	_
-ignorante	ignorant	ADJ	_
+ignorante	ignorer	ADJ	_
 ou	ou	CC	_
 d'	de	P	_
 une	un	DET	_
@@ -34547,7 +34607,7 @@ sont	être	V	_
 les	le	DET	_
 nouveaux	nouveau	ADJ	_
 dieux	dieu	NC	_
-auxquels	auquel	PROREL	_
+auxquels	à_lequel	PROREL	_
 on	on	CLS	_
 consacre	consacrer	V	_
 ces	ce	DET	_
@@ -35527,7 +35587,7 @@ trouvent	trouver	V	_
 ,	,	PONCT	_
 dit	dire	V	_
 *	*	X	_
-M	M	NC	_
+M	monsieur	NC	_
 Bossuet	Bossuet	NP	_
 ,	,	PONCT	_
 les	le	DET	_
@@ -35696,7 +35756,7 @@ agité	agiter	VPP	_
 jusqu'	jusque	P	_
 à	à	P	_
 ce	ce	PRO	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 il	il	CLS	_
 soit	être	V	_
 détruit	détruire	VPP	_
@@ -35913,7 +35973,7 @@ civil	civil	ADJ	_
 des	de_le	P+D	_
 romains	romain	NC	_
 ...	…	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 "	"	PONCT	_
 il	il	CLS	_
 s'	se	CLO	_
@@ -35987,7 +36047,7 @@ trop	trop	ADV	_
 son	son	DET	_
 objet	objet	NC	_
 ...	…	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 "	"	PONCT	_
 mais	mais	CC	_
 il	il	CLS	_
@@ -36036,7 +36096,7 @@ divinité	divinité	NC	_
 .	.	PONCT	_
 Des	un	DET	_
 peuples	peuple	NC	_
-ignorans	ignorant	ADJ	_
+ignorans	ignorer	ADJ	_
 ont	avoir	V	_
 pu	pouvoir	VPP	_
 ,	,	PONCT	_
@@ -36339,7 +36399,7 @@ lois	loi	NC	_
 ,	,	PONCT	_
 mais	mais	CC	_
 les	le	DET	_
-meilleures	meilleure	NC	_
+meilleures	meilleur	NC	_
 qu'	que	PROREL	_
 ils	il	CLS	_
 pussent	pouvoir	V	_
@@ -36485,7 +36545,7 @@ ne	ne	ADV	_
 voyons	voir	V	_
 nulle	nul	DET	_
 part	part	NC	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 ils	il	CLS	_
 se	se	CLO	_
 soient	être	V	_
@@ -36817,7 +36877,8 @@ bas	bas	ADJ	_
 degré	degré	NC	_
 "	"	PONCT	_
 .	.	PONCT	_
-Parce_qu'	parce_que	CS	_
+Parce	parce	ADV	_
+qu'	que	CS	_
 à	à	P	_
 la	le	DET	_
 plus	plus	ADV	_
@@ -36920,7 +36981,8 @@ Ce	ce	CLS	_
 n'	ne	ADV	_
 est	être	V	_
 pas	pas	ADV	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 les	le	DET	_
 hommes	homme	NC	_
 sont	être	V	_
@@ -36969,7 +37031,8 @@ des	un	DET	_
 lois	loi	NC	_
 ;	;	PONCT	_
 mais	mais	CC	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 ils	il	CLS	_
 sont	être	V	_
 ambitieux	ambitieux	ADJ	_
@@ -37304,7 +37367,7 @@ s'	si	CS	_
 il	il	CLS	_
 n'	ne	ADV	_
 appartenoit	appartenir	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 à	à	P	_
 la	le	DET	_
 populace	populace	NC	_
@@ -37609,7 +37672,7 @@ n'	ne	ADV	_
 plus	plus	ADV	_
 pour	pour	P	_
 eux	il	PRO	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 un	un	DET	_
 sujet	sujet	NC	_
 d'	de	P	_
@@ -38552,7 +38615,7 @@ autant	autant	ADV	_
 d'	de	P	_
 orphelins	orphelin	NC	_
 ,	,	PONCT	_
-abandonnés	abandonnés	VPP	_
+abandonnés	abandonner	VPP	_
 de	de	P	_
 leurs	leur	DET	_
 proches	proche	NC	_
@@ -39010,7 +39073,7 @@ il	il	CLS	_
 n'	ne	ADV	_
 étoit	être	V	_
 plus	plus	ADV	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 un	un	DET	_
 héritage	héritage	NC	_
 d'	de	P	_
@@ -39028,7 +39091,7 @@ par	par	P	_
 là	là	ADV	_
 même	même	ADV	_
 ils	il	CLS	_
-appeloient	appeloient	V	_
+appeloient	appeler	V	_
 ,	,	PONCT	_
 sur	sur	P	_
 eux	il	PRO	_
@@ -39066,7 +39129,8 @@ le	le	DET	_
 leur	il	CLO	_
 répéter	répéter	VINF	_
 ,	,	PONCT	_
-afin_qu'	afin_que	CS	_
+afin	afin	ADV	_
+qu'	que	CS	_
 ils	il	CLS	_
 ne	ne	ADV	_
 l'	il	CLO	_
@@ -39692,7 +39756,7 @@ En	en	P	_
 vain	vain	NC	_
 le	le	DET	_
 sensible	sensible	NC	_
-Fénélon	Fénélon	NP	_
+Fénélon	Fénelon	NP	_
 avoit	avoir	V	_
 jeté	jeter	VPP	_
 le	le	DET	_
@@ -39719,7 +39783,7 @@ de	de	P	_
 nos	notre	DET	_
 églises	église	NC	_
 ...	…	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 "	"	PONCT	_
 en	en	P	_
 vain	vain	NC	_
@@ -39776,7 +39840,7 @@ pudeur	pudeur	NC	_
 bienséance	bienséance	NC	_
 !	!	PONCT	_
 ...	…	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 "	"	PONCT	_
 on	on	CLS	_
 ne	ne	ADV	_
@@ -39784,7 +39848,7 @@ trouvoit	trouver	V	_
 dans	dans	P	_
 ces	ce	DET	_
 paroles	parole	NC	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 un	un	DET	_
 jeu	jeu	NC	_
 de	de	P	_
@@ -40109,7 +40173,7 @@ sophistes	sophiste	NC	_
 en	en	CLO	_
 veulent	vouloir	V	_
 ...	…	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 "	"	PONCT	_
 de	un	DET	_
 telles	tel	ADJ	_
@@ -40480,7 +40544,7 @@ par	par	P	_
 le	le	DET	_
 crime	crime	NC	_
 de	de	P	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 .	.	PONCT	_
 Loin	loin	ADV	_
 de	de	P	_
@@ -40829,7 +40893,7 @@ parmi	parmi	P	_
 les	le	DET	_
 évêques	évêque	NC	_
 ,	,	PONCT	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 ne	ne	ADV	_
 s'	se	CLO	_
 occupoient	occuper	V	_
@@ -40969,7 +41033,7 @@ les	il	CLO	_
 attachent	attacher	V	_
 plus	plus	ADV	_
 ...	…	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 "	"	PONCT	_
 nous	nous	CLS	_
 sommes	être	V	_
@@ -41195,7 +41259,8 @@ toutes	tout	ADJ	_
 les	le	DET	_
 églises	église	NC	_
 ,	,	PONCT	_
-afin_que	afin_que	CS	_
+afin	afin	ADV	_
+que	que	CS	_
 les	le	DET	_
 pasteurs	pasteur	NC	_
 de	de	P	_
@@ -41296,7 +41361,7 @@ visible	visible	ADJ	_
 aux	à_le	P+D	_
 yeux	œil	NC	_
 de	de	P	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 ,	,	PONCT	_
 et	et	CC	_
 que	que	CS	_
@@ -42122,7 +42187,7 @@ biens	bien	NC	_
 et	et	CC	_
 de	de	P	_
 ses	son	DET	_
-siéges	siéges	NC	_
+siéges	siège	NC	_
 ,	,	PONCT	_
 que	que	PROREL	_
 n'	ne	ADV	_
@@ -42404,7 +42469,7 @@ voudrions	vouloir	V	_
 jeter	jeter	VINF	_
 le	le	DET	_
 voile	voile	NC	_
-brillant	brillant	ADJ	_
+brillant	briller	ADJ	_
 des	de_le	P+D	_
 arts	art	NC	_
 et	et	CC	_
@@ -42463,7 +42528,7 @@ elle	il	CLS	_
 les	il	CLO	_
 a	avoir	V	_
 surpassés	surpasser	VPP	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 dans	dans	P	_
 les	le	DET	_
 arts	art	NC	_
@@ -43065,7 +43130,7 @@ satire	satire	NC	_
 n'	ne	ADV	_
 est	être	V	_
 plus	plus	ADV	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 un	un	DET	_
 libelle	libelle	NC	_
 diffamatoire	diffamatoire	ADJ	_
@@ -43263,7 +43328,7 @@ sacré	sacré	ADJ	_
 vallon	vallon	NC	_
 .	.	PONCT	_
 *	*	X	_
-Vénus	vénus	NC	_
+Vénus	Vénus	NC	_
 ,	,	PONCT	_
 les	le	DET	_
 ris	ris	NC	_
@@ -43282,7 +43347,7 @@ même	même	ADV	_
 ce	ce	CLS	_
 n'	ne	ADV	_
 est	être	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 avec	avec	P	_
 réserve	réserve	NC	_
 et	et	CC	_
@@ -43627,7 +43692,8 @@ peuple	peuple	NC	_
 de	de	P	_
 Dieu	Dieu	NP	_
 ,	,	PONCT	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 l'	le	DET	_
 un	un	NC	_
 a	avoir	V	_
@@ -43662,7 +43728,9 @@ ancien	ancien	ADJ	_
 et	et	CC	_
 s'	se	CLO	_
 éleveront	élever	V	_
-au-dessus	au-dessus	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 de	de	P	_
 tous	tout	ADJ	_
 les	le	DET	_
@@ -43673,7 +43741,9 @@ et	et	CC	_
 leurs	leur	DET	_
 deux	deux	ADJ	_
 législateurs	législateur	NC	_
-au-dessus	au-dessus	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 de	de	P	_
 tous	tout	ADJ	_
 les	le	DET	_
@@ -43813,7 +43883,7 @@ lois	loi	NC	_
 .	.	PONCT	_
 LIVRE	livre	NC	_
 1	1	ADJ	_
-CHAPITRE	CHAPITRE	NC	_
+CHAPITRE	chapitre	NC	_
 1	1	ADJ	_
 de	de	P	_
 la	le	DET	_
@@ -44423,7 +44493,8 @@ de	de	P	_
 ses	son	DET	_
 pensées	pensée	NC	_
 ,	,	PONCT	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 il	il	CLS	_
 a	avoir	V	_
 deux	deux	DET	_
@@ -44457,7 +44528,8 @@ joie	joie	NC	_
 ou	ou	CC	_
 tristesse	tristesse	NC	_
 ,	,	PONCT	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 il	il	CLS	_
 n'	ne	ADV	_
 a	avoir	V	_
@@ -44484,7 +44556,7 @@ peine	peine	NC	_
 et	et	CC	_
 deux	deux	DET	_
 sentimens	sentiment	NC	_
-auxquels	auquel	PROREL	_
+auxquels	à_lequel	PROREL	_
 tous	tout	ADJ	_
 ses	son	DET	_
 sentimens	sentiment	NC	_
@@ -44682,7 +44754,7 @@ juste	juste	ADJ	_
 ne	ne	ADV	_
 peut	pouvoir	V	_
 rendre	rendre	VINF	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 une	un	DET	_
 pensée	pensée	NC	_
 ,	,	PONCT	_
@@ -45171,7 +45243,8 @@ qui	qui	PROREL	_
 est	être	V	_
 faux	faux	ADJ	_
 ,	,	PONCT	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 cet	ce	DET	_
 être	être	NC	_
 appelé	appeler	VPP	_
@@ -45239,7 +45312,8 @@ jugement	jugement	NC	_
 est	être	V	_
 faux	faux	ADJ	_
 ,	,	PONCT	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 une	un	DET	_
 force	force	NC	_
 qui	qui	PROREL	_
@@ -45399,7 +45473,8 @@ la	le	DET	_
 sagesse	sagesse	NC	_
 ;	;	PONCT	_
 et	et	CC	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 cette	ce	DET	_
 force	force	NC	_
 préférable	préférable	ADJ	_
@@ -45451,7 +45526,7 @@ impossibilité	impossibilité	NC	_
 on	on	CLS	_
 n'	ne	ADV	_
 a	avoir	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 à	à	P	_
 traduire	traduire	VINF	_
 sagesse	sagesse	NC	_
@@ -46203,7 +46278,7 @@ expliquée	expliquer	VPP	_
 clairement	clairement	ADV	_
 par	par	P	_
 une	un	DET	_
-analise	analise	NC	_
+analise	analyse	NC	_
 composée	composer	VPP	_
 de	de	P	_
 mots	mot	NC	_
@@ -46517,7 +46592,7 @@ où	où	PROREL	_
 l'on	on	CLS	_
 ne	ne	ADV	_
 peut	pouvoir	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 idéer	idéer	VINF	_
 ,	,	PONCT	_
 ou	ou	CC	_
@@ -46527,7 +46602,7 @@ qu'	que	PROREL	_
 on	on	CLS	_
 ne	ne	ADV	_
 peut	pouvoir	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 imaginer	imaginer	VINF	_
 .	.	PONCT	_
 Je	je	CLS	_
@@ -46588,7 +46663,7 @@ Leur	leur	DET	_
 pensée	pensée	NC	_
 ne	ne	ADV	_
 voit	voir	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 images	image	NC	_
 ou	ou	CC	_
 figures	figure	NC	_
@@ -46843,7 +46918,8 @@ que	que	PROREL	_
 je	je	CLS	_
 cherche	chercher	V	_
 ,	,	PONCT	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 elle	il	CLS	_
 ne	ne	ADV	_
 s'	se	CLO	_
@@ -47064,7 +47140,7 @@ de	de	P	_
 long	long	ADJ	_
 temps	temps	NC	_
 vivre	vivre	VINF	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 en	en	P	_
 nombre	nombre	NC	_
 trois	trois	ADJ	_
@@ -47132,7 +47208,7 @@ les	le	DET	_
 langues	langue	NC	_
 ne	ne	ADV	_
 sont	être	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 une	un	DET	_
 expression	expression	NC	_
 de	de	P	_
@@ -47145,7 +47221,7 @@ qu'	que	CS	_
 elles	il	CLS	_
 se	se	CLO	_
 traduisent	traduire	V	_
-toutes	tous	PRO	_
+toutes	tout	PRO	_
 réciproquement	réciproquement	ADV	_
 ,	,	PONCT	_
 prouve	prouver	V	_
@@ -47585,7 +47661,9 @@ dans	dans	P	_
 un	un	DET	_
 état	état	NC	_
 bien	bien	ADV	_
-au-dessous	au-dessous	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessous	dessous	ADV	_
 de	de	P	_
 celui	celui	PRO	_
 des	de_le	P+D	_
@@ -48129,7 +48207,7 @@ son	son	NC	_
 ils	il	CLS	_
 ne	ne	ADV	_
 sont	être	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 une	un	DET	_
 image	image	NC	_
 .	.	PONCT	_
@@ -48244,7 +48322,8 @@ est	être	V	_
 au	à_le	P+D	_
 contraire	contraire	NC	_
 ,	,	PONCT	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 les	le	DET	_
 hommes	homme	NC	_
 s'	se	CLO	_
@@ -48507,7 +48586,7 @@ produit	produire	V	_
 ;	;	PONCT	_
 ne	ne	ADV	_
 faisant	faire	VPR	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 un	un	DET	_
 avec	avec	P	_
 la	le	DET	_
@@ -48527,9 +48606,9 @@ et	et	CC	_
 son	son	DET	_
 égale	égale	NC	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 ;	;	PONCT	_
 combien	combien	PROWH	_
 ,	,	PONCT	_
@@ -48610,12 +48689,12 @@ et	et	CC	_
 se	se	CLO	_
 manifeste	manifester	V	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
-Je	Je	ADJ	_
+etc.	etc	ADV	_
+Je	je	ADJ	_
 laisse	laisser	V	_
 ici	ici	ADV	_
 le	le	DET	_
@@ -48662,7 +48741,7 @@ divinité	divinité	NC	_
 ;	;	PONCT	_
 et	et	CC	_
 *	*	PONCT	_
-M	M	NC	_
+M	monsieur	NC	_
 Bossuet	Bossuet	NP	_
 lui	il	PRO	_
 -même	même	ADJ	_
@@ -48874,7 +48953,7 @@ parole	parole	NC	_
 .	.	PONCT	_
 LIVRE	livre	NC	_
 1	1	ADJ	_
-CHAPITRE	CHAPITRE	NC	_
+CHAPITRE	chapitre	NC	_
 2	2	ADJ	_
 des	un	DET	_
 êtres	être	NC	_
@@ -49097,7 +49176,8 @@ parole	parole	NC	_
 par	par	P	_
 excellence	excellence	NC	_
 ,	,	PONCT	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 il	il	CLS	_
 est	être	V	_
 l'	le	DET	_
@@ -49158,7 +49238,7 @@ sont	être	V	_
 et	et	CC	_
 ils	il	CLS	_
 sont	être	V	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 d'	de	P	_
 une	un	DET	_
 certaine	certain	ADJ	_
@@ -49173,7 +49253,7 @@ il	il	CLS	_
 n'	ne	ADV	_
 y	y	CLO	_
 avoit	avoir	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 une	un	DET	_
 manière	manière	NC	_
 d'	de	P	_
@@ -49189,7 +49269,7 @@ il	il	CLS	_
 n'	ne	ADV	_
 y	y	CLO	_
 auroit	avoir	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 un	un	DET	_
 être	être	NC	_
 .	.	PONCT	_
@@ -49331,7 +49411,7 @@ mot	mot	NC	_
 même	même	ADJ	_
 de	de	P	_
 détermination	détermination	NC	_
-indique	indique	ADJ	_
+indique	indiquer	ADJ	_
 un	un	DET	_
 terme	terme	NC	_
 .	.	PONCT	_
@@ -49742,7 +49822,7 @@ qui	qui	PROREL	_
 malgré	malgré	P	_
 les	le	DET	_
 couleurs	couleur	NC	_
-brillantes	brillant	ADJ	_
+brillantes	briller	ADJ	_
 de	de	P	_
 leur	leur	DET	_
 style	style	NC	_
@@ -49888,7 +49968,7 @@ d'	de	P	_
 être	être	VINF	_
 .	.	PONCT	_
 X.	X.	NP	_
-Ainsi	Ainsi	NP	_
+Ainsi	ainsi	NP	_
 avoir	avoir	VINF	_
 est	être	V	_
 accessoire	accessoire	ADJ	_
@@ -50432,7 +50512,8 @@ des	de_le	P+D	_
 choses	chose	NC	_
 "	"	PONCT	_
 ,	,	PONCT	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 en	en	P	_
 Dieu	Dieu	NP	_
 est	être	V	_
@@ -50447,7 +50528,7 @@ les	le	DET	_
 c'est-à-dire	c'est-à-dire	CC	_
 ,	,	PONCT	_
 celui	celui	PRO	_
-auquel	auquel	PROREL	_
+auquel	à_lequel	PROREL	_
 tous	tout	ADJ	_
 les	le	DET	_
 êtres	être	NC	_
@@ -50866,7 +50947,7 @@ préparer	préparer	VINF	_
 leurs	leur	DET	_
 alimens	aliment	NC	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 ;	;	PONCT	_
 mais	mais	CC	_
 ,	,	PONCT	_
@@ -50951,7 +51032,8 @@ chrétiens	chrétien	ADJ	_
 .	.	PONCT	_
 C'	ce	CLS	_
 est	être	V	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 les	le	DET	_
 langues	langue	NC	_
 transpositives	transpositif	ADJ	_
@@ -51105,7 +51187,7 @@ de	de	P	_
 mille	mille	DET	_
 manières	manière	NC	_
 ,	,	PONCT	_
-toutes	tous	PRO	_
+toutes	tout	PRO	_
 à	à	P	_
 peu	peu	ADV	_
 près	près	ADV	_
@@ -51121,7 +51203,8 @@ la	le	DET	_
 manière	manière	NC	_
 naturelle	naturel	ADJ	_
 .	.	PONCT	_
-Quant_à	quant_à	P	_
+Quant	quant	ADV	_
+à	à	P	_
 l'	le	DET	_
 invention	invention	NC	_
 du	de_le	P+D	_
@@ -51245,7 +51328,7 @@ saintes	saint	ADJ	_
 "	"	PONCT	_
 .	.	PONCT	_
 *	*	PONCT	_
-M	M	NC	_
+M	monsieur	NC	_
 Hugh	Hugh	NP	_
 Blair	Blair	NP	_
 ,	,	PONCT	_
@@ -51256,7 +51339,7 @@ célèbre	célèbre	ADJ	_
 professeur	professeur	NC	_
 à	à	P	_
 *	*	PONCT	_
-édimbourg	édimbourg	NC	_
+édimbourg	Édimbourg	NC	_
 ,	,	PONCT	_
 dans	dans	P	_
 son	son	DET	_
@@ -51275,7 +51358,7 @@ du	de_le	P+D	_
 langage	langage	NC	_
 .	.	PONCT	_
 *	*	PONCT	_
-M	M	NC	_
+M	monsieur	NC	_
 Sicard	Sicard	NP	_
 pense	penser	V	_
 que	que	CS	_
@@ -51314,7 +51397,7 @@ dominante	dominante	NC	_
 ;	;	PONCT	_
 et	et	CC	_
 *	*	PONCT	_
-M	M	NC	_
+M	monsieur	NC	_
 Degerando	Degerando	NP	_
 ,	,	PONCT	_
 qui	qui	PROREL	_
@@ -51450,7 +51533,7 @@ Il	il	CLS	_
 n'	ne	ADV	_
 y	y	CLO	_
 a	avoir	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 à	à	P	_
 voir	voir	VINF	_
 dans	dans	P	_
@@ -51576,7 +51659,8 @@ est	être	V	_
 une	un	DET	_
 action	action	NC	_
 ,	,	PONCT	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 l'	le	DET	_
 amour	amour	NC	_
 ,	,	PONCT	_
@@ -51639,7 +51723,7 @@ attention	attention	NC	_
 à	à	P	_
 les	il	CLO	_
 observer	observer	VINF	_
-toutes	tous	PRO	_
+toutes	tout	PRO	_
 dans	dans	P	_
 le	le	DET	_
 discours	discours	NC	_
@@ -52035,7 +52119,7 @@ parole	parole	NC	_
 .	.	PONCT	_
 LIVRE	livre	NC	_
 1	1	ADJ	_
-CHAPITRE	CHAPITRE	NC	_
+CHAPITRE	chapitre	NC	_
 3	3	ADJ	_
 de	de	P	_
 la	le	DET	_
@@ -52414,7 +52498,7 @@ expression	expression	NC	_
 ne	ne	ADV	_
 s'	se	CLO	_
 applique	appliquer	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 à	à	P	_
 la	le	DET	_
 connoissance	connaissance	NC	_
@@ -52640,7 +52724,7 @@ le	le	DET	_
 mal	mal	NC	_
 n'	ne	ADV	_
 est	être	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 un	un	DET	_
 défaut	défaut	NC	_
 ,	,	PONCT	_
@@ -52680,7 +52764,8 @@ dans	dans	P	_
 nos	notre	DET	_
 jugemens	jugement	NC	_
 ;	;	PONCT	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 nous	nous	CLS	_
 aurions	avoir	V	_
 presque	presque	ADV	_
@@ -52744,7 +52829,7 @@ vérité	vérité	NC	_
 ,	,	PONCT	_
 ne	ne	ADV	_
 sont	être	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 une	un	DET	_
 seule	seul	ADJ	_
 et	et	CC	_
@@ -52921,7 +53006,7 @@ géométrie	géométrie	NC	_
 ,	,	PONCT	_
 de	de	P	_
 l'	le	DET	_
-analise	analise	NC	_
+analise	analyse	NC	_
 ,	,	PONCT	_
 et	et	CC	_
 qui	qui	PROREL	_
@@ -52946,7 +53031,7 @@ quantité	quantité	NC	_
 du	de_le	P+D	_
 mouvement	mouvement	NC	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 Sur	sur	P	_
 lesquels	lequel	PROREL	_
 les	le	DET	_
@@ -53105,7 +53190,7 @@ que	que	ADV	_
 l'	le	DET	_
 histoire	histoire	NC	_
 des	de_le	P+D	_
-développemens	développemens	NC	_
+développemens	développement	NC	_
 de	de	P	_
 la	le	DET	_
 vérité	vérité	NC	_
@@ -53165,7 +53250,8 @@ par	par	P	_
 l'	le	DET	_
 estomac	estomac	NC	_
 ,	,	PONCT	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 elle	il	CLS	_
 n'	ne	ADV	_
 est	être	V	_
@@ -53392,7 +53478,7 @@ matérialistes	matérialiste	NC	_
 n'	ne	ADV	_
 y	y	CLO	_
 voient	voir	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 un	un	DET	_
 verre	verre	NC	_
 lumineux	lumineux	ADJ	_
@@ -53438,7 +53524,7 @@ ici	ici	ADV	_
 un	un	DET	_
 passage	passage	NC	_
 de	de	P	_
-Fénélon	Fénélon	NP	_
+Fénélon	Fénelon	NP	_
 dans	dans	P	_
 son	son	DET	_
 traité	traité	NC	_
@@ -53476,7 +53562,7 @@ donne	donner	V	_
 une	un	DET	_
 admirable	admirable	ADJ	_
 faculté	faculté	NC	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 "	"	PONCT	_
 dans	dans	P	_
 ce	ce	DET	_
@@ -53505,7 +53591,7 @@ explication	explication	NC	_
 particulière	particulier	ADJ	_
 qu'	que	PROREL	_
 imagine	imaginer	V	_
-Fénélon	Fénélon	NP	_
+Fénélon	Fénelon	NP	_
 ,	,	PONCT	_
 d'	de	P	_
 après	après	P	_
@@ -53608,7 +53694,7 @@ et	et	CC	_
 celui	celui	PRO	_
 d'	de	P	_
 un	un	DET	_
-imbécille	imbécille	NC	_
+imbécille	imbécile	NC	_
 ?	?	PONCT	_
 Et	et	CC	_
 comment	comment	PROWH	_
@@ -53661,7 +53747,7 @@ les	le	DET	_
 langues	langue	NC	_
 ,	,	PONCT	_
 qui	qui	PROREL	_
-toutes	tous	PRO	_
+toutes	tout	PRO	_
 prennent	prendre	V	_
 le	le	DET	_
 cerveau	cerveau	NC	_
@@ -53687,7 +53773,7 @@ tête	tête	NC	_
 sans	sans	P	_
 cervelle	cervelle	NC	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 ,	,	PONCT	_
 et	et	CC	_
 qui	qui	PROREL	_
@@ -53851,7 +53937,7 @@ olfactif	olfactif	ADJ	_
 d'	de	P	_
 odorer	odorer	VINF	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 ;	;	PONCT	_
 mais	mais	CC	_
 la	le	DET	_
@@ -53919,7 +54005,7 @@ Paris	Paris	NP	_
 n'	ne	ADV	_
 est	être	V	_
 ni	ni	CC	_
-imbécille	imbécille	ADJ	_
+imbécille	imbécile	ADJ	_
 ,	,	PONCT	_
 ni	ni	CC	_
 sourd	sourd	ADJ	_
@@ -54135,7 +54221,7 @@ Juan	Juan	NP	_
 Fernandès	Fernandès	NP	_
 .	.	PONCT	_
 *	*	X	_
-M	M	NC	_
+M	monsieur	NC	_
 Pinel	Pinel	NP	_
 ,	,	PONCT	_
 médecin	médecin	NC	_
@@ -54257,7 +54343,7 @@ manque	manquer	V	_
 .	.	PONCT	_
 LIVRE	livre	NC	_
 1	1	ADJ	_
-CHAPITRE	CHAPITRE	NC	_
+CHAPITRE	chapitre	NC	_
 4	4	ADJ	_
 de	de	P	_
 l'	le	DET	_
@@ -54623,7 +54709,7 @@ Dieu	Dieu	NP	_
 ,	,	PONCT	_
 ils	il	CLS	_
 avoient	avoyer	V	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 une	un	DET	_
 même	même	ADJ	_
 idée	idée	NC	_
@@ -54946,7 +55032,8 @@ les	le	DET	_
 traditions	tradition	NC	_
 primitives	primitif	ADJ	_
 ,	,	PONCT	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 amoureux	amoureux	ADJ	_
 de	de	P	_
 fables	fable	NC	_
@@ -55247,7 +55334,7 @@ annuel	annuel	ADJ	_
 d'	de	P	_
 an	an	NC	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 ?	?	PONCT	_
 Car	car	CC	_
 être	être	VINF	_
@@ -55831,7 +55918,7 @@ préexistante	préexistant	ADJ	_
 .	.	PONCT	_
 LIVRE	livre	NC	_
 1	1	ADJ	_
-CHAPITRE	CHAPITRE	NC	_
+CHAPITRE	chapitre	NC	_
 5	5	ADJ	_
 des	un	DET	_
 rapports	rapport	NC	_
@@ -55894,7 +55981,8 @@ univers	univers	NC	_
 universel	universel	ADJ	_
 encore	encore	ADV	_
 ,	,	PONCT	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 tout	tout	PRO	_
 se	se	CLO	_
 rapporte	rapporter	V	_
@@ -56129,7 +56217,8 @@ ne	ne	ADV	_
 lisent	lire	V	_
 pas	pas	ADV	_
 ,	,	PONCT	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 ils	il	CLS	_
 ne	ne	ADV	_
 veulent	vouloir	V	_
@@ -56140,7 +56229,8 @@ les	le	DET	_
 autres	autre	NC	_
 condamnent	condamner	V	_
 ,	,	PONCT	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 ils	il	CLS	_
 croient	croire	V	_
 ne	ne	ADV	_
@@ -56480,7 +56570,7 @@ extrêmes	extrême	ADJ	_
 ,	,	PONCT	_
 moyen	moyen	ADJ	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 Se	se	CLO	_
 retrouvent	retrouver	V	_
 dans	dans	P	_
@@ -56563,7 +56653,7 @@ langage	langage	NC	_
 humain	humain	ADJ	_
 n'	ne	ADV	_
 est	être	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 un	un	DET	_
 vain	vain	ADJ	_
 bruit	bruit	NC	_
@@ -57290,7 +57380,7 @@ et	et	CC	_
 Dieu	Dieu	NP	_
 .	.	PONCT	_
 X.	X.	NP	_
-Pour	Pour	NP	_
+Pour	pour	NP	_
 résumer	résumer	VINF	_
 en	en	P	_
 peu	peu	ADV	_
@@ -57417,7 +57507,7 @@ de	de	P	_
 l'	le	DET	_
 être	être	NC	_
 sont	être	V	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 compris	comprendre	VPP	_
 sous	sous	P	_
 ces	ce	DET	_
@@ -57437,7 +57527,7 @@ des	de_le	P+D	_
 entre	entre	P	_
 eux	il	PRO	_
 sont	être	V	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 compris	comprendre	VPP	_
 dans	dans	P	_
 cette	ce	DET	_
@@ -57536,7 +57626,7 @@ sur	sur	P	_
 l'	le	DET	_
 enfant	enfant	NC	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 Etc.	etc.	ADV	_
 5	5	X	_
 donc	donc	ADV	_
@@ -57656,7 +57746,7 @@ particularités	particularité	NC	_
 et	et	CC	_
 ne	ne	ADV	_
 convient	convenir	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 à	à	P	_
 l'	le	DET	_
 ordre	ordre	NC	_
@@ -57860,7 +57950,8 @@ homme	homme	NC	_
 à	à	P	_
 Dieu	Dieu	NP	_
 ,	,	PONCT	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 le	le	DET	_
 mot	mot	NC	_
 abstrait	abstrait	ADJ	_
@@ -57906,7 +57997,8 @@ de	de	P	_
 l'	le	DET	_
 homme	homme	NC	_
 ,	,	PONCT	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 le	le	DET	_
 mot	mot	NC	_
 concret	concret	ADJ	_
@@ -57938,7 +58030,7 @@ particulière	particulier	ADJ	_
 qui	qui	PROREL	_
 ne	ne	ADV	_
 convient	convenir	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 à	à	P	_
 un	un	DET	_
 ordre	ordre	NC	_
@@ -58135,7 +58227,7 @@ les	le	DET	_
 idées	idée	NC	_
 particulières	particulier	ADJ	_
 sont	être	V	_
-toutes	tous	PRO	_
+toutes	tout	PRO	_
 composées	composer	VPP	_
 ,	,	PONCT	_
 ou	ou	CC	_
@@ -58202,7 +58294,7 @@ prudences	prudence	NC	_
 les	le	DET	_
 sagesses	sagesse	NC	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 ,	,	PONCT	_
 comme	comme	CS	_
 on	on	CLS	_
@@ -58213,7 +58305,7 @@ armées	armée	NC	_
 des	un	DET	_
 genres	genre	NC	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 ;	;	PONCT	_
 toutes	tout	ADJ	_
 les	le	DET	_
@@ -58273,7 +58365,8 @@ de	de	P	_
 toute	tout	DET	_
 proportion	proportion	NC	_
 ,	,	PONCT	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 elle	il	CLS	_
 exprime	exprimer	V	_
 tout	tout	DET	_
@@ -58682,7 +58775,7 @@ verbe	verbe	NC	_
 de	de	P	_
 Dieu	Dieu	NP	_
 ...	…	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 "	"	PONCT	_
 l'	le	DET	_
 autorité	autorité	NC	_
@@ -58728,7 +58821,7 @@ docteur	docteur	NC	_
 .	.	PONCT	_
 LIVRE	livre	NC	_
 1	1	ADJ	_
-CHAPITRE	CHAPITRE	NC	_
+CHAPITRE	chapitre	NC	_
 6	6	ADJ	_
 de	de	P	_
 l'	le	DET	_
@@ -59151,7 +59244,7 @@ en	en	P	_
 société	société	NC	_
 ,	,	PONCT	_
 sont	être	V	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 compris	comprendre	VPP	_
 sous	sous	P	_
 cette	ce	DET	_
@@ -59184,7 +59277,7 @@ l'	le	DET	_
 univers	univers	NC	_
 ,	,	PONCT	_
 sont	être	V	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 compris	comprendre	VPP	_
 sous	sous	P	_
 cette	ce	DET	_
@@ -59321,7 +59414,7 @@ Paul	Paul	NP	_
 ,	,	PONCT	_
 pontifex	pontifex	NC	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 ;	;	PONCT	_
 car	car	CC	_
 les	le	DET	_
@@ -59809,7 +59902,7 @@ inconnues	inconnu	ADJ	_
 .	.	PONCT	_
 LIVRE	livre	NC	_
 1	1	ADJ	_
-CHAPITRE	CHAPITRE	NC	_
+CHAPITRE	chapitre	NC	_
 7	7	ADJ	_
 du	de_le	P+D	_
 moyen	moyen	NC	_
@@ -59950,7 +60043,7 @@ une	un	DET	_
 proportion	proportion	NC	_
 n'	ne	ADV	_
 est	être	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 un	un	DET	_
 ensemble	ensemble	NC	_
 de	de	P	_
@@ -60177,7 +60270,8 @@ tous	tout	ADJ	_
 les	le	DET	_
 systèmes	système	NC	_
 ,	,	PONCT	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 elle	il	CLS	_
 est	être	V	_
 une	un	DET	_
@@ -60858,7 +60952,7 @@ contradictions	contradiction	NC	_
 ,	,	PONCT	_
 n'	ne	ADV	_
 aborde	aborder	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 en	en	P	_
 tremblant	trembler	VPR	_
 ,	,	PONCT	_
@@ -61411,7 +61505,7 @@ proportion	proportion	NC	_
 ,	,	PONCT	_
 moyen	moyen	ADJ	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 ,	,	PONCT	_
 propres	propre	ADJ	_
 à	à	P	_
@@ -61463,7 +61557,8 @@ vraies	vrai	ADJ	_
 Pourquoi	pourquoi	PROWH	_
 cela	cela	PRO	_
 ?	?	PONCT	_
-Parce_que	parce_que	CS	_
+Parce	parce	ADV	_
+que	que	CS	_
 ces	ce	DET	_
 mots	mot	NC	_
 solide	solide	ADJ	_
@@ -61486,7 +61581,7 @@ vertu	vertu	NC	_
 esprit	esprit	NC	_
 ,	,	PONCT	_
 sont	être	V	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 des	un	DET	_
 expressions	expression	NC	_
 abstraites	abstrait	ADJ	_
@@ -61543,7 +61638,7 @@ vertueux	vertueux	ADJ	_
 surface	surface	NC	_
 ingénieuse	ingénieux	ADJ	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 ,	,	PONCT	_
 je	je	CLS	_
 ne	ne	ADV	_
@@ -61567,7 +61662,8 @@ dans	dans	P	_
 l'	le	DET	_
 expression	expression	NC	_
 ,	,	PONCT	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 il	il	CLS	_
 y	y	CLO	_
 a	avoir	V	_
@@ -61600,7 +61696,7 @@ esprit	esprit	NC	_
 ,	,	PONCT	_
 vertu	vertu	NC	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 ,	,	PONCT	_
 à	à	P	_
 des	un	DET	_
@@ -61934,7 +62030,8 @@ est	être	V	_
 pas	pas	ADV	_
 permise	permettre	VPP	_
 ,	,	PONCT	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 elle	il	CLS	_
 est	être	V	_
 dans	dans	P	_
@@ -61956,7 +62053,8 @@ qui	qui	PROREL	_
 la	il	CLO	_
 parlent	parler	V	_
 ,	,	PONCT	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 elle	il	CLS	_
 est	être	V	_
 juste	juste	ADV	_
@@ -62213,7 +62311,7 @@ univers	univers	NC	_
 ,	,	PONCT	_
 ne	ne	ADV	_
 seroit	être	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 une	un	DET	_
 religion	religion	NC	_
 particulière	particulier	ADJ	_
@@ -62523,7 +62621,8 @@ les	le	DET	_
 sociétés	société	NC	_
 avancées	avancé	ADJ	_
 ,	,	PONCT	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 à	à	P	_
 mesure	mesure	NC	_
 que	que	CS	_
@@ -62676,7 +62775,8 @@ augmentent	augmenter	V	_
 de	de	P	_
 force	force	NC	_
 ,	,	PONCT	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 la	le	DET	_
 raison	raison	NC	_
 s'	se	CLO	_
@@ -62894,7 +62994,7 @@ gracieux	gracieux	ADJ	_
 .	.	PONCT	_
 LIVRE	livre	NC	_
 1	1	ADJ	_
-CHAPITRE	CHAPITRE	NC	_
+CHAPITRE	chapitre	NC	_
 8	8	ADJ	_
 de	de	P	_
 la	le	DET	_
@@ -62935,7 +63035,7 @@ d'	de	P	_
 action	action	NC	_
 ,	,	PONCT	_
 sont	être	V	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 ,	,	PONCT	_
 par	par	P	_
 le	le	DET	_
@@ -63411,7 +63511,7 @@ y	y	CLO	_
 a	avoir	V	_
 d'	de	P	_
 union	union	NC	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 avec	avec	P	_
 l'	le	DET	_
 unité	unité	NC	_
@@ -63846,7 +63946,8 @@ la	le	DET	_
 plus	plus	ADV	_
 civilisée	civilisé	ADJ	_
 ,	,	PONCT	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 elle	il	CLS	_
 est	être	V	_
 la	le	DET	_
@@ -64043,7 +64144,7 @@ appeler	appeler	VINF	_
 public	public	ADJ	_
 .	.	PONCT	_
 X.	X.	NP	_
-Ainsi	Ainsi	NP	_
+Ainsi	ainsi	NP	_
 ,	,	PONCT	_
 la	le	DET	_
 famille	famille	NC	_
@@ -64533,7 +64634,7 @@ et	et	CC	_
 des	un	DET	_
 actions	action	NC	_
 ,	,	PONCT	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 il	il	CLS	_
 y	y	CLO	_
 a	avoir	V	_
@@ -64839,7 +64940,8 @@ le	le	DET	_
 moyen	moyen	NC	_
 domestique	domestique	ADJ	_
 ,	,	PONCT	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 la	le	DET	_
 parole	parole	NC	_
 n'	ne	ADV	_
@@ -64906,7 +65008,8 @@ morts	mort	NC	_
 .	.	PONCT	_
 C'	ce	CLS	_
 est	être	V	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 les	le	DET	_
 lois	loi	NC	_
 ont	avoir	V	_
@@ -64975,7 +65078,7 @@ toujours	toujours	ADV	_
 nouvelle	nouveau	ADJ	_
 dans	dans	P	_
 ses	son	DET	_
-développemens	développemens	NC	_
+développemens	développement	NC	_
 successifs	successif	ADJ	_
 .	.	PONCT	_
 xx	xx	X	_
@@ -65164,7 +65267,8 @@ plus	plus	ADV	_
 de	de	P	_
 vérité	vérité	NC	_
 ,	,	PONCT	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 venu	venir	VPP	_
 plus	plus	ADV	_
 tard	tard	ADV	_
@@ -65181,7 +65285,7 @@ même	même	ADV	_
 on	on	CLS	_
 pourroit	pouvoir	V	_
 penser	penser	VINF	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 à	à	P	_
 mesure	mesure	NC	_
 que	que	CS	_
@@ -65213,7 +65317,8 @@ de	de	P	_
 nouveaux	nouveau	ADJ	_
 progrès	progrès	NC	_
 ,	,	PONCT	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 on	on	CLS	_
 y	y	CLO	_
 voit	voir	V	_
@@ -65378,7 +65483,7 @@ agité	agiter	VPP	_
 jusqu'	jusque	P	_
 à	à	P	_
 ce	ce	PRO	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 il	il	CLS	_
 soit	être	V	_
 détruit	détruire	VPP	_
@@ -65404,7 +65509,8 @@ naturels	naturel	ADJ	_
 s'	se	CLO	_
 établissent	établir	V	_
 ,	,	PONCT	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 toutes	tout	ADJ	_
 les	le	DET	_
 vérités	vérité	NC	_
@@ -65422,7 +65528,7 @@ Ch	Ch	NP	_
 Bonnet	Bonnet	NP	_
 ,	,	PONCT	_
 sont	être	V	_
-toutes	tous	PRO	_
+toutes	tout	PRO	_
 enveloppées	envelopper	VPP	_
 les	le	DET	_
 unes	un	NC	_
@@ -65903,7 +66009,7 @@ sur	sur	P	_
 les	le	DET	_
 toits	toit	NC	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 :	:	PONCT	_
 pater	pater	NC	_
 ,	,	PONCT	_
@@ -65921,7 +66027,7 @@ nomen	nomen	ET	_
 suum	suum	ET	_
 hominibus	hominibus	ET	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 ;	;	PONCT	_
 partout	partout	ADV	_
 la	le	DET	_
@@ -65987,7 +66093,7 @@ toutes	tout	ADJ	_
 les	le	DET	_
 nations	nation	NC	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 "	"	PONCT	_
 la	le	DET	_
 religion	religion	NC	_
@@ -66396,7 +66502,7 @@ ses	son	DET	_
 derniers	dernier	ADJ	_
 docteurs	docteur	NC	_
 ,	,	PONCT	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 un	un	DET	_
 long	long	ADJ	_
 développement	développement	NC	_
@@ -66598,7 +66704,7 @@ docteurs	docteur	NC	_
 ,	,	PONCT	_
 de	de	P	_
 dire	dire	VINF	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 ils	il	CLS	_
 connoissoient	connaître	V	_
 toutes	tout	ADJ	_
@@ -66619,7 +66725,8 @@ de	de	P	_
 la	le	DET	_
 vérité	vérité	NC	_
 ,	,	PONCT	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 ils	il	CLS	_
 n'	ne	ADV	_
 en	en	CLO	_
@@ -66675,7 +66782,7 @@ conciles	concile	NC	_
 ;	;	PONCT	_
 et	et	CC	_
 *	*	PONCT	_
-M	M	NC	_
+M	monsieur	NC	_
 Bossuet	Bossuet	NP	_
 lui	il	PRO	_
 -même	même	ADJ	_
@@ -66915,7 +67022,8 @@ Pensée	penser	VPP	_
 profondément	profondément	ADV	_
 vraie	vrai	ADJ	_
 ,	,	PONCT	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 le	le	DET	_
 bien	bien	NC	_
 est	être	V	_
@@ -66937,7 +67045,8 @@ a	avoir	V	_
 pas	pas	ADV	_
 compris	comprendre	VPP	_
 ,	,	PONCT	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 il	il	CLS	_
 a	avoir	V	_
 appliqué	appliquer	VPP	_
@@ -67266,7 +67375,8 @@ qu'	que	PROREL	_
 ils	il	CLS	_
 comprennent	comprendre	V	_
 ?	?	PONCT	_
-Quant_à	quant_à	P	_
+Quant	quant	ADV	_
+à	à	P	_
 la	le	DET	_
 nécessité	nécessité	NC	_
 de	de	P	_
@@ -67391,7 +67501,7 @@ et	et	CC	_
 de	de	P	_
 raison	raison	NC	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 Voilà	voilà	V	_
 la	le	DET	_
 révélation	révélation	NC	_
@@ -67494,7 +67604,8 @@ il	il	CLS	_
 a	avoir	V	_
 reçues	recevoir	VPP	_
 .	.	PONCT	_
-Quant_au	quant_à_le	P+D	_
+Quant	quant	ADV	_
+au	à_le	P+D	_
 fait	fait	NC	_
 de	de	P	_
 la	le	DET	_
@@ -67652,7 +67763,7 @@ facilité	facilité	NC	_
 .	.	PONCT	_
 LIVRE	livre	NC	_
 1	1	ADJ	_
-CHAPITRE	CHAPITRE	NC	_
+CHAPITRE	chapitre	NC	_
 9	9	ADJ	_
 des	un	DET	_
 divers	divers	ADJ	_
@@ -67738,7 +67849,7 @@ abstrait	abstrait	ADJ	_
 ou	ou	CC	_
 le	le	DET	_
 plus	plus	ADV	_
-analitique	analitique	ADJ	_
+analitique	analytique	ADJ	_
 .	.	PONCT	_
 "	"	PONCT	_
 la	le	DET	_
@@ -68025,7 +68136,7 @@ au	à_le	P+D	_
 ministre	ministre	NC	_
 "	"	PONCT	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 Traduite	Traduite	NP	_
 dans	dans	P	_
 la	le	DET	_
@@ -68052,7 +68163,7 @@ roi	roi	NC	_
 ,	,	PONCT	_
 kan	kan	NC	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 ,	,	PONCT	_
 est	être	V	_
 à	à	P	_
@@ -68353,7 +68464,7 @@ autre	autre	NC	_
 le	le	DET	_
 pouvoir	pouvoir	NC	_
 public	public	ADJ	_
-auquel	auquel	PROREL	_
+auquel	à_lequel	PROREL	_
 il	il	CLS	_
 est	être	V	_
 spécialement	spécialement	ADV	_
@@ -68383,7 +68494,7 @@ il	il	CLS	_
 et	et	CC	_
 eux	il	PRO	_
 ,	,	PONCT	_
-troisièmes	troisièmes	ADJ	_
+troisièmes	troisième	ADJ	_
 personnes	personne	NC	_
 ,	,	PONCT	_
 expriment	exprimer	V	_
@@ -68645,7 +68756,7 @@ la	le	DET	_
 cause	cause	NC	_
 universelle	universel	ADJ	_
 ,	,	PONCT	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 appelés	appeler	VPP	_
 à	à	P	_
 jouir	jouir	VINF	_
@@ -68871,7 +68982,7 @@ rien	rien	PRO	_
 sur	sur	P	_
 l'	le	DET	_
 homme	homme	NC	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 en	en	P	_
 qualité	qualité	NC	_
 de	de	P	_
@@ -68986,7 +69097,7 @@ l'	le	DET	_
 qu'	que	PROREL	_
 il	il	CLS	_
 représente	représenter	V	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 dans	dans	P	_
 sa	son	DET	_
 personne	personne	NC	_
@@ -69007,7 +69118,7 @@ famille	famille	NC	_
 qu'	que	PROREL	_
 il	il	CLS	_
 représente	représenter	V	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 dans	dans	P	_
 sa	son	DET	_
 personne	personne	NC	_
@@ -69720,7 +69831,7 @@ les	le	DET	_
 plus	plus	ADV	_
 puissantes	puissant	ADJ	_
 de	de	P	_
-toutes	tous	PRO	_
+toutes	tout	PRO	_
 ,	,	PONCT	_
 et	et	CC	_
 dont	dont	PROREL	_
@@ -69992,7 +70103,7 @@ konig	konig	NC	_
 ,	,	PONCT	_
 king	king	NC	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 ,	,	PONCT	_
 qui	qui	PROREL	_
 expriment	exprimer	V	_
@@ -70063,7 +70174,8 @@ trop	trop	ADV	_
 souvent	souvent	ADV	_
 je	je	CLS	_
 ,	,	PONCT	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 c'	ce	CLS	_
 est	être	V	_
 affecter	affecter	VINF	_
@@ -70096,7 +70208,8 @@ de	de	P	_
 sa	son	DET	_
 famille	famille	NC	_
 ,	,	PONCT	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 c'	ce	CLS	_
 est	être	V	_
 un	un	DET	_
@@ -70136,7 +70249,8 @@ une	un	DET	_
 personne	personne	NC	_
 présente	présent	ADJ	_
 ,	,	PONCT	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 c'	ce	CLS	_
 est	être	V	_
 une	un	DET	_
@@ -70276,7 +70390,7 @@ d'	de	P	_
 obstacle	obstacle	NC	_
 au	à_le	P+D	_
 despotisme	despotisme	NC	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 en	en	P	_
 Turquie	Turquie	NP	_
 ,	,	PONCT	_
@@ -70451,7 +70565,7 @@ eux	il	PRO	_
 et	et	CC	_
 nous	nous	PRO	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 Galba	Galba	NP	_
 dit	dire	V	_
 à	à	P	_
@@ -70803,7 +70917,8 @@ mis	mettre	VPP	_
 avant	avant	P	_
 Dieu	Dieu	NP	_
 ,	,	PONCT	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 l'	le	DET	_
 homme	homme	NC	_
 est	être	V	_
@@ -71047,9 +71162,9 @@ de	de	P	_
 nobles	noble	ADJ	_
 ,	,	PONCT	_
 d'	de	P	_
-abbés	abbés	NC	_
+abbés	abbé	NC	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 ;	;	PONCT	_
 là	là	ADV	_
 seulement	seulement	ADV	_
@@ -71084,7 +71199,7 @@ germanique	germanique	ADJ	_
 ne	ne	ADV	_
 seroit	être	V	_
 parlée	parler	VPP	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 en	en	P	_
 allemagne	Allemagne	NP	_
 .	.	PONCT	_
@@ -71261,7 +71376,7 @@ sa	son	DET	_
 domination	domination	NC	_
 en	en	P	_
 Europe	Europe	NP	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 au	à_le	P+D	_
 naturel	naturel	NC	_
 de	de	P	_
@@ -71301,7 +71416,8 @@ française	français	ADJ	_
 régnera	régner	V	_
 éternellement	éternellement	ADV	_
 ,	,	PONCT	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 elle	il	CLS	_
 est	être	V	_
 naturelle	naturel	ADJ	_
@@ -71862,7 +71978,7 @@ société	société	NC	_
 ,	,	PONCT	_
 loi	loi	NC	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 Le	le	DET	_
 pouvoir	pouvoir	NC	_
 est	être	V	_
@@ -71962,7 +72078,7 @@ manières	manière	NC	_
 ce	ce	CLS	_
 n'	ne	ADV	_
 est	être	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 avec	avec	P	_
 un	un	DET	_
 profond	profond	ADJ	_
@@ -71987,7 +72103,7 @@ simple	simple	ADJ	_
 et	et	CC	_
 sublime	sublime	ADJ	_
 ...	…	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 "	"	PONCT	_
 le	le	DET	_
 règne	règne	NC	_
@@ -72104,7 +72220,7 @@ antiquité	antiquité	NC	_
 ,	,	PONCT	_
 dit	dire	V	_
 *	*	PONCT	_
-M	M	NC	_
+M	monsieur	NC	_
 Bossuet	Bossuet	NP	_
 ,	,	PONCT	_
 s'	se	CLO	_
@@ -72158,7 +72274,8 @@ et	et	CC	_
 sans	sans	P	_
 doute	doute	NC	_
 aussi	aussi	ADV	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 les	le	DET	_
 révolutions	révolution	NC	_
 hâtent	hâter	V	_
@@ -72325,7 +72442,7 @@ monde	monde	NC	_
 ,	,	PONCT	_
 enseignez	enseigner	V	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 "	"	PONCT	_
 ,	,	PONCT	_
 que	que	CS	_
@@ -72387,7 +72504,7 @@ Cette	ce	DET	_
 domination	domination	NC	_
 n'	ne	ADV	_
 appartient	appartenir	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 aux	à_le	P+D	_
 lois	loi	NC	_
 du	de_le	P+D	_

@@ -170,7 +170,7 @@ sont	être	V	_
 ,	,	PONCT	_
 évidemment	évidemment	ADV	_
 ,	,	PONCT	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 un	un	DET	_
 fragment	fragment	NC	_
 ,	,	PONCT	_
@@ -672,7 +672,7 @@ action	action	NC	_
 politique	politique	ADJ	_
 .	.	PONCT	_
 Mais	mais	CC	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 ils	il	CLS	_
 constatent	constater	V	_
 que	que	CS	_
@@ -907,7 +907,7 @@ universelle	universel	ADJ	_
 vie	vie	NC	_
 .	.	PONCT	_
 Mais	mais	CC	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 ,	,	PONCT	_
 quelles	il	PROWH	_
 que	que	PROREL	_
@@ -1464,14 +1464,16 @@ suffit	suffire	V	_
 point	point	ADV	_
 .	.	PONCT	_
 Précisément	précisément	ADV	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 le	le	DET	_
 prolétariat	prolétariat	NC	_
 a	avoir	V	_
 déjà	déjà	ADV	_
 grandi	grandir	VPP	_
 ,	,	PONCT	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 il	il	CLS	_
 commence	commencer	V	_
 à	à	P	_
@@ -1759,7 +1761,8 @@ malaise	malais	ADJ	_
 ,	,	PONCT	_
 c'	ce	CLS	_
 est	être	V	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 il	il	CLS	_
 associe	associer	V	_
 en	en	P	_
@@ -1928,7 +1931,7 @@ des	un	DET	_
 mouvements	mouvement	NC	_
 révolutionnaires	révolutionnaire	ADJ	_
 bourgeois	bourgeois	ADJ	_
-auxquels	auquel	PROREL	_
+auxquels	à_lequel	PROREL	_
 la	le	DET	_
 classe	classe	NC	_
 ouvrière	ouvrier	ADJ	_
@@ -3125,7 +3128,9 @@ pas	pas	ADV	_
 être	être	VINF	_
 élevée	élever	VPP	_
 artificiellement	artificiellement	ADV	_
-au-dessus	au-dessus	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 du	de_le	P+D	_
 niveau	niveau	NC	_
 où	où	PROREL	_
@@ -3838,7 +3843,7 @@ de	de	P	_
 la	le	DET	_
 production	production	NC	_
 ...	…	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 Marx	Marx	NP	_
 .	.	PONCT	_
 "	"	PONCT	_
@@ -5412,7 +5417,7 @@ s'	se	CLO	_
 ne	ne	ADV	_
 peuvent	pouvoir	V	_
 susciter	susciter	VINF	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 une	un	DET	_
 conduite	conduite	NC	_
 misérablement	misérablement	ADV	_
@@ -6453,7 +6458,7 @@ monarchie	monarchie	NC	_
 n'	ne	ADV	_
 a	avoir	V	_
 plus	plus	ADV	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 une	un	DET	_
 existence	existence	NC	_
 nominale	nominal	ADJ	_
@@ -6486,7 +6491,7 @@ bourgeoisie	bourgeoisie	NC	_
 ne	ne	ADV	_
 jouera	jouer	V	_
 guère	guère	ADV	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 un	un	DET	_
 rôle	rôle	NC	_
 d'	de	P	_
@@ -6900,7 +6905,7 @@ l'	le	DET	_
 épuisement	épuisement	NC	_
 de	de	P	_
 misère	misère	NC	_
-auquel	auquel	PROREL	_
+auquel	à_lequel	PROREL	_
 il	il	CLS	_
 aurait	avoir	V	_
 réduit	réduire	VPP	_
@@ -6991,7 +6996,7 @@ vie	vie	NC	_
 d'	de	P	_
 esclavage	esclavage	NC	_
 ...	…	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 Manifeste	manifeste	NC	_
 ,	,	PONCT	_
 Marx	Marx	NP	_
@@ -7227,7 +7232,9 @@ ferait	faire	V	_
 tomber	tomber	VINF	_
 ses	son	DET	_
 esclaves	esclave	NC	_
-au-dessous	au-dessous	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessous	dessous	ADV	_
 même	même	ADV	_
 du	de_le	P+D	_
 minimum	minimum	NC	_
@@ -7467,7 +7474,7 @@ une	un	DET	_
 égale	égal	ADJ	_
 modicité	modicité	NC	_
 ...	…	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 Marx	Marx	NP	_
 .	.	PONCT	_
 "	"	PONCT	_
@@ -7514,7 +7521,7 @@ entre	entre	P	_
 les	le	DET	_
 ouvriers	ouvrier	NC	_
 ...	…	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 Marx	Marx	NP	_
 .	.	PONCT	_
 "	"	PONCT	_
@@ -7901,7 +7908,7 @@ effort	effort	NC	_
 ouvrier	ouvrier	ADJ	_
 ne	ne	ADV	_
 compensent	compenser	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 imparfaitement	imparfaitement	ADV	_
 la	le	DET	_
 dépréciation	dépréciation	NC	_
@@ -8183,7 +8190,7 @@ droit	droit	NC	_
 particulier	particulier	ADJ	_
 ,	,	PONCT	_
 ...	…	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 Marx	Marx	NP	_
 .	.	PONCT	_
 "	"	PONCT	_
@@ -8420,7 +8427,9 @@ de	de	P	_
 l'	le	DET	_
 animalité	animalité	NC	_
 ,	,	PONCT	_
-au-dessous	au-dessous	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessous	dessous	ADV	_
 duquel	duquel	PROREL	_
 ne	ne	ADV	_
 se	se	CLO	_
@@ -9165,11 +9174,12 @@ aussi	aussi	ADV	_
 facile	facile	ADJ	_
 de	de	P	_
 prophétiser	prophétiser	VINF	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 en	en	P	_
 Angleterre	Angleterre	NP	_
 ,	,	PONCT	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 ici	ici	ADV	_
 tous	tout	ADJ	_
 les	le	DET	_
@@ -9403,7 +9413,7 @@ mais	mais	CC	_
 ils	il	CLS	_
 ne	ne	ADV	_
 prouvent	prouver	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 une	un	DET	_
 chose	chose	NC	_
 ,	,	PONCT	_
@@ -9437,7 +9447,7 @@ la	le	DET	_
 santé	santé	NC	_
 ,	,	PONCT	_
 ...	…	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 Engels	Engels	NP	_
 .	.	PONCT	_
 "	"	PONCT	_
@@ -9649,7 +9659,7 @@ malicieuse	malicieux	ADJ	_
 bonhomie	bonhomie	NC	_
 viennoise	viennois	ADJ	_
 ,	,	PONCT	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 déclarent	déclarer	V	_
 qu'	que	CS	_
 il	il	CLS	_
@@ -9720,7 +9730,8 @@ le	le	DET	_
 système	système	NC	_
 capitaliste	capitaliste	ADJ	_
 périra	périr	V	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 il	il	CLS	_
 n'	ne	ADV	_
 assure	assurer	V	_
@@ -10335,7 +10346,7 @@ cette	ce	DET	_
 introduction	introduction	NC	_
 ,	,	PONCT	_
 ajouter	ajouter	VINF	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 un	un	DET	_
 mot	mot	NC	_
 ,	,	PONCT	_
@@ -10804,7 +10815,7 @@ là	là	ADV	_
 bien	bien	ADV	_
 entendu	entendre	VPP	_
 ,	,	PONCT	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 une	un	DET	_
 très	très	ADV	_
 faible	faible	ADJ	_
@@ -10813,7 +10824,7 @@ de	de	P	_
 l'	le	DET	_
 examen	examen	NC	_
 critique	critique	ADJ	_
-auquel	auquel	PROREL	_
+auquel	à_lequel	PROREL	_
 les	le	DET	_
 équivoques	équivoque	NC	_
 et	et	CC	_
@@ -10827,7 +10838,7 @@ par	par	P	_
 notre	notre	DET	_
 parti	parti	NC	_
 .	.	PONCT	_
-M	M	NC	_
+M	monsieur	NC	_
 Maxime	Maxime	NP	_
 Leroy	Leroy	NP	_
 ,	,	PONCT	_
@@ -10866,7 +10877,7 @@ murs	mur	NC	_
 et	et	CC	_
 escaliers	escalier	NC	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 ,	,	PONCT	_
 sont	être	V	_
 des	un	DET	_
@@ -11020,7 +11031,8 @@ on	on	CLS	_
 est	être	V	_
 mal	mal	ADV	_
 fondé	fonder	VPP	_
-en_outre	en_outre	ADV	_
+en	en	P	_
+outre	outre	P	_
 à	à	P	_
 nous	nous	CLO	_
 reprocher	reprocher	VINF	_
@@ -11069,7 +11081,7 @@ ai	avoir	V	_
 voulu	vouloir	VPP	_
 démontrer	démontrer	VINF	_
 .	.	PONCT	_
-M	M	NC	_
+M	monsieur	NC	_
 Leroy	Leroy	NP	_
 dit	dire	V	_
 :	:	PONCT	_
@@ -11109,7 +11121,7 @@ absolu	absolu	ADJ	_
 ne	ne	ADV	_
 peut	pouvoir	V	_
 être	être	VINF	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 une	un	DET	_
 entité	entité	NC	_
 métaphysique	métaphysique	ADJ	_
@@ -11159,7 +11171,7 @@ atteinte	atteinte	NC	_
 sans	sans	P	_
 précédent	précédent	NC	_
 .	.	PONCT	_
-M	M	NC	_
+M	monsieur	NC	_
 Leroy	Leroy	NP	_
 me	je	CLO	_
 dit	dire	V	_
@@ -11220,7 +11232,7 @@ Et	et	CC	_
 surtout	surtout	ADV	_
 ,	,	PONCT	_
 comment	comment	PROWH	_
-M	M	NC	_
+M	monsieur	NC	_
 Leroy	Leroy	NP	_
 n'	ne	ADV	_
 a	avoir	V	_
@@ -11370,7 +11382,7 @@ je	je	CLS	_
 m'	je	CLO	_
 étonne	étonner	V	_
 que	que	CS	_
-M	M	NC	_
+M	monsieur	NC	_
 Leroy	Leroy	NP	_
 me	je	CLO	_
 rappelle	rappeler	V	_
@@ -11408,7 +11420,7 @@ une	un	DET	_
 incessante	incessant	ADJ	_
 dénaturation	dénaturation	NC	_
 .	.	PONCT	_
-M	M	NC	_
+M	monsieur	NC	_
 Leroy	Leroy	NP	_
 en	en	CLO	_
 convient	convenir	V	_
@@ -11464,7 +11476,7 @@ ainsi	ainsi	ADV	_
 que	que	CS	_
 le	le	DET	_
 remarque	remarque	NC	_
-M	M	NC	_
+M	monsieur	NC	_
 Jaurès	Jaurès	NP	_
 ,	,	PONCT	_
 constituent	constituer	V	_
@@ -11487,7 +11499,7 @@ inspection	inspection	NC	_
 du	de_le	P+D	_
 travail	travail	NC	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 "	"	PONCT	_
 cela	cela	PRO	_
 est	être	V	_
@@ -11630,7 +11642,7 @@ partielles	partiel	ADJ	_
 .	.	PONCT	_
 Aussi	aussi	ADV	_
 bien	bien	ADV	_
-M	M	NC	_
+M	monsieur	NC	_
 Leroy	Leroy	NP	_
 fait	faire	V	_
 vraiment	vraiment	ADV	_
@@ -11746,7 +11758,7 @@ peut	pouvoir	V	_
 paraître	paraître	VINF	_
 indifférent	indifférent	ADJ	_
 à	à	P	_
-M	M	NC	_
+M	monsieur	NC	_
 Leroy	Leroy	NP	_
 que	que	CS	_
 la	le	DET	_
@@ -11857,7 +11869,7 @@ pleinement	pleinement	ADV	_
 aux	à_le	P+D	_
 objections	objection	NC	_
 de	de	P	_
-M	M	NC	_
+M	monsieur	NC	_
 Leroy	Leroy	NP	_
 ,	,	PONCT	_
 que	que	CS	_
@@ -12203,7 +12215,7 @@ absolutiste	absolutiste	ADJ	_
 et	et	CC	_
 chaotique	chaotique	ADJ	_
 ...	…	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 Engels	Engels	NP	_
 .	.	PONCT	_
 "	"	PONCT	_
@@ -12791,7 +12803,7 @@ problème	problème	NC	_
 qui	qui	PROREL	_
 les	il	CLO	_
 obsédait	obséder	V	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 était	être	V	_
 celui	celui	PRO	_
 -ci	ci	ADV	_
@@ -13279,7 +13291,7 @@ réduire	réduire	VINF	_
 à	à	P	_
 n'	ne	ADV	_
 être	être	VINF	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 une	un	DET	_
 verrerie	verrerie	NC	_
 aux	à_le	P+D	_
@@ -13457,7 +13469,7 @@ parlementaire	parlementaire	ADJ	_
 qui	qui	PROREL	_
 ne	ne	ADV	_
 furent	être	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 un	un	DET	_
 long	long	ADJ	_
 labeur	labeur	NC	_
@@ -13812,7 +13824,7 @@ servira	servir	V	_
 la	le	DET	_
 propagande	propagande	NC	_
 de	de	P	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 .	.	PONCT	_
 J'	je	CLS	_
 ai	avoir	V	_
@@ -14265,7 +14277,7 @@ campagne	campagne	NC	_
 la	le	DET	_
 même	même	ADJ	_
 forme	forme	NC	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 à	à	P	_
 la	le	DET	_
 ville	ville	NC	_
@@ -14278,7 +14290,8 @@ population	population	NC	_
 rurale	rural	ADJ	_
 diminue	diminuer	V	_
 ,	,	PONCT	_
-tandis_que	tandis_que	CS	_
+tandis	tandis	ADV	_
+que	que	CS	_
 la	le	DET	_
 population	population	NC	_
 urbaine	urbain	ADJ	_
@@ -14757,7 +14770,7 @@ propriétaires	propriétaire	NC	_
 ,	,	PONCT	_
 n'	ne	ADV	_
 ayant	avoir	VPR	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 un	un	DET	_
 enfant	enfant	NC	_
 ,	,	PONCT	_
@@ -14849,7 +14862,7 @@ prolétaires	prolétaire	NC	_
 qui	qui	PROREL	_
 ne	ne	ADV	_
 possèdent	posséder	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 un	un	DET	_
 infime	infime	ADJ	_
 lambeau	lambeau	NC	_
@@ -15334,7 +15347,8 @@ efficacité	efficacité	NC	_
 extraordinaire	extraordinaire	ADJ	_
 .	.	PONCT	_
 Précisément	précisément	ADV	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 la	le	DET	_
 main-d'oeuvre	main-d'œuvre	NC	_
 s'	se	CLO	_
@@ -15903,7 +15917,7 @@ même	même	ADJ	_
 du	de_le	P+D	_
 mouvement	mouvement	NC	_
 scientifique	scientifique	ADJ	_
-auquel	auquel	PROREL	_
+auquel	à_lequel	PROREL	_
 ils	il	CLS	_
 se	se	CLO	_
 sont	être	V	_
@@ -15955,7 +15969,7 @@ Et	et	CC	_
 voici	voici	V	_
 que	que	CS	_
 l'	le	DET	_
-heureuse	heureuse	NC	_
+heureuse	heureux	NC	_
 et	et	CC	_
 admirable	admirable	ADJ	_
 renaissance	renaissance	NC	_
@@ -16018,7 +16032,7 @@ aurait	avoir	V	_
 été	être	VPP	_
 bonne	bon	ADJ	_
 pour	pour	P	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 .	.	PONCT	_
 Mais	mais	CC	_
 notre	notre	DET	_
@@ -16471,7 +16485,7 @@ après	après	P	_
 les	le	DET	_
 besoins	besoin	NC	_
 de	de	P	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 et	et	CC	_
 de	de	P	_
 chacun	chacun	PRO	_
@@ -17103,7 +17117,7 @@ parcellaire	parcellaire	ADJ	_
 ,	,	PONCT	_
 la	le	DET	_
 propriété	propriété	NC	_
-morcelée	morcelé	ADJ	_
+morcelée	morceler	ADJ	_
 .	.	PONCT	_
 Mais	mais	CC	_
 cela	cela	PRO	_
@@ -17925,7 +17939,7 @@ ceps	cep	NC	_
 eux	il	PRO	_
 ,	,	PONCT	_
 rien	rien	PRO	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 à	à	P	_
 eux	il	PRO	_
 ,	,	PONCT	_
@@ -18298,7 +18312,7 @@ forces	force	NC	_
 sociales	social	ADJ	_
 ne	ne	ADV	_
 forment	former	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 un	un	DET	_
 bloc	bloc	NC	_
 réactionnaire	réactionnaire	ADJ	_
@@ -18654,7 +18668,8 @@ dans	dans	P	_
 la	le	DET	_
 bourgeoisie	bourgeoisie	NC	_
 .	.	PONCT	_
-Parce_qu'	parce_que	CS	_
+Parce	parce	ADV	_
+qu'	que	CS	_
 ils	il	CLS	_
 sont	être	V	_
 républicains	républicain	ADJ	_
@@ -19097,7 +19112,7 @@ voter	voter	VINF	_
 pour	pour	P	_
 des	un	DET	_
 socialistes	socialiste	NC	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 en	en	P	_
 faisant	faire	VPR	_
 abstraction	abstraction	NC	_
@@ -19110,7 +19125,7 @@ Ils	il	CLS	_
 ne	ne	ADV	_
 le	il	CLO	_
 peuvent	pouvoir	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 en	en	P	_
 se	se	CLO	_
 détachant	détacher	VPR	_
@@ -19122,7 +19137,7 @@ Ils	il	CLS	_
 ne	ne	ADV	_
 le	il	CLO	_
 peuvent	pouvoir	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 en	en	P	_
 proclamant	proclamer	VPR	_
 qu'	que	CS	_
@@ -19293,7 +19308,7 @@ les	le	DET	_
 plus	plus	ADV	_
 vains	vain	ADJ	_
 de	de	P	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 .	.	PONCT	_
 Mais	mais	CC	_
 je	je	CLS	_
@@ -19741,7 +19756,8 @@ aux	à_le	P+D	_
 organisations	organisation	NC	_
 ouvrières	ouvrier	ADJ	_
 ,	,	PONCT	_
-afin_qu'	afin_que	CS	_
+afin	afin	ADV	_
+qu'	que	CS	_
 ainsi	ainsi	ADV	_
 ,	,	PONCT	_
 peu	peu	ADV	_
@@ -20166,7 +20182,7 @@ la	le	DET	_
 nation	nation	NC	_
 ne	ne	ADV	_
 sera	être	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 un	un	DET	_
 bloc	bloc	NC	_
 réfractaire	réfractaire	ADJ	_
@@ -20237,7 +20253,7 @@ terre	terre	NC	_
 ,	,	PONCT	_
 mais	mais	CC	_
 dévorées	dévorer	VPP	_
-toutes	tous	PRO	_
+toutes	tout	PRO	_
 par	par	P	_
 les	le	DET	_
 oiseaux	oiseau	NC	_
@@ -20583,7 +20599,8 @@ de	de	P	_
 la	le	DET	_
 révolution	révolution	NC	_
 .	.	PONCT	_
-Tandis_que	tandis_que	CS	_
+Tandis	tandis	ADV	_
+que	que	CS	_
 nous	nous	CLS	_
 disons	dire	V	_
 aux	à_le	P+D	_
@@ -20648,7 +20665,7 @@ aller	aller	VINF	_
 nous	nous	CLO	_
 coucher	coucher	VINF	_
 ...	…	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 je	je	CLS	_
 le	il	CLO	_
 répète	répéter	V	_
@@ -20807,7 +20824,7 @@ sur	sur	P	_
 la	le	DET	_
 question	question	NC	_
 d'	de	P	_
-Orient	Orient	NC	_
+Orient	orient	NC	_
 ,	,	PONCT	_
 il	il	CLS	_
 gourmande	gourmander	V	_
@@ -20871,7 +20888,7 @@ impatience	impatience	NC	_
 et	et	CC	_
 d'	de	P	_
 illusion	illusion	NC	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 en	en	P	_
 1850	1850	NC	_
 il	il	CLS	_
@@ -21245,7 +21262,8 @@ et	et	CC	_
 du	de_le	P+D	_
 socialisme	socialisme	NC	_
 .	.	PONCT	_
-Parce_que	parce_que	CS	_
+Parce	parce	ADV	_
+que	que	CS	_
 Bismarck	Bismarck	NP	_
 unifiait	unifier	V	_
 l'	le	DET	_
@@ -21326,7 +21344,8 @@ du	de_le	P+D	_
 nouvel	nouveau	ADJ	_
 empire	empire	NC	_
 .	.	PONCT	_
-En_outre	en_outre	ADV	_
+En	en	P	_
+outre	outre	P	_
 ,	,	PONCT	_
 la	le	DET	_
 classe	classe	NC	_
@@ -21356,7 +21375,7 @@ une	un	DET	_
 Allemagne	Allemagne	NP	_
 particulariste	particulariste	ADJ	_
 et	et	CC	_
-morcelée	morcelé	ADJ	_
+morcelée	morceler	ADJ	_
 ,	,	PONCT	_
 a	avoir	V	_
 développé	développer	VPP	_
@@ -22421,7 +22440,8 @@ n'	ne	ADV	_
 a	avoir	V	_
 abouti	aboutir	VPP	_
 que	que	ADV	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 l'	le	DET	_
 immense	immense	ADJ	_
 majorité	majorité	NC	_
@@ -22531,7 +22551,8 @@ en	en	P	_
 les	il	CLO	_
 redoutant	redouter	VPR	_
 .	.	PONCT	_
-Quant_au	quant_à_le	P+D	_
+Quant	quant	ADV	_
+au	à_le	P+D	_
 tiers	tiers	NC	_
 -	-	PONCT	_
 état	état	NC	_
@@ -22725,17 +22746,17 @@ spéciaux	spécial	ADJ	_
 Même	même	ADV	_
 loi	loi	NC	_
 pour	pour	P	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 ,	,	PONCT	_
 même	même	ADV	_
 impôt	impôt	NC	_
 pour	pour	P	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 ,	,	PONCT	_
 même	même	ADV	_
 justice	justice	NC	_
 pour	pour	P	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 .	.	PONCT	_
 -	-	PONCT	_
 les	le	DET	_
@@ -22784,7 +22805,7 @@ emplois	emploi	NC	_
 seront	être	V	_
 accessibles	accessible	ADJ	_
 à	à	P	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 et	et	CC	_
 les	le	DET	_
 plus	plus	ADV	_
@@ -22816,7 +22837,7 @@ seront	être	V	_
 également	également	ADV	_
 ouvertes	ouvrir	VPP	_
 à	à	P	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 .	.	PONCT	_
 Pour	pour	P	_
 entreprendre	entreprendre	VINF	_
@@ -23095,7 +23116,8 @@ août	août	NC	_
 C'	ce	CLS	_
 est	être	V	_
 uniquement	uniquement	ADV	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 la	le	DET	_
 force	force	NC	_
 d'	de	P	_
@@ -24028,7 +24050,7 @@ dans	dans	P	_
 des	un	DET	_
 aspirations	aspiration	NC	_
 confuses	confus	ADJ	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 en	en	P	_
 1789	1789	NC	_
 se	se	CLO	_
@@ -25199,7 +25221,7 @@ Liebknecht	Liebknecht	NP	_
 n'	ne	ADV	_
 assure	assurer	V	_
 point	point	ADV	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 il	il	CLS	_
 aura	avoir	V	_
 tout	tout	ADJ	_
@@ -25347,7 +25369,7 @@ empire	empire	NC	_
 sous	sous	P	_
 un	un	DET	_
 Guillaume	Guillaume	NP	_
-Premier	Premier	NP	_
+Premier	premier	NP	_
 ,	,	PONCT	_
 ou	ou	CC	_
 un	un	DET	_
@@ -25593,7 +25615,7 @@ du	de_le	P+D	_
 gouvernement	gouvernement	NC	_
 non	non	ADV	_
 socialiste	socialiste	ADJ	_
-auquel	auquel	PROREL	_
+auquel	à_lequel	PROREL	_
 il	il	CLS	_
 sera	être	V	_
 associé	associer	VPP	_
@@ -26736,7 +26758,7 @@ la	le	DET	_
 tactique	tactique	NC	_
 n'	ne	ADV	_
 est	être	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 un	un	DET	_
 moyen	moyen	NC	_
 en	en	P	_
@@ -26746,7 +26768,8 @@ un	un	DET	_
 but	but	NC	_
 ,	,	PONCT	_
 et	et	CC	_
-tandis_que	tandis_que	CS	_
+tandis	tandis	ADV	_
+que	que	CS	_
 le	le	DET	_
 but	but	NC	_
 se	se	CLO	_
@@ -27477,7 +27500,7 @@ que	que	CS	_
 moi	je	PRO	_
 -même	même	ADJ	_
 .	.	PONCT	_
-Tous	tous	PRO	_
+Tous	tout	PRO	_
 ou	ou	CC	_
 presque	presque	ADV	_
 tous	tout	ADJ	_
@@ -28197,7 +28220,7 @@ socialisme	socialisme	NC	_
 d'	de	P	_
 état	état	NC	_
 ...	…	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 qu'	que	PROWH	_
 est	être	V	_
 -ce	ce	CLS	_
@@ -28687,7 +28710,8 @@ ce	ce	DET	_
 menu	menu	NC	_
 trait	traire	V	_
 que	que	ADV	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 il	il	CLS	_
 caractérise	caractériser	V	_
 un	un	DET	_
@@ -29092,7 +29116,7 @@ dans	dans	P	_
 le	le	DET	_
 prolétariat	prolétariat	NC	_
 ...	…	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 et	et	CC	_
 Liebknecht	Liebknecht	NP	_
 conclut	conclure	V	_
@@ -29179,7 +29203,7 @@ indécentes	indécent	ADJ	_
 brutalités	brutalité	NC	_
 ?	?	PONCT	_
 ...	…	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 ainsi	ainsi	ADV	_
 Liebknecht	Liebknecht	NP	_
 conçoit	concevoir	V	_
@@ -29468,7 +29492,7 @@ diverses	divers	ADJ	_
 des	de_le	P+D	_
 intérêts	intérêt	NC	_
 ...	…	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 je	je	CLS	_
 ne	ne	ADV	_
 cite	citer	V	_
@@ -29514,7 +29538,7 @@ pensée	pensée	NC	_
 sans	sans	P	_
 autre	autre	ADJ	_
 recours	recours	NC	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 à	à	P	_
 la	le	DET	_
 raison	raison	NC	_
@@ -29909,7 +29933,7 @@ doivent	devoir	V	_
 également	également	ADV	_
 valoir	valoir	VINF	_
 ...	…	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 une	un	DET	_
 citation	citation	NC	_
 dernière	dernier	ADJ	_
@@ -29970,7 +29994,7 @@ question	question	NC	_
 d'	de	P	_
 impôts	impôt	NC	_
 ...	…	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 les	le	DET	_
 raisons	raison	NC	_
 :	:	PONCT	_
@@ -30342,7 +30366,7 @@ décisive	décisif	ADJ	_
 un	un	DET	_
 mouvement	mouvement	NC	_
 social	social	ADJ	_
-auquel	auquel	PROREL	_
+auquel	à_lequel	PROREL	_
 elle	il	CLS	_
 n'	ne	ADV	_
 aurait	avoir	V	_
@@ -31475,7 +31499,7 @@ Ils	il	CLS	_
 ne	ne	ADV	_
 la	il	CLO	_
 donneront	donner	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 à	à	P	_
 un	un	DET	_
 mouvement	mouvement	NC	_
@@ -31535,7 +31559,7 @@ de	de	P	_
 la	le	DET	_
 propriété	propriété	NC	_
 ,	,	PONCT	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 une	un	DET	_
 oeuvre	œuvre	NC	_
 négative	négatif	ADJ	_
@@ -31937,7 +31961,7 @@ Il	il	CLS	_
 ne	ne	ADV	_
 peut	pouvoir	V	_
 fonctionner	fonctionner	VINF	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 avec	avec	P	_
 le	le	DET	_
 consentement	consentement	NC	_
@@ -32063,7 +32087,7 @@ Elle	il	CLS	_
 sera	être	V	_
 faite	faire	VPP	_
 pour	pour	P	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 .	.	PONCT	_
 Pour	pour	P	_
 la	le	DET	_
@@ -32153,7 +32177,7 @@ la	le	DET	_
 libre	libre	ADJ	_
 collaboration	collaboration	NC	_
 de	de	P	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 pourrait	pouvoir	V	_
 -il	il	CLS	_
 être	être	VINF	_
@@ -32220,7 +32244,7 @@ unanime	unanime	ADJ	_
 .	.	PONCT	_
 Destiné	destiner	VPP	_
 à	à	P	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 ,	,	PONCT	_
 il	il	CLS	_
 doit	devoir	V	_
@@ -32230,7 +32254,7 @@ préparé	préparer	VPP	_
 accepté	accepter	VPP	_
 presque	presque	ADV	_
 par	par	P	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 ,	,	PONCT	_
 et	et	CC	_
 même	même	ADV	_
@@ -32238,7 +32262,7 @@ même	même	ADV	_
 pratiquement	pratiquement	ADV	_
 ,	,	PONCT	_
 par	par	P	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 ;	;	PONCT	_
 car	car	CC	_
 il	il	CLS	_
@@ -32712,7 +32736,7 @@ de	de	P	_
 l'	le	DET	_
 aveu	aveu	NC	_
 de	de	P	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 ,	,	PONCT	_
 la	le	DET	_
 révolution	révolution	NC	_
@@ -32894,7 +32918,7 @@ est	être	V	_
 point	point	ADV	_
 là	là	ADV	_
 ce	ce	PRO	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 entendent	entendre	V	_
 ,	,	PONCT	_
 par	par	P	_
@@ -34111,7 +34135,7 @@ terreur	terreur	NC	_
 et	et	CC	_
 de	de	P	_
 réaction	réaction	NC	_
-auquel	auquel	PROREL	_
+auquel	à_lequel	PROREL	_
 la	le	DET	_
 fraction	fraction	NC	_
 militante	militant	ADJ	_
@@ -35446,7 +35470,7 @@ en	en	P	_
 plus	plus	NC	_
 étendues	étendu	ADJ	_
 ...	…	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 "	"	PONCT	_
 de	de	P	_
 plus	plus	ADV	_
@@ -35498,7 +35522,7 @@ en	en	P	_
 combat	combat	NC	_
 révolutionnaire	révolutionnaire	ADJ	_
 ...	…	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 voilà	voilà	V	_
 bien	bien	ADV	_
 ,	,	PONCT	_
@@ -37039,7 +37063,7 @@ les	le	DET	_
 régions	région	NC	_
 par	par	P	_
 lui	il	PRO	_
-abandonnées	abandonnées	NC	_
+abandonnées	abandonner	NC	_
 d'	de	P	_
 abord	abord	NC	_
 ,	,	PONCT	_
@@ -37138,7 +37162,7 @@ France	France	NP	_
 Bourges	Bourges	NP	_
 ,	,	PONCT	_
 comme	comme	P	_
-M	M	NC	_
+M	monsieur	NC	_
 Thiers	Thiers	NP	_
 à	à	P	_
 Versailles	Versailles	NP	_
@@ -37192,7 +37216,7 @@ de	de	P	_
 sport	sport	NC	_
 de	de	P	_
 la	le	DET	_
-haute	haute	NC	_
+haute	haut	NC	_
 et	et	CC	_
 moyenne	moyen	ADJ	_
 bourgeoisie	bourgeoisie	NC	_
@@ -37345,7 +37369,8 @@ toute	tout	ADV	_
 contraire	contraire	ADJ	_
 .	.	PONCT	_
 Précisément	précisément	ADV	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 elle	il	CLS	_
 donne	donner	V	_
 d'	de	P	_
@@ -37390,7 +37415,7 @@ au	à_le	P+D	_
 seuil	seuil	NC	_
 des	de_le	P+D	_
 usines	usine	NC	_
-abandonnées	abandonnées	ADJ	_
+abandonnées	abandonner	ADJ	_
 .	.	PONCT	_
 Ou	ou	CC	_
 si	si	CS	_
@@ -38086,7 +38111,7 @@ pour	pour	P	_
 formidable	formidable	ADJ	_
 n'	ne	ADV	_
 aurait	avoir	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 à	à	P	_
 être	être	VINF	_
 immobile	immobile	ADJ	_
@@ -38127,7 +38152,7 @@ su	savoir	VPP	_
 accorder	accorder	VINF	_
 jusqu'	jusque	P	_
 ici	ici	ADV	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 une	un	DET	_
 trop	trop	ADV	_
 faible	faible	ADJ	_
@@ -38473,7 +38498,7 @@ qui	qui	PROREL	_
 ne	ne	ADV	_
 peut	pouvoir	V	_
 être	être	VINF	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 une	un	DET	_
 tactique	tactique	NC	_
 de	de	P	_
@@ -38520,7 +38545,7 @@ aujourd'hui	aujourd'hui	ADV	_
 pour	pour	P	_
 le	le	DET	_
 socialisme	socialisme	NC	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 une	un	DET	_
 méthode	méthode	NC	_
 souveraine	souverain	ADJ	_
@@ -38546,7 +38571,7 @@ est	être	V	_
 d'	de	P	_
 expliquer	expliquer	VINF	_
 à	à	P	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 clairement	clairement	ADV	_
 son	son	DET	_
 but	but	NC	_
@@ -39535,7 +39560,7 @@ ne	ne	ADV	_
 forme	former	V	_
 une	un	DET	_
 classe	classe	NC	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 à	à	P	_
 l'	le	DET	_
 égard	égard	NC	_
@@ -39689,7 +39714,7 @@ ne	ne	ADV	_
 pourrait	pouvoir	V	_
 la	il	CLO	_
 régler	régler	VINF	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 à	à	P	_
 son	son	DET	_
 profit	profit	NC	_
@@ -40059,7 +40084,7 @@ qui	qui	PROREL	_
 puisse	pouvoir	V	_
 fournir	fournir	VINF	_
 à	à	P	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 des	de_le	P+D	_
 moyens	moyen	NC	_
 de	de	P	_
@@ -40090,7 +40115,7 @@ il	il	CLS	_
 n'	ne	ADV	_
 y	y	CLO	_
 a	avoir	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 une	un	DET	_
 association	association	NC	_
 générale	général	ADJ	_
@@ -40389,7 +40414,7 @@ mis	mettre	VPP	_
 la	le	DET	_
 portée	portée	NC	_
 de	de	P	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 .	.	PONCT	_
 LE	le	DET	_
 SOCIALISME	socialisme	NC	_
@@ -40433,7 +40458,7 @@ lors	lors	ADV	_
 c'	ce	CLS	_
 est	être	V	_
 pour	pour	P	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 un	un	DET	_
 devoir	devoir	NC	_
 de	de	P	_
@@ -40756,7 +40781,7 @@ droit	droit	NC	_
 de	de	P	_
 suffrage	suffrage	NC	_
 pour	pour	P	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 .	.	PONCT	_
 Je	je	CLS	_
 sais	savoir	V	_
@@ -41268,7 +41293,7 @@ droit	droit	NC	_
 de	de	P	_
 l'	le	DET	_
 individu	individu	NC	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 en	en	P	_
 mettant	mettre	VPR	_
 à	à	P	_
@@ -41338,7 +41363,7 @@ travail	travail	NC	_
 vivant	vivant	ADJ	_
 n'	ne	ADV	_
 est	être	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 un	un	DET	_
 moyen	moyen	NC	_
 d'	de	P	_
@@ -41360,7 +41385,7 @@ travail	travail	NC	_
 accumulé	accumuler	VPP	_
 ne	ne	ADV	_
 sera	être	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 un	un	DET	_
 moyen	moyen	NC	_
 d'	de	P	_
@@ -42321,7 +42346,7 @@ et	et	CC	_
 de	de	P	_
 richesse	richesse	NC	_
 pour	pour	P	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 ,	,	PONCT	_
 aux	à_le	P+D	_
 grandes	grand	ADJ	_
@@ -43123,7 +43148,7 @@ l'	le	DET	_
 effort	effort	NC	_
 solidaire	solidaire	ADJ	_
 de	de	P	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 .	.	PONCT	_
 -	-	PONCT	_
 à	à	P	_
@@ -43599,7 +43624,7 @@ problème	problème	NC	_
 qui	qui	PROREL	_
 nous	nous	CLO	_
 presse	presser	V	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 que	que	ADV	_
 par	par	P	_
 une	un	DET	_
@@ -43838,11 +43863,11 @@ hommes	homme	NC	_
 aussi	aussi	ADV	_
 cultivés	cultiver	VPP	_
 que	que	CS	_
-M	M	NC	_
+M	monsieur	NC	_
 Léon	Léon	NP	_
 Bourgeois	Bourgeois	NP	_
 et	et	CC	_
-M	M	NC	_
+M	monsieur	NC	_
 Camille	Camille	NP	_
 Pelletan	Pelletan	NP	_
 ont	avoir	V	_
@@ -44116,7 +44141,7 @@ attachés	attacher	VPP	_
 la	le	DET	_
 terre	terre	NC	_
 des	de_le	P+D	_
-abbayes	abbayes	NC	_
+abbayes	abbaye	NC	_
 .	.	PONCT	_
 Mais	mais	CC	_
 l'	le	DET	_
@@ -44216,7 +44241,7 @@ la	le	DET	_
 maison	maison	NC	_
 seigneuriale	seigneurial	ADJ	_
 ,	,	PONCT	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 ils	il	CLS	_
 sont	être	V	_
 sous	sous	P	_
@@ -45078,7 +45103,7 @@ et	et	CC	_
 Brière	Brière	NP	_
 ,	,	PONCT	_
 où	où	PROREL	_
-M	M	NC	_
+M	monsieur	NC	_
 Henri	Henri	NP	_
 Sée	Sée	NP	_
 trace	tracer	V	_
@@ -45211,7 +45236,7 @@ appartiendra	appartenir	V	_
 sans	sans	P	_
 restriction	restriction	NC	_
 ...	…	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 voilà	voilà	V	_
 la	le	DET	_
 grande	grand	ADJ	_
@@ -45837,7 +45862,7 @@ dans	dans	P	_
 le	le	DET	_
 volume	volume	NC	_
 de	de	P	_
-M	M	NC	_
+M	monsieur	NC	_
 Sée	Sée	NP	_
 ,	,	PONCT	_
 la	le	DET	_
@@ -45900,7 +45925,7 @@ de	de	P	_
 réaction	réaction	NC	_
 .	.	PONCT	_
 Mais	mais	CC	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 ,	,	PONCT	_
 quel	quel	PROWH	_
 que	que	PROREL	_
@@ -45915,7 +45940,7 @@ soit	être	V	_
 leur	leur	DET	_
 croyance	croyance	NC	_
 ,	,	PONCT	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 ils	il	CLS	_
 servent	servir	V	_
 la	le	DET	_
@@ -45935,7 +45960,8 @@ cause	cause	NC	_
 du	de_le	P+D	_
 socialisme	socialisme	NC	_
 ,	,	PONCT	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 ils	il	CLS	_
 ne	ne	ADV	_
 s'	se	CLO	_
@@ -47379,7 +47405,7 @@ a	avoir	V	_
 été	être	VPP	_
 donné	donner	VPP	_
 ...	…	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 qu'	que	CS	_
 est	être	V	_
 donc	donc	ADV	_
@@ -47440,7 +47466,7 @@ quels	quel	DET	_
 rapports	rapport	NC	_
 compliqués	compliqué	ADJ	_
 et	et	CC	_
-mouvants	mouvant	ADJ	_
+mouvants	mouvoir	ADJ	_
 !	!	PONCT	_
 Ce	ce	DET	_
 droit	droit	NC	_
@@ -47951,7 +47977,7 @@ contestation	contestation	NC	_
 entre	entre	P	_
 les	le	DET	_
 propriétaires	propriétaire	NC	_
-auxquels	auquel	PROREL	_
+auxquels	à_lequel	PROREL	_
 ces	ce	DET	_
 eaux	eau	NC	_
 peuvent	pouvoir	V	_
@@ -48184,7 +48210,7 @@ doivent	devoir	V	_
 être	être	VINF	_
 entretenus	entretenir	VPP	_
 par	par	P	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 selon	selon	P	_
 des	un	DET	_
 règles	règle	NC	_
@@ -48611,7 +48637,7 @@ Elle	il	CLS	_
 ne	ne	ADV	_
 fait	faire	V	_
 plus	plus	ADV	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 un	un	DET	_
 avec	avec	P	_
 le	le	DET	_
@@ -48874,7 +48900,7 @@ et	et	CC	_
 n'	ne	ADV	_
 y	y	CLO	_
 coexistent	coexister	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 en	en	P	_
 la	il	CLO	_
 démembrant	démembrer	VPR	_
@@ -48902,7 +48928,7 @@ n'	ne	ADV	_
 a	avoir	V	_
 pu	pouvoir	VPP	_
 subsister	subsister	VINF	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 en	en	P	_
 se	se	CLO	_
 décomposant	décomposer	VPR	_
@@ -49334,7 +49360,7 @@ sociales	social	ADJ	_
 ne	ne	ADV	_
 représentent	représenter	V	_
 encore	encore	ADV	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 une	un	DET	_
 faible	faible	ADJ	_
 fraction	fraction	NC	_
@@ -50492,7 +50518,7 @@ demande	demander	V	_
 l'	le	DET	_
 éminent	éminent	NC	_
 rapporteur	rapporteur	ADJ	_
-M	M	NC	_
+M	monsieur	NC	_
 Guieysse	Guieysse	NP	_
 ,	,	PONCT	_
 qui	qui	PROREL	_
@@ -51335,7 +51361,7 @@ je	je	CLS	_
 n'	ne	ADV	_
 ai	avoir	V	_
 citée	citer	VPP	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 à	à	P	_
 titre	titre	NC	_
 d'	de	P	_
@@ -51923,7 +51949,7 @@ qui	qui	PROREL	_
 choisit	choisir	V	_
 tous	tout	ADJ	_
 ceux	celui	PRO	_
-auxquels	auquel	PROREL	_
+auxquels	à_lequel	PROREL	_
 ira	aller	V	_
 sa	son	DET	_
 propriété	propriété	NC	_
@@ -52130,7 +52156,7 @@ n'	ne	ADV	_
 est	être	V	_
 en	en	P	_
 somme	somme	NC	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 un	un	DET	_
 changement	changement	NC	_
 de	de	P	_
@@ -52257,7 +52283,7 @@ peut	pouvoir	V	_
 en	en	CLO	_
 abandonner	abandonner	VINF	_
 librement	librement	ADV	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 une	un	DET	_
 assez	assez	ADV	_
 faible	faible	ADJ	_
@@ -52308,7 +52334,7 @@ laisse	laisser	V	_
 à	à	P	_
 son	son	DET	_
 décès	décès	NC	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 un	un	DET	_
 enfant	enfant	NC	_
 légitime	légitime	ADJ	_
@@ -52413,7 +52439,7 @@ le	le	DET	_
 plus	plus	ADV	_
 avisé	avisé	ADJ	_
 de	de	P	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 .	.	PONCT	_
 -	-	PONCT	_
 la	le	DET	_
@@ -52709,7 +52735,7 @@ Votre	votre	DET	_
 socialisme	socialisme	NC	_
 n'	ne	ADV	_
 est	être	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 une	un	DET	_
 prime	prime	NC	_
 à	à	P	_
@@ -52987,7 +53013,7 @@ qu'	que	CS	_
 elle	il	CLS	_
 les	il	CLO	_
 soustrait	soustraire	V	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 ,	,	PONCT	_
 indistinctement	indistinctement	ADV	_
 ,	,	PONCT	_
@@ -53004,7 +53030,7 @@ qu'	que	CS	_
 elle	il	CLS	_
 les	il	CLO	_
 soumet	soumettre	V	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 aux	à_le	P+D	_
 mêmes	même	ADJ	_
 règles	règle	NC	_
@@ -53928,7 +53954,9 @@ familiale	familial	ADJ	_
 par	par	P	_
 la	le	DET	_
 révolution	révolution	NC	_
-au-dessus	au-dessus	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 de	de	P	_
 la	le	DET	_
 propriété	propriété	NC	_
@@ -55114,7 +55142,7 @@ ou	ou	CC	_
 soeurs	sœur	NC	_
 ,	,	PONCT	_
 ...	…	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 voilà	voilà	V	_
 encore	encore	ADV	_
 une	un	DET	_
@@ -55283,7 +55311,7 @@ par	par	P	_
 l'	le	DET	_
 ascendant	ascendant	NC	_
 ,	,	PONCT	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 à	à	P	_
 la	le	DET	_
 condition	condition	NC	_
@@ -55397,7 +55425,7 @@ ou	ou	CC	_
 à	à	P	_
 naître	naître	VINF	_
 ,	,	PONCT	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 à	à	P	_
 la	le	DET	_
 condition	condition	NC	_
@@ -55405,7 +55433,7 @@ de	de	P	_
 penser	penser	VINF	_
 également	également	ADV	_
 à	à	P	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 ,	,	PONCT	_
 aînés	aîné	ADJ	_
 ou	ou	CC	_
@@ -55625,7 +55653,7 @@ ne	ne	ADV	_
 pourra	pouvoir	V	_
 l'	il	CLO	_
 être	être	VINF	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 en	en	P	_
 immeubles	immeuble	NC	_
 ,	,	PONCT	_
@@ -56039,7 +56067,7 @@ droit	droit	NC	_
 successoral	successoral	ADJ	_
 :	:	PONCT	_
 i	i	X	_
-M	M	NC	_
+M	monsieur	NC	_
 Sagnac	Sagnac	NP	_
 écrit	écrire	VPP	_
 dans	dans	P	_
@@ -56104,7 +56132,9 @@ et	et	CC	_
 la	le	DET	_
 société	société	NC	_
 .	.	PONCT	_
-au-dessus	au-dessus	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 de	de	P	_
 l'	le	DET	_
 individu	individu	NC	_
@@ -56300,7 +56330,8 @@ supprimaient	supprimer	V	_
 presque	presque	ADV	_
 complètement	complètement	ADV	_
 .	.	PONCT	_
-Tandis_qu'	tandis_que	CS	_
+Tandis	tandis	ADV	_
+qu'	que	CS	_
 aujourd'hui	aujourd'hui	ADV	_
 le	le	DET	_
 père	père	NC	_
@@ -56440,7 +56471,7 @@ de	de	P	_
 ses	son	DET	_
 petits-fils	petit-fils	NC	_
 .	.	PONCT	_
-Tous	tous	PRO	_
+Tous	tout	PRO	_
 ,	,	PONCT	_
 ils	il	CLS	_
 recevront	recevoir	V	_
@@ -56688,7 +56719,7 @@ ne	ne	ADV	_
 peut	pouvoir	V	_
 le	il	CLO	_
 donner	donner	VINF	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 à	à	P	_
 d'	un	DET	_
 autres	autre	NC	_
@@ -56858,9 +56889,11 @@ la	le	DET	_
 famille	famille	NC	_
 immédiate	immédiat	ADJ	_
 .	.	PONCT	_
-En_outre	en_outre	ADV	_
+En	en	P	_
+outre	outre	P	_
 ,	,	PONCT	_
-tandis_qu'	tandis_que	CS	_
+tandis	tandis	ADV	_
+qu'	que	CS	_
 aujourd'hui	aujourd'hui	ADV	_
 l'	le	DET	_
 article	article	NC	_
@@ -56933,7 +56966,7 @@ ascendants	ascendant	NC	_
 ,	,	PONCT	_
 et	et	CC	_
 quel	quel	PROWH	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 en	en	CLO	_
 soit	être	V	_
 le	le	DET	_
@@ -57133,7 +57166,7 @@ ces	ce	DET	_
 directions	direction	NC	_
 ;	;	PONCT	_
 et	et	CC	_
-M	M	NC	_
+M	monsieur	NC	_
 Sagnac	Sagnac	NP	_
 ,	,	PONCT	_
 résumant	résumer	VPR	_
@@ -57922,7 +57955,7 @@ individus	individu	NC	_
 ,	,	PONCT	_
 ne	ne	ADV	_
 possédant	posséder	VPR	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 en	en	P	_
 vertu	vertu	NC	_
 de	de	P	_
@@ -59613,7 +59646,7 @@ n'	ne	ADV	_
 a	avoir	V	_
 pour	pour	P	_
 cela	cela	PRO	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 un	un	DET	_
 moyen	moyen	NC	_
 :	:	PONCT	_
@@ -60636,7 +60669,7 @@ la	le	DET	_
 liberté	liberté	NC	_
 publique	public	ADJ	_
 ...	…	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 comme	comme	CS	_
 on	on	CLS	_
 voit	voir	V	_
@@ -60678,7 +60711,7 @@ contre	contre	P	_
 le	le	DET	_
 régime	régime	NC	_
 féodal	féodal	ADJ	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 en	en	P	_
 supprimant	supprimer	VPR	_
 ,	,	PONCT	_
@@ -60781,7 +60814,8 @@ La	le	DET	_
 convention	convention	NC	_
 était	être	V	_
 poussée	pousser	VPP	_
-en_outre	en_outre	ADV	_
+en	en	P	_
+outre	outre	P	_
 dans	dans	P	_
 cette	ce	DET	_
 voie	voie	NC	_
@@ -61619,7 +61653,7 @@ ne	ne	ADV	_
 peut	pouvoir	V	_
 les	il	CLO	_
 aliéner	aliéner	VINF	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 à	à	P	_
 un	un	DET	_
 prix	prix	NC	_
@@ -61920,7 +61954,8 @@ la	le	DET	_
 matière	matière	NC	_
 qui	qui	PROREL	_
 produit	produire	V	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 elle	il	CLS	_
 en	en	CLO	_
 paie	payer	V	_
@@ -62775,7 +62810,7 @@ tout	tout	PRO	_
 .	.	PONCT	_
 Oh	oh	I	_
 !	!	PONCT	_
-Je	Je	ADV	_
+Je	je	ADV	_
 sais	savoir	V	_
 bien	bien	ADV	_
 qu'	que	CS	_
@@ -63535,7 +63570,7 @@ grand	grand	ADJ	_
 ministre	ministre	NC	_
 anglais	anglais	ADJ	_
 ,	,	PONCT	_
-M	M	NC	_
+M	monsieur	NC	_
 Gladstone	Gladstone	NP	_
 ,	,	PONCT	_
 étant	être	VPR	_
@@ -63603,7 +63638,7 @@ biens	bien	NC	_
 des	de_le	P+D	_
 émigrés	émigré	NC	_
 .	.	PONCT	_
-M	M	NC	_
+M	monsieur	NC	_
 Gladstone	Gladstone	NP	_
 se	se	CLO	_
 proposait	proposer	V	_
@@ -63666,7 +63701,7 @@ les	le	DET	_
 propriétaires	propriétaire	NC	_
 anglais	anglais	ADJ	_
 ,	,	PONCT	_
-M	M	NC	_
+M	monsieur	NC	_
 Gladstone	Gladstone	NP	_
 était	être	V	_
 arrivé	arriver	VPP	_
@@ -63857,7 +63892,7 @@ le	le	DET	_
 peuple	peuple	NC	_
 irlandais	irlandais	ADJ	_
 .	.	PONCT	_
-M	M	NC	_
+M	monsieur	NC	_
 Gladstone	Gladstone	NP	_
 imagina	imaginer	V	_
 une	un	DET	_
@@ -63947,7 +63982,7 @@ de	de	P	_
 cent_mille	cent_mille	DET	_
 francs	franc	NC	_
 .	.	PONCT	_
-M	M	NC	_
+M	monsieur	NC	_
 Gladstone	Gladstone	NP	_
 ,	,	PONCT	_
 en	en	P	_
@@ -64069,7 +64104,7 @@ rapportant	rapporter	VPR	_
 cinq_mille	cinq_mille	DET	_
 francs	franc	NC	_
 ,	,	PONCT	_
-M	M	NC	_
+M	monsieur	NC	_
 Gladstone	Gladstone	NP	_
 remettait	remettre	V	_
 ,	,	PONCT	_
@@ -64120,7 +64155,7 @@ concerne	concerner	V	_
 ce	ce	DET	_
 domaine	domaine	NC	_
 ,	,	PONCT	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 une	un	DET	_
 somme	somme	NC	_
 annuelle	annuel	ADJ	_
@@ -64182,7 +64217,8 @@ un	un	DET	_
 centime	centime	NC	_
 .	.	PONCT	_
 Et	et	CC	_
-quant_au	quant_à_le	P+D	_
+Quant	quant	ADV	_
+au	à_le	P+D	_
 landlord	landlord	NC	_
 ,	,	PONCT	_
 légalement	légalement	ADV	_
@@ -64201,7 +64237,7 @@ de	de	P	_
 sa	son	DET	_
 propriété	propriété	NC	_
 ?	?	PONCT	_
-M	M	NC	_
+M	monsieur	NC	_
 Gladstone	Gladstone	NP	_
 faisait	faire	V	_
 profiter	profiter	VINF	_
@@ -64472,7 +64508,8 @@ terrains	terrain	NC	_
 de	de	P	_
 banlieue	banlieue	NC	_
 ,	,	PONCT	_
-afin_que	afin_que	CS	_
+afin	afin	ADV	_
+que	que	CS	_
 la	le	DET	_
 spéculation	spéculation	NC	_
 ne	ne	ADV	_
@@ -64518,7 +64555,7 @@ de	de	P	_
 la	le	DET	_
 classe	classe	NC	_
 ouvrière	ouvrier	ADJ	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 en	en	P	_
 expropriant	exproprier	VPR	_
 par	par	P	_
@@ -66490,7 +66527,7 @@ y	y	CLO	_
 a	avoir	V	_
 donc	donc	ADV	_
 ici	ici	ADV	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 un	un	DET	_
 fait	fait	NC	_
 nouveau	nouveau	ADJ	_
@@ -66629,7 +66666,8 @@ solidaires	solidaire	ADJ	_
 "	"	PONCT	_
 ainsi	ainsi	ADV	_
 ,	,	PONCT	_
-tandis_que	tandis_que	CS	_
+tandis	tandis	ADV	_
+que	que	CS	_
 dans	dans	P	_
 la	le	DET	_
 société	société	NC	_
@@ -66765,7 +66803,8 @@ de	de	P	_
 l'	le	DET	_
 entreprise	entreprise	NC	_
 ,	,	PONCT	_
-tandis_que	tandis_que	CS	_
+tandis	tandis	ADV	_
+que	que	CS	_
 ,	,	PONCT	_
 dans	dans	P	_
 la	le	DET	_
@@ -67263,7 +67302,7 @@ dans	dans	P	_
 la	le	DET	_
 propriété	propriété	NC	_
 .	.	PONCT	_
-M	M	NC	_
+M	monsieur	NC	_
 Léon	Léon	NP	_
 Bourgeois	Bourgeois	NP	_
 dit	dire	V	_
@@ -67381,7 +67420,7 @@ tout	tout	ADJ	_
 son	son	DET	_
 bien	bien	NC	_
 ,	,	PONCT	_
-auquel	auquel	PROREL	_
+auquel	à_lequel	PROREL	_
 s'	se	CLO	_
 ajoutait	ajouter	V	_
 naguère	naguère	ADV	_
@@ -67442,7 +67481,7 @@ Mais	mais	CC	_
 quel	quel	DET	_
 sens	sens	NC	_
 précis	précis	ADJ	_
-M	M	NC	_
+M	monsieur	NC	_
 Léon	Léon	NP	_
 Bourgeois	Bourgeois	NP	_
 peut	pouvoir	V	_
@@ -67885,7 +67924,7 @@ ils	il	CLS	_
 n'	ne	ADV	_
 en	en	CLO	_
 demandent	demander	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 une	un	DET	_
 chose	chose	NC	_
 :	:	PONCT	_
@@ -68465,7 +68504,8 @@ valeur	valeur	NC	_
 C'	ce	CLS	_
 est	être	V	_
 même	même	ADV	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 dans	dans	P	_
 l'	le	DET	_
 intérieur	intérieur	NC	_
@@ -68869,7 +68909,7 @@ mais	mais	CC	_
 il	il	CLS	_
 ne	ne	ADV	_
 succombera	succomber	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 après	après	P	_
 l'	le	DET	_
 actionnaire	actionnaire	NC	_
@@ -69277,7 +69317,8 @@ existe	exister	V	_
 plus	plus	ADV	_
 ,	,	PONCT	_
 mais	mais	CC	_
-tandis_que	tandis_que	CS	_
+tandis	tandis	ADV	_
+que	que	CS	_
 le	le	DET	_
 propriétaire	propriétaire	NC	_
 foncier	foncier	ADJ	_
@@ -69623,7 +69664,7 @@ et	et	CC	_
 le	le	DET	_
 débiteur	débiteur	NC	_
 failli	faillir	VPP	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 après	après	P	_
 l'	le	DET	_
 accomplissement	accomplissement	NC	_
@@ -69652,7 +69693,8 @@ majorité	majorité	NC	_
 ,	,	PONCT	_
 et	et	CC	_
 représentant	représenter	VPR	_
-en_outre	en_outre	ADV	_
+en	en	P	_
+outre	outre	P	_
 les	le	DET	_
 trois	trois	ADJ	_
 quarts	quart	NC	_
@@ -69783,7 +69825,7 @@ la	le	DET	_
 propriété	propriété	NC	_
 vraiment	vraiment	ADV	_
 personnelle	personnel	ADJ	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 à	à	P	_
 l'	le	DET	_
 heure	heure	NC	_
@@ -70824,7 +70866,8 @@ toute	tout	ADJ	_
 son	son	DET	_
 étendue	étendue	NC	_
 .	.	PONCT	_
-Tandis_que	tandis_que	CS	_
+Tandis	tandis	ADV	_
+que	que	CS	_
 dans	dans	P	_
 la	le	DET	_
 propriété	propriété	NC	_
@@ -70950,7 +70993,7 @@ elle	il	CLS	_
 n'	ne	ADV	_
 est	être	V	_
 partout	partout	ADV	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 une	un	DET	_
 fraction	fraction	NC	_
 minime	minime	ADJ	_

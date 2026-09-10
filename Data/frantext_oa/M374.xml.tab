@@ -74,7 +74,7 @@ démontré	démontrer	VPP	_
 dans	dans	P	_
 l'	le	DET	_
 ouvrage	ouvrage	NC	_
-auquel	auquel	PROREL	_
+auquel	à_lequel	PROREL	_
 ce	ce	DET	_
 livret	livret	NC	_
 sert	servir	V	_
@@ -277,7 +277,7 @@ sels	sel	NC	_
 ,	,	PONCT	_
 douanes	douane	NC	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 ,	,	PONCT	_
 que	que	CS	_
 j'	je	CLS	_
@@ -334,7 +334,7 @@ espagne	Espagne	NP	_
 ,	,	PONCT	_
 Haïti	Haïti	NP	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 ;	;	PONCT	_
 car	car	CC	_
 ces	ce	DET	_
@@ -370,7 +370,7 @@ examen	examen	NC	_
 .	.	PONCT	_
 Le	le	DET	_
 côté	côté	NC	_
-brillant	brillant	ADJ	_
+brillant	briller	ADJ	_
 de	de	P	_
 cette	ce	DET	_
 découverte	découverte	NC	_
@@ -688,7 +688,7 @@ un	un	DET	_
 écrit	écrit	NC	_
 de	de	P	_
 *	*	PONCT	_
-M	M	NC	_
+M	monsieur	NC	_
 Moreau	Moreau	NP	_
 de	de	P	_
 Jonnès	Jonnès	NP	_
@@ -865,7 +865,7 @@ faire	faire	VINF	_
 à	à	P	_
 ne	ne	ADV	_
 pêcher	pêcher	VINF	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 en	en	P	_
 temps	temps	NC	_
 opportun	opportun	ADJ	_
@@ -1243,7 +1243,7 @@ ressort	ressort	NC	_
 qui	qui	PROREL	_
 les	il	CLO	_
 réalise	réaliser	V	_
-toutes	tous	PRO	_
+toutes	tout	PRO	_
 ,	,	PONCT	_
 le	le	DET	_
 régime	régime	NC	_
@@ -1593,7 +1593,7 @@ avec	avec	P	_
 raison	raison	NC	_
 par	par	P	_
 *	*	PONCT	_
-M	M	NC	_
+M	monsieur	NC	_
 Malthus	Malthus	NP	_
 .	.	PONCT	_
 On	on	CLS	_
@@ -1617,7 +1617,7 @@ aucune	aucun	PRO	_
 mais	mais	CC	_
 pourquoi	pourquoi	PROWH	_
 *	*	PONCT	_
-M	M	NC	_
+M	monsieur	NC	_
 Malthus	Malthus	NP	_
 se	se	CLO	_
 borne	borner	V	_
@@ -1636,7 +1636,7 @@ lieu	lieu	NC	_
 de	de	P	_
 les	il	CLO	_
 signaler	signaler	VINF	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 ?	?	PONCT	_
 L'	le	DET	_
 industrialisme	industrialisme	NC	_
@@ -1705,7 +1705,7 @@ clergé	clergé	NC	_
 ,	,	PONCT	_
 magistrature	magistrature	NC	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 ;	;	PONCT	_
 qu'	que	CS	_
 il	il	CLS	_
@@ -1780,7 +1780,7 @@ la	le	DET	_
 fabrique	fabrique	NC	_
 de	de	P	_
 *	*	PONCT	_
-M	M	NC	_
+M	monsieur	NC	_
 Saint	Saint	NP	_
 -	-	PONCT	_
 Simon	Simon	NP	_
@@ -1804,7 +1804,7 @@ on	on	CLS	_
 veut	vouloir	V	_
 les	il	CLO	_
 écouter	écouter	VINF	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 .	.	PONCT	_
 La	le	DET	_
 nouvelle	nouveau	ADJ	_
@@ -2313,7 +2313,7 @@ adhèreraient	adhérer	V	_
 à	à	P	_
 l'	le	DET	_
 industrie	industrie	NC	_
-morcelée	morcelé	ADJ	_
+morcelée	morceler	ADJ	_
 ,	,	PONCT	_
 qu'	que	PROREL	_
 on	on	CLS	_
@@ -2349,7 +2349,7 @@ chérokées	chérokées	NC	_
 ,	,	PONCT	_
 osages	osages	NC	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 ,	,	PONCT	_
 il	il	CLS	_
 faut	falloir	V	_
@@ -2889,7 +2889,7 @@ sophiste	sophiste	NC	_
 audacieux	audacieux	ADJ	_
 ,	,	PONCT	_
 *	*	X	_
-M	M	NC	_
+M	monsieur	NC	_
 Rob	Rob	NP	_
 Owen	Owen	NP	_
 ,	,	PONCT	_
@@ -3021,7 +3021,7 @@ si	si	ADV	_
 colossale	colossal	ADJ	_
 que	que	CS	_
 *	*	PONCT	_
-M	M	NC	_
+M	monsieur	NC	_
 Owen	Owen	NP	_
 .	.	PONCT	_
 Il	il	CLS	_
@@ -3110,7 +3110,7 @@ régénératrice	régénérateur	ADJ	_
 n'	ne	ADV	_
 a	avoir	V	_
 abouti	aboutir	VPP	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 à	à	P	_
 engraisser	engraisser	VINF	_
 quelques	quelque	DET	_
@@ -3181,7 +3181,7 @@ C'	ce	CLS	_
 est	être	V	_
 que	que	CS	_
 *	*	PONCT	_
-M	M	NC	_
+M	monsieur	NC	_
 Owen	Owen	NP	_
 avait	avoir	V	_
 l'	le	DET	_
@@ -3281,7 +3281,7 @@ aurait	avoir	V	_
 facilement	facilement	ADV	_
 confondu	confondre	VPP	_
 *	*	PONCT	_
-M	M	NC	_
+M	monsieur	NC	_
 Owen	Owen	NP	_
 ,	,	PONCT	_
 et	et	CC	_
@@ -3630,7 +3630,7 @@ l'	le	DET	_
 infaillibilité	infaillibilité	NC	_
 de	de	P	_
 *	*	PONCT	_
-M	M	NC	_
+M	monsieur	NC	_
 Owen	Owen	NP	_
 ;	;	PONCT	_
 sans	sans	P	_
@@ -3839,7 +3839,7 @@ Au	à_le	P+D	_
 résumé	résumé	NC	_
 ,	,	PONCT	_
 *	*	PONCT	_
-M	M	NC	_
+M	monsieur	NC	_
 Owen	Owen	NP	_
 était	être	V	_
 un	un	DET	_
@@ -4122,7 +4122,7 @@ p	p	NC	_
 faux	faux	ADJ	_
 ,	,	PONCT	_
 culture	culture	NC	_
-morcelée	morcelé	ADJ	_
+morcelée	morceler	ADJ	_
 et	et	CC	_
 répugnante	répugnant	ADJ	_
 .	.	PONCT	_
@@ -4198,7 +4198,7 @@ nota	nota	NC	_
 la	le	DET	_
 lettre	lettre	NC	_
 s	s	NC	_
-indique	indique	ADJ	_
+indique	indiquer	ADJ	_
 les	le	DET	_
 périodes	période	NC	_
 organisées	organiser	VPP	_
@@ -4209,7 +4209,7 @@ passionnées	passionné	ADJ	_
 la	le	DET	_
 lettre	lettre	NC	_
 c	c	NC	_
-indique	indique	ADJ	_
+indique	indiquer	ADJ	_
 les	le	DET	_
 rangs	rang	NC	_
 des	de_le	P+D	_
@@ -4465,7 +4465,7 @@ espèces	espèce	NC	_
 de	de	P	_
 serpens	serpent	NC	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 La	le	DET	_
 création	création	NC	_
 n	n	NC	_
@@ -4576,7 +4576,7 @@ prouvée	prouver	VPP	_
 par	par	P	_
 la	le	DET	_
 répugnance	répugnance	NC	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 elles	il	CLS	_
 inspirent	inspirer	V	_
 aux	à_le	P+D	_
@@ -4645,7 +4645,9 @@ bon	bon	ADJ	_
 et	et	CC	_
 a	avoir	V	_
 bâti	bâtir	VPP	_
-là-dessus	là-dessus	ADV	_
+là	là	ADV	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 des	un	DET	_
 systèmes	système	NC	_
 pour	pour	P	_
@@ -4655,7 +4657,8 @@ d'	de	P	_
 inventer	inventer	VINF	_
 mieux	mieux	ADV	_
 .	.	PONCT	_
-En_outre	en_outre	ADV	_
+En	en	P	_
+outre	outre	P	_
 ,	,	PONCT	_
 n'	ne	ADV	_
 ayant	avoir	VPR	_
@@ -5083,7 +5086,8 @@ sept	sept	NC	_
 huit	huit	DET	_
 ans	an	NC	_
 ,	,	PONCT	_
-tandis_que	tandis_que	CS	_
+tandis	tandis	ADV	_
+que	que	CS	_
 les	le	DET	_
 sociétés	société	NC	_
 à	à	P	_
@@ -5214,7 +5218,7 @@ civilisation	civilisation	NC	_
 qui	qui	PROREL	_
 n'	ne	ADV	_
 est	être	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 un	un	DET	_
 abîme	abîme	NC	_
 d'	de	P	_
@@ -5540,7 +5544,7 @@ ne	ne	ADV	_
 peut	pouvoir	V	_
 s'	se	CLO	_
 établir	établir	VINF	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 à	à	P	_
 l'	le	DET	_
 appui	appui	NC	_
@@ -5726,7 +5730,8 @@ le	le	DET	_
 mécanisme	mécanisme	NC	_
 civilisé	civilisé	ADJ	_
 ;	;	PONCT	_
-en_outre	en_outre	ADV	_
+en	en	P	_
+outre	outre	P	_
 ,	,	PONCT	_
 leurs	leur	DET	_
 fausses	faux	ADJ	_
@@ -5760,7 +5765,7 @@ l'	le	DET	_
 état	état	NC	_
 civilisé	civilisé	ADJ	_
 ou	ou	CC	_
-morcelé	morcelé	ADJ	_
+morcelé	morceler	ADJ	_
 et	et	CC	_
 l'	le	DET	_
 ordre	ordre	NC	_
@@ -5975,7 +5980,7 @@ sels	sel	NC	_
 ,	,	PONCT	_
 douanes	douane	NC	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 Ce	Ce	ADJ	_
 retard	retard	NC	_
 expose	exposer	V	_
@@ -6101,7 +6106,7 @@ politiques	politique	ADJ	_
 n'	ne	ADV	_
 est	être	V	_
 toujours	toujours	ADV	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 un	un	DET	_
 siècle	siècle	NC	_
 de	de	P	_
@@ -6259,7 +6264,7 @@ qu'	que	CS	_
 il	il	CLS	_
 n'	ne	ADV	_
 est	être	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 une	un	DET	_
 sangsue	sangsue	NC	_
 de	de	P	_
@@ -6340,7 +6345,7 @@ vérité	vérité	NC	_
 et	et	CC	_
 prônant	prôner	VPR	_
 les	le	DET	_
-trafiquans	trafiquans	NC	_
+trafiquans	trafiquant	NC	_
 dont	dont	PROREL	_
 chaque	chaque	DET	_
 parole	parole	NC	_
@@ -6373,7 +6378,7 @@ poursuites	poursuite	NC	_
 et	et	CC	_
 la	le	DET	_
 censure	censure	NC	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 on	on	CLS	_
 peut	pouvoir	V	_
 combattre	combattre	VINF	_
@@ -7052,7 +7057,7 @@ volaille	volaille	NC	_
 ,	,	PONCT	_
 poisson	poisson	NC	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 Nos	notre	DET	_
 riches	riche	ADJ	_
 bourgeois	bourgeois	NC	_
@@ -7086,7 +7091,7 @@ l'	le	DET	_
 utopie	utopie	NC	_
 de	de	P	_
 *	*	PONCT	_
-M	M	NC	_
+M	monsieur	NC	_
 Moreau	Moreau	NP	_
 de	de	P	_
 Jonnès	Jonnès	NP	_
@@ -7326,7 +7331,7 @@ petits	petit	ADJ	_
 enfans	enfant	NC	_
 n'	ne	ADV	_
 occupe	occuper	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 un	un	DET	_
 douzième	douzième	NC	_
 des	de_le	P+D	_
@@ -7561,7 +7566,7 @@ modéré	modéré	ADJ	_
 il	il	CLS	_
 ne	ne	ADV	_
 coûte	coûter	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 un	un	DET	_
 sou	sou	NC	_
 aux	à_le	P+D	_
@@ -7997,7 +8002,7 @@ utopie	utopie	NC	_
 ,	,	PONCT	_
 comme	comme	P	_
 *	*	X	_
-M	M	NC	_
+M	monsieur	NC	_
 Moreau	Moreau	NP	_
 de	de	P	_
 Jonnès	Jonnès	NP	_
@@ -8022,7 +8027,7 @@ vices	vice	NC	_
 de	de	P	_
 notre	notre	DET	_
 industrie	industrie	NC	_
-morcelée	morcelé	ADJ	_
+morcelée	morceler	ADJ	_
 et	et	CC	_
 subdivisée	subdiviser	VPP	_
 par	par	P	_
@@ -8164,7 +8169,7 @@ comme	comme	P	_
 le	le	DET	_
 fait	fait	NC	_
 *	*	X	_
-M	M	NC	_
+M	monsieur	NC	_
 Moreau	Moreau	NP	_
 :	:	PONCT	_
 c'	ce	CLS	_
@@ -8304,7 +8309,7 @@ de	de	P	_
 vie	vie	NC	_
 n'	ne	ADV	_
 est	être	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 un	un	DET	_
 ennui	ennui	NC	_
 perpétuel	perpétuel	ADJ	_
@@ -8318,7 +8323,7 @@ où	où	PROREL	_
 il	il	CLS	_
 ne	ne	ADV	_
 travaillerait	travailler	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 en	en	P	_
 séances	séance	NC	_
 courtes	court	ADJ	_
@@ -8973,7 +8978,8 @@ section	section	NC	_
 IV	IV	ADJ	_
 )	)	PONCT	_
 .	.	PONCT	_
-Quant_au	quant_à_le	P+D	_
+Quant	quant	ADV	_
+au	à_le	P+D	_
 paysan	paysan	NC	_
 actuel	actuel	ADJ	_
 ,	,	PONCT	_
@@ -9046,7 +9052,7 @@ exercer	exercer	VINF	_
 son	son	DET	_
 travail	travail	NC	_
 ingrat	ingrat	ADJ	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 avec	avec	P	_
 un	un	DET	_
 extrême	extrême	ADJ	_
@@ -9211,7 +9217,7 @@ nous	nous	PRO	_
 que	que	CS	_
 pour	pour	P	_
 les	le	DET	_
-abeilles	abeilles	NC	_
+abeilles	abeille	NC	_
 ,	,	PONCT	_
 guêpes	guêpe	NC	_
 ,	,	PONCT	_
@@ -9450,7 +9456,7 @@ indigence	indigence	NC	_
 ,	,	PONCT	_
 fourberie	fourberie	NC	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 ;	;	PONCT	_
 ils	il	CLS	_
 ne	ne	ADV	_
@@ -9534,7 +9540,7 @@ pratique	pratique	NC	_
 à	à	P	_
 des	un	DET	_
 corvées	corvée	NC	_
-effrayantes	effrayant	ADJ	_
+effrayantes	effrayer	ADJ	_
 pour	pour	P	_
 doubler	doubler	VINF	_
 son	son	DET	_
@@ -9545,7 +9551,7 @@ voyages	voyage	NC	_
 aux	à_le	P+D	_
 antipodes	antipode	NC	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 :	:	PONCT	_
 voici	voici	V	_
 un	un	DET	_
@@ -9573,7 +9579,7 @@ au	à_le	P+D	_
 plaisir	plaisir	NC	_
 .	.	PONCT	_
 Ces	ce	DET	_
-brillantes	brillant	ADJ	_
+brillantes	briller	ADJ	_
 perspectives	perspective	NC	_
 indisposent	indisposer	V	_
 contre	contre	P	_
@@ -9604,7 +9610,7 @@ degré	degré	NC	_
 simple	simple	ADJ	_
 et	et	CC	_
 peu	peu	ADV	_
-brillant	brillant	ADJ	_
+brillant	briller	ADJ	_
 ;	;	PONCT	_
 mais	mais	CC	_
 ,	,	PONCT	_
@@ -9904,7 +9910,7 @@ ai	avoir	V	_
 envisagé	envisager	VPP	_
 cette	ce	DET	_
 réunion	réunion	NC	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 en	en	P	_
 hypothèse	hypothèse	NC	_
 .	.	PONCT	_
@@ -10126,7 +10132,7 @@ chap.	chap.	NC	_
 ,	,	PONCT	_
 4	4	DET	_
 ,	,	PONCT	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 très	très	ADV	_
 courts	court	ADJ	_
 et	et	CC	_
@@ -10174,7 +10180,8 @@ Leur	leur	DET	_
 distribution	distribution	NC	_
 est	être	V	_
 ,	,	PONCT	_
-quant_au	quant_à_le	P+D	_
+Quant	quant	ADV	_
+au	à_le	P+D	_
 matériel	matériel	NC	_
 ,	,	PONCT	_
 semblable	semblable	ADJ	_
@@ -10191,7 +10198,8 @@ une	un	DET	_
 armée	armée	NC	_
 ;	;	PONCT	_
 et	et	CC	_
-quant_aux	quant_à_le	P+D	_
+quant	quant	ADV	_
+aux	à_le	P+D	_
 relations	relation	NC	_
 ,	,	PONCT	_
 semblable	semblable	ADJ	_
@@ -10304,7 +10312,9 @@ bénéfice	bénéfice	NC	_
 364	364	NC	_
 ;	;	PONCT	_
 aimer	aimer	VINF	_
-par-dessus	par-dessus	P	_
+par	par	S	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 tout	tout	ADJ	_
 les	le	DET	_
 richesses	richesse	NC	_
@@ -10869,7 +10879,8 @@ et	et	CC	_
 sans	sans	P	_
 passion	passion	NC	_
 ;	;	PONCT	_
-en_outre	en_outre	ADV	_
+en	en	P	_
+outre	outre	P	_
 elles	il	CLS	_
 ne	ne	ADV	_
 savent	savoir	V	_
@@ -11155,7 +11166,7 @@ champ	champ	NC	_
 puis	puis	CC	_
 un	un	DET	_
 déjeuner	déjeuner	NC	_
-brillant	brillant	ADJ	_
+brillant	briller	ADJ	_
 servi	servir	VPP	_
 dans	dans	P	_
 le	le	DET	_
@@ -11413,7 +11424,8 @@ de	de	P	_
 l'	le	DET	_
 ornière	ornière	NC	_
 .	.	PONCT	_
-En_outre	en_outre	ADV	_
+En	en	P	_
+outre	outre	P	_
 ,	,	PONCT	_
 ceux	celui	PRO	_
 qui	qui	PROREL	_
@@ -11479,7 +11491,7 @@ en	en	CLO	_
 défier	défier	VINF	_
 .	.	PONCT	_
 *	*	PONCT	_
-M	M	NC	_
+M	monsieur	NC	_
 Owen	Owen	NP	_
 ,	,	PONCT	_
 s'	si	CS	_
@@ -11587,7 +11599,7 @@ loyal	loyal	ADJ	_
 ;	;	PONCT	_
 mais	mais	CC	_
 *	*	X	_
-M	M	NC	_
+M	monsieur	NC	_
 Owen	Owen	NP	_
 était	être	V	_
 tout	tout	ADV	_
@@ -11738,7 +11750,7 @@ enfans	enfant	NC	_
 favoriser	favoriser	VINF	_
 tous	tout	ADJ	_
 leurs	leur	DET	_
-développemens	développemens	NC	_
+développemens	développement	NC	_
 corporels	corporel	ADJ	_
 et	et	CC	_
 intellectuels	intellectuel	ADJ	_
@@ -11844,7 +11856,7 @@ Les	le	DET	_
 études	étude	NC	_
 n'	ne	ADV	_
 arriveront	arriver	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 ensuite	ensuite	ADV	_
 ,	,	PONCT	_
 la	le	DET	_
@@ -11874,7 +11886,8 @@ besoins	besoin	NC	_
 du	de_le	P+D	_
 corps	corps	NC	_
 .	.	PONCT	_
-Quant_aux	quant_à_le	P+D	_
+quant	quant	ADV	_
+aux	à_le	P+D	_
 études	étude	NC	_
 ,	,	PONCT	_
 celles	celui	PRO	_
@@ -12356,7 +12369,7 @@ le	le	DET	_
 mensonge	mensonge	NC	_
 ruineux	ruineux	ADJ	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 Le	le	DET	_
 but	but	NC	_
 principal	principal	ADJ	_
@@ -12463,7 +12476,7 @@ la	le	DET	_
 plus	plus	ADV	_
 facile	facile	ADJ	_
 de	de	P	_
-toutes	tous	PRO	_
+toutes	tout	PRO	_
 et	et	CC	_
 la	le	DET	_
 plus	plus	ADV	_
@@ -13018,7 +13031,7 @@ aveugle	aveugle	NC	_
 ils	il	CLS	_
 ne	ne	ADV	_
 voient	voir	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 un	un	DET	_
 affront	affront	NC	_
 momentané	momentané	ADJ	_
@@ -13281,7 +13294,7 @@ connu	connaître	VPP	_
 ,	,	PONCT	_
 comme	comme	P	_
 le	le	DET	_
-télémaque	télémaque	NC	_
+télémaque	Télémaque	NC	_
 ou	ou	CC	_
 l'	le	DET	_
 homme	homme	NC	_
@@ -13301,7 +13314,7 @@ francs	franc	NC	_
 à	à	P	_
 ne	ne	ADV	_
 compter	compter	VINF	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 un	un	DET	_
 franc	franc	NC	_
 de	de	P	_
@@ -13340,7 +13353,7 @@ Cette	ce	DET	_
 industrie	industrie	NC	_
 ne	ne	ADV	_
 commencera	commencer	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 à	à	P	_
 la	le	DET	_
 fondation	fondation	NC	_
@@ -13588,7 +13601,7 @@ Ainsi	ainsi	ADV	_
 convenu	convenir	VPP	_
 ,	,	PONCT	_
 *	*	PONCT	_
-M	M	NC	_
+M	monsieur	NC	_
 Guizot	Guizot	NP	_
 a	avoir	V	_
 mis	mettre	VPP	_
@@ -13752,7 +13765,7 @@ du	de_le	P+D	_
 cerveau	cerveau	NC	_
 de	de	P	_
 *	*	PONCT	_
-M	M	NC	_
+M	monsieur	NC	_
 Guizot	Guizot	NP	_
 ,	,	PONCT	_
 et	et	CC	_
@@ -13821,7 +13834,7 @@ point	point	ADV	_
 écrites	écrire	VPP	_
 ?	?	PONCT	_
 *	*	PONCT	_
-M	M	NC	_
+M	monsieur	NC	_
 Guizot	Guizot	NP	_
 débute	débuter	V	_
 par	par	P	_
@@ -13954,7 +13967,9 @@ de	de	P	_
 deux	deux	DET	_
 q	q	NC	_
 .	.	PONCT	_
-Là-dessus	là-dessus	ADV	_
+là	là	ADV	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 ceux	celui	PRO	_
 qui	qui	PROREL	_
 ne	ne	ADV	_
@@ -14062,7 +14077,7 @@ la	le	DET	_
 tactique	tactique	NC	_
 de	de	P	_
 *	*	PONCT	_
-M	M	NC	_
+M	monsieur	NC	_
 Guizot	Guizot	NP	_
 ;	;	PONCT	_
 en	en	CLO	_
@@ -14167,14 +14182,14 @@ du	de_le	P+D	_
 langage	langage	NC	_
 de	de	P	_
 *	*	PONCT	_
-M	M	NC	_
+M	monsieur	NC	_
 Fourier	Fourier	NP	_
 (	(	PONCT	_
 dites	dire	V	_
 langage	langage	NC	_
 de	de	P	_
 *	*	PONCT	_
-M	M	NC	_
+M	monsieur	NC	_
 Guizot	Guizot	NP	_
 )	)	PONCT	_
 ne	ne	ADV	_
@@ -14267,7 +14282,8 @@ caractères	caractère	NC	_
 les	le	DET	_
 tempéramens	tempérament	NC	_
 ,	,	PONCT	_
-afin_de	afin_de	P	_
+afin	afin	ADV	_
+de	de	P	_
 pouvoir	pouvoir	VINF	_
 discerner	discerner	VINF	_
 et	et	CC	_
@@ -14344,7 +14360,7 @@ bambins	bambin	NC	_
 ;	;	PONCT	_
 si	si	CS	_
 *	*	PONCT	_
-M	M	NC	_
+M	monsieur	NC	_
 Guizot	Guizot	NP	_
 veut	vouloir	V	_
 d'	un	DET	_
@@ -14416,7 +14432,7 @@ des	de_le	P+D	_
 tempéramens	tempérament	NC	_
 ,	,	PONCT	_
 *	*	X	_
-M	M	NC	_
+M	monsieur	NC	_
 Guizot	Guizot	NP	_
 trouve	trouver	V	_
 cela	cela	PRO	_
@@ -14483,7 +14499,7 @@ années	année	NC	_
 à	à	P	_
 des	un	DET	_
 filles	fille	NC	_
-ignorantes	ignorant	ADJ	_
+ignorantes	ignorer	ADJ	_
 nommées	nommer	VPP	_
 bonnes	bon	ADJ	_
 .	.	PONCT	_
@@ -14548,7 +14564,7 @@ en	en	CLO	_
 déplaise	déplaire	V	_
 à	à	P	_
 *	*	PONCT	_
-M	M	NC	_
+M	monsieur	NC	_
 Guizot	Guizot	NP	_
 .	.	PONCT	_
 Quelques	quelque	DET	_
@@ -14597,7 +14613,7 @@ Ce	ce	CLS	_
 n'	ne	ADV	_
 est	être	V	_
 toujours	toujours	ADV	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 une	un	DET	_
 civilisation	civilisation	NC	_
 en	en	P	_
@@ -14718,7 +14734,7 @@ n'	ne	ADV	_
 est	être	V	_
 autre	autre	ADJ	_
 chose	chose	NC	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 une	un	DET	_
 sarcocèle	sarcocèle	NC	_
 politique	politique	ADJ	_
@@ -14743,7 +14759,7 @@ fléaux	fléau	NC	_
 et	et	CC	_
 dont	dont	PROREL	_
 le	le	DET	_
-cortége	cortége	NC	_
+cortége	cortège	NC	_
 s'	se	CLO	_
 accroît	accroître	V	_
 chaque	chaque	DET	_
@@ -14756,7 +14772,7 @@ préambule	préambule	NC	_
 emphatique	emphatique	ADJ	_
 de	de	P	_
 *	*	X	_
-M	M	NC	_
+M	monsieur	NC	_
 Guizot	Guizot	NP	_
 ;	;	PONCT	_
 il	il	CLS	_
@@ -14833,7 +14849,7 @@ pas	pas	ADV	_
 celle	celui	PRO	_
 de	de	P	_
 *	*	X	_
-M	M	NC	_
+M	monsieur	NC	_
 Guizot	Guizot	NP	_
 ?	?	PONCT	_
 Il	il	CLS	_
@@ -15040,7 +15056,7 @@ surtout	surtout	ADV	_
 ,	,	PONCT	_
 dit	dire	V	_
 *	*	PONCT	_
-M	M	NC	_
+M	monsieur	NC	_
 Guizot	Guizot	NP	_
 ,	,	PONCT	_
 paraissent	paraître	V	_
@@ -15129,7 +15145,7 @@ part	part	NC	_
 ,	,	PONCT	_
 ajoute	ajouter	V	_
 *	*	PONCT	_
-M	M	NC	_
+M	monsieur	NC	_
 Guizot	Guizot	NP	_
 ,	,	PONCT	_
 ils	il	CLS	_
@@ -15295,7 +15311,7 @@ Le	le	DET	_
 livre	livre	NC	_
 de	de	P	_
 *	*	PONCT	_
-M	M	NC	_
+M	monsieur	NC	_
 Fourier	Fourier	NP	_
 appartient	appartenir	V	_
 au	à_le	P+D	_
@@ -15372,7 +15388,7 @@ intactes	intact	ADJ	_
 ils	il	CLS	_
 ne	ne	ADV	_
 tendent	tendre	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 à	à	P	_
 harceler	harceler	VINF	_
 le	le	DET	_
@@ -15450,7 +15466,7 @@ J'	je	CLS	_
 admets	admettre	V	_
 avec	avec	P	_
 *	*	PONCT	_
-M	M	NC	_
+M	monsieur	NC	_
 Guizot	Guizot	NP	_
 que	que	CS	_
 tout	tout	ADJ	_
@@ -15482,7 +15498,7 @@ trouve	trouver	V	_
 ni	ni	CC	_
 chez	chez	P	_
 *	*	PONCT	_
-M	M	NC	_
+M	monsieur	NC	_
 Rob	Rob	NP	_
 Owen	Owen	NP	_
 ,	,	PONCT	_
@@ -15565,11 +15581,12 @@ avec	avec	P	_
 des	un	DET	_
 inventions	invention	NC	_
 .	.	PONCT	_
-Quant_au	quant_à_le	P+D	_
+Quant	quant	ADV	_
+au	à_le	P+D	_
 sens	sens	NC	_
 dont	dont	PROREL	_
 *	*	PONCT	_
-M	M	NC	_
+M	monsieur	NC	_
 Guizot	Guizot	NP	_
 me	je	CLO	_
 dit	dire	V	_
@@ -15663,7 +15680,7 @@ le	le	DET	_
 même	même	ADJ	_
 sujet	sujet	NC	_
 *	*	PONCT	_
-M	M	NC	_
+M	monsieur	NC	_
 Guizot	Guizot	NP	_
 se	se	CLO	_
 contredit	contredire	V	_
@@ -15881,7 +15898,7 @@ n'	ne	ADV	_
 y	y	CLO	_
 en	en	CLO	_
 a	avoir	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 une	un	DET	_
 :	:	PONCT	_
 c'	ce	CLS	_
@@ -15897,7 +15914,8 @@ dignes	digne	ADJ	_
 d'	de	P	_
 estime	estime	NC	_
 .	.	PONCT	_
-Quant_aux	quant_à_le	P+D	_
+quant	quant	ADV	_
+aux	à_le	P+D	_
 milliers	millier	NC	_
 de	de	P	_
 morales	morale	NC	_
@@ -15944,7 +15962,7 @@ vicieux	vicieux	ADJ	_
 et	et	CC	_
 souvent	souvent	ADV	_
 des	de_le	P+D	_
-piéges	piéges	NC	_
+piéges	piège	NC	_
 dangereux	dangereux	ADJ	_
 pour	pour	P	_
 les	le	DET	_
@@ -15958,7 +15976,7 @@ moralistes	moraliste	NC	_
 ,	,	PONCT	_
 qui	qui	PROREL	_
 sont	être	V	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 des	de_le	P+D	_
 aigrefins	aigrefin	NC	_
 ,	,	PONCT	_
@@ -16005,7 +16023,7 @@ annonce	annonce	NC	_
 faite	faire	VPP	_
 par	par	P	_
 *	*	X	_
-M	M	NC	_
+M	monsieur	NC	_
 Guizot	Guizot	NP	_
 .	.	PONCT	_
 Pour	pour	P	_
@@ -16099,7 +16117,7 @@ fallait	falloir	V	_
 bien	bien	ADV	_
 que	que	CS	_
 *	*	PONCT	_
-M	M	NC	_
+M	monsieur	NC	_
 Guizot	Guizot	NP	_
 finît	finir	V	_
 comme	comme	CS	_
@@ -16250,7 +16268,7 @@ la	le	DET	_
 niaiserie	niaiserie	NC	_
 que	que	CS	_
 *	*	PONCT	_
-M	M	NC	_
+M	monsieur	NC	_
 Guizot	Guizot	NP	_
 me	je	CLO	_
 prête	prêter	V	_
@@ -16276,7 +16294,7 @@ naïveté	naïveté	NC	_
 simulée	simuler	VPP	_
 ,	,	PONCT	_
 ces	ce	DET	_
-déplacemens	déplacemens	NC	_
+déplacemens	déplacement	NC	_
 de	de	P	_
 mots	mot	NC	_
 ,	,	PONCT	_
@@ -16306,7 +16324,7 @@ comme	comme	P	_
 le	le	DET	_
 fait	fait	NC	_
 *	*	X	_
-M	M	NC	_
+M	monsieur	NC	_
 Guizot	Guizot	NP	_
 ,	,	PONCT	_
 "	"	PONCT	_
@@ -16501,7 +16519,8 @@ de	de	P	_
 calomnies	calomnie	NC	_
 )	)	PONCT	_
 .	.	PONCT	_
-Quant_aux	quant_à_le	P+D	_
+quant	quant	ADV	_
+aux	à_le	P+D	_
 abonnés	abonné	NC	_
 de	de	P	_
 son	son	DET	_
@@ -17534,7 +17553,9 @@ qui	qui	PROREL	_
 serviraient	servir	V	_
 le	le	DET	_
 gouvernement	gouvernement	NC	_
-par-delà	par-delà	P	_
+par	par	S	_
+-	-	PONCT	_
+delà	delà	ADV	_
 ses	son	DET	_
 désirs	désir	NC	_
 ,	,	PONCT	_
@@ -17585,7 +17606,7 @@ serait	être	V	_
 une	un	DET	_
 affaire	affaire	NC	_
 plus	plus	ADV	_
-brillante	brillant	ADJ	_
+brillante	briller	ADJ	_
 encore	encore	ADV	_
 ;	;	PONCT	_
 elle	il	CLS	_
@@ -18145,7 +18166,7 @@ perfectibilité	perfectibilité	NC	_
 vol	vol	NC	_
 sublime	sublime	ADJ	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 ;	;	PONCT	_
 c'	ce	CLS	_
 est	être	V	_
@@ -18325,7 +18346,8 @@ leurs	leur	DET	_
 coryphées	coryphée	NC	_
 mêmes	même	ADV	_
 .	.	PONCT	_
-Quant_à	quant_à	P	_
+Quant	quant	ADV	_
+à	à	P	_
 présent	présent	NC	_
 ,	,	PONCT	_
 quelles	quel	DET	_
@@ -18931,7 +18953,7 @@ une	un	DET	_
 duperie	duperie	NC	_
 ,	,	PONCT	_
 un	un	DET	_
-piége	piége	NC	_
+piége	piège	NC	_
 pour	pour	P	_
 le	le	DET	_
 peuple	peuple	NC	_
@@ -19241,7 +19263,7 @@ Les	le	DET	_
 pages	page	NC	_
 où	où	PROREL	_
 *	*	PONCT	_
-M	M	NC	_
+M	monsieur	NC	_
 Guizot	Guizot	NP	_
 veut	vouloir	V	_
 s'	se	CLO	_
@@ -19294,7 +19316,7 @@ des	de_le	P+D	_
 pages	page	NC	_
 de	de	P	_
 *	*	PONCT	_
-M	M	NC	_
+M	monsieur	NC	_
 Guizot	Guizot	NP	_
 .	.	PONCT	_
 Les	le	DET	_
@@ -19619,7 +19641,7 @@ oisifs	oisif	NC	_
 ?	?	PONCT	_
 L'	le	DET	_
 auteur	auteur	NC	_
-indique	indique	ADJ	_
+indique	indiquer	ADJ	_
 dans	dans	P	_
 la	le	DET	_
 disposition	disposition	NC	_
@@ -19767,7 +19789,7 @@ que	que	PROREL	_
 donne	donner	V	_
 la	le	DET	_
 méthode	méthode	NC	_
-morcelée	morcelé	ADJ	_
+morcelée	morceler	ADJ	_
 qui	qui	PROREL	_
 règne	régner	V	_
 dans	dans	P	_
@@ -20063,7 +20085,7 @@ confiance	confiance	NC	_
 prématurée	prématuré	ADJ	_
 à	à	P	_
 *	*	PONCT	_
-M	M	NC	_
+M	monsieur	NC	_
 Owen	Owen	NP	_
 qui	qui	PROREL	_
 n'	ne	ADV	_
@@ -20097,7 +20119,7 @@ neuve	neuf	ADJ	_
 Ne	ne	ADV	_
 fût	être	V	_
 -elle	il	CLS	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 un	un	DET	_
 germe	germe	NC	_
 incomplet	incomplet	ADJ	_
@@ -20214,7 +20236,7 @@ littéraire	littéraire	ADJ	_
 ne	ne	ADV	_
 fût	être	V	_
 -ce	ce	CLS	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 un	un	DET	_
 juge	juge	NC	_
 de	de	P	_
@@ -20236,7 +20258,7 @@ l'	le	DET	_
 diffamatoire	diffamatoire	ADJ	_
 de	de	P	_
 *	*	PONCT	_
-M	M	NC	_
+M	monsieur	NC	_
 Guizot	Guizot	NP	_
 ,	,	PONCT	_
 faussaire	faussaire	NC	_
@@ -20354,7 +20376,8 @@ décupler	décupler	VINF	_
 le	le	DET	_
 débit	débit	NC	_
 ,	,	PONCT	_
-tandis_que	tandis_que	CS	_
+tandis	tandis	ADV	_
+que	que	CS	_
 l'	le	DET	_
 index	index	NC	_
 du	de_le	P+D	_
@@ -20381,7 +20404,7 @@ journaux	journal	NC	_
 les	le	DET	_
 chaires	chaire	NC	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 ;	;	PONCT	_
 il	il	CLS	_
 a	avoir	V	_
@@ -20782,7 +20805,7 @@ parcequ'	parcequ'	NC	_
 ils	il	CLS	_
 se	se	CLO	_
 verront	voir	V	_
-abandonnés	abandonnés	VPP	_
+abandonnés	abandonner	VPP	_
 par	par	P	_
 les	le	DET	_
 classes	classe	NC	_
@@ -21101,7 +21124,7 @@ prétendus	prétendu	ADJ	_
 équilibres	équilibre	NC	_
 ne	ne	ADV	_
 sont	être	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 une	un	DET	_
 guerre	guerre	NC	_
 intestine	intestin	ADJ	_
@@ -21620,7 +21643,7 @@ ne	ne	ADV	_
 s'	se	CLO	_
 emploient	employer	V	_
 guère	guère	ADV	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 à	à	P	_
 présider	présider	VINF	_
 et	et	CC	_
@@ -22107,7 +22130,7 @@ aisément	aisément	ADV	_
 leur	il	CLO	_
 allouer	allouer	VINF	_
 à	à	P	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 ,	,	PONCT	_
 les	le	DET	_
 1	1	NC	_
@@ -22567,7 +22590,8 @@ du	de_le	P+D	_
 bénéfice	bénéfice	NC	_
 admissible	admissible	ADJ	_
 ;	;	PONCT	_
-en_outre	en_outre	ADV	_
+en	en	P	_
+outre	outre	P	_
 ,	,	PONCT	_
 il	il	CLS	_
 empêche	empêcher	V	_
@@ -23379,7 +23403,8 @@ noir	noir	ADJ	_
 en	en	P	_
 haillons	haillon	NC	_
 ,	,	PONCT	_
-tandis_que	tandis_que	CS	_
+tandis	tandis	ADV	_
+que	que	CS	_
 ses	son	DET	_
 constitutions	constitution	NC	_
 libérales	libéral	ADJ	_
@@ -23580,7 +23605,8 @@ trois	trois	DET	_
 chaque	chaque	DET	_
 année	année	NC	_
 ,	,	PONCT	_
-afin_que	afin_que	CS	_
+afin	afin	ADV	_
+que	que	CS	_
 les	le	DET	_
 soixante	soixante	ADJ	_
 charges	charge	NC	_
@@ -24031,13 +24057,15 @@ France	France	NP	_
 qui	qui	PROREL	_
 ne	ne	ADV	_
 sait	savoir	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 imiter	imiter	VINF	_
 toutes	tout	ADJ	_
 les	le	DET	_
 sottises	sottise	NC	_
 d'	de	P	_
-outre-mer	outre-mer	NC	_
+outre	outre	ADV	_
+-	-	PONCT	_
+mer	mer	P	_
 .	.	PONCT	_
 Les	le	DET	_
 anglais	anglais	NC	_
@@ -24172,7 +24200,7 @@ France	France	NP	_
 .	.	PONCT	_
 Eh	eh	I	_
 !	!	PONCT	_
-Vous	Vous	V	_
+Vous	vous	V	_
 l'	il	CLO	_
 y	y	CLO	_
 engouffrez	engouffrer	V	_
@@ -24691,7 +24719,7 @@ ils	il	CLS	_
 disent	dire	V	_
 comme	comme	P	_
 *	*	PONCT	_
-M	M	NC	_
+M	monsieur	NC	_
 Guizot	Guizot	NP	_
 ,	,	PONCT	_
 que	que	CS	_
@@ -24888,7 +24916,7 @@ ces	ce	DET	_
 nouveaux	nouveau	ADJ	_
 systèmes	système	NC	_
 ,	,	PONCT	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 excellens	excellent	ADJ	_
 ;	;	PONCT	_
 car	car	CC	_
@@ -25130,7 +25158,7 @@ Les	le	DET	_
 pères	père	NC	_
 se	se	CLO	_
 plaignent	plaindre	V	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 d'	de	P	_
 inégalité	inégalité	NC	_
 et	et	CC	_
@@ -25354,7 +25382,7 @@ but	but	NC	_
 c'	ce	CLS	_
 est	être	V	_
 *	*	X	_
-M	M	NC	_
+M	monsieur	NC	_
 Amoros	Amoros	NP	_
 ,	,	PONCT	_
 qui	qui	PROREL	_
@@ -25482,7 +25510,8 @@ une	un	DET	_
 même	même	ADJ	_
 école	école	NC	_
 ,	,	PONCT	_
-afin_qu'	afin_que	CS	_
+afin	afin	ADV	_
+qu'	que	CS	_
 il	il	CLS	_
 ait	avoir	V	_
 l'	le	DET	_
@@ -25805,7 +25834,7 @@ une	un	DET	_
 phrase	phrase	NC	_
 de	de	P	_
 *	*	PONCT	_
-M	M	NC	_
+M	monsieur	NC	_
 Cousin	Cousin	NP	_
 ,	,	PONCT	_
 sur	sur	P	_
@@ -25848,14 +25877,14 @@ politique	politique	NC	_
 ténébreuse	ténébreux	ADJ	_
 de	de	P	_
 *	*	X	_
-M	M	NC	_
+M	monsieur	NC	_
 Guizot	Guizot	NP	_
 .	.	PONCT	_
 La	le	DET	_
 phrase	phrase	NC	_
 de	de	P	_
 *	*	PONCT	_
-M	M	NC	_
+M	monsieur	NC	_
 Cousin	Cousin	NP	_
 ,	,	PONCT	_
 tant	tant	ADV	_
@@ -25975,7 +26004,7 @@ civilisés	civilisé	NC	_
 qui	qui	PROREL	_
 ne	ne	ADV	_
 sont	être	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 hypocrisie	hypocrisie	NC	_
 et	et	CC	_
 cloaques	cloaque	NC	_
@@ -26107,7 +26136,7 @@ comprenant	comprendre	VPR	_
 à	à	P	_
 eux	il	PRO	_
 deux	deux	ADJ	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 un	un	DET	_
 huitième	huitième	NC	_
 de	de	P	_
@@ -26142,7 +26171,8 @@ pendant	pendant	P	_
 quelques	quelque	DET	_
 semaines	semaine	NC	_
 ,	,	PONCT	_
-afin_de	afin_de	P	_
+afin	afin	ADV	_
+de	de	P	_
 lui	il	CLO	_
 rendre	rendre	VINF	_
 pour	pour	P	_
@@ -26343,7 +26373,7 @@ matière	matière	NC	_
 et	et	CC	_
 géométrie	géométrie	NC	_
 ,	,	PONCT	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 autant	autant	ADV	_
 qu'	que	CS	_
 il	il	CLS	_
@@ -26373,7 +26403,7 @@ mathématique	mathématique	ADJ	_
 ?	?	PONCT	_
 Ni	ni	CC	_
 *	*	PONCT	_
-M	M	NC	_
+M	monsieur	NC	_
 Cousin	Cousin	NP	_
 ni	ni	CC	_
 d'	un	DET	_
@@ -26568,7 +26598,7 @@ industrieux	industrieux	ADJ	_
 .	.	PONCT	_
 Ainsi	ainsi	ADV	_
 *	*	PONCT	_
-M	M	NC	_
+M	monsieur	NC	_
 Cousin	Cousin	NP	_
 ,	,	PONCT	_
 dans	dans	P	_
@@ -26743,7 +26773,7 @@ la	le	DET	_
 phrase	phrase	NC	_
 de	de	P	_
 *	*	PONCT	_
-M	M	NC	_
+M	monsieur	NC	_
 Cousin	Cousin	NP	_
 ,	,	PONCT	_
 la	le	DET	_
@@ -26864,7 +26894,7 @@ des	un	DET	_
 astuces	astuce	NC	_
 et	et	CC	_
 des	de_le	P+D	_
-piéges	piéges	NC	_
+piéges	piège	NC	_
 ,	,	PONCT	_
 manoeuvrant	manœuvrer	VPR	_
 sourdement	sourdement	ADV	_
@@ -27004,11 +27034,12 @@ de	de	P	_
 la	le	DET	_
 justice	justice	NC	_
 .	.	PONCT	_
-Quant_au	quant_à_le	P+D	_
+Quant	quant	ADV	_
+au	à_le	P+D	_
 vrai	vrai	ADJ	_
 ,	,	PONCT	_
 *	*	PONCT	_
-M	M	NC	_
+M	monsieur	NC	_
 Cousin	Cousin	NP	_
 le	il	CLO	_
 trouvera	trouver	V	_
@@ -27108,7 +27139,8 @@ en	en	P	_
 plein	plein	ADJ	_
 midi	midi	NC	_
 .	.	PONCT	_
-Quant_au	quant_à_le	P+D	_
+Quant	quant	ADV	_
+au	à_le	P+D	_
 cinquième	cinquième	ADJ	_
 élément	élément	NC	_
 ,	,	PONCT	_
@@ -27155,7 +27187,9 @@ sociaux	social	ADJ	_
 elle	il	CLS	_
 le	il	CLO	_
 place	placer	V	_
-au-dessous	au-dessous	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessous	dessous	ADV	_
 de	de	P	_
 Solon	Solon	NP	_
 et	et	CC	_
@@ -27303,7 +27337,7 @@ dans	dans	P	_
 ses	son	DET	_
 quatre	quatre	ADJ	_
 branches	branche	NC	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 un	un	DET	_
 moulin	moulin	NC	_
 à	à	P	_
@@ -27342,7 +27376,7 @@ de	de	P	_
 Malte	Malte	NP	_
 ,	,	PONCT	_
 mon	mon	DET	_
-siége	siége	NC	_
+siége	siège	NC	_
 est	être	V	_
 fait	faire	VPP	_
 ,	,	PONCT	_
@@ -27469,7 +27503,7 @@ agneau	agneau	NC	_
 ,	,	PONCT	_
 congédiant	congédier	VPR	_
 son	son	DET	_
-cortége	cortége	NC	_
+cortége	cortège	NC	_
 d'	de	P	_
 associations	association	NC	_
 provinciales	provincial	ADJ	_
@@ -27697,7 +27731,9 @@ de	de	P	_
 nouveaux	nouveau	ADJ	_
 impôts	impôt	NC	_
 ,	,	PONCT	_
-au-delà	au-delà	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+delà	delà	ADV	_
 du	de_le	P+D	_
 nécessaire	nécessaire	NC	_
 ;	;	PONCT	_
@@ -27940,7 +27976,7 @@ quinze_millions	quinze_millions	DET	_
 selon	selon	P	_
 le	le	DET	_
 degré	degré	NC	_
-auquel	auquel	PROREL	_
+auquel	à_lequel	PROREL	_
 il	il	CLS	_
 voudrait	vouloir	V	_
 élever	élever	VINF	_
@@ -28064,7 +28100,8 @@ et	et	CC	_
 en	en	P	_
 Portugal	Portugal	NP	_
 .	.	PONCT	_
-Quant_à	quant_à	P	_
+Quant	quant	ADV	_
+à	à	P	_
 présent	présent	NC	_
 ,	,	PONCT	_
 dépourvus	dépourvoir	VPP	_
@@ -28099,7 +28136,7 @@ rétrogradation	rétrogradation	NC	_
 ;	;	PONCT	_
 ils	il	CLS	_
 prétendent	prétendre	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 il	il	CLS	_
 y	y	CLO	_
 a	avoir	V	_
@@ -28273,7 +28310,7 @@ deux_millions	deux_millions	DET	_
 ,	,	PONCT	_
 comme	comme	P	_
 *	*	PONCT	_
-M	M	NC	_
+M	monsieur	NC	_
 Beaumont	Beaumont	NP	_
 ,	,	PONCT	_
 pour	pour	P	_
@@ -28393,7 +28430,8 @@ la	le	DET	_
 hiérarchie	hiérarchie	NC	_
 sphérique	sphérique	ADJ	_
 .	.	PONCT	_
-Quant_aux	quant_à_le	P+D	_
+quant	quant	ADV	_
+aux	à_le	P+D	_
 menus	menu	ADJ	_
 actionnaires	actionnaire	NC	_
 ,	,	PONCT	_
@@ -28603,7 +28641,7 @@ une	un	DET	_
 harmonie	harmonie	NC	_
 bien	bien	ADV	_
 autrement	autrement	ADV	_
-brillante	brillant	ADJ	_
+brillante	briller	ADJ	_
 ,	,	PONCT	_
 le	le	DET	_
 mécanisme	mécanisme	NC	_
@@ -28792,7 +28830,8 @@ titre	titre	NC	_
 de	de	P	_
 faveur	faveur	NC	_
 ,	,	PONCT	_
-tandis_que	tandis_que	CS	_
+tandis	tandis	ADV	_
+que	que	CS	_
 nos	notre	DET	_
 enfans	enfant	NC	_
 moralisés	moraliser	VPP	_
@@ -28803,7 +28842,7 @@ pénitenciés	pénitenciés	NP	_
 ,	,	PONCT	_
 ne	ne	ADV	_
 tournent	tourner	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 au	à_le	P+D	_
 mal	mal	NC	_
 ,	,	PONCT	_
@@ -29545,7 +29584,8 @@ abordable	abordable	ADJ	_
 que	que	CS	_
 Paris	Paris	NP	_
 :	:	PONCT	_
-quant_à	quant_à	P	_
+quant	quant	ADV	_
+à	à	P	_
 la	le	DET	_
 passe	passe	NC	_
 du	de_le	P+D	_
@@ -29811,7 +29851,7 @@ su	savoir	VPP	_
 envisager	envisager	VINF	_
 l'	le	DET	_
 attraction	attraction	NC	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 en	en	P	_
 mode	mode	NC	_
 simple	simple	ADJ	_
@@ -30097,7 +30137,7 @@ l'	le	DET	_
 attraction	attraction	NC	_
 industrielle	industriel	ADJ	_
 serait	être	V	_
-brillant	brillant	ADJ	_
+brillant	briller	ADJ	_
 et	et	CC	_
 profitable	profitable	ADJ	_
 .	.	PONCT	_
@@ -31290,7 +31330,7 @@ fut	être	V	_
 prise	prendre	VPP	_
 à	à	P	_
 ce	ce	DET	_
-piége	piége	NC	_
+piége	piège	NC	_
 où	où	PROREL	_
 elle	il	CLS	_
 ne	ne	ADV	_
@@ -31546,7 +31586,7 @@ seule	seul	ADJ	_
 page	page	NC	_
 de	de	P	_
 *	*	PONCT	_
-M	M	NC	_
+M	monsieur	NC	_
 Guizot	Guizot	NP	_
 .	.	PONCT	_
 On	on	CLS	_
@@ -31696,7 +31736,7 @@ sciences	science	NC	_
 philosophiques	philosophique	ADJ	_
 sont	être	V	_
 profondément	profondément	ADV	_
-ignorantes	ignorant	ADJ	_
+ignorantes	ignorer	ADJ	_
 sur	sur	P	_
 le	le	DET	_
 mécanisme	mécanisme	NC	_
@@ -31821,7 +31861,7 @@ aux	à_le	P+D	_
 travaux	travail	NC	_
 publics	public	ADJ	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 Que	que	PROWH	_
 sert	servir	V	_
 de	de	P	_
@@ -31836,7 +31876,8 @@ les	le	DET	_
 vices	vice	NC	_
 décrits	décrire	VPP	_
 ?	?	PONCT	_
-Quant_aux	quant_à_le	P+D	_
+quant	quant	ADV	_
+aux	à_le	P+D	_
 sciences	science	NC	_
 exactes	exact	ADJ	_
 ,	,	PONCT	_
@@ -32100,7 +32141,7 @@ emploi	emploi	NC	_
 des	de_le	P+D	_
 instincts	instinct	NC	_
 ,	,	PONCT	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 étouffés	étouffer	VPP	_
 ou	ou	CC	_
 faussés	fausser	VPP	_
@@ -32370,7 +32411,7 @@ marchands	marchand	ADJ	_
 ,	,	PONCT	_
 philosophes	philosophe	ADJ	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 ,	,	PONCT	_
 je	je	CLS	_
 ne	ne	ADV	_

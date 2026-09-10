@@ -710,7 +710,7 @@ basalte	basalte	NC	_
 ,	,	PONCT	_
 calcaire	calcaire	ADJ	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 ;	;	PONCT	_
 le	le	DET	_
 bois	bois	NC	_
@@ -975,7 +975,7 @@ juxtaposés	juxtaposer	VPP	_
 ,	,	PONCT	_
 n'	ne	ADV	_
 avaient	avoir	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 un	un	DET	_
 petit	petit	ADJ	_
 nombre	nombre	NC	_
@@ -1597,7 +1597,7 @@ et	et	CC	_
 les	le	DET	_
 pyramides	pyramide	NC	_
 d'	de	P	_
-égypte	égypte	NC	_
+égypte	Égypte	NC	_
 elles	il	PRO	_
 -mêmes	même	ADJ	_
 sont	être	V	_
@@ -1936,7 +1936,7 @@ qui	qui	PROREL	_
 occupaient	occuper	V	_
 la	le	DET	_
 haute	haut	ADJ	_
-égypte	égypte	NC	_
+égypte	Égypte	NC	_
 et	et	CC	_
 qui	qui	PROREL	_
 sont	être	V	_
@@ -2046,7 +2046,7 @@ explique	expliquer	V	_
 comment	comment	PROWH	_
 ,	,	PONCT	_
 en	en	P	_
-égypte	égypte	NC	_
+égypte	Égypte	NC	_
 ,	,	PONCT	_
 des	un	DET	_
 monuments	monument	NC	_
@@ -2319,7 +2319,8 @@ sous	sous	P	_
 leurs	leur	DET	_
 mains	main	NC	_
 ,	,	PONCT	_
-tandis_qu'	tandis_que	CS	_
+tandis	tandis	ADV	_
+qu'	que	CS	_
 elle	il	CLS	_
 n'	ne	ADV	_
 était	être	V	_
@@ -2329,7 +2330,7 @@ tout	tout	ADJ	_
 l'	le	DET	_
 orient	orient	NC	_
 ,	,	PONCT	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 un	un	DET	_
 métier	métier	NC	_
 plus	plus	ADV	_
@@ -2349,7 +2350,7 @@ ne	ne	ADV	_
 cesserons	cesser	V	_
 de	de	P	_
 répéter	répéter	VINF	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 il	il	CLS	_
 n'	ne	ADV	_
 y	y	CLO	_
@@ -2629,7 +2630,8 @@ une	un	DET	_
 fausse	faux	ADJ	_
 équerre	équerre	NC	_
 ,	,	PONCT	_
-afin_d'	afin_de	P	_
+afin	afin	ADV	_
+d'	de	P	_
 éviter	éviter	VINF	_
 autant	autant	ADV	_
 que	que	CS	_
@@ -2796,7 +2798,7 @@ toujours	toujours	ADV	_
 à	à	P	_
 la	le	DET	_
 pose	pose	NC	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 un	un	DET	_
 angle	angle	NC	_
 à	à	P	_
@@ -2837,7 +2839,7 @@ sauterelle	sauterelle	NC	_
 ainsi	ainsi	ADV	_
 que	que	CS	_
 l'	le	DET	_
-indique	indique	NC	_
+indique	indiquer	NC	_
 le	le	DET	_
 détail	détail	NC	_
 D.	D.	NP	_
@@ -2887,7 +2889,7 @@ supérieurs	supérieur	ADJ	_
 ainsi	ainsi	ADV	_
 que	que	CS	_
 l'	le	DET	_
-indique	indique	NC	_
+indique	indiquer	NC	_
 le	le	DET	_
 détail	détail	NC	_
 E.	E.	NP	_
@@ -3199,7 +3201,7 @@ naturel	naturel	ADJ	_
 un	un	DET	_
 charme	charme	NC	_
 puissant	puissant	ADJ	_
-auquel	auquel	PROREL	_
+auquel	à_lequel	PROREL	_
 les	le	DET	_
 races	race	NC	_
 occidentales	occidental	ADJ	_
@@ -3986,7 +3988,8 @@ affaisser	affaisser	VINF	_
 quelque	quelque	DET	_
 peu	peu	NC	_
 ,	,	PONCT	_
-tandis_que	tandis_que	CS	_
+tandis	tandis	ADV	_
+que	que	CS	_
 la	le	DET	_
 colonne	colonne	NC	_
 conservait	conserver	V	_
@@ -4011,7 +4014,7 @@ constructeur	constructeur	NC	_
 Faisant	faire	VPR	_
 autour	autour	ADV	_
 du	de_le	P+D	_
-colisée	colisée	NC	_
+colisée	Colisée	NC	_
 une	un	DET	_
 croûte	croûte	NC	_
 en	en	P	_
@@ -4229,7 +4232,8 @@ blocages	blocage	NC	_
 différents	différent	DET	_
 niveaux	niveau	NC	_
 ,	,	PONCT	_
-afin_d'	afin_de	P	_
+afin	afin	ADV	_
+d'	de	P	_
 éviter	éviter	VINF	_
 les	le	DET	_
 tassements	tassement	NC	_
@@ -4264,7 +4268,7 @@ lorsqu'	lorsque	CS	_
 ils	il	CLS	_
 n'	ne	ADV	_
 avaient	avoir	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 à	à	P	_
 soutenir	soutenir	VINF	_
 des	un	DET	_
@@ -4362,7 +4366,7 @@ constructeurs	constructeur	NC	_
 elles	il	CLS	_
 ne	ne	ADV	_
 formaient	former	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 un	un	DET	_
 seul	seul	ADJ	_
 bloc	bloc	NC	_
@@ -4504,7 +4508,9 @@ gros	gros	ADJ	_
 béton	béton	NC	_
 ,	,	PONCT	_
 laissant	laisser	VPR	_
-au-dessus	au-dessus	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 de	de	P	_
 chaque	chaque	DET	_
 arase	arase	NC	_
@@ -5106,7 +5112,7 @@ siècle	siècle	NC	_
 à	à	P	_
 cette	ce	DET	_
 époque	époque	NC	_
-brillante	brillant	ADJ	_
+brillante	briller	ADJ	_
 des	de_le	P+D	_
 arts	art	NC	_
 ,	,	PONCT	_
@@ -5310,7 +5316,7 @@ ne	ne	ADV	_
 sont	être	V	_
 plus	plus	ADV	_
 des	un	DET	_
-abbés	abbés	NC	_
+abbés	abbé	NC	_
 ou	ou	CC	_
 des	un	DET	_
 seigneurs	seigneur	NC	_
@@ -6099,7 +6105,8 @@ de	de	P	_
 leur	leur	DET	_
 raisonnement	raisonnement	NC	_
 ,	,	PONCT	_
-tandis_que	tandis_que	CS	_
+tandis	tandis	ADV	_
+que	que	CS	_
 nous	nous	CLS	_
 n'	ne	ADV	_
 osons	oser	V	_
@@ -6478,7 +6485,7 @@ point	point	NC	_
 connu	connaître	VPP	_
 pour	pour	P	_
 entrer	entrer	VINF	_
-résolûment	résolûment	NC	_
+résolûment	résolument	NC	_
 dans	dans	P	_
 la	le	DET	_
 donnée	donnée	NC	_
@@ -6958,7 +6965,7 @@ qu'	que	CS	_
 elles	il	CLS	_
 n'	ne	ADV	_
 étaient	être	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 une	un	DET	_
 imitation	imitation	NC	_
 assez	assez	ADV	_
@@ -7143,7 +7150,7 @@ durs	dur	ADJ	_
 ,	,	PONCT	_
 sont	être	V	_
 presque	presque	ADV	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 décomposés	décomposer	VPP	_
 par	par	P	_
 le	le	DET	_
@@ -7980,7 +7987,8 @@ une	un	DET	_
 parfaite	parfait	ADJ	_
 stabilité	stabilité	NC	_
 ,	,	PONCT	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 nos	notre	DET	_
 monuments	monument	NC	_
 sont	être	V	_
@@ -8161,7 +8169,8 @@ tassés	tasser	VPP	_
 sans	sans	P	_
 vides	vide	NC	_
 ;	;	PONCT	_
-tandis_qu'	tandis_que	CS	_
+tandis	tandis	ADV	_
+qu'	que	CS	_
 il	il	CLS	_
 arrive	arriver	V	_
 parfois	parfois	ADV	_
@@ -8916,7 +8925,7 @@ arrêt	arrêt	NC	_
 ainsi	ainsi	ADV	_
 que	que	CS	_
 l'	le	DET	_
-indique	indique	NC	_
+indique	indiquer	NC	_
 en	en	P	_
 coupe	coupe	NC	_
 la	le	DET	_
@@ -9144,7 +9153,7 @@ mouillé	mouiller	VPP	_
 ainsi	ainsi	ADV	_
 que	que	CS	_
 l'	le	DET	_
-indique	indique	NC	_
+indique	indiquer	NC	_
 la	le	DET	_
 coupe	coupe	NC	_
 ,	,	PONCT	_
@@ -9305,7 +9314,7 @@ fond	fond	NC	_
 du	de_le	P+D	_
 remblai	remblai	NC	_
 B.	B.	NP	_
-Vous	Vous	NP	_
+Vous	vous	NP	_
 obtenez	obtenir	V	_
 ainsi	ainsi	ADV	_
 une	un	DET	_
@@ -9783,7 +9792,9 @@ sera	être	V	_
 posé	poser	VPP	_
 un	un	DET	_
 peu	peu	NC	_
-au-dessous	au-dessous	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessous	dessous	ADV	_
 de	de	P	_
 la	le	DET	_
 première	premier	ADJ	_
@@ -9820,7 +9831,8 @@ C'	ce	CLS	_
 est	être	V	_
 là	là	ADV	_
 ,	,	PONCT	_
-en_outre	en_outre	ADV	_
+en	en	P	_
+outre	outre	P	_
 ,	,	PONCT	_
 un	un	DET	_
 excellent	excellent	ADJ	_
@@ -9846,7 +9858,7 @@ assises	assise	NC	_
 de	de	P	_
 soubassement	soubassement	NC	_
 K.	K.	NP	_
-Si	Si	NP	_
+Si	si	NP	_
 ,	,	PONCT	_
 par	par	P	_
 une	un	DET	_
@@ -9886,7 +9898,7 @@ aval	aval	NC	_
 ainsi	ainsi	ADV	_
 que	que	CS	_
 l'	le	DET	_
-indique	indique	NC	_
+indique	indiquer	NC	_
 la	le	DET	_
 coupe	coupe	NC	_
 P	P	NC	_
@@ -9932,7 +9944,9 @@ en	en	P	_
 St	St	NC	_
 ,	,	PONCT	_
 laisseront	laisser	V	_
-au-dessus	au-dessus	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 d'	de	P	_
 elles	il	PRO	_
 une	un	DET	_
@@ -9964,7 +9978,7 @@ glissement	glissement	NC	_
 du	de_le	P+D	_
 sous-sol	sous-sol	NC	_
 V.	V.	NP	_
-Si	Si	NP	_
+Si	si	NP	_
 le	le	DET	_
 sol	sol	NC	_
 est	être	V	_
@@ -10032,7 +10046,7 @@ champ	champ	NC	_
 ainsi	ainsi	ADV	_
 que	que	CS	_
 l'	le	DET	_
-indique	indique	NC	_
+indique	indiquer	NC	_
 le	le	DET	_
 détail	détail	NC	_
 M	M	NC	_
@@ -10469,7 +10483,9 @@ l'	le	DET	_
 air	air	NC	_
 libre	libre	ADJ	_
 ,	,	PONCT	_
-au-dessus	au-dessus	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 des	de_le	P+D	_
 fondations	fondation	NC	_
 ,	,	PONCT	_
@@ -10528,7 +10544,7 @@ Champagne	Champagne	NP	_
 Il	il	CLS	_
 n'	ne	ADV	_
 est	être	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 un	un	DET	_
 moyen	moyen	NC	_
 d'	de	P	_
@@ -10693,7 +10709,9 @@ la	le	DET	_
 sécheresse	sécheresse	NC	_
 des	de_le	P+D	_
 murs	mur	NC	_
-au-dessus	au-dessus	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 du	de_le	P+D	_
 sol	sol	NC	_
 ,	,	PONCT	_
@@ -10794,7 +10812,8 @@ pierres	pierre	NC	_
 dures	dur	ADJ	_
 :	:	PONCT	_
 1	1	X	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 celles	celui	PRO	_
 -ci	ci	ADV	_
 résistent	résister	V	_
@@ -10811,7 +10830,8 @@ pierres	pierre	NC	_
 tendres	tendre	ADJ	_
 ;	;	PONCT	_
 2	2	X	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 elles	il	CLS	_
 sont	être	V	_
 moins	moins	ADV	_
@@ -10824,7 +10844,9 @@ se	se	CLO	_
 salpêtrer	salpêtrer	VINF	_
 .	.	PONCT	_
 Mais	mais	CC	_
-au-dessus	au-dessus	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 du	de_le	P+D	_
 soubassement	soubassement	NC	_
 ,	,	PONCT	_
@@ -11075,7 +11097,7 @@ dans	dans	P	_
 la	le	DET	_
 pierre	pierre	NC	_
 tendre	tendre	ADJ	_
-sous-posée	sous-posée	ADJ	_
+sous-posée	sous-posé	ADJ	_
 ,	,	PONCT	_
 qui	qui	PROREL	_
 ,	,	PONCT	_
@@ -11646,7 +11668,7 @@ distance	distance	NC	_
 ainsi	ainsi	ADV	_
 que	que	CS	_
 l'	le	DET	_
-indique	indique	NC	_
+indique	indiquer	NC	_
 la	le	DET	_
 figure	figure	NC	_
 10	10	ADJ	_
@@ -12185,7 +12207,8 @@ fer	fer	NC	_
 ou	ou	CC	_
 bronze	bronze	NC	_
 ,	,	PONCT	_
-afin_d'	afin_de	P	_
+afin	afin	ADV	_
+d'	de	P	_
 empêcher	empêcher	VINF	_
 leur	leur	DET	_
 glissement	glissement	NC	_
@@ -12260,7 +12283,8 @@ masse	masse	NC	_
 et	et	CC	_
 au	à_le	P+D	_
 poinçon	poinçon	NC	_
-afin_d'	afin_de	P	_
+afin	afin	ADV	_
+d'	de	P	_
 en	en	CLO	_
 arracher	arracher	VINF	_
 le	le	DET	_
@@ -12479,7 +12503,9 @@ frises	frise	NC	_
 ou	ou	CC	_
 des	un	DET	_
 corniches	corniche	NC	_
-au-dessus	au-dessus	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 des	de_le	P+D	_
 portiques	portique	NC	_
 .	.	PONCT	_
@@ -12624,7 +12650,9 @@ mortier	mortier	NC	_
 ,	,	PONCT	_
 c'est-à-dire	c'est-à-dire	CC	_
 si	si	ADV	_
-au-dessus	au-dessus	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 de	de	P	_
 ces	ce	DET	_
 crampons	crampon	NC	_
@@ -12716,7 +12744,8 @@ de	de	P	_
 l'	le	DET	_
 oxydation	oxydation	NC	_
 ;	;	PONCT	_
-tandis_que	tandis_que	CS	_
+tandis	tandis	ADV	_
+que	que	CS	_
 dans	dans	P	_
 nos	notre	DET	_
 édifices	édifice	NC	_
@@ -13172,7 +13201,8 @@ nos	notre	DET	_
 constructions	construction	NC	_
 privées	privé	ADJ	_
 ,	,	PONCT	_
-tandis_que	tandis_que	CS	_
+tandis	tandis	ADV	_
+que	que	CS	_
 nous	nous	CLS	_
 voyons	voir	V	_
 ,	,	PONCT	_
@@ -13556,7 +13586,7 @@ monuments	monument	NC	_
 ne	ne	ADV	_
 doit	devoir	V	_
 aboutir	aboutir	VINF	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 à	à	P	_
 une	un	DET	_
 contrefaçon	contrefaçon	NC	_
@@ -13980,7 +14010,8 @@ construction	construction	NC	_
 en	en	P	_
 moellon	moellon	NC	_
 ,	,	PONCT	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 on	on	CLS	_
 avait	avoir	V	_
 reconnu	reconnaître	VPP	_
@@ -14557,7 +14588,7 @@ plus	plus	ADV	_
 variées	varié	ADJ	_
 et	et	CC	_
 les	le	DET	_
-meilleures	meilleure	NC	_
+meilleures	meilleur	NC	_
 ,	,	PONCT	_
 qui	qui	PROREL	_
 mieux	mieux	ADV	_
@@ -14983,7 +15014,8 @@ jeu	jeu	NC	_
 de	de	P	_
 patience	patience	NC	_
 ,	,	PONCT	_
-afin_qu'	afin_que	CS	_
+afin	afin	ADV	_
+qu'	que	CS	_
 il	il	CLS	_
 ne	ne	ADV	_
 soit	être	V	_
@@ -15245,7 +15277,8 @@ dans	dans	P	_
 l'	le	DET	_
 ensemble	ensemble	NC	_
 ,	,	PONCT	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 il	il	CLS	_
 y	y	CLO	_
 a	avoir	V	_
@@ -15285,7 +15318,8 @@ organique	organique	ADJ	_
 est	être	V	_
 un	un	PRO	_
 ,	,	PONCT	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 ses	son	DET	_
 différents	différent	ADJ	_
 organes	organe	NC	_
@@ -15600,7 +15634,7 @@ voûtes	voûte	NC	_
 ,	,	PONCT	_
 ne	ne	ADV	_
 sont	être	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 un	un	DET	_
 aveu	aveu	NC	_
 d'	de	P	_
@@ -15806,7 +15840,7 @@ pleins	plein	NC	_
 sont	être	V	_
 nécessaires	nécessaire	ADJ	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 Nous	nous	CLS	_
 a	avoir	V	_
 -t-on	on	CLS	_
@@ -15872,7 +15906,7 @@ mal	mal	NC	_
 n'	ne	ADV	_
 a	avoir	V	_
 fait	faire	VPP	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 empirer	empirer	VINF	_
 ,	,	PONCT	_
 il	il	CLS	_
@@ -16000,7 +16034,7 @@ l'	le	DET	_
 objet	objet	NC	_
 ,	,	PONCT	_
 ...	…	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 "	"	PONCT	_
 après	après	P	_
 avoir	avoir	VINF	_
@@ -16054,7 +16088,7 @@ fausse	faux	ADJ	_
 architecture	architecture	NC	_
 ;	;	PONCT	_
 ...	…	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 "	"	PONCT	_
 en	en	P	_
 préférant	préférer	VPR	_
@@ -16423,12 +16457,14 @@ des	de_le	P+D	_
 grands	grand	ADJ	_
 arcs-doubleaux	arcs-doubleaux	NC	_
 N.	N.	NP	_
-Nous	Nous	NP	_
+Nous	nous	NP	_
 pourrons	pouvoir	V	_
 évider	évider	VINF	_
 la	le	DET	_
 jouée	jouée	NC	_
-au-dessus	au-dessus	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 de	de	P	_
 ces	ce	DET	_
 linteaux	linteau	NC	_
@@ -16454,7 +16490,7 @@ les	le	DET	_
 voûtains	voûtain	NC	_
 annulaires	annulaire	ADJ	_
 Q.	Q.	NP	_
-Pour	Pour	NP	_
+Pour	pour	NP	_
 fermer	fermer	VINF	_
 la	le	DET	_
 salle	salle	NC	_
@@ -16472,7 +16508,9 @@ percé	percer	VPP	_
 de	de	P	_
 larges	large	ADJ	_
 baies	baie	NC	_
-au-dessus	au-dessus	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 de	de	P	_
 la	le	DET	_
 galerie	galerie	NC	_
@@ -16800,7 +16838,8 @@ d'	de	P	_
 un	un	DET	_
 pointal	pointal	NC	_
 ,	,	PONCT	_
-afin_de	afin_de	P	_
+afin	afin	ADV	_
+de	de	P	_
 soulager	soulager	VINF	_
 leur	leur	DET	_
 milieu	milieu	NC	_
@@ -16860,7 +16899,7 @@ ce	ce	CLS	_
 ne	ne	ADV	_
 peut	pouvoir	V	_
 être	être	VINF	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 en	en	P	_
 aiguisant	aiguiser	VPR	_
 l'	le	DET	_
@@ -16926,7 +16965,9 @@ ne	ne	ADV	_
 pas	pas	ADV	_
 nous	nous	CLO	_
 tenir	tenir	VINF	_
-au-dessous	au-dessous	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessous	dessous	ADV	_
 de	de	P	_
 ce	ce	PRO	_
 qu'	que	PROREL	_
@@ -17235,7 +17276,7 @@ Même	même	ADV	_
 en	en	P	_
 ne	ne	ADV	_
 construisant	construire	VPR	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 en	en	P	_
 pierre	pierre	NC	_
 de	de	P	_
@@ -18277,7 +18318,7 @@ n'	ne	ADV	_
 aurons	avoir	V	_
 de	un	DET	_
 pierre	pierre	NC	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 au	à_le	P+D	_
 droit	droit	NC	_
 des	de_le	P+D	_
@@ -18805,7 +18846,7 @@ n'	ne	ADV	_
 est	être	V	_
 en	en	P	_
 contact	contact	NC	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 avec	avec	P	_
 des	un	DET	_
 pierres	pierre	NC	_
@@ -18852,7 +18893,8 @@ par	par	P	_
 la	le	DET	_
 rouille	rouille	NC	_
 ,	,	PONCT	_
-tandis_que	tandis_que	CS	_
+tandis	tandis	ADV	_
+que	que	CS	_
 les	le	DET	_
 parties	partie	NC	_
 laissées	laisser	VPP	_
@@ -18896,7 +18938,8 @@ carbonate	carbonate	NC	_
 de	de	P	_
 fer	fer	NC	_
 ;	;	PONCT	_
-tandis_que	tandis_que	CS	_
+tandis	tandis	ADV	_
+que	que	CS	_
 dans	dans	P	_
 le	le	DET	_
 même	même	ADJ	_
@@ -19376,7 +19419,7 @@ n'	ne	ADV	_
 ont	avoir	V	_
 plus	plus	ADV	_
 cours	cour	NC	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 à	à	P	_
 l'	le	DET	_
 académie	académie	NC	_
@@ -19746,7 +19789,7 @@ les	le	DET	_
 maçonneries	maçonnerie	NC	_
 monumentales	monumental	ADJ	_
 telles	tel	ADJ	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 on	on	CLS	_
 les	il	CLO	_
 conçoit	concevoir	V	_
@@ -19876,7 +19919,7 @@ ce	ce	CLS	_
 ne	ne	ADV	_
 peut	pouvoir	V	_
 être	être	VINF	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 à	à	P	_
 la	le	DET	_
 condition	condition	NC	_
@@ -20143,7 +20186,8 @@ citadelles	citadelle	NC	_
 de	de	P	_
 pierre	pierre	NC	_
 ;	;	PONCT	_
-quant_au	quant_à_le	P+D	_
+Quant	quant	ADV	_
+au	à_le	P+D	_
 moyen	moyen	NC	_
 mixte	mixte	ADJ	_
 qui	qui	PROREL	_
@@ -20307,7 +20351,7 @@ et	et	CC	_
 Versailles	Versailles	NP	_
 ou	ou	CC	_
 le	le	DET	_
-louvre	louvre	NC	_
+louvre	Louvre	NP	_
 ,	,	PONCT	_
 n'	ne	ADV	_
 y	y	CLO	_
@@ -20787,7 +20831,7 @@ son	son	DET	_
 inexpérience	inexpérience	NC	_
 derrière	derrière	P	_
 ce	ce	PRO	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 il	il	CLS	_
 croit	croire	V	_
 être	être	VINF	_
@@ -20822,7 +20866,7 @@ chose	chose	NC	_
 n'	ne	ADV	_
 est	être	V	_
 permise	permettre	VPP	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 à	à	P	_
 ceux	celui	PRO	_
 qui	qui	PROREL	_
@@ -20930,7 +20974,7 @@ se	se	CLO	_
 sont	être	V	_
 plus	plus	ADV	_
 attachés	attacher	VPP	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 à	à	P	_
 des	un	DET	_
 reproductions	reproduction	NC	_
@@ -20942,7 +20986,8 @@ abâtardissent	abâtardir	V	_
 chaque	chaque	DET	_
 jour	jour	NC	_
 ,	,	PONCT	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 elles	il	CLS	_
 ne	ne	ADV	_
 se	se	CLO	_
@@ -21043,7 +21088,8 @@ entrepreneur	entrepreneur	NC	_
 de	de	P	_
 maçonnerie	maçonnerie	NC	_
 ,	,	PONCT	_
-tandis_qu'	tandis_que	CS	_
+tandis	tandis	ADV	_
+qu'	que	CS	_
 il	il	CLS	_
 laisse	laisser	V	_
 habituellement	habituellement	ADV	_
@@ -21572,7 +21618,8 @@ anciens	ancien	NC	_
 mais	mais	CC	_
 saillante	saillant	ADJ	_
 ,	,	PONCT	_
-afin_d'	afin_de	P	_
+afin	afin	ADV	_
+d'	de	P	_
 éloigner	éloigner	VINF	_
 le	le	DET	_
 plus	plus	ADV	_
@@ -21594,7 +21641,8 @@ métal	métal	NC	_
 plomb	plomb	NC	_
 )	)	PONCT	_
 ,	,	PONCT	_
-afin_d'	afin_de	P	_
+afin	afin	ADV	_
+d'	de	P	_
 éviter	éviter	VINF	_
 le	le	DET	_
 fouet	fouet	NC	_
@@ -21907,7 +21955,7 @@ si	si	CS	_
 ce	ce	DET	_
 tuyau	tuyau	NC	_
 est	être	V	_
-complétement	complétement	ADV	_
+complétement	complètement	ADV	_
 enveloppé	envelopper	VPP	_
 de	de	P	_
 maçonnerie	maçonnerie	NC	_
@@ -23320,7 +23368,7 @@ Ce	ce	CLS	_
 sont	être	V	_
 des	un	DET	_
 détails	détail	NC	_
-auxquels	auquel	PROREL	_
+auxquels	à_lequel	PROREL	_
 on	on	CLS	_
 ne	ne	ADV	_
 s'	se	CLO	_
@@ -24185,7 +24233,7 @@ architecte	architecte	NC	_
 ne	ne	ADV	_
 sera	être	V	_
 plus	plus	ADV	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 un	un	DET	_
 dessinateur	dessinateur	NC	_
 ,	,	PONCT	_
@@ -24464,7 +24512,7 @@ l'	le	DET	_
 artiste	artiste	NC	_
 n'	ne	ADV	_
 est	être	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 un	un	DET	_
 valet	valet	NC	_
 plus	plus	ADV	_
@@ -24704,7 +24752,9 @@ aurons	avoir	V	_
 mis	mettre	VPP	_
 le	le	DET	_
 parthénon	parthénon	NC	_
-au-dessus	au-dessus	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 de	de	P	_
 la	le	DET	_
 cathédrale	cathédrale	NC	_
@@ -24716,7 +24766,9 @@ la	le	DET	_
 cathédrale	cathédrale	NC	_
 de	de	P	_
 Reims	Reims	NP	_
-au-dessus	au-dessus	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 du	de_le	P+D	_
 parthénon	parthénon	NC	_
 ,	,	PONCT	_
@@ -25400,7 +25452,7 @@ et	et	CC	_
 qui	qui	PROREL	_
 ne	ne	ADV	_
 demandait	demander	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 un	un	DET	_
 peu	peu	NC	_
 de	de	P	_
@@ -25856,9 +25908,11 @@ cuite	cuire	VPP	_
 avec	avec	P	_
 enduit	enduit	NC	_
 préservatif	préservatif	ADJ	_
-au-dessus	au-dessus	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 Cet	ce	DET	_
 exemple	exemple	NC	_
 fait	faire	V	_
@@ -26186,7 +26240,7 @@ maçonnerie	maçonnerie	NC	_
 n'	ne	ADV	_
 est	être	V	_
 plus	plus	ADV	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 une	un	DET	_
 exception	exception	NC	_
 ,	,	PONCT	_
@@ -26525,7 +26579,7 @@ porte	porte	NC	_
 à	à	P	_
 faux	faux	ADJ	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 N'	ne	ADV	_
 est	être	V	_
 -il	il	CLS	_
@@ -26658,7 +26712,7 @@ ne	ne	ADV	_
 fait	faire	V	_
 une	un	DET	_
 architecture	architecture	NC	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 à	à	P	_
 la	le	DET	_
 condition	condition	NC	_
@@ -26824,7 +26878,7 @@ se	se	CLO	_
 résoudre	résoudre	VINF	_
 en	en	P	_
 F.	F.	NP	_
-Ainsi	Ainsi	NP	_
+Ainsi	ainsi	NP	_
 sur	sur	P	_
 des	un	DET	_
 contreforts	contrefort	NC	_
@@ -26888,7 +26942,7 @@ que	que	CS	_
 d'	de	P	_
 utiliser	utiliser	VINF	_
 les	le	DET	_
-tirans	tirans	NC	_
+tirans	tyran	NC	_
 pour	pour	P	_
 établir	établir	VINF	_
 un	un	DET	_
@@ -26982,7 +27036,9 @@ arcs	arc	NC	_
 doivent	devoir	V	_
 être	être	VINF	_
 taillés	tailler	VPP	_
-au-dessus	au-dessus	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 de	de	P	_
 la	le	DET	_
 butée	butée	NC	_
@@ -26999,7 +27055,8 @@ indiqué	indiquer	VPP	_
 en	en	P	_
 L	L	NC	_
 ,	,	PONCT	_
-afin_de	afin_de	P	_
+afin	afin	ADV	_
+de	de	P	_
 bien	bien	ADV	_
 épauler	épauler	VINF	_
 les	le	DET	_
@@ -27104,10 +27161,10 @@ recevoir	recevoir	VINF	_
 le	le	DET	_
 bout	bout	NC	_
 des	de_le	P+D	_
-tirans	tirans	NC	_
+tirans	tyran	NC	_
 ;	;	PONCT	_
 les	le	DET	_
-tirans	tirans	NC	_
+tirans	tyran	NC	_
 ,	,	PONCT	_
 pour	pour	P	_
 plus	plus	ADV	_
@@ -27164,7 +27221,7 @@ boulon	boulon	NC	_
 X	X	NP	_
 forcerait	forcer	V	_
 ces	ce	DET	_
-tirans	tirans	NC	_
+tirans	tyran	NC	_
 à	à	P	_
 rester	rester	VINF	_
 dans	dans	P	_
@@ -27225,9 +27282,11 @@ les	le	DET	_
 tirages	tirage	NC	_
 R.	R.	NP	_
 Des	de_le	P+D	_
-tirans	tirans	NC	_
+tirans	tyran	NC	_
 posés	poser	VPP	_
-au-dessus	au-dessus	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 des	de_le	P+D	_
 voûtes	voûte	NC	_
 en	en	P	_
@@ -27679,7 +27738,7 @@ s'	si	CS	_
 il	il	CLS	_
 n'	ne	ADV	_
 est	être	V	_
-complétement	complétement	ADV	_
+complétement	complètement	ADV	_
 neuf	neuf	ADJ	_
 ,	,	PONCT	_
 puisque	puisque	CS	_
@@ -28008,7 +28067,7 @@ points	point	NC	_
 d'	de	P	_
 appuis	appui	NC	_
 verticalement	verticalement	ADV	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 à	à	P	_
 l'	le	DET	_
 aide	aide	NC	_
@@ -28091,7 +28150,9 @@ grande	grand	ADJ	_
 salle	salle	NC	_
 de	de	P	_
 réunion	réunion	NC	_
-au-dessus	au-dessus	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 d'	de	P	_
 un	un	DET	_
 marché	marché	NC	_
@@ -28115,7 +28176,8 @@ de	de	P	_
 colonnes	colonne	NC	_
 en	en	P	_
 fonte	fonte	NC	_
-afin_d'	afin_de	P	_
+afin	afin	ADV	_
+d'	de	P	_
 éviter	éviter	VINF	_
 les	le	DET	_
 pleins	plein	NC	_
@@ -28151,7 +28213,8 @@ des	un	DET	_
 équerres	équerre	NC	_
 puissantes	puissant	ADJ	_
 ,	,	PONCT	_
-afin_d'	afin_de	P	_
+afin	afin	ADV	_
+d'	de	P	_
 éviter	éviter	VINF	_
 le	le	DET	_
 roulement	roulement	NC	_
@@ -28265,7 +28328,7 @@ premier	premier	ADJ	_
 ainsi	ainsi	ADV	_
 que	que	CS	_
 l'	le	DET	_
-indique	indique	NC	_
+indique	indiquer	NC	_
 le	le	DET	_
 tracé	tracé	NC	_
 A.	A.	NP	_
@@ -28381,7 +28444,7 @@ parties	partie	NC	_
 reliées	relier	VPP	_
 par	par	P	_
 les	le	DET	_
-tirans	tirans	NC	_
+tirans	tyran	NC	_
 J	J	NC	_
 ,	,	PONCT	_
 et	et	CC	_
@@ -28873,7 +28936,7 @@ est	être	V	_
 au	à_le	P+D	_
 total	total	NC	_
 ,	,	PONCT	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 une	un	DET	_
 salle	salle	NC	_
 sur	sur	P	_
@@ -29148,7 +29211,7 @@ nos	notre	DET	_
 nous	nous	CLS	_
 ayons	avoir	V	_
 presque	presque	ADV	_
-complétement	complétement	ADV	_
+complétement	complètement	ADV	_
 renoncé	renoncer	VPP	_
 aux	à_le	P+D	_
 voûtes	voûte	NC	_
@@ -29605,7 +29668,7 @@ fer	fer	NC	_
 n'	ne	ADV	_
 est	être	V	_
 plus	plus	ADV	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 une	un	DET	_
 armature	armature	NC	_
 masquée	masquer	VPP	_
@@ -29662,7 +29725,7 @@ genre	genre	NC	_
 ,	,	PONCT	_
 n'	ne	ADV	_
 ont	avoir	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 une	un	DET	_
 efficacité	efficacité	NC	_
 médiocre	médiocre	ADJ	_
@@ -29722,11 +29785,13 @@ simple	simple	ADJ	_
 ils	il	CLS	_
 posaient	poser	V	_
 des	un	DET	_
-tirans	tirans	NC	_
+tirans	tyran	NC	_
 en	en	P	_
 fer	fer	NC	_
 horizontalement	horizontalement	ADV	_
-au-dessus	au-dessus	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 des	de_le	P+D	_
 naissances	naissance	NC	_
 des	de_le	P+D	_
@@ -29775,7 +29840,7 @@ pas	pas	ADV	_
 la	le	DET	_
 présence	présence	NC	_
 de	de	P	_
-tirans	tirans	NC	_
+tirans	tyran	NC	_
 intérieurs	intérieur	ADJ	_
 sous	sous	P	_
 nos	notre	DET	_
@@ -29837,7 +29902,7 @@ renaissance	renaissance	NC	_
 ,	,	PONCT	_
 suppriment	supprimer	V	_
 ces	ce	DET	_
-tirans	tirans	NC	_
+tirans	tyran	NC	_
 en	en	P	_
 fer	fer	NC	_
 dans	dans	P	_
@@ -29872,7 +29937,7 @@ J'	je	CLS	_
 ajouterai	ajouter	V	_
 que	que	CS	_
 les	le	DET	_
-tirans	tirans	NC	_
+tirans	tyran	NC	_
 attachés	attacher	VPP	_
 à	à	P	_
 la	le	DET	_
@@ -29968,7 +30033,7 @@ est	être	V	_
 bien	bien	ADV	_
 celle	celui	PRO	_
 de	de	P	_
-tirans	tirans	NP	_
+tirans	tyran	NP	_
 ,	,	PONCT	_
 du	de_le	P+D	_
 moment	moment	NC	_
@@ -29990,7 +30055,7 @@ culées	culée	NC	_
 Ce	ce	DET	_
 parti	parti	NC	_
 adopté	adopter	VPP	_
-résolûment	résolûment	ADV	_
+résolûment	résolument	ADV	_
 ,	,	PONCT	_
 il	il	CLS	_
 faut	falloir	V	_
@@ -30057,7 +30122,7 @@ ce	ce	CLS	_
 n'	ne	ADV	_
 est	être	V	_
 là	là	ADV	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 un	un	DET	_
 palliatif	palliatif	NC	_
 ,	,	PONCT	_
@@ -30087,7 +30152,7 @@ l'on	on	CLS	_
 ne	ne	ADV	_
 se	se	CLO	_
 fie	fier	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 à	à	P	_
 moitié	moitié	NC	_
 aux	à_le	P+D	_
@@ -30124,7 +30189,7 @@ elle	il	CLS	_
 n'	ne	ADV	_
 est	être	V	_
 souvent	souvent	ADV	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 une	un	DET	_
 occasion	occasion	NC	_
 de	de	P	_
@@ -30291,7 +30356,7 @@ le	il	CLO	_
 mettre	mettre	VINF	_
 en	en	P	_
 oeuvre	œuvre	NC	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 à	à	P	_
 la	le	DET	_
 condition	condition	NC	_
@@ -30348,7 +30413,8 @@ visibles	visible	ADJ	_
 ,	,	PONCT	_
 apparents	apparent	ADJ	_
 ,	,	PONCT	_
-afin_que	afin_que	CS	_
+afin	afin	ADV	_
+que	que	CS	_
 s'	si	CS	_
 il	il	CLS	_
 survient	survenir	V	_
@@ -30747,7 +30813,7 @@ soient	être	V	_
 maintenues	maintenir	VPP	_
 par	par	P	_
 des	un	DET	_
-tirans	tirans	NC	_
+tirans	tyran	NC	_
 H	H	NC	_
 ,	,	PONCT	_
 I	i	NC	_
@@ -30820,10 +30886,10 @@ pourra	pouvoir	V	_
 causer	causer	VINF	_
 de	de	P	_
 ruptures	rupture	NC	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 en	en	P	_
 K.	K.	NP	_
-Mais	Mais	NP	_
+Mais	mais	NP	_
 si	si	CS	_
 en	en	P	_
 K	K	NC	_
@@ -30911,7 +30977,7 @@ et	et	CC	_
 corniches	corniche	NC	_
 en	en	P	_
 maçonnerie	maçonnerie	NC	_
-M.	M.	NC	_
+M.	monsieur	NC	_
 Quelques	Quelques	ADJ	_
 détails	détail	NC	_
 ,	,	PONCT	_
@@ -31024,7 +31090,7 @@ en	en	P	_
 deux	deux	DET	_
 parties	partie	NC	_
 des	de_le	P+D	_
-tirans	tirans	NC	_
+tirans	tyran	NC	_
 ,	,	PONCT	_
 passant	passer	VPR	_
 en	en	P	_
@@ -31197,7 +31263,8 @@ nous	nous	CLO	_
 les	il	CLO	_
 fournissent	fournir	V	_
 pas	pas	ADV	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 jusqu'	jusque	P	_
 à	à	P	_
 présent	présent	NC	_
@@ -31383,7 +31450,7 @@ su	savoir	VPP	_
 employer	employer	VINF	_
 le	le	DET	_
 fer	fer	NC	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 en	en	P	_
 vue	vue	NC	_
 de	de	P	_
@@ -31445,7 +31512,7 @@ ce	ce	CLS	_
 n'	ne	ADV	_
 a	avoir	V	_
 été	être	VPP	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 en	en	P	_
 reproduisant	reproduire	VPR	_
 ces	ce	DET	_
@@ -31861,7 +31928,7 @@ Paris	Paris	NP	_
 n'	ne	ADV	_
 a	avoir	V	_
 eu	avoir	VPP	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 à	à	P	_
 se	se	CLO	_
 féliciter	féliciter	VINF	_
@@ -32099,7 +32166,7 @@ choses	chose	NC	_
 n'	ne	ADV	_
 en	en	CLO	_
 faire	faire	VINF	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 une	un	DET	_
 seule	seul	ADJ	_
 .	.	PONCT	_
@@ -32340,7 +32407,8 @@ dans	dans	P	_
 les	le	DET	_
 résultats	résultat	NC	_
 ,	,	PONCT	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 elles	il	CLS	_
 ont	avoir	V	_
 ,	,	PONCT	_
@@ -32909,7 +32977,7 @@ n'	ne	ADV	_
 est	être	V	_
 autre	autre	ADJ	_
 chose	chose	NC	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 une	un	DET	_
 superposition	superposition	NC	_
 d'	de	P	_
@@ -33025,7 +33093,8 @@ que	que	CS	_
 le	le	DET	_
 chat	chat	NC	_
 ,	,	PONCT	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 on	on	CLS	_
 peut	pouvoir	V	_
 faire	faire	VINF	_
@@ -33037,7 +33106,8 @@ premier	premier	NC	_
 sans	sans	P	_
 le	il	CLO	_
 tuer	tuer	VINF	_
-tandis_que	tandis_que	CS	_
+tandis	tandis	ADV	_
+que	que	CS	_
 le	le	DET	_
 second	second	NC	_
 en	en	CLO	_
@@ -33387,7 +33457,7 @@ peut	pouvoir	V	_
 en	en	P	_
 ignorant	ignorer	VPR	_
 ce	ce	PRO	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 ils	il	CLS	_
 ont	avoir	V	_
 fait	faire	VPP	_
@@ -33769,7 +33839,7 @@ par	par	P	_
 un	un	DET	_
 système	système	NC	_
 de	de	P	_
-tirans	tirans	NC	_
+tirans	tyran	NC	_
 ,	,	PONCT	_
 comment	comment	PROWH	_
 quelques	quelque	DET	_
@@ -33818,7 +33888,7 @@ sans	sans	P	_
 l'	le	DET	_
 aide	aide	NC	_
 des	de_le	P+D	_
-tirans	tirans	NC	_
+tirans	tyran	NC	_
 ,	,	PONCT	_
 de	de	P	_
 neutraliser	neutraliser	VINF	_
@@ -33892,7 +33962,7 @@ B	B	NC	_
 ainsi	ainsi	ADV	_
 que	que	CS	_
 l'	le	DET	_
-indique	indique	NC	_
+indique	indiquer	NC	_
 le	le	DET	_
 tracé	tracé	NC	_
 B.	B.	NP	_
@@ -33967,7 +34037,7 @@ arc	arc	NC	_
 de	de	P	_
 tôle	tôle	NC	_
 ,	,	PONCT	_
-auquel	auquel	PROREL	_
+auquel	à_lequel	PROREL	_
 sont	être	V	_
 fixées	fixer	VPP	_
 des	un	DET	_
@@ -34521,7 +34591,7 @@ ce	ce	CLS	_
 n'	ne	ADV	_
 est	être	V	_
 là	là	ADV	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 une	un	DET	_
 application	application	NC	_
 du	de_le	P+D	_
@@ -34633,7 +34703,9 @@ jours	jour	NC	_
 très	très	ADV	_
 -	-	PONCT	_
 élevés	élever	VPP	_
-au-dessus	au-dessus	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 du	de_le	P+D	_
 sol	sol	NC	_
 ,	,	PONCT	_
@@ -34662,7 +34734,7 @@ que	que	CS	_
 comme	comme	P	_
 supports	support	NC	_
 et	et	CC	_
-tirans	tirans	NC	_
+tirans	tyran	NC	_
 et	et	CC	_
 dans	dans	P	_
 des	un	DET	_
@@ -34867,7 +34939,7 @@ arcs	arc	NC	_
 suivant	suivant	P	_
 les	le	DET	_
 lignes	ligne	NC	_
-Ah	Ah	NP	_
+Ah	ah	NP	_
 ,	,	PONCT	_
 Ad	Ad	NP	_
 ,	,	PONCT	_
@@ -35091,7 +35163,7 @@ sont	être	V	_
 réunis	réunir	VPP	_
 par	par	P	_
 les	le	DET	_
-tirans	tirans	NC	_
+tirans	tyran	NC	_
 D	D	ADJ	_
 ,	,	PONCT	_
 lesquels	lequel	PROREL	_
@@ -35133,7 +35205,7 @@ quatre	quatre	ADJ	_
 arcs	arc	NC	_
 avec	avec	P	_
 leurs	leur	DET	_
-tirans	tirans	NC	_
+tirans	tyran	NC	_
 ,	,	PONCT	_
 ne	ne	ADV	_
 peuvent	pouvoir	V	_
@@ -35145,7 +35217,7 @@ Seuls	seul	ADJ	_
 ,	,	PONCT	_
 les	le	DET	_
 arcs	arc	NC	_
-Ah	Ah	NP	_
+Ah	ah	NP	_
 ,	,	PONCT	_
 Di	Di	NP	_
 ,	,	PONCT	_
@@ -35248,7 +35320,7 @@ il	il	CLS	_
 faudrait	falloir	V	_
 que	que	CS	_
 les	le	DET	_
-tirans	tirans	NC	_
+tirans	tyran	NC	_
 C	C	NC	_
 (	(	PONCT	_
 voyez	voir	V	_
@@ -35420,7 +35492,9 @@ du	de_le	P+D	_
 mur	mur	NC	_
 lui	il	PRO	_
 -même	même	ADJ	_
-au-dessus	au-dessus	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 des	de_le	P+D	_
 sabots	sabot	NC	_
 et	et	CC	_
@@ -35512,7 +35586,7 @@ pour	pour	P	_
 les	le	DET	_
 arcs	arc	NC	_
 (	(	PONCT	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 semblables	semblable	ADJ	_
 )	)	PONCT	_
 seraient	être	V	_
@@ -35653,7 +35727,7 @@ voûtes	voûte	NC	_
 ,	,	PONCT	_
 n'	ne	ADV	_
 occupant	occuper	VPR	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 une	un	DET	_
 très	très	ADV	_
 -	-	PONCT	_
@@ -35677,7 +35751,7 @@ relativement	relativement	ADV	_
 ,	,	PONCT	_
 ne	ne	ADV	_
 demande	demander	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 un	un	DET	_
 cube	cube	NC	_
 minime	minime	ADJ	_
@@ -35738,7 +35812,7 @@ employés	employer	VPP	_
 pour	pour	P	_
 serrer	serrer	VINF	_
 les	le	DET	_
-tirans	tirans	NC	_
+tirans	tyran	NC	_
 avec	avec	P	_
 les	le	DET	_
 brides	bride	NC	_
@@ -35774,7 +35848,7 @@ B	B	NC	_
 le	le	DET	_
 collier	collier	NC	_
 des	de_le	P+D	_
-tirans	tirans	NC	_
+tirans	tyran	NC	_
 supérieurs	supérieur	ADJ	_
 en	en	P	_
 T	T	NC	_
@@ -35806,7 +35880,7 @@ avec	avec	P	_
 les	le	DET	_
 branches	branche	NC	_
 de	de	P	_
-tirans	tirans	ADJ	_
+tirans	tyran	ADJ	_
 F	F	NC	_
 et	et	CC	_
 l'	le	DET	_
@@ -35901,7 +35975,7 @@ n'	ne	ADV	_
 y	y	CLO	_
 ait	avoir	V	_
 plus	plus	ADV	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 à	à	P	_
 procéder	procéder	VINF	_
 à	à	P	_
@@ -36177,7 +36251,7 @@ grands	grand	ADJ	_
 édifices	édifice	NC	_
 ,	,	PONCT	_
 était	être	V	_
-complétement	complétement	ADV	_
+complétement	complètement	ADV	_
 fixé	fixer	VPP	_
 par	par	P	_
 l'	le	DET	_
@@ -36745,7 +36819,7 @@ pose	poser	V	_
 des	un	DET	_
 cintres	cintre	NC	_
 (	(	PONCT	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 taillés	tailler	VPP	_
 sur	sur	P	_
 la	le	DET	_
@@ -37084,7 +37158,7 @@ caissons	caisson	NC	_
 ainsi	ainsi	ADV	_
 que	que	CS	_
 l'	le	DET	_
-indique	indique	NC	_
+indique	indiquer	NC	_
 le	le	DET	_
 tracé	tracé	NC	_
 perspectif	perspectif	ADJ	_
@@ -37365,7 +37439,7 @@ par	par	P	_
 une	un	DET	_
 quinzaine	quinzaine	NC	_
 de	de	P	_
-tirans	tirans	NC	_
+tirans	tyran	NC	_
 C	C	NC	_
 ,	,	PONCT	_
 comme	comme	P	_
@@ -37457,7 +37531,7 @@ assemblage	assemblage	NC	_
 ainsi	ainsi	ADV	_
 que	que	CS	_
 l'	le	DET	_
-indique	indique	NC	_
+indique	indiquer	NC	_
 le	le	DET	_
 détail	détail	NC	_
 G	G	NC	_
@@ -37469,7 +37543,7 @@ dispenser	dispenser	VINF	_
 de	de	P	_
 poser	poser	VINF	_
 les	le	DET	_
-tirans	tirans	NC	_
+tirans	tyran	NC	_
 C.	C.	NP	_
 En	en	P	_
 moyenne	moyenne	NC	_
@@ -37565,7 +37639,7 @@ calotte	calotte	NC	_
 ne	ne	ADV	_
 donnerait	donner	V	_
 donc	donc	ADV	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 un	un	DET	_
 poids	poids	NC	_
 de	de	P	_
@@ -37617,7 +37691,7 @@ n'	ne	ADV	_
 y	y	CLO	_
 a	avoir	V	_
 ici	ici	ADV	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 une	un	DET	_
 substitution	substitution	NC	_
 de	de	P	_
@@ -37970,7 +38044,7 @@ vu	voir	VPP	_
 la	le	DET	_
 dépense	dépense	NC	_
 énorme	énorme	ADJ	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 ils	il	CLS	_
 occasionnent	occasionner	V	_
 .	.	PONCT	_
@@ -37999,7 +38073,9 @@ vérité	vérité	NC	_
 ,	,	PONCT	_
 nous	nous	CLS	_
 sommes	être	V	_
-au-dessous	au-dessous	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessous	dessous	ADV	_
 de	de	P	_
 nos	notre	DET	_
 devanciers	devancier	NC	_
@@ -38167,7 +38243,7 @@ De	de	P	_
 L'	le	DET	_
 Orme	Orme	NC	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 à	à	P	_
 chaque	chaque	DET	_
 page	page	NC	_
@@ -38230,7 +38306,7 @@ ponts	pont	NC	_
 ,	,	PONCT	_
 sont	être	V	_
 entrés	entrer	VPP	_
-résolûment	résolûment	ADV	_
+résolûment	résolument	ADV	_
 dans	dans	P	_
 une	un	DET	_
 nouvelle	nouveau	ADJ	_
@@ -38242,7 +38318,7 @@ architectes	architecte	NC	_
 n'	ne	ADV	_
 ont	avoir	V	_
 fait	faire	VPP	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 appliquer	appliquer	VINF	_
 timidement	timidement	ADV	_
 les	le	DET	_
@@ -38388,7 +38464,7 @@ est	être	V	_
 tout	tout	PRO	_
 prendre	prendre	VINF	_
 ,	,	PONCT	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 un	un	DET	_
 amas	amas	NC	_
 de	de	P	_
@@ -39105,7 +39181,7 @@ pièces	pièce	NC	_
 ce	ce	CLS	_
 n'	ne	ADV	_
 était	être	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 à	à	P	_
 l'	le	DET	_
 aide	aide	NC	_
@@ -39326,7 +39402,7 @@ auxquelles	il	PROREL	_
 on	on	CLS	_
 les	il	CLO	_
 affecte	affecter	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 à	à	P	_
 la	le	DET	_
 condition	condition	NC	_
@@ -39643,7 +39719,7 @@ indiqué	indiquer	VPP	_
 figure	figure	NC	_
 *	*	PONCT	_
 16.	16.	X	_
-Si	Si	NP	_
+Si	si	NP	_
 nous	nous	CLS	_
 faisons	faire	V	_
 une	un	DET	_
@@ -39678,7 +39754,7 @@ de	de	P	_
 force	force	NC	_
 obliques	oblique	ADJ	_
 I.	I.	X	_
-Ces	Ces	NP	_
+Ces	ce	NP	_
 jambes	jambe	NC	_
 de	de	P	_
 force	force	NC	_
@@ -39720,7 +39796,7 @@ voûtés	voûter	VPP	_
 ainsi	ainsi	ADV	_
 que	que	CS	_
 l'	le	DET	_
-indique	indique	NC	_
+indique	indiquer	NC	_
 la	le	DET	_
 coupe	coupe	NC	_
 C	C	NC	_
@@ -39840,7 +39916,7 @@ légers	léger	ADJ	_
 et	et	CC	_
 n'	ne	ADV	_
 auraient	avoir	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 une	un	DET	_
 très	très	ADV	_
 -	-	PONCT	_
@@ -39928,7 +40004,9 @@ indépendante	indépendant	ADJ	_
 ,	,	PONCT	_
 vue	voir	VPP	_
 ,	,	PONCT	_
-au-dessous	au-dessous	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessous	dessous	ADV	_
 des	un	DET	_
 voûtains	voûtain	NC	_
 ,	,	PONCT	_
@@ -39936,7 +40014,7 @@ et	et	CC	_
 qui	qui	PROREL	_
 ne	ne	ADV	_
 sert	servir	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 à	à	P	_
 les	il	CLO	_
 porter	porter	VINF	_
@@ -39981,7 +40059,8 @@ circulaire	circulaire	ADJ	_
 du	de_le	P+D	_
 sommet	sommet	NC	_
 .	.	PONCT	_
-Quant_aux	quant_à_le	P+D	_
+quant	quant	ADV	_
+aux	à_le	P+D	_
 hexagones	hexagone	NC	_
 ils	il	CLS	_
 n'	ne	ADV	_
@@ -40064,7 +40143,7 @@ cet	ce	DET	_
 exemple	exemple	NC	_
 autre	autre	ADJ	_
 chose	chose	NC	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 une	un	PRO	_
 des	de_le	P+D	_
 applications	application	NC	_
@@ -40382,7 +40461,7 @@ ici	ici	ADV	_
 Ceci	ceci	PRO	_
 n'	ne	ADV	_
 est	être	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 une	un	DET	_
 hypothèse	hypothèse	NC	_
 ;	;	PONCT	_
@@ -40422,7 +40501,7 @@ système	système	NC	_
 Je	je	CLS	_
 ne	ne	ADV	_
 puis	pouvoir	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 appuyer	appuyer	VINF	_
 cette	ce	DET	_
 valeur	valeur	NC	_
@@ -40484,7 +40563,7 @@ est	être	V	_
 composée	composer	VPP	_
 de	de	P	_
 membres	membre	NC	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 égaux	égal	ADJ	_
 entre	entre	P	_
 eux	il	PRO	_
@@ -40495,7 +40574,7 @@ assemblages	assemblage	NC	_
 semblables	semblable	ADJ	_
 et	et	CC	_
 formant	former	VPR	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 ,	,	PONCT	_
 à	à	P	_
 la	le	DET	_
@@ -40653,9 +40732,13 @@ kilogrammes	gramme	NC	_
 nous	nous	CLS	_
 sommes	être	V	_
 plutôt	plutôt	ADV	_
-au-dessus	au-dessus	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 qu'	que	CS	_
-au-dessous	au-dessous	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessous	dessous	ADV	_
 de	de	P	_
 la	le	DET	_
 réalité	réalité	NC	_
@@ -40703,7 +40786,7 @@ donc	donc	ADV	_
 kilogrammes	gramme	NC	_
 ,	,	PONCT	_
 poids	poids	NC	_
-auquel	auquel	PROREL	_
+auquel	à_lequel	PROREL	_
 il	il	CLS	_
 convient	convenir	V	_
 d'	de	P	_
@@ -41084,7 +41167,9 @@ que	que	CS	_
 nos	notre	DET	_
 estimations	estimation	NC	_
 soient	être	V	_
-au-dessous	au-dessous	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessous	dessous	ADV	_
 de	de	P	_
 la	le	DET	_
 réalité	réalité	NC	_
@@ -41109,10 +41194,12 @@ nous	nous	CLS	_
 serions	être	V	_
 encore	encore	ADV	_
 bien	bien	ADV	_
-au-dessous	au-dessous	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessous	dessous	ADV	_
 du	de_le	P+D	_
 total	total	NC	_
-auquel	auquel	PROREL	_
+auquel	à_lequel	PROREL	_
 d'	de	P	_
 ordinaire	ordinaire	NC	_
 s'	se	CLO	_
@@ -41414,12 +41501,15 @@ intérêt	intérêt	NC	_
 exécuter	exécuter	VINF	_
 les	le	DET	_
 travaux	travail	NC	_
-au-dessous	au-dessous	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessous	dessous	ADV	_
 du	de_le	P+D	_
 prix	prix	NC	_
 fixé	fixer	VPP	_
 ,	,	PONCT	_
-afin_d'	afin_de	P	_
+afin	afin	ADV	_
+d'	de	P	_
 augmenter	augmenter	VINF	_
 leurs	leur	DET	_
 bénéfices	bénéfice	NC	_
@@ -41471,7 +41561,7 @@ ou	ou	CC	_
 de	de	P	_
 ne	ne	ADV	_
 livrer	livrer	VINF	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 une	un	DET	_
 construction	construction	NC	_
 dont	dont	PROREL	_
@@ -41532,7 +41622,7 @@ de	de	P	_
 ne	ne	ADV	_
 le	il	CLO	_
 payer	payer	VINF	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 en	en	P	_
 raison	raison	NC	_
 de	de	P	_
@@ -41937,7 +42027,7 @@ administration	administration	NC	_
 n'	ne	ADV	_
 a	avoir	V	_
 plus	plus	ADV	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 à	à	P	_
 payer	payer	VINF	_
 ,	,	PONCT	_
@@ -42082,7 +42172,7 @@ l'	le	DET	_
 architecte	architecte	NC	_
 a	avoir	V	_
 été	être	VPP	_
-abaissée	abaissée	VPP	_
+abaissée	abaissé	VPP	_
 ,	,	PONCT	_
 moins	moins	ADV	_
 les	le	DET	_
@@ -42814,7 +42904,7 @@ qui	qui	PROREL	_
 ne	ne	ADV	_
 s'	se	CLO	_
 élève	élever	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 à	à	P	_
 1500000	1500000	DET	_
 francs	franc	NC	_
@@ -42916,7 +43006,7 @@ ce	ce	CLS	_
 n'	ne	ADV	_
 est	être	V	_
 là	là	ADV	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 un	un	DET	_
 côté	côté	NC	_
 de	de	P	_
@@ -42970,7 +43060,9 @@ ne	ne	ADV	_
 voulant	vouloir	VPR	_
 pas	pas	ADV	_
 rester	rester	VINF	_
-au-dessous	au-dessous	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessous	dessous	ADV	_
 des	un	DET	_
 oeuvres	œuvre	NC	_
 de	de	P	_
@@ -43071,7 +43163,7 @@ guère	guère	ADV	_
 dans	dans	P	_
 un	un	DET	_
 monument	monument	NC	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 une	un	DET	_
 façade	façade	NC	_
 plus	plus	ADV	_
@@ -43089,7 +43181,7 @@ sculptures	sculpture	NC	_
 .	.	PONCT	_
 Le	le	DET	_
 monument	monument	NC	_
-terminé	terminé	ADJ	_
+terminé	terminer	ADJ	_
 ,	,	PONCT	_
 ce	ce	DET	_
 public	public	NC	_
@@ -43147,7 +43239,7 @@ Nous	nous	CLS	_
 ne	ne	ADV	_
 pourrions	pouvoir	V	_
 signaler	signaler	VINF	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 un	un	DET	_
 bien	bien	ADV	_
 petit	petit	ADJ	_
@@ -43525,14 +43617,15 @@ voir	voir	VINF	_
 dans	dans	P	_
 l'	le	DET	_
 architecte	architecte	NC	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 une	un	DET	_
 sorte	sorte	NC	_
 de	de	P	_
 contre-maître	contre-maître	NC	_
 passif	passif	ADJ	_
 ;	;	PONCT	_
-afin_de	afin_de	P	_
+afin	afin	ADV	_
+de	de	P	_
 pouvoir	pouvoir	VINF	_
 dire	dire	VINF	_
 :	:	PONCT	_
@@ -43653,7 +43746,7 @@ apprécie	apprécier	V	_
 exactement	exactement	ADV	_
 le	le	DET	_
 rôle	rôle	NC	_
-auquel	auquel	PROREL	_
+auquel	à_lequel	PROREL	_
 il	il	CLS	_
 est	être	V	_
 appelé	appeler	VPP	_
@@ -43839,7 +43932,7 @@ exécution	exécution	NC	_
 que	que	CS	_
 les	le	DET	_
 architectes	architecte	NC	_
-auxquels	auquel	PROREL	_
+auxquels	à_lequel	PROREL	_
 on	on	CLS	_
 fait	faire	V	_
 l'	le	DET	_
@@ -44522,7 +44615,7 @@ remplacé	remplacer	VPP	_
 par	par	P	_
 des	un	DET	_
 fardiers	fardier	NC	_
-auxquels	auquel	PROREL	_
+auxquels	à_lequel	PROREL	_
 seraient	être	V	_
 suspendues	suspendre	VPP	_
 des	un	DET	_
@@ -44950,7 +45043,7 @@ qui	qui	PROREL	_
 ne	ne	ADV	_
 sont	être	V	_
 appliqués	appliquer	VPP	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 à	à	P	_
 des	un	DET	_
 ouvrages	ouvrage	NC	_
@@ -45148,7 +45241,7 @@ fils	fils	NC	_
 ,	,	PONCT	_
 moies	moie	NC	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 Elle	il	CLS	_
 exige	exiger	V	_
 de	de	P	_
@@ -45384,7 +45477,7 @@ et	et	CC	_
 toute	tout	DET	_
 taille	taille	NC	_
 était	être	V	_
-complétement	complétement	ADV	_
+complétement	complètement	ADV	_
 achevée	achever	VPP	_
 avant	avant	P	_
 la	le	DET	_
@@ -45906,7 +45999,8 @@ perte	perte	NC	_
 des	de_le	P+D	_
 sciages	sciage	NC	_
 ,	,	PONCT	_
-afin_de	afin_de	P	_
+afin	afin	ADV	_
+de	de	P	_
 se	se	CLO	_
 conformer	conformer	VINF	_
 à	à	P	_
@@ -46191,7 +46285,8 @@ que	que	ADV	_
 la	le	DET	_
 fantaisie	fantaisie	NC	_
 ;	;	PONCT	_
-quant_à	quant_à	P	_
+quant	quant	ADV	_
+à	à	P	_
 la	le	DET	_
 véritable	véritable	ADJ	_
 inspiration	inspiration	NC	_
@@ -46424,7 +46519,7 @@ ne	ne	ADV	_
 sont	être	V	_
 d'	de	P	_
 ailleurs	ailleurs	NC	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 une	un	DET	_
 décoration	décoration	NC	_
 ,	,	PONCT	_
@@ -46562,7 +46657,7 @@ ne	ne	ADV	_
 s'	se	CLO	_
 en	en	CLO	_
 servent	servir	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 en	en	P	_
 manière	manière	NC	_
 d'	de	P	_
@@ -46668,7 +46763,8 @@ ouvrages	ouvrage	NC	_
 ,	,	PONCT	_
 peu	peu	ADV	_
 variés	varier	VPP	_
-quant_à	quant_à	P	_
+quant	quant	ADV	_
+à	à	P	_
 l'	le	DET	_
 application	application	NC	_
 des	de_le	P+D	_
@@ -47004,7 +47100,7 @@ privilégiées	privilégié	ADJ	_
 des	un	DET	_
 édifices	édifice	NC	_
 pour	pour	P	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 .	.	PONCT	_
 Le	le	DET	_
 moyen	moyen	NC	_
@@ -47961,7 +48057,7 @@ eux	il	PRO	_
 de	de	P	_
 se	se	CLO	_
 mettre	mettre	VINF	_
-résolûment	résolûment	ADV	_
+résolûment	résolument	ADV	_
 à	à	P	_
 l'	le	DET	_
 oeuvre	œuvre	NC	_
@@ -48226,8 +48322,8 @@ l'	le	DET	_
 art	art	NC	_
 ,	,	PONCT	_
 ...	…	PONCT	_
-etc.	etc.	ADV	_
-Je	Je	NP	_
+etc.	etc	ADV	_
+Je	je	NP	_
 ne	ne	ADV	_
 répéterai	répéter	V	_
 pas	pas	ADV	_
@@ -48307,7 +48403,9 @@ servir	servir	VINF	_
 avant	avant	P	_
 tout	tout	PRO	_
 et	et	CC	_
-par-dessus	par-dessus	P	_
+par	par	S	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 tout	tout	ADV	_
 de	de	P	_
 la	le	DET	_
@@ -48497,7 +48595,8 @@ rendons	rendre	V	_
 pas	pas	ADV	_
 compte	compte	NC	_
 ,	,	PONCT	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 nous	nous	CLS	_
 sommes	être	V	_
 au	à_le	P+D	_
@@ -48899,7 +48998,7 @@ fait	faire	V	_
 le	le	DET	_
 voisin	voisin	NC	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 De	de	P	_
 ce	ce	DET	_
 scepticisme	scepticisme	NC	_
@@ -49372,7 +49471,8 @@ ne	ne	ADV	_
 les	il	CLO	_
 regardent	regarder	V	_
 pas	pas	ADV	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 ils	il	CLS	_
 n'	ne	ADV	_
 en	en	CLO	_
@@ -49412,7 +49512,7 @@ qui	qui	PROREL	_
 ne	ne	ADV	_
 croirait	croire	V	_
 cependant	cependant	ADV	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 un	un	PRO	_
 des	de_le	P+D	_
 moyens	moyen	NC	_
@@ -49946,7 +50046,7 @@ architecte	architecte	NC	_
 n'	ne	ADV	_
 être	être	VINF	_
 plus	plus	ADV	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 un	un	DET	_
 dessinateur	dessinateur	NC	_
 ,	,	PONCT	_
@@ -50013,7 +50113,7 @@ quelques	quelque	DET	_
 caractères	caractère	NC	_
 qui	qui	PROREL	_
 veuillent	vouloir	V	_
-résolûment	résolûment	ADV	_
+résolûment	résolument	ADV	_
 ,	,	PONCT	_
 coûte	coûter	V	_
 que	que	CS	_
@@ -50078,7 +50178,7 @@ diplômes	diplôme	NC	_
 ne	ne	ADV	_
 leur	il	CLO	_
 serviront	servir	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 à	à	P	_
 obtenir	obtenir	VINF	_
 ces	ce	DET	_
@@ -50313,7 +50413,7 @@ qu'	que	PROREL	_
 on	on	CLS	_
 appelle	appeler	V	_
 les	le	DET	_
-libres	libres	NC	_
+libres	libre	NC	_
 penseurs	penseur	ADJ	_
 ,	,	PONCT	_
 est	être	V	_
@@ -50709,7 +50809,7 @@ l'	le	DET	_
 histoire	histoire	NC	_
 ne	ne	ADV	_
 serait	être	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 une	un	DET	_
 compilation	compilation	NC	_
 futile	futile	ADJ	_
@@ -50984,7 +51084,8 @@ et	et	CC	_
 les	le	DET	_
 solutions	solution	NC	_
 !	!	PONCT	_
-Quant_à	quant_à	P	_
+Quant	quant	ADV	_
+à	à	P	_
 ceux	celui	PRO	_
 qui	qui	PROREL	_
 ,	,	PONCT	_
@@ -51071,7 +51172,8 @@ de	de	P	_
 leur	leur	DET	_
 art	art	NC	_
 .	.	PONCT	_
-Quant_aux	quant_à_le	P+D	_
+quant	quant	ADV	_
+aux	à_le	P+D	_
 artistes	artiste	NC	_
 ,	,	PONCT	_
 dont	dont	PROREL	_
@@ -51136,7 +51238,7 @@ faire	faire	VINF	_
 rétrograder	rétrograder	VINF	_
 l'	le	DET	_
 art	art	NC	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 autant	autant	ADV	_
 que	que	CS	_
 ses	son	DET	_
@@ -51298,7 +51400,8 @@ je	je	CLS	_
 puis	pouvoir	V	_
 dire	dire	VINF	_
 ,	,	PONCT	_
-quant_à	quant_à	P	_
+quant	quant	ADV	_
+à	à	P	_
 ce	ce	PRO	_
 qui	qui	PROREL	_
 me	je	CLO	_
@@ -51387,7 +51490,7 @@ Entourées	entourer	VPP	_
 de	de	P	_
 défaillances	défaillance	NC	_
 ,	,	PONCT	_
-abandonnées	abandonnées	NC	_
+abandonnées	abandonner	NC	_
 ,	,	PONCT	_
 il	il	CLS	_
 est	être	V	_
@@ -51986,7 +52089,7 @@ rationnelle	rationnel	ADJ	_
 ne	ne	ADV	_
 se	se	CLO	_
 manifeste	manifester	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 après	après	P	_
 une	un	DET	_
 suite	suite	NC	_
@@ -52169,7 +52272,7 @@ besoin	besoin	NC	_
 physique	physique	ADJ	_
 ou	ou	CC	_
 moral	moral	ADJ	_
-auquel	auquel	PROREL	_
+auquel	à_lequel	PROREL	_
 il	il	CLS	_
 faut	falloir	V	_
 satisfaire	satisfaire	VINF	_
@@ -52580,7 +52683,7 @@ d'	de	P	_
 Nos	notre	DET	_
 architectes	architecte	NC	_
 ,	,	PONCT	_
-auxquels	auquel	PROREL	_
+auxquels	à_lequel	PROREL	_
 l'	le	DET	_
 enseignement	enseignement	NC	_
 actuel	actuel	ADJ	_
@@ -52626,7 +52729,8 @@ la	le	DET	_
 matière	matière	NC	_
 utilisée	utiliser	VPP	_
 ,	,	PONCT	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 ils	il	CLS	_
 se	se	CLO	_
 soumettent	soumettre	V	_
@@ -53175,7 +53279,7 @@ jeunes	jeune	ADJ	_
 et	et	CC	_
 chercheurs	chercheur	ADJ	_
 ,	,	PONCT	_
-auxquels	auquel	PROREL	_
+auxquels	à_lequel	PROREL	_
 l'	le	DET	_
 avenir	avenir	NC	_
 appartient	appartenir	V	_
@@ -53270,7 +53374,7 @@ un	un	DET	_
 programme	programme	NC	_
 connu	connaître	VPP	_
 de	de	P	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 et	et	CC	_
 présentant	présenter	VPR	_
 une	un	DET	_
@@ -53390,7 +53494,8 @@ plafonds	plafond	NC	_
 facilement	facilement	ADV	_
 accessibles	accessible	ADJ	_
 ,	,	PONCT	_
-tandis_que	tandis_que	CS	_
+tandis	tandis	ADV	_
+que	que	CS	_
 les	le	DET	_
 services	service	NC	_
 secondaires	secondaire	ADJ	_
@@ -53481,7 +53586,7 @@ destinées	destiner	VPP	_
 aux	à_le	P+D	_
 bureaux	bureau	NC	_
 sont	être	V	_
-entre-solées	entre-solées	ADJ	_
+entre-solées	entre-solé	ADJ	_
 et	et	CC	_
 possèdent	posséder	V	_
 leurs	leur	DET	_
@@ -53641,7 +53746,7 @@ Le	le	DET	_
 simple	simple	NC	_
 bon	bon	ADJ	_
 sens	sens	NC	_
-indique	indique	ADJ	_
+indique	indiquer	ADJ	_
 que	que	CS	_
 de	un	DET	_
 grandes	grand	ADJ	_
@@ -53886,7 +53991,8 @@ pour	pour	P	_
 des	un	DET	_
 banquets	banquet	NC	_
 ,	,	PONCT	_
-tandis_que	tandis_que	CS	_
+tandis	tandis	ADV	_
+que	que	CS	_
 la	le	DET	_
 forme	forme	NC	_
 carrée	carré	ADJ	_
@@ -53979,14 +54085,16 @@ que	que	ADV	_
 de	de	P	_
 4	4	DET	_
 mètres	mètre	NC	_
-au-dessus	au-dessus	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 du	de_le	P+D	_
 parquet	parquet	NC	_
 ,	,	PONCT	_
 et	et	CC	_
 n'	ne	ADV	_
 est	être	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 un	un	DET	_
 ouvrage	ouvrage	NC	_
 de	de	P	_
@@ -54037,7 +54145,9 @@ et	et	CC	_
 relevés	relever	VPP	_
 par	par	P	_
 conséquent	conséquent	NC	_
-au-dessus	au-dessus	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 du	de_le	P+D	_
 pavé	pavé	NC	_
 de	de	P	_
@@ -54066,7 +54176,9 @@ tribune	un	NC	_
 qui	qui	PROREL	_
 forme	former	V	_
 plafond	plafond	NC	_
-au-dessus	au-dessus	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 du	de_le	P+D	_
 vestibule	vestibule	NC	_
 ,	,	PONCT	_
@@ -54418,7 +54530,9 @@ classique	classique	ADJ	_
 à	à	P	_
 *	*	PONCT	_
 *	*	PONCT	_
-au-dessus	au-dessus	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 de	de	P	_
 l'	le	DET	_
 horizon	horizon	NC	_
@@ -54479,7 +54593,8 @@ aux	à_le	P+D	_
 deux	deux	ADJ	_
 extrémités	extrémité	NC	_
 ,	,	PONCT	_
-afin_de	afin_de	P	_
+afin	afin	ADV	_
+de	de	P	_
 donner	donner	VINF	_
 une	un	DET	_
 gare	gare	NC	_
@@ -54578,7 +54693,7 @@ nos	notre	DET	_
 constructions	construction	NC	_
 modernes	moderne	ADJ	_
 ,	,	PONCT	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 à	à	P	_
 faire	faire	VINF	_
 l'	le	DET	_
@@ -55195,7 +55310,7 @@ est	être	V	_
 tracée	tracer	VPP	_
 en	en	P	_
 E.	E.	NP	_
-Ces	Ces	NP	_
+Ces	ce	NP	_
 fers	fer	NC	_
 sont	être	V	_
 réunis	réunir	VPP	_
@@ -55227,12 +55342,13 @@ supérieur	supérieur	ADJ	_
 ainsi	ainsi	ADV	_
 que	que	CS	_
 l'	le	DET	_
-indique	indique	NC	_
+indique	indiquer	NC	_
 le	le	DET	_
 détail	détail	NC	_
 G	G	NC	_
 ,	,	PONCT	_
-afin_de	afin_de	P	_
+afin	afin	ADV	_
+de	de	P	_
 laisser	laisser	VINF	_
 passer	passer	VINF	_
 le	le	DET	_
@@ -55692,7 +55808,7 @@ et	et	CC	_
 n'	ne	ADV	_
 avoir	avoir	VINF	_
 ainsi	ainsi	ADV	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 un	un	DET	_
 ou	ou	CC	_
 deux	deux	DET	_
@@ -56323,7 +56439,8 @@ mais	mais	CC	_
 en	en	P	_
 dehors	dehors	NC	_
 ,	,	PONCT	_
-afin_de	afin_de	P	_
+afin	afin	ADV	_
+de	de	P	_
 bien	bien	ADV	_
 couvrir	couvrir	VINF	_
 le	le	DET	_
@@ -56504,12 +56621,13 @@ terminent	terminer	V	_
 ainsi	ainsi	ADV	_
 que	que	CS	_
 l'	le	DET	_
-indique	indique	NC	_
+indique	indiquer	NC	_
 le	le	DET	_
 détail	détail	NC	_
 Geng	Geng	NP	_
 ,	,	PONCT	_
-afin_de	afin_de	P	_
+afin	afin	ADV	_
+de	de	P	_
 recevoir	recevoir	VINF	_
 les	le	DET	_
 supports	support	NC	_
@@ -56840,7 +56958,7 @@ le	il	CLO	_
 voit	voir	V	_
 en	en	P	_
 N.	N.	NC	_
-Pour	Pour	NP	_
+Pour	pour	NP	_
 réunir	réunir	VINF	_
 ces	ce	DET	_
 branches	branche	NC	_
@@ -57010,7 +57128,7 @@ incommodes	incommode	ADJ	_
 ,	,	PONCT	_
 pour	pour	P	_
 entrer	entrer	VINF	_
-résolûment	résolûment	NC	_
+résolûment	résolument	NC	_
 dans	dans	P	_
 l'	le	DET	_
 adoption	adoption	NC	_
@@ -57628,7 +57746,7 @@ ne	ne	ADV	_
 saurait	savoir	V	_
 posséder	posséder	VINF	_
 les	le	DET	_
-priviléges	priviléges	NC	_
+priviléges	privilège	NC	_
 attribués	attribuer	VPP	_
 à	à	P	_
 l'	le	DET	_
@@ -57977,7 +58095,8 @@ rigide	rigide	ADJ	_
 et	et	CC	_
 incompressible	incompressible	ADJ	_
 ,	,	PONCT	_
-tandis_que	tandis_que	CS	_
+tandis	tandis	ADV	_
+que	que	CS	_
 la	le	DET	_
 maçonnerie	maçonnerie	NC	_
 ,	,	PONCT	_
@@ -58026,7 +58145,8 @@ subira	subir	V	_
 un	un	DET	_
 tassement	tassement	NC	_
 ,	,	PONCT	_
-tandis_que	tandis_que	CS	_
+tandis	tandis	ADV	_
+que	que	CS	_
 la	le	DET	_
 colonne	colonne	NC	_
 conservera	conserver	V	_
@@ -58787,7 +58907,8 @@ ferronnerie	ferronnerie	NC	_
 coûte	coûter	V	_
 cher	cher	ADJ	_
 ,	,	PONCT	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 elle	il	CLS	_
 exige	exiger	V	_
 une	un	DET	_
@@ -58953,7 +59074,9 @@ ne	ne	ADV	_
 verra	voir	V	_
 pas	pas	ADV	_
 ,	,	PONCT	_
-au-dessous	au-dessous	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessous	dessous	ADV	_
 des	un	DET	_
 surfaces	surface	NC	_
 pleines	plein	ADJ	_
@@ -59382,7 +59505,8 @@ un	un	DET	_
 poids	poids	NC	_
 exagéré	exagéré	ADJ	_
 ,	,	PONCT	_
-afin_qu'	afin_que	CS	_
+afin	afin	ADV	_
+qu'	que	CS	_
 elles	il	CLS	_
 pussent	pouvoir	V	_
 se	se	CLO	_
@@ -59768,7 +59892,7 @@ murs	mur	NC	_
 ne	ne	ADV	_
 sont	être	V	_
 là	là	ADV	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 une	un	DET	_
 enveloppe	enveloppe	NC	_
 assez	assez	ADV	_
@@ -59853,7 +59977,7 @@ coupe	coupe	NC	_
 Elles	il	CLS	_
 viennent	venir	V	_
 aboutir	aboutir	VINF	_
-toutes	tous	PRO	_
+toutes	tout	PRO	_
 à	à	P	_
 des	un	DET	_
 poinçons	poinçon	NC	_
@@ -59903,7 +60027,7 @@ Etdebeng	Etdebeng	NP	_
 .	.	PONCT	_
 La	le	DET	_
 coupe	coupe	NC	_
-indique	indique	ADJ	_
+indique	indiquer	ADJ	_
 en	en	P	_
 C	C	NC	_
 les	le	DET	_
@@ -59920,7 +60044,7 @@ un	un	DET	_
 poinçon	poinçon	NC	_
 central	central	ADJ	_
 G.	G.	NP	_
-Ces	Ces	NP	_
+Ces	ce	NP	_
 fermes	ferme	ADJ	_
 Ab	Ab	NP	_
 ,	,	PONCT	_
@@ -59950,7 +60074,7 @@ Ki	Ki	NP	_
 ,	,	PONCT	_
 Kl	Kl	NP	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 ,	,	PONCT	_
 qui	qui	PROREL	_
 ne	ne	ADV	_
@@ -59989,7 +60113,7 @@ Kn	Kn	NP	_
 ,	,	PONCT	_
 Ko	Ko	NC	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 ,	,	PONCT	_
 qui	qui	PROREL	_
 reportent	reporter	V	_
@@ -60299,7 +60423,8 @@ les	le	DET	_
 moyens	moyen	NC	_
 employés	employer	VPP	_
 ,	,	PONCT	_
-afin_de	afin_de	P	_
+afin	afin	ADV	_
+de	de	P	_
 montrer	montrer	VINF	_
 que	que	CS	_
 ce	ce	DET	_
@@ -60347,7 +60472,7 @@ du	de_le	P+D	_
 sommier	sommier	NC	_
 vertical	vertical	ADJ	_
 ,	,	PONCT	_
-auquel	auquel	PROREL	_
+auquel	à_lequel	PROREL	_
 les	le	DET	_
 fermes	ferme	NC	_
 s'	se	CLO	_
@@ -60459,7 +60584,7 @@ chapiteau	chapiteau	NC	_
 ainsi	ainsi	ADV	_
 que	que	CS	_
 l'	le	DET	_
-indique	indique	NC	_
+indique	indiquer	NC	_
 en	en	P	_
 A	A	NC	_
 l'	le	DET	_
@@ -60620,7 +60745,7 @@ est	être	V	_
 tracée	tracer	VPP	_
 en	en	P	_
 L.	L.	NP	_
-Ces	Ces	NP	_
+Ces	ce	NP	_
 fermes	ferme	ADJ	_
 ,	,	PONCT	_
 en	en	P	_
@@ -60748,7 +60873,9 @@ O	O	NC	_
 contre	contre	P	_
 ces	ce	DET	_
 poinçons	poinçon	NC	_
-au-dessus	au-dessus	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 du	de_le	P+D	_
 cul-de-lampe	cul-de-lampe	NC	_
 .	.	PONCT	_
@@ -61017,7 +61144,8 @@ systématiquement	systématiquement	ADV	_
 certaines	certain	DET	_
 formes	forme	NC	_
 ,	,	PONCT	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 elles	il	CLS	_
 appartiennent	appartenir	V	_
 à	à	P	_
@@ -61046,7 +61174,8 @@ des	de_le	P+D	_
 nouveaux	nouveau	ADJ	_
 matériaux	matériau	NC	_
 ,	,	PONCT	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 elles	il	CLS	_
 sont	être	V	_
 réputées	réputer	VPP	_
@@ -61184,7 +61313,7 @@ ferrures	ferrure	NC	_
 rayonnantes	rayonnant	ADJ	_
 semblables	semblable	ADJ	_
 qui	qui	PROREL	_
-toutes	tous	PRO	_
+toutes	tout	PRO	_
 viennent	venir	V	_
 aboutir	aboutir	VINF	_
 à	à	P	_
@@ -61295,7 +61424,7 @@ système	système	NC	_
 des	de_le	P+D	_
 réseaux	réseau	NC	_
 ,	,	PONCT	_
-auquel	auquel	PROREL	_
+auquel	à_lequel	PROREL	_
 se	se	CLO	_
 prête	prêter	V	_
 si	si	ADV	_
@@ -61381,7 +61510,7 @@ de	de	P	_
 fermes	ferme	NC	_
 semblables	semblable	ADJ	_
 aboutissant	aboutir	VPR	_
-toutes	tous	PRO	_
+toutes	tout	PRO	_
 à	à	P	_
 un	un	DET	_
 oeil	œil	NC	_
@@ -61993,7 +62122,8 @@ de	de	P	_
 leurs	leur	DET	_
 enfants	enfant	NC	_
 ,	,	PONCT	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 ils	il	CLS	_
 prétendent	prétendre	V	_
 que	que	CS	_
@@ -62287,7 +62417,7 @@ et	et	CC	_
 des	un	DET	_
 réticences	réticence	NC	_
 de	de	P	_
-dévotes	dévote	NC	_
+dévotes	dévot	NC	_
 en	en	P	_
 face	face	NC	_
 de	de	P	_
@@ -62623,7 +62753,7 @@ soumission	soumission	NC	_
 ne	ne	ADV	_
 fût	être	V	_
 -elle	il	CLS	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 apparente	apparent	ADJ	_
 ,	,	PONCT	_
 puisse	pouvoir	V	_
@@ -63017,7 +63147,8 @@ de	de	P	_
 ce	ce	DET	_
 monde	monde	NC	_
 que	que	ADV	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 ils	il	CLS	_
 ont	avoir	V	_
 une	un	DET	_
@@ -63126,7 +63257,7 @@ les	le	DET	_
 corps	corps	NC	_
 ,	,	PONCT	_
 quels	quel	DET	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 ils	il	CLS	_
 soient	être	V	_
 et	et	CC	_
@@ -63212,7 +63343,7 @@ est	être	V	_
 essentiellement	essentiellement	ADV	_
 libre	libre	ADJ	_
 ,	,	PONCT	_
-mouvante	mouvant	ADJ	_
+mouvante	mouvoir	ADJ	_
 ;	;	PONCT	_
 elle	il	CLS	_
 se	se	CLO	_
@@ -63304,7 +63435,8 @@ n'	ne	ADV	_
 est	être	V	_
 telle	tel	ADJ	_
 que	que	ADV	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 ,	,	PONCT	_
 sous	sous	P	_
 l'	le	DET	_
@@ -63738,7 +63870,8 @@ de	de	P	_
 l'	le	DET	_
 institut	institut	NC	_
 ,	,	PONCT	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 cette	ce	DET	_
 académie	académie	NC	_
 des	de_le	P+D	_
@@ -63839,7 +63972,7 @@ il	il	CLS	_
 lui	il	CLO	_
 faut	falloir	V	_
 plus	plus	ADV	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 un	un	DET	_
 peu	peu	NC	_
 d'	de	P	_
@@ -64079,7 +64212,7 @@ esprits	esprit	NC	_
 indépendants	indépendant	ADJ	_
 ,	,	PONCT	_
 et	et	CC	_
-auxquels	auquel	PROREL	_
+auxquels	à_lequel	PROREL	_
 on	on	CLS	_
 ne	ne	ADV	_
 saurait	savoir	V	_
@@ -64141,7 +64274,7 @@ je	je	CLS	_
 n'	ne	ADV	_
 en	en	CLO	_
 développerai	développer	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 une	un	DET	_
 ,	,	PONCT	_
 savoir	savoir	VINF	_
@@ -64200,7 +64333,8 @@ académie	académie	NC	_
 des	de_le	P+D	_
 beaux-arts	beaux-arts	NC	_
 ,	,	PONCT	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 l'	le	DET	_
 état	état	NC	_
 ,	,	PONCT	_
@@ -64706,7 +64840,7 @@ maintenir	maintenir	VINF	_
 dans	dans	P	_
 son	son	DET	_
 unité	unité	NC	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 à	à	P	_
 la	le	DET	_
 condition	condition	NC	_
@@ -64787,7 +64921,7 @@ ces	ce	DET	_
 débris	débris	NC	_
 ne	ne	ADV	_
 font	faire	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 embarrasser	embarrasser	VINF	_
 .	.	PONCT	_
 Au	à_le	P+D	_
@@ -64824,7 +64958,7 @@ rebours	rebours	NC	_
 ,	,	PONCT	_
 étant	être	VPR	_
 pour	pour	P	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 et	et	CC	_
 particulièrement	particulièrement	ADV	_
 pour	pour	P	_
@@ -64916,7 +65050,8 @@ ou	ou	CC	_
 d'	de	P	_
 art	art	NC	_
 ,	,	PONCT	_
-afin_de	afin_de	P	_
+afin	afin	ADV	_
+de	de	P	_
 définir	définir	VINF	_
 son	son	DET	_
 action	action	NC	_
@@ -65194,7 +65329,7 @@ respect	respect	NC	_
 pour	pour	P	_
 des	un	DET	_
 intérêts	intérêt	NC	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 elle	il	CLS	_
 avoua	avouer	V	_
 n'	ne	ADV	_
@@ -65269,7 +65404,7 @@ réconciliation	réconciliation	NC	_
 n'	ne	ADV	_
 est	être	V	_
 obtenue	obtenir	VPP	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 au	à_le	P+D	_
 prix	prix	NC	_
 d'	de	P	_
@@ -65340,7 +65475,7 @@ Il	il	CLS	_
 n'	ne	ADV	_
 y	y	CLO	_
 a	avoir	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 un	un	DET	_
 moyen	moyen	NC	_
 de	de	P	_
@@ -65701,7 +65836,7 @@ préoccupées	préoccuper	VPP	_
 de	de	P	_
 maintenir	maintenir	VINF	_
 leurs	leur	DET	_
-priviléges	priviléges	NC	_
+priviléges	privilège	NC	_
 vieillis	vieillir	VPP	_
 que	que	CS	_
 d'	de	P	_
@@ -65767,7 +65902,8 @@ les	le	DET	_
 gens	gens	NC	_
 riches	riche	ADJ	_
 ,	,	PONCT	_
-afin_de	afin_de	P	_
+afin	afin	ADV	_
+de	de	P	_
 confisquer	confisquer	VINF	_
 leurs	leur	DET	_
 biens	bien	NC	_
@@ -66187,7 +66323,8 @@ arrivez	arriver	V	_
 à	à	P	_
 l'	le	DET	_
 institut	institut	NC	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 vous	vous	CLS	_
 avez	avoir	V	_
 été	être	VPP	_
@@ -66421,7 +66558,7 @@ l'	le	DET	_
 administration	administration	NC	_
 ,	,	PONCT	_
 les	le	DET	_
-priviléges	priviléges	NC	_
+priviléges	privilège	NC	_
 de	de	P	_
 la	le	DET	_
 congrégation	congrégation	NC	_
@@ -66663,7 +66800,7 @@ se	se	CLO	_
 trouvent	trouver	V	_
 -elles	il	CLS	_
 bientôt	bientôt	ADV	_
-complétement	complétement	ADV	_
+complétement	complètement	ADV	_
 à	à	P	_
 la	le	DET	_
 merci	merci	NC	_
@@ -66728,7 +66865,7 @@ n'	ne	ADV	_
 entendant	entendre	VPR	_
 plus	plus	ADV	_
 exprimer	exprimer	VINF	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 une	un	DET	_
 seule	seul	ADJ	_
 opinion	opinion	NC	_
@@ -67135,7 +67272,7 @@ polis	poli	ADJ	_
 des	un	DET	_
 mécomptes	mécompte	NC	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 C'	ce	CLS	_
 est	être	V	_
 encore	encore	ADV	_
@@ -67396,7 +67533,7 @@ de	de	P	_
 la	le	DET	_
 bonne	bon	ADJ	_
 architecture	architecture	NC	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 en	en	P	_
 1671	1671	NC	_
 date	dater	V	_
@@ -67501,7 +67638,7 @@ avait	avoir	V	_
 point	point	ADV	_
 le	le	DET	_
 caractère	caractère	NC	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 elle	il	CLS	_
 a	avoir	V	_
 pris	prendre	VPP	_
@@ -67595,7 +67732,7 @@ par	par	P	_
 Colbert	Colbert	NP	_
 en	en	P	_
 1671	1671	NC	_
-Ces	Ces	ADJ	_
+Ces	ce	ADJ	_
 deux	deux	DET	_
 fondations	fondation	NC	_
 étaient	être	V	_
@@ -67621,7 +67758,7 @@ l'on	on	CLS	_
 ne	ne	ADV	_
 fait	faire	V	_
 attention	attention	NC	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 à	à	P	_
 leur	leur	DET	_
 titre	titre	NC	_
@@ -67852,7 +67989,7 @@ en	en	P	_
 consacrant	consacrer	VPR	_
 ce	ce	DET	_
 nouveau	nouveau	ADJ	_
-privilége	privilége	NC	_
+privilége	privilège	NC	_
 ,	,	PONCT	_
 Mazarin	Mazarin	NP	_
 et	et	CC	_
@@ -67891,7 +68028,9 @@ et	et	CC	_
 nouvelles	nouveau	ADJ	_
 ;	;	PONCT	_
 élevées	élever	VPP	_
-au-dessus	au-dessus	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 des	de_le	P+D	_
 autres	autre	NC	_
 ,	,	PONCT	_
@@ -67901,7 +68040,8 @@ veut	vouloir	V	_
 ;	;	PONCT	_
 libérales	libéral	ADJ	_
 ,	,	PONCT	_
-tandis_que	tandis_que	CS	_
+tandis	tandis	ADV	_
+que	que	CS	_
 les	le	DET	_
 autres	autre	NC	_
 tenaient	tenir	V	_
@@ -68021,7 +68161,7 @@ l'	le	DET	_
 honneur	honneur	NC	_
 ou	ou	CC	_
 au	à_le	P+D	_
-privilége	privilége	NC	_
+privilége	privilège	NC	_
 du	de_le	P+D	_
 libre	libre	ADJ	_
 exercice	exercice	NC	_
@@ -68080,7 +68220,8 @@ donna	donner	V	_
 le	le	DET	_
 logement	logement	NC	_
 .	.	PONCT	_
-En_outre	en_outre	ADV	_
+En	en	P	_
+outre	outre	P	_
 du	de_le	P+D	_
 libre	libre	ADJ	_
 exercice	exercice	NC	_
@@ -68093,7 +68234,7 @@ objet	objet	NC	_
 d'	de	P	_
 un	un	DET	_
 autre	autre	NC	_
-privilége	privilége	ADJ	_
+privilége	privilège	ADJ	_
 des	de_le	P+D	_
 académies	académie	NC	_
 ;	;	PONCT	_
@@ -68284,7 +68425,9 @@ Ils	il	CLS	_
 à	à	P	_
 côté	côté	NC	_
 ou	ou	CC	_
-au-dessus	au-dessus	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 ,	,	PONCT	_
 une	un	DET	_
 corporation	corporation	NC	_
@@ -68310,11 +68453,11 @@ de	de	P	_
 Louis_XIV	Louis_XIV	NP	_
 ente	enter	V	_
 un	un	DET	_
-privilége	privilége	NC	_
+privilége	privilège	NC	_
 sur	sur	P	_
 d'	un	DET	_
 anciens	ancien	ADJ	_
-priviléges	priviléges	NC	_
+priviléges	privilège	NC	_
 .	.	PONCT	_
 D'	de	P	_
 ailleurs	ailleurs	NC	_
@@ -68424,10 +68567,12 @@ féodalité	féodalité	NC	_
 .	.	PONCT	_
 Il	il	CLS	_
 élevait	élever	V	_
-au-dessus	au-dessus	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 des	de_le	P+D	_
 vieux	vieux	ADJ	_
-priviléges	priviléges	NC	_
+priviléges	privilège	NC	_
 ,	,	PONCT	_
 qui	qui	PROREL	_
 pouvaient	pouvoir	V	_
@@ -68438,7 +68583,7 @@ absolu	absolu	ADJ	_
 ,	,	PONCT	_
 de	de	P	_
 nouveaux	nouveau	ADJ	_
-priviléges	priviléges	NC	_
+priviléges	privilège	NC	_
 plus	plus	ADV	_
 forts	fort	ADJ	_
 et	et	CC	_
@@ -68530,7 +68675,7 @@ bientôt	bientôt	ADV	_
 abritée	abriter	VPP	_
 derrière	derrière	P	_
 les	le	DET	_
-priviléges	priviléges	NC	_
+priviléges	privilège	NC	_
 particuliers	particulier	ADJ	_
 dont	dont	PROREL	_
 elle	il	CLS	_
@@ -68817,7 +68962,7 @@ n'	ne	ADV	_
 acceptent	accepter	V	_
 un	un	DET	_
 concordat	concordat	NC	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 avec	avec	P	_
 l'	le	DET	_
 espoir	espoir	NC	_
@@ -68930,7 +69075,7 @@ beaux-arts	beaux-arts	NC	_
 qui	qui	PROREL	_
 n'	ne	ADV	_
 est	être	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 une	un	DET	_
 concentration	concentration	NC	_
 des	de_le	P+D	_
@@ -69456,7 +69601,8 @@ que	que	PROREL	_
 je	je	CLS	_
 déclare	déclarer	V	_
 dangereuses	dangereux	ADJ	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 elles	il	CLS	_
 me	je	CLO	_
 sont	être	V	_
@@ -69585,7 +69731,7 @@ argument	argument	NC	_
 Il	il	CLS	_
 n'	ne	ADV	_
 aurait	avoir	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 à	à	P	_
 s'	se	CLO	_
 exprimer	exprimer	VINF	_
@@ -69692,7 +69838,8 @@ plus	plus	ADV	_
 entière	entier	ADJ	_
 liberté	liberté	NC	_
 ,	,	PONCT	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 je	je	CLS	_
 ne	ne	ADV	_
 prétends	prétendre	V	_
@@ -69726,7 +69873,7 @@ siècle	siècle	NC	_
 a	avoir	V	_
 aboli	abolir	VPP	_
 les	le	DET	_
-priviléges	priviléges	NC	_
+priviléges	privilège	NC	_
 et	et	CC	_
 les	le	DET	_
 monopoles	monopole	NC	_
@@ -69759,7 +69906,8 @@ protéger	protéger	VINF	_
 vous	vous	CLO	_
 soutenir	soutenir	VINF	_
 ,	,	PONCT	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 ma	mon	DET	_
 protection	protection	NC	_
 spéciale	spécial	ADJ	_
@@ -69792,7 +69940,7 @@ concurrence	concurrence	NC	_
 Si	si	CS	_
 je	je	CLS	_
 vous	vous	CLO	_
-protége	protége	V	_
+protége	protéger	V	_
 ,	,	PONCT	_
 si	si	CS	_
 je	je	CLS	_
@@ -70042,7 +70190,7 @@ peut	pouvoir	V	_
 plus	plus	ADV	_
 admettre	admettre	VINF	_
 de	de	P	_
-priviléges	priviléges	NC	_
+priviléges	privilège	NC	_
 ni	ni	CC	_
 de	de	P	_
 privilégiés	privilégié	NC	_
@@ -70139,7 +70287,8 @@ je	je	CLS	_
 vous	vous	CLO	_
 le	il	CLO	_
 donne	donner	V	_
-afin_de	afin_de	P	_
+afin	afin	ADV	_
+de	de	P	_
 bien	bien	ADV	_
 vous	vous	CLO	_
 pénétrer	pénétrer	VINF	_
@@ -70156,7 +70305,7 @@ et	et	CC	_
 protection	protection	NC	_
 égale	égal	ADJ	_
 pour	pour	P	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 ,	,	PONCT	_
 les	le	DET	_
 subventions	subvention	NC	_
@@ -70192,7 +70341,7 @@ je	je	CLS	_
 ne	ne	ADV	_
 puis	pouvoir	V	_
 croire	croire	VINF	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 ils	il	CLS	_
 aient	avoir	V	_
 toujours	toujours	ADV	_
@@ -70253,7 +70402,7 @@ comme	comme	P	_
 l'	le	DET	_
 est	est	NC	_
 le	le	DET	_
-collége	collége	NC	_
+collége	collège	NC	_
 de	de	P	_
 France	France	NP	_
 ,	,	PONCT	_
@@ -70864,7 +71013,7 @@ n'	ne	ADV	_
 y	y	CLO	_
 en	en	CLO	_
 ait	avoir	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 un	un	DET	_
 )	)	PONCT	_
 aura	avoir	V	_
@@ -71333,7 +71482,7 @@ personnes	personne	NC	_
 qui	qui	PROREL	_
 n'	ne	ADV	_
 intéressent	intéresser	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 un	un	DET	_
 corps	corps	NC	_
 privilégié	privilégié	ADJ	_
@@ -71748,7 +71897,7 @@ administration	administration	NC	_
 n'	ne	ADV	_
 est	être	V	_
 due	devoir	VPP	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 à	à	P	_
 la	le	DET	_
 valeur	valeur	NC	_
@@ -71946,7 +72095,8 @@ de	de	P	_
 l'	le	DET	_
 état	état	NC	_
 .	.	PONCT	_
-Quant_à	quant_à	P	_
+Quant	quant	ADV	_
+à	à	P	_
 ce	ce	PRO	_
 qui	qui	PROREL	_
 concerne	concerner	V	_
@@ -72526,7 +72676,7 @@ jour	jour	NC	_
 où	où	PROREL	_
 elle	il	CLS	_
 deviendrait	devenir	V	_
-complétement	complétement	ADV	_
+complétement	complètement	ADV	_
 indépendante	indépendant	ADJ	_
 et	et	CC	_
 aurait	avoir	V	_
@@ -72623,7 +72773,7 @@ est	être	V	_
 bien	bien	ADV	_
 entendu	entendre	VPP	_
 ,	,	PONCT	_
-complétement	complétement	ADV	_
+complétement	complètement	ADV	_
 renouvelé	renouveler	VPP	_
 .	.	PONCT	_
 La	le	DET	_
@@ -72772,7 +72922,8 @@ de	de	P	_
 la	le	DET	_
 minorité	minorité	NC	_
 ,	,	PONCT	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 la	le	DET	_
 minorité	minorité	NC	_
 ,	,	PONCT	_
@@ -73034,7 +73185,7 @@ privées	privé	ADJ	_
 ,	,	PONCT	_
 et	et	CC	_
 le	le	DET	_
-collége	collége	NC	_
+collége	collège	NC	_
 de	de	P	_
 France	France	NP	_
 ?	?	PONCT	_
@@ -73168,7 +73319,8 @@ des	de_le	P+D	_
 médiocrités	médiocrité	NC	_
 satisfaites	satisfait	ADJ	_
 .	.	PONCT	_
-Quant_au	quant_à_le	P+D	_
+Quant	quant	ADV	_
+au	à_le	P+D	_
 régime	régime	NC	_
 de	de	P	_
 l'	le	DET	_
@@ -73439,7 +73591,8 @@ doutant	douter	VPR	_
 de	de	P	_
 lui	il	PRO	_
 ,	,	PONCT	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 il	il	CLS	_
 entrevoit	entrevoir	V	_
 vaguement	vaguement	ADV	_
@@ -73447,7 +73600,8 @@ un	un	DET	_
 rude	rude	ADJ	_
 labeur	labeur	NC	_
 ,	,	PONCT	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 il	il	CLS	_
 se	se	CLO	_
 sent	sentir	V	_
@@ -73606,7 +73760,7 @@ partis	partir	VPP	_
 en	en	P	_
 donnant	donner	VPR	_
 de	de	P	_
-brillantes	brillant	ADJ	_
+brillantes	briller	ADJ	_
 espérances	espérance	NC	_
 ,	,	PONCT	_
 font	faire	V	_
@@ -73855,7 +74009,7 @@ donnant	donner	VPR	_
 la	le	DET	_
 liberté	liberté	NC	_
 à	à	P	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 ,	,	PONCT	_
 il	il	CLS	_
 redeviendra	redevenir	V	_
@@ -74043,7 +74197,7 @@ seule	seul	ADJ	_
 école	école	NC	_
 pourvue	pourvoir	VPP	_
 de	de	P	_
-priviléges	priviléges	NC	_
+priviléges	privilège	NC	_
 et	et	CC	_
 soumise	soumettre	VPP	_
 ,	,	PONCT	_
@@ -74414,7 +74568,8 @@ industries	industrie	NC	_
 du	de_le	P+D	_
 bâtiment	bâtiment	NC	_
 ,	,	PONCT	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 ils	il	CLS	_
 daignent	daigner	V	_
 faire	faire	VINF	_
@@ -74596,7 +74751,7 @@ exclusif	exclusif	ADJ	_
 et	et	CC	_
 n'	ne	ADV	_
 aspirant	aspirer	VPR	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 aux	à_le	P+D	_
 récompenses	récompense	NC	_
 qui	qui	PROREL	_
@@ -74913,7 +75068,8 @@ lieu	lieu	NC	_
 d'	de	P	_
 avancer	avancer	VINF	_
 ,	,	PONCT	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 on	on	CLS	_
 recule	reculer	V	_
 dans	dans	P	_
@@ -74958,7 +75114,7 @@ et	et	CC	_
 les	il	CLO	_
 faisaient	faire	V	_
 entrer	entrer	VINF	_
-résolûment	résolûment	ADV	_
+résolûment	résolument	ADV	_
 dans	dans	P	_
 l'	le	DET	_
 arène	arène	NC	_
@@ -75005,7 +75161,8 @@ de	de	P	_
 celles	celui	PRO	_
 -ci	ci	ADV	_
 ,	,	PONCT	_
-afin_de	afin_de	P	_
+afin	afin	ADV	_
+de	de	P	_
 pouvoir	pouvoir	VINF	_
 satisfaire	satisfaire	VINF	_
 à	à	P	_
@@ -75406,7 +75563,7 @@ pas	pas	ADV	_
 lui	il	CLO	_
 laisser	laisser	VINF	_
 les	le	DET	_
-priviléges	priviléges	NC	_
+priviléges	privilège	NC	_
 attachés	attacher	VPP	_
 à	à	P	_
 la	le	DET	_
@@ -75779,7 +75936,7 @@ des	de_le	P+D	_
 ils	il	CLS	_
 ne	ne	ADV	_
 voient	voir	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 avec	avec	P	_
 dégoût	dégoût	NC	_
 ce	ce	DET	_
@@ -76121,9 +76278,9 @@ une	un	DET	_
 école	école	NC	_
 ,	,	PONCT	_
 la	le	DET	_
-meilleure	meilleure	NC	_
+meilleure	meilleur	NC	_
 de	de	P	_
-toutes	tous	PRO	_
+toutes	tout	PRO	_
 ;	;	PONCT	_
 car	car	CC	_
 il	il	CLS	_
@@ -76390,7 +76547,7 @@ volé	voler	VPP	_
 à	à	P	_
 l'	le	DET	_
 art	art	NC	_
-auquel	auquel	PROREL	_
+auquel	à_lequel	PROREL	_
 ses	son	DET	_
 aspirations	aspiration	NC	_
 le	il	CLO	_
@@ -76936,7 +77093,7 @@ Il	il	CLS	_
 n'	ne	ADV	_
 est	être	V	_
 donc	donc	ADV	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 un	un	DET	_
 moyen	moyen	NC	_
 aussi	aussi	ADV	_
@@ -76953,7 +77110,7 @@ est	être	V	_
 de	de	P	_
 se	se	CLO	_
 séparer	séparer	VINF	_
-complétement	complétement	ADV	_
+complétement	complètement	ADV	_
 de	de	P	_
 la	le	DET	_
 congrégation	congrégation	NC	_
@@ -77268,7 +77425,8 @@ médecine	médecine	NC	_
 passe	passer	V	_
 encore	encore	ADV	_
 ,	,	PONCT	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 l'	le	DET	_
 école	école	NC	_
 de	de	P	_
@@ -77299,7 +77457,8 @@ régulier	régulier	ADJ	_
 ,	,	PONCT	_
 organisé	organiser	VPP	_
 ;	;	PONCT	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 l'	le	DET	_
 état	état	NC	_
 croit	croire	V	_
@@ -77827,7 +77986,7 @@ l'	le	DET	_
 état	état	NC	_
 entretient	entretenir	V	_
 ,	,	PONCT	_
-protége	protége	V	_
+protége	protéger	V	_
 un	un	DET	_
 corps	corps	NC	_
 dont	dont	PROREL	_
@@ -77845,7 +78004,7 @@ maintient	maintenir	V	_
 envers	envers	P	_
 et	et	CC	_
 contre	contre	P	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 des	de_le	P+D	_
 formes	forme	NC	_
 d'	de	P	_
@@ -78194,7 +78353,7 @@ et	et	CC	_
 ne	ne	ADV	_
 doit	devoir	V	_
 être	être	VINF	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 indifférent	indifférent	ADJ	_
 en	en	P	_
 matière	matière	NC	_
@@ -78251,7 +78410,7 @@ est	être	V	_
 de	de	P	_
 les	il	CLO	_
 protéger	protéger	VINF	_
-toutes	tous	PRO	_
+toutes	tout	PRO	_
 de	de	P	_
 telle	tel	ADJ	_
 façon	façon	NC	_
@@ -78287,14 +78446,15 @@ lui	il	CLO	_
 imposent	imposer	V	_
 les	le	DET	_
 architectes	architecte	NC	_
-auxquels	auquel	PROREL	_
+auxquels	à_lequel	PROREL	_
 il	il	CLS	_
 s'	se	CLO	_
 adresse	adresser	V	_
 de	de	P	_
 préférence	préférence	NC	_
 ,	,	PONCT	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 ils	il	CLS	_
 sont	être	V	_
 sortis	sortir	VPP	_
@@ -78328,7 +78488,7 @@ les	le	DET	_
 administrations	administration	NC	_
 les	le	DET	_
 critiques	critique	NC	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 à	à	P	_
 tort	tort	NC	_
 ou	ou	CC	_
@@ -78698,7 +78858,7 @@ ou	ou	CC	_
 n'	ne	ADV	_
 est	être	V	_
 -elle	il	CLS	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 un	un	DET	_
 vêtement	vêtement	NC	_
 plus	plus	ADV	_
@@ -78824,7 +78984,7 @@ de	de	P	_
 la	le	DET	_
 terre	terre	NC	_
 d'	de	P	_
-égypte	égypte	NC	_
+égypte	Égypte	NC	_
 n'	ne	ADV	_
 aient	avoir	V	_
 été	être	VPP	_
@@ -78907,7 +79067,7 @@ dates	date	NC	_
 n'	ne	ADV	_
 ont	avoir	V	_
 ici	ici	ADV	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 une	un	DET	_
 importance	importance	NC	_
 secondaire	secondaire	ADJ	_
@@ -78958,7 +79118,7 @@ lorsqu'	lorsque	CS	_
 on	on	CLS	_
 élevait	élever	V	_
 en	en	P	_
-égypte	égypte	NC	_
+égypte	Égypte	NC	_
 les	le	DET	_
 plus	plus	ADV	_
 anciens	ancien	ADJ	_
@@ -79035,7 +79195,7 @@ sur	sur	P	_
 la	le	DET	_
 terre	terre	NC	_
 d'	de	P	_
-égypte	égypte	NC	_
+égypte	Égypte	NC	_
 ,	,	PONCT	_
 et	et	CC	_
 les	le	DET	_
@@ -79111,7 +79271,7 @@ le	le	DET	_
 sol	sol	NC	_
 de	de	P	_
 l'	le	DET	_
-égypte	égypte	NC	_
+égypte	Égypte	NC	_
 des	de_le	P+D	_
 peuplades	peuplade	NC	_
 autochthones	autochthones	ADJ	_
@@ -79219,7 +79379,7 @@ anciens	ancien	ADJ	_
 appartenant	appartenir	VPR	_
 à	à	P	_
 l'	le	DET	_
-égypte	égypte	NC	_
+égypte	Égypte	NC	_
 .	.	PONCT	_
 Mais	mais	CC	_
 nous	nous	CLS	_
@@ -79229,7 +79389,7 @@ ce	ce	DET	_
 sujet	sujet	NC	_
 .	.	PONCT	_
 L'	le	DET	_
-égypte	égypte	NC	_
+égypte	Égypte	NC	_
 ne	ne	ADV	_
 possédant	possédant	ADJ	_
 que	que	ADV	_
@@ -79372,7 +79532,8 @@ former	former	VINF	_
 des	un	DET	_
 plafonds	plafond	NC	_
 .	.	PONCT	_
-Quant_aux	quant_à_le	P+D	_
+quant	quant	ADV	_
+aux	à_le	P+D	_
 murs	mur	NC	_
 ,	,	PONCT	_
 aux	à_le	P+D	_
@@ -79425,7 +79586,8 @@ au	à_le	P+D	_
 règne	règne	NC	_
 végétal	végétal	ADJ	_
 ,	,	PONCT	_
-tandis_que	tandis_que	CS	_
+tandis	tandis	ADV	_
+que	que	CS	_
 les	le	DET	_
 murs	mur	NC	_
 restent	rester	V	_
@@ -79451,7 +79613,7 @@ appartiennent	appartenir	V	_
 spécialement	spécialement	ADV	_
 à	à	P	_
 l'	le	DET	_
-égypte	égypte	NC	_
+égypte	Égypte	NC	_
 ,	,	PONCT	_
 sont	être	V	_
 une	un	DET	_
@@ -79573,7 +79735,7 @@ obtenir	obtenir	VINF	_
 le	le	DET	_
 modèle	modèle	NC	_
 en	en	P	_
-abaissant	abaissant	VPR	_
+abaissant	abaisser	VPR	_
 leur	leur	DET	_
 contour	contour	NC	_
 .	.	PONCT	_
@@ -79722,7 +79884,7 @@ et	et	CC	_
 nous	nous	CLS	_
 comprenons	comprendre	V	_
 l'	le	DET	_
-égypte	égypte	NC	_
+égypte	Égypte	NC	_
 dans	dans	P	_
 ces	ce	DET	_
 civilisations	civilisation	NC	_
@@ -79784,7 +79946,9 @@ premiers	premier	NC	_
 ,	,	PONCT	_
 ont	avoir	V	_
 mis	mettre	VPP	_
-au-dessus	au-dessus	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 de	de	P	_
 la	le	DET	_
 tradition	tradition	NC	_
@@ -79887,7 +80051,7 @@ se	se	CLO	_
 sont	être	V	_
 octroyés	octroyer	VPP	_
 le	le	DET	_
-privilége	privilége	NC	_
+privilége	privilège	NC	_
 de	de	P	_
 comprendre	comprendre	VINF	_
 cet	ce	DET	_
@@ -80218,7 +80382,7 @@ divergents	divergent	ADJ	_
 et	et	CC	_
 probablement	probablement	ADV	_
 féconds	fécond	ADJ	_
-auxquels	auquel	PROREL	_
+auxquels	à_lequel	PROREL	_
 la	le	DET	_
 nouvelle	nouveau	ADJ	_
 religion	religion	NC	_
@@ -80254,7 +80418,7 @@ se	se	CLO	_
 jeter	jeter	VINF	_
 sur	sur	P	_
 l'	le	DET	_
-égypte	égypte	NC	_
+égypte	Égypte	NC	_
 et	et	CC	_
 l'	le	DET	_
 Asie	Asie	NP	_
@@ -80856,7 +81020,7 @@ employées	employer	VPP	_
 ,	,	PONCT	_
 des	un	DET	_
 besoins	besoin	NC	_
-auxquels	auquel	PROREL	_
+auxquels	à_lequel	PROREL	_
 il	il	CLS	_
 faut	falloir	V	_
 satisfaire	satisfaire	VINF	_
@@ -80884,7 +81048,7 @@ Asie	Asie	NP	_
 nous	nous	CLS	_
 comprenons	comprendre	V	_
 l'	le	DET	_
-égypte	égypte	NC	_
+égypte	Égypte	NC	_
 ,	,	PONCT	_
 -	-	PONCT	_
 n'	ne	ADV	_
@@ -81434,7 +81598,7 @@ métopes	métope	NC	_
 qui	qui	PROREL	_
 ne	ne	ADV	_
 sont	être	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 un	un	DET	_
 remplissage	remplissage	NC	_
 .	.	PONCT	_
@@ -81737,7 +81901,8 @@ sur	sur	P	_
 un	un	DET	_
 dessin	dessin	NC	_
 ,	,	PONCT	_
-tandis_qu'	tandis_que	CS	_
+tandis	tandis	ADV	_
+qu'	que	CS	_
 ils	il	CLS	_
 laissent	laisser	V	_
 aux	à_le	P+D	_
@@ -81770,7 +81935,7 @@ profondes	profond	ADJ	_
 qui	qui	PROREL	_
 ne	ne	ADV	_
 tendent	tendre	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 à	à	P	_
 faire	faire	VINF	_
 valoir	valoir	VINF	_
@@ -81920,7 +82085,7 @@ Ce	ce	CLS	_
 n'	ne	ADV	_
 est	être	V	_
 guère	guère	ADV	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 à	à	P	_
 dater	dater	VINF	_
 de	de	P	_
@@ -82044,7 +82209,7 @@ dans	dans	P	_
 les	le	DET	_
 écarts	écart	NC	_
 décoratifs	décoratif	ADJ	_
-auxquels	auquel	PROREL	_
+auxquels	à_lequel	PROREL	_
 leurs	leur	DET	_
 prétendus	prétendu	NC	_
 imitateurs	imitateur	ADJ	_
@@ -82306,7 +82471,7 @@ la	le	DET	_
 sculpture	sculpture	NC	_
 d'	de	P	_
 ornement	ornement	NC	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 avec	avec	P	_
 une	un	DET	_
 excessive	excessif	ADJ	_
@@ -82569,7 +82734,7 @@ celle	celui	PRO	_
 attribuée	attribuer	VPP	_
 à	à	P	_
 l'	le	DET	_
-égypte	égypte	NC	_
+égypte	Égypte	NC	_
 .	.	PONCT	_
 La	le	DET	_
 Mésopotamie	Mésopotamie	NP	_
@@ -82782,7 +82947,7 @@ inscriptions	inscription	NC	_
 ne	ne	ADV	_
 sont	être	V	_
 toujours	toujours	ADV	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 une	un	DET	_
 narration	narration	NC	_
 minutieuse	minutieux	ADJ	_
@@ -82858,7 +83023,9 @@ enfin	enfin	ADV	_
 ,	,	PONCT	_
 et	et	CC	_
 ,	,	PONCT	_
-par-dessus	par-dessus	P	_
+par	par	S	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 tout	tout	PRO	_
 ,	,	PONCT	_
 des	un	DET	_
@@ -83140,7 +83307,7 @@ reproduire	reproduire	VINF	_
 les	le	DET	_
 richesses	richesse	NC	_
 végétales	végétal	ADJ	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 ils	il	CLS	_
 exploitaient	exploiter	V	_
 ,	,	PONCT	_
@@ -83488,7 +83655,7 @@ disposées	disposer	VPP	_
 suivant	suivant	P	_
 les	le	DET	_
 services	service	NC	_
-auxquels	auquel	PROREL	_
+auxquels	à_lequel	PROREL	_
 elles	il	CLS	_
 devaient	devoir	V	_
 satisfaire	satisfaire	VINF	_
@@ -83612,7 +83779,7 @@ que	que	PROREL	_
 nous	nous	CLS	_
 possédons	posséder	V	_
 au	à_le	P+D	_
-louvre	louvre	NC	_
+louvre	Louvre	NP	_
 ,	,	PONCT	_
 ou	ou	CC	_
 de	de	P	_
@@ -83645,7 +83812,7 @@ palais	palais	NC	_
 de	de	P	_
 Khorsabad	Khorsabad	NP	_
 ,	,	PONCT	_
-M	M	NC	_
+M	monsieur	NC	_
 Place	Place	NP	_
 a	avoir	V	_
 encore	encore	ADV	_
@@ -83718,7 +83885,7 @@ les	le	DET	_
 découvertes	découverte	NC	_
 faites	faire	VPP	_
 par	par	P	_
-M	M	NC	_
+M	monsieur	NC	_
 Place	Place	NP	_
 et	et	CC	_
 les	le	DET	_
@@ -83758,7 +83925,9 @@ est	être	V	_
 un	un	DET	_
 monolithe	monolithe	NC	_
 .	.	PONCT	_
-Au-dessus	au-dessus	ADV	_
+Au	à_le	P+D	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 s'	se	CLO	_
 élèvent	élever	V	_
 les	le	DET	_
@@ -83976,7 +84145,7 @@ partie	partie	NC	_
 en	en	P	_
 briques	brique	NC	_
 ,	,	PONCT	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 en	en	P	_
 des	un	DET	_
 incrustements	incrustement	NC	_
@@ -84424,7 +84593,8 @@ qu'	que	CS	_
 la	le	DET	_
 sculpture	sculpture	NC	_
 .	.	PONCT	_
-Quant_à	quant_à	P	_
+Quant	quant	ADV	_
+à	à	P	_
 la	le	DET	_
 décoration	décoration	NC	_
 romaine	romain	ADJ	_
@@ -84933,7 +85103,7 @@ ne	ne	ADV	_
 s'	se	CLO	_
 applique	appliquer	V	_
 -t-il	il	CLS	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 à	à	P	_
 de	de	P	_
 très	très	ADV	_
@@ -85226,7 +85396,7 @@ N'	ne	ADV	_
 y	y	CLO	_
 aura	avoir	V	_
 -t-il	il	CLS	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 un	un	DET	_
 seul	seul	ADJ	_
 ordre	ordre	NC	_
@@ -85733,7 +85903,8 @@ des	de_le	P+D	_
 plus	plus	ADV	_
 vulgaires	vulgaire	ADJ	_
 ,	,	PONCT	_
-afin_de	afin_de	P	_
+afin	afin	ADV	_
+de	de	P	_
 mieux	mieux	ADV	_
 faire	faire	VINF	_
 ressortir	ressortir	VINF	_
@@ -86014,7 +86185,7 @@ le	le	DET	_
 bois	bois	NC	_
 manquait	manquer	V	_
 si	si	ADV	_
-complétement	complétement	ADV	_
+complétement	complètement	ADV	_
 que	que	CS	_
 toutes	tout	ADJ	_
 les	le	DET	_
@@ -86618,7 +86789,8 @@ Pourquoi	pourquoi	PROWH	_
 ?	?	PONCT	_
 C'	ce	CLS	_
 est	être	V	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 ces	ce	DET	_
 populations	population	NC	_
 conservaient	conserver	V	_
@@ -86936,7 +87108,8 @@ et	et	CC	_
 de	de	P	_
 voûtes	voûte	NC	_
 .	.	PONCT	_
-Quant_aux	quant_à_le	P+D	_
+quant	quant	ADV	_
+aux	à_le	P+D	_
 parois	paroi	NC	_
 intérieures	intérieur	ADJ	_
 ,	,	PONCT	_
@@ -87071,9 +87244,9 @@ dureté	dureté	NC	_
 apparente	apparent	ADJ	_
 ,	,	PONCT	_
 de	de	P	_
-brillant	brillant	ADJ	_
+brillant	briller	ADJ	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 Mais	mais	CC	_
 ,	,	PONCT	_
 si	si	CS	_
@@ -87412,7 +87585,7 @@ yeux	œil	NC	_
 que	que	ADV	_
 des	un	DET	_
 matières	matière	NC	_
-brillantes	brillant	ADJ	_
+brillantes	briller	ADJ	_
 d'	de	P	_
 une	un	DET	_
 apparence	apparence	NC	_
@@ -87518,7 +87691,8 @@ l'	il	CLO	_
 est	être	V	_
 réellement	réellement	ADV	_
 ,	,	PONCT	_
-tandis_que	tandis_que	CS	_
+tandis	tandis	ADV	_
+que	que	CS	_
 l'	le	DET	_
 intérieur	intérieur	NC	_
 de	de	P	_
@@ -87649,7 +87823,8 @@ retrancher	retrancher	VINF	_
 et	et	CC	_
 cela	cela	PRO	_
 ,	,	PONCT	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 le	le	DET	_
 parti	parti	NC	_
 adopté	adopter	VPP	_
@@ -88155,7 +88330,7 @@ dessins	dessin	NC	_
 séduisants	séduisant	ADJ	_
 ne	ne	ADV	_
 produisent	produire	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 un	un	DET	_
 médiocre	médiocre	ADJ	_
 effet	effet	NC	_
@@ -88310,7 +88485,8 @@ se	se	CLO	_
 faire	faire	VINF	_
 désirer	désirer	VINF	_
 ,	,	PONCT	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 elle	il	CLS	_
 est	être	V	_
 placée	placer	VPP	_
@@ -88553,7 +88729,9 @@ paraît	paraître	V	_
 alors	alors	ADV	_
 mesquine	mesquin	ADJ	_
 et	et	CC	_
-au-dessous	au-dessous	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessous	dessous	ADV	_
 de	de	P	_
 l'	le	DET	_
 échelle	échelle	NC	_
@@ -89103,7 +89281,7 @@ d'	de	P	_
 accumulés	accumuler	VPP	_
 ne	ne	ADV	_
 présentent	présenter	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 un	un	DET	_
 ensemble	ensemble	NC	_
 disloqué	disloqué	ADJ	_
@@ -89132,7 +89310,7 @@ métaux	métal	NC	_
 et	et	CC	_
 ne	ne	ADV	_
 parvient	parvenir	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 à	à	P	_
 montrer	montrer	VINF	_
 ainsi	ainsi	ADV	_
@@ -89284,7 +89462,7 @@ raison	raison	NC	_
 aux	à_le	P+D	_
 yeux	œil	NC	_
 de	de	P	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 .	.	PONCT	_
 Ce	ce	CLS	_
 sont	être	V	_
@@ -89773,7 +89951,8 @@ belle	beau	ADJ	_
 et	et	CC	_
 digne	digne	ADJ	_
 ,	,	PONCT	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 elle	il	CLS	_
 porte	porter	V	_
 l'	le	DET	_
@@ -90351,7 +90530,7 @@ n'	ne	ADV	_
 est	être	V	_
 cependant	cependant	ADV	_
 attrayante	attrayant	ADJ	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 autant	autant	ADV	_
 qu'	que	CS	_
 elle	il	CLS	_
@@ -90402,7 +90581,7 @@ exemple	exemple	NC	_
 ,	,	PONCT	_
 figure	figure	NC	_
 2	2	ADJ	_
-Quelle	Quelle	NP	_
+Quelle	quel	NP	_
 est	être	V	_
 la	le	DET	_
 pensée	pensée	NC	_
@@ -90470,7 +90649,8 @@ et	et	CC	_
 à	à	P	_
 claire-voie	claire-voie	NC	_
 ,	,	PONCT	_
-afin_de	afin_de	P	_
+afin	afin	ADV	_
+de	de	P	_
 laisser	laisser	VINF	_
 apparaître	apparaître	VINF	_
 la	le	DET	_
@@ -90869,7 +91049,7 @@ panthéiste	panthéiste	ADJ	_
 fraction	fraction	NC	_
 ou	ou	CC	_
 attribut	attribut	NC	_
-auquel	auquel	PROREL	_
+auquel	à_lequel	PROREL	_
 est	être	V	_
 rendu	rendre	VPP	_
 un	un	DET	_
@@ -91034,7 +91214,7 @@ n'	ne	ADV	_
 est	être	V	_
 autre	autre	ADJ	_
 chose	chose	NC	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 une	un	DET	_
 enceinte	enceinte	NC	_
 avec	avec	P	_
@@ -91042,7 +91222,7 @@ des	un	DET	_
 abris	abri	NC	_
 permettant	permettre	VPR	_
 à	à	P	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 de	de	P	_
 se	se	CLO	_
 recueillir	recueillir	VINF	_
@@ -91290,7 +91470,7 @@ seule	seul	ADJ	_
 ,	,	PONCT	_
 ce	ce	DET	_
 plan	plan	NC	_
-indique	indique	ADJ	_
+indique	indiquer	ADJ	_
 le	le	DET	_
 système	système	NC	_
 décoratif	décoratif	ADJ	_
@@ -91412,7 +91592,8 @@ magnifique	magnifique	ADJ	_
 motif	motif	NC	_
 de	de	P	_
 décoration	décoration	NC	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 elle	il	CLS	_
 rentre	rentrer	V	_
 exactement	exactement	ADV	_
@@ -91684,7 +91865,7 @@ Abraham	Abraham	NP	_
 qui	qui	PROREL	_
 n'	ne	ADV	_
 adora	adorer	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 un	un	DET	_
 dieu	dieu	NC	_
 et	et	CC	_
@@ -92298,7 +92479,7 @@ donnerait	donner	V	_
 la	le	DET	_
 figure	figure	NC	_
 5	5	ADJ	_
-Mais	Mais	NP	_
+Mais	mais	NP	_
 il	il	CLS	_
 s'	se	CLO	_
 agit	agir	V	_
@@ -92425,7 +92606,7 @@ adopté	adopter	VPP	_
 produit	produire	V	_
 ,	,	PONCT	_
 sur	sur	P	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 ,	,	PONCT	_
 une	un	DET	_
 très	très	ADV	_
@@ -92576,7 +92757,8 @@ de	de	P	_
 l'	le	DET	_
 oeuvre	œuvre	NC	_
 .	.	PONCT	_
-Afin_d'	afin_de	P	_
+Afin	afin	ADV	_
+d'	de	P	_
 allégir	allégir	VINF	_
 ce	ce	DET	_
 mur	mur	NC	_
@@ -92662,7 +92844,7 @@ ombres	ombre	NC	_
 et	et	CC	_
 de	de	P	_
 points	point	NC	_
-brillants	brillant	ADJ	_
+brillants	briller	ADJ	_
 ,	,	PONCT	_
 et	et	CC	_
 couvrir	couvrir	VINF	_
@@ -92793,7 +92975,7 @@ de	de	P	_
 la	le	DET	_
 décoration	décoration	NC	_
 sont	être	V	_
-charmants	charmant	ADJ	_
+charmants	charmer	ADJ	_
 .	.	PONCT	_
 Mais	mais	CC	_
 le	le	DET	_
@@ -92899,7 +93081,7 @@ supérieur	supérieur	ADJ	_
 qui	qui	PROREL	_
 n'	ne	ADV	_
 est	être	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 une	un	DET	_
 véritable	véritable	ADJ	_
 boîte	boîte	NC	_
@@ -94125,7 +94307,7 @@ le	le	DET	_
 prologue	prologue	NC	_
 ampoulé	ampouler	VPP	_
 du	de_le	P+D	_
-poëte	poëte	NC	_
+poëte	poète	NC	_
 .	.	PONCT	_
 Tenir	tenir	VINF	_
 plus	plus	ADV	_
@@ -94436,7 +94618,8 @@ aspect	aspect	NC	_
 peu	peu	ADV	_
 agréable	agréable	ADJ	_
 que	que	ADV	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 l'	le	DET	_
 escalier	escalier	NC	_
 a	avoir	V	_
@@ -94798,7 +94981,7 @@ une	un	DET	_
 couchette	couchette	NC	_
 et	et	CC	_
 un	un	DET	_
-siége	siége	NC	_
+siége	siège	NC	_
 ?	?	PONCT	_
 Il	il	CLS	_
 y	y	CLO	_
@@ -94890,7 +95073,7 @@ souvent	souvent	ADV	_
 ,	,	PONCT	_
 petites	petit	ADJ	_
 ,	,	PONCT	_
-entre-solées	entre-solées	ADJ	_
+entre-solées	entre-solé	ADJ	_
 ,	,	PONCT	_
 mal	mal	ADV	_
 aérées	aérer	VPP	_
@@ -94973,7 +95156,7 @@ elles	il	CLS	_
 ne	ne	ADV	_
 s'	se	CLO	_
 attachent	attacher	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 aux	à_le	P+D	_
 surfaces	surface	NC	_
 ,	,	PONCT	_
@@ -95479,7 +95662,7 @@ architecte	architecte	NC	_
 la	le	DET	_
 colonnade	colonnade	NC	_
 du	de_le	P+D	_
-louvre	louvre	NC	_
+louvre	Louvre	NP	_
 comme	comme	CS	_
 on	on	CLS	_
 élève	élever	V	_
@@ -95755,7 +95938,7 @@ art	art	NC	_
 qui	qui	PROREL	_
 appartient	appartenir	V	_
 à	à	P	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 puisqu'	puisque	CS	_
 il	il	CLS	_
 est	être	V	_
@@ -95770,7 +95953,7 @@ publics	public	ADJ	_
 ,	,	PONCT	_
 payé	payer	VPP	_
 par	par	P	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 ,	,	PONCT	_
 il	il	CLS	_
 doit	devoir	V	_
@@ -96779,7 +96962,7 @@ pas	pas	ADV	_
 le	le	DET	_
 sens	sens	NC	_
 et	et	CC	_
-auxquels	auquel	PROREL	_
+auxquels	à_lequel	PROREL	_
 manquaient	manquer	V	_
 la	le	DET	_
 syntaxe	syntaxe	NC	_
@@ -97046,7 +97229,8 @@ il	il	CLS	_
 faudra	falloir	V	_
 bien	bien	ADV	_
 employer	employer	VINF	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 il	il	CLS	_
 sera	être	V	_
 imposé	imposer	VPP	_
@@ -97329,7 +97513,7 @@ bien	bien	ADV	_
 d'	un	DET	_
 autres	autre	NC	_
 ,	,	PONCT	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 un	un	DET	_
 critique	critique	NC	_
 sérieux	sérieux	ADJ	_
@@ -98199,7 +98383,7 @@ hiératique	hiératique	ADJ	_
 ,	,	PONCT	_
 comme	comme	P	_
 en	en	P	_
-égypte	égypte	NC	_
+égypte	Égypte	NC	_
 ,	,	PONCT	_
 par	par	P	_
 exemple	exemple	NC	_
@@ -98365,13 +98549,13 @@ que	que	CS	_
 les	le	DET	_
 monuments	monument	NC	_
 d'	de	P	_
-égypte	égypte	NC	_
+égypte	Égypte	NC	_
 ,	,	PONCT	_
 non-seulement	non-seulement	ADV	_
 se	se	CLO	_
 distinguent	distinguer	V	_
 entre	entre	P	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 ,	,	PONCT	_
 mais	mais	CC	_
 qu'	que	CS	_
@@ -98465,7 +98649,8 @@ de	de	P	_
 la	le	DET	_
 force	force	NC	_
 ,	,	PONCT	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 elle	il	CLS	_
 résulte	résulter	V	_
 du	de_le	P+D	_
@@ -98738,7 +98923,7 @@ les	le	DET	_
 monuments	monument	NC	_
 de	de	P	_
 l'	le	DET	_
-égypte	égypte	NC	_
+égypte	Égypte	NC	_
 le	le	DET	_
 long	long	NC	_
 de	de	P	_
@@ -98817,7 +99002,7 @@ l'	le	DET	_
 architecture	architecture	NC	_
 de	de	P	_
 l'	le	DET	_
-égypte	égypte	NC	_
+égypte	Égypte	NC	_
 ,	,	PONCT	_
 on	on	CLS	_
 ne	ne	ADV	_
@@ -98989,7 +99174,7 @@ bonne	bon	ADJ	_
 architecture	architecture	NC	_
 de	de	P	_
 l'	le	DET	_
-égypte	égypte	NC	_
+égypte	Égypte	NC	_
 est	être	V	_
 certainement	certainement	ADV	_
 ce	ce	PRO	_
@@ -99323,7 +99508,7 @@ proviennent	provenir	V	_
 ne	ne	ADV	_
 fût	être	V	_
 -ce	ce	CLS	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 en	en	P	_
 dessin	dessin	NC	_
 ,	,	PONCT	_
@@ -99729,7 +99914,7 @@ celui	celui	PRO	_
 ne	ne	ADV	_
 pense	penser	V	_
 absolument	absolument	ADV	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 à	à	P	_
 son	son	DET	_
 exposition	exposition	NC	_
@@ -99756,7 +99941,8 @@ lui	il	CLO	_
 explique	expliquer	V	_
 pas	pas	ADV	_
 ,	,	PONCT	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 ,	,	PONCT	_
 le	le	DET	_
 plus	plus	ADV	_
@@ -99865,7 +100051,7 @@ semble	sembler	V	_
 si	si	ADV	_
 complète	complet	ADJ	_
 en	en	P	_
-égypte	égypte	NC	_
+égypte	Égypte	NC	_
 .	.	PONCT	_
 Cette	ce	DET	_
 unité	unité	NC	_
@@ -99922,7 +100108,8 @@ le	le	DET	_
 parthénon	parthénon	NC	_
 ,	,	PONCT	_
 sinon	sinon	P	_
-quant_à	quant_à	P	_
+quant	quant	ADV	_
+à	à	P	_
 l'	le	DET	_
 exécution	exécution	NC	_
 de	de	P	_
@@ -99931,7 +100118,8 @@ statuaire	statuaire	NC	_
 ,	,	PONCT	_
 du	de_le	P+D	_
 moins	moins	NC	_
-quant_au	quant_à_le	P+D	_
+Quant	quant	ADV	_
+au	à_le	P+D	_
 principe	principe	NC	_
 .	.	PONCT	_
 En	en	P	_
@@ -100225,7 +100413,8 @@ atteindre	atteindre	VINF	_
 la	le	DET	_
 perfection	perfection	NC	_
 ,	,	PONCT	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 il	il	CLS	_
 plaît	plaire	V	_
 à	à	P	_
@@ -100366,7 +100555,7 @@ signification	signification	NC	_
 parfaitement	parfaitement	ADV	_
 comprise	comprendre	VPP	_
 de	de	P	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 ;	;	PONCT	_
 était	être	V	_
 -elle	il	CLS	_
@@ -100424,7 +100613,8 @@ peine	peine	NC	_
 de	de	P	_
 deviner	deviner	VINF	_
 ,	,	PONCT	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 cela	cela	PRO	_
 n'	ne	ADV	_
 intéresse	intéresser	V	_
@@ -100464,7 +100654,7 @@ commerce	commerce	NC	_
 l'	le	DET	_
 art	art	NC	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 ;	;	PONCT	_
 tout	tout	ADV	_
 cela	cela	PRO	_
@@ -100503,7 +100693,7 @@ lesquels	lequel	PROREL	_
 chacun	chacun	PRO	_
 ne	ne	ADV	_
 voit	voir	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 une	un	DET	_
 réunion	réunion	NC	_
 plus	plus	ADV	_
@@ -100588,7 +100778,7 @@ est	être	V	_
 après	après	P	_
 tout	tout	PRO	_
 ,	,	PONCT	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 un	un	DET	_
 moyen	moyen	NC	_
 de	de	P	_
@@ -101138,7 +101328,8 @@ statue	statue	NC	_
 il	il	CLS	_
 est	être	V	_
 furieux	furieux	ADJ	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 son	son	DET	_
 confrère	confrère	NC	_
 ,	,	PONCT	_
@@ -101183,7 +101374,7 @@ que	que	CS	_
 celui	celui	PRO	_
 donné	donner	VPP	_
 à	à	P	_
-M	M	NC	_
+M	monsieur	NC	_
 N.	N.	NP	_
 .	.	PONCT	_
 .	.	PONCT	_
@@ -101327,7 +101518,7 @@ ne	ne	ADV	_
 lui	il	CLO	_
 ait	avoir	V	_
 donné	donner	VPP	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 une	un	DET	_
 part	part	NC	_
 égale	égal	ADJ	_
@@ -101538,16 +101729,19 @@ et	et	CC	_
 ses	son	DET	_
 dimensions	dimension	NC	_
 .	.	PONCT	_
-Quant_au	quant_à_le	P+D	_
+Quant	quant	ADV	_
+au	à_le	P+D	_
 style	style	NC	_
 du	de_le	P+D	_
 monument	monument	NC	_
 ,	,	PONCT	_
-quant_à	quant_à	P	_
+quant	quant	ADV	_
+à	à	P	_
 la	le	DET	_
 place	place	NC	_
 ,	,	PONCT	_
-quant_à	quant_à	P	_
+quant	quant	ADV	_
+à	à	P	_
 l'	le	DET	_
 effet	effet	NC	_
 d'	de	P	_
@@ -101956,7 +102150,8 @@ de	de	P	_
 ces	ce	DET	_
 visites	visite	NC	_
 ,	,	PONCT	_
-afin_de	afin_de	P	_
+afin	afin	ADV	_
+de	de	P	_
 ne	ne	ADV	_
 point	point	ADV	_
 subir	subir	VINF	_
@@ -102137,7 +102332,7 @@ pendant	pendant	P	_
 ,	,	PONCT	_
 n'	ne	ADV	_
 est	être	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 une	un	DET	_
 tache	tache	NC	_
 lumineuse	lumineux	ADJ	_
@@ -102792,7 +102987,7 @@ architectonique	architectonique	ADJ	_
 elle	il	CLS	_
 ne	ne	ADV	_
 remplit	remplir	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 un	un	DET	_
 rôle	rôle	NC	_
 restreint	restreint	ADJ	_
@@ -103201,7 +103396,8 @@ un	un	DET	_
 D'	de	P	_
 ailleurs	ailleurs	NC	_
 ,	,	PONCT	_
-quant_à	quant_à	P	_
+quant	quant	ADV	_
+à	à	P	_
 l'	le	DET	_
 idée	idée	NC	_
 ,	,	PONCT	_
@@ -103350,7 +103546,7 @@ une	un	DET	_
 relation	relation	NC	_
 compréhensible	compréhensible	ADJ	_
 pour	pour	P	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 ;	;	PONCT	_
 chez	chez	P	_
 les	le	DET	_
@@ -103392,7 +103588,7 @@ et	et	CC	_
 est	être	V	_
 compris	comprendre	VPP	_
 de	de	P	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 ;	;	PONCT	_
 chez	chez	P	_
 les	le	DET	_
@@ -103745,7 +103941,8 @@ tout	tout	PRO	_
 est	être	V	_
 trouvé	trouver	VPP	_
 ,	,	PONCT	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 il	il	CLS	_
 y	y	CLO	_
 a	avoir	V	_
@@ -103770,7 +103967,7 @@ neuf	neuf	NC	_
 ne	ne	ADV	_
 peut	pouvoir	V	_
 être	être	VINF	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 un	un	DET	_
 développement	développement	NC	_
 plus	plus	ADV	_
@@ -103799,7 +103996,7 @@ haine	haine	NC	_
 ,	,	PONCT	_
 que	que	CS	_
 les	le	DET	_
-poëtes	poëtes	NC	_
+poëtes	poète	NC	_
 ,	,	PONCT	_
 les	le	DET	_
 romanciers	romancier	NC	_
@@ -104231,7 +104428,7 @@ il	il	CLS	_
 n'	ne	ADV	_
 y	y	CLO	_
 a	avoir	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 un	un	DET	_
 art	art	NC	_
 ,	,	PONCT	_
@@ -104260,7 +104457,8 @@ là	là	ADV	_
 des	un	DET	_
 idées	idée	NC	_
 ,	,	PONCT	_
-tandis_qu'	tandis_que	CS	_
+tandis	tandis	ADV	_
+qu'	que	CS	_
 il	il	CLS	_
 n'	ne	ADV	_
 en	en	CLO	_
@@ -104321,7 +104519,8 @@ Ce	ce	CLS	_
 n'	ne	ADV	_
 est	être	V	_
 pas	pas	ADV	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 ces	ce	DET	_
 oeuvres	œuvre	NC	_
 représentent	représenter	V	_
@@ -104339,7 +104538,8 @@ pas	pas	ADV	_
 ,	,	PONCT	_
 c'	ce	CLS	_
 est	être	V	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 ces	ce	DET	_
 oeuvres	œuvre	NC	_
 reproduisent	reproduire	V	_
@@ -104665,7 +104865,7 @@ d'	de	P	_
 idées	idée	NC	_
 comprises	comprendre	VPP	_
 de	de	P	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 ,	,	PONCT	_
 si	si	CS	_
 la	le	DET	_
@@ -104804,7 +105004,7 @@ une	un	DET	_
 croyance	croyance	NC	_
 acceptée	accepter	VPP	_
 de	de	P	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 ,	,	PONCT	_
 -	-	PONCT	_
 il	il	CLS	_
@@ -104954,7 +105154,7 @@ monde	monde	NC	_
 .	.	PONCT	_
 Cela	cela	PRO	_
 seul	seul	ADJ	_
-indique	indique	ADJ	_
+indique	indiquer	ADJ	_
 que	que	CS	_
 ceux	celui	PRO	_
 qui	qui	PROREL	_
@@ -105008,7 +105208,7 @@ humains	humain	NC	_
 Les	le	DET	_
 élus	élu	NC	_
 ,	,	PONCT	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 vêtus	vêtir	VPP	_
 de	de	P	_
 même	même	ADV	_
@@ -105435,7 +105635,8 @@ songer	songer	VINF	_
 quelque	quelque	DET	_
 chose	chose	NC	_
 ,	,	PONCT	_
-tandis_que	tandis_que	CS	_
+tandis	tandis	ADV	_
+que	que	CS	_
 celle	celui	PRO	_
 de	de	P	_
 la	le	DET	_
@@ -105691,7 +105892,8 @@ saisit	saisir	V	_
 toujours	toujours	ADV	_
 l'	le	DET	_
 esprit	esprit	NC	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 elle	il	CLS	_
 rappelle	rappeler	V	_
 à	à	P	_
@@ -105995,7 +106197,7 @@ l'	le	DET	_
 elle	il	CLS	_
 ne	ne	ADV	_
 constitue	constituer	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 une	un	DET	_
 décoration	décoration	NC	_
 superflue	superflu	ADJ	_
@@ -106836,7 +107038,7 @@ richesse	richesse	NC	_
 et	et	CC	_
 les	le	DET	_
 effets	effet	NC	_
-brillants	brillant	ADJ	_
+brillants	briller	ADJ	_
 contrastent	contraster	V	_
 avec	avec	P	_
 les	le	DET	_
@@ -106984,7 +107186,7 @@ comme	comme	P	_
 celle	celui	PRO	_
 de	de	P	_
 l'	le	DET	_
-égypte	égypte	NC	_
+égypte	Égypte	NC	_
 ,	,	PONCT	_
 de	de	P	_
 l'	le	DET	_
@@ -107070,7 +107272,7 @@ asiatiques	asiatique	ADJ	_
 ,	,	PONCT	_
 à	à	P	_
 l'	le	DET	_
-égypte	égypte	NC	_
+égypte	Égypte	NC	_
 et	et	CC	_
 aussi	aussi	ADV	_
 à	à	P	_
@@ -108008,7 +108210,8 @@ envie	envie	NC	_
 de	de	P	_
 les	il	CLO	_
 copier	copier	VINF	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 ils	il	CLS	_
 étaient	être	V	_
 en	en	P	_
@@ -108242,7 +108445,7 @@ ne	ne	ADV	_
 touche	toucher	V	_
 l'	le	DET	_
 esprit	esprit	NC	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 en	en	P	_
 passant	passer	VPR	_
 par	par	P	_
@@ -108602,7 +108805,7 @@ rats	rat	NC	_
 ,	,	PONCT	_
 n'	ne	ADV	_
 est	être	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 une	un	DET	_
 page	page	NC	_
 inutile	inutile	ADJ	_
@@ -108951,7 +109154,8 @@ avec	avec	P	_
 la	le	DET	_
 plastique	plastique	NC	_
 ,	,	PONCT	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 elles	il	CLS	_
 touchent	toucher	V	_
 à	à	P	_
@@ -109109,7 +109313,7 @@ ne	ne	ADV	_
 saurait	savoir	V	_
 être	être	VINF	_
 accordé	accorder	VPP	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 à	à	P	_
 celle	celui	PRO	_
 dont	dont	PROREL	_
@@ -109139,7 +109343,7 @@ La	le	DET	_
 statuaire	statuaire	NC	_
 de	de	P	_
 l'	le	DET	_
-égypte	égypte	NC	_
+égypte	Égypte	NC	_
 ,	,	PONCT	_
 celle	celui	PRO	_
 de	de	P	_
@@ -109259,7 +109463,7 @@ exemples	exemple	NC	_
 les	le	DET	_
 portes	porte	NC	_
 des	de_le	P+D	_
-abbayes	abbayes	NC	_
+abbayes	abbaye	NC	_
 de	de	P	_
 Moissac	Moissac	NP	_
 et	et	CC	_
@@ -109474,7 +109678,7 @@ il	il	CLS	_
 n'	ne	ADV	_
 est	être	V	_
 plus	plus	ADV	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 une	un	DET	_
 curiosité	curiosité	NC	_
 ,	,	PONCT	_
@@ -109652,7 +109856,8 @@ par	par	P	_
 un	un	DET	_
 vitrage	vitrage	NC	_
 .	.	PONCT	_
-Quant_à	quant_à	P	_
+Quant	quant	ADV	_
+à	à	P	_
 la	le	DET	_
 statuaire	statuaire	NC	_
 ,	,	PONCT	_
@@ -109765,7 +109970,7 @@ quoi	quoi	PROWH	_
 c'	ce	CLS	_
 est	être	V	_
 ce	ce	PRO	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 on	on	CLS	_
 appelle	appeler	V	_
 encourager	encourager	VINF	_
@@ -110145,7 +110350,7 @@ ne	ne	ADV	_
 songe	songer	V	_
 dès	dès	P	_
 lors	lors	ADV	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 à	à	P	_
 l'	il	CLO	_
 organiser	organiser	VINF	_
@@ -110193,7 +110398,7 @@ vous	vous	CLO	_
 lever	lever	VINF	_
 à	à	P	_
 sept	sept	NC	_
-heures	heures	ADJ	_
+heures	heure	ADJ	_
 ,	,	PONCT	_
 d'	de	P	_
 aller	aller	VINF	_
@@ -110212,7 +110417,7 @@ dix	dix	DET	_
 heures	heure	NC	_
 à	à	P	_
 la	le	DET	_
-Maison	Maison	NC	_
+Maison	maison	NC	_
 -	-	PONCT	_
 D'	de	P	_
 Or	Or	NP	_
@@ -110342,7 +110547,7 @@ une	un	DET	_
 valeur	valeur	NC	_
 reconnue	reconnaître	VPP	_
 par	par	P	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 .	.	PONCT	_
 Mais	mais	CC	_
 ,	,	PONCT	_
@@ -110585,13 +110790,13 @@ gigantesques	gigantesque	ADJ	_
 ,	,	PONCT	_
 connues	connaître	VPP	_
 de	de	P	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 ,	,	PONCT	_
 entre	entre	P	_
 les	le	DET	_
 mains	main	NC	_
 de	de	P	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 ,	,	PONCT	_
 pour	pour	P	_
 faire	faire	VINF	_
@@ -110863,7 +111068,9 @@ pignon	pignon	NC	_
 ,	,	PONCT	_
 est	être	V	_
 percée	percer	VPP	_
-au-dessus	au-dessus	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 d'	de	P	_
 une	un	DET	_
 belle	beau	ADJ	_
@@ -111043,7 +111250,7 @@ pour	pour	P	_
 obtenir	obtenir	VINF	_
 un	un	DET	_
 ensemble	ensemble	NC	_
-auquel	auquel	PROREL	_
+auquel	à_lequel	PROREL	_
 deux	deux	DET	_
 arts	art	NC	_
 doivent	devoir	V	_
@@ -111218,7 +111425,7 @@ admis	admis	ADJ	_
 et	et	CC	_
 compris	comprendre	VPP	_
 de	de	P	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 .	.	PONCT	_
 Il	il	CLS	_
 existe	exister	V	_
@@ -111342,7 +111549,7 @@ temples	temple	NC	_
 ,	,	PONCT	_
 tours	tour	NC	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 ,	,	PONCT	_
 de	de	P	_
 la	le	DET	_
@@ -111382,7 +111589,7 @@ beffroi	beffroi	NC	_
 le	le	DET	_
 miniaturiste	miniaturiste	NC	_
 ,	,	PONCT	_
-auquel	auquel	PROREL	_
+auquel	à_lequel	PROREL	_
 la	le	DET	_
 sculpture	sculpture	NC	_
 ne	ne	ADV	_
@@ -111666,7 +111873,8 @@ Chacune	chacun	PRO	_
 des	de_le	P+D	_
 tours	tour	NC	_
 était	être	V	_
-en_outre	en_outre	ADV	_
+en	en	P	_
+outre	outre	P	_
 décorée	décorer	VPP	_
 d'	de	P	_
 une	un	DET	_
@@ -111754,7 +111962,7 @@ a	avoir	V	_
 fait	faire	VPP	_
 poser	poser	VINF	_
 (	(	PONCT	_
-Voy	Voy	V	_
+Voy	voir	V	_
 le	le	DET	_
 plan	plan	NC	_
 )	)	PONCT	_
@@ -112627,7 +112835,8 @@ les	le	DET	_
 points	point	NC	_
 vulgaires	vulgaire	ADJ	_
 ,	,	PONCT	_
-afin_de	afin_de	P	_
+afin	afin	ADV	_
+de	de	P	_
 n'	ne	ADV	_
 en	en	CLO	_
 saisir	saisir	VINF	_
@@ -112991,7 +113200,7 @@ n'	ne	ADV	_
 en	en	CLO	_
 fait	faire	V	_
 connaître	connaître	VINF	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 une	un	DET	_
 apparence	apparence	NC	_
 ,	,	PONCT	_
@@ -113165,7 +113374,7 @@ ou	ou	CC	_
 du	de_le	P+D	_
 moins	moins	NC	_
 celui	celui	PRO	_
-auquel	auquel	PROREL	_
+auquel	à_lequel	PROREL	_
 on	on	CLS	_
 donne	donner	V	_
 cette	ce	DET	_
@@ -113285,7 +113494,7 @@ de	de	P	_
 grâces	grâce	NC	_
 cachées	cacher	VPP	_
 pour	pour	P	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 ,	,	PONCT	_
 et	et	CC	_
 de	de	P	_
@@ -113993,7 +114202,8 @@ larges	large	ADJ	_
 surfaces	surface	NC	_
 unies	uni	ADJ	_
 ,	,	PONCT	_
-tandis_que	tandis_que	CS	_
+tandis	tandis	ADV	_
+que	que	CS	_
 celles	celui	PRO	_
 qui	qui	PROREL	_
 doivent	devoir	V	_
@@ -114025,7 +114235,7 @@ peut	pouvoir	V	_
 observé	observer	VPP	_
 dans	dans	P	_
 les	le	DET	_
-charmants	charmant	ADJ	_
+charmants	charmer	ADJ	_
 fragments	fragment	NC	_
 arrachés	arracher	VPP	_
 au	à_le	P+D	_
@@ -114169,7 +114379,8 @@ fonds	fond	NC	_
 de	de	P	_
 leurs	leur	DET	_
 bas-reliefs	bas-relief	NC	_
-afin_que	afin_que	CS	_
+afin	afin	ADV	_
+que	que	CS	_
 les	le	DET	_
 parties	partie	NC	_
 éclairées	éclairer	VPP	_
@@ -114271,7 +114482,8 @@ de	de	P	_
 ces	ce	DET	_
 fonds	fond	NC	_
 ,	,	PONCT	_
-afin_de	afin_de	P	_
+afin	afin	ADV	_
+de	de	P	_
 les	il	CLO	_
 charger	charger	VINF	_
 d'	de	P	_
@@ -114452,7 +114664,8 @@ un	un	DET	_
 fond	fond	NC	_
 obscur	obscur	ADJ	_
 ,	,	PONCT	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 les	le	DET	_
 ombres	ombre	NC	_
 portées	porter	VPP	_
@@ -114560,9 +114773,11 @@ façades	façade	NC	_
 intérieures	intérieur	ADJ	_
 du	de_le	P+D	_
 nouveau	nouveau	ADJ	_
-louvre	louvre	NC	_
+louvre	Louvre	NP	_
 ,	,	PONCT	_
-au-dessus	au-dessus	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 du	de_le	P+D	_
 portique	portique	NC	_
 ;	;	PONCT	_
@@ -114734,7 +114949,7 @@ constitue	constituer	V	_
 une	un	DET	_
 sorte	sorte	NC	_
 de	de	P	_
-privilége	privilége	NC	_
+privilége	privilège	NC	_
 ,	,	PONCT	_
 de	de	P	_
 monopole	monopole	NC	_
@@ -114840,7 +115055,7 @@ forme	forme	NC	_
 d'	de	P	_
 un	un	DET	_
 dogme	dogme	NC	_
-auquel	auquel	PROREL	_
+auquel	à_lequel	PROREL	_
 on	on	CLS	_
 doit	devoir	V	_
 croire	croire	VINF	_
@@ -115164,7 +115379,8 @@ n'	ne	ADV	_
 y	y	CLO	_
 vois	voir	V	_
 ,	,	PONCT	_
-quant_à	quant_à	P	_
+quant	quant	ADV	_
+à	à	P	_
 moi	je	PRO	_
 ,	,	PONCT	_
 -	-	X	_
@@ -115542,7 +115758,7 @@ et	et	CC	_
 qui	qui	PROREL	_
 ne	ne	ADV	_
 sont	être	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 un	un	DET	_
 masque	masque	NC	_
 !	!	PONCT	_
@@ -115868,7 +116084,7 @@ plus	plus	ADV	_
 à	à	P	_
 des	un	DET	_
 bibelots	bibelot	NC	_
-auxquels	auquel	PROREL	_
+auxquels	à_lequel	PROREL	_
 le	le	DET	_
 temps	temps	NC	_
 a	avoir	V	_
@@ -116044,7 +116260,8 @@ servir	servir	VINF	_
 au	à_le	P+D	_
 besoin	besoin	NC	_
 .	.	PONCT	_
-Quant_aux	quant_à_le	P+D	_
+quant	quant	ADV	_
+aux	à_le	P+D	_
 questions	question	NC	_
 de	de	P	_
 principes	principe	NC	_
@@ -116160,7 +116377,7 @@ d'	de	P	_
 une	un	DET	_
 prospérité	prospérité	NC	_
 plus	plus	ADV	_
-brillante	brillant	ADJ	_
+brillante	briller	ADJ	_
 que	que	CS	_
 solidement	solidement	ADV	_
 établie	établir	VPP	_
@@ -116213,7 +116430,7 @@ grandeur	grandeur	NC	_
 ,	,	PONCT	_
 que	que	CS	_
 les	le	DET	_
-priviléges	priviléges	NC	_
+priviléges	privilège	NC	_
 accordés	accorder	VPP	_
 à	à	P	_
 un	un	DET	_
@@ -116276,7 +116493,7 @@ pendant	pendant	P	_
 ces	ce	DET	_
 journées	journée	NC	_
 marquées	marquer	VPP	_
-toutes	tous	PRO	_
+toutes	tout	PRO	_
 par	par	P	_
 de	un	DET	_
 douloureux	douloureux	ADJ	_
@@ -116442,7 +116659,7 @@ pied	pied	NC	_
 à	à	P	_
 pied	pied	NC	_
 leurs	leur	DET	_
-priviléges	priviléges	NC	_
+priviléges	privilège	NC	_
 ,	,	PONCT	_
 leurs	leur	DET	_
 routines	routine	NC	_
@@ -117153,7 +117370,7 @@ et	et	CC	_
 nous	nous	CLO	_
 faire	faire	VINF	_
 les	le	DET	_
-complaisants	complaisants	NC	_
+complaisants	complaisant	NC	_
 de	de	P	_
 cette	ce	DET	_
 fraction	fraction	NC	_
@@ -117234,7 +117451,7 @@ se	se	CLO	_
 feront	faire	V	_
 toujours	toujours	ADV	_
 les	le	DET	_
-complaisants	complaisants	NC	_
+complaisants	complaisant	NC	_
 des	de_le	P+D	_
 esprits	esprit	NC	_
 les	le	DET	_
@@ -117554,7 +117771,9 @@ qui	qui	PROREL	_
 ne	ne	ADV	_
 mettent	mettre	V	_
 pas	pas	ADV	_
-au-dessus	au-dessus	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 de	de	P	_
 tout	tout	PRO	_
 ,	,	PONCT	_
@@ -117623,7 +117842,7 @@ les	le	DET	_
 bouffons	bouffon	NC	_
 et	et	CC	_
 les	le	DET	_
-complaisants	complaisants	NC	_
+complaisants	complaisant	NC	_
 .	.	PONCT	_
 On	on	CLS	_
 a	avoir	V	_
@@ -117819,7 +118038,7 @@ montrerait	montrer	V	_
 sous	sous	P	_
 la	le	DET	_
 plus	plus	ADV	_
-brillante	brillant	ADJ	_
+brillante	briller	ADJ	_
 apparence	apparence	NC	_
 .	.	PONCT	_
 Si	si	CS	_
@@ -117847,7 +118066,7 @@ vivaient	vivre	V	_
 de	de	P	_
 cette	ce	DET	_
 surface	surface	NC	_
-brillante	brillant	ADJ	_
+brillante	briller	ADJ	_
 .	.	PONCT	_
 L'	le	DET	_
 écroulement	écroulement	NC	_
@@ -117965,7 +118184,7 @@ vie	vie	NC	_
 semble	sembler	V	_
 avoir	avoir	VINF	_
 lentement	lentement	ADV	_
-abandonnées	abandonnées	VPP	_
+abandonnées	abandonner	VPP	_
 ;	;	PONCT	_
 qui	qui	PROREL	_
 ,	,	PONCT	_
@@ -118038,7 +118257,7 @@ ils	il	CLS	_
 rappellent	rappeler	V	_
 une	un	DET	_
 histoire	histoire	NC	_
-brillante	brillant	ADJ	_
+brillante	briller	ADJ	_
 ,	,	PONCT	_
 une	un	DET	_
 splendeur	splendeur	NC	_
@@ -118570,7 +118789,7 @@ destinées	destiner	VPP	_
 à	à	P	_
 n'	ne	ADV	_
 abriter	abriter	VINF	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 une	un	DET	_
 seule	seul	ADJ	_
 famille	famille	NC	_
@@ -119289,7 +119508,7 @@ gens	gens	NC	_
 ,	,	PONCT	_
 sommellerie	sommellerie	NC	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 Les	le	DET	_
 cuisines	cuisine	NC	_
 aussi	aussi	ADV	_
@@ -119497,14 +119716,16 @@ murs	mur	NC	_
 de	de	P	_
 refend	refend	NC	_
 ,	,	PONCT	_
-afin_d'	afin_de	P	_
+afin	afin	ADV	_
+d'	de	P	_
 éviter	éviter	VINF	_
 de	de	P	_
 trop	trop	ADV	_
 grandes	grand	ADJ	_
 portées	portée	NC	_
 .	.	PONCT	_
-Quant_aux	quant_à_le	P+D	_
+quant	quant	ADV	_
+aux	à_le	P+D	_
 façades	façade	NC	_
 ,	,	PONCT	_
 elles	il	CLS	_
@@ -119704,7 +119925,7 @@ ne	ne	ADV	_
 se	se	CLO	_
 visitait	visiter	V	_
 guère	guère	ADV	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 en	en	P	_
 chaise	chaise	NC	_
 à	à	P	_
@@ -119856,7 +120077,8 @@ de	de	P	_
 ces	ce	DET	_
 vestibules	vestibule	NC	_
 ,	,	PONCT	_
-afin_de	afin_de	P	_
+afin	afin	ADV	_
+de	de	P	_
 préserver	préserver	VINF	_
 les	le	DET	_
 arrivants	arrivant	NC	_
@@ -120094,7 +120316,8 @@ revenir	revenir	VINF	_
 aux	à_le	P+D	_
 marquises	marquise	NC	_
 ,	,	PONCT	_
-afin_de	afin_de	P	_
+afin	afin	ADV	_
+de	de	P	_
 n'	ne	ADV	_
 avoir	avoir	VINF	_
 pas	pas	ADV	_
@@ -120329,7 +120552,7 @@ mais	mais	CC	_
 ce	ce	DET	_
 détail	détail	NC	_
 seul	seul	ADJ	_
-indique	indique	ADJ	_
+indique	indiquer	ADJ	_
 combien	combien	PROWH	_
 peu	peu	ADV	_
 nous	nous	CLS	_
@@ -121084,7 +121307,7 @@ office	office	NC	_
 ,	,	PONCT	_
 celliers	cellier	NC	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 Sur	sur	P	_
 un	un	DET	_
 côté	côté	NC	_
@@ -121293,7 +121516,7 @@ provisions	provision	NC	_
 ,	,	PONCT	_
 cellier	cellier	NC	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 Un	un	DET	_
 escalier	escalier	NC	_
 de	de	P	_
@@ -121405,7 +121628,7 @@ l'	le	DET	_
 habitation	habitation	NC	_
 privée	privé	ADJ	_
 ,	,	PONCT	_
-complétement	complétement	ADV	_
+complétement	complètement	ADV	_
 distinctes	distinct	ADJ	_
 de	de	P	_
 cette	ce	DET	_
@@ -121539,7 +121762,8 @@ la	le	DET	_
 grand'	grand	ADJ	_
 salle	salle	NC	_
 .	.	PONCT	_
-Quant_aux	quant_à_le	P+D	_
+quant	quant	ADV	_
+aux	à_le	P+D	_
 pièces	pièce	NC	_
 secondaires	secondaire	ADJ	_
 ,	,	PONCT	_
@@ -122359,7 +122583,7 @@ On	on	CLS	_
 ne	ne	ADV	_
 saurait	savoir	V	_
 nier	nier	VINF	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 un	un	PRO	_
 des	de_le	P+D	_
 charmes	charme	NC	_
@@ -122398,7 +122622,8 @@ nous	nous	CLO	_
 touchent	toucher	V	_
 profondément	profondément	ADV	_
 ,	,	PONCT	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 elles	il	CLS	_
 nous	nous	CLO	_
 rappellent	rappeler	V	_
@@ -122522,7 +122747,7 @@ moeurs	mœurs	NC	_
 ,	,	PONCT	_
 ne	ne	ADV	_
 laissera	laisser	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 une	un	DET	_
 trace	trace	NC	_
 fugitive	fugitif	ADJ	_
@@ -122618,7 +122843,7 @@ de	de	P	_
 raconter	raconter	VINF	_
 simplement	simplement	ADV	_
 ce	ce	PRO	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 il	il	CLS	_
 a	avoir	V	_
 vu	voir	VPP	_
@@ -123971,7 +124196,9 @@ combles	comble	NC	_
 et	et	CC	_
 les	le	DET	_
 palefreniers	palefrenier	NC	_
-au-dessus	au-dessus	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 des	de_le	P+D	_
 écuries	écurie	NC	_
 .	.	PONCT	_
@@ -124234,7 +124461,7 @@ ne	ne	ADV	_
 pourrait	pouvoir	V	_
 admettre	admettre	VINF	_
 aujourd'hui	aujourd'hui	ADV	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 il	il	CLS	_
 fallût	falloir	V	_
 traverser	traverser	VINF	_
@@ -124512,7 +124739,8 @@ avoir	avoir	VINF	_
 d'	de	P	_
 inconvénients	inconvénient	NC	_
 ,	,	PONCT	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 il	il	CLS	_
 n'	ne	ADV	_
 y	y	CLO	_
@@ -124856,7 +125084,7 @@ la	le	DET	_
 semaine	semaine	NC	_
 ,	,	PONCT	_
 et	et	CC	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 aucun	aucun	DET	_
 autre	autre	ADJ	_
 lien	lien	NC	_
@@ -125219,7 +125447,7 @@ discussion	discussion	NC	_
 sociale	social	ADJ	_
 ,	,	PONCT	_
 -	-	PONCT	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 il	il	CLS	_
 faut	falloir	V	_
 adopter	adopter	VINF	_
@@ -125888,7 +126116,7 @@ conscience	conscience	NC	_
 de	de	P	_
 ne	ne	ADV	_
 sortir	sortir	VINF	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 avec	avec	P	_
 un	un	DET	_
 chapeau	chapeau	NC	_
@@ -126431,7 +126659,7 @@ gens	gens	NC	_
 des	un	DET	_
 enfants	enfant	NC	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 -	-	PONCT	_
 alors	alors	ADV	_
 veuillez	vouloir	V	_
@@ -126455,7 +126683,7 @@ hôtel	hôtel	NC	_
 de	de	P	_
 *	*	PONCT	_
 *	*	PONCT	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 il	il	CLS	_
 ne	ne	ADV	_
 serait	être	V	_
@@ -126583,7 +126811,7 @@ vices	vice	NC	_
 de	de	P	_
 construction	construction	NC	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 ;	;	PONCT	_
 et	et	CC	_
 le	le	DET	_
@@ -126978,7 +127206,9 @@ beaucoup	beaucoup	ADV	_
 plus	plus	ADV	_
 larges	large	ADJ	_
 disposées	disposer	VPP	_
-au-dessus	au-dessus	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 .	.	PONCT	_
 Puis	puis	CC	_
 nos	notre	DET	_
@@ -127375,7 +127605,7 @@ Pompéi	Pompéi	NP	_
 qui	qui	PROREL	_
 ne	ne	ADV	_
 possédaient	posséder	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 un	un	DET	_
 rez-de-chaussée	rez-de-chaussée	NC	_
 ,	,	PONCT	_
@@ -128055,7 +128285,7 @@ accessible	accessible	ADJ	_
 et	et	CC	_
 ouvert	ouvrir	VPP	_
 à	à	P	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 .	.	PONCT	_
 Cela	cela	PRO	_
 ne	ne	ADV	_
@@ -128808,7 +129038,7 @@ ne	ne	ADV	_
 peut	pouvoir	V	_
 se	se	CLO	_
 dissimuler	dissimuler	VINF	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 en	en	P	_
 bien	bien	ADV	_
 des	un	DET	_
@@ -129121,7 +129351,7 @@ nord	nord	NC	_
 Mais	mais	CC	_
 l'	le	DET	_
 architecte	architecte	NC	_
-auquel	auquel	PROREL	_
+auquel	à_lequel	PROREL	_
 on	on	CLS	_
 livre	livrer	V	_
 un	un	DET	_
@@ -129928,7 +130158,7 @@ attente	attente	NC	_
 pour	pour	P	_
 les	le	DET	_
 valets	valet	NC	_
-auxquels	auquel	PROREL	_
+auxquels	à_lequel	PROREL	_
 on	on	CLS	_
 confie	confier	V	_
 les	le	DET	_
@@ -130327,7 +130557,7 @@ républicaine	républicain	ADJ	_
 ne	ne	ADV	_
 se	se	CLO	_
 maintient	maintenir	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 à	à	P	_
 la	le	DET	_
 condition	condition	NC	_
@@ -130719,7 +130949,7 @@ de	de	P	_
 prendre	prendre	VINF	_
 les	le	DET	_
 places	place	NC	_
-abandonnées	abandonnées	VPP	_
+abandonnées	abandonner	VPP	_
 par	par	P	_
 la	le	DET	_
 monarchie	monarchie	NC	_
@@ -131095,7 +131325,7 @@ ne	ne	ADV	_
 se	se	CLO	_
 peut	pouvoir	V	_
 obtenir	obtenir	VINF	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 au	à_le	P+D	_
 moyen	moyen	NC	_
 de	de	P	_
@@ -131261,7 +131491,7 @@ ils	il	CLS	_
 ne	ne	ADV	_
 prétendent	prétendre	V	_
 recevoir	recevoir	VINF	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 à	à	P	_
 une	un	DET	_
 certaine	certain	ADJ	_
@@ -131712,7 +131942,8 @@ hommes	homme	NC	_
 Ces	ce	DET	_
 cabinets	cabinet	NC	_
 peuvent	pouvoir	V	_
-en_outre	en_outre	ADV	_
+en	en	P	_
+outre	outre	P	_
 servir	servir	VINF	_
 d'	de	P	_
 issue	issue	NC	_
@@ -131806,7 +132037,7 @@ de	de	P	_
 service	service	NC	_
 H	H	NC	_
 est	être	V	_
-entre-solée	entre-solée	ADJ	_
+entre-solée	entre-solé	ADJ	_
 ;	;	PONCT	_
 et	et	CC	_
 l'on	on	CLS	_
@@ -131827,7 +132058,7 @@ escalier	escalier	NC	_
 de	de	P	_
 service	service	NC	_
 R.	R.	NP	_
-Mais	Mais	NP	_
+Mais	mais	NP	_
 nous	nous	CLS	_
 reviendrons	revenir	V	_
 tout	tout	ADV	_
@@ -132037,7 +132268,9 @@ cabinet	cabinet	NC	_
 de	de	P	_
 toilette	toilette	NC	_
 P.	P.	NP	_
-Au-dessus	Au-dessus	NP	_
+Au	à_le	P+D	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 ,	,	PONCT	_
 en	en	P	_
 mansardes	mansarde	NC	_
@@ -132209,7 +132442,8 @@ tous	tout	ADJ	_
 les	le	DET	_
 services	service	NC	_
 .	.	PONCT	_
-Quant_à	quant_à	P	_
+Quant	quant	ADV	_
+à	à	P	_
 la	le	DET	_
 galerie	galerie	NC	_
 B	B	NC	_
@@ -132288,7 +132522,7 @@ gens	gens	NC	_
 de	de	P	_
 cuisine	cuisine	NC	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 Grâce	grâce	NC	_
 à	à	P	_
 la	le	DET	_
@@ -132495,7 +132729,7 @@ avec	avec	P	_
 les	le	DET	_
 besoins	besoin	NC	_
 compliqués	compliqué	ADJ	_
-auxquels	auquel	PROREL	_
+auxquels	à_lequel	PROREL	_
 il	il	CLS	_
 faut	falloir	V	_
 satisfaire	satisfaire	VINF	_
@@ -132534,7 +132768,7 @@ vestibule	vestibule	NC	_
 qui	qui	PROREL	_
 n'	ne	ADV	_
 a	avoir	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 un	un	DET	_
 rez-de-chaussée	rez-de-chaussée	NC	_
 ,	,	PONCT	_
@@ -132562,7 +132796,7 @@ le	le	DET	_
 bâtiment	bâtiment	NC	_
 n'	ne	ADV	_
 ayant	avoir	VPR	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 un	un	DET	_
 étage	étage	NC	_
 de	de	P	_
@@ -132660,7 +132894,7 @@ fr	fr	NC	_
 soit	soit	CC	_
 :	:	PONCT	_
 280000	280000	X	_
-Pour	Pour	ADV	_
+Pour	pour	ADV	_
 les	le	DET	_
 égouts	égout	NC	_
 ,	,	PONCT	_
@@ -132680,7 +132914,7 @@ soit	soit	CC	_
 :	:	PONCT	_
 250	250	X	_
 000.	000.	X	_
-Total	Total	NP	_
+Total	total	NP	_
 des	un	DET	_
 constructions	construction	NC	_
 :	:	PONCT	_
@@ -132718,7 +132952,7 @@ chiffre	chiffre	NC	_
 de	de	P	_
 :	:	PONCT	_
 2750000	2750000	X	_
-Total	Total	NP	_
+Total	total	NP	_
 général	général	ADJ	_
 :	:	PONCT	_
 4260000	4260000	X	_
@@ -132829,7 +133063,7 @@ chiffre	chiffre	NC	_
 de	de	P	_
 :	:	PONCT	_
 264000	264000	X	_
-Ajoutant	Ajoutant	VPR	_
+Ajoutant	ajouter	VPR	_
 la	le	DET	_
 somme	somme	NC	_
 portée	porter	VPP	_
@@ -133118,7 +133352,8 @@ pas	pas	ADV	_
 d'	de	P	_
 inconvénients	inconvénient	NC	_
 ,	,	PONCT	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 il	il	CLS	_
 était	être	V	_
 toujours	toujours	ADV	_
@@ -133227,7 +133462,7 @@ d'	de	P	_
 la	le	DET	_
 surface	surface	NC	_
 F.	F.	NP	_
-Alors	Alors	NP	_
+Alors	alors	NP	_
 il	il	CLS	_
 faut	falloir	V	_
 que	que	ADV	_
@@ -133266,7 +133501,7 @@ F	F	NC	_
 ne	ne	ADV	_
 sera	être	V	_
 -t-elle	il	CLS	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 imparfaitement	imparfaitement	ADV	_
 aérée	aérer	VPP	_
 ou	ou	CC	_
@@ -133290,7 +133525,7 @@ K	K	NC	_
 ,	,	PONCT	_
 L	L	NC	_
 seront	être	V	_
-toutes	tous	PRO	_
+toutes	tout	PRO	_
 parfaitement	parfaitement	ADV	_
 claires	clair	ADJ	_
 .	.	PONCT	_
@@ -133511,7 +133746,7 @@ construire	construire	VINF	_
 un	un	DET	_
 hôtel	hôtel	NC	_
 ,	,	PONCT	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 un	un	DET	_
 espace	espace	NC	_
 étroit	étroit	ADJ	_
@@ -133598,7 +133833,7 @@ sous	sous	P	_
 la	le	DET	_
 marquise	marquise	NC	_
 B.	B.	NP	_
-Ces	Ces	NP	_
+Ces	ce	NP	_
 voitures	voiture	NC	_
 peuvent	pouvoir	V	_
 sortir	sortir	VINF	_
@@ -133709,7 +133944,8 @@ totale	total	ADJ	_
 du	de_le	P+D	_
 rez-de-chaussée	rez-de-chaussée	NC	_
 ,	,	PONCT	_
-afin_de	afin_de	P	_
+afin	afin	ADV	_
+de	de	P	_
 trouver	trouver	VINF	_
 de	de	P	_
 l'	le	DET	_
@@ -133719,7 +133955,9 @@ de	de	P	_
 la	le	DET	_
 lumière	lumière	NC	_
 directe	direct	ADJ	_
-au-dessus	au-dessus	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 de	de	P	_
 leur	leur	DET	_
 couverture	couverture	NC	_
@@ -133779,7 +134017,7 @@ beaucoup	beaucoup	ADV	_
 au	à_le	P+D	_
 monumental	monumental	NC	_
 .	.	PONCT	_
-Mais	Mais	NP	_
+Mais	mais	NP	_
 dans	dans	P	_
 les	le	DET	_
 hôtels	hôtel	NC	_
@@ -133976,7 +134214,7 @@ efforts	effort	NC	_
 souvent	souvent	ADV	_
 infructueux	infructueux	ADJ	_
 ,	,	PONCT	_
-auxquels	auquel	PROREL	_
+auxquels	à_lequel	PROREL	_
 les	le	DET	_
 architectes	architecte	NC	_
 s'	se	CLO	_
@@ -135073,7 +135311,7 @@ diriger	diriger	VINF	_
 le	le	DET	_
 pays	pays	NC	_
 et	et	CC	_
-auxquels	auquel	PROREL	_
+auxquels	à_lequel	PROREL	_
 le	le	DET	_
 pays	pays	NC	_
 avait	avoir	V	_
@@ -135192,7 +135430,8 @@ de	de	P	_
 l'	le	DET	_
 intelligence	intelligence	NC	_
 ,	,	PONCT	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 nous	nous	CLS	_
 n'	ne	ADV	_
 aurons	avoir	V	_
@@ -135392,7 +135631,8 @@ comme	comme	CS	_
 ils	il	CLS	_
 peuvent	pouvoir	V	_
 .	.	PONCT	_
-Quant_à	quant_à	P	_
+Quant	quant	ADV	_
+à	à	P	_
 la	le	DET	_
 ventilation	ventilation	NC	_
 des	de_le	P+D	_
@@ -135559,7 +135799,7 @@ et	et	CC	_
 l'on	on	CLS	_
 ne	ne	ADV	_
 recevait	recevoir	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 un	un	DET	_
 nombre	nombre	NC	_
 relativement	relativement	ADV	_
@@ -135684,7 +135924,8 @@ d'	de	P	_
 air	air	NC	_
 froid	froid	ADJ	_
 ,	,	PONCT	_
-tandis_qu'	tandis_que	CS	_
+tandis	tandis	ADV	_
+qu'	que	CS	_
 à	à	P	_
 deux	deux	DET	_
 pas	pas	NC	_
@@ -136272,7 +136513,8 @@ les	le	DET	_
 plus	plus	ADV	_
 élevés	élevé	ADJ	_
 ,	,	PONCT	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 le	le	DET	_
 loyer	loyer	NC	_
 élevé	élevé	ADJ	_
@@ -136458,7 +136700,7 @@ proximité	proximité	NC	_
 des	de_le	P+D	_
 champs	champ	NC	_
 -	-	PONCT	_
-élysées	élysée	ADJ	_
+élysées	Élysée	ADJ	_
 ,	,	PONCT	_
 des	un	DET	_
 tuileries	tuilerie	NC	_
@@ -136617,7 +136859,7 @@ Passy	Passy	NP	_
 d'	de	P	_
 Auteuil	Auteuil	NP	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 L'	le	DET	_
 habitude	habitude	NC	_
 de	de	P	_
@@ -136728,7 +136970,8 @@ demeures	demeure	NC	_
 ;	;	PONCT	_
 *	*	PONCT	_
 1	1	X	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 tous	tout	ADJ	_
 ceux	celui	PRO	_
 qui	qui	PROREL	_
@@ -136748,7 +136991,8 @@ déjà	déjà	ADV	_
 pourvus	pourvoir	VPP	_
 ;	;	PONCT	_
 2	2	X	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 beaucoup	beaucoup	ADV	_
 considérant	considérer	VPR	_
 la	le	DET	_
@@ -136962,7 +137206,8 @@ raison	raison	NC	_
 d'	de	P	_
 être	être	VINF	_
 ,	,	PONCT	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 elle	il	CLS	_
 trouvera	trouver	V	_
 de	de	P	_
@@ -138211,7 +138456,8 @@ de	de	P	_
 ces	ce	DET	_
 constructions	construction	NC	_
 ,	,	PONCT	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 ils	il	CLS	_
 seront	être	V	_
 nécessairement	nécessairement	ADV	_
@@ -139192,7 +139438,8 @@ ou	ou	CC	_
 en	en	P	_
 Allemagne	Allemagne	NP	_
 ,	,	PONCT	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 nos	notre	DET	_
 yeux	œil	NC	_
 se	se	CLO	_
@@ -139277,7 +139524,7 @@ doivent	devoir	V	_
 également	également	ADV	_
 convenir	convenir	VINF	_
 à	à	P	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 ,	,	PONCT	_
 c'est-à-dire	c'est-à-dire	CC	_
 à	à	P	_
@@ -139360,7 +139607,7 @@ les	le	DET	_
 bureaux	bureau	NC	_
 ou	ou	CC	_
 offices	office	NC	_
-auxquels	auquel	PROREL	_
+auxquels	à_lequel	PROREL	_
 ils	il	CLS	_
 doivent	devoir	V	_
 leur	leur	DET	_
@@ -139478,7 +139725,7 @@ maison	maison	NC	_
 n'	ne	ADV	_
 ont	avoir	V	_
 -ils	il	CLS	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 une	un	DET	_
 préoccupation	préoccupation	NC	_
 :	:	PONCT	_
@@ -139566,7 +139813,7 @@ l'on	on	CLS	_
 conduisait	conduire	V	_
 un	un	DET	_
 homme	homme	NC	_
-complétement	complétement	ADV	_
+complétement	complètement	ADV	_
 étranger	étranger	ADJ	_
 à	à	P	_
 nos	notre	DET	_
@@ -140016,7 +140263,9 @@ de	de	P	_
 80000	80000	DET	_
 francs	franc	NC	_
 et	et	CC	_
-au-dessous	au-dessous	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessous	dessous	ADV	_
 ,	,	PONCT	_
 compris	comprendre	VPP	_
 le	le	DET	_
@@ -140155,10 +140404,10 @@ perrons	perron	NC	_
 ,	,	PONCT	_
 jardin	jardin	NC	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 :	:	PONCT	_
 3500	3500	X	_
-Total	Total	NP	_
+Total	total	NP	_
 :	:	PONCT	_
 47000	47000	DET	_
 fr.	fr.	NC	_
@@ -140176,7 +140425,7 @@ mètres	mètre	NC	_
 produisent	produire	V	_
 :	:	PONCT	_
 10000	10000	X	_
-Total	Total	NP	_
+Total	total	NP	_
 :	:	PONCT	_
 57000	57000	DET	_
 fr.	fr.	NC	_
@@ -140278,7 +140527,7 @@ provisions	provision	NC	_
 les	le	DET	_
 vidanges	vidange	NC	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 Au	à_le	P+D	_
 premier	premier	ADJ	_
 étage	étage	NC	_
@@ -141259,7 +141508,7 @@ anciennes	ancien	ADJ	_
 et	et	CC	_
 des	un	DET	_
 usages	usage	NC	_
-auxquels	auquel	PROREL	_
+auxquels	à_lequel	PROREL	_
 ces	ce	DET	_
 formes	forme	NC	_
 ne	ne	ADV	_
@@ -141486,7 +141735,7 @@ croisée	croisée	NC	_
 n'	ne	ADV	_
 étaient	être	V	_
 alors	alors	ADV	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 à	à	P	_
 un	un	DET	_
 battant	battant	NC	_
@@ -141507,7 +141756,7 @@ de	de	P	_
 bois	bois	NC	_
 n'	ne	ADV	_
 était	être	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 un	un	DET	_
 châssis	châssis	NC	_
 vitré	vitrer	VPP	_
@@ -141813,7 +142062,7 @@ que	que	CS	_
 le	le	DET	_
 besoin	besoin	NC	_
 étant	être	VPR	_
-complétement	complétement	ADV	_
+complétement	complètement	ADV	_
 contenté	contenter	VPP	_
 ,	,	PONCT	_
 cette	ce	DET	_
@@ -142318,7 +142567,7 @@ rez-de-chaussée	rez-de-chaussée	NC	_
 ainsi	ainsi	ADV	_
 que	que	CS	_
 l'	le	DET	_
-indique	indique	NC	_
+indique	indiquer	NC	_
 le	le	DET	_
 croquis	croquis	NC	_
 perspectif	perspectif	ADJ	_
@@ -142438,7 +142687,10 @@ et	et	CC	_
 la	le	DET	_
 figure	figure	NC	_
 3	3	ADJ	_
-Quant_au	Quant_au	ADJ	_
+.	.	PONCT	_
+Quant	quant	ADV	_
+Quant	quant	ADV	_
+au	à_le	P+D	_
 système	système	NC	_
 de	de	P	_
 fermeture	fermeture	NC	_
@@ -143228,7 +143480,7 @@ affamés	affamer	VPP	_
 et	et	CC	_
 ne	ne	ADV	_
 forment	former	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 un	un	DET	_
 parement	parement	NC	_
 .	.	PONCT	_
@@ -143265,7 +143517,8 @@ arcs	arc	NC	_
 de	de	P	_
 décharge	décharge	NC	_
 .	.	PONCT	_
-Quant_à	quant_à	P	_
+Quant	quant	ADV	_
+à	à	P	_
 la	le	DET	_
 baie	baie	NC	_
 de	de	P	_
@@ -143329,7 +143582,8 @@ externe	externe	ADJ	_
 des	de_le	P+D	_
 arcs	arc	NC	_
 ,	,	PONCT	_
-afin_de	afin_de	P	_
+afin	afin	ADV	_
+de	de	P	_
 laisser	laisser	VINF	_
 couler	couler	VINF	_
 en	en	P	_
@@ -143456,7 +143710,8 @@ en	en	P	_
 grande	grand	ADJ	_
 quantité	quantité	NC	_
 .	.	PONCT	_
-Quant_aux	quant_à_le	P+D	_
+quant	quant	ADV	_
+aux	à_le	P+D	_
 dispositions	disposition	NC	_
 de	de	P	_
 la	le	DET	_
@@ -143603,7 +143858,9 @@ mètres	mètre	NC	_
 de	de	P	_
 largeur	largeur	NC	_
 et	et	CC	_
-au-dessous	au-dessous	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessous	dessous	ADV	_
 ,	,	PONCT	_
 les	le	DET	_
 saillies	saillie	NC	_
@@ -143638,7 +143895,9 @@ de	de	P	_
 20	20	DET	_
 mètres	mètre	NC	_
 et	et	CC	_
-au-dessus	au-dessus	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 .	.	PONCT	_
 Indépendamment	indépendamment	ADV	_
 des	un	DET	_
@@ -144466,7 +144725,8 @@ de	de	P	_
 voies	voie	NC	_
 publiques	public	ADJ	_
 ,	,	PONCT	_
-tandis_que	tandis_que	CS	_
+tandis	tandis	ADV	_
+que	que	CS	_
 l'on	on	CLS	_
 élève	élever	V	_
 des	un	DET	_
@@ -144684,7 +144944,9 @@ ce	ce	PRO	_
 qui	qui	PROREL	_
 se	se	CLO	_
 produit	produire	V	_
-au-dessus	au-dessus	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 de	de	P	_
 ce	ce	PRO	_
 que	que	PROREL	_
@@ -145427,7 +145689,7 @@ enchevêtrures	enchevêtrure	NC	_
 ,	,	PONCT	_
 étriers	étrier	ADJ	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 Ce	ce	CLS	_
 n'	ne	ADV	_
 était	être	V	_
@@ -145498,7 +145760,8 @@ m	m	NC	_
 50	50	DET	_
 centimètres	centimètre	NC	_
 ;	;	PONCT	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 ,	,	PONCT	_
 pour	pour	P	_
 plus	plus	ADV	_
@@ -145579,7 +145842,7 @@ pièces	pièce	NC	_
 jumelées	jumeler	VPP	_
 ne	ne	ADV	_
 fournissent	fournir	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 une	un	DET	_
 épaisseur	épaisseur	NC	_
 de	de	P	_
@@ -146042,7 +146305,8 @@ de	de	P	_
 pierre	pierre	NC	_
 aujourd'hui	aujourd'hui	ADV	_
 ?	?	PONCT	_
-Parce_que	parce_que	CS	_
+Parce	parce	ADV	_
+que	que	CS	_
 :	:	PONCT	_
 1	1	X	_
 la	le	DET	_
@@ -146053,7 +146317,8 @@ permettrait	permettre	V	_
 pas	pas	ADV	_
 ;	;	PONCT	_
 2	2	X	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 nous	nous	CLS	_
 avons	avoir	V	_
 perdu	perdre	VPP	_
@@ -146148,7 +146413,8 @@ citer	citer	VINF	_
 elle	il	CLS	_
 est	être	V	_
 chère	cher	ADJ	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 les	le	DET	_
 architectes	architecte	NC	_
 dédaignent	dédaigner	V	_
@@ -146346,7 +146612,7 @@ ne	ne	ADV	_
 pouvaient	pouvoir	V	_
 être	être	VINF	_
 obtenus	obtenir	VPP	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 à	à	P	_
 des	un	DET	_
 prix	prix	NC	_
@@ -146584,7 +146850,7 @@ bien	bien	ADV	_
 l'	il	CLO	_
 avouer	avouer	VINF	_
 ,	,	PONCT	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 avec	avec	P	_
 assez	assez	ADV	_
 peu	peu	ADV	_
@@ -146938,7 +147204,9 @@ chevron	chevron	NC	_
 en	en	P	_
 chevron	chevron	NC	_
 ,	,	PONCT	_
-au-dessus	au-dessus	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 de	de	P	_
 la	le	DET	_
 charpente	charpente	NC	_
@@ -148152,7 +148420,7 @@ extérieure	extérieur	ADJ	_
 Ce	ce	CLS	_
 n'	ne	ADV	_
 est	être	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 à	à	P	_
 l'	le	DET	_
 aide	aide	NC	_
@@ -148322,7 +148590,8 @@ mètres	mètre	NC	_
 de	de	P	_
 surface	surface	NC	_
 ,	,	PONCT	_
-tandis_qu'	tandis_que	CS	_
+tandis	tandis	ADV	_
+qu'	que	CS	_
 un	un	DET	_
 pan	pan	NC	_
 de	de	P	_
@@ -148335,7 +148604,7 @@ d'	de	P	_
 épaisseur	épaisseur	NC	_
 n'	ne	ADV	_
 occuperait	occuper	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 une	un	DET	_
 surface	surface	NC	_
 de	de	P	_
@@ -148479,7 +148748,9 @@ sa	son	DET	_
 section	section	NC	_
 horizontale	horizontal	ADJ	_
 ,	,	PONCT	_
-au-dessous	au-dessous	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessous	dessous	ADV	_
 de	de	P	_
 la	le	DET	_
 potence	potence	NC	_
@@ -148650,7 +148921,7 @@ sont	être	V	_
 tracés	tracer	VPP	_
 en	en	P	_
 F.	F.	NP	_
-Voilà	Voilà	NP	_
+Voilà	voilà	NP	_
 pour	pour	P	_
 l'	le	DET	_
 ensemble	ensemble	NC	_
@@ -148696,7 +148967,9 @@ horizontale	horizontal	ADJ	_
 du	de_le	P+D	_
 support	support	NC	_
 ,	,	PONCT	_
-au-dessous	au-dessous	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessous	dessous	ADV	_
 des	un	DET	_
 potences	potence	NC	_
 d'	de	P	_
@@ -148789,7 +149062,9 @@ de	de	P	_
 tôle	tôle	NC	_
 E	E	NC	_
 prolongées	prolonger	VPP	_
-au-dessus	au-dessus	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 de	de	P	_
 l'	le	DET	_
 arrase	arrase	NC	_
@@ -148846,7 +149121,7 @@ et	et	CC	_
 le	le	DET	_
 sofite	sofite	NC	_
 P.	P.	NP	_
-Un	Un	NP	_
+Un	un	NP	_
 sommier	sommier	ADJ	_
 R	R	NC	_
 reposant	reposer	VPR	_
@@ -148876,7 +149151,7 @@ dans	dans	P	_
 la	le	DET	_
 figure	figure	NC	_
 7	7	ADJ	_
-Un	Un	NP	_
+Un	un	NP	_
 montant	monter	VPR	_
 de	de	P	_
 pan	pan	NC	_
@@ -148888,7 +149163,7 @@ est	être	V	_
 tracé	tracer	VPP	_
 en	en	P	_
 O.	O.	NP	_
-Nous	Nous	NP	_
+Nous	nous	NP	_
 avons	avoir	V	_
 parlé	parler	VPP	_
 des	de_le	P+D	_
@@ -149205,7 +149480,7 @@ suffirait	suffire	V	_
 La	le	DET	_
 figure	figure	NC	_
 10	10	ADJ	_
-indique	indique	ADJ	_
+indique	indiquer	ADJ	_
 comment	comment	PROWH	_
 les	le	DET	_
 trémies	trémie	NC	_
@@ -149426,7 +149701,8 @@ centimètres	centimètre	NC	_
 d'	de	P	_
 épaisseur	épaisseur	NC	_
 .	.	PONCT	_
-Quant_au	quant_à_le	P+D	_
+Quant	quant	ADV	_
+au	à_le	P+D	_
 mur	mur	NC	_
 de	de	P	_
 brique	brique	NC	_
@@ -149631,7 +149907,7 @@ tableau	tableau	NC	_
 de	de	P	_
 tôle	tôle	NC	_
 ,	,	PONCT	_
-auquel	auquel	PROREL	_
+auquel	à_lequel	PROREL	_
 s'	se	CLO	_
 attache	attacher	V	_
 le	le	DET	_
@@ -149739,7 +150015,7 @@ traversant	traverser	VPR	_
 la	le	DET	_
 rainure	rainure	NC	_
 R.	R.	NP	_
-Ainsi	Ainsi	NP	_
+Ainsi	ainsi	NP	_
 tout	tout	PRO	_
 se	se	CLO	_
 tient	tenir	V	_
@@ -150632,7 +150908,7 @@ si	si	ADV	_
 honorablement	honorablement	ADV	_
 montré	montrer	VPP	_
 ,	,	PONCT	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 en	en	CLO	_
 ont	avoir	V	_
 profité	profiter	VPP	_
@@ -150640,7 +150916,7 @@ profité	profiter	VPP	_
 sauf	sauf	P	_
 nous	nous	PRO	_
 .	.	PONCT	_
-Tous	tous	PRO	_
+Tous	tout	PRO	_
 ont	avoir	V	_
 trouvé	trouver	VPP	_
 là	là	ADV	_
@@ -151603,7 +151879,7 @@ n'	ne	ADV	_
 y	y	CLO	_
 a	avoir	V	_
 plus	plus	ADV	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 à	à	P	_
 monter	monter	VINF	_
 ,	,	PONCT	_
@@ -151704,7 +151980,7 @@ percer	percer	VINF	_
 la	il	CLO	_
 trouer	trouer	VINF	_
 en	en	P	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 sens	sens	NC	_
 ,	,	PONCT	_
 pour	pour	P	_
@@ -151740,7 +152016,7 @@ balcons	balcon	NC	_
 en	en	P	_
 fer	fer	NC	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 Nos	notre	DET	_
 grandes	grand	ADJ	_
 administrations	administration	NC	_
@@ -151888,7 +152164,8 @@ fait	faire	V	_
 pour	pour	P	_
 défaire	défaire	VINF	_
 ,	,	PONCT	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 le	le	DET	_
 maçon	maçon	NC	_
 et	et	CC	_
@@ -151996,7 +152273,7 @@ avantages	avantage	NC	_
 :	:	PONCT	_
 d'	de	P	_
 être	être	VINF	_
-complétement	complétement	ADV	_
+complétement	complètement	ADV	_
 terminées	terminer	VPP	_
 dans	dans	P	_
 les	le	DET	_
@@ -152161,14 +152438,16 @@ coûteraient	coûter	V	_
 assez	assez	ADV	_
 cher	cher	ADJ	_
 ,	,	PONCT	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 nous	nous	CLS	_
 ne	ne	ADV	_
 sommes	être	V	_
 point	point	ADV	_
 outillés	outiller	VPP	_
 ,	,	PONCT	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 les	le	DET	_
 choses	chose	NC	_
 nouvelles	nouveau	ADJ	_
@@ -152182,7 +152461,8 @@ dehors	dehors	NC	_
 des	de_le	P+D	_
 habitudes	habitude	NC	_
 ;	;	PONCT	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 l'	le	DET	_
 esprit	esprit	NC	_
 de	de	P	_
@@ -152194,7 +152474,8 @@ n'	ne	ADV	_
 existe	exister	V	_
 pas	pas	ADV	_
 ;	;	PONCT	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 chacun	chacun	PRO	_
 attend	attendre	V	_
 pour	pour	P	_
@@ -152206,7 +152487,8 @@ agisse	agir	V	_
 d'	de	P	_
 abord	abord	NC	_
 ;	;	PONCT	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 les	le	DET	_
 grandes	grand	ADJ	_
 usines	usine	NC	_
@@ -152236,7 +152518,8 @@ pour	pour	P	_
 les	il	CLO	_
 employer	employer	VINF	_
 ;	;	PONCT	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 nos	notre	DET	_
 ouvriers	ouvrier	NC	_
 ont	avoir	V	_
@@ -152258,7 +152541,8 @@ de	de	P	_
 leur	leur	DET	_
 insuffisance	insuffisance	NC	_
 ;	;	PONCT	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 nous	nous	CLS	_
 aimons	aimer	V	_
 les	le	DET	_
@@ -152274,7 +152558,7 @@ que	que	CS	_
 nous	nous	CLS	_
 n'	ne	ADV	_
 adoptons	adopter	V	_
-résolûment	résolûment	ADV	_
+résolûment	résolument	ADV	_
 les	le	DET	_
 réformes	réforme	NC	_
 que	que	CS	_
@@ -152312,7 +152596,8 @@ fois	fois	NC	_
 à	à	P	_
 terre	terre	NC	_
 ;	;	PONCT	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 chacun	chacun	PRO	_
 blâme	blâmer	V	_
 les	le	DET	_
@@ -152332,7 +152617,8 @@ par	par	P	_
 les	le	DET	_
 cornes	corne	NC	_
 ;	;	PONCT	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 nous	nous	CLS	_
 n'	ne	ADV	_
 avons	avoir	V	_
@@ -152355,7 +152641,7 @@ l'	le	DET	_
 patiente	patient	ADJ	_
 en	en	P	_
 haut	haut	NC	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 en	en	P	_
 bas	bas	NC	_
 de	de	P	_
@@ -152659,7 +152945,7 @@ en	en	P	_
 terre	terre	NC	_
 cuite	cuit	ADJ	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 ,	,	PONCT	_
 fourniraient	fournir	V	_
 bien	bien	ADV	_
@@ -153014,7 +153300,7 @@ un	un	DET	_
 éclat	éclat	NC	_
 durable	durable	ADJ	_
 et	et	CC	_
-brillant	brillant	ADJ	_
+brillant	briller	ADJ	_
 sont	être	V	_
 dépourvues	dépourvoir	VPP	_
 de	de	P	_
@@ -153479,7 +153765,7 @@ siècles	siècle	NC	_
 ,	,	PONCT	_
 a	avoir	V	_
 presque	presque	ADV	_
-complétement	complétement	ADV	_
+complétement	complètement	ADV	_
 disparu	disparaître	VPP	_
 de	de	P	_
 ces	ce	DET	_
@@ -153530,7 +153816,7 @@ employer	employer	VINF	_
 parcimonieusement	parcimonieusement	ADV	_
 aux	à_le	P+D	_
 objets	objet	NC	_
-auxquels	auquel	PROREL	_
+auxquels	à_lequel	PROREL	_
 ces	ce	DET	_
 matériaux	matériau	NC	_
 sont	être	V	_
@@ -154187,7 +154473,7 @@ de	de	P	_
 l'	le	DET	_
 aile	aile	NC	_
 du	de_le	P+D	_
-louvre	louvre	NC	_
+louvre	Louvre	NP	_
 sur	sur	P	_
 le	le	DET	_
 quai	quai	NC	_
@@ -154536,7 +154822,7 @@ rapidement	rapidement	ADV	_
 et	et	CC	_
 ne	ne	ADV	_
 présentent	présenter	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 une	un	DET	_
 clôture	clôture	NC	_
 précaire	précaire	ADJ	_
@@ -154656,7 +154942,7 @@ cas	cas	NC	_
 ,	,	PONCT	_
 pouvant	pouvoir	VPR	_
 être	être	VINF	_
-complétement	complétement	ADV	_
+complétement	complètement	ADV	_
 établi	établir	VPP	_
 à	à	P	_
 l'	le	DET	_
@@ -155035,7 +155321,7 @@ chéneau	chéneau	NC	_
 ainsi	ainsi	ADV	_
 que	que	CS	_
 l'	le	DET	_
-indique	indique	NC	_
+indique	indiquer	NC	_
 le	le	DET	_
 détail	détail	NC	_
 E	E	ADJ	_
@@ -155051,7 +155337,7 @@ faîtage	faîtage	NC	_
 ainsi	ainsi	ADV	_
 que	que	CS	_
 l'	le	DET	_
-indique	indique	NC	_
+indique	indiquer	NC	_
 le	le	DET	_
 détail	détail	NC	_
 D.	D.	NP	_
@@ -155323,7 +155609,9 @@ C.	C.	NP	_
 De	de	P	_
 plus	plus	ADV	_
 ,	,	PONCT	_
-au-dessous	au-dessous	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessous	dessous	ADV	_
 des	de_le	P+D	_
 cornières	cornière	NC	_
 ,	,	PONCT	_
@@ -155377,7 +155665,7 @@ coussinets	coussinet	NC	_
 du	de_le	P+D	_
 gros	gros	ADJ	_
 papier	papier	NC	_
-complétement	complétement	ADV	_
+complétement	complètement	ADV	_
 enduit	enduire	VPP	_
 de	de	P	_
 mastic	mastic	NC	_
@@ -155466,7 +155754,7 @@ leurs	leur	DET	_
 lattis	lattis	NC	_
 et	et	CC	_
 étant	être	VPR	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 ,	,	PONCT	_
 pour	pour	P	_
 un	un	DET	_
@@ -155548,7 +155836,8 @@ m	m	NC	_
 0	0	NC	_
 04	04	ADJ	_
 ,	,	PONCT	_
-afin_de	afin_de	P	_
+afin	afin	ADV	_
+de	de	P	_
 loger	loger	VINF	_
 la	le	DET	_
 tête	tête	NC	_
@@ -156069,7 +156358,7 @@ on	on	CLS	_
 n'	ne	ADV	_
 a	avoir	V	_
 affaire	affaire	NC	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 à	à	P	_
 deux	deux	NC	_
 ,	,	PONCT	_
@@ -157565,7 +157854,7 @@ salles	salle	NC	_
 de	de	P	_
 réunion	réunion	NC	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 Ce	ce	PRO	_
 qu'	que	PROREL	_
 il	il	CLS	_
@@ -158007,7 +158296,9 @@ les	le	DET	_
 pas	pas	NC	_
 des	de_le	P+D	_
 portes	porte	NC	_
-au-dessus	au-dessus	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 du	de_le	P+D	_
 niveau	niveau	NC	_
 des	de_le	P+D	_
@@ -158085,7 +158376,8 @@ se	se	CLO	_
 modifient	modifier	V	_
 pas	pas	ADV	_
 ,	,	PONCT	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 ,	,	PONCT	_
 dans	dans	P	_
 ces	ce	DET	_
@@ -158607,7 +158899,8 @@ que	que	PROREL	_
 je	je	CLS	_
 m'	je	CLO	_
 attache	attacher	V	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 c'	ce	CLS	_
 est	être	V	_
 l'	le	DET	_
@@ -158735,7 +159028,7 @@ propriétaire	propriétaire	NC	_
 ne	ne	ADV	_
 possédant	posséder	VPR	_
 souvent	souvent	ADV	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 un	un	DET	_
 rez-de-chaussée	rez-de-chaussée	NC	_
 ,	,	PONCT	_
@@ -159079,7 +159372,7 @@ que	que	CS	_
 possible	possible	ADJ	_
 .	.	PONCT	_
 Si	si	CS	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 pouvaient	pouvoir	V	_
 vivre	vivre	VINF	_
 dans	dans	P	_
@@ -159574,7 +159867,7 @@ saurait	savoir	V	_
 mettre	mettre	VINF	_
 en	en	P	_
 doute	doute	NC	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 une	un	DET	_
 bonne	bon	ADJ	_
 partie	partie	NC	_
@@ -159639,7 +159932,9 @@ soirées	soirée	NC	_
 sont	être	V	_
 peu	peu	ADV	_
 élevés	élever	VPP	_
-au-dessus	au-dessus	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 du	de_le	P+D	_
 sol	sol	NC	_
 extérieur	extérieur	ADJ	_
@@ -159951,7 +160246,8 @@ poudreux	poudreux	ADJ	_
 l'	le	DET	_
 extérieur	extérieur	NC	_
 ,	,	PONCT	_
-tandis_qu'	tandis_que	CS	_
+tandis	tandis	ADV	_
+qu'	que	CS	_
 à	à	P	_
 l'	le	DET	_
 intérieur	intérieur	NC	_
@@ -159986,7 +160282,7 @@ vergelés	vergelé	NC	_
 sont	être	V	_
 encore	encore	ADV	_
 les	le	DET	_
-meilleures	meilleure	NC	_
+meilleures	meilleur	NC	_
 ,	,	PONCT	_
 celles	celui	PRO	_
 qui	qui	PROREL	_
@@ -160104,7 +160400,8 @@ sur	sur	P	_
 aucun	aucun	DET	_
 point	point	NC	_
 .	.	PONCT	_
-Quant_aux	quant_à_le	P+D	_
+quant	quant	ADV	_
+aux	à_le	P+D	_
 enduits	enduit	NC	_
 ,	,	PONCT	_
 les	le	DET	_
@@ -160265,7 +160562,8 @@ par	par	P	_
 leurs	leur	DET	_
 fibres	fibre	NC	_
 .	.	PONCT	_
-Quant_aux	quant_à_le	P+D	_
+quant	quant	ADV	_
+aux	à_le	P+D	_
 couvertures	couverture	NC	_
 ,	,	PONCT	_
 la	le	DET	_
@@ -160430,7 +160728,7 @@ d'	de	P	_
 abriter	abriter	VINF	_
 le	le	DET	_
 plus	plus	ADV	_
-complétement	complétement	ADV	_
+complétement	complètement	ADV	_
 possible	possible	ADJ	_
 les	le	DET	_
 murs	mur	NC	_
@@ -160748,7 +161046,7 @@ par	par	P	_
 petites	petit	ADJ	_
 parties	partie	NC	_
 ou	ou	CC	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 à	à	P	_
 la	le	DET	_
 fois	fois	NC	_
@@ -161102,7 +161400,7 @@ bruits	bruit	NC	_
 de	de	P	_
 la	le	DET	_
 maison	maison	NC	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 on	on	CLS	_
 habite	habiter	V	_
 ;	;	PONCT	_
@@ -161707,7 +162005,7 @@ tracé	tracé	NC	_
 perspectif	perspectif	ADJ	_
 en	en	P	_
 A.	A.	NP	_
-Ces	Ces	NP	_
+Ces	ce	NP	_
 bandes	bande	NC	_
 de	de	P	_
 feuillard	feuillard	NC	_
@@ -161721,7 +162019,9 @@ jusqu'	jusque	P	_
 m	m	NC	_
 ,	,	PONCT	_
 04	04	NC	_
-au-dessus	au-dessus	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 de	de	P	_
 la	le	DET	_
 rive	rive	NC	_
@@ -161758,7 +162058,8 @@ m	m	NC	_
 de	de	P	_
 longueur	longueur	NC	_
 ,	,	PONCT	_
-afin_de	afin_de	P	_
+afin	afin	ADV	_
+de	de	P	_
 les	il	CLO	_
 retourner	retourner	VINF	_
 de	de	P	_
@@ -161962,7 +162263,8 @@ le	il	CLO	_
 voit	voir	V	_
 en	en	P	_
 G.	G.	NC	_
-En_outre	en_outre	ADV	_
+En	en	P	_
+outre	outre	P	_
 ,	,	PONCT	_
 d'	de	P	_
 une	un	DET	_
@@ -162074,7 +162376,7 @@ solide	solide	ADJ	_
 ,	,	PONCT	_
 figure	figure	NC	_
 6	6	ADJ	_
-Ces	Ces	NC	_
+Ces	ce	NC	_
 étriers	étrier	ADJ	_
 se	se	CLO	_
 font	faire	V	_
@@ -162371,7 +162673,7 @@ des	un	DET	_
 effets	effet	NC	_
 très	très	ADV	_
 -	-	PONCT	_
-brillants	brillant	ADJ	_
+brillants	briller	ADJ	_
 et	et	CC	_
 riches	riche	ADJ	_
 .	.	PONCT	_
@@ -162714,7 +163016,7 @@ eaux	eau	NC	_
 pour	pour	P	_
 que	que	CS	_
 ces	ce	DET	_
-gaînes	gaînes	NC	_
+gaînes	gaine	NC	_
 ne	ne	ADV	_
 soient	être	V	_
 pas	pas	ADV	_
@@ -162885,7 +163187,7 @@ naturel	naturel	ADJ	_
 après	après	P	_
 tout	tout	PRO	_
 ,	,	PONCT	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 un	un	DET	_
 propriétaire	propriétaire	NC	_
 ait	avoir	V	_
@@ -163170,7 +163472,7 @@ est	être	V	_
 ,	,	PONCT	_
 à_vrai_dire	à_vrai_dire	ADV	_
 ,	,	PONCT	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 un	un	DET	_
 étage	étage	NC	_
 de	de	P	_
@@ -163285,14 +163587,16 @@ premier	premier	ADJ	_
 qui	qui	PROREL	_
 n'	ne	ADV	_
 est	être	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 un	un	DET	_
 rez-de-chaussée	rez-de-chaussée	NC	_
 élevé	élevé	ADJ	_
 de	de	P	_
 3	3	DET	_
 mètres	mètre	NC	_
-au-dessus	au-dessus	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 du	de_le	P+D	_
 sol	sol	NC	_
 extérieur	extérieur	ADJ	_
@@ -163334,7 +163638,7 @@ de	de	P	_
 travail	travail	NC	_
 en	en	P	_
 F.	F.	NC	_
-Un	Un	ADJ	_
+Un	un	ADJ	_
 balcon	balcon	NC	_
 B	B	ADJ	_
 règne	régner	V	_
@@ -163582,7 +163886,7 @@ entendue	entendre	VPP	_
 ,	,	PONCT	_
 ne	ne	ADV	_
 demande	demander	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 un	un	DET	_
 entretien	entretien	NC	_
 restreint	restreint	ADJ	_
@@ -163764,7 +164068,8 @@ aux	à_le	P+D	_
 champs	champ	NC	_
 ,	,	PONCT	_
 soit	soit	CC	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 leur	leur	DET	_
 genre	genre	NC	_
 de	de	P	_
@@ -163776,7 +164081,8 @@ habitudes	habitude	NC	_
 champêtres	champêtre	ADJ	_
 ,	,	PONCT	_
 soit	soit	CC	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 elles	il	CLS	_
 ont	avoir	V	_
 des	un	DET	_
@@ -164530,7 +164836,7 @@ et	et	CC	_
 le	le	DET	_
 linge	linge	NC	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 Au	à_le	P+D	_
 premier	premier	ADJ	_
 étage	étage	NC	_
@@ -164611,7 +164917,7 @@ ont	avoir	V	_
 paru	paraître	VPP	_
 remplir	remplir	VINF	_
 si	si	ADV	_
-complétement	complétement	ADV	_
+complétement	complètement	ADV	_
 ce	ce	DET	_
 véritable	véritable	ADJ	_
 programme	programme	NC	_
@@ -165365,7 +165671,9 @@ sur	sur	P	_
 le	le	DET	_
 rez-de-chaussée	rez-de-chaussée	NC	_
 .	.	PONCT	_
-Au-dessus	au-dessus	ADV	_
+Au	à_le	P+D	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 du	de_le	P+D	_
 premier	premier	ADJ	_
 étage	étage	NC	_
@@ -166022,7 +166330,7 @@ apparence	apparence	NC	_
 extérieure	extérieur	ADJ	_
 ,	,	PONCT	_
 plutôt	plutôt	ADV	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 à	à	P	_
 satisfaire	satisfaire	VINF	_
 aux	à_le	P+D	_
@@ -166836,7 +167144,7 @@ gens	gens	NC	_
 du	de_le	P+D	_
 XIVe	XIVe	ADJ	_
 siècle	siècle	NC	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 à	à	P	_
 ceux	celui	PRO	_
 du	de_le	P+D	_
@@ -166895,7 +167203,8 @@ une	un	DET	_
 disposition	disposition	NC	_
 gothique	gothique	ADJ	_
 ,	,	PONCT	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 ils	il	CLS	_
 ne	ne	ADV	_
 voudraient	vouloir	V	_
@@ -167170,7 +167479,8 @@ familles	famille	NC	_
 la	le	DET	_
 torture	torture	NC	_
 ,	,	PONCT	_
-afin_de	afin_de	P	_
+afin	afin	ADV	_
+de	de	P	_
 posséder	posséder	VINF	_
 des	un	DET	_
 habitations	habitation	NC	_
@@ -167672,7 +167982,7 @@ et	et	CC	_
 ce	ce	DET	_
 salon	salon	NC	_
 D.	D.	NP	_
-Pour	Pour	NP	_
+Pour	pour	NP	_
 la	le	DET	_
 salle	salle	NC	_
 à	à	P	_
@@ -167726,7 +168036,7 @@ d'	de	P	_
 honneur	honneur	NC	_
 ne	ne	ADV	_
 monte	monter	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 au	à_le	P+D	_
 premier	premier	ADJ	_
 étage	étage	NC	_
@@ -167848,7 +168158,8 @@ le	le	DET	_
 calorifère	calorifère	NC	_
 central	central	ADJ	_
 ,	,	PONCT	_
-afin_d'	afin_de	P	_
+afin	afin	ADV	_
+d'	de	P	_
 éviter	éviter	VINF	_
 les	le	DET	_
 inconvénients	inconvénient	NC	_
@@ -168094,7 +168405,7 @@ que	que	ADV	_
 m	m	NC	_
 ,	,	PONCT	_
 80	80	DET	_
-Si	Si	NC	_
+Si	si	NP	_
 ,	,	PONCT	_
 au	à_le	P+D	_
 point	point	NC	_
@@ -168528,7 +168839,7 @@ ces	ce	DET	_
 préjugés	préjugé	NC	_
 d'	de	P	_
 école	école	NC	_
-auxquels	auquel	PROREL	_
+auxquels	à_lequel	PROREL	_
 le	le	DET	_
 public	public	NC	_
 ,	,	PONCT	_
@@ -168961,7 +169272,7 @@ pavillons	pavillon	NC	_
 d'	de	P	_
 axes	axe	NC	_
 ,	,	PONCT	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 à	à	P	_
 pans	pan	NC	_
 au	à_le	P+D	_
@@ -169107,7 +169418,9 @@ où	où	PROREL	_
 ils	il	CLS	_
 se	se	CLO	_
 rencontrent	rencontrer	V	_
-au-dessus	au-dessus	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 du	de_le	P+D	_
 linteau	linteau	NC	_
 de	de	P	_
@@ -169570,7 +169883,7 @@ donc	donc	ADV	_
 un	un	DET	_
 passage	passage	NC	_
 K	K	NC	_
-auquel	auquel	PROREL	_
+auquel	à_lequel	PROREL	_
 on	on	CLS	_
 peut	pouvoir	V	_
 arriver	arriver	VINF	_
@@ -169687,7 +170000,7 @@ le	il	CLO	_
 voit	voir	V	_
 en	en	P	_
 J.	J.	NP	_
-Et	Et	NP	_
+Et	et	NP	_
 ,	,	PONCT	_
 si	si	CS	_
 on	on	CLS	_
@@ -169971,7 +170284,7 @@ plus	plus	ADV	_
 craindre	craindre	VINF	_
 aux	à_le	P+D	_
 champs	champ	NC	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 à	à	P	_
 la	le	DET	_
 ville	ville	NC	_
@@ -170088,14 +170401,17 @@ les	le	DET	_
 entre-meneaux	entre-meneaux	NC	_
 inférieurs	inférieur	ADJ	_
 .	.	PONCT	_
-Quant_aux	quant_à_le	P+D	_
+quant	quant	ADV	_
+aux	à_le	P+D	_
 entre-meneaux	entre-meneaux	NC	_
 supérieurs	supérieur	ADJ	_
 ,	,	PONCT	_
 aux	à_le	P+D	_
 jours	jour	NC	_
 ouverts	ouvrir	VPP	_
-au-dessus	au-dessus	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 des	de_le	P+D	_
 traverses	traverse	NC	_
 en	en	P	_
@@ -170130,7 +170446,7 @@ fermer	fermer	VINF	_
 de	de	P	_
 l'	le	DET	_
 intérieur	intérieur	NC	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 à	à	P	_
 l'	le	DET	_
 aide	aide	NC	_
@@ -170866,7 +171182,7 @@ imitations	imitation	NC	_
 et	et	CC	_
 n'	ne	ADV	_
 aboutir	aboutir	VINF	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 à	à	P	_
 des	un	DET	_
 compilations	compilation	NC	_
@@ -171266,7 +171582,7 @@ n'	ne	ADV	_
 admet	admettre	V	_
 ces	ce	DET	_
 éléments	élément	NC	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 à	à	P	_
 la	le	DET	_
 condition	condition	NC	_
@@ -171354,7 +171670,8 @@ une	un	DET	_
 manière	manière	NC	_
 apparente	apparent	ADJ	_
 ,	,	PONCT	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 cette	ce	DET	_
 matière	matière	NC	_
 ne	ne	ADV	_
@@ -171875,11 +172192,13 @@ l'	le	DET	_
 exécution	exécution	NC	_
 matérielle	matériel	ADJ	_
 .	.	PONCT	_
-Quant_au	quant_à_le	P+D	_
+Quant	quant	ADV	_
+au	à_le	P+D	_
 sens	sens	NC	_
 critique	critique	ADJ	_
 ,	,	PONCT	_
-quant_au	quant_à_le	P+D	_
+Quant	quant	ADV	_
+au	à_le	P+D	_
 choix	choix	NC	_
 ,	,	PONCT	_
 au	à_le	P+D	_
@@ -172105,7 +172424,7 @@ soleil	soleil	NC	_
 ses	son	DET	_
 corolles	corolle	NC	_
 toutes	tout	ADV	_
-brillantes	brillant	ADJ	_
+brillantes	briller	ADJ	_
 de	de	P	_
 leur	leur	DET	_
 parure	parure	NC	_
@@ -172695,7 +173014,7 @@ de	de	P	_
 neuf	neuf	DET	_
 heures	heure	NC	_
 et	et	CC	_
-demie	demie	NC	_
+demie	demi	ADJ	_
 à	à	P	_
 cinq	cinq	DET	_
 heures	heure	NC	_
@@ -172707,12 +173026,12 @@ de	de	P	_
 neuf	neuf	DET	_
 heures	heure	NC	_
 et	et	CC	_
-demie	demie	NC	_
+demie	demi	ADJ	_
 à	à	P	_
 deux	deux	DET	_
 heures	heure	NC	_
 et	et	CC	_
-demie	demie	NC	_
+demie	demi	ADJ	_
 ,	,	PONCT	_
 de	de	P	_
 donner	donner	VINF	_
@@ -172818,7 +173137,7 @@ ne	ne	ADV	_
 peut	pouvoir	V	_
 le	il	CLO	_
 faire	faire	VINF	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 à	à	P	_
 ses	son	DET	_
 heures	heure	NC	_
@@ -173193,7 +173512,7 @@ construction	construction	NC	_
 d'	de	P	_
 ornementation	ornementation	NC	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 2	2	X	_
 la	le	DET	_
 composition	composition	NC	_
@@ -173580,7 +173899,7 @@ reproduire	reproduire	VINF	_
 n'	ne	ADV	_
 auront	avoir	V	_
 été	être	VPP	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 une	un	DET	_
 sorte	sorte	NC	_
 d'	de	P	_
@@ -173841,7 +174160,7 @@ est	être	V	_
 son	son	DET	_
 principe	principe	NC	_
 ,	,	PONCT	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 une	un	DET	_
 imitation	imitation	NC	_
 de	de	P	_
@@ -175001,7 +175320,7 @@ travail	travail	NC	_
 de	de	P	_
 restauration	restauration	NC	_
 consciencieuse	consciencieux	ADJ	_
-auquel	auquel	PROREL	_
+auquel	à_lequel	PROREL	_
 se	se	CLO	_
 livre	livrer	V	_
 l'	le	DET	_
@@ -175846,7 +176165,7 @@ pousse	pousser	V	_
 ne	ne	ADV	_
 lui	il	CLO	_
 reconnaître	reconnaître	VINF	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 un	un	DET	_
 caractère	caractère	NC	_
 cosmopolite	cosmopolite	ADJ	_
@@ -176399,7 +176718,7 @@ comme	comme	P	_
 dernière	dernier	ADJ	_
 ressource	ressource	NC	_
 ,	,	PONCT	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 à	à	P	_
 s'	se	CLO	_
 exiler	exiler	VINF	_
@@ -176753,7 +177072,7 @@ faut	falloir	V	_
 admettre	admettre	VINF	_
 ,	,	PONCT	_
 pour	pour	P	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 elle	il	CLS	_
 prospère	prospérer	V	_
 ,	,	PONCT	_
@@ -176785,12 +177104,12 @@ lois	loi	NC	_
 ;	;	PONCT	_
 absence	absence	NC	_
 de	de	P	_
-priviléges	priviléges	NC	_
+priviléges	privilège	NC	_
 ;	;	PONCT	_
 contrôle	contrôle	NC	_
 assidu	assidu	ADJ	_
 de	de	P	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 sur	sur	P	_
 tout	tout	PRO	_
 ,	,	PONCT	_
@@ -177348,7 +177667,7 @@ ce	ce	DET	_
 corps	corps	NC	_
 ne	ne	ADV	_
 soit	être	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 une	un	DET	_
 coterie	coterie	NC	_
 beaucoup	beaucoup	ADV	_
@@ -177370,7 +177689,7 @@ sauvegarder	sauvegarder	VINF	_
 les	le	DET	_
 intérêts	intérêt	NC	_
 de	de	P	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 et	et	CC	_
 la	le	DET	_
 libre	libre	ADJ	_
@@ -177534,7 +177853,7 @@ teneur	teneur	NC	_
 de	de	P	_
 telle	tel	ADJ	_
 sorte	sorte	NC	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 il	il	CLS	_
 désorganisait	désorganiser	V	_
 la	le	DET	_
@@ -177626,7 +177945,7 @@ beaucoup	beaucoup	ADV	_
 ,	,	PONCT	_
 n'	ne	ADV	_
 avait	avoir	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 un	un	DET	_
 moyen	moyen	NC	_
 de	de	P	_
@@ -177665,7 +177984,7 @@ mot	mot	NC	_
 il	il	CLS	_
 n'	ne	ADV	_
 avait	avoir	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 à	à	P	_
 proclamer	proclamer	VINF	_
 la	le	DET	_
@@ -177876,7 +178195,8 @@ la	le	DET	_
 chose	chose	NC	_
 publique	public	ADJ	_
 ,	,	PONCT	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 ces	ce	DET	_
 corps	corps	NC	_
 trouvent	trouver	V	_
@@ -178307,7 +178627,7 @@ l'	le	DET	_
 examen	examen	NC	_
 .	.	PONCT	_
 Elle	il	CLS	_
-protége	protége	V	_
+protége	protéger	V	_
 ,	,	PONCT	_
 par	par	P	_
 sa	son	DET	_
@@ -178345,7 +178665,8 @@ de	de	P	_
 son	son	DET	_
 action	action	NC	_
 ,	,	PONCT	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 elle	il	CLS	_
 a	avoir	V	_
 ses	son	DET	_
@@ -178825,7 +179146,8 @@ avocats	avocat	NC	_
 des	un	DET	_
 ingénieurs	ingénieur	NC	_
 ,	,	PONCT	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 en	en	P	_
 effet	effet	NC	_
 ces	ce	DET	_
@@ -179018,7 +179340,7 @@ l'	le	DET	_
 l'	le	DET	_
 oeuvre	œuvre	NC	_
 de	de	P	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 et	et	CC	_
 particulièrement	particulièrement	ADV	_
 de	de	P	_
@@ -179339,7 +179661,7 @@ est	être	V	_
 pas	pas	ADV	_
 rencontré	rencontrer	VPP	_
 ;	;	PONCT	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 ,	,	PONCT	_
 malcontents	malcontent	ADJ	_
 certes	certes	ADV	_
@@ -179992,7 +180314,7 @@ objet	objet	NC	_
 et	et	CC	_
 n'	ne	ADV	_
 était	être	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 une	un	DET	_
 prime	prime	NC	_
 offerte	offrir	VPP	_
@@ -180450,7 +180772,7 @@ substitutions	substitution	NC	_
 de	de	P	_
 dépenses	dépense	NC	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 Si	si	CS	_
 les	le	DET	_
 architectes	architecte	NC	_
@@ -180969,7 +181291,8 @@ mis	mettre	VPP	_
 à	à	P	_
 exécution	exécution	NC	_
 ,	,	PONCT	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 ils	il	CLS	_
 trouvaient	trouver	V	_
 devant	devant	P	_
@@ -181233,7 +181556,7 @@ ou	ou	CC	_
 tel	tel	DET	_
 ,	,	PONCT	_
 et	et	CC	_
-auxquels	auquel	PROREL	_
+auxquels	à_lequel	PROREL	_
 le	le	DET	_
 nom	nom	NC	_
 du	de_le	P+D	_
@@ -181269,7 +181592,8 @@ ne	ne	ADV	_
 les	il	CLO	_
 changerons	changer	V	_
 pas	pas	ADV	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 nous	nous	CLS	_
 avons	avoir	V	_
 établi	établir	VPP	_
@@ -181529,14 +181853,14 @@ toujours	toujours	ADV	_
 le	le	DET	_
 vainqueur	vainqueur	NC	_
 ,	,	PONCT	_
-auquel	auquel	PROREL	_
+auquel	à_lequel	PROREL	_
 le	le	DET	_
 public	public	NC	_
 ne	ne	ADV	_
 songeait	songer	V	_
 guère	guère	ADV	_
 et	et	CC	_
-auquel	auquel	PROREL	_
+auquel	à_lequel	PROREL	_
 les	le	DET	_
 membres	membre	NC	_
 du	de_le	P+D	_
@@ -182142,7 +182466,7 @@ ne	ne	ADV	_
 trouver	trouver	VINF	_
 de	un	DET	_
 concurrents	concurrent	NC	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 en	en	P	_
 dehors	dehors	NC	_
 des	de_le	P+D	_
@@ -182745,7 +183069,7 @@ administration	administration	NC	_
 l'	le	DET	_
 armée	armée	NC	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 Cependant	cependant	ADV	_
 ,	,	PONCT	_
 qui	qui	PROREL	_
@@ -182954,7 +183278,8 @@ qui	qui	PROREL	_
 la	il	CLO	_
 contenait	contenir	V	_
 ,	,	PONCT	_
-afin_de	afin_de	P	_
+afin	afin	ADV	_
+de	de	P	_
 constater	constater	VINF	_
 l'	le	DET	_
 état	état	NC	_
@@ -183616,7 +183941,7 @@ peut	pouvoir	V	_
 attirer	attirer	VINF	_
 les	le	DET	_
 capacités	capacité	NC	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 en	en	P	_
 leur	il	CLO	_
 offrant	offrir	VPR	_
@@ -183671,7 +183996,7 @@ positions	position	NC	_
 par	par	P	_
 la	le	DET	_
 pression	pression	NC	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 il	il	CLS	_
 exerce	exercer	V	_
 sur	sur	P	_
@@ -184009,7 +184334,8 @@ n'	ne	ADV	_
 est	être	V	_
 pas	pas	ADV	_
 tant	tant	ADV	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 cet	ce	DET	_
 inconnu	inconnu	ADJ	_
 montre	montre	NC	_
@@ -184024,7 +184350,8 @@ hautes	haut	ADJ	_
 capacités	capacité	NC	_
 ,	,	PONCT	_
 que	que	CS	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 il	il	CLS	_
 est	être	V	_
 un	un	DET	_
@@ -184398,7 +184725,7 @@ chaque	chaque	DET	_
 juré	juré	NC	_
 a	avoir	V	_
 son	son	DET	_
-siége	siége	NC	_
+siége	siège	NC	_
 fait	faire	VPP	_
 ,	,	PONCT	_
 et	et	CC	_
@@ -184723,7 +185050,8 @@ qu'	que	PROREL	_
 il	il	CLS	_
 propose	proposer	V	_
 ;	;	PONCT	_
-tandis_qu'	tandis_que	CS	_
+tandis	tandis	ADV	_
+qu'	que	CS	_
 un	un	DET	_
 artiste	artiste	NC	_
 médiocre	médiocre	ADJ	_
@@ -185498,7 +185826,7 @@ ne	ne	ADV	_
 peuvent	pouvoir	V	_
 faire	faire	VINF	_
 impression	impression	NC	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 à	à	P	_
 huis	huis	NC	_
 -	-	PONCT	_
@@ -185553,7 +185881,7 @@ civils	civil	ADJ	_
 ,	,	PONCT	_
 des	un	DET	_
 administrateurs	administrateur	NC	_
-auxquels	auquel	PROREL	_
+auxquels	à_lequel	PROREL	_
 les	le	DET	_
 travaux	travail	NC	_
 publics	public	ADJ	_
@@ -185714,7 +186042,7 @@ plus	plus	ADV	_
 capables	capable	ADJ	_
 ,	,	PONCT	_
 sinon	sinon	P	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 ,	,	PONCT	_
 ne	ne	ADV	_
 se	se	CLO	_
@@ -185827,7 +186155,7 @@ propositions	proposition	NC	_
 c'est-à-dire	c'est-à-dire	CC	_
 les	le	DET	_
 rabais	rabais	NC	_
-auxquels	auquel	PROREL	_
+auxquels	à_lequel	PROREL	_
 ils	il	CLS	_
 soumettront	soumettre	V	_
 leurs	leur	DET	_
@@ -186122,7 +186450,7 @@ plomberie	plomberie	NC	_
 ,	,	PONCT	_
 menuiserie	menuiserie	NC	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 ,	,	PONCT	_
 n'	ne	ADV	_
 a	avoir	V	_
@@ -186161,7 +186489,7 @@ entendu	entendre	VPP	_
 il	il	CLS	_
 ne	ne	ADV	_
 sous-traite	sous-traiter	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 à	à	P	_
 des	un	DET	_
 prix	prix	NC	_
@@ -186236,7 +186564,9 @@ chose	chose	NC	_
 fournie	fournir	VPP	_
 est	être	V	_
 payée	payer	VPP	_
-au-dessus	au-dessus	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 de	de	P	_
 sa	son	DET	_
 valeur	valeur	NC	_
@@ -186483,7 +186813,7 @@ et	et	CC	_
 il	il	CLS	_
 faut	falloir	V	_
 bien	bien	ADV	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 il	il	CLS	_
 donne	donner	V	_
 directement	directement	ADV	_
@@ -186836,7 +187166,7 @@ rapports	rapport	NC	_
 d'	de	P	_
 experts	expert	NC	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 Puis	puis	CC	_
 si	si	CS	_
 l'	le	DET	_
@@ -187107,7 +187437,7 @@ constructions	construction	NC	_
 doit	devoir	V	_
 savoir	savoir	VINF	_
 discerner	discerner	VINF	_
-auquel	auquel	PROREL	_
+auquel	à_lequel	PROREL	_
 des	un	DET	_
 entrepreneurs	entrepreneur	NC	_
 soumissionnaires	soumissionnaire	ADJ	_
@@ -187180,7 +187510,8 @@ ont	avoir	V	_
 beaucoup	beaucoup	ADV	_
 à	à	P	_
 faire	faire	VINF	_
-tandis_que	tandis_que	CS	_
+tandis	tandis	ADV	_
+que	que	CS	_
 les	le	DET	_
 autres	autre	NC	_
 n'	ne	ADV	_
@@ -188115,7 +188446,7 @@ cela	cela	PRO	_
 -	-	PONCT	_
 tout	tout	ADJ	_
 ce	ce	PRO	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 on	on	CLS	_
 veut	vouloir	V	_
 .	.	PONCT	_
@@ -188280,7 +188611,7 @@ en	en	CLO	_
 passe	passer	V	_
 et	et	CC	_
 des	de_le	P+D	_
-meilleures	meilleure	NC	_
+meilleures	meilleur	NC	_
 ...	…	PONCT	_
 la	le	DET	_
 morale	morale	NC	_
@@ -188584,7 +188915,9 @@ se	se	CLO	_
 creuser	creuser	VINF	_
 davantage	davantage	ADV	_
 .	.	PONCT	_
-Au-dessus	au-dessus	ADV	_
+Au	à_le	P+D	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 de	de	P	_
 la	le	DET	_
 classe	classe	NC	_
@@ -188626,7 +188959,8 @@ des	un	DET	_
 rabais	rabais	NC	_
 fabuleux	fabuleux	ADJ	_
 ,	,	PONCT	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 ils	il	CLS	_
 ne	ne	ADV	_
 se	se	CLO	_
@@ -188714,7 +189048,9 @@ le	le	DET	_
 passif	passif	NC	_
 est	être	V	_
 tellement	tellement	ADV	_
-au-dessus	au-dessus	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 de	de	P	_
 l'	le	DET	_
 actif	actif	NC	_
@@ -188802,7 +189138,7 @@ fait	faire	VPP	_
 10	10	DET	_
 ou	ou	CC	_
 12	12	DET	_
-Pour	Pour	NC	_
+Pour	pour	NC	_
 100	100	ADJ	_
 de	de	P	_
 bénéfices	bénéfice	NC	_
@@ -188845,7 +189181,7 @@ de	de	P	_
 15	15	DET	_
 ou	ou	CC	_
 17	17	DET	_
-Pour	Pour	NC	_
+Pour	pour	NC	_
 100	100	ADJ	_
 "	"	PONCT	_
 mais	mais	CC	_
@@ -189038,7 +189374,8 @@ courte	court	ADJ	_
 ou	ou	CC	_
 comptant	compter	VPR	_
 ,	,	PONCT	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 il	il	CLS	_
 n'	ne	ADV	_
 a	avoir	V	_
@@ -189104,7 +189441,7 @@ chiffres	chiffre	NC	_
 il	il	CLS	_
 ne	ne	ADV	_
 présente	présenter	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 un	un	DET	_
 état	état	NC	_
 de	de	P	_
@@ -189513,7 +189850,7 @@ les	le	DET	_
 meilleures	meilleur	ADJ	_
 conditions	condition	NC	_
 )	)	PONCT	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 autant	autant	ADV	_
 qu'	que	CS	_
 il	il	CLS	_
@@ -189523,7 +189860,7 @@ certificat	certificat	NC	_
 de	de	P	_
 capacité	capacité	NC	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 ,	,	PONCT	_
 signé	signer	VPP	_
 de	de	P	_
@@ -190499,7 +190836,7 @@ autre	autre	ADJ	_
 chose	chose	NC	_
 à	à	P	_
 faire	faire	VINF	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 à	à	P	_
 constater	constater	VINF	_
 jour	jour	NC	_
@@ -190891,7 +191228,7 @@ reprises	reprise	NC	_
 ,	,	PONCT	_
 n'	ne	ADV	_
 aboutit	aboutir	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 à	à	P	_
 la	le	DET	_
 confusion	confusion	NC	_
@@ -190909,7 +191246,7 @@ de	de	P	_
 contrôle	contrôle	NC	_
 n'	ne	ADV	_
 est	être	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 une	un	DET	_
 manière	manière	NC	_
 de	de	P	_
@@ -190985,7 +191322,8 @@ l'	le	DET	_
 étendue	étendue	NC	_
 du	de_le	P+D	_
 travail	travail	NC	_
-afin_de	afin_de	P	_
+afin	afin	ADV	_
+de	de	P	_
 pouvoir	pouvoir	VINF	_
 en	en	CLO	_
 estimer	estimer	VINF	_
@@ -191374,7 +191712,7 @@ L'	le	DET	_
 entrepreneur	entrepreneur	NC	_
 n'	ne	ADV	_
 a	avoir	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 un	un	DET	_
 résultat	résultat	NC	_
 en	en	P	_
@@ -191397,7 +191735,7 @@ et	et	CC	_
 ne	ne	ADV	_
 doit	devoir	V	_
 penser	penser	VINF	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 à	à	P	_
 payer	payer	VINF	_
 en	en	P	_
@@ -191852,7 +192190,8 @@ par	par	P	_
 l'	le	DET	_
 entrepreneur	entrepreneur	NC	_
 ,	,	PONCT	_
-afin_qu'	afin_que	CS	_
+afin	afin	ADV	_
+qu'	que	CS	_
 il	il	CLS	_
 ne	ne	ADV	_
 puisse	pouvoir	V	_
@@ -192191,7 +192530,9 @@ en	en	P	_
 B	B	NC	_
 pour	pour	P	_
 celle	celui	PRO	_
-au-dessus	au-dessus	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 ;	;	PONCT	_
 il	il	CLS	_
 placera	placer	V	_
@@ -192232,7 +192573,8 @@ le	le	DET	_
 cube	cube	NC	_
 Aetb	Aetb	NP	_
 ,	,	PONCT	_
-tandis_que	tandis_que	CS	_
+tandis	tandis	ADV	_
+que	que	CS	_
 pour	pour	P	_
 le	le	DET	_
 morceau	morceau	NC	_
@@ -192293,7 +192635,8 @@ son	son	DET	_
 cube	cube	NC	_
 réel	réel	ADJ	_
 ,	,	PONCT	_
-tandis_que	tandis_que	CS	_
+tandis	tandis	ADV	_
+que	que	CS	_
 l'	le	DET	_
 architecte	architecte	NC	_
 reconnaîtra	reconnaître	V	_
@@ -192438,7 +192781,9 @@ boutisse	boutisse	ADJ	_
 et	et	CC	_
 l'	le	DET	_
 assise	assise	NC	_
-au-dessus	au-dessus	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 ,	,	PONCT	_
 avec	avec	P	_
 un	un	DET	_
@@ -193004,7 +193349,8 @@ on	on	CLS	_
 peut	pouvoir	V	_
 imaginer	imaginer	VINF	_
 ,	,	PONCT	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 les	le	DET	_
 architectes	architecte	NC	_
 ne	ne	ADV	_
@@ -193925,7 +194271,7 @@ lui	il	PRO	_
 :	:	PONCT	_
 il	il	CLS	_
 faudrait	falloir	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 il	il	CLS	_
 fût	être	V	_
 doué	douer	VPP	_
@@ -194017,7 +194363,8 @@ n'	ne	ADV	_
 est	être	V	_
 nécessaire	nécessaire	ADJ	_
 ,	,	PONCT	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 l'	le	DET	_
 administration	administration	NC	_
 tient	tenir	V	_
@@ -194140,7 +194487,7 @@ devrait	devoir	V	_
 -il	il	CLS	_
 être	être	VINF	_
 laissé	laisser	VPP	_
-complétement	complétement	ADV	_
+complétement	complètement	ADV	_
 libre	libre	ADJ	_
 dans	dans	P	_
 le	le	DET	_
@@ -194189,7 +194536,7 @@ l'	le	DET	_
 administration	administration	NC	_
 n'	ne	ADV	_
 aurait	avoir	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 à	à	P	_
 allouer	allouer	VINF	_
 à	à	P	_
@@ -194295,7 +194642,8 @@ une	un	DET	_
 manière	manière	NC	_
 insuffisante	insuffisant	ADJ	_
 ,	,	PONCT	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 ils	il	CLS	_
 sont	être	V	_
 trop	trop	ADV	_
@@ -195199,7 +195547,9 @@ est	être	V	_
 la	le	DET	_
 hauteur	hauteur	NC	_
 ou	ou	CC	_
-au-dessous	au-dessous	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessous	dessous	ADV	_
 de	de	P	_
 sa	son	DET	_
 mission	mission	NC	_
@@ -195250,7 +195600,7 @@ ne	ne	ADV	_
 prendre	prendre	VINF	_
 une	un	DET	_
 décision	décision	NC	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 après	après	P	_
 avoir	avoir	VINF	_
 mûrement	mûrement	ADV	_
@@ -195677,7 +196027,7 @@ conditions	condition	NC	_
 ...	…	PONCT	_
 nous	nous	CLS	_
 avons	avoir	V	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 vu	voir	VPP	_
 sur	sur	P	_
 les	le	DET	_
@@ -195697,7 +196047,7 @@ agités	agiter	VPP	_
 s'	se	CLO	_
 emportant	emporter	VPR	_
 contre	contre	P	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 et	et	CC	_
 à	à	P	_
 propos	propos	NC	_
@@ -195762,7 +196112,8 @@ une	un	DET	_
 repoussant	repousser	VPR	_
 toute	tout	DET	_
 observation	observation	NC	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 il	il	CLS	_
 leur	il	CLO	_
 serait	être	V	_
@@ -196875,7 +197226,7 @@ Nous	nous	CLS	_
 n'	ne	ADV	_
 avons	avoir	V	_
 plus	plus	ADV	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 une	un	DET	_
 voie	voie	NC	_
 de	de	P	_
@@ -197153,7 +197504,7 @@ d'	de	P	_
 être	être	VINF	_
 dupe	dupe	ADJ	_
 ou	ou	CC	_
-ignorant	ignorant	ADJ	_
+ignorant	ignorer	ADJ	_
 ,	,	PONCT	_
 si	si	CS	_
 l'on	on	CLS	_
@@ -197211,7 +197562,7 @@ plutôt	plutôt	ADV	_
 parquer	parquer	VINF	_
 les	le	DET	_
 intelligences	intelligence	NC	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 à	à	P	_
 leur	il	CLO	_
 ouvrir	ouvrir	VINF	_
@@ -197374,7 +197725,7 @@ est	être	V	_
 mon	mon	DET	_
 sens	sens	NC	_
 ,	,	PONCT	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 un	un	DET	_
 moyen	moyen	NC	_
 de	de	P	_
@@ -197416,7 +197767,7 @@ n'	ne	ADV	_
 étendre	étendre	VINF	_
 sa	son	DET	_
 protection	protection	NC	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 en	en	P	_
 raison	raison	NC	_
 des	de_le	P+D	_
@@ -197455,7 +197806,8 @@ sont	être	V	_
 incapables	incapable	ADJ	_
 assurément	assurément	ADV	_
 ,	,	PONCT	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 on	on	CLS	_
 n'	ne	ADV	_
 a	avoir	V	_
@@ -197504,7 +197856,8 @@ le	le	DET	_
 sien	sien	NC	_
 propre	propre	ADJ	_
 .	.	PONCT	_
-Quant_à	quant_à	P	_
+Quant	quant	ADV	_
+à	à	P	_
 l'	le	DET	_
 intérêt	intérêt	NC	_
 de	de	P	_
@@ -197577,7 +197930,7 @@ de	de	P	_
 protection	protection	NC	_
 qui	qui	PROREL	_
 ne	ne	ADV	_
-protége	protége	V	_
+protége	protéger	V	_
 que	que	ADV	_
 la	le	DET	_
 médiocrité	médiocrité	NC	_
@@ -197627,7 +197980,7 @@ de	de	P	_
 coteries	coterie	NC	_
 et	et	CC	_
 des	de_le	P+D	_
-rengaînes	rengaînes	NC	_
+rengaînes	rengaine	NC	_
 d'	de	P	_
 ateliers	atelier	NC	_
 ,	,	PONCT	_
@@ -197652,7 +198005,7 @@ la	le	DET	_
 protection	protection	NC	_
 ne	ne	ADV	_
 fait	faire	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 entretenir	entretenir	VINF	_
 .	.	PONCT	_
 Laissant	laisser	VPR	_
@@ -198178,7 +198531,8 @@ de	de	P	_
 l'	le	DET	_
 état	état	NC	_
 ,	,	PONCT	_
-quant_à	quant_à	P	_
+quant	quant	ADV	_
+à	à	P	_
 ce	ce	PRO	_
 qui	qui	PROREL	_
 touche	toucher	V	_
@@ -198240,7 +198594,7 @@ les	le	DET	_
 productions	production	NC	_
 ,	,	PONCT	_
 les	le	DET	_
-meilleures	meilleure	NC	_
+meilleures	meilleur	NC	_
 ;	;	PONCT	_
 à	à	P	_
 les	le	DET	_
@@ -198325,7 +198679,8 @@ l'	le	DET	_
 épreuve	épreuve	NC	_
 et	et	CC	_
 non	non	ADV	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 ils	il	CLS	_
 seront	être	V	_
 prônés	prôner	VPP	_
@@ -198527,7 +198882,7 @@ peut	pouvoir	V	_
 s'	se	CLO	_
 en	en	CLO	_
 prendre	prendre	VINF	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 à	à	P	_
 lui	il	PRO	_
 ,	,	PONCT	_
@@ -198852,7 +199207,7 @@ elle	il	PRO	_
 a	avoir	V	_
 fourni	fournir	VPP	_
 une	un	DET	_
-brillante	brillant	ADJ	_
+brillante	briller	ADJ	_
 étape	étape	NC	_
 .	.	PONCT	_
 Mais	mais	CC	_
@@ -198958,7 +199313,7 @@ Elle	il	CLS	_
 ne	ne	ADV	_
 se	se	CLO	_
 relève	relever	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 en	en	P	_
 se	se	CLO	_
 retrempant	retremper	VPR	_
@@ -199183,7 +199538,7 @@ et	et	CC	_
 qui	qui	PROREL	_
 satisfait	satisfaire	V	_
 si	si	ADV	_
-complétement	complétement	ADV	_
+complétement	complètement	ADV	_
 la	le	DET	_
 vue	vue	NC	_
 par	par	P	_
@@ -199332,7 +199687,8 @@ nom	nom	NC	_
 d'	de	P	_
 art	art	NC	_
 ,	,	PONCT	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 elle	il	CLS	_
 s'	se	CLO	_
 appuie	appuyer	V	_
@@ -199527,7 +199883,7 @@ progrès	progrès	NC	_
 scientifique	scientifique	ADJ	_
 de	de	P	_
 cette	ce	DET	_
-brillante	brillant	ADJ	_
+brillante	briller	ADJ	_
 époque	époque	NC	_
 qu'	que	PROREL	_
 elle	il	CLS	_
@@ -199645,7 +200001,7 @@ qu'	que	PROREL	_
 elle	il	CLS	_
 ne	ne	ADV	_
 demande	demander	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 à	à	P	_
 leur	il	CLO	_
 prêter	prêter	VINF	_

@@ -517,7 +517,7 @@ quelles	il	PROWH	_
 sont	être	V	_
 les	le	DET	_
 conditions	condition	NC	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 exige	exiger	V	_
 ce	ce	DET	_
 phénomène	phénomène	NC	_
@@ -734,7 +734,8 @@ l'	il	CLO	_
 agrandit	agrandir	V	_
 même	même	ADV	_
 ;	;	PONCT	_
-tandis_qu'	tandis_que	CS	_
+tandis	tandis	ADV	_
+qu'	que	CS	_
 un	un	DET	_
 défaut	défaut	NC	_
 d'	de	P	_
@@ -752,7 +753,7 @@ organe	organe	NC	_
 nuit	nuit	NC	_
 à	à	P	_
 ses	son	DET	_
-développemens	développemens	NC	_
+développemens	développement	NC	_
 ,	,	PONCT	_
 le	il	CLO	_
 détériore	détériorer	V	_
@@ -822,7 +823,8 @@ peu	peu	ADV	_
 à	à	P	_
 peu	peu	ADV	_
 ,	,	PONCT	_
-tandis_que	tandis_que	CS	_
+tandis	tandis	ADV	_
+que	que	CS	_
 ceux	celui	PRO	_
 qui	qui	PROREL	_
 le	il	CLO	_
@@ -1130,7 +1132,7 @@ lui	il	PRO	_
 -même	même	ADJ	_
 n'	ne	ADV	_
 est	être	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 un	un	DET	_
 phénomène	phénomène	NC	_
 résultant	résulter	VPR	_
@@ -1428,7 +1430,7 @@ qu'	que	CS	_
 elle	il	CLS	_
 ne	ne	ADV	_
 produisoit	produire	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 une	un	DET	_
 perception	perception	NC	_
 pour	pour	P	_
@@ -1649,7 +1651,8 @@ pouvoir	pouvoir	VINF	_
 s'	se	CLO	_
 opérer	opérer	VINF	_
 ,	,	PONCT	_
-tandis_que	tandis_que	CS	_
+tandis	tandis	ADV	_
+que	que	CS	_
 le	le	DET	_
 deuxième	deuxième	NC	_
 ,	,	PONCT	_
@@ -1736,7 +1739,7 @@ mouvement	mouvement	NC	_
 enfin	enfin	ADV	_
 ,	,	PONCT	_
 le	le	DET	_
-siége	siége	NC	_
+siége	siège	NC	_
 de	de	P	_
 ce	ce	DET	_
 principe	principe	NC	_
@@ -1821,7 +1824,8 @@ une	un	DET	_
 respiration	respiration	NC	_
 artificielle	artificiel	ADJ	_
 ;	;	PONCT	_
-tandis_que	tandis_que	CS	_
+tandis	tandis	ADV	_
+que	que	CS	_
 ces	ce	DET	_
 effets	effet	NC	_
 ne	ne	ADV	_
@@ -1831,7 +1835,7 @@ dus	devoir	VPP	_
 les	le	DET	_
 uns	un	NC	_
 ,	,	PONCT	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 à	à	P	_
 l'	le	DET	_
 irritabilité	irritabilité	NC	_
@@ -1858,7 +1862,7 @@ et	et	CC	_
 les	le	DET	_
 autres	autre	NC	_
 ,	,	PONCT	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 à	à	P	_
 quelques	quelque	DET	_
 mouvemens	mouvement	NC	_
@@ -2520,7 +2524,7 @@ système	système	NC	_
 nerveux	nerveux	ADJ	_
 ;	;	PONCT	_
 que	que	CS	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 conséquemment	conséquemment	ADV	_
 ne	ne	ADV	_
 jouissent	jouir	V	_
@@ -2592,7 +2596,7 @@ végétaux	végétal	NC	_
 je	je	CLS	_
 reconnus	reconnaître	V	_
 bientôt	bientôt	ADV	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 un	un	DET	_
 grand	grand	ADJ	_
 nombre	nombre	NC	_
@@ -2663,7 +2667,7 @@ nerveux	nerveux	ADJ	_
 ,	,	PONCT	_
 ne	ne	ADV	_
 vivent	vivre	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 à	à	P	_
 l'	le	DET	_
 aide	aide	NC	_
@@ -2679,7 +2683,8 @@ extérieur	extérieur	NC	_
 c'est-à-dire	c'est-à-dire	CC	_
 ,	,	PONCT	_
 que	que	CS	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 des	un	DET	_
 fluides	fluide	NC	_
 subtils	subtil	ADJ	_
@@ -2817,7 +2822,7 @@ cette	ce	DET	_
 considération	considération	NC	_
 des	de_le	P+D	_
 deux	deux	ADJ	_
-précédentes	précédente	NC	_
+précédentes	précédent	NC	_
 ,	,	PONCT	_
 c'est-à-dire	c'est-à-dire	CC	_
 ,	,	PONCT	_
@@ -2878,7 +2883,7 @@ organisation	organisation	NC	_
 animale	animal	ADJ	_
 dans	dans	P	_
 ses	son	DET	_
-développemens	développemens	NC	_
+développemens	développement	NC	_
 et	et	CC	_
 sa	son	DET	_
 diversité	diversité	NC	_
@@ -3070,7 +3075,7 @@ les	le	DET	_
 causes	cause	NC	_
 de	de	P	_
 ses	son	DET	_
-développemens	développemens	NC	_
+développemens	développement	NC	_
 et	et	CC	_
 de	de	P	_
 sa	son	DET	_
@@ -3466,7 +3471,7 @@ le	le	DET	_
 reste	reste	NC	_
 n'	ne	ADV	_
 est	être	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 opinion	opinion	NC	_
 ou	ou	CC	_
 que	que	CS	_
@@ -3758,7 +3763,7 @@ théories	théorie	NC	_
 ,	,	PONCT	_
 opinions	opinion	NC	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 ,	,	PONCT	_
 aient	avoir	V	_
 beaucoup	beaucoup	ADV	_
@@ -4208,7 +4213,7 @@ chaque	chaque	DET	_
 article	article	NC	_
 tous	tout	ADJ	_
 les	le	DET	_
-développemens	développemens	NC	_
+développemens	développement	NC	_
 que	que	CS	_
 les	le	DET	_
 matières	matière	NC	_
@@ -4451,7 +4456,8 @@ disposition	disposition	NC	_
 les	le	DET	_
 seules	seul	ADJ	_
 ,	,	PONCT	_
-en_outre	en_outre	ADV	_
+en	en	P	_
+outre	outre	P	_
 ,	,	PONCT	_
 qui	qui	PROREL	_
 puissent	pouvoir	V	_
@@ -4980,7 +4986,7 @@ sont	être	V	_
 sans	sans	P	_
 doute	doute	NC	_
 ,	,	PONCT	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 une	un	DET	_
 seule	seul	ADJ	_
 et	et	CC	_
@@ -6106,9 +6112,9 @@ dans	dans	P	_
 l'	le	DET	_
 organisation	organisation	NC	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 ,	,	PONCT	_
 sont	être	V	_
 des	un	DET	_
@@ -6419,7 +6425,8 @@ et	et	CC	_
 du	de_le	P+D	_
 philosophe	philosophe	NC	_
 ,	,	PONCT	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 elle	il	CLS	_
 répand	répandre	V	_
 sur	sur	P	_
@@ -6544,7 +6551,8 @@ le	le	DET	_
 naturaliste	naturaliste	NC	_
 ,	,	PONCT	_
 1)	1)	X	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 les	le	DET	_
 espèces	espèce	NC	_
 de	de	P	_
@@ -6565,7 +6573,8 @@ vertébrés	vertébré	ADJ	_
 ;	;	PONCT	_
 2	2	X	_
 )	)	PONCT	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 étant	être	VPR	_
 plus	plus	ADV	_
 nombreuses	nombreux	ADJ	_
@@ -6578,7 +6587,8 @@ variées	varié	ADJ	_
 ;	;	PONCT	_
 3	3	X	_
 )	)	PONCT	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 les	le	DET	_
 variations	variation	NC	_
 de	de	P	_
@@ -6599,7 +6609,8 @@ singulières	singulier	ADJ	_
 )	)	PONCT	_
 enfin	enfin	ADV	_
 ,	,	PONCT	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 l'	le	DET	_
 ordre	ordre	NC	_
 qu'	que	PROREL	_
@@ -6660,7 +6671,7 @@ composition	composition	NC	_
 et	et	CC	_
 de	de	P	_
 ses	son	DET	_
-développemens	développemens	NC	_
+développemens	développement	NC	_
 ,	,	PONCT	_
 que	que	CS	_
 ne	ne	ADV	_
@@ -7015,7 +7026,7 @@ par	par	P	_
 cette	ce	DET	_
 méthode	méthode	NC	_
 d'	de	P	_
-analise	analise	NC	_
+analise	analyse	NC	_
 que	que	CS	_
 toutes	tout	ADJ	_
 les	le	DET	_
@@ -7156,7 +7167,7 @@ petites	petit	ADJ	_
 leur	leur	DET	_
 couleur	couleur	NC	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 ;	;	PONCT	_
 et	et	CC	_
 si	si	CS	_
@@ -7204,7 +7215,7 @@ auxquelles	il	PROREL	_
 ces	ce	DET	_
 objets	objet	NC	_
 sont	être	V	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 assujettis	assujettir	VPP	_
 ,	,	PONCT	_
 quels	quel	PROWH	_
@@ -7226,12 +7237,13 @@ que	que	PROREL	_
 l'on	on	CLS	_
 connoît	connaître	V	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 C'	C'	NP	_
 est	être	V	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 l'on	on	CLS	_
 ne	ne	ADV	_
 suit	suivre	V	_
@@ -7279,7 +7291,7 @@ ne	ne	ADV	_
 se	se	CLO	_
 sont	être	V	_
 livrés	livrer	VPP	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 à	à	P	_
 l'	le	DET	_
 étude	étude	NC	_
@@ -7362,7 +7374,8 @@ animaux	animal	NC	_
 sans	sans	P	_
 vertèbres	vertèbre	NC	_
 ,	,	PONCT	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 les	le	DET	_
 progrès	progrès	NC	_
 rapides	rapide	ADJ	_
@@ -7497,7 +7510,7 @@ n'	ne	ADV	_
 est	être	V	_
 autre	autre	ADJ	_
 chose	chose	NC	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 une	un	DET	_
 nouvelle	nouveau	ADJ	_
 édition	édition	NC	_
@@ -7695,7 +7708,7 @@ favorisent	favoriser	V	_
 ou	ou	CC	_
 arrêtent	arrêter	V	_
 leurs	leur	DET	_
-développemens	développemens	NC	_
+développemens	développement	NC	_
 .	.	PONCT	_
 Je	je	CLS	_
 terminerai	terminer	V	_
@@ -7817,7 +7830,7 @@ de	de	P	_
 la	le	DET	_
 vie	vie	NC	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 Enfin	Enfin	NP	_
 ,	,	PONCT	_
 la	le	DET	_
@@ -7873,7 +7886,7 @@ ne	ne	ADV	_
 peut	pouvoir	V	_
 être	être	VINF	_
 connu	connaître	VPP	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 indirectement	indirectement	ADV	_
 ,	,	PONCT	_
 mais	mais	CC	_
@@ -7970,7 +7983,7 @@ de	de	P	_
 la	le	DET	_
 mémoire	mémoire	NC	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 Les	le	DET	_
 considérations	considération	NC	_
 exposées	exposer	VPP	_
@@ -8269,7 +8282,8 @@ je	je	CLS	_
 nomme	nommer	V	_
 économique	économique	ADJ	_
 ,	,	PONCT	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 il	il	CLS	_
 prend	prendre	V	_
 sa	son	DET	_
@@ -8308,7 +8322,7 @@ il	il	CLS	_
 ne	ne	ADV	_
 s'	se	CLO	_
 intéresse	intéresser	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 à	à	P	_
 ceux	celui	PRO	_
 qu'	que	PROREL	_
@@ -8347,7 +8361,8 @@ de	de	P	_
 ses	son	DET	_
 productions	production	NC	_
 ,	,	PONCT	_
-afin_de	afin_de	P	_
+afin	afin	ADV	_
+de	de	P	_
 saisir	saisir	VINF	_
 sa	son	DET	_
 marche	marche	NC	_
@@ -8793,7 +8808,8 @@ des	un	DET	_
 principes	principe	NC	_
 convenus	convenir	VPP	_
 ,	,	PONCT	_
-afin_d'	afin_de	P	_
+afin	afin	ADV	_
+d'	de	P	_
 éviter	éviter	VINF	_
 les	le	DET	_
 changemens	changement	NC	_
@@ -9090,7 +9106,7 @@ elles	il	PRO	_
 .	.	PONCT	_
 Exposons	exposer	V	_
 quelques	quelque	DET	_
-développemens	développemens	NC	_
+développemens	développement	NC	_
 succincts	succinct	ADJ	_
 à	à	P	_
 l'	le	DET	_
@@ -9365,7 +9381,7 @@ a	avoir	V	_
 pensé	penser	VPP	_
 d'	de	P	_
 abord	abord	NC	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 à	à	P	_
 la	le	DET	_
 commodité	commodité	NC	_
@@ -9642,7 +9658,7 @@ savantes	savant	ADJ	_
 observations	observation	NC	_
 de	de	P	_
 *	*	PONCT	_
-M	M	NC	_
+M	monsieur	NC	_
 Antoine	Antoine	NP	_
 -	-	PONCT	_
 Laurent	Laurent	NP	_
@@ -10028,7 +10044,7 @@ classes	classe	NC	_
 ,	,	PONCT	_
 même	même	ADV	_
 des	un	DET	_
-meilleures	meilleure	NC	_
+meilleures	meilleur	NC	_
 ,	,	PONCT	_
 sont	être	V	_
 évidemment	évidemment	ADV	_
@@ -10151,7 +10167,7 @@ que	que	CS	_
 les	le	DET	_
 oiseaux	oiseau	NC	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 ,	,	PONCT	_
 ne	ne	ADV	_
 soient	être	V	_
@@ -10173,7 +10189,7 @@ est	être	V	_
 malgré	malgré	P	_
 cela	cela	PRO	_
 ,	,	PONCT	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 une	un	DET	_
 illusion	illusion	NC	_
 ,	,	PONCT	_
@@ -10467,7 +10483,8 @@ sous-classes	sous-classe	NC	_
 ,	,	PONCT	_
 mais	mais	CC	_
 ,	,	PONCT	_
-en_outre	en_outre	ADV	_
+en	en	P	_
+outre	outre	P	_
 ,	,	PONCT	_
 des	un	DET	_
 sous-genres	sous-genre	NC	_
@@ -10589,7 +10606,8 @@ grande	grand	ADJ	_
 simplicité	simplicité	NC	_
 possible	possible	ADJ	_
 ,	,	PONCT	_
-afin_de	afin_de	P	_
+afin	afin	ADV	_
+de	de	P	_
 faciliter	faciliter	VINF	_
 l'	le	DET	_
 étude	étude	NC	_
@@ -10747,7 +10765,7 @@ tête	tête	NC	_
 des	un	DET	_
 yeux	œil	NC	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 ,	,	PONCT	_
 et	et	CC	_
 se	se	CLO	_
@@ -10755,7 +10773,8 @@ régénérant	régénérer	VPR	_
 par	par	P	_
 accouplement	accouplement	NC	_
 ;	;	PONCT	_
-tandis_que	tandis_que	CS	_
+tandis	tandis	ADV	_
+que	que	CS	_
 les	le	DET	_
 autres	autre	NC	_
 sont	être	V	_
@@ -10765,7 +10784,7 @@ tête	tête	NC	_
 sans	sans	P	_
 yeux	œil	NC	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 ,	,	PONCT	_
 et	et	CC	_
 ne	ne	ADV	_
@@ -10865,7 +10884,7 @@ elles	il	PRO	_
 d'	de	P	_
 être	être	VINF	_
 encore	encore	ADV	_
-sous-divisées	sous-divisées	ADJ	_
+sous-divisées	sous-divisé	ADJ	_
 .	.	PONCT	_
 Conservons	conserver	V	_
 dans	dans	P	_
@@ -11386,7 +11405,8 @@ seront	être	V	_
 vraisemblablement	vraisemblablement	ADV	_
 toujours	toujours	ADV	_
 ,	,	PONCT	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 les	le	DET	_
 lieux	lieu	NC	_
 qu'	que	PROREL	_
@@ -11693,7 +11713,8 @@ des	un	DET	_
 variations	variation	NC	_
 infinies	infini	ADJ	_
 ,	,	PONCT	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 les	le	DET	_
 différens	différent	ADJ	_
 auteurs	auteur	NC	_
@@ -11810,9 +11831,9 @@ l'	le	DET	_
 des	de_le	P+D	_
 genres	genre	NC	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 ?	?	PONCT	_
 Mais	mais	CC	_
 ,	,	PONCT	_
@@ -11835,7 +11856,7 @@ ont	avoir	V	_
 rapprochés	rapprocher	VPP	_
 ,	,	PONCT	_
 presque	presque	ADV	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 croient	croire	V	_
 encore	encore	ADV	_
 que	que	CS	_
@@ -12116,7 +12137,8 @@ et	et	CC	_
 chaque	chaque	DET	_
 classe	classe	NC	_
 .	.	PONCT	_
-Afin_de	afin_de	P	_
+Afin	afin	ADV	_
+de	de	P	_
 désigner	désigner	VINF	_
 clairement	clairement	ADV	_
 l'	le	DET	_
@@ -12652,9 +12674,9 @@ forme	forme	NC	_
 de	de	P	_
 proportion	proportion	NC	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 .	.	PONCT	_
 .	.	PONCT	_
 voilà	voilà	V	_
@@ -13533,7 +13555,7 @@ changemens	changement	NC	_
 ne	ne	ADV	_
 s'	se	CLO	_
 exécutent	exécuter	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 avec	avec	P	_
 une	un	DET	_
 lenteur	lenteur	NC	_
@@ -14212,7 +14234,8 @@ après	après	P	_
 les	le	DET	_
 crustacés	crustacé	NC	_
 ,	,	PONCT	_
-tandis_que	tandis_que	CS	_
+tandis	tandis	ADV	_
+que	que	CS	_
 les	le	DET	_
 deux	deux	ADJ	_
 premiers	premier	NC	_
@@ -14372,7 +14395,7 @@ corolle	corolle	NC	_
 le	le	DET	_
 calice	calice	NC	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 ;	;	PONCT	_
 4)	4)	X	_
 les	le	DET	_
@@ -14757,7 +14780,8 @@ d'	de	P	_
 idées	idée	NC	_
 ,	,	PONCT	_
 et	et	CC	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 il	il	CLS	_
 néglige	négliger	V	_
 trop	trop	ADV	_
@@ -15795,7 +15819,7 @@ nature	nature	NC	_
 ,	,	PONCT	_
 et	et	CC	_
 ont	avoir	V	_
-toutes	tous	PRO	_
+toutes	tout	PRO	_
 existé	exister	VPP	_
 originairement	originairement	ADV	_
 telles	tel	ADJ	_
@@ -15862,7 +15886,8 @@ botaniques	botanique	ADJ	_
 mais	mais	CC	_
 il	il	CLS	_
 est	être	V	_
-en_outre	en_outre	ADV	_
+en	en	P	_
+outre	outre	P	_
 essentiel	essentiel	ADJ	_
 pour	pour	P	_
 l'	le	DET	_
@@ -16067,7 +16092,8 @@ propose	proposer	V	_
 de	de	P	_
 combattre	combattre	VINF	_
 ,	,	PONCT	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 des	un	DET	_
 preuves	preuve	NC	_
 évidentes	évident	ADJ	_
@@ -17144,7 +17170,8 @@ n'	ne	ADV	_
 est	être	V	_
 ainsi	ainsi	ADV	_
 que	que	CS	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 il	il	CLS	_
 nous	nous	CLO	_
 en	en	CLO	_
@@ -17396,7 +17423,9 @@ ensuite	ensuite	ADV	_
 faisant	faire	VPR	_
 un	un	DET	_
 saut	saut	NC	_
-par-dessus	par-dessus	P	_
+par	par	S	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 plusieurs	plusieurs	DET	_
 autres	autre	NC	_
 ,	,	PONCT	_
@@ -17616,13 +17645,13 @@ charanson	charanson	NC	_
 ,	,	PONCT	_
 capricorne	capricorne	NC	_
 ,	,	PONCT	_
-scarabé	scarabé	NC	_
+scarabé	scarabée	NC	_
 ,	,	PONCT	_
 cétoine	cétoine	NC	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 ,	,	PONCT	_
 offrent	offrir	V	_
 déjà	déjà	ADV	_
@@ -17813,9 +17842,9 @@ geranium	geranium	NC	_
 ,	,	PONCT	_
 mimosa	mimosa	NC	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 ?	?	PONCT	_
 Lorsqu'	lorsque	CS	_
 on	on	CLS	_
@@ -17828,7 +17857,7 @@ on	on	CLS	_
 n'	ne	ADV	_
 en	en	CLO	_
 connoissoit	connaître	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 un	un	DET	_
 petit	petit	ADJ	_
 nombre	nombre	NC	_
@@ -18913,7 +18942,7 @@ formé	former	VPP	_
 ,	,	PONCT	_
 n'	ne	ADV	_
 a	avoir	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 une	un	DET	_
 constance	constance	NC	_
 relative	relatif	ADJ	_
@@ -19438,9 +19467,9 @@ variations	variation	NC	_
 de	de	P	_
 tous	tout	ADJ	_
 les	le	DET	_
-développemens	développemens	NC	_
+développemens	développement	NC	_
 et	et	CC	_
-perfectionnemens	perfectionnemens	NC	_
+perfectionnemens	perfectionnement	NC	_
 ,	,	PONCT	_
 de	de	P	_
 toutes	tout	ADJ	_
@@ -19617,10 +19646,10 @@ naturelle	naturel	ADJ	_
 rapportées	rapporter	VPP	_
 d'	de	P	_
 *	*	PONCT	_
-égypte	égypte	NC	_
+égypte	Égypte	NC	_
 par	par	P	_
 *	*	PONCT	_
-M	M	NC	_
+M	monsieur	NC	_
 Geoffroy	Geoffroy	NP	_
 .	.	PONCT	_
 Les	le	DET	_
@@ -19657,7 +19686,7 @@ tous	tout	ADJ	_
 les	le	DET	_
 siècles	siècle	NC	_
 ...	…	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 "	"	PONCT	_
 je	je	CLS	_
 ne	ne	ADV	_
@@ -19733,7 +19762,7 @@ position	position	NC	_
 de	de	P	_
 l'	le	DET	_
 *	*	PONCT	_
-égypte	égypte	NC	_
+égypte	Égypte	NC	_
 et	et	CC	_
 son	son	DET	_
 climat	climat	NC	_
@@ -19890,7 +19919,7 @@ ils	il	CLS	_
 fréquentoient	fréquenter	V	_
 l'	le	DET	_
 *	*	PONCT	_
-égypte	égypte	NC	_
+égypte	Égypte	NC	_
 il	il	CLS	_
 y	y	CLO	_
 a	avoir	V	_
@@ -19974,7 +20003,8 @@ pour	pour	P	_
 la	le	DET	_
 réalité	réalité	NC	_
 ;	;	PONCT	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 en	en	P	_
 général	général	NC	_
 ,	,	PONCT	_
@@ -20067,7 +20097,7 @@ s'	se	CLO	_
 et	et	CC	_
 ne	ne	ADV	_
 remontent	remonter	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 à	à	P	_
 quelques	quelque	DET	_
 milliers	millier	NC	_
@@ -20757,7 +20787,7 @@ eux	il	PRO	_
 ,	,	PONCT	_
 n'	ne	ADV	_
 ont	avoir	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 une	un	DET	_
 constance	constance	NC	_
 relative	relatif	ADJ	_
@@ -21016,7 +21046,7 @@ observer	observer	VINF	_
 n'	ne	ADV	_
 ont	avoir	V	_
 traversées	traverser	VPP	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 en	en	P	_
 passant	passer	VPR	_
 ,	,	PONCT	_
@@ -21156,7 +21186,7 @@ megatherium	megatherium	NC	_
 mastodon	mastodon	NC	_
 de	de	P	_
 *	*	PONCT	_
-M	M	NC	_
+M	monsieur	NC	_
 Cuvier	Cuvier	NP	_
 ,	,	PONCT	_
 et	et	CC	_
@@ -21183,7 +21213,7 @@ n'	ne	ADV	_
 y	y	CLO	_
 a	avoir	V	_
 là	là	ADV	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 une	un	DET	_
 simple	simple	ADJ	_
 possibilité	possibilité	NC	_
@@ -21206,7 +21236,8 @@ marines	marin	ADJ	_
 ,	,	PONCT	_
 et	et	CC	_
 ,	,	PONCT	_
-en_outre	en_outre	ADV	_
+en	en	P	_
+outre	outre	P	_
 ,	,	PONCT	_
 toutes	tout	ADJ	_
 les	le	DET	_
@@ -21267,7 +21298,7 @@ poursuites	poursuite	NC	_
 ou	ou	CC	_
 à	à	P	_
 ses	son	DET	_
-piéges	piéges	NC	_
+piéges	piège	NC	_
 sont	être	V	_
 tels	tel	ADJ	_
 ,	,	PONCT	_
@@ -21335,7 +21366,7 @@ n'	ne	ADV	_
 est	être	V	_
 pas	pas	ADV	_
 encore	encore	ADV	_
-complétement	complétement	ADV	_
+complétement	complètement	ADV	_
 prouvée	prouver	VPP	_
 .	.	PONCT	_
 Néanmoins	néanmoins	ADV	_
@@ -21764,7 +21795,7 @@ des	un	DET	_
 modifications	modification	NC	_
 ou	ou	CC	_
 des	de_le	P+D	_
-développemens	développemens	NC	_
+développemens	développement	NC	_
 dans	dans	P	_
 les	le	DET	_
 organes	organe	NC	_
@@ -21971,7 +22002,7 @@ pas	pas	ADV	_
 aperçu	apercevoir	VPP	_
 les	le	DET	_
 changemens	changement	NC	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 à	à	P	_
 la	le	DET	_
 suite	suite	NC	_
@@ -22235,9 +22266,9 @@ des	un	DET	_
 bouleversemens	bouleversement	NC	_
 ,	,	PONCT	_
 des	de_le	P+D	_
-déplacemens	déplacemens	NC	_
+déplacemens	déplacement	NC	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 ,	,	PONCT	_
 peuvent	pouvoir	V	_
 rendre	rendre	VINF	_
@@ -22428,7 +22459,8 @@ produit	produire	V	_
 en	en	P	_
 eux	il	PRO	_
 ,	,	PONCT	_
-tandis_qu'	tandis_que	CS	_
+tandis	tandis	ADV	_
+qu'	que	CS	_
 elle	il	CLS	_
 est	être	V	_
 entièrement	entièrement	ADV	_
@@ -22454,7 +22486,7 @@ de	de	P	_
 lieu	lieu	NC	_
 ,	,	PONCT	_
 et	et	CC	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 possèdent	posséder	V	_
 des	un	DET	_
 parties	partie	NC	_
@@ -22467,7 +22499,7 @@ que	que	CS	_
 ,	,	PONCT	_
 dans	dans	P	_
 leurs	leur	DET	_
-déplacemens	déplacemens	NC	_
+déplacemens	déplacement	NC	_
 ,	,	PONCT	_
 les	le	DET	_
 uns	un	NC	_
@@ -22593,7 +22625,8 @@ de	de	P	_
 se	se	CLO	_
 déplacer	déplacer	VINF	_
 ,	,	PONCT	_
-afin_de	afin_de	P	_
+afin	afin	ADV	_
+de	de	P	_
 pouvoir	pouvoir	VINF	_
 se	se	CLO	_
 procurer	procurer	VINF	_
@@ -22777,7 +22810,7 @@ ne	ne	ADV	_
 meuvent	mouvoir	V	_
 leurs	leur	DET	_
 parties	partie	NC	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 à	à	P	_
 la	le	DET	_
 suite	suite	NC	_
@@ -22919,7 +22952,8 @@ existence	existence	NC	_
 ;	;	PONCT	_
 mais	mais	CC	_
 ,	,	PONCT	_
-en_outre	en_outre	ADV	_
+en	en	P	_
+outre	outre	P	_
 ,	,	PONCT	_
 qu'	que	CS	_
 ils	il	CLS	_
@@ -22984,7 +23018,8 @@ précédens	précédent	NC	_
 ;	;	PONCT	_
 jouissent	jouir	V	_
 ,	,	PONCT	_
-en_outre	en_outre	ADV	_
+en	en	P	_
+outre	outre	P	_
 ,	,	PONCT	_
 du	de_le	P+D	_
 pouvoir	pouvoir	NC	_
@@ -23329,11 +23364,12 @@ de	de	P	_
 leur	leur	DET	_
 taille	taille	NC	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 ,	,	PONCT	_
 mais	mais	CC	_
 ,	,	PONCT	_
-en_outre	en_outre	ADV	_
+en	en	P	_
+outre	outre	P	_
 ,	,	PONCT	_
 par	par	P	_
 les	le	DET	_
@@ -23393,7 +23429,8 @@ hors	hors	P	_
 d'	de	P	_
 eux	il	PRO	_
 ;	;	PONCT	_
-tandis_que	tandis_que	CS	_
+tandis	tandis	ADV	_
+que	que	CS	_
 les	le	DET	_
 autres	autre	NC	_
 ont	avoir	V	_
@@ -23893,7 +23930,7 @@ est	être	V	_
 pas	pas	ADV	_
 admirable	admirable	ADJ	_
 !	!	PONCT	_
-Pour	Pour	V	_
+Pour	pour	V	_
 parvenir	parvenir	VINF	_
 à	à	P	_
 donner	donner	VINF	_
@@ -24000,7 +24037,8 @@ atteindre	atteindre	VINF	_
 ,	,	PONCT	_
 mais	mais	CC	_
 ,	,	PONCT	_
-en_outre	en_outre	ADV	_
+en	en	P	_
+outre	outre	P	_
 ,	,	PONCT	_
 c'	ce	CLS	_
 est	être	V	_
@@ -24425,7 +24463,8 @@ de	de	P	_
 la	le	DET	_
 nature	nature	NC	_
 .	.	PONCT	_
-Afin_de	afin_de	P	_
+Afin	afin	ADV	_
+de	de	P	_
 pouvoir	pouvoir	VINF	_
 embrasser	embrasser	VINF	_
 ,	,	PONCT	_
@@ -24549,7 +24588,8 @@ autre	autre	ADJ	_
 division	division	NC	_
 primaire	primaire	ADJ	_
 ,	,	PONCT	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 elle	il	CLS	_
 est	être	V	_
 propre	propre	ADJ	_
@@ -24677,7 +24717,8 @@ pas	pas	ADV	_
 aussi	aussi	ADV	_
 bien	bien	ADV	_
 ,	,	PONCT	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 des	un	DET	_
 hypothèses	hypothèse	NC	_
 en	en	P	_
@@ -25083,7 +25124,7 @@ l'	le	DET	_
 air	air	NC	_
 ,	,	PONCT	_
 sont	être	V	_
-complétement	complétement	ADV	_
+complétement	complètement	ADV	_
 dépourvus	dépourvoir	VPP	_
 d'	de	P	_
 irritabilité	irritabilité	NC	_
@@ -25585,7 +25626,7 @@ des	un	DET	_
 sensibles	sensible	ADJ	_
 ,	,	PONCT	_
 doués	douer	VPP	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 ,	,	PONCT	_
 sans	sans	P	_
 exception	exception	NC	_
@@ -25697,7 +25738,7 @@ temps	temps	NC	_
 irritables	irritable	ADJ	_
 ,	,	PONCT	_
 presque	presque	ADV	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 digérant	digérer	VPR	_
 les	le	DET	_
 alimens	aliment	NC	_
@@ -25915,7 +25956,8 @@ je	je	CLS	_
 les	il	CLO	_
 substitue	substituer	V	_
 ,	,	PONCT	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 celles	celui	PRO	_
 -ci	ci	ADV	_
 sont	être	V	_
@@ -26454,7 +26496,7 @@ bornée	borner	VPP	_
 et	et	CC	_
 que	que	CS	_
 les	le	DET	_
-abaissemens	abaissements	NC	_
+abaissemens	abaissement	NC	_
 de	de	P	_
 température	température	NC	_
 les	il	CLO	_
@@ -26483,7 +26525,8 @@ celle	celui	PRO	_
 des	de_le	P+D	_
 autres	autre	NC	_
 .	.	PONCT	_
-Quant_aux	quant_à_le	P+D	_
+quant	quant	ADV	_
+aux	à_le	P+D	_
 animaux	animal	NC	_
 plus	plus	ADV	_
 grands	grand	ADJ	_
@@ -26533,7 +26576,7 @@ ils	il	CLS	_
 ne	ne	ADV	_
 se	se	CLO	_
 multiplient	multiplier	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 avec	avec	P	_
 lenteur	lenteur	NC	_
 et	et	CC	_
@@ -26806,7 +26849,7 @@ des	de_le	P+D	_
 corps	corps	NC	_
 vivans	vivant	ADJ	_
 subsistent	subsister	V	_
-toutes	tous	PRO	_
+toutes	tout	PRO	_
 malgré	malgré	P	_
 leurs	leur	DET	_
 variations	variation	NC	_
@@ -27019,7 +27062,7 @@ quels	quel	PROWH	_
 sont	être	V	_
 les	le	DET	_
 principes	principe	NC	_
-auxquels	auquel	PROREL	_
+auxquels	à_lequel	PROREL	_
 on	on	CLS	_
 a	avoir	V	_
 dû	devoir	VPP	_
@@ -27224,7 +27267,8 @@ repos	repos	NC	_
 notre	notre	DET	_
 imagination	imagination	NC	_
 ,	,	PONCT	_
-afin_que	afin_que	CS	_
+afin	afin	ADV	_
+que	que	CS	_
 nous	nous	CLS	_
 puissions	pouvoir	V	_
 plus	plus	ADV	_
@@ -27507,7 +27551,8 @@ dans	dans	P	_
 nos	notre	DET	_
 distributions	distribution	NC	_
 ,	,	PONCT	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 quantité	quantité	NC	_
 d'	de	P	_
 animaux	animal	NC	_
@@ -27716,7 +27761,7 @@ y	y	CLO	_
 ayant	avoir	VPR	_
 presque	presque	ADV	_
 partout	partout	ADV	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 un	un	DET	_
 petit	petit	ADJ	_
 nombre	nombre	NC	_
@@ -27760,7 +27805,8 @@ difficiles	difficile	ADJ	_
 à	à	P	_
 établir	établir	VINF	_
 ,	,	PONCT	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 elles	il	CLS	_
 portent	porter	V	_
 sur	sur	P	_
@@ -27810,7 +27856,8 @@ série	série	NC	_
 ,	,	PONCT	_
 au	à_le	P+D	_
 moins	moins	NC	_
-quant_à	quant_à	P	_
+quant	quant	ADV	_
+à	à	P	_
 la	le	DET	_
 disposition	disposition	NC	_
 des	de_le	P+D	_
@@ -27942,7 +27989,8 @@ sorte	sorte	NC	_
 d'	de	P	_
 isolement	isolement	NC	_
 ,	,	PONCT	_
-quant_à	quant_à	P	_
+quant	quant	ADV	_
+à	à	P	_
 leurs	leur	DET	_
 caractères	caractère	NC	_
 ,	,	PONCT	_
@@ -28347,7 +28395,8 @@ placement	placement	NC	_
 des	de_le	P+D	_
 masses	masse	NC	_
 ,	,	PONCT	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 ces	ce	DET	_
 masses	masse	NC	_
 qui	qui	PROREL	_
@@ -28764,7 +28813,7 @@ parvenue	parvenir	VPP	_
 à	à	P	_
 les	il	CLO	_
 former	former	VINF	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 successivement	successivement	ADV	_
 ,	,	PONCT	_
 en	en	P	_
@@ -28925,7 +28974,8 @@ par	par	P	_
 des	un	DET	_
 branchies	branchie	NC	_
 ,	,	PONCT	_
-tandis_que	tandis_que	CS	_
+tandis	tandis	ADV	_
+que	que	CS	_
 dans	dans	P	_
 son	son	DET	_
 état	état	NC	_
@@ -29224,7 +29274,8 @@ les	le	DET	_
 plus	plus	ADV	_
 dissemblables	dissemblable	ADJ	_
 ,	,	PONCT	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 ils	il	CLS	_
 sont	être	V	_
 effectivement	effectivement	ADV	_
@@ -29511,7 +29562,8 @@ de	de	P	_
 l'	le	DET	_
 ordre	ordre	NC	_
 ,	,	PONCT	_
-tandis_que	tandis_que	CS	_
+tandis	tandis	ADV	_
+que	que	CS	_
 les	le	DET	_
 infusoires	infusoire	NC	_
 seront	être	V	_
@@ -29957,7 +30009,7 @@ entraver	entraver	VINF	_
 on	on	CLS	_
 ne	ne	ADV	_
 pensa	penser	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 à	à	P	_
 classer	classer	VINF	_
 commodément	commodément	ADV	_
@@ -30274,7 +30326,7 @@ seconde	second	ADJ	_
 classe	classe	NC	_
 ne	ne	ADV	_
 possédoient	posséder	V	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 que	que	ADV	_
 des	un	DET	_
 fluides	fluide	NC	_
@@ -30623,7 +30675,7 @@ que	que	CS	_
 la	le	DET	_
 colonne	colonne	NC	_
 vertébrale	vertébral	ADJ	_
-indique	indique	ADJ	_
+indique	indiquer	ADJ	_
 ,	,	PONCT	_
 dans	dans	P	_
 les	le	DET	_
@@ -30654,7 +30706,8 @@ y	y	CLO	_
 est	être	V	_
 relatif	relatif	ADJ	_
 ;	;	PONCT	_
-tandis_que	tandis_que	CS	_
+tandis	tandis	ADV	_
+que	que	CS	_
 son	son	DET	_
 défaut	défaut	NC	_
 dans	dans	P	_
@@ -30683,7 +30736,7 @@ sont	être	V	_
 formés	former	VPP	_
 ,	,	PONCT	_
 sont	être	V	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 très	très	ADV	_
 -	-	PONCT	_
 différens	différent	ADJ	_
@@ -30986,7 +31039,8 @@ assentiment	assentiment	NC	_
 des	de_le	P+D	_
 zoologistes	zoologiste	NC	_
 ,	,	PONCT	_
-quant_à	quant_à	P	_
+quant	quant	ADV	_
+à	à	P	_
 leur	leur	DET	_
 placement	placement	NC	_
 dans	dans	P	_
@@ -31144,7 +31198,7 @@ distingué	distinguer	VPP	_
 ces	ce	DET	_
 nombreux	nombreux	ADJ	_
 animaux	animal	NC	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 en	en	P	_
 deux	deux	DET	_
 classes	classe	NC	_
@@ -31475,7 +31529,7 @@ l'	le	DET	_
 arrivée	arrivée	NC	_
 de	de	P	_
 *	*	PONCT	_
-M	M	NC	_
+M	monsieur	NC	_
 Cuvier	Cuvier	NP	_
 à	à	P	_
 Paris	Paris	NP	_
@@ -31585,7 +31639,7 @@ l'on	on	CLS	_
 suivoit	suivre	V	_
 ,	,	PONCT	_
 *	*	PONCT	_
-M	M	NC	_
+M	monsieur	NC	_
 Cuvier	Cuvier	NP	_
 le	il	CLO	_
 consolida	consolider	V	_
@@ -31772,7 +31826,8 @@ celle	celui	PRO	_
 de	de	P	_
 radiaires	radiaire	NC	_
 ,	,	PONCT	_
-afin_d'	afin_de	P	_
+afin	afin	ADV	_
+d'	de	P	_
 y	y	CLO	_
 réunir	réunir	VINF	_
 les	le	DET	_
@@ -31835,7 +31890,7 @@ crustacés	crustacé	NC	_
 .	.	PONCT	_
 alors	alors	ADV	_
 *	*	PONCT	_
-M	M	NC	_
+M	monsieur	NC	_
 Cuvier	Cuvier	NP	_
 ,	,	PONCT	_
 dans	dans	P	_
@@ -31946,7 +32001,7 @@ des	de_le	P+D	_
 insectes	insecte	NC	_
 ,	,	PONCT	_
 qui	qui	PROREL	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 subissent	subir	V	_
 des	un	DET	_
 métamorphoses	métamorphose	NC	_
@@ -31997,7 +32052,8 @@ et	et	CC	_
 qui	qui	PROREL	_
 offrent	offrir	V	_
 ,	,	PONCT	_
-en_outre	en_outre	ADV	_
+en	en	P	_
+outre	outre	P	_
 ,	,	PONCT	_
 différens	différent	ADJ	_
 caractères	caractère	NC	_
@@ -32038,7 +32094,7 @@ les	le	DET	_
 miens	mien	NC	_
 .	.	PONCT	_
 *	*	X	_
-M	M	NC	_
+M	monsieur	NC	_
 Cuvier	Cuvier	NP	_
 ayant	avoir	VPR	_
 découvert	découvrir	VPP	_
@@ -32306,7 +32362,7 @@ organisation	organisation	NC	_
 Ces	ce	DET	_
 exemples	exemple	NC	_
 de	de	P	_
-perfectionnemens	perfectionnemens	NC	_
+perfectionnemens	perfectionnement	NC	_
 établis	établir	VPP	_
 d'	de	P	_
 abord	abord	NC	_
@@ -32425,7 +32481,8 @@ celle	celui	PRO	_
 des	de_le	P+D	_
 infusoires	infusoire	NC	_
 ,	,	PONCT	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 après	après	P	_
 un	un	DET	_
 examen	examen	NC	_
@@ -32571,7 +32628,8 @@ des	un	DET	_
 coupes	coupe	NC	_
 nécessaires	nécessaire	ADJ	_
 ,	,	PONCT	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 elles	il	CLS	_
 sont	être	V	_
 fondées	fonder	VPP	_
@@ -33491,7 +33549,7 @@ finissent	finir	V	_
 par	par	P	_
 s'	se	CLO	_
 anéantir	anéantir	VINF	_
-complétement	complétement	ADV	_
+complétement	complètement	ADV	_
 et	et	CC	_
 définitivement	définitivement	ADV	_
 avant	avant	P	_
@@ -33601,7 +33659,8 @@ dans	dans	P	_
 ses	son	DET	_
 produits	produit	NC	_
 ,	,	PONCT	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 ces	ce	DET	_
 produits	produit	NC	_
 sont	être	V	_
@@ -33820,7 +33879,7 @@ eût	avoir	V	_
 donné	donner	VPP	_
 l'	le	DET	_
 existence	existence	NC	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 à	à	P	_
 des	un	DET	_
 animaux	animal	NC	_
@@ -33831,7 +33890,7 @@ que	que	CS	_
 ces	ce	DET	_
 animaux	animal	NC	_
 eussent	avoir	V	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 et	et	CC	_
 toujours	toujours	ADV	_
 vécu	vivre	VPP	_
@@ -33850,9 +33909,9 @@ la	le	DET	_
 même	même	ADJ	_
 profondeur	profondeur	NC	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 ,	,	PONCT	_
 sans	sans	P	_
 doute	doute	NC	_
@@ -34744,7 +34803,8 @@ la	le	DET	_
 plus	plus	ADV	_
 composée	composer	VPP	_
 ;	;	PONCT	_
-tandis_qu'	tandis_que	CS	_
+tandis	tandis	ADV	_
+qu'	que	CS	_
 à	à	P	_
 l'	le	DET	_
 extrémité	extrémité	NC	_
@@ -34879,7 +34939,8 @@ une	un	DET	_
 colonne	colonne	NC	_
 vertébrale	vertébral	ADJ	_
 ,	,	PONCT	_
-tandis_que	tandis_que	CS	_
+tandis	tandis	ADV	_
+que	que	CS	_
 les	le	DET	_
 animaux	animal	NC	_
 de	de	P	_
@@ -34889,7 +34950,7 @@ autres	autre	ADJ	_
 classes	classe	NC	_
 en	en	CLO	_
 sont	être	V	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 absolument	absolument	ADV	_
 privés	privé	ADJ	_
 .	.	PONCT	_
@@ -35034,7 +35095,7 @@ mais	mais	CC	_
 encore	encore	ADV	_
 celui	celui	PRO	_
 de	de	P	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 qui	qui	PROREL	_
 est	être	V	_
 le	le	DET	_
@@ -35573,7 +35634,7 @@ du	de_le	P+D	_
 squelette	squelette	NC	_
 ;	;	PONCT	_
 et	et	CC	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 ont	avoir	V	_
 un	un	DET	_
 diaphragme	diaphragme	NC	_
@@ -35757,9 +35818,9 @@ parties	partie	NC	_
 du	de_le	P+D	_
 corps	corps	NC	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 à	à	P	_
 la	le	DET	_
 vérité	vérité	NC	_
@@ -35849,7 +35910,7 @@ membres	membre	NC	_
 ne	ne	ADV	_
 sont	être	V	_
 propres	propre	ADJ	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 à	à	P	_
 marcher	marcher	VINF	_
 .	.	PONCT	_
@@ -36063,7 +36124,7 @@ servent	servir	V	_
 aucun	aucun	DET	_
 autre	autre	ADJ	_
 usage	usage	NC	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 à	à	P	_
 marcher	marcher	VINF	_
 ou	ou	CC	_
@@ -36321,7 +36382,7 @@ ne	ne	ADV	_
 faut	falloir	V	_
 s'	se	CLO	_
 abaisser	abaisser	VINF	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 avec	avec	P	_
 réserve	réserve	NC	_
 dans	dans	P	_
@@ -36330,7 +36391,8 @@ considérations	considération	NC	_
 de	de	P	_
 détail	détail	NC	_
 ;	;	PONCT	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 ,	,	PONCT	_
 comme	comme	CS	_
 je	je	CLS	_
@@ -36365,7 +36427,7 @@ manières	manière	NC	_
 de	de	P	_
 vivre	vivre	VINF	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 ,	,	PONCT	_
 ayant	avoir	VPR	_
 une	un	DET	_
@@ -36520,7 +36582,8 @@ doivent	devoir	V	_
 des	de_le	P+D	_
 cétacés	cétacé	NC	_
 ,	,	PONCT	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 leur	leur	DET	_
 organisation	organisation	NC	_
 est	être	V	_
@@ -36547,7 +36610,8 @@ des	de_le	P+D	_
 mammifères	mammifère	NC	_
 onguiculés	onguiculé	ADJ	_
 ,	,	PONCT	_
-tandis_que	tandis_que	CS	_
+tandis	tandis	ADV	_
+que	que	CS	_
 les	le	DET	_
 cétacés	cétacé	NC	_
 doivent	devoir	V	_
@@ -36707,7 +36771,7 @@ lèvres	lèvre	NC	_
 et	et	CC	_
 n'	ne	ADV	_
 ont	avoir	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 un	un	DET	_
 orifice	orifice	NC	_
 pour	pour	P	_
@@ -37115,7 +37179,7 @@ les	le	DET	_
 mammifères	mammifère	NC	_
 ,	,	PONCT	_
 sépare	séparer	V	_
-complétement	complétement	ADV	_
+complétement	complètement	ADV	_
 ,	,	PONCT	_
 quoique	quoique	ADV	_
 plus	plus	ADV	_
@@ -37166,7 +37230,8 @@ de	de	P	_
 la	le	DET	_
 queue	queue	NC	_
 ,	,	PONCT	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 les	le	DET	_
 mouvemens	mouvement	NC	_
 des	de_le	P+D	_
@@ -37201,7 +37266,7 @@ d'	de	P	_
 obstacles	obstacle	NC	_
 aux	à_le	P+D	_
 grands	grand	ADJ	_
-développemens	développemens	NC	_
+développemens	développement	NC	_
 du	de_le	P+D	_
 sternum	sternum	NC	_
 qui	qui	PROREL	_
@@ -37313,7 +37378,7 @@ corps	corps	NC	_
 Ainsi	ainsi	ADV	_
 ils	il	CLS	_
 respirent	respirer	V	_
-complétement	complétement	ADV	_
+complétement	complètement	ADV	_
 par	par	P	_
 un	un	DET	_
 poumon	poumon	NC	_
@@ -37566,7 +37631,8 @@ dégradation	dégradation	NC	_
 évidente	évident	ADJ	_
 ,	,	PONCT	_
 non	non	ADV	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 leur	leur	DET	_
 poumon	poumon	NC	_
 offre	offrir	V	_
@@ -37611,7 +37677,8 @@ l'	le	DET	_
 air	air	NC	_
 ,	,	PONCT	_
 mais	mais	CC	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 ils	il	CLS	_
 n'	ne	ADV	_
 ont	avoir	V	_
@@ -37787,7 +37854,7 @@ les	le	DET	_
 manchots	manchot	NC	_
 et	et	CC	_
 les	le	DET	_
-pingoins	pingoins	NC	_
+pingoins	pingouins	NC	_
 ,	,	PONCT	_
 dont	dont	PROREL	_
 les	le	DET	_
@@ -37968,7 +38035,7 @@ reptiles	reptile	NC	_
 Animaux	animal	NC	_
 n'	ne	ADV	_
 ayant	avoir	VPR	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 un	un	DET	_
 ventricule	ventricule	NC	_
 au	à_le	P+D	_
@@ -38057,7 +38124,7 @@ coeur	cœur	NC	_
 qui	qui	PROREL	_
 n'	ne	ADV	_
 a	avoir	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 un	un	DET	_
 ventricule	ventricule	NC	_
 ,	,	PONCT	_
@@ -38263,7 +38330,7 @@ il	il	CLS	_
 n'	ne	ADV	_
 y	y	CLO	_
 a	avoir	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 une	un	DET	_
 partie	partie	NC	_
 de	de	P	_
@@ -38275,7 +38342,8 @@ par	par	P	_
 le	le	DET	_
 poumon	poumon	NC	_
 ,	,	PONCT	_
-tandis_que	tandis_que	CS	_
+tandis	tandis	ADV	_
+que	que	CS	_
 le	le	DET	_
 reste	reste	NC	_
 arrive	arriver	V	_
@@ -38352,7 +38420,9 @@ s'	se	CLO	_
 élève	élever	V	_
 à	à	P	_
 peine	peine	NC	_
-au-dessus	au-dessus	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 de	de	P	_
 celle	celui	PRO	_
 des	de_le	P+D	_
@@ -38488,7 +38558,7 @@ nue	nu	ADJ	_
 Enfin	enfin	ADV	_
 ,	,	PONCT	_
 quoique	quoique	CS	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 aient	avoir	V	_
 le	le	DET	_
 coeur	cœur	NC	_
@@ -38514,7 +38584,7 @@ il	il	CLS	_
 n'	ne	ADV	_
 en	en	CLO	_
 a	avoir	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 une	un	DET	_
 seule	seul	ADJ	_
 .	.	PONCT	_
@@ -38532,7 +38602,7 @@ manière	manière	NC	_
 de	de	P	_
 vivre	vivre	VINF	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 ;	;	PONCT	_
 circonstances	circonstance	NC	_
 qui	qui	PROREL	_
@@ -38629,7 +38699,7 @@ oiseaux	oiseau	NC	_
 ;	;	PONCT	_
 et	et	CC	_
 offrant	offrir	VPR	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 un	un	DET	_
 petit	petit	ADJ	_
 cerveau	cerveau	NC	_
@@ -38709,7 +38779,8 @@ vivent	vivre	V	_
 on	on	CLS	_
 remarque	remarquer	V	_
 ,	,	PONCT	_
-en_outre	en_outre	ADV	_
+en	en	P	_
+outre	outre	P	_
 ,	,	PONCT	_
 des	un	DET	_
 traces	trace	NC	_
@@ -38856,7 +38927,7 @@ courtes	court	ADJ	_
 ne	ne	ADV	_
 pouvant	pouvoir	VPR	_
 être	être	VINF	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 au	à_le	P+D	_
 nombre	nombre	NC	_
 de	de	P	_
@@ -39363,7 +39434,7 @@ sur	sur	P	_
 les	le	DET	_
 yeux	œil	NC	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 Voilà	voilà	V	_
 des	un	DET	_
 organes	organe	NC	_
@@ -39814,7 +39885,8 @@ leur	leur	DET	_
 squelette	squelette	NC	_
 ,	,	PONCT	_
 et	et	CC	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 ils	il	CLS	_
 ont	avoir	V	_
 le	le	DET	_
@@ -39828,7 +39900,7 @@ de	de	P	_
 nageoires	nageoire	NC	_
 latérales	latéral	ADJ	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 observations	observation	NC	_
 sur	sur	P	_
 les	le	DET	_
@@ -39850,7 +39922,7 @@ leurs	leur	DET	_
 organes	organe	NC	_
 ,	,	PONCT	_
 paroissent	paraître	V	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 formés	former	VPP	_
 sur	sur	P	_
 un	un	DET	_
@@ -39886,7 +39958,7 @@ n'	ne	ADV	_
 a	avoir	V	_
 été	être	VPP	_
 terminé	terminer	VPP	_
-complétement	complétement	ADV	_
+complétement	complètement	ADV	_
 que	que	CS	_
 dans	dans	P	_
 les	le	DET	_
@@ -40041,7 +40113,7 @@ parvenue	parvenir	VPP	_
 à	à	P	_
 le	il	CLO	_
 terminer	terminer	VINF	_
-complétement	complétement	ADV	_
+complétement	complètement	ADV	_
 que	que	CS	_
 dans	dans	P	_
 les	le	DET	_
@@ -40317,7 +40389,7 @@ ne	ne	ADV	_
 doit	devoir	V	_
 sa	son	DET	_
 couleur	couleur	NC	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 à	à	P	_
 l'	le	DET	_
 intensité	intensité	NC	_
@@ -41283,7 +41355,7 @@ comprennent	comprendre	V	_
 .	.	PONCT	_
 Ils	il	CLS	_
 ont	avoir	V	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 un	un	DET	_
 cerveau	cerveau	NC	_
 ;	;	PONCT	_
@@ -41373,12 +41445,14 @@ subir	subir	VINF	_
 des	un	DET	_
 modifications	modification	NC	_
 ,	,	PONCT	_
-quant_à	quant_à	P	_
+quant	quant	ADV	_
+à	à	P	_
 leurs	leur	DET	_
 facultés	faculté	NC	_
 ,	,	PONCT	_
 et	et	CC	_
-quant_à	quant_à	P	_
+quant	quant	ADV	_
+à	à	P	_
 leurs	leur	DET	_
 formes	forme	NC	_
 ,	,	PONCT	_
@@ -41643,7 +41717,7 @@ ou	ou	CC	_
 des	un	DET	_
 cordonnets	cordonnet	NC	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 ,	,	PONCT	_
 et	et	CC	_
 qui	qui	PROREL	_
@@ -41652,7 +41726,7 @@ peuvent	pouvoir	V	_
 opérer	opérer	VINF	_
 la	le	DET	_
 respiration	respiration	NC	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 à	à	P	_
 l'	le	DET	_
 aide	aide	NC	_
@@ -42525,7 +42599,7 @@ tête	tête	NC	_
 d'	de	P	_
 yeux	œil	NC	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 ,	,	PONCT	_
 dans	dans	P	_
 les	le	DET	_
@@ -42567,7 +42641,7 @@ tête	tête	NC	_
 des	un	DET	_
 yeux	œil	NC	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 ;	;	PONCT	_
 mais	mais	CC	_
 il	il	CLS	_
@@ -42651,7 +42725,7 @@ tête	tête	NC	_
 des	un	DET	_
 yeux	œil	NC	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 ,	,	PONCT	_
 eussent	avoir	V	_
 été	être	VPP	_
@@ -42663,7 +42737,8 @@ du	de_le	P+D	_
 second	second	ADJ	_
 ordre	ordre	NC	_
 ,	,	PONCT	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 le	le	DET	_
 grand	grand	ADJ	_
 développement	développement	NC	_
@@ -42719,7 +42794,7 @@ yeux	œil	NC	_
 les	le	DET	_
 mâchoires	mâchoire	NC	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 ,	,	PONCT	_
 se	se	CLO	_
 trouvent	trouver	V	_
@@ -42868,7 +42943,8 @@ coquilles	coquille	NC	_
 )	)	PONCT	_
 ont	avoir	V	_
 ,	,	PONCT	_
-en_outre	en_outre	ADV	_
+en	en	P	_
+outre	outre	P	_
 ,	,	PONCT	_
 dans	dans	P	_
 leur	leur	DET	_
@@ -43042,8 +43118,8 @@ ils	il	CLS	_
 ne	ne	ADV	_
 les	il	CLO	_
 exécutent	exécuter	V	_
-tous	tous	PRO	_
-qu'	qu'	ADV	_
+tous	tout	PRO	_
+qu'	que	ADV	_
 avec	avec	P	_
 une	un	DET	_
 lenteur	lenteur	NC	_
@@ -43097,7 +43173,8 @@ une	un	DET	_
 classe	classe	NC	_
 particulière	particulier	ADJ	_
 ,	,	PONCT	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 ces	ce	DET	_
 animaux	animal	NC	_
 ne	ne	ADV	_
@@ -43373,7 +43450,8 @@ celle	celui	PRO	_
 des	de_le	P+D	_
 cirrhipèdes	cirrhipède	NC	_
 ,	,	PONCT	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 aucune	aucun	DET	_
 annelide	annelide	NC	_
 n'	ne	ADV	_
@@ -43392,7 +43470,8 @@ avant	avant	P	_
 les	le	DET	_
 crustacés	crustacé	NC	_
 ,	,	PONCT	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 ces	ce	DET	_
 animaux	animal	NC	_
 n'	ne	ADV	_
@@ -43402,7 +43481,7 @@ de	un	DET	_
 pattes	patte	NC	_
 articulées	articulé	ADJ	_
 ,	,	PONCT	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 ils	il	CLS	_
 ne	ne	ADV	_
 doivent	devoir	V	_
@@ -43494,7 +43573,8 @@ ils	il	CLS	_
 le	il	CLO	_
 sont	être	V	_
 ,	,	PONCT	_
-en_outre	en_outre	ADV	_
+en	en	P	_
+outre	outre	P	_
 ,	,	PONCT	_
 aux	à_le	P+D	_
 cirrhipèdes	cirrhipède	NC	_
@@ -43732,7 +43812,7 @@ de	de	P	_
 ces	ce	DET	_
 animaux	animal	NC	_
 sont	être	V	_
-toutes	tous	PRO	_
+toutes	tout	PRO	_
 à	à	P	_
 l'	le	DET	_
 extérieur	extérieur	NC	_
@@ -43814,7 +43894,7 @@ lui	il	PRO	_
 comme	comme	P	_
 ne	ne	ADV	_
 formant	former	VPR	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 une	un	DET	_
 seule	seul	ADJ	_
 classe	classe	NC	_
@@ -43954,7 +44034,7 @@ sans	sans	P	_
 couleur	couleur	NC	_
 ,	,	PONCT	_
 et	et	CC	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 respirent	respirer	V	_
 par	par	P	_
 de	un	DET	_
@@ -44158,7 +44238,8 @@ leur	leur	DET	_
 cette	ce	DET	_
 dégradation	dégradation	NC	_
 .	.	PONCT	_
-Quant_à	quant_à	P	_
+Quant	quant	ADV	_
+à	à	P	_
 leur	leur	DET	_
 système	système	NC	_
 nerveux	nerveux	ADJ	_
@@ -44721,7 +44802,7 @@ leur	leur	DET	_
 organisation	organisation	NC	_
 intérieure	intérieur	ADJ	_
 ,	,	PONCT	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 il	il	CLS	_
 l'	il	CLO	_
 étoit	être	V	_
@@ -44976,7 +45057,8 @@ la	le	DET	_
 même	même	ADJ	_
 classe	classe	NC	_
 ,	,	PONCT	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 leurs	leur	DET	_
 auteurs	auteur	NC	_
 n'	ne	ADV	_
@@ -45034,7 +45116,8 @@ la	le	DET	_
 même	même	ADJ	_
 classe	classe	NC	_
 .	.	PONCT	_
-Quant_à	quant_à	P	_
+Quant	quant	ADV	_
+à	à	P	_
 la	le	DET	_
 dégradation	dégradation	NC	_
 générale	général	ADJ	_
@@ -45413,7 +45496,7 @@ qu'	que	CS	_
 ils	il	CLS	_
 n'	ne	ADV	_
 engendrent	engendrer	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 une	un	DET	_
 seule	seul	ADJ	_
 fois	fois	NC	_
@@ -45668,7 +45751,7 @@ ont	avoir	V	_
 quatre	quatre	PRO	_
 ,	,	PONCT	_
 dont	dont	PROREL	_
-toutes	tous	PRO	_
+toutes	tout	PRO	_
 ,	,	PONCT	_
 ou	ou	CC	_
 deux	deux	NC	_
@@ -46763,7 +46846,7 @@ plantes	plante	NC	_
 ,	,	PONCT	_
 veulent	vouloir	V	_
 que	que	CS	_
-toutes	tous	PRO	_
+toutes	tout	PRO	_
 ,	,	PONCT	_
 sans	sans	P	_
 exception	exception	NC	_
@@ -46958,7 +47041,7 @@ manière	manière	NC	_
 Voici	voici	V	_
 le	le	DET	_
 principe	principe	NC	_
-auquel	auquel	PROREL	_
+auquel	à_lequel	PROREL	_
 il	il	CLS	_
 faut	falloir	V	_
 avoir	avoir	VINF	_
@@ -47083,7 +47166,7 @@ Or	or	CC	_
 suivez	suivre	V	_
 attentivement	attentivement	ADV	_
 les	le	DET	_
-développemens	développemens	NC	_
+développemens	développement	NC	_
 des	de_le	P+D	_
 corpuscules	corpuscule	NC	_
 reproductifs	reproductif	ADJ	_
@@ -47093,7 +47176,7 @@ algues	algue	NC	_
 des	un	DET	_
 champignons	champignon	NC	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 ,	,	PONCT	_
 et	et	CC	_
 vous	vous	CLS	_
@@ -47431,7 +47514,7 @@ et	et	CC	_
 qui	qui	PROREL	_
 est	être	V	_
 le	le	DET	_
-siége	siége	NC	_
+siége	siège	NC	_
 du	de_le	P+D	_
 cerveau	cerveau	NC	_
 et	et	CC	_
@@ -47478,7 +47561,7 @@ n'	ne	ADV	_
 étant	être	VPR	_
 ni	ni	CC	_
 le	le	DET	_
-siége	siége	NC	_
+siége	siège	NC	_
 d'	de	P	_
 un	un	DET	_
 cerveau	cerveau	NC	_
@@ -47496,7 +47579,7 @@ de	de	P	_
 la	le	DET	_
 vue	vue	NC	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 ,	,	PONCT	_
 puisque	puisque	CS	_
 tous	tout	ADJ	_
@@ -47661,7 +47744,7 @@ métamorphose	métamorphose	NC	_
 et	et	CC	_
 dépourvu	dépourvoir	VPP	_
 dans	dans	P	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 ,	,	PONCT	_
 de	de	P	_
 tête	tête	NC	_
@@ -47721,7 +47804,7 @@ elle	il	CLS	_
 a	avoir	V	_
 ensuite	ensuite	ADV	_
 exécuté	exécuter	VPP	_
-complétement	complétement	ADV	_
+complétement	complètement	ADV	_
 dans	dans	P	_
 les	le	DET	_
 insectes	insecte	NC	_
@@ -48045,7 +48128,8 @@ celles	celui	PRO	_
 des	de_le	P+D	_
 insectes	insecte	NC	_
 ,	,	PONCT	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 ces	ce	DET	_
 animaux	animal	NC	_
 ne	ne	ADV	_
@@ -48220,7 +48304,7 @@ ceux	celui	PRO	_
 des	de_le	P+D	_
 corines	corines	NC	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 Les	le	DET	_
 polypes	polype	NC	_
 offrent	offrir	V	_
@@ -48584,7 +48668,8 @@ mais	mais	CC	_
 on	on	CLS	_
 observe	observer	V	_
 ,	,	PONCT	_
-en_outre	en_outre	ADV	_
+en	en	P	_
+outre	outre	P	_
 ,	,	PONCT	_
 des	un	DET	_
 organes	organe	NC	_
@@ -48693,7 +48778,7 @@ sait	savoir	V	_
 de	de	P	_
 leur	leur	DET	_
 organisation	organisation	NC	_
-indique	indique	ADJ	_
+indique	indiquer	ADJ	_
 évidemment	évidemment	ADV	_
 le	le	DET	_
 rang	rang	NC	_
@@ -49022,7 +49107,8 @@ plus	plus	ADV	_
 ,	,	PONCT	_
 mais	mais	CC	_
 ,	,	PONCT	_
-en_outre	en_outre	ADV	_
+en	en	P	_
+outre	outre	P	_
 ,	,	PONCT	_
 qu'	que	CS	_
 il	il	CLS	_
@@ -49295,7 +49381,7 @@ mouvement	mouvement	NC	_
 dans	dans	P	_
 les	le	DET	_
 fluides	fluide	NC	_
-contenables	contenables	ADJ	_
+contenables	contenable	ADJ	_
 ou	ou	CC	_
 propres	propre	ADJ	_
 de	de	P	_
@@ -49375,7 +49461,7 @@ avec	avec	P	_
 de	de	P	_
 plus	plus	ADV	_
 grands	grand	ADJ	_
-développemens	développemens	NC	_
+développemens	développement	NC	_
 dans	dans	P	_
 les	le	DET	_
 radiaires	radiaire	NC	_
@@ -49461,7 +49547,7 @@ souvent	souvent	ADV	_
 il	il	CLS	_
 n'	ne	ADV	_
 a	avoir	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 une	un	DET	_
 seule	seul	ADJ	_
 ouverture	ouverture	NC	_
@@ -49503,7 +49589,7 @@ que	que	CS	_
 les	le	DET	_
 méduses	méduse	NC	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 ,	,	PONCT	_
 on	on	CLS	_
 observe	observer	V	_
@@ -49935,7 +50021,7 @@ ressemblant	ressembler	VPR	_
 en	en	P	_
 général	général	NC	_
 ,	,	PONCT	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 à	à	P	_
 un	un	DET	_
 sac	sac	NC	_
@@ -49992,7 +50078,7 @@ respiratoire	respiratoire	ADJ	_
 ni	ni	CC	_
 muscle	muscle	NC	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 ,	,	PONCT	_
 ces	ce	DET	_
 organes	organe	NC	_
@@ -50142,11 +50228,12 @@ perçoit	percer	V	_
 les	le	DET	_
 saveurs	saveur	NC	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 ;	;	PONCT	_
 mais	mais	CC	_
 ,	,	PONCT	_
-en_outre	en_outre	ADV	_
+en	en	P	_
+outre	outre	P	_
 ,	,	PONCT	_
 qu'	que	CS	_
 il	il	CLS	_
@@ -50378,7 +50465,7 @@ et	et	CC	_
 quoiqu'	quoique	CS	_
 en	en	P	_
 dernière	dernier	ADJ	_
-analise	analise	NC	_
+analise	analyse	NC	_
 ,	,	PONCT	_
 les	le	DET	_
 différens	différent	ADJ	_
@@ -50439,7 +50526,7 @@ a	avoir	V	_
 point	point	ADV	_
 le	le	DET	_
 foyer	foyer	NC	_
-auquel	auquel	PROREL	_
+auquel	à_lequel	PROREL	_
 il	il	CLS	_
 faudroit	falloir	V	_
 que	que	CS	_
@@ -50690,7 +50777,8 @@ ovaire	ovaire	NC	_
 ,	,	PONCT	_
 mais	mais	CC	_
 ,	,	PONCT	_
-en_outre	en_outre	ADV	_
+en	en	P	_
+outre	outre	P	_
 ,	,	PONCT	_
 qu'	que	CS	_
 il	il	CLS	_
@@ -50837,7 +50925,8 @@ actes	acte	NC	_
 de	de	P	_
 volonté	volonté	NC	_
 ,	,	PONCT	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 ils	il	CLS	_
 n'	ne	ADV	_
 en	en	CLO	_
@@ -51030,7 +51119,8 @@ de	de	P	_
 les	il	CLO	_
 varier	varier	VINF	_
 .	.	PONCT	_
-Quant_à	quant_à	P	_
+Quant	quant	ADV	_
+à	à	P	_
 la	le	DET	_
 distinction	distinction	NC	_
 des	de_le	P+D	_
@@ -51106,7 +51196,8 @@ supérieure	supérieur	ADJ	_
 et	et	CC	_
 terminale	terminal	ADJ	_
 ,	,	PONCT	_
-tandis_que	tandis_que	CS	_
+tandis	tandis	ADV	_
+que	que	CS	_
 celle	celui	PRO	_
 des	de_le	P+D	_
 radiaires	radiaire	NC	_
@@ -51137,16 +51228,17 @@ animaux	animal	NC	_
 -	-	PONCT	_
 plantes	plante	NC	_
 ,	,	PONCT	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 ce	ce	CLS	_
 sont	être	V	_
 uniquement	uniquement	ADV	_
 et	et	CC	_
-complétement	complétement	ADV	_
+complétement	complètement	ADV	_
 des	un	DET	_
 animaux	animal	NC	_
 ,	,	PONCT	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 ils	il	CLS	_
 ont	avoir	V	_
 des	un	DET	_
@@ -51273,7 +51365,8 @@ de	un	DET	_
 véritables	véritable	ADJ	_
 végétaux	végétal	NC	_
 ,	,	PONCT	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 souvent	souvent	ADV	_
 elles	il	CLS	_
 sont	être	V	_
@@ -51307,7 +51400,7 @@ d'	de	P	_
 un	un	DET	_
 canal	canal	NC	_
 alimentaire	alimentaire	ADJ	_
-auquel	auquel	PROREL	_
+auquel	à_lequel	PROREL	_
 elles	il	CLS	_
 conduisent	conduire	V	_
 ,	,	PONCT	_
@@ -51469,7 +51562,7 @@ qui	qui	PROREL	_
 semblent	sembler	V	_
 n'	ne	ADV	_
 être	être	VINF	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 que	que	ADV	_
 de	un	DET	_
 véritables	véritable	ADJ	_
@@ -51518,7 +51611,7 @@ qui	qui	PROREL	_
 soit	être	V	_
 particulière	particulier	ADJ	_
 à	à	P	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 ;	;	PONCT	_
 mais	mais	CC	_
 j'	je	CLS	_
@@ -51737,7 +51830,7 @@ des	un	DET	_
 points	point	NC	_
 animés	animé	ADJ	_
 ou	ou	CC	_
-mouvans	mouvant	ADJ	_
+mouvans	mouvoir	ADJ	_
 ,	,	PONCT	_
 se	se	CLO	_
 nourrissent	nourrir	V	_
@@ -51851,7 +51944,7 @@ petits	petit	ADJ	_
 corps	corps	NC	_
 gélatineux	gélatineux	ADJ	_
 ,	,	PONCT	_
-indique	indique	ADJ	_
+indique	indiquer	ADJ	_
 que	que	CS	_
 de	un	DET	_
 pareils	pareil	ADJ	_
@@ -51861,7 +51954,8 @@ doivent	devoir	V	_
 pas	pas	ADV	_
 exister	exister	VINF	_
 ,	,	PONCT	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 l'	le	DET	_
 exécution	exécution	NC	_
 de	de	P	_
@@ -52031,7 +52125,7 @@ ne	ne	ADV	_
 doivent	devoir	V	_
 leur	leur	DET	_
 existence	existence	NC	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 à	à	P	_
 des	un	DET	_
 générations	génération	NC	_
@@ -52044,10 +52138,10 @@ ces	ce	DET	_
 frêles	frêle	ADJ	_
 animaux	animal	NC	_
 périssent	périr	V	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 dans	dans	P	_
 les	le	DET	_
-abaissemens	abaissements	NC	_
+abaissemens	abaissement	NC	_
 de	de	P	_
 température	température	NC	_
 qu'	que	PROREL	_
@@ -52425,7 +52519,7 @@ voix	voix	NC	_
 les	le	DET	_
 paupières	paupière	NC	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 ,	,	PONCT	_
 disparoissent	disparaître	V	_
 totalement	totalement	ADV	_
@@ -52902,7 +52996,8 @@ exister	exister	VINF	_
 ;	;	PONCT	_
 mais	mais	CC	_
 ,	,	PONCT	_
-en_outre	en_outre	ADV	_
+en	en	P	_
+outre	outre	P	_
 ,	,	PONCT	_
 on	on	CLS	_
 observe	observer	V	_
@@ -53159,7 +53254,7 @@ animaux	animal	NC	_
 n'	ne	ADV	_
 offrent	offrir	V	_
 plus	plus	ADV	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 une	un	DET	_
 matière	matière	NC	_
 gélatineuse	gélatineux	ADJ	_
@@ -53408,7 +53503,7 @@ ne	ne	ADV	_
 pense	penser	V	_
 ,	,	PONCT	_
 et	et	CC	_
-auquel	auquel	PROREL	_
+auquel	à_lequel	PROREL	_
 on	on	CLS	_
 a	avoir	V	_
 négligé	négliger	VPP	_
@@ -53423,7 +53518,8 @@ mérite	mériter	V	_
 sans	sans	P	_
 doute	doute	NC	_
 ,	,	PONCT	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 ,	,	PONCT	_
 le	le	DET	_
 plus	plus	ADV	_
@@ -53926,7 +54022,7 @@ parfaits	parfait	ADJ	_
 ,	,	PONCT	_
 n'	ne	ADV	_
 offre	offrir	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 une	un	DET	_
 gradation	gradation	NC	_
 irrégulière	irrégulier	ADJ	_
@@ -54544,7 +54640,7 @@ graduellement	graduellement	ADV	_
 de	de	P	_
 recevoir	recevoir	VINF	_
 les	le	DET	_
-développemens	développemens	NC	_
+développemens	développement	NC	_
 que	que	CS	_
 les	le	DET	_
 autres	autre	ADJ	_
@@ -54649,7 +54745,7 @@ grandes	grand	ADJ	_
 différences	différence	NC	_
 dans	dans	P	_
 les	le	DET	_
-développemens	développemens	NC	_
+développemens	développement	NC	_
 de	de	P	_
 leurs	leur	DET	_
 parties	partie	NC	_
@@ -54668,7 +54764,8 @@ d'	de	P	_
 entre	entre	P	_
 elles	il	PRO	_
 ,	,	PONCT	_
-tandis_qu'	tandis_que	CS	_
+tandis	tandis	ADV	_
+qu'	que	CS	_
 elles	il	CLS	_
 atténuent	atténuer	V	_
 et	et	CC	_
@@ -54759,9 +54856,10 @@ favorables	favorable	ADJ	_
 à	à	P	_
 tous	tout	ADJ	_
 leurs	leur	DET	_
-développemens	développemens	NC	_
+développemens	développement	NC	_
 ,	,	PONCT	_
-tandis_que	tandis_que	CS	_
+tandis	tandis	ADV	_
+que	que	CS	_
 les	le	DET	_
 autres	autre	NC	_
 se	se	CLO	_
@@ -54891,7 +54989,7 @@ circonstances	circonstance	NC	_
 favorables	favorable	ADJ	_
 à	à	P	_
 leurs	leur	DET	_
-développemens	développemens	NC	_
+développemens	développement	NC	_
 .	.	PONCT	_
 Un	un	DET	_
 printemps	printemps	NC	_
@@ -55172,7 +55270,7 @@ habitude	habitude	NC	_
 de	de	P	_
 vivre	vivre	VINF	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 ,	,	PONCT	_
 viennent	venir	V	_
 à	à	P	_
@@ -55497,7 +55595,7 @@ choux	chou	NC	_
 nos	notre	DET	_
 laitues	laitue	NC	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 ,	,	PONCT	_
 dans	dans	P	_
 l'	le	DET	_
@@ -55594,7 +55692,8 @@ moins	moins	ADV	_
 ancienne	ancien	ADJ	_
 ,	,	PONCT	_
 et	et	CC	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 elles	il	CLS	_
 ne	ne	ADV	_
 vivent	vivre	V	_
@@ -56008,9 +56107,9 @@ ces	ce	DET	_
 ces	ce	DET	_
 bichons	bichon	NC	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 ,	,	PONCT	_
 races	race	NC	_
 qui	qui	PROREL	_
@@ -56280,7 +56379,7 @@ eau	eau	NC	_
 ses	son	DET	_
 feuilles	feuille	NC	_
 sont	être	V	_
-toutes	tous	PRO	_
+toutes	tout	PRO	_
 finement	finement	ADV	_
 découpées	découper	VPP	_
 et	et	CC	_
@@ -56446,7 +56545,8 @@ cause	cause	NC	_
 moins	moins	ADV	_
 reconnoissable	reconnaissable	ADJ	_
 .	.	PONCT	_
-Quant_aux	quant_à_le	P+D	_
+quant	quant	ADV	_
+aux	à_le	P+D	_
 circonstances	circonstance	NC	_
 qui	qui	PROREL	_
 ont	avoir	V	_
@@ -56480,7 +56580,8 @@ habitent	habiter	V	_
 ;	;	PONCT	_
 mais	mais	CC	_
 ,	,	PONCT	_
-en_outre	en_outre	ADV	_
+en	en	P	_
+outre	outre	P	_
 ,	,	PONCT	_
 il	il	CLS	_
 y	y	CLO	_
@@ -56576,7 +56677,7 @@ assez	assez	ADV	_
 et	et	CC	_
 même	même	ADV	_
 ce	ce	PRO	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 en	en	P	_
 général	général	NC	_
 on	on	CLS	_
@@ -56818,7 +56919,7 @@ n'	ne	ADV	_
 y	y	CLO	_
 changent	changer	V	_
 réellement	réellement	ADV	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 avec	avec	P	_
 une	un	DET	_
 lenteur	lenteur	NC	_
@@ -57001,7 +57102,8 @@ race	race	NC	_
 ,	,	PONCT	_
 mais	mais	CC	_
 ,	,	PONCT	_
-en_outre	en_outre	ADV	_
+en	en	P	_
+outre	outre	P	_
 ,	,	PONCT	_
 en	en	P	_
 raison	raison	NC	_
@@ -57267,7 +57369,7 @@ infiniment	infiniment	ADV	_
 diversifiées	diversifier	VPP	_
 ,	,	PONCT	_
 mais	mais	CC	_
-toutes	tous	PRO	_
+toutes	tout	PRO	_
 lentement	lentement	ADV	_
 changeantes	changeant	ADJ	_
 ,	,	PONCT	_
@@ -57373,7 +57475,7 @@ le	le	DET	_
 terme	terme	NC	_
 de	de	P	_
 ses	son	DET	_
-développemens	développemens	NC	_
+développemens	développement	NC	_
 ,	,	PONCT	_
 l'	le	DET	_
 emploi	emploi	NC	_
@@ -57412,7 +57514,8 @@ de	de	P	_
 cet	ce	DET	_
 emploi	emploi	NC	_
 ;	;	PONCT	_
-tandis_que	tandis_que	CS	_
+tandis	tandis	ADV	_
+que	que	CS	_
 le	le	DET	_
 défaut	défaut	NC	_
 constant	constant	ADJ	_
@@ -57839,7 +57942,7 @@ course	course	NC	_
 de	de	P	_
 barbets	barbet	NC	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 ;	;	PONCT	_
 nous	nous	CLS	_
 n'	ne	ADV	_
@@ -57854,7 +57957,7 @@ de	de	P	_
 pigeons	pigeon	NC	_
 paons	paon	NC	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 ;	;	PONCT	_
 enfin	enfin	ADV	_
 ,	,	PONCT	_
@@ -58223,7 +58326,8 @@ toujours	toujours	ADV	_
 sa	son	DET	_
 disposition	disposition	NC	_
 .	.	PONCT	_
-Quant_aux	quant_à_le	P+D	_
+quant	quant	ADV	_
+aux	à_le	P+D	_
 circonstances	circonstance	NC	_
 dont	dont	PROREL	_
 elle	il	CLS	_
@@ -58340,7 +58444,7 @@ de	de	P	_
 se	se	CLO	_
 multiplier	multiplier	VINF	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 Or	Or	NP	_
 ,	,	PONCT	_
 par	par	P	_
@@ -58622,13 +58726,14 @@ organe	organe	NC	_
 ,	,	PONCT	_
 mais	mais	CC	_
 ,	,	PONCT	_
-en_outre	en_outre	ADV	_
+en	en	P	_
+outre	outre	P	_
 ,	,	PONCT	_
 lui	il	CLO	_
 fait	faire	V	_
 acquérir	acquérir	VINF	_
 des	un	DET	_
-développemens	développemens	NC	_
+développemens	développement	NC	_
 et	et	CC	_
 des	un	DET	_
 dimensions	dimension	NC	_
@@ -58746,7 +58851,7 @@ d'	de	P	_
 organisation	organisation	NC	_
 est	être	V	_
 dans	dans	P	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 à	à	P	_
 peu	peu	ADV	_
 près	près	ADV	_
@@ -58835,7 +58940,9 @@ mâchoires	mâchoire	NC	_
 sans	sans	P	_
 pouvoir	pouvoir	VINF	_
 paroître	paraître	VINF	_
-au-dehors	au-dehors	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dehors	dehors	ADV	_
 ,	,	PONCT	_
 ou	ou	CC	_
 même	même	ADV	_
@@ -58856,13 +58963,13 @@ que	que	CS	_
 l'on	on	CLS	_
 avoit	avoir	V	_
 cru	croire	VPP	_
-complétement	complétement	ADV	_
+complétement	complètement	ADV	_
 dépourvue	dépourvoir	VPP	_
 de	de	P	_
 dents	dent	NC	_
 ,	,	PONCT	_
 *	*	PONCT	_
-M	M	NC	_
+M	monsieur	NC	_
 Geoffroy	Geoffroy	NP	_
 les	il	CLO	_
 a	avoir	V	_
@@ -58933,7 +59040,7 @@ est	être	V	_
 exécuté	exécuter	VPP	_
 le	le	DET	_
 plus	plus	ADV	_
-complétement	complétement	ADV	_
+complétement	complètement	ADV	_
 ,	,	PONCT	_
 non-seulement	non-seulement	ADV	_
 la	le	DET	_
@@ -59047,7 +59154,8 @@ et	et	CC	_
 peine	peine	NC	_
 apparens	apparent	ADJ	_
 ,	,	PONCT	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 elle	il	CLS	_
 exerce	exercer	V	_
 très	très	ADV	_
@@ -59064,7 +59172,7 @@ Olivier	Olivier	NP	_
 voyage	voyage	NC	_
 en	en	P	_
 *	*	PONCT	_
-égypte	égypte	ADJ	_
+égypte	Égypte	ADJ	_
 et	et	CC	_
 en	en	P	_
 Perse	Perse	NP	_
@@ -59117,7 +59225,7 @@ qui	qui	PROREL	_
 en	en	CLO	_
 est	être	V	_
 le	le	DET	_
-siége	siége	NC	_
+siége	siège	NC	_
 ;	;	PONCT	_
 et	et	CC	_
 encore	encore	ADV	_
@@ -59703,7 +59811,7 @@ grenouilles	grenouille	NC	_
 les	le	DET	_
 salamandres	salamandre	NC	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 )	)	PONCT	_
 cependant	cependant	ADV	_
 les	le	DET	_
@@ -59739,7 +59847,8 @@ pour	pour	P	_
 s'	se	CLO	_
 allonger	allonger	VINF	_
 ,	,	PONCT	_
-afin_de	afin_de	P	_
+afin	afin	ADV	_
+de	de	P	_
 passer	passer	VINF	_
 dans	dans	P	_
 des	un	DET	_
@@ -59798,7 +59907,7 @@ courtes	court	ADJ	_
 ne	ne	ADV	_
 pouvant	pouvoir	VPR	_
 être	être	VINF	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 au	à_le	P+D	_
 nombre	nombre	NC	_
 de	de	P	_
@@ -59882,7 +59991,7 @@ manquent	manquer	V	_
 plus	plus	ADV	_
 ou	ou	CC	_
 moins	moins	ADV	_
-complétement	complétement	ADV	_
+complétement	complètement	ADV	_
 ,	,	PONCT	_
 par	par	P	_
 défaut	défaut	NC	_
@@ -59902,7 +60011,7 @@ et	et	CC	_
 d'	de	P	_
 hémiptères	hémiptère	NC	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 ,	,	PONCT	_
 en	en	CLO	_
 offrent	offrir	V	_
@@ -59967,7 +60076,8 @@ espèce	espèce	NC	_
 il	il	CLS	_
 faut	falloir	V	_
 ,	,	PONCT	_
-en_outre	en_outre	ADV	_
+en	en	P	_
+outre	outre	P	_
 ,	,	PONCT	_
 faire	faire	VINF	_
 voir	voir	VINF	_
@@ -60059,7 +60169,7 @@ ces	ce	DET	_
 habitudes	habitude	NC	_
 .	.	PONCT	_
 *	*	X	_
-M	M	NC	_
+M	monsieur	NC	_
 Tenon	Tenon	NP	_
 ,	,	PONCT	_
 membre	membre	NC	_
@@ -60130,7 +60240,7 @@ sait	savoir	V	_
 que	que	CS	_
 les	le	DET	_
 grands	grand	ADJ	_
-buveurs	buveuse	NC	_
+buveurs	buveur	NC	_
 ,	,	PONCT	_
 ou	ou	CC	_
 ceux	celui	PRO	_
@@ -60217,7 +60327,7 @@ d'	de	P	_
 distendus	distendre	VPP	_
 dans	dans	P	_
 les	le	DET	_
-buveurs	buveuse	NC	_
+buveurs	buveur	NC	_
 ,	,	PONCT	_
 ainsi	ainsi	ADV	_
 que	que	CS	_
@@ -60431,7 +60541,8 @@ alimens	aliment	NC	_
 le	il	CLO	_
 remplira	remplir	V	_
 ,	,	PONCT	_
-tandis_que	tandis_que	CS	_
+tandis	tandis	ADV	_
+que	que	CS	_
 celui	celui	PRO	_
 du	de_le	P+D	_
 second	second	ADJ	_
@@ -60684,7 +60795,7 @@ canards	canard	NC	_
 des	un	DET	_
 oies	oie	NC	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 ,	,	PONCT	_
 se	se	CLO	_
 sont	être	V	_
@@ -60709,7 +60820,8 @@ pousser	pousser	VINF	_
 l'	le	DET	_
 eau	eau	NC	_
 ,	,	PONCT	_
-afin_d'	afin_de	P	_
+afin	afin	ADV	_
+d'	de	P	_
 avancer	avancer	VINF	_
 et	et	CC	_
 de	de	P	_
@@ -60745,7 +60857,7 @@ loutre	loutre	NC	_
 du	de_le	P+D	_
 castor	castor	NC	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 Au	à_le	P+D	_
 contraire	contraire	NC	_
 ,	,	PONCT	_
@@ -60772,7 +60884,7 @@ d'	de	P	_
 individus	individu	NC	_
 qui	qui	PROREL	_
 avoient	avoyer	V	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 contracté	contracter	VPP	_
 cette	ce	DET	_
 habitude	habitude	NC	_
@@ -61410,7 +61522,8 @@ leurs	leur	DET	_
 faces	face	NC	_
 aplaties	aplatir	VPP	_
 ,	,	PONCT	_
-afin_de	afin_de	P	_
+afin	afin	ADV	_
+de	de	P	_
 pouvoir	pouvoir	VINF	_
 s'	se	CLO	_
 approcher	approcher	VINF	_
@@ -61450,7 +61563,9 @@ ce	ce	PRO	_
 qui	qui	PROREL	_
 se	se	CLO	_
 trouve	trouver	V	_
-au-dessus	au-dessus	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 d'	de	P	_
 eux	il	PRO	_
 ,	,	PONCT	_
@@ -61491,7 +61606,7 @@ turbots	turbot	NC	_
 des	un	DET	_
 limandes	limande	NC	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 (	(	PONCT	_
 des	un	DET	_
 pleuronectes	pleuronecte	NC	_
@@ -61510,7 +61625,8 @@ est	être	V	_
 plus	plus	ADV	_
 symétrique	symétrique	ADJ	_
 ,	,	PONCT	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 elle	il	CLS	_
 résulte	résulter	V	_
 d'	de	P	_
@@ -61590,7 +61706,9 @@ objets	objet	NC	_
 ou	ou	CC	_
 qui	qui	PROREL	_
 sont	être	V	_
-au-dessus	au-dessus	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 d'	de	P	_
 eux	il	PRO	_
 .	.	PONCT	_
@@ -61640,7 +61758,9 @@ facilement	facilement	ADV	_
 ce	ce	PRO	_
 qui	qui	PROREL	_
 est	être	V	_
-au-dessus	au-dessus	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 d'	de	P	_
 eux	il	PRO	_
 ou	ou	CC	_
@@ -61702,7 +61822,7 @@ pu	pouvoir	VPP	_
 palper	palper	VINF	_
 ces	ce	DET	_
 corps	corps	NC	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 à	à	P	_
 l'	le	DET	_
 aide	aide	NC	_
@@ -61931,7 +62051,7 @@ n'	ne	ADV	_
 emploie	employer	V	_
 ses	son	DET	_
 pieds	pied	NC	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 à	à	P	_
 le	il	CLO	_
 soutenir	soutenir	VINF	_
@@ -62042,7 +62162,7 @@ buffles	buffle	NC	_
 ,	,	PONCT	_
 chevaux	cheval	NC	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 L'	le	DET	_
 habitude	habitude	NC	_
 de	de	P	_
@@ -62102,7 +62222,7 @@ servi	servir	VPP	_
 aucun	aucun	DET	_
 autre	autre	ADJ	_
 usage	usage	NC	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 à	à	P	_
 les	il	CLO	_
 soutenir	soutenir	VINF	_
@@ -62225,7 +62345,7 @@ ne	ne	ADV	_
 s'	se	CLO	_
 en	en	CLO	_
 trouve	trouver	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 un	un	DET	_
 seul	seul	ADJ	_
 dans	dans	P	_
@@ -62341,7 +62461,7 @@ antilopes	antilope	NC	_
 les	le	DET	_
 gazelles	gazelle	NC	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 D'	de	P	_
 autres	autre	ADJ	_
 dangers	danger	NC	_
@@ -62409,7 +62529,7 @@ pouvant	pouvoir	VPR	_
 employer	employer	VINF	_
 leurs	leur	DET	_
 pieds	pied	NC	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 à	à	P	_
 les	il	CLO	_
 soutenir	soutenir	VINF	_
@@ -62427,7 +62547,7 @@ qui	qui	PROREL	_
 ne	ne	ADV	_
 sont	être	V	_
 exercées	exercer	VPP	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 à	à	P	_
 couper	couper	VINF	_
 et	et	CC	_
@@ -62439,7 +62559,7 @@ ne	ne	ADV	_
 peuvent	pouvoir	V	_
 se	se	CLO	_
 battre	battre	VINF	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 à	à	P	_
 coups	coup	NC	_
 de	de	P	_
@@ -62916,7 +63036,8 @@ un	un	DET	_
 autre	autre	ADJ	_
 animal	animal	NC	_
 ,	,	PONCT	_
-afin_de	afin_de	P	_
+afin	afin	ADV	_
+de	de	P	_
 s'	se	CLO	_
 y	y	CLO	_
 accrocher	accrocher	VINF	_
@@ -63011,7 +63132,7 @@ la	le	DET	_
 formation	formation	NC	_
 de	de	P	_
 ces	ce	DET	_
-gaînes	gaînes	NC	_
+gaînes	gaine	NC	_
 particulières	particulier	ADJ	_
 ,	,	PONCT	_
 dans	dans	P	_
@@ -63025,7 +63146,7 @@ tigres	tigre	NC	_
 les	le	DET	_
 lions	lion	NC	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 ,	,	PONCT	_
 retirent	retirer	V	_
 leurs	leur	DET	_
@@ -63138,7 +63259,7 @@ que	que	PROREL	_
 nous	nous	CLS	_
 offre	offrir	V	_
 le	le	DET	_
-kanguroo	kanguroo	NC	_
+kanguroo	kangourou	NC	_
 ?	?	PONCT	_
 cet	ce	DET	_
 animal	animal	NC	_
@@ -63640,7 +63761,7 @@ nécessaires	nécessaire	ADJ	_
 Il	il	CLS	_
 ne	ne	ADV	_
 faut	falloir	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 observer	observer	VINF	_
 attentivement	attentivement	ADV	_
 ce	ce	PRO	_
@@ -63661,7 +63782,7 @@ de	de	P	_
 cette	ce	DET	_
 cause	cause	NC	_
 des	de_le	P+D	_
-développemens	développemens	NC	_
+développemens	développement	NC	_
 et	et	CC	_
 des	un	DET	_
 changemens	changement	NC	_
@@ -64004,9 +64125,9 @@ organes	organe	NC	_
 leurs	leur	DET	_
 facultés	faculté	NC	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 ,	,	PONCT	_
 sont	être	V	_
 partout	partout	ADV	_
@@ -64135,7 +64256,7 @@ il	il	CLS	_
 ne	ne	ADV	_
 peut	pouvoir	V	_
 faire	faire	VINF	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 une	un	DET	_
 cinquantaine	cinquantaine	NC	_
 de	de	P	_
@@ -64381,7 +64502,8 @@ espèce	espèce	NC	_
 d'	de	P	_
 inaction	inaction	NC	_
 ,	,	PONCT	_
-afin_d'	afin_de	P	_
+afin	afin	ADV	_
+d'	de	P	_
 éviter	éviter	VINF	_
 de	de	P	_
 tomber	tomber	VINF	_
@@ -64580,7 +64702,7 @@ ou	ou	CC	_
 de	de	P	_
 se	se	CLO	_
 redresser	redresser	VINF	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 ensemble	ensemble	ADV	_
 ;	;	PONCT	_
 4)	4)	X	_
@@ -64681,7 +64803,8 @@ pourra	pouvoir	V	_
 jamais	jamais	ADV	_
 contester	contester	VINF	_
 ,	,	PONCT	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 en	en	P	_
 effet	effet	NC	_
 ,	,	PONCT	_
@@ -65231,9 +65354,9 @@ enfoncée	enfoncer	VPP	_
 son	son	DET	_
 climat	climat	NC	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 ;	;	PONCT	_
 et	et	CC	_
 prouver	prouver	VINF	_
@@ -66145,7 +66268,7 @@ successivement	successivement	ADV	_
 ,	,	PONCT	_
 et	et	CC	_
 non	non	ADV	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 à	à	P	_
 la	le	DET	_
 fois	fois	NC	_
@@ -66186,7 +66309,7 @@ commencé	commencer	VPP	_
 n'	ne	ADV	_
 ayant	avoir	VPR	_
 produit	produire	VPP	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 en	en	P	_
 dernier	dernier	ADJ	_
 lieu	lieu	NC	_
@@ -66347,7 +66470,8 @@ devons	devoir	V	_
 le	il	CLO	_
 faire	faire	VINF	_
 ,	,	PONCT	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 c'	ce	CLS	_
 est	être	V	_
 la	le	DET	_
@@ -66357,15 +66481,18 @@ qui	qui	PROREL	_
 l'	il	CLO	_
 indique	indiquer	V	_
 ,	,	PONCT	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 la	le	DET	_
 raison	raison	NC	_
 le	il	CLO	_
 veut	vouloir	V	_
 ,	,	PONCT	_
 mais	mais	CC	_
-en_outre	en_outre	ADV	_
-parce_que	parce_que	CS	_
+en	en	P	_
+outre	outre	P	_
+parce	parce	ADV	_
+que	que	CS	_
 l'	le	DET	_
 ordre	ordre	NC	_
 naturel	naturel	ADJ	_
@@ -66577,7 +66704,7 @@ n'	ne	ADV	_
 eût	avoir	V	_
 pu	pouvoir	VPP	_
 créer	créer	VINF	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 une	un	DET	_
 seule	seul	ADJ	_
 race	race	NC	_
@@ -66669,7 +66796,7 @@ organisation	organisation	NC	_
 et	et	CC	_
 tous	tout	ADJ	_
 les	le	DET	_
-perfectionnemens	perfectionnemens	NC	_
+perfectionnemens	perfectionnement	NC	_
 acquis	acquérir	VPP	_
 ,	,	PONCT	_
 elle	il	CLS	_
@@ -66728,7 +66855,7 @@ elles	il	CLS	_
 n'	ne	ADV	_
 ont	avoir	V	_
 lieu	lieu	NC	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 à	à	P	_
 l'	le	DET	_
 aide	aide	NC	_
@@ -66989,7 +67116,8 @@ et	et	CC	_
 les	le	DET	_
 preuves	preuve	NC	_
 ,	,	PONCT	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 on	on	CLS	_
 manquoit	manquer	V	_
 alors	alors	ADV	_
@@ -67277,7 +67405,8 @@ le	le	DET	_
 plus	plus	ADV	_
 composé	composer	VPP	_
 .	.	PONCT	_
-Afin_de	afin_de	P	_
+Afin	afin	ADV	_
+de	de	P	_
 rendre	rendre	VINF	_
 plus	plus	ADV	_
 distincts	distinct	ADJ	_
@@ -68162,7 +68291,8 @@ qui	qui	PROREL	_
 les	il	CLO	_
 forment	former	V	_
 ;	;	PONCT	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 cette	ce	DET	_
 disposition	disposition	NC	_
 est	être	V	_
@@ -68265,7 +68395,8 @@ subordonnées	subordonner	VPP	_
 aux	à_le	P+D	_
 classes	classe	NC	_
 ,	,	PONCT	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 les	le	DET	_
 rapports	rapport	NC	_
 entre	entre	P	_
@@ -68412,7 +68543,7 @@ ne	ne	ADV	_
 donnerai	donner	V	_
 cependant	cependant	ADV	_
 ici	ici	ADV	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 une	un	DET	_
 simple	simple	ADJ	_
 liste	liste	NC	_
@@ -68502,7 +68633,8 @@ dans	dans	P	_
 cette	ce	DET	_
 liste	liste	NC	_
 ,	,	PONCT	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 je	je	CLS	_
 n'	ne	ADV	_
 ai	avoir	V	_
@@ -68975,7 +69107,7 @@ petit	petit	ADJ	_
 ,	,	PONCT	_
 n'	ne	ADV	_
 offre	offrir	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 un	un	DET	_
 point	point	NC	_
 gélatineux	gélatineux	ADJ	_
@@ -69176,7 +69308,7 @@ cette	ce	DET	_
 classe	classe	NC	_
 ;	;	PONCT	_
 déjà	déjà	ADV	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 sont	être	V	_
 munis	munir	VPP	_
 d'	de	P	_
@@ -69779,7 +69911,7 @@ fait	faire	V	_
 nouvelles	nouveau	ADJ	_
 ,	,	PONCT	_
 qui	qui	PROREL	_
-toutes	tous	PRO	_
+toutes	tout	PRO	_
 néanmoins	néanmoins	ADV	_
 se	se	CLO	_
 rapportent	rapporter	V	_
@@ -70008,7 +70140,8 @@ blanchâtres	blanchâtre	ADJ	_
 ,	,	PONCT	_
 et	et	CC	_
 ,	,	PONCT	_
-en_outre	en_outre	ADV	_
+en	en	P	_
+outre	outre	P	_
 ,	,	PONCT	_
 à	à	P	_
 l'	le	DET	_
@@ -70113,7 +70246,9 @@ de	de	P	_
 ces	ce	DET	_
 animaux	animal	NC	_
 ,	,	PONCT	_
-au-dessous	au-dessous	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessous	dessous	ADV	_
 de	de	P	_
 l'	le	DET	_
 estomac	estomac	NC	_
@@ -70152,7 +70287,8 @@ il	il	CLS	_
 y	y	CLO	_
 vit	vivre	V	_
 ,	,	PONCT	_
-en_outre	en_outre	ADV	_
+en	en	P	_
+outre	outre	P	_
 ,	,	PONCT	_
 quatre	quatre	DET	_
 ovaires	ovaire	NC	_
@@ -70779,7 +70915,8 @@ les	le	DET	_
 moins	moins	ADV	_
 prononcés	prononcer	VPP	_
 ;	;	PONCT	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 se	se	CLO	_
 trouvant	trouver	VPR	_
 sur	sur	P	_
@@ -71010,13 +71147,13 @@ de	de	P	_
 parties	partie	NC	_
 paires	pair	ADJ	_
 ,	,	PONCT	_
-auquel	auquel	PROREL	_
+auquel	à_lequel	PROREL	_
 elle	il	CLS	_
 n'	ne	ADV	_
 a	avoir	V	_
 pu	pouvoir	VPP	_
 arriver	arriver	VINF	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 en	en	P	_
 établissant	établir	VPR	_
 celui	celui	PRO	_
@@ -71442,7 +71579,7 @@ végétaux	végétal	NC	_
 ne	ne	ADV	_
 peuvent	pouvoir	V	_
 fournir	fournir	VINF	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 à	à	P	_
 une	un	DET	_
 seule	seul	ADJ	_
@@ -71695,7 +71832,7 @@ muni	munir	VPP	_
 ou	ou	CC	_
 dépourvu	dépourvoir	VPP	_
 de	de	P	_
-gaîne	gaîner	V	_
+gaîne	gaine	NC	_
 .	.	PONCT	_
 ordre	ordre	NC	_
 ier	ier	ADJ	_
@@ -71825,7 +71962,7 @@ poitrine	poitrine	NC	_
 ,	,	PONCT	_
 servant	servir	VPR	_
 de	de	P	_
-gaîne	gaîner	V	_
+gaîne	gaine	NC	_
 à	à	P	_
 un	un	DET	_
 suçoir	suçoir	NC	_
@@ -71902,7 +72039,7 @@ pièces	pièce	NC	_
 ,	,	PONCT	_
 dépourvu	dépourvoir	VPP	_
 de	de	P	_
-gaîne	gaîner	V	_
+gaîne	gaine	NC	_
 ,	,	PONCT	_
 imitant	imiter	VPR	_
 une	un	DET	_
@@ -72030,7 +72167,7 @@ est	être	V	_
 renfermée	renfermer	VPP	_
 dans	dans	P	_
 une	un	DET	_
-gaîne	gaîne	NC	_
+gaîne	gaine	NC	_
 courte	court	ADJ	_
 .	.	PONCT	_
 quatre	quatre	DET	_
@@ -72547,7 +72684,7 @@ géotrupe	géotrupe	NC	_
 ,	,	PONCT	_
 bousier	bousier	NC	_
 ,	,	PONCT	_
-scarabé	scarabé	NC	_
+scarabé	scarabée	NC	_
 ,	,	PONCT	_
 passale	passale	NC	_
 ,	,	PONCT	_
@@ -72691,7 +72828,8 @@ de	de	P	_
 leur	leur	DET	_
 vie	vie	NC	_
 ;	;	PONCT	_
-tandis_que	tandis_que	CS	_
+tandis	tandis	ADV	_
+que	que	CS	_
 dans	dans	P	_
 les	le	DET	_
 insectes	insecte	NC	_
@@ -72708,7 +72846,7 @@ végétaux	végétal	NC	_
 ne	ne	ADV	_
 peuvent	pouvoir	V	_
 exécuter	exécuter	VINF	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 une	un	DET	_
 seule	seul	ADJ	_
 fécondation	fécondation	NC	_
@@ -72738,7 +72876,7 @@ les	le	DET	_
 observations	observation	NC	_
 de	de	P	_
 *	*	X	_
-M	M	NC	_
+M	monsieur	NC	_
 Cuvier	Cuvier	NP	_
 ,	,	PONCT	_
 on	on	CLS	_
@@ -72899,7 +73037,7 @@ nous	nous	CLS	_
 apprend	apprendre	V	_
 encore	encore	ADV	_
 *	*	PONCT	_
-M	M	NC	_
+M	monsieur	NC	_
 Cuvier	Cuvier	NP	_
 ,	,	PONCT	_
 et	et	CC	_
@@ -73247,7 +73385,7 @@ dont	dont	PROREL	_
 on	on	CLS	_
 ne	ne	ADV	_
 trouve	trouver	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 une	un	DET	_
 simple	simple	ADJ	_
 ébauche	ébauche	NC	_
@@ -73256,7 +73394,7 @@ les	le	DET	_
 arachnides	arachnide	NC	_
 ,	,	PONCT	_
 est	être	V	_
-complétement	complétement	ADV	_
+complétement	complètement	ADV	_
 établie	établir	VPP	_
 dans	dans	P	_
 les	le	DET	_
@@ -73386,7 +73524,7 @@ avec	avec	P	_
 leurs	leur	DET	_
 branchies	branchie	NC	_
 :	:	PONCT	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 ne	ne	ADV	_
 se	se	CLO	_
 nourrissent	nourrir	V	_
@@ -73733,7 +73871,7 @@ tiennent	tenir	V	_
 lieu	lieu	NC	_
 :	:	PONCT	_
 presque	presque	ADV	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 sont	être	V	_
 des	un	DET	_
 suceurs	suceur	NC	_
@@ -73869,7 +74007,7 @@ on	on	CLS	_
 ne	ne	ADV	_
 connoisse	connaître	V	_
 encore	encore	ADV	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 un	un	DET	_
 petit	petit	ADJ	_
 nombre	nombre	NC	_
@@ -73936,7 +74074,7 @@ leurs	leur	DET	_
 bras	bras	NC	_
 articulés	articulé	ADJ	_
 empêchent	empêcher	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 on	on	CLS	_
 ne	ne	ADV	_
 les	il	CLO	_
@@ -74093,7 +74231,7 @@ une	un	DET	_
 plus	plus	ADV	_
 ou	ou	CC	_
 moins	moins	ADV	_
-complétement	complétement	ADV	_
+complétement	complètement	ADV	_
 enchâssée	enchâsser	VPP	_
 dans	dans	P	_
 leur	leur	DET	_
@@ -75024,7 +75162,7 @@ squelette	squelette	NC	_
 ,	,	PONCT	_
 fournit	fournir	V	_
 une	un	DET	_
-gaîne	gaîne	NC	_
+gaîne	gaine	NC	_
 à	à	P	_
 leur	leur	DET	_
 moelle	moelle	NC	_
@@ -75319,7 +75457,7 @@ des	de_le	P+D	_
 articulations	articulation	NC	_
 n'	ne	ADV	_
 est	être	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 intérieur	intérieur	ADJ	_
 ,	,	PONCT	_
 et	et	CC	_
@@ -75355,12 +75493,12 @@ l'	le	DET	_
 ouvrage	ouvrage	NC	_
 de	de	P	_
 *	*	PONCT	_
-M	M	NC	_
+M	monsieur	NC	_
 Duméril	Duméril	NP	_
 ,	,	PONCT	_
 intitulé	intitulé	ADJ	_
 zoologie	zoologie	NC	_
-analitique	analitique	ADJ	_
+analitique	analytique	ADJ	_
 ,	,	PONCT	_
 et	et	CC	_
 je	je	CLS	_
@@ -75401,7 +75539,9 @@ nombre	nombre	NC	_
 point	point	NC	_
 d'	de	P	_
 opercule	opercule	NC	_
-au-dessus	au-dessus	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 des	de_le	P+D	_
 branchies	branchie	NC	_
 ,	,	PONCT	_
@@ -75448,7 +75588,9 @@ aodon	aodon	NC	_
 point	point	NC	_
 d'	de	P	_
 opercule	opercule	NC	_
-au-dessus	au-dessus	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 des	de_le	P+D	_
 branchies	branchie	NC	_
 ,	,	PONCT	_
@@ -75486,7 +75628,9 @@ chimère	chimère	NC	_
 .	.	PONCT	_
 un	un	DET	_
 opercule	opercule	NC	_
-au-dessus	au-dessus	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 des	de_le	P+D	_
 branchies	branchie	NC	_
 ,	,	PONCT	_
@@ -75520,7 +75664,9 @@ opercule	opercule	NC	_
 et	et	CC	_
 une	un	DET	_
 membrane	membrane	NC	_
-au-dessus	au-dessus	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 des	de_le	P+D	_
 branchies	branchie	NC	_
 .	.	PONCT	_
@@ -75593,7 +75739,9 @@ opercule	opercule	NC	_
 et	et	CC	_
 une	un	DET	_
 membrane	membrane	NC	_
-au-dessus	au-dessus	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 des	de_le	P+D	_
 branchies	branchie	NC	_
 .	.	PONCT	_
@@ -75666,7 +75814,9 @@ sous	sous	P	_
 la	le	DET	_
 gorge	gorge	NC	_
 ,	,	PONCT	_
-au-devant	au-devant	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+devant	devant	ADV	_
 des	de_le	P+D	_
 thoraciques	thoracique	ADJ	_
 .	.	PONCT	_
@@ -76121,7 +76271,9 @@ scombrésoce	scombrésoce	NC	_
 .	.	PONCT	_
 un	un	DET	_
 opercule	opercule	NC	_
-au-dessus	au-dessus	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 des	de_le	P+D	_
 branchies	branchie	NC	_
 ,	,	PONCT	_
@@ -76140,7 +76292,9 @@ sternoptyx	sternoptyx	ET	_
 point	point	NC	_
 d'	de	P	_
 opercule	opercule	NC	_
-au-dessus	au-dessus	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 des	de_le	P+D	_
 branchies	branchie	NC	_
 ,	,	PONCT	_
@@ -76163,7 +76317,9 @@ opercule	opercule	NC	_
 ni	ni	CC	_
 de	de	P	_
 membrane	membrane	NC	_
-au-dessus	au-dessus	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 des	de_le	P+D	_
 branchies	branchie	NC	_
 ;	;	PONCT	_
@@ -76219,7 +76375,7 @@ le	le	DET	_
 plus	plus	ADV	_
 imparfait	imparfait	ADJ	_
 de	de	P	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 doit	devoir	V	_
 être	être	VINF	_
 le	le	DET	_
@@ -76258,7 +76414,8 @@ premier	premier	NC	_
 des	de_le	P+D	_
 poissons	poisson	NC	_
 ,	,	PONCT	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 il	il	CLS	_
 est	être	V	_
 le	le	DET	_
@@ -76387,7 +76544,7 @@ n'	ne	ADV	_
 y	y	CLO	_
 est	être	V	_
 encore	encore	ADV	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 ébauché	ébaucher	VPP	_
 ,	,	PONCT	_
 et	et	CC	_
@@ -76410,7 +76567,7 @@ vérité	vérité	NC	_
 ils	il	CLS	_
 ne	ne	ADV	_
 respirent	respirer	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 incomplétement	incomplétement	ADV	_
 ;	;	PONCT	_
 car	car	CC	_
@@ -76418,7 +76575,7 @@ il	il	CLS	_
 n'	ne	ADV	_
 y	y	CLO	_
 a	avoir	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 une	un	DET	_
 partie	partie	NC	_
 du	de_le	P+D	_
@@ -76831,7 +76988,7 @@ qu'	que	CS	_
 ils	il	CLS	_
 ne	ne	ADV	_
 partagent	partager	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 avec	avec	P	_
 les	le	DET	_
 animaux	animal	NC	_
@@ -76890,7 +77047,7 @@ diaphragme	diaphragme	NC	_
 de	de	P	_
 vessie	vessie	NC	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 ,	,	PONCT	_
 et	et	CC	_
 qu'	que	PROREL	_
@@ -77480,7 +77637,7 @@ guillemot	guillemot	NC	_
 ,	,	PONCT	_
 alque	alque	NC	_
 ,	,	PONCT	_
-pingoin	pingoin	NC	_
+pingoin	pingouin	NC	_
 ,	,	PONCT	_
 manchot	manchot	NC	_
 .	.	PONCT	_
@@ -77516,7 +77673,7 @@ lèvres	lèvre	NC	_
 et	et	CC	_
 n'	ne	ADV	_
 ont	avoir	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 un	un	DET	_
 orifice	orifice	NC	_
 pour	pour	P	_
@@ -77914,7 +78071,7 @@ qui	qui	PROREL	_
 ne	ne	ADV	_
 sont	être	V	_
 propres	propre	ADJ	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 à	à	P	_
 marcher	marcher	VINF	_
 :	:	PONCT	_
@@ -78329,7 +78486,8 @@ nom	nom	NC	_
 de	de	P	_
 bimanes	bimane	NC	_
 ,	,	PONCT	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 en	en	P	_
 effet	effet	NC	_
 les	le	DET	_
@@ -78348,7 +78506,8 @@ opposé	opposer	VPP	_
 aux	à_le	P+D	_
 doigts	doigt	NC	_
 ;	;	PONCT	_
-tandis_que	tandis_que	CS	_
+tandis	tandis	ADV	_
+que	que	CS	_
 dans	dans	P	_
 les	le	DET	_
 quadrumanes	quadrumane	NC	_
@@ -78596,7 +78755,8 @@ qu'	que	CS	_
 à	à	P	_
 marcher	marcher	VINF	_
 .	.	PONCT	_
-En_outre	en_outre	ADV	_
+En	en	P	_
+outre	outre	P	_
 ,	,	PONCT	_
 si	si	CS	_
 les	le	DET	_
@@ -78734,7 +78894,7 @@ ne	ne	ADV	_
 les	il	CLO	_
 fissent	faire	V	_
 servir	servir	VINF	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 à	à	P	_
 la	le	DET	_
 mastication	mastication	NC	_
@@ -78963,7 +79123,8 @@ de	de	P	_
 leurs	leur	DET	_
 facultés	faculté	NC	_
 ,	,	PONCT	_
-tandis_qu'	tandis_que	CS	_
+tandis	tandis	ADV	_
+qu'	que	CS	_
 elle	il	PRO	_
 -même	même	ADJ	_
 ,	,	PONCT	_
@@ -79322,7 +79483,7 @@ puisque	puisque	CS	_
 ,	,	PONCT	_
 dans	dans	P	_
 ses	son	DET	_
-déplacemens	déplacemens	NC	_
+déplacemens	déplacement	NC	_
 ,	,	PONCT	_
 il	il	CLS	_
 en	en	CLO	_
@@ -79395,7 +79556,7 @@ tenir	tenir	VINF	_
 debout	debout	ADV	_
 dans	dans	P	_
 ses	son	DET	_
-déplacemens	déplacemens	NC	_
+déplacemens	déplacement	NC	_
 ,	,	PONCT	_
 cette	ce	DET	_
 attitude	attitude	NC	_
@@ -79480,7 +79641,7 @@ Or	or	CC	_
 qui	qui	PROREL	_
 ne	ne	ADV	_
 sait	savoir	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 il	il	CLS	_
 n'	ne	ADV	_
 en	en	CLO	_
@@ -79538,7 +79699,7 @@ une	un	DET	_
 base	base	NC	_
 oblique	oblique	ADJ	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 ?	?	PONCT	_
 Aussi	aussi	ADV	_
 ,	,	PONCT	_
@@ -79546,7 +79707,7 @@ comme	comme	CS	_
 l'	il	CLO	_
 observe	observer	V	_
 *	*	X	_
-M	M	NC	_
+M	monsieur	NC	_
 Richerand	Richerand	NP	_
 ,	,	PONCT	_
 est	être	V	_
@@ -79640,7 +79801,7 @@ qui	qui	PROREL	_
 le	il	CLO	_
 soutient	soutenir	V	_
 ...	…	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 "	"	PONCT	_
 cette	ce	DET	_
 disposition	disposition	NC	_
@@ -79978,7 +80139,7 @@ nouvelles	nouveau	ADJ	_
 n'	ne	ADV	_
 en	en	CLO	_
 ont	avoir	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 un	un	DET	_
 petit	petit	ADJ	_
 nombre	nombre	NC	_
@@ -80144,7 +80305,7 @@ n'	ne	ADV	_
 en	en	CLO	_
 auront	avoir	V	_
 employé	employer	VPP	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 un	un	DET	_
 petit	petit	ADJ	_
 nombre	nombre	NC	_
@@ -80575,7 +80736,7 @@ avec	avec	P	_
 leurs	leur	DET	_
 agrégés	agrégé	NC	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 ;	;	PONCT	_
 ainsi	ainsi	ADV	_
 ces	ce	DET	_
@@ -80785,7 +80946,7 @@ nature	nature	NC	_
 entière	entier	ADJ	_
 n'	ne	ADV	_
 est	être	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 un	un	DET	_
 effet	effet	NC	_
 :	:	PONCT	_
@@ -81375,7 +81536,8 @@ qu'	que	PROREL	_
 ils	il	CLS	_
 méritent	mériter	V	_
 ;	;	PONCT	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 ils	il	CLS	_
 ont	avoir	V	_
 à	à	P	_
@@ -81479,7 +81641,7 @@ a	avoir	V	_
 su	savoir	VPP	_
 prouver	prouver	VINF	_
 *	*	PONCT	_
-M	M	NC	_
+M	monsieur	NC	_
 Cabanis	Cabanis	NP	_
 ,	,	PONCT	_
 par	par	P	_
@@ -81676,7 +81838,7 @@ les	le	DET	_
 causes	cause	NC	_
 et	et	CC	_
 les	le	DET	_
-développemens	développemens	NC	_
+développemens	développement	NC	_
 de	de	P	_
 ces	ce	DET	_
 facultés	faculté	NC	_
@@ -81850,7 +82012,8 @@ du	de_le	P+D	_
 système	système	NC	_
 ,	,	PONCT	_
 et	et	CC	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 ce	ce	DET	_
 système	système	NC	_
 est	être	V	_
@@ -81982,7 +82145,7 @@ diffèrent	différer	V	_
 ,	,	PONCT	_
 en	en	P	_
 ce	ce	PRO	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 ils	il	CLS	_
 peuvent	pouvoir	V	_
 être	être	VINF	_
@@ -82019,7 +82182,8 @@ ils	il	CLS	_
 s'	se	CLO	_
 exécutent	exécuter	V	_
 ;	;	PONCT	_
-tandis_que	tandis_que	CS	_
+tandis	tandis	ADV	_
+que	que	CS	_
 ceux	celui	PRO	_
 de	de	P	_
 la	le	DET	_
@@ -82447,7 +82611,8 @@ d'	de	P	_
 entre	entre	P	_
 eux	il	PRO	_
 ,	,	PONCT	_
-afin_que	afin_que	CS	_
+afin	afin	ADV	_
+que	que	CS	_
 ,	,	PONCT	_
 les	le	DET	_
 ayant	avoir	VPR	_
@@ -82537,7 +82702,7 @@ ceux	celui	PRO	_
 qui	qui	PROREL	_
 ne	ne	ADV	_
 reçoivent	recevoir	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 indirectement	indirectement	ADV	_
 l'	le	DET	_
 existence	existence	NC	_
@@ -82850,7 +83015,8 @@ existent	exister	V	_
 On	on	CLS	_
 verra	voir	V	_
 ,	,	PONCT	_
-en_outre	en_outre	ADV	_
+en	en	P	_
+outre	outre	P	_
 ,	,	PONCT	_
 que	que	CS	_
 toutes	tout	ADJ	_
@@ -82861,7 +83027,7 @@ sans	sans	P	_
 exception	exception	NC	_
 ,	,	PONCT	_
 sont	être	V	_
-complétement	complétement	ADV	_
+complétement	complètement	ADV	_
 physiques	physique	ADJ	_
 ,	,	PONCT	_
 c'est-à-dire	c'est-à-dire	CC	_
@@ -82989,7 +83155,8 @@ fondamentales	fondamental	ADJ	_
 bien	bien	ADV	_
 reconnues	reconnaître	VPP	_
 ,	,	PONCT	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 j'	je	CLS	_
 aperçois	apercevoir	V	_
 qu'	que	CS	_
@@ -83346,7 +83513,8 @@ composés	composer	VPP	_
 qui	qui	PROREL	_
 existent	exister	V	_
 .	.	PONCT	_
-Quant_aux	quant_à_le	P+D	_
+quant	quant	ADV	_
+aux	à_le	P+D	_
 mouvemens	mouvement	NC	_
 constans	constant	ADJ	_
 ,	,	PONCT	_
@@ -83699,7 +83867,7 @@ ceux	celui	PRO	_
 qui	qui	PROREL	_
 appartiennent	appartenir	V	_
 aux	à_le	P+D	_
-développemens	développemens	NC	_
+développemens	développement	NC	_
 de	de	P	_
 cette	ce	DET	_
 organisation	organisation	NC	_
@@ -83764,7 +83932,7 @@ masses	masse	NC	_
 celluleuses	celluleux	ADJ	_
 de	de	P	_
 fluides	fluide	ADJ	_
-contenables	contenables	NC	_
+contenables	contenable	NC	_
 ;	;	PONCT	_
 et	et	CC	_
 à	à	P	_
@@ -83774,7 +83942,7 @@ en	en	P	_
 mettant	mettre	VPR	_
 ces	ce	DET	_
 fluides	fluide	NC	_
-contenables	contenables	ADJ	_
+contenables	contenable	ADJ	_
 en	en	P	_
 mouvement	mouvement	NC	_
 ,	,	PONCT	_
@@ -83830,7 +83998,7 @@ du	de_le	P+D	_
 mouvement	mouvement	NC	_
 des	de_le	P+D	_
 fluides	fluide	NC	_
-contenables	contenables	ADJ	_
+contenables	contenable	ADJ	_
 qui	qui	PROREL	_
 ont	avoir	V	_
 graduellement	graduellement	ADV	_
@@ -83974,7 +84142,8 @@ unit	unir	V	_
 aux	à_le	P+D	_
 organes	organe	NC	_
 ,	,	PONCT	_
-tandis_que	tandis_que	CS	_
+tandis	tandis	ADV	_
+que	que	CS	_
 l'	le	DET	_
 autre	autre	NC	_
 est	être	V	_
@@ -84421,7 +84590,8 @@ est	être	V	_
 sans	sans	P	_
 doute	doute	NC	_
 ,	,	PONCT	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 on	on	CLS	_
 n'	ne	ADV	_
 a	avoir	V	_
@@ -84515,7 +84685,7 @@ doute	doute	NC	_
 ,	,	PONCT	_
 de	un	DET	_
 grands	grand	ADJ	_
-développemens	développemens	NC	_
+développemens	développement	NC	_
 ;	;	PONCT	_
 mais	mais	CC	_
 je	je	CLS	_
@@ -85246,7 +85416,7 @@ au	à_le	P+D	_
 contraire	contraire	NC	_
 ,	,	PONCT	_
 offrent	offrir	V	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 ,	,	PONCT	_
 à	à	P	_
 peu	peu	ADV	_
@@ -85296,7 +85466,7 @@ autres	autre	NC	_
 ;	;	PONCT	_
 car	car	CC	_
 ,	,	PONCT	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 elles	il	CLS	_
 soient	être	V	_
 réunies	réunir	VPP	_
@@ -85392,7 +85562,8 @@ unes	un	NC	_
 des	de_le	P+D	_
 autres	autre	NC	_
 ;	;	PONCT	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 elles	il	CLS	_
 sont	être	V	_
 toutes	tout	ADV	_
@@ -85410,13 +85581,14 @@ les	le	DET	_
 fait	fait	NC	_
 agir	agir	VINF	_
 ;	;	PONCT	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 cette	ce	DET	_
 cause	cause	NC	_
 les	le	DET	_
 fait	fait	NC	_
 concourir	concourir	VINF	_
-toutes	tous	PRO	_
+toutes	tout	PRO	_
 à	à	P	_
 une	un	DET	_
 fin	fin	NC	_
@@ -85434,7 +85606,8 @@ individu	individu	NC	_
 entier	entier	ADJ	_
 ;	;	PONCT	_
 et	et	CC	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 les	le	DET	_
 variations	variation	NC	_
 de	de	P	_
@@ -85659,7 +85832,7 @@ des	un	DET	_
 renouvellemens	renouvellement	NC	_
 ,	,	PONCT	_
 des	de_le	P+D	_
-développemens	développemens	NC	_
+développemens	développement	NC	_
 ,	,	PONCT	_
 et	et	CC	_
 à	à	P	_
@@ -86055,7 +86228,7 @@ qui	qui	PROREL	_
 ,	,	PONCT	_
 par	par	P	_
 des	un	DET	_
-développemens	développemens	NC	_
+développemens	développement	NC	_
 ,	,	PONCT	_
 font	faire	V	_
 exister	exister	VINF	_
@@ -86383,7 +86556,7 @@ inorganiques	inorganique	ADJ	_
 !	!	PONCT	_
 Quoique	quoique	CS	_
 *	*	PONCT	_
-M	M	NC	_
+M	monsieur	NC	_
 Richerand	Richerand	NP	_
 ,	,	PONCT	_
 dans	dans	P	_
@@ -86412,13 +86585,14 @@ reproduire	reproduire	VINF	_
 ici	ici	ADV	_
 avec	avec	P	_
 des	un	DET	_
-développemens	développemens	NC	_
+développemens	développement	NC	_
 qui	qui	PROREL	_
 me	je	CLO	_
 sont	être	V	_
 propres	propre	ADJ	_
 ;	;	PONCT	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 les	le	DET	_
 considérations	considération	NC	_
 qu'	que	PROREL	_
@@ -86687,7 +86861,7 @@ limité	limiter	VPP	_
 ,	,	PONCT	_
 par	par	P	_
 des	un	DET	_
-développemens	développemens	NC	_
+développemens	développement	NC	_
 intérieurs	intérieur	ADJ	_
 ;	;	PONCT	_
 forment	former	V	_
@@ -86715,7 +86889,7 @@ espèce	espèce	NC	_
 enfin	enfin	ADV	_
 ,	,	PONCT	_
 arrivent	arriver	V	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 à	à	P	_
 un	un	DET	_
 terme	terme	NC	_
@@ -86925,7 +87099,8 @@ des	de_le	P+D	_
 parties	partie	NC	_
 ,	,	PONCT	_
 agissent	agir	V	_
-en_outre	en_outre	ADV	_
+en	en	P	_
+outre	outre	P	_
 sur	sur	P	_
 les	le	DET	_
 fluides	fluide	NC	_
@@ -86937,7 +87112,7 @@ donnent	donner	V	_
 lieu	lieu	NC	_
 ,	,	PONCT	_
 dans	dans	P	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 ,	,	PONCT	_
 à	à	P	_
 l'	le	DET	_
@@ -87021,7 +87196,8 @@ exposés	exposer	VPP	_
 l'	le	DET	_
 air	air	NC	_
 .	.	PONCT	_
-Quant_aux	quant_à_le	P+D	_
+quant	quant	ADV	_
+aux	à_le	P+D	_
 autres	autre	ADJ	_
 mouvemens	mouvement	NC	_
 qu'	que	PROREL	_
@@ -87191,7 +87367,7 @@ air	air	NC	_
 affectent	affecter	V	_
 dans	dans	P	_
 leurs	leur	DET	_
-développemens	développemens	NC	_
+développemens	développement	NC	_
 deux	deux	DET	_
 directions	direction	NC	_
 opposées	opposé	ADJ	_
@@ -87232,7 +87408,8 @@ le	le	DET	_
 noeud	nœud	NC	_
 vital	vital	ADJ	_
 ;	;	PONCT	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 la	le	DET	_
 vie	vie	NC	_
 se	se	CLO	_
@@ -87267,7 +87444,8 @@ y	y	CLO	_
 exister	exister	VINF	_
 ;	;	PONCT	_
 et	et	CC	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 l'	le	DET	_
 organisation	organisation	NC	_
 de	de	P	_
@@ -87294,7 +87472,7 @@ tout	tout	PRO	_
 fait	faire	V	_
 particulière	particulier	ADJ	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 ;	;	PONCT	_
 or	or	CC	_
 ,	,	PONCT	_
@@ -87367,7 +87545,7 @@ graines	graine	NC	_
 ,	,	PONCT	_
 les	le	DET	_
 premiers	premier	NC	_
-développemens	développemens	NC	_
+développemens	développement	NC	_
 du	de_le	P+D	_
 jeune	jeune	ADJ	_
 végétal	végétal	NC	_
@@ -87449,7 +87627,7 @@ les	le	DET	_
 animaux	animal	NC	_
 .	.	PONCT	_
 Leurs	leur	DET	_
-développemens	développemens	NC	_
+développemens	développement	NC	_
 n'	ne	ADV	_
 affectent	affecter	V	_
 point	point	ADV	_
@@ -87924,7 +88102,7 @@ par	par	P	_
 cette	ce	DET	_
 raison	raison	NC	_
 ,	,	PONCT	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 sont	être	V	_
 dépourvus	dépourvoir	VPP	_
 d'	de	P	_
@@ -88101,7 +88279,8 @@ le	le	DET	_
 carbone	carbone	NC	_
 prédomine	prédominer	V	_
 ;	;	PONCT	_
-tandis_que	tandis_que	CS	_
+tandis	tandis	ADV	_
+que	que	CS	_
 dans	dans	P	_
 les	le	DET	_
 animaux	animal	NC	_
@@ -88389,7 +88568,7 @@ pouvoir	pouvoir	VINF	_
 prendre	prendre	VINF	_
 tous	tout	ADJ	_
 ses	son	DET	_
-développemens	développemens	NC	_
+développemens	développement	NC	_
 .	.	PONCT	_
 Cependant	cependant	ADV	_
 ,	,	PONCT	_
@@ -88571,7 +88750,7 @@ ni	ni	CC	_
 changemens	changement	NC	_
 ,	,	PONCT	_
 ni	ni	CC	_
-développemens	développemens	NC	_
+développemens	développement	NC	_
 quelconques	quelconque	ADJ	_
 ;	;	PONCT	_
 en	en	P	_
@@ -88617,7 +88796,7 @@ simples	simple	ADJ	_
 ne	ne	ADV	_
 peuvent	pouvoir	V	_
 vivre	vivre	VINF	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 une	un	DET	_
 année	année	NC	_
 ,	,	PONCT	_
@@ -88740,7 +88919,8 @@ se	se	CLO	_
 trouve	trouver	V	_
 suspendue	suspendre	VPP	_
 ,	,	PONCT	_
-tandis_que	tandis_que	CS	_
+tandis	tandis	ADV	_
+que	que	CS	_
 dans	dans	P	_
 les	le	DET	_
 autres	autre	NC	_
@@ -88775,7 +88955,7 @@ subissent	subir	V	_
 plus	plus	ADV	_
 ou	ou	CC	_
 moins	moins	ADV	_
-complétement	complétement	ADV	_
+complétement	complètement	ADV	_
 cette	ce	DET	_
 suspension	suspension	NC	_
 de	de	P	_
@@ -88793,7 +88973,7 @@ les	le	DET	_
 fourmis	fourmi	NC	_
 ,	,	PONCT	_
 les	le	DET	_
-abeilles	abeilles	NC	_
+abeilles	abeille	NC	_
 ,	,	PONCT	_
 et	et	CC	_
 bien	bien	ADV	_
@@ -88837,7 +89017,7 @@ marmotte	marmotte	NC	_
 le	le	DET	_
 loir	loir	NC	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 Le	le	DET	_
 dernier	dernier	ADJ	_
 trait	trait	NC	_
@@ -88949,7 +89129,7 @@ autres	autre	NC	_
 et	et	CC	_
 qui	qui	PROREL	_
 participent	participer	V	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 à	à	P	_
 une	un	DET	_
 vie	vie	NC	_
@@ -89008,7 +89188,7 @@ possède	posséder	V	_
 ,	,	PONCT	_
 n'	ne	ADV	_
 exécutent	exécuter	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 une	un	DET	_
 seule	seul	ADJ	_
 fécondation	fécondation	NC	_
@@ -89034,7 +89214,7 @@ ensuite	ensuite	ADV	_
 et	et	CC	_
 se	se	CLO	_
 détruisent	détruire	V	_
-complétement	complétement	ADV	_
+complétement	complètement	ADV	_
 .	.	PONCT	_
 Si	si	CS	_
 cette	ce	DET	_
@@ -89081,7 +89261,7 @@ ou	ou	CC	_
 bisannuelles	bisannuel	ADJ	_
 paroissent	paraître	V	_
 donc	donc	ADV	_
-toutes	tous	PRO	_
+toutes	tout	PRO	_
 dans	dans	P	_
 ce	ce	DET	_
 cas	cas	NC	_
@@ -89197,7 +89377,7 @@ autres	autre	NC	_
 ,	,	PONCT	_
 et	et	CC	_
 participant	participer	VPR	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 à	à	P	_
 une	un	DET	_
 vie	vie	NC	_
@@ -89399,7 +89579,7 @@ elle	il	CLS	_
 ne	ne	ADV	_
 le	il	CLO	_
 fait	faire	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 une	un	DET	_
 seule	seul	ADJ	_
 fois	fois	NC	_
@@ -89532,7 +89712,7 @@ boutures	bouture	NC	_
 des	un	DET	_
 marcottes	marcotte	NC	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 Or	or	CC	_
 ,	,	PONCT	_
 de	de	P	_
@@ -89763,7 +89943,7 @@ vie	vie	NC	_
 ,	,	PONCT	_
 dit	dire	V	_
 *	*	PONCT	_
-M	M	NC	_
+M	monsieur	NC	_
 Richerand	Richerand	NP	_
 ,	,	PONCT	_
 est	être	V	_
@@ -89804,7 +89984,7 @@ d'	de	P	_
 autres	autre	ADJ	_
 phénomènes	phénomène	NC	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 ;	;	PONCT	_
 effectivement	effectivement	ADV	_
 ,	,	PONCT	_
@@ -89916,7 +90096,8 @@ et	et	CC	_
 elle	il	CLS	_
 conduit	conduire	V	_
 ,	,	PONCT	_
-en_outre	en_outre	ADV	_
+en	en	P	_
+outre	outre	P	_
 ,	,	PONCT	_
 à	à	P	_
 faire	faire	VINF	_
@@ -90391,7 +90572,7 @@ en	en	P	_
 sorte	sorte	NC	_
 que	que	CS	_
 des	de_le	P+D	_
-dérangemens	dérangemens	NC	_
+dérangemens	dérangement	NC	_
 dans	dans	P	_
 cet	ce	DET	_
 équipage	équipage	NC	_
@@ -90454,7 +90635,8 @@ les	le	DET	_
 faits	fait	NC	_
 connus	connaître	VPP	_
 .	.	PONCT	_
-Quant_à	quant_à	P	_
+Quant	quant	ADV	_
+à	à	P	_
 l'	le	DET	_
 équipage	équipage	NC	_
 du	de_le	P+D	_
@@ -90483,7 +90665,8 @@ diverses	divers	ADJ	_
 fonctions	fonction	NC	_
 .	.	PONCT	_
 Mais	mais	CC	_
-quant_au	quant_à_le	P+D	_
+Quant	quant	ADV	_
+au	à_le	P+D	_
 ressort	ressort	NC	_
 ,	,	PONCT	_
 moteur	moteur	NC	_
@@ -90918,7 +91101,7 @@ infusoires	infusoire	NC	_
 si	si	CS	_
 les	le	DET	_
 fluides	fluide	NC	_
-contenables	contenables	ADJ	_
+contenables	contenable	ADJ	_
 de	de	P	_
 l'	le	DET	_
 un	un	NC	_
@@ -91474,7 +91657,7 @@ des	un	DET	_
 altérations	altération	NC	_
 et	et	CC	_
 des	de_le	P+D	_
-dérangemens	dérangemens	NC	_
+dérangemens	dérangement	NC	_
 ,	,	PONCT	_
 soit	soit	CC	_
 dans	dans	P	_
@@ -91708,7 +91891,7 @@ doué	douer	VPP	_
 ,	,	PONCT	_
 ne	ne	ADV	_
 consiste	consister	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 en	en	P	_
 un	un	DET	_
 ordre	ordre	NC	_
@@ -91863,7 +92046,7 @@ un	un	DET	_
 corps	corps	NC	_
 ,	,	PONCT	_
 pour	pour	P	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 il	il	CLS	_
 puisse	pouvoir	V	_
 posséder	posséder	VINF	_
@@ -92465,7 +92648,7 @@ des	un	DET	_
 mouvemens	mouvement	NC	_
 ,	,	PONCT	_
 des	de_le	P+D	_
-déplacemens	déplacemens	NC	_
+déplacemens	déplacement	NC	_
 ,	,	PONCT	_
 des	un	DET	_
 dissipations	dissipation	NC	_
@@ -92660,14 +92843,14 @@ des	un	DET	_
 mouvemens	mouvement	NC	_
 ,	,	PONCT	_
 des	de_le	P+D	_
-déplacemens	déplacemens	NC	_
+déplacemens	déplacement	NC	_
 ,	,	PONCT	_
 des	un	DET	_
 changemens	changement	NC	_
 divers	divers	ADJ	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
-Dans	Dans	NP	_
+etc.	etc	ADV	_
+Dans	dans	NP	_
 les	le	DET	_
 animaux	animal	NC	_
 ,	,	PONCT	_
@@ -92722,7 +92905,8 @@ rend	rendre	V	_
 irritables	irritable	ADJ	_
 ;	;	PONCT	_
 et	et	CC	_
-quant_aux	quant_à_le	P+D	_
+quant	quant	ADV	_
+aux	à_le	P+D	_
 fluides	fluide	ADJ	_
 contenus	contenir	VPP	_
 ,	,	PONCT	_
@@ -92878,7 +93062,7 @@ les	le	DET	_
 animaux	animal	NC	_
 ,	,	PONCT	_
 qui	qui	PROREL	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 ont	avoir	V	_
 des	un	DET	_
 parties	partie	NC	_
@@ -93144,7 +93328,7 @@ doute	doute	NC	_
 ,	,	PONCT	_
 dit	dire	V	_
 *	*	X	_
-M	M	NC	_
+M	monsieur	NC	_
 Cabanis	Cabanis	NP	_
 ,	,	PONCT	_
 réduits	réduire	VPP	_
@@ -93252,7 +93436,7 @@ des	un	DET	_
 parties	partie	NC	_
 sensibles	sensible	ADJ	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 "	"	PONCT	_
 je	je	CLS	_
 reconnois	reconnaître	V	_
@@ -94022,7 +94206,7 @@ musculaire	musculaire	ADJ	_
 du	de_le	P+D	_
 coeur	cœur	NC	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 ,	,	PONCT	_
 l'	le	DET	_
 influence	influence	NC	_
@@ -94049,7 +94233,7 @@ peut	pouvoir	V	_
 fondé	fonder	VPP	_
 à	à	P	_
 dire	dire	VINF	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 en	en	P	_
 eux	il	PRO	_
 les	le	DET	_
@@ -94242,7 +94426,8 @@ un	un	DET	_
 système	système	NC	_
 nerveux	nerveux	ADJ	_
 ;	;	PONCT	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 ce	ce	DET	_
 système	système	NC	_
 d'	de	P	_
@@ -94262,7 +94447,8 @@ sentiment	sentiment	NC	_
 fort	fort	ADV	_
 obscur	obscur	ADJ	_
 .	.	PONCT	_
-Quant_aux	quant_à_le	P+D	_
+quant	quant	ADV	_
+aux	à_le	P+D	_
 radiaires	radiaire	NC	_
 ,	,	PONCT	_
 si	si	CS	_
@@ -94624,7 +94810,7 @@ intérieures	intérieur	ADJ	_
 qu'	que	CS	_
 extérieures	extérieur	ADJ	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 Chacun	chacun	NP	_
 de	de	P	_
 ces	ce	DET	_
@@ -94759,7 +94945,7 @@ pour	pour	P	_
 la	le	DET	_
 circulation	circulation	NC	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 La	le	DET	_
 nature	nature	NC	_
 nous	nous	CLO	_
@@ -95094,7 +95280,7 @@ ce	ce	DET	_
 chapitre	chapitre	NC	_
 soient	être	V	_
 remplies	remplir	VPP	_
-complétement	complétement	ADV	_
+complétement	complètement	ADV	_
 .	.	PONCT	_
 Passons	passer	V	_
 actuellement	actuellement	ADV	_

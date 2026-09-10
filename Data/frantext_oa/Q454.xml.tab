@@ -44,7 +44,7 @@ des	de_le	P+D	_
 lettres	lettre	NC	_
 de	de	P	_
 sa	son	DET	_
-bellesoeur	bellesœur	NC	_
+bellesoeur	belle-sœur	NC	_
 Ursule	Ursule	NP	_
 ,	,	PONCT	_
 ce	ce	CLS	_
@@ -144,7 +144,7 @@ utiles	utile	ADJ	_
 leçons	leçon	NC	_
 ,	,	PONCT	_
 et	et	CC	_
-sur-tout	sur-tout	ADV	_
+sur-tout	surtout	ADV	_
 de	de	P	_
 celles	celui	PRO	_
 de	de	P	_
@@ -400,7 +400,7 @@ de	de	P	_
 sa	son	DET	_
 vie	vie	NC	_
 ,	,	PONCT	_
-sur-tout	sur-tout	ADV	_
+sur-tout	surtout	ADV	_
 avant	avant	P	_
 ses	son	DET	_
 chutes	chute	NC	_
@@ -671,7 +671,7 @@ enfance	enfance	NC	_
 ,	,	PONCT	_
 Ursule	Ursule	NP	_
 était	être	V	_
-déja	déja	ADJ	_
+déja	déjà	ADJ	_
 aimable	aimable	ADJ	_
 ,	,	PONCT	_
 tant	tant	ADV	_
@@ -697,7 +697,7 @@ le	le	DET	_
 monde	monde	NC	_
 :	:	PONCT	_
 et	et	CC	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 -	-	PONCT	_
 ceux	celui	PRO	_
 qui	qui	PROREL	_
@@ -708,7 +708,7 @@ maison	maison	NC	_
 ,	,	PONCT	_
 chés	chez	NC	_
 nos	notre	DET	_
-chèrs	chèrs	NC	_
+chèrs	cher	NC	_
 père	père	NC	_
 et	et	CC	_
 mère	mère	NC	_
@@ -827,7 +827,7 @@ père	père	NC	_
 lui	il	PRO	_
 ,	,	PONCT	_
 y	y	CLO	_
-alait	alait	V	_
+alait	aller	V	_
 tout	tout	PRO	_
 -	-	PONCT	_
 de	de	P	_
@@ -841,8 +841,8 @@ vit	vivre	V	_
 que	que	CS	_
 la	le	DET	_
 dame	dame	NC	_
-fesait	fesait	ADJ	_
-déja	déja	V	_
+fesait	faire	ADJ	_
+déja	déjà	V	_
 les	le	DET	_
 arrangemens	arrangement	NC	_
 ,	,	PONCT	_
@@ -993,9 +993,9 @@ et	et	CC	_
 maître	maître	NC	_
 ,	,	PONCT	_
 et	et	CC	_
-auquel	auquel	PROREL	_
+auquel	à_lequel	PROREL	_
 elle	il	CLS	_
-fesait	fesait	V	_
+fesait	faire	V	_
 profession	profession	NC	_
 d'	de	P	_
 être	être	VINF	_
@@ -1040,10 +1040,10 @@ grandissait	grandir	V	_
 elle	il	CLS	_
 devenait	devenir	V	_
 de	de	P	_
-plûs	plûs	NC	_
+plûs	plus	NC	_
 -en	en	CLO	_
 -	-	PONCT	_
-plûs	plûs	NC	_
+plûs	plus	NC	_
 aimable	aimable	ADJ	_
 et	et	CC	_
 gentille	gentil	ADJ	_
@@ -1057,11 +1057,11 @@ si	si	CS	_
 bien	bien	ADV	_
 qu'	que	CS	_
 elle	il	CLS	_
-fesait	fesait	V	_
+fesait	faire	V	_
 nos	notre	DET	_
 délices	délice	NC	_
 à	à	P	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 :	:	PONCT	_
 car	car	CC	_
 elle	il	CLS	_
@@ -1107,7 +1107,7 @@ milieu	milieu	NC	_
 de	de	P	_
 nous	nous	PRO	_
 -	-	PONCT	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 ,	,	PONCT	_
 frères	frère	NC	_
 et	et	CC	_
@@ -1155,7 +1155,7 @@ que	que	CS	_
 nous	nous	CLS	_
 vîssions	vîssions	V	_
 bien	bien	ADV	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 qu'	que	PROREL	_
 ils	il	CLS	_
 étaient	être	V	_
@@ -1257,7 +1257,7 @@ accorts	accort	ADJ	_
 envers	envers	P	_
 nous	nous	PRO	_
 -	-	PONCT	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 ,	,	PONCT	_
 que	que	PROREL	_
 nous	nous	CLS	_
@@ -1266,7 +1266,8 @@ recherchions	rechercher	V	_
 davantage	davantage	ADV	_
 :	:	PONCT	_
 et	et	CC	_
-quant_à	quant_à	P	_
+quant	quant	ADV	_
+à	à	P	_
 ce	ce	PRO	_
 qui	qui	PROREL	_
 me	je	CLO	_
@@ -1310,7 +1311,7 @@ me	je	CLO	_
 disaient	dire	V	_
 souvent	souvent	ADV	_
 ,	,	PONCT	_
-sur-tout	sur-tout	ADV	_
+sur-tout	surtout	ADV	_
 Edmond	Edmond	NP	_
 :	:	PONCT	_
 -	-	X	_
@@ -1484,7 +1485,7 @@ qu'	que	CS	_
 en-nous-mêmes	en-nous-mêmes	NC	_
 nous	nous	CLO	_
 pensions	penser	V	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 :	:	PONCT	_
 -	-	PONCT	_
 c'	ce	CLS	_
@@ -1502,7 +1503,7 @@ il	il	CLS	_
 y	y	CLO	_
 convient	convenir	V	_
 d'	de	P	_
-aler	aler	ET	_
+aler	aller	ET	_
 -	-	PONCT	_
 .	.	PONCT	_
 Car	car	CC	_
@@ -1919,7 +1920,7 @@ Edmond	Edmond	NP	_
 fut	être	V	_
 parti	partir	VPP	_
 pour	pour	P	_
-aler	aler	VINF	_
+aler	aller	VINF	_
 à	à	P	_
 la	le	DET	_
 ville	ville	NC	_
@@ -2161,7 +2162,7 @@ mourait	mourir	V	_
 d'	de	P	_
 envie	envie	NC	_
 d'	de	P	_
-aler	aler	NP	_
+aler	aller	NP	_
 à	à	P	_
 la	le	DET	_
 ville	ville	NC	_
@@ -2354,7 +2355,7 @@ pauvre	pauvre	ADJ	_
 victime	victime	NC	_
 ,	,	PONCT	_
 qui	qui	PROREL	_
-alait	alait	V	_
+alait	aller	V	_
 là	là	ADV	_
 où	où	PROREL	_
 le	le	DET	_
@@ -2572,7 +2573,7 @@ octobre	octobre	NC	_
 mon	mon	DET	_
 très	très	ADV	_
 -	-	PONCT	_
-chèr	chèr	ADJ	_
+chèr	cher	ADJ	_
 père	père	NC	_
 et	et	CC	_
 ma	mon	DET	_
@@ -2773,7 +2774,7 @@ joie	joie	NC	_
 mon	mon	DET	_
 très	très	ADV	_
 -	-	PONCT	_
-chèr	chèr	ADJ	_
+chèr	cher	ADJ	_
 père	père	NC	_
 et	et	CC	_
 ma	mon	DET	_
@@ -2824,7 +2825,7 @@ la	le	DET	_
 tante	tante	NC	_
 de	de	P	_
 *	*	PONCT	_
-Mme	Mme	NC	_
+Mme	madame	NC	_
 *	*	X	_
 Parangon	Parangon	NP	_
 ,	,	PONCT	_
@@ -2861,7 +2862,7 @@ car	car	CC	_
 c'	ce	CLS	_
 est	être	V	_
 *	*	X	_
-Mlle	Mlle	NC	_
+Mlle	mademoiselle	NC	_
 Fanchette	Fanchette	NP	_
 *	*	PONCT	_
 C	C	NC	_
@@ -2870,7 +2871,7 @@ la	le	DET	_
 soeur	sœur	NC	_
 de	de	P	_
 *	*	PONCT	_
-Mme	Mme	NC	_
+Mme	madame	NC	_
 *	*	X	_
 Parangon	Parangon	NP	_
 ,	,	PONCT	_
@@ -3027,14 +3028,14 @@ Je	je	CLS	_
 suis	être	V	_
 avec	avec	P	_
 une	un	DET	_
-respectueuse	respectueuse	NC	_
+respectueuse	respectueux	NC	_
 et	et	CC	_
 filiale	filial	ADJ	_
 tendresse	tendresse	NC	_
 ,	,	PONCT	_
 très	très	ADV	_
 -	-	PONCT	_
-chèr	chèr	ADJ	_
+chèr	cher	ADJ	_
 père	père	NC	_
 et	et	CC	_
 très	très	ADV	_
@@ -3053,7 +3054,7 @@ fille	fille	NC	_
 *	*	X	_
 Ursule	Ursule	NP	_
 R.	R.	NP	_
-Je	Je	NP	_
+Je	je	NP	_
 vous	vous	CLS	_
 dirai	dire	V	_
 ,	,	PONCT	_
@@ -3069,7 +3070,7 @@ est	être	V	_
 venu	venir	VPP	_
 chés	chez	NC	_
 *	*	PONCT	_
-Mme	Mme	NC	_
+Mme	madame	NC	_
 Canon	Canon	NP	_
 ,	,	PONCT	_
 et	et	CC	_
@@ -3083,10 +3084,10 @@ me	je	CLO	_
 demandait	demander	V	_
 ,	,	PONCT	_
 pour	pour	P	_
-aler	aler	VINF	_
+aler	aller	VINF	_
 chés	chez	NC	_
 *	*	PONCT	_
-Mlle	Mlle	NC	_
+Mlle	mademoiselle	NC	_
 Manon	Manon	NP	_
 Palestine	Palestine	NP	_
 ;	;	PONCT	_
@@ -3108,7 +3109,7 @@ alons	alons	V	_
 partir	partir	VINF	_
 avec	avec	P	_
 *	*	X	_
-Mme	Mme	NC	_
+Mme	madame	NC	_
 Parangon	Parangon	NP	_
 pour	pour	P	_
 Seignelais	Seignelais	NP	_
@@ -3126,7 +3127,7 @@ quelques	quelque	DET	_
 jours	jour	NC	_
 ,	,	PONCT	_
 *	*	PONCT	_
-Mme	Mme	NC	_
+Mme	madame	NC	_
 Canon	Canon	NP	_
 y	y	CLO	_
 ayant	avoir	VPR	_
@@ -3161,7 +3162,7 @@ Ursule	Ursule	NP	_
 ,	,	PONCT	_
 à	à	P	_
 *	*	PONCT	_
-Mme	Mme	NC	_
+Mme	madame	NC	_
 Parangon	Parangon	NP	_
 .	.	PONCT	_
 (	(	PONCT	_
@@ -3258,7 +3259,7 @@ pays	pays	NC	_
 aussi	aussi	ADV	_
 suis	être	V	_
 -je	je	CLS	_
-bien-fâchée	bien-fâchée	ADV	_
+bien-fâchée	bien-fâché	ADV	_
 de	de	P	_
 cette	ce	DET	_
 vilaine	vilain	ADJ	_
@@ -3350,14 +3351,14 @@ que	que	PROREL	_
 fait	faire	V	_
 la	le	DET	_
 *	*	PONCT	_
-Mlle	Mlle	NC	_
+Mlle	mademoiselle	NC	_
 Manon	Manon	NP	_
 ?	?	PONCT	_
 Elle	il	CLS	_
 a	avoir	V	_
 dû	devoir	VPP	_
 être	être	VINF	_
-bien-attrappée	bien-attrappée	ADV	_
+bien-attrappée	bien-attrappé	ADV	_
 !	!	PONCT	_
 Je	je	CLS	_
 n'	ne	ADV	_
@@ -3370,7 +3371,7 @@ ici	ici	ADV	_
 qu'	que	CS	_
 à	à	P	_
 ma	mon	DET	_
-bellesoeur	bellesœur	NC	_
+bellesoeur	belle-sœur	NC	_
 future	futur	ADJ	_
 Fanchon	Fanchon	NP	_
 ,	,	PONCT	_
@@ -3393,7 +3394,7 @@ et	et	CC	_
 elle	il	CLS	_
 a	avoir	V	_
 été	être	VPP	_
-bien-étonnée	bien-étonnée	ADV	_
+bien-étonnée	bien-étonné	ADV	_
 de	de	P	_
 tout	tout	ADV	_
 ça	ça	PRO	_
@@ -3420,7 +3421,7 @@ parti	parti	NC	_
 ,	,	PONCT	_
 de	de	P	_
 *	*	X	_
-Mlle	Mlle	NC	_
+Mlle	mademoiselle	NC	_
 Manon	Manon	NP	_
 je	je	CLS	_
 veux	vouloir	V	_
@@ -3480,7 +3481,7 @@ une	un	DET	_
 pauvre	pauvre	ADJ	_
 fille	fille	NC	_
 est	être	V	_
-déja	déja	VPP	_
+déja	déjà	VPP	_
 assés	assez	ADV	_
 à	à	P	_
 -	-	PONCT	_
@@ -3587,7 +3588,7 @@ peu	peu	ADV	_
 envie	envie	NC	_
 d'	de	P	_
 être	être	VINF	_
-attrappées	attrappées	VPP	_
+attrappées	attrapé	VPP	_
 :	:	PONCT	_
 ainsi	ainsi	ADV	_
 je	je	CLS	_
@@ -3597,7 +3598,7 @@ au	à_le	P+D	_
 sujet	sujet	NC	_
 de	de	P	_
 *	*	PONCT	_
-Mlle	Mlle	NC	_
+Mlle	mademoiselle	NC	_
 Manon	Manon	NP	_
 ,	,	PONCT	_
 tout	tout	PRO	_
@@ -3609,7 +3610,7 @@ madame	madame	NC	_
 ,	,	PONCT	_
 et	et	CC	_
 *	*	PONCT	_
-Mlle	Mlle	NC	_
+Mlle	mademoiselle	NC	_
 *	*	X	_
 Tiennette	Tiennette	NP	_
 ;	;	PONCT	_
@@ -3619,7 +3620,7 @@ suis	être	V	_
 bien-aise	bien-aise	NC	_
 que	que	CS	_
 ma	mon	DET	_
-bellesoeur	bellesœur	NC	_
+bellesoeur	belle-sœur	NC	_
 pense	penser	V	_
 comme	comme	CS	_
 elle	il	CLS	_
@@ -3646,7 +3647,8 @@ il	il	CLS	_
 faut	falloir	V	_
 ici	ici	ADV	_
 .	.	PONCT	_
-Quant_à	quant_à	P	_
+Quant	quant	ADV	_
+à	à	P	_
 mon	mon	DET	_
 frère	frère	NC	_
 Edmond	Edmond	NP	_
@@ -3946,7 +3948,7 @@ vîte	vite	ADV	_
 qu'	que	CS	_
 elle	il	CLS	_
 ne	ne	ADV	_
-fesait	fesait	V	_
+fesait	faire	V	_
 auparavant	auparavant	ADV	_
 .	.	PONCT	_
 Mais	mais	CC	_
@@ -3971,7 +3973,7 @@ chathuans	chathuans	NC	_
 ,	,	PONCT	_
 les	le	DET	_
 grands-	grands-	X	_
-garsons	garsons	NC	_
+garsons	garçon	NC	_
 après	après	P	_
 leur	leur	DET	_
 souper	souper	NC	_
@@ -3989,7 +3991,7 @@ je	je	CLS	_
 dit	dire	V	_
 les	le	DET	_
 grands-	grands-	X	_
-garsons	garsons	NC	_
+garsons	garçon	NC	_
 ,	,	PONCT	_
 par-ce-qu	par-ce-qu	NC	_
 '	'	PONCT	_
@@ -3998,8 +4000,8 @@ n'	ne	ADV	_
 est	être	V	_
 ici	ici	ADV	_
 grand-	grand-	X	_
-garson	garson	ADJ	_
-qu'	qu'	ADV	_
+garson	garçon	ADJ	_
+qu'	que	ADV	_
 à	à	P	_
 vingt	vingt	DET	_
 ans	an	NC	_
@@ -4018,7 +4020,7 @@ la	le	DET	_
 maitrise	maîtrise	NC	_
 au	à_le	P+D	_
 maître-	maître-	X	_
-garson	garson	NC	_
+garson	garçon	NC	_
 ,	,	PONCT	_
 c'est-à-dire	c'est-à-dire	CC	_
 le	le	DET	_
@@ -4063,7 +4065,7 @@ rare	rare	ADJ	_
 !	!	PONCT	_
 Les	le	DET	_
 grands-	grands-	X	_
-garsons	garsons	NC	_
+garsons	garçon	NC	_
 rassemblent	rassembler	V	_
 plusieurs	plusieurs	DET	_
 maîtrises	maîtrise	NC	_
@@ -4127,7 +4129,7 @@ maîtrise	maîtrise	NC	_
 ,	,	PONCT	_
 les	le	DET	_
 grands-	grands-	X	_
-garsons	garsons	NC	_
+garsons	garçon	NC	_
 portent	porter	V	_
 chaqu'	chaqu'	VINF	_
 un	un	DET	_
@@ -4142,7 +4144,8 @@ rosseraient	rosser	V	_
 d'	de	P	_
 importance	importance	NC	_
 .	.	PONCT	_
-Quant_aux	quant_à_le	P+D	_
+quant	quant	ADV	_
+aux	à_le	P+D	_
 maîtres	maître	NC	_
 -	-	PONCT	_
 garsons	garçon	NC	_
@@ -4184,7 +4187,7 @@ le	il	CLO	_
 déclarent	déclarer	V	_
 au	à_le	P+D	_
 maître-	maître-	X	_
-garson	garson	NC	_
+garson	garçon	NC	_
 ,	,	PONCT	_
 qui	qui	PROREL	_
 en-donne	en-donne	V	_
@@ -4282,7 +4285,7 @@ déclare	déclarer	V	_
 .	.	PONCT	_
 Le	le	DET	_
 maître-	maître-	X	_
-garson	garson	NC	_
+garson	garçon	NC	_
 leur	il	CLO	_
 dit	dire	V	_
 alors	alors	ADV	_
@@ -4340,7 +4343,7 @@ courte	court	ADJ	_
 pâille	pâille	NC	_
 ,	,	PONCT	_
 à	à	P	_
-quî	quî	NC	_
+quî	qui	NC	_
 l'	le	DET	_
 aura	aura	NC	_
 "	"	PONCT	_
@@ -4368,7 +4371,7 @@ un	un	DET	_
 alors	alors	ADV	_
 le	le	DET	_
 maître-	maître-	X	_
-garson	garson	NC	_
+garson	garçon	NC	_
 se	se	CLO	_
 borne	borner	V	_
 à	à	P	_
@@ -4405,7 +4408,7 @@ rossé	rosser	VPP	_
 Et	et	CC	_
 le	le	DET	_
 maître-	maître-	X	_
-garson	garson	NC	_
+garson	garçon	NC	_
 leur	il	CLO	_
 dit	dire	V	_
 :	:	PONCT	_
@@ -4458,7 +4461,7 @@ autre	autre	NC	_
 ,	,	PONCT	_
 les	le	DET	_
 grands-	grands-	X	_
-garsons	garsons	NC	_
+garsons	garçon	NC	_
 ne	ne	ADV	_
 se	se	CLO	_
 mêlent	mêler	V	_
@@ -4728,7 +4731,7 @@ pour	pour	P	_
 leur	leur	DET	_
 nuit	nuit	NC	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 Les	le	DET	_
 parens	parent	NC	_
 n'	ne	ADV	_
@@ -4758,7 +4761,7 @@ aucontraire	aucontraire	NC	_
 il	il	CLS	_
 ne	ne	ADV	_
 leur	il	CLO	_
-agrée	agrée	V	_
+agrée	agréer	V	_
 pas	pas	ADV	_
 ,	,	PONCT	_
 la	le	DET	_
@@ -4782,7 +4785,7 @@ sa	son	DET	_
 selle	selle	NC	_
 ,	,	PONCT	_
 en-lui	en-lui	NC	_
-disant	disant	ADJ	_
+disant	dire	VPR	_
 ,	,	PONCT	_
 tîns	tîns	NC	_
 te	tu	CLO	_
@@ -5084,7 +5087,7 @@ hiver	hiver	NC	_
 à	à	P	_
 -	-	PONCT	_
 moins	moins	ADV	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 il	il	CLS	_
 n'	ne	ADV	_
 y	y	CLO	_
@@ -5130,7 +5133,8 @@ de	de	P	_
 la	le	DET	_
 fréquentation	fréquentation	NC	_
 .	.	PONCT	_
-Quant_à	quant_à	P	_
+Quant	quant	ADV	_
+à	à	P	_
 moi	je	PRO	_
 ,	,	PONCT	_
 ma	mon	DET	_
@@ -5259,7 +5263,7 @@ je	je	CLS	_
 ne	ne	ADV	_
 la	il	CLO	_
 montrerai	montrer	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 à	à	P	_
 Fanchon	Fanchon	NP	_
 Berthier	Berthier	NP	_
@@ -5267,7 +5271,7 @@ Berthier	Berthier	NP	_
 qui	qui	PROREL	_
 sera	être	V	_
 ma	mon	DET	_
-bellesoeur	bellesœur	NC	_
+bellesoeur	belle-sœur	NC	_
 .	.	PONCT	_
 C'	ce	CLS	_
 est	être	V	_
@@ -5276,7 +5280,7 @@ j'	je	CLS	_
 ai	avoir	V	_
 ici	ici	ADV	_
 un	un	DET	_
-amoureus	amoureus	NC	_
+amoureus	amoureux	NC	_
 que	que	PROREL	_
 je	je	CLS	_
 ne	ne	ADV	_
@@ -5366,7 +5370,7 @@ grossière	grossier	ADJ	_
 ;	;	PONCT	_
 voila	voiler	V	_
 mon	mon	DET	_
-amoureus	amoureus	NC	_
+amoureus	amoureux	NC	_
 d'	de	P	_
 avant	avant	P	_
 que	que	CS	_
@@ -5379,7 +5383,7 @@ qui	qui	PROREL	_
 me	je	CLO	_
 met	mettre	V	_
 encore	encore	ADV	_
-plûs	plûs	ET	_
+plûs	plus	ET	_
 en-colère	en-colère	ET	_
 contre	contre	P	_
 ça	ça	PRO	_
@@ -5447,7 +5451,7 @@ me	je	CLO	_
 le	il	CLO	_
 fait	faire	V	_
 encore	encore	ADV	_
-plûs	plûs	VPP	_
+plûs	plus	VPP	_
 détester	détester	VINF	_
 .	.	PONCT	_
 Le	le	DET	_
@@ -5467,10 +5471,10 @@ vous	vous	PRO	_
 !	!	PONCT	_
 Oh	oh	I	_
 !	!	PONCT	_
-Je	Je	V	_
+Je	je	V	_
 l'	il	CLO	_
 abhorre	abhorrer	V	_
-plûs	plûs	ADV	_
+plûs	plus	ADV	_
 que	que	CS	_
 tout	tout	DET	_
 homme	homme	NC	_
@@ -5513,7 +5517,7 @@ Vrai	vrai	ADJ	_
 ,	,	PONCT	_
 ce	ce	DET	_
 vilain	vilain	NC	_
-amoureus	amoureus	ADV	_
+amoureus	amoureux	ADV	_
 me	je	CLO	_
 paraît	paraître	V	_
 un	un	PRO	_
@@ -5589,7 +5593,7 @@ frères	frère	NC	_
 et	et	CC	_
 soeurs	sœur	NC	_
 ,	,	PONCT	_
-sur-tout	sur-tout	ADV	_
+sur-tout	surtout	ADV	_
 avec	avec	P	_
 Edmond	Edmond	NP	_
 ?	?	PONCT	_
@@ -5851,7 +5855,7 @@ rêve	rêve	NC	_
 je	je	CLS	_
 l'	il	CLO	_
 aimais	aimer	V	_
-déja	déja	ADV	_
+déja	déjà	ADV	_
 le	le	DET	_
 mieux	mieux	NC	_
 de	de	P	_
@@ -5981,7 +5985,7 @@ beau	beau	ADJ	_
 linge	linge	NC	_
 -	-	PONCT	_
 ....	....	PONCT	_
-Je	Je	NP	_
+Je	je	NP	_
 m'	je	CLO	_
 éveillai	éveiller	V	_
 de	de	P	_
@@ -6032,7 +6036,7 @@ jolis	joli	ADJ	_
 qu'	que	CS	_
 eux	il	PRO	_
 -	-	PONCT	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 ,	,	PONCT	_
 toi	tu	PRO	_
 et	et	CC	_
@@ -6051,7 +6055,8 @@ et	et	CC	_
 moi	je	PRO	_
 dix	dix	ADJ	_
 .	.	PONCT	_
-Quant_à	quant_à	P	_
+Quant	quant	ADV	_
+à	à	P	_
 -	-	PONCT	_
 l'	le	DET	_
 égard	égard	NC	_
@@ -6083,7 +6088,7 @@ les	le	DET	_
 jolis	joli	ADJ	_
 ouvrages	ouvrage	NC	_
 d'	de	P	_
-aigüille	aigüille	NC	_
+aigüille	aiguille	NC	_
 ,	,	PONCT	_
 comme	comme	P	_
 à	à	P	_
@@ -6156,7 +6161,7 @@ que	que	CS	_
 je	je	CLS	_
 l'	il	CLO	_
 ai	avoir	V	_
-déja	déja	VPP	_
+déja	déjà	VPP	_
 dit	dire	VPP	_
 ,	,	PONCT	_
 en-parlant	en-parlant	VPR	_
@@ -6254,7 +6259,9 @@ semble	sembler	V	_
 que	que	CS	_
 je	je	CLS	_
 serais	être	V	_
-bien-glorieuse	bien-glorieuse	ADJ	_
+bien	bien	ADV	_
+-	-	PONCT	_
+glorieuse	glorieux	ADJ	_
 ,	,	PONCT	_
 si	si	CS	_
 on	on	CLS	_
@@ -6284,7 +6291,7 @@ mien	mien	NC	_
 .	.	PONCT	_
 C'	ce	CLS	_
 est	être	V	_
-sur-tout	sur-tout	NP	_
+sur-tout	surtout	NP	_
 à	à	P	_
 Edmond	Edmond	NP	_
 que	que	CS	_
@@ -6313,7 +6320,7 @@ l'	le	DET	_
 à	à	P	_
 ma	mon	DET	_
 future	future	NC	_
-bellesoeur	bellesœur	ADJ	_
+bellesoeur	belle-sœur	ADJ	_
 *	*	X	_
 Fanchon	Fanchon	NP	_
 :	:	PONCT	_
@@ -6374,7 +6381,7 @@ qu'	que	CS	_
 elle	il	CLS	_
 serait	être	V	_
 ma	mon	DET	_
-bellesoeur	bellesœur	NC	_
+bellesoeur	belle-sœur	NC	_
 ,	,	PONCT	_
 c'	ce	CLS	_
 est	être	V	_
@@ -6627,7 +6634,7 @@ et	et	CC	_
 qu'	que	CS	_
 elle	il	CLS	_
 a	avoir	V	_
-plûs	plûs	VPP	_
+plûs	plus	VPP	_
 de	de	P	_
 confiance	confiance	NC	_
 en-lui	en-lui	ADJ	_
@@ -6646,7 +6653,7 @@ elle	il	CLS	_
 eût	avoir	V	_
 peut-être	peut-être	ADV	_
 eût	avoir	V	_
-plûs	plûs	VPP	_
+plûs	plus	VPP	_
 d'	de	P	_
 amitié	amitié	NC	_
 pour	pour	P	_
@@ -6731,8 +6738,8 @@ madame	madame	NC	_
 ,	,	PONCT	_
 votre	votre	DET	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
-Lettre	Lettre	NC	_
+etc.	etc	ADV	_
+Lettre	lettre	NC	_
 3	3	ADJ	_
 .	.	PONCT	_
 *	*	X	_
@@ -6740,7 +6747,7 @@ Lettre	Lettre	NC	_
 octobre	octobre	NC	_
 .	.	PONCT	_
 *	*	X	_
-Mme	Mme	NC	_
+Mme	madame	NC	_
 Parangon	Parangon	NP	_
 ,	,	PONCT	_
 au	à_le	P+D	_
@@ -6805,7 +6812,7 @@ je	je	CLS	_
 m'	je	CLO	_
 y	y	CLO	_
 étais	être	V	_
-déja	déja	ADV	_
+déja	déjà	ADV	_
 tellement	tellement	ADV	_
 attachée	attacher	VPP	_
 ,	,	PONCT	_
@@ -6918,7 +6925,7 @@ lui	il	PRO	_
 ,	,	PONCT	_
 ni	ni	CC	_
 même	même	ADV	_
-avantageus	avantageus	ADJ	_
+avantageus	avantageux	ADJ	_
 pour	pour	P	_
 elle	il	PRO	_
 ,	,	PONCT	_
@@ -7021,7 +7028,7 @@ ce	ce	DET	_
 dernier	dernier	NC	_
 n'	ne	ADV	_
 employait	employer	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 une	un	DET	_
 séduction	séduction	NC	_
 ordinaire	ordinaire	ADJ	_
@@ -7120,7 +7127,7 @@ méritez	mériter	V	_
 ,	,	PONCT	_
 votre	votre	DET	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 *	*	X	_
 Colette	Colette	NP	_
 *	*	PONCT	_
@@ -7259,7 +7266,7 @@ femme	femme	NC	_
 :	:	PONCT	_
 tu	tu	CLS	_
 étais	être	V	_
-déja	déja	ADJ	_
+déja	déjà	ADJ	_
 notre	notre	DET	_
 soeur	sœur	NC	_
 par	par	P	_
@@ -7269,7 +7276,7 @@ affection	affection	NC	_
 et	et	CC	_
 de	de	P	_
 -	-	PONCT	_
-plûs	plûs	NC	_
+plûs	plus	NC	_
 mon	mon	DET	_
 amie	ami	NC	_
 dès	dès	P	_
@@ -7311,7 +7318,7 @@ compagne	compagne	NC	_
 telle	tel	ADJ	_
 que	que	CS	_
 le	le	DET	_
-fut	fut	NC	_
+fut	être	V	_
 pour	pour	P	_
 notre	notre	DET	_
 bon	bon	ADJ	_
@@ -7404,7 +7411,7 @@ l'	le	DET	_
 avis	avis	NC	_
 de	de	P	_
 *	*	PONCT	_
-Mme	Mme	NC	_
+Mme	madame	NC	_
 *	*	X	_
 Parangon	Parangon	NP	_
 ,	,	PONCT	_
@@ -7525,7 +7532,7 @@ ici	ici	ADV	_
 ,	,	PONCT	_
 que	que	CS	_
 *	*	PONCT	_
-Mme	Mme	NC	_
+Mme	madame	NC	_
 Parangon	Parangon	NP	_
 est	être	V	_
 mise	mettre	VPP	_
@@ -7588,7 +7595,7 @@ agréable	agréable	ADJ	_
 ,	,	PONCT	_
 comme	comme	P	_
 *	*	PONCT	_
-Mme	Mme	NC	_
+Mme	madame	NC	_
 Parangon	Parangon	NP	_
 ,	,	PONCT	_
 porte	porter	V	_
@@ -7669,7 +7676,7 @@ j'	je	CLS	_
 ai	avoir	V	_
 vu	voir	VPP	_
 *	*	PONCT	_
-Mlle	Mlle	NC	_
+Mlle	mademoiselle	NC	_
 *	*	X	_
 Manon	Manon	NP	_
 ,	,	PONCT	_
@@ -7717,7 +7724,7 @@ bien	bien	ADV	_
 et	et	CC	_
 que	que	CS	_
 *	*	PONCT	_
-Mme	Mme	NC	_
+Mme	madame	NC	_
 Parangon	Parangon	NP	_
 le	il	CLO	_
 pense	penser	V	_
@@ -7789,9 +7796,10 @@ indulgens	indulgent	ADJ	_
 pour	pour	P	_
 nous	nous	PRO	_
 .	.	PONCT	_
-Quant_à	quant_à	P	_
+Quant	quant	ADV	_
+à	à	P	_
 *	*	PONCT	_
-Mme	Mme	NC	_
+Mme	madame	NC	_
 Parangon	Parangon	NP	_
 ,	,	PONCT	_
 elle	il	CLS	_
@@ -7836,7 +7844,7 @@ elle	il	PRO	_
 .	.	PONCT	_
 Mais	mais	CC	_
 *	*	PONCT	_
-Mlle	Mlle	NC	_
+Mlle	mademoiselle	NC	_
 Fanchette	Fanchette	NP	_
 est	être	V	_
 bien-jeune	bien-jeune	NP	_
@@ -7905,7 +7913,7 @@ revenir	revenir	VINF	_
 la	le	DET	_
 petite	petite	NC	_
 *	*	PONCT	_
-Mlle	Mlle	NC	_
+Mlle	mademoiselle	NC	_
 Fanchette	Fanchette	NP	_
 *	*	PONCT	_
 C	C	NC	_
@@ -7920,7 +7928,7 @@ bien-belle	bien-belle	ADJ	_
 !	!	PONCT	_
 Et	et	CC	_
 *	*	PONCT	_
-Mlle	Mlle	NC	_
+Mlle	mademoiselle	NC	_
 *	*	X	_
 Manon	Manon	NP	_
 est	être	V	_
@@ -7970,13 +7978,13 @@ chère	chère	NC	_
 Fanchon	Fanchon	NP	_
 !	!	PONCT	_
 Et	et	CC	_
-plûs	plûs	NC	_
+plûs	plus	NC	_
 je	je	CLS	_
 l'	il	CLO	_
 étudie	étudier	V	_
 ,	,	PONCT	_
 et	et	CC	_
-plûs	plûs	NP	_
+plûs	plus	NP	_
 je	je	CLS	_
 crois	croire	V	_
 qu'	que	CS	_
@@ -7998,15 +8006,15 @@ souvent	souvent	ADV	_
 aperçue	apercevoir	VPP	_
 ,	,	PONCT	_
 et	et	CC	_
-sur-tout	sur-tout	NP	_
-hièr	hièr	NP	_
+sur-tout	surtout	NP	_
+hièr	hier	NP	_
 ,	,	PONCT	_
 qu'	que	PROREL	_
 il	il	CLS	_
 vit	vivre	V	_
 passer	passer	VINF	_
 *	*	PONCT	_
-Mlle	Mlle	NC	_
+Mlle	mademoiselle	NC	_
 Manon	Manon	NP	_
 ,	,	PONCT	_
 et	et	CC	_
@@ -8018,7 +8026,7 @@ après	après	ADV	_
 il	il	CLS	_
 regarda	regarder	V	_
 *	*	PONCT	_
-Mme	Mme	NC	_
+Mme	madame	NC	_
 Parangon	Parangon	NP	_
 ,	,	PONCT	_
 qui	qui	PROREL	_
@@ -8091,13 +8099,13 @@ jours	jour	NC	_
 ,	,	PONCT	_
 comme	comme	CS	_
 j'	je	CLS	_
-alais	alais	V	_
+alais	aller	V	_
 dans	dans	P	_
 la	le	DET	_
 chambre	chambre	NC	_
 de	de	P	_
 *	*	PONCT	_
-Mme	Mme	NC	_
+Mme	madame	NC	_
 Parangon	Parangon	NP	_
 ,	,	PONCT	_
 j'	je	CLS	_
@@ -8328,7 +8336,7 @@ comme	comme	P	_
 sa	son	DET	_
 tête	tête	NC	_
 est	être	V	_
-déja	déja	ADV	_
+déja	déjà	ADV	_
 remplie	remplir	VPP	_
 de	de	P	_
 mondanités	mondanité	NC	_
@@ -8358,7 +8366,7 @@ on	on	CLS	_
 croit	croire	V	_
 ;	;	PONCT	_
 mais	mais	CC	_
-alant	alant	VPR	_
+alant	aller	VPR	_
 rapidement	rapidement	ADV	_
 au	à_le	P+D	_
 dernier	dernier	ADJ	_
@@ -8379,7 +8387,7 @@ Ursule	Ursule	NP	_
 Fanchon	Fanchon	NP	_
 ,	,	PONCT	_
 sa	son	DET	_
-bellesoeur	bellesœur	NC	_
+bellesœur	belle-sœur	NC	_
 .	.	PONCT	_
 (	(	PONCT	_
 elle	il	CLS	_
@@ -8436,7 +8444,7 @@ soit	être	V	_
 vue	voir	VPP	_
 que	que	ADV	_
 de	de	P	_
-quî	quî	NC	_
+quî	qui	NC	_
 tu	tu	CLS	_
 voudras	vouloir	V	_
 .	.	PONCT	_
@@ -8474,7 +8482,7 @@ ne	ne	ADV	_
 nous	nous	CLO	_
 en-doutions	en-doutions	V	_
 pas	pas	ADV	_
-plûs	plûs	ADV	_
+plûs	plus	ADV	_
 ici	ici	ADV	_
 que	que	CS	_
 chés	chez	NC	_
@@ -8509,7 +8517,7 @@ monde	monde	NC	_
 Heureusement	Heureusement	ADV	_
 que	que	CS	_
 nos	notre	DET	_
-chèrs	chèrs	NC	_
+chèrs	cher	NC	_
 -	-	PONCT	_
 bons	bon	ADJ	_
 parens	parent	NC	_
@@ -8544,7 +8552,7 @@ de	de	P	_
 peine	peine	NC	_
 !	!	PONCT	_
 *	*	X	_
-Mme	Mme	NC	_
+Mme	madame	NC	_
 Parangon	Parangon	NP	_
 ,	,	PONCT	_
 la	le	DET	_
@@ -8612,7 +8620,7 @@ fait	faire	VPP	_
 venir	venir	VINF	_
 ici	ici	ADV	_
 *	*	PONCT	_
-Mlle	Mlle	NC	_
+Mlle	mademoiselle	NC	_
 Fanchette	Fanchette	NP	_
 ,	,	PONCT	_
 pour	pour	P	_
@@ -8687,7 +8695,7 @@ s'	se	CLO	_
 attacherait	attacher	V	_
 à	à	P	_
 Edmond	Edmond	NP	_
-plûs	plûs	NP	_
+plûs	plus	NP	_
 qu'	que	CS	_
 elle	il	CLS	_
 ne	ne	ADV	_
@@ -8763,7 +8771,7 @@ Car	car	CC	_
 il	il	CLS	_
 aime	aimer	V	_
 *	*	PONCT	_
-Mme	Mme	NC	_
+Mme	madame	NC	_
 Parangon	Parangon	NP	_
 ,	,	PONCT	_
 au	à_le	P+D	_
@@ -8775,7 +8783,7 @@ je	je	CLS	_
 l'	il	CLO	_
 en-aurais	en-aurais	V	_
 cru	croire	VPP	_
-amoureus	amoureus	ADJ	_
+amoureus	amoureux	ADJ	_
 ,	,	PONCT	_
 si	si	CS	_
 cela	cela	PRO	_
@@ -8812,7 +8820,7 @@ la	le	DET	_
 reconcilation	reconcilation	NC	_
 de	de	P	_
 *	*	PONCT	_
-Mme	Mme	NC	_
+Mme	madame	NC	_
 *	*	X	_
 Parangon	Parangon	NP	_
 avec	avec	P	_
@@ -8833,7 +8841,7 @@ au	à_le	P+D	_
 sujet	sujet	NC	_
 de	de	P	_
 *	*	PONCT	_
-Mme	Mme	NC	_
+Mme	madame	NC	_
 *	*	X	_
 Parangon	Parangon	NP	_
 ;	;	PONCT	_
@@ -8906,7 +8914,7 @@ y	y	CLO	_
 a	avoir	V	_
 que	que	ADV	_
 *	*	PONCT	_
-Mme	Mme	NC	_
+Mme	madame	NC	_
 Parangon	Parangon	NP	_
 qui	qui	PROREL	_
 soit	être	V	_
@@ -8935,7 +8943,7 @@ vu	voir	VPP	_
 faire	faire	VINF	_
 à	à	P	_
 *	*	PONCT	_
-Mme	Mme	NC	_
+Mme	madame	NC	_
 *	*	X	_
 Parangon	Parangon	NP	_
 ;	;	PONCT	_
@@ -8967,7 +8975,7 @@ lui	il	CLO	_
 en-fait	en-fait	V	_
 !	!	PONCT	_
 *	*	PONCT	_
-Mme	Mme	NC	_
+Mme	madame	NC	_
 *	*	X	_
 Parangon	Parangon	NP	_
 lui	il	PRO	_
@@ -8987,11 +8995,11 @@ crois	croire	V	_
 ,	,	PONCT	_
 que	que	CS	_
 notre	notre	DET	_
-bellesoeur	bellesœur	NC	_
+bellesoeur	belle-sœur	NC	_
 :	:	PONCT	_
 c'	ce	CLS	_
 est	être	V	_
-charmant	charmant	ADJ	_
+charmant	charmer	ADJ	_
 ,	,	PONCT	_
 et	et	CC	_
 je	je	CLS	_
@@ -9001,10 +9009,10 @@ accoutume	accoutumer	V	_
 avec	avec	P	_
 elles	il	PRO	_
 ,	,	PONCT	_
-sur-tout	sur-tout	ADV	_
+sur-tout	surtout	ADV	_
 avec	avec	P	_
 *	*	PONCT	_
-Mlle	Mlle	NC	_
+Mlle	mademoiselle	NC	_
 Fanchette	Fanchette	NP	_
 ,	,	PONCT	_
 qui	qui	PROREL	_
@@ -9020,7 +9028,7 @@ aime	aimer	V	_
 bien	bien	ADV	_
 .	.	PONCT	_
 *	*	PONCT	_
-Mme	Mme	NC	_
+Mme	madame	NC	_
 Canon	Canon	NP	_
 ne	ne	ADV	_
 goûterait	goûter	V	_
@@ -9048,7 +9056,7 @@ que	que	ADV	_
 nous	nous	PRO	_
 chés	chez	ADJ	_
 *	*	PONCT	_
-Mme	Mme	NC	_
+Mme	madame	NC	_
 Parangon	Parangon	NP	_
 ,	,	PONCT	_
 où	où	PROREL	_
@@ -9062,11 +9070,11 @@ temps	temps	NC	_
 ce	ce	PRO	_
 qui	qui	PROREL	_
 est	être	V	_
-heureus	heureus	ADJ	_
+heureus	heureux	ADJ	_
 !	!	PONCT	_
 Car	car	CC	_
 *	*	PONCT	_
-Mme	Mme	NC	_
+Mme	madame	NC	_
 Canon	Canon	NP	_
 est	être	V	_
 tanante	tanante	ADJ	_
@@ -9099,7 +9107,7 @@ je	je	CLS	_
 ne	ne	ADV	_
 suis	être	V	_
 ni	ni	CC	_
-plûs	plûs	NC	_
+plûs	plus	NC	_
 ni	ni	CC	_
 moins	moins	ADV	_
 qu'	que	CS	_
@@ -9144,7 +9152,7 @@ brune	brun	ADJ	_
 aumoins	aumoins	NC	_
 par	par	P	_
 les	le	DET	_
-cheveus	cheveus	NC	_
+cheveus	cheveux	NC	_
 :	:	PONCT	_
 mais	mais	CC	_
 la	le	DET	_
@@ -9277,7 +9285,7 @@ tout	tout	ADV	_
 ,	,	PONCT	_
 et	et	CC	_
 *	*	PONCT	_
-Mme	Mme	NC	_
+Mme	madame	NC	_
 Parangon	Parangon	NP	_
 la	le	DET	_
 première	première	NC	_
@@ -9304,7 +9312,7 @@ entendre	entendre	VINF	_
 que	que	ADV	_
 des	un	DET	_
 choses	chose	NC	_
-grâcieuses	grâcieuses	ADJ	_
+grâcieuses	gracieux	ADJ	_
 et	et	CC	_
 qui	qui	PROREL	_
 font	faire	V	_
@@ -9414,7 +9422,7 @@ bien	bien	ADV	_
 demoiselle	demoiselle	NC	_
 ,	,	PONCT	_
 et	et	CC	_
-charmante	charmant	ADJ	_
+charmante	charmer	ADJ	_
 ,	,	PONCT	_
 comme	comme	CS	_
 tu	tu	CLS	_
@@ -9425,7 +9433,7 @@ la	le	DET	_
 lettre	lettre	NC	_
 de	de	P	_
 notre	notre	DET	_
-chèr	chèr	NC	_
+chèr	cher	NC	_
 frère	frère	ADJ	_
 à	à	P	_
 ton	ton	DET	_
@@ -9495,7 +9503,7 @@ aussi	aussi	ADV	_
 je	je	CLS	_
 ne	ne	ADV	_
 sais	savoir	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 Edmond	Edmond	NP	_
 ,	,	PONCT	_
 qui	qui	PROREL	_
@@ -9566,7 +9574,7 @@ m'	je	CLO	_
 a	avoir	V	_
 toujours	toujours	ADV	_
 la	le	DET	_
-plûs	plûs	NC	_
+plûs	plus	NC	_
 -	-	PONCT	_
 aimée	aimer	VPP	_
 .	.	PONCT	_
@@ -9664,9 +9672,11 @@ fille	fille	NC	_
 Je	je	CLS	_
 consulterai	consulter	V	_
 *	*	PONCT	_
-Mme	Mme	NC	_
+Mme	madame	NC	_
 Parangon	Parangon	NP	_
-là-dessus	là-dessus	ADV	_
+là	là	ADV	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 .	.	PONCT	_
 Lettre	lettre	NC	_
 6	6	ADJ	_
@@ -9818,7 +9828,7 @@ amie	ami	NC	_
 et	et	CC	_
 de	de	P	_
 -	-	PONCT	_
-plûs	plûs	NC	_
+plûs	plus	NC	_
 la	le	DET	_
 soeur	sœur	NC	_
 du	de_le	P+D	_
@@ -9977,7 +9987,7 @@ toujours	toujours	ADV	_
 eue	avoir	VPP	_
 pour	pour	P	_
 le	le	DET	_
-chèr	chèr	NC	_
+chèr	cher	NC	_
 Edmond	Edmond	NP	_
 et	et	CC	_
 la	le	DET	_
@@ -10098,7 +10108,7 @@ soeur	sœur	NC	_
 ce	ce	DET	_
 mariage	mariage	NC	_
 du	de_le	P+D	_
-chèr	chèr	NC	_
+chèr	cher	NC	_
 Edmond	Edmond	NP	_
 ,	,	PONCT	_
 et	et	CC	_
@@ -10188,7 +10198,7 @@ donner	donner	VINF	_
 toute	tout	DET	_
 satisfaction	satisfaction	NC	_
 au	à_le	P+D	_
-chèr	chèr	NC	_
+chèr	cher	NC	_
 et	et	CC	_
 bien-aimé	bien-aimé	ADJ	_
 frère	frère	NC	_
@@ -10202,7 +10212,7 @@ Dieu	Dieu	NP	_
 le	il	CLO	_
 veuille	vouloir	V	_
 rendre	rendre	VINF	_
-heureus	heureus	VPP	_
+heureus	heureux	VPP	_
 par	par	P	_
 elle	il	PRO	_
 ,	,	PONCT	_
@@ -10244,7 +10254,7 @@ marquerai	marquer	V	_
 la	le	DET	_
 femme	femme	NC	_
 du	de_le	P+D	_
-chèr	chèr	NC	_
+chèr	cher	NC	_
 frère	frère	ADJ	_
 ,	,	PONCT	_
 tous	tout	ADJ	_
@@ -10267,7 +10277,8 @@ femme	femme	NC	_
 d'	de	P	_
 Edmond	Edmond	NP	_
 .	.	PONCT	_
-Quant_à	quant_à	P	_
+Quant	quant	ADV	_
+à	à	P	_
 ce	ce	PRO	_
 qui	qui	PROREL	_
 est	être	V	_
@@ -10417,7 +10428,7 @@ posée	poser	VPP	_
 et	et	CC	_
 pourtant	pourtant	ADV	_
 si	si	CS	_
-grâcieuse	grâcieuse	ADJ	_
+grâcieuse	gracieux	ADJ	_
 et	et	CC	_
 si	si	ADV	_
 vive	vif	ADJ	_
@@ -10542,7 +10553,7 @@ arrêta	arrêter	V	_
 pour	pour	P	_
 nous	nous	CLO	_
 regarder	regarder	VINF	_
-toutes	tous	PRO	_
+toutes	tout	PRO	_
 ,	,	PONCT	_
 et	et	CC	_
 il	il	CLS	_
@@ -10606,7 +10617,7 @@ plus	plus	ADV	_
 séante	séant	ADJ	_
 et	et	CC	_
 la	le	DET	_
-meilleure	meilleure	NC	_
+meilleure	meilleur	NC	_
 ,	,	PONCT	_
 comme	comme	P	_
 la	le	DET	_
@@ -10744,7 +10755,7 @@ bien	bien	ADV	_
 cette	ce	DET	_
 belle	beau	ADJ	_
 et	et	CC	_
-grâcieuse	grâcieuse	ADJ	_
+grâcieuse	gracieux	ADJ	_
 image	image	NC	_
 ,	,	PONCT	_
 qu'	que	CS	_
@@ -10829,14 +10840,15 @@ moins	moins	ADV	_
 -	-	PONCT	_
 agréable	agréable	ADJ	_
 .	.	PONCT	_
-Quant_à	quant_à	P	_
+Quant	quant	ADV	_
+à	à	P	_
 vos	votre	DET	_
 soeurs	sœur	NC	_
 ,	,	PONCT	_
 il	il	CLS	_
 les	il	CLO	_
 loua	louer	V	_
-toutes	tous	PRO	_
+toutes	tout	PRO	_
 ,	,	PONCT	_
 et	et	CC	_
 les	il	CLO	_
@@ -10880,7 +10892,8 @@ tout	tout	PRO	_
 -	-	PONCT	_
 enfant	enfant	NC	_
 .	.	PONCT	_
-Quant_à	quant_à	P	_
+Quant	quant	ADV	_
+à	à	P	_
 ce	ce	PRO	_
 qui	qui	PROREL	_
 est	être	V	_
@@ -10911,7 +10924,7 @@ il	il	CLS	_
 faut	falloir	V	_
 que	que	CS	_
 vous	vous	PRO	_
-soyiez	soyiez	V	_
+soyiez	être	V	_
 comme	comme	CS	_
 on	on	CLS	_
 est	être	V	_
@@ -11013,10 +11026,10 @@ m'	je	CLO	_
 écrivez	écrire	V	_
 ,	,	PONCT	_
 nos	notre	DET	_
-chèrs	chèrs	NC	_
+chèrs	cher	NC	_
 parens	parent	ADJ	_
 sont	être	V	_
-heureus	heureus	ADJ	_
+heureus	heureux	ADJ	_
 de	de	P	_
 n'	ne	ADV	_
 avoir	avoir	VINF	_
@@ -11043,7 +11056,8 @@ et	et	CC	_
 tendres	tendre	ADJ	_
 coeurs	cœur	NC	_
 .	.	PONCT	_
-Quant_à	quant_à	P	_
+Quant	quant	ADV	_
+à	à	P	_
 ce	ce	PRO	_
 qui	qui	PROREL	_
 est	être	V	_
@@ -11126,7 +11140,7 @@ sais	savoir	V	_
 en	en	P	_
 quelles	quel	DET	_
 mains	main	NC	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 elle	il	CLS	_
 est	être	V	_
 ,	,	PONCT	_
@@ -11142,14 +11156,15 @@ sagesse	sagesse	NC	_
 même	même	ADJ	_
 :	:	PONCT	_
 et	et	CC	_
-quant_à	quant_à	P	_
+quant	quant	ADV	_
+à	à	P	_
 ce	ce	PRO	_
 qui	qui	PROREL	_
 est	être	V	_
 de	de	P	_
 sa	son	DET	_
 nouvelle	nouveau	ADJ	_
-bellesoeur	bellesœur	NC	_
+bellesoeur	belle-sœur	NC	_
 ,	,	PONCT	_
 tout	tout	PRO	_
 -	-	PONCT	_
@@ -11232,7 +11247,7 @@ nous	nous	PRO	_
 ,	,	PONCT	_
 et	et	CC	_
 à	à	P	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 vous	vous	PRO	_
 -	-	PONCT	_
 autres	autre	NC	_
@@ -11353,7 +11368,7 @@ fe	fe	NC	_
 de	de	P	_
 Pierre	Pierre	NP	_
 R.	R.	NP	_
-Lettre	Lettre	NC	_
+Lettre	lettre	NC	_
 7	7	ADJ	_
 .	.	PONCT	_
 *	*	X	_
@@ -11461,7 +11476,7 @@ joie	joie	NC	_
 d'	de	P	_
 autant	autant	ADV	_
 -	-	PONCT	_
-plûs	plûs	NC	_
+plûs	plus	NC	_
 ,	,	PONCT	_
 qu'	que	CS	_
 on	on	CLS	_
@@ -11483,7 +11498,7 @@ répugnance	répugnance	NC	_
 mais	mais	CC	_
 il	il	CLS	_
 le	il	CLO	_
-falait	falait	V	_
+falait	falloir	V	_
 ,	,	PONCT	_
 et	et	CC	_
 on	on	CLS	_
@@ -11725,7 +11740,7 @@ bien-vite	bien-vite	ADV	_
 relevée	relever	VPP	_
 ,	,	PONCT	_
 en-lui	en-lui	NC	_
-disant	disant	ADJ	_
+disant	dire	VPR	_
 ,	,	PONCT	_
 -	-	X	_
 asséyons	asséyons	V	_
@@ -11773,7 +11788,7 @@ debout	debout	ADV	_
 autour	autour	ADV	_
 d'	de	P	_
 elle	il	PRO	_
-fesaient	fesaient	V	_
+fesaient	faire	V	_
 un	un	DET	_
 rond	rond	NC	_
 ,	,	PONCT	_
@@ -11788,7 +11803,7 @@ elle	il	CLS	_
 a	avoir	V	_
 dit	dire	VPP	_
 mille	mille	DET	_
-respectueuses	respectueuse	NC	_
+respectueuses	respectueux	NC	_
 choses	chose	NC	_
 à	à	P	_
 notre	notre	DET	_
@@ -11814,7 +11829,7 @@ un	un	DET	_
 air	air	NC	_
 qui	qui	PROREL	_
 la	le	DET	_
-fesait	fesait	NC	_
+fesait	faire	NC	_
 si	si	ADV	_
 bien	bien	ADV	_
 excuser	excuser	VINF	_
@@ -11831,7 +11846,7 @@ tout	tout	NC	_
 -	-	PONCT	_
 bon	bon	ADJ	_
 père	père	NC	_
-alait	alait	V	_
+alait	aller	V	_
 lui	il	CLO	_
 demander	demander	VINF	_
 pardon	pardon	NC	_
@@ -11869,7 +11884,7 @@ lui	il	CLO	_
 dire	dire	VINF	_
 des	un	DET	_
 choses	chose	NC	_
-grâcieuses	grâcieuses	ADJ	_
+grâcieuses	gracieux	ADJ	_
 ,	,	PONCT	_
 et	et	CC	_
 à	à	P	_
@@ -11878,7 +11893,7 @@ Edmond	Edmond	NP	_
 son	son	DET	_
 fils	fils	NC	_
 avec	avec	P	_
-plûs	plûs	NC	_
+plûs	plus	NC	_
 de	de	P	_
 complaisance	complaisance	NC	_
 ,	,	PONCT	_
@@ -12060,7 +12075,7 @@ jusqu'	jusque	P	_
 l'	il	CLO	_
 appeler	appeler	VINF	_
 son	son	DET	_
-chèr	chèr	NC	_
+chèr	cher	NC	_
 fils	fils	NC	_
 ,	,	PONCT	_
 ce	ce	PRO	_
@@ -12218,11 +12233,11 @@ regretté	regretter	VPP	_
 père	père	NC	_
 :	:	PONCT	_
 bénis	bénir	VPP	_
-soyiez	soyiez	V	_
+soyiez	être	V	_
 -vous	vous	CLS	_
 ,	,	PONCT	_
 mes	mon	DET	_
-chèrs	chèrs	NC	_
+chèrs	cher	NC	_
 enfans	enfant	ADJ	_
 ,	,	PONCT	_
 dont	dont	PROREL	_
@@ -12260,7 +12275,7 @@ pères	père	NC	_
 et	et	CC	_
 du	de_le	P+D	_
 plus	plus	ADV	_
-respectueus	respectueus	ADJ	_
+respectueus	respectueux	ADJ	_
 des	de_le	P+D	_
 fils	fils	NC	_
 -	-	PONCT	_
@@ -12354,7 +12369,7 @@ si	si	ADV	_
 aimable	aimable	ADJ	_
 ,	,	PONCT	_
 que	que	CS	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 tant	tant	ADV	_
 que	que	CS	_
 nous	nous	CLS	_
@@ -12431,8 +12446,9 @@ a	avoir	V	_
 quelque	quelque	DET	_
 -	-	PONCT	_
 chose	chose	NC	_
-là-dessous	là-dessous	ADV	_
-!	!	PONCT	_
+là	là	ADV	_
+-	-	PONCT	_
+dessous	dessous	ADV	_!	!	PONCT	_
 Car	car	CC	_
 il	il	CLS	_
 n'	ne	ADV	_
@@ -12447,7 +12463,7 @@ ait	avoir	V	_
 été	être	VPP	_
 un	un	DET	_
 instant	instant	NC	_
-abandonnée	abandonnée	ADJ	_
+abandonnée	abandonné	ADJ	_
 de	de	P	_
 son	son	DET	_
 créateur	créateur	NC	_
@@ -12473,7 +12489,7 @@ comme	comme	P	_
 violence	violence	NC	_
 ,	,	PONCT	_
 encore	encore	ADV	_
-plûs	plûs	ADJ	_
+plûs	plus	ADJ	_
 que	que	CS	_
 finesse	finesse	NC	_
 .	.	PONCT	_
@@ -12526,7 +12542,7 @@ il	il	CLS	_
 l'	il	CLO	_
 a	avoir	V	_
 beaucoup	beaucoup	ADV	_
-plûs	plûs	VPP	_
+plûs	plus	VPP	_
 appelée	appeler	VPP	_
 sa	son	DET	_
 fille	fille	NC	_
@@ -12556,7 +12572,7 @@ le	le	DET	_
 respectable	respectable	ADJ	_
 vieillard	vieillard	NC	_
 dit	dire	V	_
-avanhièr	avanhièr	NC	_
+avanhièr	avant_hier	NC	_
 à	à	P	_
 son	son	DET	_
 fils	fils	NC	_
@@ -12621,7 +12637,7 @@ resisté	résister	VPP	_
 Elle	il	CLS	_
 n'	ne	ADV	_
 avait	avoir	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 à	à	P	_
 être	être	VINF	_
 comme	comme	P	_
@@ -12641,7 +12657,7 @@ amie	ami	ADJ	_
 que	que	PROREL	_
 nous	nous	CLS	_
 voila	voiler	V	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 -	-	PONCT	_
 bien	bien	ADV	_
 reconciliés	réconcilier	VPP	_
@@ -12653,7 +12669,7 @@ ce	ce	PRO	_
 qui	qui	PROREL	_
 m'	je	CLO	_
 en-fait	en-fait	V	_
-plûs	plûs	NC	_
+plûs	plus	NC	_
 de	de	P	_
 plaisir	plaisir	NC	_
 ,	,	PONCT	_
@@ -12715,7 +12731,7 @@ sans	sans	P	_
 elles	il	PRO	_
 ,	,	PONCT	_
 notre	notre	DET	_
-chèr	chèr	NC	_
+chèr	cher	NC	_
 Edmond	Edmond	NP	_
 ne	ne	ADV	_
 l'	il	CLO	_
@@ -12736,7 +12752,7 @@ grande	grand	ADJ	_
 impression	impression	NC	_
 sur	sur	P	_
 nos	notre	DET	_
-chèrs	chèrs	NC	_
+chèrs	cher	NC	_
 père	père	NC	_
 et	et	CC	_
 mère	mère	NC	_
@@ -12776,7 +12792,7 @@ tout	tout	ADJ	_
 le	le	DET	_
 monde	monde	NC	_
 :	:	PONCT	_
-hièr	hièr	NP	_
+hièr	hier	NP	_
 elle	il	CLS	_
 vit	vivre	V	_
 que	que	CS	_
@@ -12813,7 +12829,7 @@ assés	assez	ADV	_
 libertin	libertin	ADJ	_
 ,	,	PONCT	_
 comme	comme	P	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 -	-	PONCT	_
 ceux	celui	PRO	_
 de	de	P	_
@@ -12928,7 +12944,7 @@ tendresses	tendresse	NC	_
 la	le	DET	_
 petite	petite	NC	_
 *	*	PONCT	_
-Mlle	Mlle	NC	_
+Mlle	mademoiselle	NC	_
 Fanchette	Fanchette	NP	_
 ,	,	PONCT	_
 dont	dont	PROREL	_
@@ -12965,7 +12981,7 @@ affectionnée	affectionner	VPP	_
 ,	,	PONCT	_
 autant	autant	ADV	_
 et	et	CC	_
-plûs	plûs	V	_
+plûs	plus	V	_
 que	que	CS	_
 si	si	CS	_
 elle	il	CLS	_
@@ -13023,7 +13039,7 @@ fortes	fort	ADJ	_
 eussent	avoir	V	_
 été	être	VPP	_
 moins	moins	ADV	_
-pervertissantes	pervertissantes	ADJ	_
+pervertissantes	pervertissant	ADJ	_
 .	.	PONCT	_
 )	)	PONCT	_
 ta	ton	DET	_
@@ -13081,7 +13097,7 @@ le	le	DET	_
 retour	retour	NC	_
 de	de	P	_
 ma	mon	DET	_
-bellesoeur	bellesœur	NC	_
+bellesoeur	belle-sœur	NC	_
 Manon	Manon	NP	_
 :	:	PONCT	_
 et	et	CC	_
@@ -13121,7 +13137,7 @@ la	le	DET	_
 noce	noce	NC	_
 de	de	P	_
 *	*	X	_
-Mlle	Mlle	NC	_
+Mlle	mademoiselle	NC	_
 Tiennette	Tiennette	NP	_
 et	et	CC	_
 de	de	P	_
@@ -13147,7 +13163,7 @@ leurs	leur	DET	_
 peines	peine	NC	_
 :	:	PONCT	_
 *	*	PONCT	_
-Mme	Mme	NC	_
+Mme	madame	NC	_
 *	*	X	_
 Loiseau	Loiseau	NP	_
 va	aller	V	_
@@ -13173,7 +13189,7 @@ son	son	DET	_
 mari	mari	NC	_
 ,	,	PONCT	_
 et	et	CC	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 -	-	PONCT	_
 ceux	celui	PRO	_
 qui	qui	PROREL	_
@@ -13248,7 +13264,7 @@ fête	fête	NC	_
 et	et	CC	_
 quoique	quoique	CS	_
 *	*	X	_
-Mme	Mme	NC	_
+Mme	madame	NC	_
 Canon	Canon	NP	_
 ne	ne	ADV	_
 s'	se	CLO	_
@@ -13261,7 +13277,7 @@ ai	avoir	V	_
 été	être	VPP	_
 ,	,	PONCT	_
 *	*	PONCT	_
-Mme	Mme	NC	_
+Mme	madame	NC	_
 Parangon	Parangon	NP	_
 ayant	avoir	VPR	_
 fait	faire	VPP	_
@@ -13326,7 +13342,7 @@ tante	tante	NC	_
 a	avoir	V	_
 repris	reprendre	VPP	_
 *	*	PONCT	_
-Mme	Mme	NC	_
+Mme	madame	NC	_
 Parangon	Parangon	NP	_
 ,	,	PONCT	_
 c'	ce	CLS	_
@@ -13334,7 +13350,7 @@ est	être	V	_
 une	un	DET	_
 fille	fille	NC	_
 à	à	P	_
-quî	quî	NC	_
+quî	qui	NC	_
 je	je	CLS	_
 sers	servir	V	_
 de	de	P	_
@@ -13372,7 +13388,7 @@ m'	je	CLO	_
 habiller	habiller	VINF	_
 .	.	PONCT	_
 *	*	PONCT	_
-Mme	Mme	NC	_
+Mme	madame	NC	_
 Parangon	Parangon	NP	_
 m'	je	CLO	_
 a	avoir	V	_
@@ -13393,7 +13409,7 @@ a	avoir	V	_
 convenu	convenir	VPP	_
 que	que	CS	_
 *	*	PONCT	_
-Mme	Mme	NC	_
+Mme	madame	NC	_
 Canon	Canon	NP	_
 me	je	CLO	_
 mènerait	mener	V	_
@@ -13410,7 +13426,7 @@ avoir	avoir	VINF	_
 Après	après	P	_
 que	que	CS	_
 *	*	PONCT	_
-Mme	Mme	NC	_
+Mme	madame	NC	_
 *	*	X	_
 Parangon	Parangon	NP	_
 a	avoir	V	_
@@ -13418,7 +13434,7 @@ a	avoir	V	_
 partie	partir	VPP	_
 ,	,	PONCT	_
 *	*	PONCT	_
-Mme	Mme	NC	_
+Mme	madame	NC	_
 Canon	Canon	NP	_
 s'	se	CLO	_
 est	être	V	_
@@ -13429,7 +13445,7 @@ donner	donner	VINF	_
 des	un	DET	_
 avis	avis	NC	_
 ,	,	PONCT	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 fort	fort	ADV	_
 -	-	PONCT	_
 bons	bon	ADJ	_
@@ -13493,7 +13509,7 @@ et	et	CC	_
 en-arrivant	en-arrivant	NP	_
 ,	,	PONCT	_
 *	*	PONCT	_
-Mme	Mme	NC	_
+Mme	madame	NC	_
 Parangon	Parangon	NP	_
 a	avoir	V	_
 eu	avoir	VPP	_
@@ -13742,14 +13758,14 @@ quelque	quelque	DET	_
 temps	temps	NC	_
 à	à	P	_
 *	*	X	_
-Mme	Mme	NC	_
+Mme	madame	NC	_
 Parangon	Parangon	NP	_
 ,	,	PONCT	_
 en	en	P	_
 me	je	CLO	_
 regardant	regarder	VPR	_
 par	par	P	_
-intervales	intervales	NC	_
+intervales	intervalle	NC	_
 ,	,	PONCT	_
 d'	de	P	_
 un	un	DET	_
@@ -13780,7 +13796,7 @@ unique	unique	ADJ	_
 -	-	PONCT	_
 !	!	PONCT	_
 Ma	mon	DET	_
-charmante	charmant	ADJ	_
+charmante	charmer	ADJ	_
 amie	ami	NC	_
 me	je	CLO	_
 regardait	regarder	V	_
@@ -13813,7 +13829,9 @@ veux	vouloir	V	_
 pas	pas	ADV	_
 trop	trop	ADV	_
 arrêter	arrêter	VINF	_
-là-dessus	là-dessus	ADV	_
+là	là	ADV	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 ma	mon	DET	_
 pensée	pensée	NC	_
 ,	,	PONCT	_
@@ -13822,7 +13840,7 @@ de	de	P	_
 vanité	vanité	NC	_
 .	.	PONCT	_
 *	*	PONCT	_
-Mme	Mme	NC	_
+Mme	madame	NC	_
 Parangon	Parangon	NP	_
 est	être	V	_
 ensuite	ensuite	ADV	_
@@ -13882,14 +13900,14 @@ si	si	ADV	_
 obligeante	obligeant	ADJ	_
 ,	,	PONCT	_
 que	que	CS	_
-plûs	plûs	NC	_
+plûs	plus	NC	_
 elle	il	CLS	_
 fait	faire	V	_
 de	de	P	_
 bien	bien	ADV	_
 ,	,	PONCT	_
 ou	ou	CC	_
-plûs	plûs	NC	_
+plûs	plus	NC	_
 elle	il	CLS	_
 a	avoir	V	_
 occasion	occasion	NC	_
@@ -13898,7 +13916,7 @@ il	il	CLS	_
 en-arrive	en-arrive	V	_
 ,	,	PONCT	_
 et	et	CC	_
-plûs	plûs	NP	_
+plûs	plus	NP	_
 elle	il	CLS	_
 aime	aimer	V	_
 :	:	PONCT	_
@@ -13915,7 +13933,7 @@ a	avoir	V	_
 demandé	demander	VPP	_
 à	à	P	_
 *	*	PONCT	_
-Mme	Mme	NC	_
+Mme	madame	NC	_
 Parangon	Parangon	NP	_
 la	le	DET	_
 permission	permission	NC	_
@@ -13933,7 +13951,7 @@ dame	damer	V	_
 qui	qui	PROREL	_
 s'	se	CLO	_
 est	être	V	_
-bien-doutée	bien-doutée	VPP	_
+bien-doutée	bien-douté	VPP	_
 que	que	CS	_
 je	je	CLS	_
 ne	ne	ADV	_
@@ -14020,7 +14038,7 @@ que	que	CS	_
 Mr	monsieur	NC	_
 le	le	DET	_
 conseiller	conseiller	VINF	_
-alait	alait	NC	_
+alait	aller	NC	_
 me	je	CLO	_
 prier	prier	VINF	_
 .	.	PONCT	_
@@ -14078,7 +14096,7 @@ ne	ne	ADV	_
 me	je	CLO	_
 suis	être	V	_
 pas	pas	ADV	_
-mal-tirée	mal-tirée	ADJ	_
+mal-tirée	mal-tiré	ADJ	_
 .	.	PONCT	_
 Dès	dès	P	_
 le	le	DET	_
@@ -14204,7 +14222,7 @@ dont	dont	PROREL	_
 l'	il	CLO	_
 affectionnent	affectionner	V	_
 nos	notre	DET	_
-chèrs	chèrs	NC	_
+chèrs	cher	NC	_
 père	père	NC	_
 et	et	CC	_
 mère	mère	NC	_
@@ -14253,7 +14271,7 @@ elle	il	PRO	_
 autant	autant	ADV	_
 que	que	CS	_
 *	*	PONCT	_
-Mme	Mme	NC	_
+Mme	madame	NC	_
 Parangon	Parangon	NP	_
 .	.	PONCT	_
 L'	le	DET	_
@@ -14261,7 +14279,7 @@ homme	homme	NC	_
 que	que	PROREL	_
 vous	vous	CLS	_
 savez	savoir	V	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 ,	,	PONCT	_
 ne	ne	ADV	_
 s'	se	CLO	_
@@ -14308,7 +14326,7 @@ la	le	DET	_
 noce	noce	NC	_
 de	de	P	_
 *	*	X	_
-Mlle	Mlle	NC	_
+Mlle	mademoiselle	NC	_
 Tiennette	Tiennette	NP	_
 s'	se	CLO	_
 est	être	V	_
@@ -14485,7 +14503,7 @@ tout	tout	DET	_
 conté	conté	NC	_
 à	à	P	_
 *	*	PONCT	_
-Mme	Mme	NC	_
+Mme	madame	NC	_
 Parangon	Parangon	NP	_
 ,	,	PONCT	_
 pendant	pendant	P	_
@@ -14497,7 +14515,7 @@ Manon	Manon	NP	_
 ,	,	PONCT	_
 qui	qui	PROREL	_
 me	je	CLO	_
-fesait	fesait	V	_
+fesait	faire	V	_
 mille	mille	DET	_
 caresses	caresse	NC	_
 ,	,	PONCT	_
@@ -14517,7 +14535,7 @@ frère	frère	NC	_
 a	avoir	V	_
 ramené	ramener	VPP	_
 *	*	PONCT	_
-Mme	Mme	NC	_
+Mme	madame	NC	_
 Parangon	Parangon	NP	_
 auprès	auprès	ADV	_
 de	de	P	_
@@ -14537,14 +14555,14 @@ du	de_le	P+D	_
 temps	temps	NC	_
 avec	avec	P	_
 *	*	X	_
-Mlle	Mlle	NC	_
+Mlle	mademoiselle	NC	_
 Fanchette	Fanchette	NP	_
 et	et	CC	_
 moi	je	PRO	_
 ,	,	PONCT	_
 chés	chez	NC	_
 *	*	PONCT	_
-Mme	Mme	NC	_
+Mme	madame	NC	_
 Canon	Canon	NP	_
 ,	,	PONCT	_
 qui	qui	PROREL	_
@@ -14587,7 +14605,7 @@ heureuse	heureux	ADJ	_
 je	je	CLS	_
 n'	ne	ADV	_
 aurais	avoir	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 à	à	P	_
 rester	rester	VINF	_
 comme	comme	P	_
@@ -14602,7 +14620,7 @@ pas	pas	ADV	_
 assés	assez	ADV	_
 pour	pour	P	_
 *	*	PONCT	_
-Mme	Mme	NC	_
+Mme	madame	NC	_
 Parangon	Parangon	NP	_
 :	:	PONCT	_
 elle	il	CLS	_
@@ -14616,7 +14634,7 @@ soeur	sœur	NC	_
 et	et	CC	_
 que	que	CS	_
 nous	nous	PRO	_
-alions	alions	ADV	_
+alions	aller	ADV	_
 ensemble	ensemble	ADV	_
 à	à	P	_
 Paris	Paris	NP	_
@@ -14626,7 +14644,7 @@ la	le	DET	_
 conduite	conduite	NC	_
 de	de	P	_
 *	*	PONCT	_
-Mme	Mme	NC	_
+Mme	madame	NC	_
 Canon	Canon	NP	_
 ;	;	PONCT	_
 elle	il	CLS	_
@@ -14750,7 +14768,7 @@ faire	faire	VINF	_
 heureusement	heureusement	ADV	_
 que	que	CS	_
 *	*	PONCT	_
-Mlle	Mlle	NC	_
+Mlle	mademoiselle	NC	_
 Fanchette	Fanchette	NP	_
 était	être	V	_
 dans	dans	P	_
@@ -14852,7 +14870,8 @@ ai	avoir	V	_
 vu	voir	VPP	_
 persone	personne	PRO	_
 .	.	PONCT	_
-Quant_à	quant_à	P	_
+Quant	quant	ADV	_
+à	à	P	_
 *	*	X	_
 Mr	monsieur	NC	_
 Gaudét	Gaudét	NP	_
@@ -14880,7 +14899,7 @@ tu	tu	CLS	_
 sais	savoir	V	_
 ;	;	PONCT	_
 *	*	PONCT	_
-Mme	Mme	NC	_
+Mme	madame	NC	_
 Parangon	Parangon	NP	_
 s'	se	CLO	_
 y	y	CLO	_
@@ -14897,7 +14916,7 @@ frère	frère	NC	_
 bien-fortement	bien-fortement	ADV	_
 ,	,	PONCT	_
 et	et	CC	_
-plûs	plûs	V	_
+plûs	plus	V	_
 que	que	CS	_
 je	je	CLS	_
 n'	ne	ADV	_
@@ -14944,7 +14963,7 @@ parler	parler	VINF	_
 :	:	PONCT	_
 mais	mais	CC	_
 *	*	PONCT	_
-Mme	Mme	NC	_
+Mme	madame	NC	_
 *	*	X	_
 Canon	Canon	NP	_
 d'	de	P	_
@@ -14987,7 +15006,7 @@ de	de	P	_
 Paris	Paris	NP	_
 me	je	CLO	_
 serait	être	V	_
-avantageus	avantageus	VPP	_
+avantageus	avantageux	VPP	_
 ;	;	PONCT	_
 je	je	CLS	_
 le	il	CLO	_
@@ -14998,7 +15017,7 @@ de	de	P	_
 la	le	DET	_
 chère	chère	NC	_
 *	*	PONCT	_
-Mme	Mme	NC	_
+Mme	madame	NC	_
 Parangon	Parangon	NP	_
 ,	,	PONCT	_
 qui	qui	PROREL	_
@@ -15036,7 +15055,7 @@ d'	de	P	_
 en-parler	en-parler	NC	_
 à	à	P	_
 nos	notre	DET	_
-chèrs	chèrs	NC	_
+chèrs	cher	NC	_
 père	père	NC	_
 et	et	CC	_
 mère	mère	NC	_
@@ -15153,7 +15172,7 @@ il	il	CLS	_
 n'	ne	ADV	_
 y	y	CLO	_
 a	avoir	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 avec	avec	P	_
 toi	tu	PRO	_
 que	que	PROREL	_
@@ -15211,7 +15230,7 @@ trois	trois	NC	_
 ici	ici	ADV	_
 ,	,	PONCT	_
 *	*	PONCT	_
-Mme	Mme	NC	_
+Mme	madame	NC	_
 Loiseau	Loiseau	NP	_
 ,	,	PONCT	_
 ma	mon	DET	_
@@ -15236,14 +15255,14 @@ alons	alons	V	_
 chés	chez	NC	_
 ,	,	PONCT	_
 *	*	PONCT	_
-Mme	Mme	NC	_
+Mme	madame	NC	_
 Parangon	Parangon	NP	_
 nous	nous	CLS	_
 tâchons	tâcher	V	_
 d'	de	P	_
 y	y	CLO	_
 être	être	VINF	_
-toutes	tous	PRO	_
+toutes	tout	PRO	_
 ensemble	ensemble	ADV	_
 ,	,	PONCT	_
 pour	pour	P	_
@@ -15258,7 +15277,7 @@ réünir	réunir	VINF	_
 :	:	PONCT	_
 et	et	CC	_
 *	*	PONCT	_
-Mme	Mme	NC	_
+Mme	madame	NC	_
 Parangon	Parangon	NP	_
 a	avoir	V	_
 une	un	DET	_
@@ -15347,7 +15366,7 @@ avions	avoir	V	_
 :	:	PONCT	_
 aulieu	aulieu	NC	_
 qu'	que	CS	_
-hièr	hièr	NP	_
+hièr	hier	NP	_
 ,	,	PONCT	_
 il	il	CLS	_
 en-a	en-a	V	_
@@ -15373,11 +15392,11 @@ pas	pas	ADV	_
 que	que	CS	_
 nous	nous	CLS	_
 l'	il	CLO	_
-ayions	ayions	V	_
+ayions	avoir	V	_
 entendue	entendre	VPP	_
 ,	,	PONCT	_
 *	*	PONCT	_
-Mme	Mme	NC	_
+Mme	madame	NC	_
 Loiseau	Loiseau	NP	_
 et	et	CC	_
 moi	je	PRO	_
@@ -15408,13 +15427,13 @@ neuves	neuf	ADJ	_
 ,	,	PONCT	_
 à	à	P	_
 *	*	PONCT	_
-Mme	Mme	NC	_
+Mme	madame	NC	_
 *	*	X	_
 Parangon	Parangon	NP	_
 ,	,	PONCT	_
 à	à	P	_
 *	*	PONCT	_
-Mlle	Mlle	NC	_
+Mlle	mademoiselle	NC	_
 Fanchette	Fanchette	NP	_
 et	et	CC	_
 à	à	P	_
@@ -15439,7 +15458,7 @@ son	son	DET	_
 avis	avis	NC	_
 à	à	P	_
 *	*	PONCT	_
-Mme	Mme	NC	_
+Mme	madame	NC	_
 Parangon	Parangon	NP	_
 et	et	CC	_
 à	à	P	_
@@ -15481,7 +15500,7 @@ finesse	finesse	NC	_
 ,	,	PONCT	_
 mais	mais	CC	_
 *	*	PONCT	_
-Mme	Mme	NC	_
+Mme	madame	NC	_
 Loiseau	Loiseau	NP	_
 ,	,	PONCT	_
 elle	il	PRO	_
@@ -15500,7 +15519,7 @@ la	le	DET	_
 fougère	fougère	NC	_
 !	!	PONCT	_
 *	*	X	_
-Mme	Mme	NC	_
+Mme	madame	NC	_
 Parangon	Parangon	NP	_
 l'	il	CLO	_
 a	avoir	V	_
@@ -15545,7 +15564,7 @@ criminel	criminel	NC	_
 car	car	CC	_
 j'	je	CLS	_
 aime	aimer	V	_
-quî	quî	NC	_
+quî	qui	NC	_
 je	je	CLS	_
 dois	devoir	V	_
 aimer	aimer	VINF	_
@@ -15653,7 +15672,7 @@ séparer	séparer	VINF	_
 -	-	PONCT	_
 .	.	PONCT	_
 *	*	PONCT	_
-Mme	Mme	NC	_
+Mme	madame	NC	_
 Parangon	Parangon	NP	_
 l'	il	CLO	_
 a	avoir	V	_
@@ -15698,12 +15717,12 @@ tenir	tenir	VINF	_
 de	de	P	_
 pareils	pareil	ADJ	_
 :	:	PONCT	_
-plûs	plûs	NC	_
+plûs	plus	NC	_
 vous	vous	CLS	_
 êtes	être	V	_
 aimable	aimable	ADJ	_
 ,	,	PONCT	_
-plûs	plûs	V	_
+plûs	plus	V	_
 vous	vous	CLS	_
 -vous	vous	CLO	_
 croyez	croire	V	_
@@ -15720,7 +15739,7 @@ et	et	CC	_
 comme	comme	P	_
 ami	ami	NC	_
 ,	,	PONCT	_
-plûs	plûs	NC	_
+plûs	plus	NC	_
 aussi	aussi	ADV	_
 vous	vous	CLS	_
 devez	devoir	V	_
@@ -15804,7 +15823,9 @@ chère	cher	ADJ	_
 soeur	sœur	NC	_
 qui	qui	PROREL	_
 est	être	V	_
-là-dedans	là-dedans	ADV	_
+là	là	ADV	_
+-	-	PONCT	_
+dedans	dedans	ADV	_
 ,	,	PONCT	_
 ainsi	ainsi	ADV	_
 qu'	que	CS	_
@@ -15827,7 +15848,7 @@ Edmond	Edmond	NP	_
 nous	nous	CLS	_
 sommes	être	V	_
 liés	lier	VPP	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 -	-	PONCT	_
 deux	deux	NC	_
 à	à	P	_
@@ -15862,7 +15883,7 @@ connaissez	connaître	V	_
 la	le	DET	_
 vôtre	vôtre	NC	_
 est	être	V	_
-charmante	charmant	ADJ	_
+charmante	charmer	ADJ	_
 ,	,	PONCT	_
 et	et	CC	_
 vous	vous	CLS	_
@@ -15943,7 +15964,7 @@ quelque	quelque	DET	_
 -	-	PONCT	_
 chose	chose	NC	_
 de	de	P	_
-plûs	plûs	NP	_
+plûs	plus	NP	_
 ;	;	PONCT	_
 j'	je	CLS	_
 ose	oser	V	_
@@ -16101,13 +16122,13 @@ devoir	devoir	NC	_
 de	de	P	_
 votre	votre	DET	_
 part	part	NC	_
-sur-tout	sur-tout	ADJ	_
+sur-tout	surtout	ADJ	_
 ,	,	PONCT	_
 m'	je	CLO	_
 est	être	V	_
 agréable	agréable	ADJ	_
 ,	,	PONCT	_
-chèr	chèr	NC	_
+chèr	cher	NC	_
 ...	…	PONCT	_
 vous	vous	CLS	_
 êtes	être	V	_
@@ -16177,7 +16198,7 @@ en-croire	en-croire	ADJ	_
 :	:	PONCT	_
 mais	mais	CC	_
 ,	,	PONCT	_
-chèr	chèr	ADJ	_
+chèr	cher	ADJ	_
 cousin	cousin	NC	_
 ,	,	PONCT	_
 ne	ne	ADV	_
@@ -16226,12 +16247,12 @@ coeur	cœur	NC	_
 elle	il	CLS	_
 vous	vous	CLO	_
 rendra	rendre	V	_
-heureus	heureus	ADJ	_
+heureus	heureux	ADJ	_
 ...	…	PONCT	_
 mais	mais	CC	_
 ,	,	PONCT	_
 mon	mon	DET	_
-chèr	chèr	NC	_
+chèr	cher	NC	_
 Edmond	Edmond	NP	_
 ,	,	PONCT	_
 prenez	prendre	V	_
@@ -16294,7 +16315,7 @@ il	il	CLS	_
 serait	être	V	_
 moins	moins	ADV	_
 -	-	PONCT	_
-dangereus	dangereus	NC	_
+dangereus	dangereux	NC	_
 pour	pour	P	_
 vous	vous	PRO	_
 !	!	PONCT	_
@@ -16349,7 +16370,7 @@ les	le	DET	_
 êtres	être	NC	_
 comme	comme	P	_
 lui	il	PRO	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 un	un	DET	_
 à	à	P	_
 un	un	PRO	_
@@ -16439,7 +16460,7 @@ viens	venir	V	_
 d'	de	P	_
 apprendre	apprendre	VINF	_
 ,	,	PONCT	_
-chèr	chèr	ADJ	_
+chèr	cher	ADJ	_
 ami	ami	NC	_
 ,	,	PONCT	_
 que	que	CS	_
@@ -16463,7 +16484,7 @@ te	tu	CLO	_
 rendre	rendre	VINF	_
 plus	plus	ADV	_
 -	-	PONCT	_
-heureus	heureus	ADJ	_
+heureus	heureux	ADJ	_
 ;	;	PONCT	_
 mais	mais	CC	_
 si	si	CS	_
@@ -16605,15 +16626,16 @@ rien	rien	PRO	_
 de	de	P	_
 mal	mal	NC	_
 .	.	PONCT	_
-Quant_à	quant_à	P	_
+Quant	quant	ADV	_
+à	à	P	_
 ta	ton	DET	_
-charmante	charmant	ADJ	_
+charmante	charmer	ADJ	_
 soeur	sœur	NC	_
 ,	,	PONCT	_
 elle	il	CLS	_
 a	avoir	V	_
 encore	encore	ADV	_
-plûs	plûs	ADJ	_
+plûs	plus	ADJ	_
 raison	raison	NC	_
 (	(	PONCT	_
 cet	ce	DET	_
@@ -16622,7 +16644,7 @@ elle	il	PRO	_
 c'	ce	CLS	_
 est	être	V	_
 *	*	PONCT	_
-Mme	Mme	NC	_
+Mme	madame	NC	_
 Parangon	Parangon	NP	_
 )	)	PONCT	_
 ;	;	PONCT	_
@@ -16711,7 +16733,7 @@ pas	pas	ADV	_
 inutile	inutile	ADJ	_
 .	.	PONCT	_
 Mon	mon	DET	_
-chèr	chèr	NC	_
+chèr	cher	NC	_
 *	*	X	_
 Edmond	Edmond	NP	_
 ,	,	PONCT	_
@@ -16773,7 +16795,7 @@ occasion	occasion	NC	_
 envers	envers	P	_
 et	et	CC	_
 contre	contre	P	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 .	.	PONCT	_
 Mais	mais	CC	_
 (	(	PONCT	_
@@ -16799,7 +16821,7 @@ moi	je	PRO	_
 de	de	P	_
 te	tu	CLO	_
 rendre	rendre	VINF	_
-heureus	heureus	ADJ	_
+heureus	heureux	ADJ	_
 ,	,	PONCT	_
 je	je	CLS	_
 te	tu	CLO	_
@@ -16835,14 +16857,14 @@ aussi	aussi	ADV	_
 (	(	PONCT	_
 tu	tu	CLS	_
 sais	savoir	V	_
-quî	quî	NC	_
+quî	qui	NC	_
 je	je	CLS	_
 veux	vouloir	V	_
 dire	dire	VINF	_
 )	)	PONCT	_
 :	:	PONCT	_
 alors	alors	ADV	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 -	-	PONCT	_
 deux	deux	DET	_
 unis	uni	NC	_
@@ -16920,7 +16942,7 @@ bien	bien	ADV	_
 A	avoir	V	_
 dit	dire	VPP	_
 *	*	PONCT	_
-Mme	Mme	NC	_
+Mme	madame	NC	_
 Parangon	Parangon	NP	_
 ,	,	PONCT	_
 en-achevant	en-achevant	NC	_
@@ -16953,7 +16975,7 @@ la	le	DET	_
 prudence	prudence	NC	_
 !	!	PONCT	_
 Et	et	CC	_
-sur-tout	sur-tout	ADV	_
+sur-tout	surtout	ADV	_
 de	de	P	_
 l'	le	DET	_
 attachement	attachement	NC	_
@@ -16987,7 +17009,7 @@ dernier	dernier	ADJ	_
 trait	trait	NC	_
 est	être	V	_
 d'	de	P	_
-hièr	hièr	NP	_
+hièr	hier	NP	_
 ,	,	PONCT	_
 comme	comme	CS	_
 je	je	CLS	_
@@ -17002,8 +17024,8 @@ chère	cher	ADJ	_
 bonne	bon	ADJ	_
 amie	ami	NC	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
-Lettre	Lettre	NC	_
+etc.	etc	ADV	_
+Lettre	lettre	NC	_
 9	9	ADJ	_
 .	.	PONCT	_
 *	*	X	_
@@ -17134,7 +17156,7 @@ communiquée	communiquer	VPP	_
 non-pas-même	non-pas-même	NC	_
 à	à	P	_
 *	*	PONCT	_
-Mme	Mme	NC	_
+Mme	madame	NC	_
 *	*	X	_
 Parangon	Parangon	NP	_
 ...	…	PONCT	_
@@ -17177,7 +17199,7 @@ je	je	CLS	_
 demande	demander	V	_
 à	à	P	_
 l'	le	DET	_
-aler	aler	NC	_
+aler	aller	NC	_
 voir	voir	VINF	_
 ...	…	PONCT	_
 eh	eh	I	_
@@ -17200,8 +17222,9 @@ a	avoir	V	_
 quelque	quelque	DET	_
 -	-	PONCT	_
 chose	chose	NC	_
-là-dessous	là-dessous	ADV	_
-,	,	PONCT	_
+là	là	ADV	_
+-	-	PONCT	_
+dessous	dessous	ADV	_,	,	PONCT	_
 et	et	CC	_
 vous	vous	CLS	_
 verrez	voir	V	_
@@ -17239,7 +17262,7 @@ qu'	que	CS	_
 Edmond	Edmond	NP	_
 l'	il	CLO	_
 a	avoir	V	_
-bien-aimée	bien-aimée	VPP	_
+bien-aimée	bien-aimé	VPP	_
 dans	dans	P	_
 notre	notre	DET	_
 jeune	jeune	ADJ	_
@@ -17312,9 +17335,9 @@ comme	comme	CS	_
 nous	nous	CLS	_
 le	il	CLO	_
 disait	dire	V	_
-hièr	hièr	ADV	_
+hièr	hier	ADV	_
 *	*	PONCT	_
-Mme	Mme	NC	_
+Mme	madame	NC	_
 *	*	X	_
 Parangon	Parangon	NP	_
 ,	,	PONCT	_
@@ -17511,7 +17534,7 @@ j'	je	CLS	_
 aille	aller	V	_
 voir	voir	VINF	_
 ma	mon	DET	_
-bellesoeur	bellesœur	NC	_
+bellesoeur	belle-sœur	NC	_
 ;	;	PONCT	_
 et	et	CC	_
 comme	comme	CS	_
@@ -17533,13 +17556,13 @@ pour	pour	P	_
 Paris	Paris	NP	_
 ,	,	PONCT	_
 *	*	PONCT	_
-Mlle	Mlle	NC	_
+Mlle	mademoiselle	NC	_
 Fanchette	Fanchette	NP	_
 et	et	CC	_
 moi	je	PRO	_
 :	:	PONCT	_
 *	*	PONCT	_
-Mme	Mme	NC	_
+Mme	madame	NC	_
 Parangon	Parangon	NP	_
 vient	venir	V	_
 de	de	P	_
@@ -17566,7 +17589,7 @@ entrevu	entrevoir	VPP	_
 Edmond	Edmond	NP	_
 ,	,	PONCT	_
 à	à	P	_
-quî	quî	NC	_
+quî	qui	NC	_
 je	je	CLS	_
 n'	ne	ADV	_
 ai	avoir	V	_
@@ -17674,7 +17697,7 @@ peut-être	peut-être	ADV	_
 depeur	depeur	NC	_
 que	que	PROREL	_
 nos	notre	DET	_
-chèrs	chèrs	NC	_
+chèrs	cher	NC	_
 parens	parent	ADJ	_
 ne	ne	ADV	_
 me	je	CLO	_
@@ -17727,7 +17750,7 @@ dérober	dérober	VINF	_
 ;	;	PONCT	_
 car	car	CC	_
 *	*	PONCT	_
-Mme	Mme	NC	_
+Mme	madame	NC	_
 Parangon	Parangon	NP	_
 se	se	CLO	_
 cache	cacher	V	_
@@ -17783,7 +17806,7 @@ moi	je	PRO	_
 serai	être	V	_
 -je	je	CLS	_
 l'	le	DET	_
-infortunée	infortunée	NC	_
+infortunée	infortuné	NC	_
 victime	victime	ADJ	_
 de	de	P	_
 ce	ce	DET	_
@@ -17889,7 +17912,7 @@ votre	votre	DET	_
 adresse	adresse	NC	_
 par	par	P	_
 *	*	PONCT	_
-Mme	Mme	NC	_
+Mme	madame	NC	_
 Parangon	Parangon	NP	_
 ,	,	PONCT	_
 à	à	P	_
@@ -17906,7 +17929,7 @@ Au	à_le	P+D	_
 pour	pour	P	_
 voir	voir	VINF	_
 le	le	DET	_
-chèr	chèr	NC	_
+chèr	cher	NC	_
 frère	frère	ADJ	_
 Edmond	Edmond	NP	_
 ,	,	PONCT	_
@@ -17933,7 +17956,7 @@ vous	vous	CLO	_
 C'	ce	CLS	_
 est	être	V	_
 *	*	X	_
-Mme	Mme	NC	_
+Mme	madame	NC	_
 Parangon	Parangon	NP	_
 qui	qui	PROREL	_
 nous	nous	CLO	_
@@ -18078,7 +18101,7 @@ de	de	P	_
 préférence	préférence	NC	_
 .	.	PONCT	_
 Vous	vous	CLS	_
-alez	alez	V	_
+alez	aller	V	_
 en-juger	en-juger	NC	_
 ;	;	PONCT	_
 je	je	CLS	_
@@ -18133,7 +18156,7 @@ passer	passer	VINF	_
 Laurote	Laurote	NP	_
 pour	pour	P	_
 une	un	DET	_
-malheureuse	malheureuse	NC	_
+malheureuse	malheureux	NC	_
 ,	,	PONCT	_
 c'	ce	CLS	_
 est	être	V	_
@@ -18209,7 +18232,7 @@ charmée	charmer	VPP	_
 que	que	CS	_
 vous	vous	CLS	_
 n'	ne	ADV	_
-ayiez	ayiez	V	_
+ayiez	avoir	V	_
 pas	pas	ADV	_
 été	être	VPP	_
 témoin	témoin	ADJ	_
@@ -18222,7 +18245,7 @@ auriez	avoir	V	_
 ;	;	PONCT	_
 on	on	CLS	_
 vous	vous	CLO	_
-alait	alait	V	_
+alait	aller	V	_
 envoyer	envoyer	VINF	_
 chercher	chercher	VINF	_
 pour	pour	P	_
@@ -18252,7 +18275,7 @@ eu-peur	eu-peur	NC	_
 de	de	P	_
 fâcher	fâcher	VINF	_
 *	*	PONCT	_
-Mme	Mme	NC	_
+Mme	madame	NC	_
 *	*	X	_
 Parangon	Parangon	NP	_
 ,	,	PONCT	_
@@ -18296,7 +18319,7 @@ et	et	CC	_
 nous	nous	CLS	_
 -nous	nous	CLO	_
 sommes	être	V	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 -	-	PONCT	_
 jetés	jeter	VPP	_
 à	à	P	_
@@ -18325,19 +18348,19 @@ la	le	DET	_
 mère	mère	NC	_
 de	de	P	_
 l'	le	DET	_
-infortunée	infortunée	NC	_
+infortunée	infortuné	NC	_
 :	:	PONCT	_
 notre	notre	DET	_
 père	père	NC	_
 voulait	vouloir	V	_
 partir	partir	VINF	_
 pour	pour	P	_
-aler	aler	VINF	_
+aler	aller	VINF	_
 châtier	châtier	VINF	_
 Edmond	Edmond	NP	_
 ;	;	PONCT	_
 il	il	CLS	_
-alait	alait	V	_
+alait	aller	V	_
 ,	,	PONCT	_
 il	il	CLS	_
 venait	venir	V	_
@@ -18350,7 +18373,7 @@ pas	pas	ADV	_
 :	:	PONCT	_
 cet	ce	DET	_
 orage	orage	NC	_
-fesait	fesait	V	_
+fesait	faire	V	_
 trembler	trembler	VINF	_
 ;	;	PONCT	_
 car	car	CC	_
@@ -18360,8 +18383,8 @@ jetait	jeter	V	_
 sur	sur	P	_
 nous	nous	PRO	_
 -	-	PONCT	_
-tous	tous	PRO	_
-qu'	qu'	ADV	_
+tous	tout	PRO	_
+qu'	que	ADV	_
 un	un	DET	_
 regard	regard	NC	_
 sombre	sombre	ADJ	_
@@ -18463,7 +18486,9 @@ ai	avoir	V	_
 osé	oser	VPP	_
 l'	il	CLO	_
 interroger	interroger	VINF	_
-là-dessus	là-dessus	ADV	_
+là	là	ADV	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 )	)	PONCT	_
 ;	;	PONCT	_
 s'	se	CLO	_
@@ -18492,7 +18517,7 @@ poussière	poussière	NC	_
 -	-	X	_
 non	non	ADV	_
 pas	pas	ADV	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 ,	,	PONCT	_
 mon	mon	DET	_
 père	père	NC	_
@@ -18857,7 +18882,7 @@ que	que	CS	_
 je	je	CLS	_
 ne	ne	ADV	_
 rêve	rêver	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 en-mal	en-mal	ADV	_
 ,	,	PONCT	_
 et	et	CC	_
@@ -18922,7 +18947,7 @@ mander	mander	VINF	_
 Lettre	lettre	NC	_
 de	de	P	_
 *	*	PONCT	_
-Mme	Mme	NC	_
+Mme	madame	NC	_
 Parangon	Parangon	NP	_
 ,	,	PONCT	_
 à	à	P	_
@@ -18933,7 +18958,7 @@ sa	son	DET	_
 femme	femme	NC	_
 .	.	PONCT	_
 Mon	mon	DET	_
-chèr	chèr	NC	_
+chèr	cher	NC	_
 Pierre	Pierre	NP	_
 ,	,	PONCT	_
 et	et	CC	_
@@ -18964,7 +18989,7 @@ desespoir	désespoir	NC	_
 a	avoir	V	_
 réduit	réduire	VPP	_
 votre	votre	DET	_
-chèr	chèr	NC	_
+chèr	cher	NC	_
 frère	frère	ADJ	_
 Edmond	Edmond	NP	_
 .	.	PONCT	_
@@ -19028,7 +19053,7 @@ au	à_le	P+D	_
 sujet	sujet	NC	_
 de	de	P	_
 l'	le	DET	_
-infortunée	infortunée	NC	_
+infortunée	infortuné	NC	_
 qu'	que	CS	_
 au	à_le	P+D	_
 mien	mien	NC	_
@@ -19099,7 +19124,7 @@ m'	je	CLO	_
 occuper	occuper	VINF	_
 de	de	P	_
 ce	ce	DET	_
-chèr	chèr	NC	_
+chèr	cher	NC	_
 malade	malade	ADJ	_
 ,	,	PONCT	_
 et	et	CC	_
@@ -19183,14 +19208,14 @@ l'	il	CLO	_
 ôter	ôter	VINF	_
 à	à	P	_
 vos	votre	DET	_
-chèrs	chèrs	NC	_
+chèrs	cher	NC	_
 parens	parent	ADJ	_
 et	et	CC	_
 à	à	P	_
 vous	vous	PRO	_
 ,	,	PONCT	_
 à	à	P	_
-quî	quî	NP	_
+quî	qui	NP	_
 elle	il	CLS	_
 sera	être	V	_
 toujours	toujours	ADV	_
@@ -19439,7 +19464,7 @@ l'	le	DET	_
 égard	égard	NC	_
 de	de	P	_
 l'	le	DET	_
-infortunée	infortunée	NC	_
+infortunée	infortuné	NC	_
 que	que	PROREL	_
 nous	nous	CLS	_
 pleurons	pleurer	V	_
@@ -19458,7 +19483,7 @@ regardait	regarder	V	_
 -elle	il	CLS	_
 d'	de	P	_
 abord	abord	NC	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 avec	avec	P	_
 une	un	DET	_
 curiosité	curiosité	NC	_
@@ -19665,7 +19690,7 @@ par-exemple	par-exemple	NC	_
 vous	vous	PRO	_
 ,	,	PONCT	_
 *	*	PONCT	_
-Mlle	Mlle	NC	_
+Mlle	mademoiselle	NC	_
 *	*	X	_
 Tiennette	Tiennette	NP	_
 et	et	CC	_
@@ -19832,7 +19857,8 @@ cela	cela	PRO	_
 à	à	P	_
 Tiennette	Tiennette	NP	_
 ,	,	PONCT	_
-afin_qu'	afin_que	CS	_
+afin	afin	ADV	_
+qu'	que	CS	_
 elle	il	CLS	_
 ne	ne	ADV	_
 détruisît	détruire	V	_
@@ -19880,7 +19906,7 @@ d'	de	P	_
 après	après	P	_
 cela	cela	PRO	_
 ,	,	PONCT	_
-chèr	chèr	NC	_
+chèr	cher	NC	_
 *	*	X	_
 Pierre	Pierre	NP	_
 et	et	CC	_
@@ -19958,7 +19984,7 @@ Ursule	Ursule	NP	_
 sut	savoir	V	_
 qu'	que	CS	_
 elle	il	CLS	_
-alait	alait	V	_
+alait	aller	V	_
 partir	partir	VINF	_
 avec	avec	P	_
 Fanchette	Fanchette	NP	_
@@ -19968,7 +19994,7 @@ la	le	DET	_
 conduite	conduite	NC	_
 de	de	P	_
 *	*	PONCT	_
-Mme	Mme	NC	_
+Mme	madame	NC	_
 Canon	Canon	NP	_
 ,	,	PONCT	_
 elle	il	CLS	_
@@ -20195,13 +20221,13 @@ de	de	P	_
 ma	mon	DET	_
 bonne	bon	ADJ	_
 mère	mère	NC	_
-sur-tout	sur-tout	ADJ	_
+sur-tout	surtout	ADJ	_
 ,	,	PONCT	_
 cela	cela	PRO	_
 me	je	CLO	_
 rappelle	rappeler	V	_
 de	de	P	_
-quî	quî	NC	_
+quî	qui	NC	_
 j'	je	CLS	_
 ai	avoir	V	_
 le	le	DET	_
@@ -20212,7 +20238,7 @@ fille	fille	NC	_
 ,	,	PONCT	_
 et	et	CC	_
 de	de	P	_
-quî	quî	NC	_
+quî	qui	NC	_
 j'	je	CLS	_
 ai	avoir	V	_
 l'	le	DET	_
@@ -20225,7 +20251,7 @@ amie	ami	ADJ	_
 Eh_bien	eh_bien	I	_
 ,	,	PONCT	_
 mes	mon	DET	_
-chèrs	chèrs	NC	_
+chèrs	cher	NC	_
 bons	bon	ADJ	_
 -	-	PONCT	_
 amis	ami	NC	_
@@ -20292,7 +20318,7 @@ des	un	DET	_
 anges	ange	NC	_
 ,	,	PONCT	_
 fais	faire	V	_
-plûs	plûs	VINF	_
+plûs	plus	VINF	_
 penser	penser	VINF	_
 mille	mille	NC	_
 -	-	PONCT	_
@@ -20357,7 +20383,7 @@ que	que	PROREL	_
 j'	je	CLS	_
 aime	aimer	V	_
 tant	tant	ADV	_
-déja	déja	ET	_
+déja	déjà	ET	_
 !	!	PONCT	_
 Voici	voici	V	_
 à	à	P	_
@@ -20390,7 +20416,7 @@ Fanchon	Fanchon	NP	_
 Mon	mon	DET	_
 très	très	ADV	_
 -	-	PONCT	_
-chèr	chèr	ADJ	_
+chèr	cher	ADJ	_
 ami	ami	NC	_
 :	:	PONCT	_
 aulieu	aulieu	NC	_
@@ -20472,7 +20498,7 @@ enfin	enfin	ADV	_
 c'	ce	CLS	_
 est	être	V	_
 l'	le	DET	_
-innocente	innocente	NC	_
+innocente	innocent	NC	_
 qui	qui	PROREL	_
 parle	parler	V	_
 )	)	PONCT	_
@@ -20726,7 +20752,7 @@ servir	servir	VINF	_
 .	.	PONCT	_
 Adieu	adieu	I	_
 ,	,	PONCT	_
-chèr	chèr	NC	_
+chèr	cher	NC	_
 *	*	X	_
 Edmond	Edmond	NP	_
 ;	;	PONCT	_
@@ -20751,7 +20777,7 @@ est	être	V	_
 le	le	DET	_
 plus	plus	NC	_
 -	-	PONCT	_
-dangereus	dangereus	NC	_
+dangereus	dangereux	NC	_
 .	.	PONCT	_
 p.	p.	X	_
 -	-	PONCT	_
@@ -20778,7 +20804,7 @@ Gaudét	Gaudét	NP	_
 )	)	PONCT	_
 .	.	PONCT	_
 Mon	mon	DET	_
-chèr	chèr	NC	_
+chèr	cher	NC	_
 cousin	cousin	NC	_
 ,	,	PONCT	_
 et	et	CC	_
@@ -20798,7 +20824,8 @@ de	de	P	_
 ma	mon	DET	_
 mère	mère	NC	_
 ,	,	PONCT	_
-afin_de	afin_de	P	_
+afin	afin	ADV	_
+de	de	P	_
 vous	vous	CLO	_
 tranquiliser	tranquilliser	VINF	_
 au	à_le	P+D	_
@@ -20888,7 +20915,7 @@ m'	je	CLO	_
 ce	ce	PRO	_
 que	que	PROREL	_
 me	je	CLO	_
-fesait	fesait	V	_
+fesait	faire	V	_
 un	un	DET	_
 gros	gros	ADJ	_
 blatéyer	blatéyer	NC	_
@@ -21010,7 +21037,7 @@ bruit	bruit	NC	_
 Voila	voiler	V	_
 tout	tout	ADJ	_
 mon	mon	DET	_
-chèr	chèr	NC	_
+chèr	cher	NC	_
 cousin	cousin	NC	_
 et	et	CC	_
 ma	mon	DET	_
@@ -21052,7 +21079,7 @@ servante	servant	ADJ	_
 *	*	X	_
 Laure	Laure	NP	_
 C.	C.	NP	_
-Vous	Vous	NP	_
+Vous	vous	NP	_
 voyez	voir	V	_
 ,	,	PONCT	_
 chère	cher	ADJ	_
@@ -21080,7 +21107,7 @@ Lettre	lettre	NC	_
 juille	juille	NC	_
 .	.	PONCT	_
 *	*	X	_
-Mme	Mme	NC	_
+Mme	madame	NC	_
 Parangon	Parangon	NP	_
 ,	,	PONCT	_
 à	à	P	_
@@ -21267,7 +21294,7 @@ puis	pouvoir	V	_
 me	je	CLO	_
 donner	donner	VINF	_
 un-peu	un-peu	NC	_
-plûs	plûs	NC	_
+plûs	plus	NC	_
 de	de	P	_
 liberté	liberté	NC	_
 ;	;	PONCT	_
@@ -21330,7 +21357,7 @@ celles	celui	PRO	_
 qui	qui	PROREL	_
 nous	nous	CLO	_
 sont	être	V	_
-chèrs	chèrs	VPP	_
+chèrs	cher	VPP	_
 ,	,	PONCT	_
 nous	nous	CLS	_
 devons	devoir	V	_
@@ -21350,7 +21377,8 @@ d'	de	P	_
 un	un	DET	_
 égard	égard	NC	_
 .	.	PONCT	_
-Quant_à	quant_à	P	_
+Quant	quant	ADV	_
+à	à	P	_
 l'	le	DET	_
 envie	envie	NC	_
 que	que	PROREL	_
@@ -21498,7 +21526,7 @@ de	de	P	_
 ce	ce	DET	_
 nom	nom	NC	_
 si	si	ADV	_
-chèr	chèr	ADJ	_
+chèr	cher	ADJ	_
 !	!	PONCT	_
 Il	il	CLS	_
 me	je	CLO	_
@@ -21649,8 +21677,8 @@ marierions	marier	V	_
 et	et	CC	_
 nous	nous	CLS	_
 serions	être	V	_
-tous	tous	PRO	_
-heureus	heureus	ADJ	_
+tous	tout	PRO	_
+heureus	heureux	ADJ	_
 .	.	PONCT	_
 Adieu	adieu	I	_
 ,	,	PONCT	_
@@ -21737,24 +21765,25 @@ d'	de	P	_
 avoir	avoir	VINF	_
 de	de	P	_
 vos	votre	DET	_
-précieuses	précieuse	NC	_
+précieuses	précieux	NC	_
 nouvelles	nouveau	ADJ	_
 :	:	PONCT	_
-quant_aux	quant_à_le	P+D	_
+quant	quant	ADV	_
+aux	à_le	P+D	_
 choses	chose	NC	_
 tristes	triste	ADJ	_
 ,	,	PONCT	_
 je	je	CLS	_
 les	il	CLO	_
 savais	savoir	V	_
-déja	déja	ADV	_
+déja	déjà	ADV	_
 ,	,	PONCT	_
 par	par	P	_
 la	le	DET	_
 lettre	lettre	NC	_
 de	de	P	_
 ma	mon	DET	_
-bellesoeur	bellesœur	NC	_
+bellesoeur	belle-sœur	NC	_
 que	que	PROREL	_
 je	je	CLS	_
 joins	joindre	V	_
@@ -21840,7 +21869,7 @@ desagrémens	désagrément	NC	_
 ,	,	PONCT	_
 comme	comme	CS	_
 vous	vous	CLS	_
-alez	alez	V	_
+alez	aller	V	_
 voir	voir	VINF	_
 ,	,	PONCT	_
 et	et	CC	_
@@ -21887,7 +21916,7 @@ eu-peur	eu-peur	VPP	_
 ,	,	PONCT	_
 en-me	en-me	NC	_
 voyant	voir	VPR	_
-aler	aler	VINF	_
+aler	aller	VINF	_
 si	si	ADV	_
 resolument	résolument	ADV	_
 ,	,	PONCT	_
@@ -22066,7 +22095,7 @@ doublions	doubler	V	_
 le	le	DET	_
 pas	pas	NC	_
 ma	mon	DET	_
-charmante	charmant	ADJ	_
+charmante	charmer	ADJ	_
 petite	petit	ADJ	_
 soeur	sœur	NC	_
 et	et	CC	_
@@ -22102,7 +22131,7 @@ sots	sot	ADJ	_
 propos	propos	NC	_
 :	:	PONCT	_
 *	*	PONCT	_
-Mme	Mme	NC	_
+Mme	madame	NC	_
 Canon	Canon	NP	_
 nous	nous	CLO	_
 a	avoir	V	_
@@ -22116,7 +22145,7 @@ de	de	P	_
 ce	ce	PRO	_
 que	que	PROREL	_
 nous	nous	CLS	_
-alions	alions	V	_
+alions	aller	V	_
 trop	trop	ADV	_
 -	-	PONCT	_
 loin	loin	ADV	_
@@ -22139,7 +22168,7 @@ son	son	DET	_
 aise	aise	NC	_
 :	:	PONCT	_
 *	*	PONCT	_
-Mme	Mme	NC	_
+Mme	madame	NC	_
 Canon	Canon	NP	_
 ,	,	PONCT	_
 qui	qui	PROREL	_
@@ -22167,7 +22196,7 @@ de	de	P	_
 ce	ce	PRO	_
 que	que	PROREL	_
 nous	nous	CLS	_
-alions	alions	V	_
+alions	aller	V	_
 doucement	doucement	ADV	_
 :	:	PONCT	_
 nous	nous	CLS	_
@@ -22236,7 +22265,7 @@ de	de	P	_
 rire	rire	NC	_
 ,	,	PONCT	_
 et	et	CC	_
-sur-tout	sur-tout	NP	_
+sur-tout	surtout	NP	_
 je	je	CLS	_
 regardais	regarder	V	_
 le	le	DET	_
@@ -22311,10 +22340,10 @@ de	un	DET	_
 jolis	joli	ADJ	_
 complimens	compliment	NC	_
 ,	,	PONCT	_
-sur-tout	sur-tout	ADV	_
+sur-tout	surtout	ADV	_
 à	à	P	_
 *	*	PONCT	_
-Mlle	Mlle	NC	_
+Mlle	mademoiselle	NC	_
 Fanchette	Fanchette	NP	_
 ,	,	PONCT	_
 qui	qui	PROREL	_
@@ -22393,7 +22422,7 @@ complimens	compliment	NC	_
 ;	;	PONCT	_
 car	car	CC	_
 *	*	PONCT	_
-Mme	Mme	NC	_
+Mme	madame	NC	_
 *	*	X	_
 Canon	Canon	NP	_
 ,	,	PONCT	_
@@ -22417,7 +22446,7 @@ cet	ce	DET	_
 homme	homme	NC	_
 -ci	ci	ADV	_
 ne	ne	ADV	_
-fesait	fesait	V	_
+fesait	faire	V	_
 pas	pas	ADV	_
 semblant	sembler	VPR	_
 de	de	P	_
@@ -22538,7 +22567,7 @@ pourquoi	pourquoi	PROWH	_
 le	le	DET	_
 vice	vice	NC	_
 va	aller	V	_
-plûs	plûs	ADJ	_
+plûs	plus	ADJ	_
 tête	tête	NC	_
 -	-	PONCT	_
 levée	lever	VPP	_
@@ -22689,11 +22718,11 @@ je	je	CLS	_
 suis	être	V	_
 avec	avec	P	_
 un	un	DET	_
-respectueus	respectueus	ADJ	_
+respectueus	respectueux	ADJ	_
 attachement	attachement	NC	_
 ,	,	PONCT	_
 votre	votre	DET	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 Je	je	CLS	_
 vous	vous	CLO	_
 prie	prier	V	_
@@ -22707,7 +22736,7 @@ cette	ce	DET	_
 réponse	réponse	NC	_
 à	à	P	_
 ma	mon	DET	_
-bellesoeur	bellesœur	NC	_
+bellesoeur	belle-sœur	NC	_
 ,	,	PONCT	_
 épouse	épouse	NC	_
 de	de	P	_
@@ -22731,7 +22760,7 @@ en-secret	en-secret	NP	_
 .	.	PONCT	_
 à	à	P	_
 sa	son	DET	_
-bellesoeur	bellesœur	NC	_
+bellesoeur	belle-sœur	NC	_
 Fanchon	Fanchon	NP	_
 .	.	PONCT	_
 (	(	PONCT	_
@@ -22747,7 +22776,7 @@ pense	penser	V	_
 :	:	PONCT	_
 elle	il	CLS	_
 a	avoir	V	_
-déja	déja	VPP	_
+déja	déjà	VPP	_
 fait	faire	V	_
 bien	bien	ADV	_
 du	de_le	P+D	_
@@ -22799,7 +22828,7 @@ or	or	NC	_
 ,	,	PONCT	_
 que	que	CS	_
 *	*	PONCT	_
-Mme	Mme	NC	_
+Mme	madame	NC	_
 Parangon	Parangon	NP	_
 ,	,	PONCT	_
 ma	mon	DET	_
@@ -22876,7 +22905,7 @@ bien-plus	bien-plus	ADV	_
 douce	doux	ADJ	_
 ,	,	PONCT	_
 et	et	CC	_
-sur-tout	sur-tout	NP	_
+sur-tout	surtout	NP	_
 qu'	que	CS	_
 on	on	CLS	_
 y	y	CLO	_
@@ -22991,7 +23020,7 @@ et	et	CC	_
 il	il	CLS	_
 ne	ne	ADV	_
 tient	tenir	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 à	à	P	_
 eux	il	PRO	_
 de	de	P	_
@@ -23063,7 +23092,7 @@ ne	ne	ADV	_
 se	se	CLO	_
 trouvent	trouver	V	_
 pas	pas	ADV	_
-réünis	réünis	VPP	_
+réünis	réunir	VPP	_
 ;	;	PONCT	_
 car	car	CC	_
 l'	le	DET	_
@@ -23108,7 +23137,7 @@ cela	cela	PRO	_
 vous	vous	CLO	_
 ferait	faire	V	_
 à	à	P	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 ;	;	PONCT	_
 ensuite	ensuite	ADV	_
 ,	,	PONCT	_
@@ -23137,11 +23166,11 @@ divinité	divinité	NC	_
 :	:	PONCT	_
 ôte	ôter	V	_
 sa	son	DET	_
-charmante	charmant	ADJ	_
+charmante	charmer	ADJ	_
 figure	figure	NC	_
 à	à	P	_
 *	*	PONCT	_
-Mme	Mme	NC	_
+Mme	madame	NC	_
 Parangon	Parangon	NP	_
 ,	,	PONCT	_
 elle	il	CLS	_
@@ -23155,7 +23184,7 @@ mais	mais	CC	_
 ce	ce	CLS	_
 ne	ne	ADV	_
 sera	être	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 une	un	DET	_
 femme	femme	NC	_
 ;	;	PONCT	_
@@ -23183,7 +23212,7 @@ qui	qui	PROREL	_
 la	il	CLO	_
 connaît	connaître	V	_
 ,	,	PONCT	_
-sur-tout	sur-tout	NC	_
+sur-tout	surtout	NC	_
 d'	de	P	_
 Edmond	Edmond	NP	_
 et	et	CC	_
@@ -23290,7 +23319,7 @@ avoir	avoir	VINF	_
 donnée	donner	VPP	_
 à	à	P	_
 *	*	PONCT	_
-Mme	Mme	NC	_
+Mme	madame	NC	_
 Parangon	Parangon	NP	_
 ,	,	PONCT	_
 vaut	valoir	V	_
@@ -23298,7 +23327,7 @@ la	le	DET	_
 vie	vie	NC	_
 ,	,	PONCT	_
 et	et	CC	_
-plûs	plûs	NP	_
+plûs	plus	NP	_
 ,	,	PONCT	_
 car	car	CC	_
 c'	ce	CLS	_
@@ -23306,9 +23335,10 @@ est	être	V	_
 le	le	DET	_
 bonheur	bonheur	NC	_
 ?	?	PONCT	_
-Quant_à	quant_à	P	_
+Quant	quant	ADV	_
+à	à	P	_
 ce	ce	DET	_
-chèr	chèr	NC	_
+chèr	cher	NC	_
 frère	frère	ADJ	_
 ,	,	PONCT	_
 il	il	CLS	_
@@ -23445,7 +23475,7 @@ et	et	CC	_
 de	de	P	_
 ne	ne	ADV	_
 songer	songer	VINF	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 à	à	P	_
 cela	cela	PRO	_
 .	.	PONCT	_
@@ -23477,7 +23507,7 @@ amertume	amertume	NC	_
 ,	,	PONCT	_
 relativement	relativement	ADV	_
 au	à_le	P+D	_
-chèr	chèr	NC	_
+chèr	cher	NC	_
 *	*	X	_
 Edmond	Edmond	NP	_
 :	:	PONCT	_
@@ -23506,7 +23536,7 @@ bons	bon	ADJ	_
 -	-	PONCT	_
 amis	ami	NC	_
 ,	,	PONCT	_
-sur-tout	sur-tout	ADV	_
+sur-tout	surtout	ADV	_
 *	*	X	_
 Pierre	Pierre	NP	_
 *	*	PONCT	_
@@ -23549,18 +23579,18 @@ ma	mon	DET	_
 position	position	NC	_
 ,	,	PONCT	_
 que	que	CS	_
-plûs	plûs	NC	_
+plûs	plus	NC	_
 j'	je	CLS	_
 aime	aimer	V	_
 mon	mon	DET	_
 frère	frère	NC	_
 ,	,	PONCT	_
 et	et	CC	_
-plûs	plûs	NP	_
+plûs	plus	NP	_
 j'	je	CLS	_
 aime	aimer	V	_
 *	*	PONCT	_
-Mme	Mme	NC	_
+Mme	madame	NC	_
 Parangon	Parangon	NP	_
 et	et	CC	_
 la	le	DET	_
@@ -23577,7 +23607,7 @@ et	et	CC	_
 la	le	DET	_
 ville	ville	NC	_
 ,	,	PONCT	_
-plûs	plûs	NC	_
+plûs	plus	NC	_
 j'	je	CLS	_
 aime	aimer	V	_
 mon	mon	DET	_
@@ -23711,7 +23741,7 @@ sait	savoir	V	_
 pas	pas	ADV	_
 même	même	ADV	_
 *	*	PONCT	_
-Mme	Mme	NC	_
+Mme	madame	NC	_
 Canon	Canon	NP	_
 .	.	PONCT	_
 Nous	nous	CLS	_
@@ -23720,20 +23750,20 @@ sorties	sortir	VPP	_
 seules	seul	ADJ	_
 ,	,	PONCT	_
 *	*	PONCT	_
-Mlle	Mlle	NC	_
+Mlle	mademoiselle	NC	_
 *	*	X	_
 Fanchette	Fanchette	NP	_
 et	et	CC	_
 moi	je	PRO	_
 ,	,	PONCT	_
 pour	pour	P	_
-aler	aler	VINF	_
+aler	aller	VINF	_
 à	à	P	_
 l'	le	DET	_
 église	église	NC	_
 ,	,	PONCT	_
 *	*	PONCT	_
-Mme	Mme	NC	_
+Mme	madame	NC	_
 *	*	X	_
 Canon	Canon	NP	_
 étant	être	VPR	_
@@ -23893,7 +23923,7 @@ quelquefois	quelquefois	ADV	_
 ,	,	PONCT	_
 si	si	CS	_
 *	*	PONCT	_
-Mme	Mme	NC	_
+Mme	madame	NC	_
 Parangon	Parangon	NP	_
 le	il	CLO	_
 trouve	trouver	V	_
@@ -23988,7 +24018,7 @@ d'	de	P	_
 avoir	avoir	VINF	_
 ici	ici	ADV	_
 *	*	PONCT	_
-Mme	Mme	NC	_
+Mme	madame	NC	_
 Parangon	Parangon	NP	_
 :	:	PONCT	_
 écris	écrire	V	_
@@ -24052,13 +24082,14 @@ faire	faire	VINF	_
 tenir	tenir	VINF	_
 à	à	P	_
 *	*	PONCT	_
-Mme	Mme	NC	_
+Mme	madame	NC	_
 Parangon	Parangon	NP	_
 le	le	DET	_
 plutôt	plutôt	ADV	_
 possible	possible	ADJ	_
 ,	,	PONCT	_
-afin_de	afin_de	P	_
+afin	afin	ADV	_
+de	de	P	_
 ne	ne	ADV	_
 pas	pas	ADV	_
 manquer	manquer	VINF	_
@@ -24146,7 +24177,7 @@ beauté	beauté	NC	_
 :	:	PONCT	_
 puisque	puisque	CS	_
 *	*	PONCT	_
-Mme	Mme	NC	_
+Mme	madame	NC	_
 Parangon	Parangon	NP	_
 a	avoir	V	_
 vu	voir	VPP	_
@@ -24307,7 +24338,7 @@ la	le	DET	_
 vérité	vérité	NC	_
 ,	,	PONCT	_
 non-plûs	non-plûs	NC	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 à	à	P	_
 son	son	DET	_
 frère	frère	NC	_
@@ -24315,7 +24346,7 @@ frère	frère	NC	_
 et	et	CC	_
 à	à	P	_
 *	*	PONCT	_
-Mme	Mme	NC	_
+Mme	madame	NC	_
 Parangon	Parangon	NP	_
 elle	il	PRO	_
 -même	même	ADJ	_
@@ -24367,7 +24398,7 @@ sans	sans	P	_
 doute	douter	V	_
 que	que	CS	_
 *	*	PONCT	_
-Mme	Mme	NC	_
+Mme	madame	NC	_
 Parangon	Parangon	NP	_
 vous	vous	CLS	_
 la	il	CLO	_
@@ -24575,14 +24606,14 @@ ses	son	DET	_
 bras	bras	NC	_
 ,	,	PONCT	_
 en-lui	en-lui	NC	_
-disant	disant	ADJ	_
+disant	dire	VPR	_
 :	:	PONCT	_
 mon	mon	DET	_
-chèr	chèr	NC	_
+chèr	cher	NC	_
 frère	frère	ADJ	_
 ,	,	PONCT	_
 mon	mon	DET	_
-chèr	chèr	NC	_
+chèr	cher	NC	_
 Edmond	Edmond	NP	_
 !	!	PONCT	_
 Je	je	CLS	_
@@ -24759,7 +24790,7 @@ mortels	mortel	NC	_
 pour	pour	P	_
 les	il	CLO	_
 avoir	avoir	VINF	_
-toutes	tous	PRO	_
+toutes	tout	PRO	_
 !	!	PONCT	_
 Les	il	CLO	_
 voila	voiler	V	_
@@ -25001,7 +25032,7 @@ moment	moment	NC	_
 ,	,	PONCT	_
 tant	tant	ADV	_
 -	-	PONCT	_
-plûs	plûs	NC	_
+plûs	plus	NC	_
 le	le	DET	_
 jour	jour	NC	_
 s'	se	CLO	_
@@ -25140,7 +25171,7 @@ Georget	Georget	NP	_
 y	y	CLO	_
 a	avoir	V	_
 voulu	vouloir	VPP	_
-aler	aler	VINF	_
+aler	aller	VINF	_
 aussi	aussi	ADV	_
 ,	,	PONCT	_
 et	et	CC	_
@@ -25253,7 +25284,7 @@ mis	mettre	VPP	_
 rire	rire	VINF	_
 ,	,	PONCT	_
 en-lui	en-lui	NC	_
-disant	disant	ADJ	_
+disant	dire	VPR	_
 ,	,	PONCT	_
 ma	mon	DET	_
 femme	femme	NC	_
@@ -25372,7 +25403,7 @@ nous	nous	CLO	_
 a	avoir	V	_
 dit	dire	VPP	_
 à	à	P	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 :	:	PONCT	_
 alez	alez	ET	_
 audevant	audevant	ET	_
@@ -25469,7 +25500,7 @@ peinés	peiner	VPP	_
 et	et	CC	_
 tant	tant	ADV	_
 -	-	PONCT	_
-plûs	plûs	ET	_
+plûs	plus	ET	_
 on	on	CLS	_
 l'	il	CLO	_
 a	avoir	V	_
@@ -25477,7 +25508,7 @@ peinée	peiner	VPP	_
 ,	,	PONCT	_
 tant	tant	ADV	_
 -	-	PONCT	_
-plûs	plûs	NC	_
+plûs	plus	NC	_
 elle	il	CLS	_
 aime	aimer	V	_
 :	:	PONCT	_
@@ -25589,7 +25620,7 @@ mourrai	mourir	V	_
 contente	content	ADJ	_
 !	!	PONCT	_
 Mon	mon	DET	_
-chèr	chèr	NC	_
+chèr	cher	NC	_
 fils	fils	NC	_
 !	!	PONCT	_
 Et	et	CC	_
@@ -25703,13 +25734,13 @@ digne	digne	ADJ	_
 fils	fils	NC	_
 ,	,	PONCT	_
 mon	mon	DET	_
-chèr	chèr	NC	_
+chèr	cher	NC	_
 aîné	aîné	ADJ	_
 .	.	PONCT	_
 Je	je	CLS	_
 vous	vous	CLO	_
 aime	aimer	V	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 ,	,	PONCT	_
 a	avoir	V	_
 dit	dire	VPP	_
@@ -25839,7 +25870,7 @@ soir	soir	NC	_
 Edmond	Edmond	NP	_
 .	.	PONCT	_
 Mon	mon	DET	_
-chèr	chèr	NC	_
+chèr	cher	NC	_
 père	père	NC	_
 !	!	PONCT	_
 Et	et	CC	_
@@ -25860,7 +25891,7 @@ a	avoir	V	_
 embrassé	embrasser	VPP	_
 ,	,	PONCT	_
 en-lui	en-lui	NC	_
-disant	disant	ADJ	_
+disant	dire	VPR	_
 ,	,	PONCT	_
 je	je	CLS	_
 ne	ne	ADV	_
@@ -25909,7 +25940,7 @@ n'	ne	ADV	_
 a	avoir	V	_
 plus	plus	ADV	_
 parlé	parler	VPP	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 à	à	P	_
 mon	mon	DET	_
 mari	mari	NC	_
@@ -26038,7 +26069,7 @@ plaît	plaire	V	_
 ça	ça	CLS	_
 se	se	CLO	_
 laisse	laisser	V	_
-aler	aler	VINF	_
+aler	aller	VINF	_
 :	:	PONCT	_
 mon	mon	DET	_
 fils	fils	NC	_
@@ -26071,7 +26102,9 @@ et	et	CC	_
 je	je	CLS	_
 trouve	trouver	V	_
 en-lui	en-lui	NC	_
-par-delà	par-delà	P	_
+par	par	S	_
+-	-	PONCT	_
+delà	delà	ADV	_
 de	de	P	_
 ce	ce	PRO	_
 que	que	PROREL	_
@@ -26130,7 +26163,7 @@ regratier	regratier	NC	_
 ,	,	PONCT	_
 pour	pour	P	_
 *	*	PONCT	_
-Mme	Mme	NC	_
+Mme	madame	NC	_
 Parangon	Parangon	NP	_
 ,	,	PONCT	_
 et	et	CC	_
@@ -26177,12 +26210,13 @@ bonté	bonté	NC	_
 de	de	P	_
 n'	ne	ADV	_
 en-faire	en-faire	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 un	un	DET	_
 paquet	paquet	NC	_
 .	.	PONCT	_
 Et	et	CC	_
-quant_à	quant_à	P	_
+quant	quant	ADV	_
+à	à	P	_
 ce	ce	PRO	_
 qui	qui	PROREL	_
 est	être	V	_
@@ -26262,7 +26296,7 @@ des	de_le	P+D	_
 pères	père	NC	_
 ,	,	PONCT	_
 à	à	P	_
-quî	quî	NC	_
+quî	qui	NC	_
 je	je	CLS	_
 remets	remettre	V	_
 ma	mon	DET	_
@@ -26289,7 +26323,7 @@ apprens	apprendre	V	_
 ,	,	PONCT	_
 que	que	CS	_
 *	*	PONCT	_
-Mme	Mme	NC	_
+Mme	madame	NC	_
 *	*	X	_
 Parangon	Parangon	NP	_
 va	aller	V	_
@@ -26335,7 +26369,7 @@ l'	il	CLO	_
 avons	avoir	V	_
 vu	voir	VPP	_
 partir	partir	VINF	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 avec	avec	P	_
 bien	bien	ADV	_
 du	de_le	P+D	_
@@ -26768,8 +26802,8 @@ longs	long	ADJ	_
 et	et	CC	_
 elle	il	CLS	_
 nous	nous	CLO	_
-fesait	fesait	V	_
-toutes	tous	PRO	_
+fesait	faire	V	_
+toutes	tout	PRO	_
 veiller	veiller	VINF	_
 bien-tard	bien-tard	ADV	_
 :	:	PONCT	_
@@ -26892,7 +26926,7 @@ il	il	CLS	_
 n'	ne	ADV	_
 y	y	CLO	_
 sera	être	V	_
-plûs	plûs	VPP	_
+plûs	plus	VPP	_
 ,	,	PONCT	_
 à	à	P	_
 ce	ce	DET	_
@@ -27047,7 +27081,7 @@ notre	notre	DET	_
 bonne	bon	ADJ	_
 mère	mère	NC	_
 écoutait	écouter	V	_
-tremblante	tremblant	ADJ	_
+tremblante	trembler	ADJ	_
 et	et	CC	_
 pâle	pâle	ADJ	_
 ,	,	PONCT	_
@@ -27090,7 +27124,7 @@ puis	puis	CC	_
 moi	je	PRO	_
 ,	,	PONCT	_
 en-me	en-me	NC	_
-disant	disant	ADJ	_
+disant	dire	VPR	_
 :	:	PONCT	_
 chère	cher	ADJ	_
 soeur	sœur	NC	_
@@ -27180,7 +27214,7 @@ dit	dire	VPP	_
 ,	,	PONCT	_
 nous	nous	CLS	_
 avons	avoir	V	_
-plûs	plûs	VPP	_
+plûs	plus	VPP	_
 reçu	recevoir	VPP	_
 de	de	P	_
 biens	bien	NC	_
@@ -27238,7 +27272,7 @@ parlait	parler	V	_
 son	son	DET	_
 aîné	aîné	NC	_
 ni	ni	CC	_
-plûs	plûs	NC	_
+plûs	plus	NC	_
 ni	ni	CC	_
 moins	moins	ADV	_
 que	que	CS	_
@@ -27475,7 +27509,7 @@ se	se	CLO	_
 sont	être	V	_
 quittés	quitter	VPP	_
 ,	,	PONCT	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 -	-	PONCT	_
 deux	deux	NC	_
 étaient	être	V	_
@@ -27507,7 +27541,7 @@ fils	fils	NC	_
 à	à	P	_
 nous	nous	PRO	_
 -	-	PONCT	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 ,	,	PONCT	_
 d'	de	P	_
 un	un	DET	_
@@ -27563,7 +27597,7 @@ de	de	P	_
 trente	trente	DET	_
 ans	an	NC	_
 et	et	CC	_
-plûs	plûs	NC	_
+plûs	plus	NC	_
 ,	,	PONCT	_
 mais	mais	CC	_
 sa	son	DET	_
@@ -27623,7 +27657,7 @@ premier	premier	NC	_
 Edmond	Edmond	NP	_
 ,	,	PONCT	_
 mon	mon	DET	_
-chèr	chèr	NC	_
+chèr	cher	NC	_
 et	et	CC	_
 aimé	aimer	VPP	_
 frère	frère	NC	_
@@ -27687,7 +27721,7 @@ de	de	P	_
 vieillesse	vieillesse	NC	_
 de	de	P	_
 nos	notre	DET	_
-chèrs	chèrs	ADJ	_
+chèrs	cher	ADJ	_
 père	père	NC	_
 et	et	CC	_
 mère	mère	NC	_
@@ -27740,7 +27774,7 @@ lui	il	PRO	_
 ,	,	PONCT	_
 et	et	CC	_
 songez	songer	V	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 -	-	PONCT	_
 deux	deux	NC	_
 ,	,	PONCT	_
@@ -27859,7 +27893,7 @@ eu	avoir	VPP	_
 dit	dire	VPP	_
 amen	amen	NC	_
 ,	,	PONCT	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 ,	,	PONCT	_
 et	et	CC	_
 moi	je	PRO	_
@@ -28142,7 +28176,7 @@ bonne	bon	ADJ	_
 mère	mère	NC	_
 ,	,	PONCT	_
 à	à	P	_
-quî	quî	NP	_
+quî	qui	NP	_
 il	il	CLS	_
 a	avoir	V	_
 dit	dire	VPP	_
@@ -28194,7 +28228,7 @@ au	à_le	P+D	_
 -	-	PONCT	_
 monde	monde	NC	_
 mes	mon	DET	_
-chèrs	chèrs	NC	_
+chèrs	cher	NC	_
 enfans	enfant	ADJ	_
 ,	,	PONCT	_
 que	que	CS	_
@@ -28253,7 +28287,7 @@ Sans	sans	P	_
 eux	il	PRO	_
 ,	,	PONCT	_
 mon	mon	DET	_
-chèr	chèr	NC	_
+chèr	cher	NC	_
 mari	mari	NC	_
 ,	,	PONCT	_
 et	et	CC	_
@@ -28275,9 +28309,9 @@ deux	deux	ADJ	_
 fois	fois	NC	_
 ,	,	PONCT	_
 en-lui	en-lui	NC	_
-disant	disant	ADJ	_
+disant	dire	VPR	_
 ,	,	PONCT	_
-chèr	chèr	ADJ	_
+chèr	cher	ADJ	_
 fils	fils	NC	_
 ,	,	PONCT	_
 comme	comme	P	_
@@ -28316,7 +28350,7 @@ qu'	que	PROREL	_
 elle	il	CLS	_
 voit	voir	V	_
 ses	son	DET	_
-chèrs	chèrs	NC	_
+chèrs	cher	NC	_
 enfans	enfant	ADJ	_
 ,	,	PONCT	_
 les	le	DET	_
@@ -28359,9 +28393,9 @@ coeur	cœur	NC	_
 .	.	PONCT	_
 Oh	oh	I	_
 !	!	PONCT	_
-Oh	Oh	NP	_
+Oh	oh	NP	_
 !	!	PONCT	_
-Je	Je	NP	_
+Je	je	NP	_
 dirai	dire	V	_
 ,	,	PONCT	_
 à	à	P	_
@@ -28412,9 +28446,9 @@ car	car	CC	_
 ils	il	CLS	_
 sont	être	V	_
 bons	bon	ADJ	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 ,	,	PONCT	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 ,	,	PONCT	_
 et	et	CC	_
 l'	le	DET	_
@@ -28448,7 +28482,7 @@ votre	votre	DET	_
 père	père	NC	_
 ,	,	PONCT	_
 mes	mon	DET	_
-chèrs	chèrs	NC	_
+chèrs	cher	NC	_
 enfans	enfant	ADJ	_
 ,	,	PONCT	_
 la	le	DET	_
@@ -28571,7 +28605,7 @@ puis	puis	CC	_
 ,	,	PONCT	_
 sans	sans	P	_
 que	que	CS	_
-quî	quî	NC	_
+quî	qui	NC	_
 que	que	CS	_
 ce	ce	CLS	_
 soit	être	V	_
@@ -28749,7 +28783,7 @@ En-votre	En-votre	ADJ	_
 état	état	NC	_
 !	!	PONCT	_
 Il	il	CLS	_
-falait	falait	V	_
+falait	falloir	V	_
 reposer	reposer	VINF	_
 :	:	PONCT	_
 je	je	CLS	_
@@ -28979,7 +29013,7 @@ rendra	rendre	V	_
 compte	compte	NC	_
 de	de	P	_
 l'	le	DET	_
-heureus	heureus	NC	_
+heureus	heureux	NC	_
 voyage	voyage	NC	_
 .	.	PONCT	_
 Ma	mon	DET	_
@@ -29028,7 +29062,7 @@ Lettre	lettre	NC	_
 novembre	novembre	NC	_
 .	.	PONCT	_
 *	*	X	_
-Mme	Mme	NC	_
+Mme	madame	NC	_
 Parangon	Parangon	NP	_
 ,	,	PONCT	_
 à	à	P	_
@@ -29064,7 +29098,7 @@ obstacles	obstacle	NC	_
 quand	quand	CS	_
 on	on	CLS	_
 veut	vouloir	V	_
-aler	aler	VINF	_
+aler	aller	VINF	_
 où	où	PROREL	_
 notre	notre	DET	_
 goût	goût	NC	_
@@ -29206,7 +29240,7 @@ une	un	DET	_
 lettre	lettre	NC	_
 de	de	P	_
 ta	ton	DET	_
-bellesoeur	bellesœur	NC	_
+bellesoeur	belle-sœur	NC	_
 ,	,	PONCT	_
 ou	ou	CC	_
 plutôt	plutôt	ADV	_
@@ -29447,7 +29481,7 @@ gronder	gronder	VINF	_
 de	de	P	_
 la	le	DET	_
 manière	manière	NC	_
-effrayante	effrayant	ADJ	_
+effrayante	effrayer	ADJ	_
 dont	dont	PROREL	_
 elle	il	CLS	_
 m'	je	CLO	_
@@ -29482,7 +29516,7 @@ n'	ne	ADV	_
 ai	avoir	V	_
 vu	voir	VPP	_
 Edmond	Edmond	NP	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 assés	assez	ADV	_
 pour	pour	P	_
 le	il	CLO	_
@@ -29740,7 +29774,7 @@ je	je	CLS	_
 vous	vous	CLO	_
 garde	garder	V	_
 ici	ici	ADV	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 -	-	PONCT	_
 deux	deux	NC	_
 jusqu'	jusque	P	_
@@ -30078,7 +30112,7 @@ la	le	DET	_
 main	main	NC	_
 ,	,	PONCT	_
 en-lui	en-lui	NC	_
-disant	disant	ADJ	_
+disant	dire	VPR	_
 :	:	PONCT	_
 digne	digne	ADJ	_
 et	et	CC	_
@@ -30175,7 +30209,7 @@ ne	ne	ADV	_
 parle	parler	V	_
 de	de	P	_
 vous	vous	PRO	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 avec	avec	P	_
 les	le	DET	_
 sentimens	sentiment	NC	_
@@ -30477,7 +30511,7 @@ avec	avec	P	_
 une	un	DET	_
 égale	égal	ADJ	_
 peine	peine	NC	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 -	-	PONCT	_
 deux	deux	NC	_
 ;	;	PONCT	_
@@ -30677,7 +30711,7 @@ Adieu	adieu	I	_
 .	.	PONCT	_
 Pour	pour	P	_
 *	*	PONCT	_
-Mlle	Mlle	NC	_
+Mlle	mademoiselle	NC	_
 Fanchette	Fanchette	NP	_
 .	.	PONCT	_
 Chère	cher	ADJ	_
@@ -30704,7 +30738,7 @@ amie	ami	NC	_
 Ursule	Ursule	NP	_
 ;	;	PONCT	_
 et	et	CC	_
-sur-tout	sur-tout	NP	_
+sur-tout	surtout	NP	_
 pour	pour	P	_
 remercier	remercier	VINF	_
 ma	mon	DET	_
@@ -30717,7 +30751,7 @@ elle	il	CLS	_
 vous	vous	CLO	_
 donne	donner	V	_
 à	à	P	_
-toutes	tous	PRO	_
+toutes	tout	PRO	_
 -	-	PONCT	_
 deux	deux	NC	_
 :	:	PONCT	_
@@ -30725,7 +30759,8 @@ contente	content	ADJ	_
 -la	il	CLO	_
 bien	bien	ADV	_
 ,	,	PONCT	_
-afin_qu'	afin_que	CS	_
+afin	afin	ADV	_
+qu'	que	CS	_
 elle	il	CLS	_
 ne	ne	ADV	_
 se	se	CLO	_
@@ -30737,7 +30772,8 @@ complaisance	complaisance	NC	_
 pour	pour	P	_
 nous	nous	PRO	_
 .	.	PONCT	_
-Quant_à	quant_à	P	_
+Quant	quant	ADV	_
+à	à	P	_
 moi	je	PRO	_
 ,	,	PONCT	_
 en-mon	en-mon	NC	_
@@ -30749,7 +30785,7 @@ petite	petit	ADJ	_
 je	je	CLS	_
 ne	ne	ADV	_
 songe	songer	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 à	à	P	_
 ton	ton	DET	_
 bonheur	bonheur	NC	_
@@ -30815,7 +30851,7 @@ le	le	DET	_
 mien	mien	NC	_
 ne	ne	ADV	_
 sont	être	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 un	un	DET	_
 :	:	PONCT	_
 mais	mais	CC	_
@@ -30878,7 +30914,7 @@ Ce	ce	CLS	_
 n'	ne	ADV	_
 est	être	V	_
 pas	pas	ADV	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 avec	avec	P	_
 cette	ce	DET	_
 tendresse	tendresse	NC	_
@@ -30988,7 +31024,7 @@ votre	votre	DET	_
 soeur	sœur	NC	_
 ,	,	PONCT	_
 et	et	CC	_
-sur-tout	sur-tout	NP	_
+sur-tout	surtout	NP	_
 j'	je	CLS	_
 approuve	approuver	V	_
 fort	fort	ADV	_
@@ -31011,7 +31047,7 @@ de	de	P	_
 la	le	DET	_
 respectable	respectable	ADJ	_
 *	*	PONCT	_
-Mme	Mme	NC	_
+Mme	madame	NC	_
 Canon	Canon	NP	_
 ,	,	PONCT	_
 que	que	PROREL	_
@@ -31022,7 +31058,7 @@ honorée	honorer	VPP	_
 ,	,	PONCT	_
 quoique	quoique	CS	_
 nous	nous	PRO	_
-ayions	ayions	V	_
+ayions	avoir	V	_
 eu	avoir	VPP	_
 ensemble	ensemble	ADV	_
 quelque	quelque	DET	_
@@ -31035,7 +31071,7 @@ aussi	aussi	ADV	_
 que	que	CS	_
 vous	vous	CLS	_
 lui	il	CLO	_
-ayiez	ayiez	V	_
+ayiez	avoir	V	_
 donnée	donner	VPP	_
 pour	pour	P	_
 compagne	compagne	NC	_
@@ -31058,7 +31094,7 @@ il	il	CLS	_
 n'	ne	ADV	_
 y	y	CLO	_
 a	avoir	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 une	un	DET	_
 voix	voix	NC	_
 en-sa	en-sa	ADJ	_
@@ -31129,7 +31165,8 @@ une	un	PRO	_
 d'	de	P	_
 entr'eux	entr'eux	NC	_
 .	.	PONCT	_
-Quant_à	quant_à	P	_
+Quant	quant	ADV	_
+à	à	P	_
 tout	tout	ADJ	_
 le	le	DET	_
 reste	reste	NC	_
@@ -31161,7 +31198,7 @@ donc	donc	ADV	_
 sa	son	DET	_
 mère	mère	NC	_
 ,	,	PONCT	_
-plûs	plûs	NC	_
+plûs	plus	NC	_
 que	que	CS	_
 sa	son	DET	_
 soeur	sœur	NC	_
@@ -31191,7 +31228,7 @@ de	de	P	_
 plaisir	plaisir	NC	_
 ,	,	PONCT	_
 et	et	CC	_
-sur-tout	sur-tout	ADV	_
+sur-tout	surtout	ADV	_
 de	de	P	_
 ce	ce	PRO	_
 que	que	ADV	_
@@ -31300,7 +31337,7 @@ je	je	CLS	_
 puis	pouvoir	V	_
 ,	,	PONCT	_
 mon	mon	DET	_
-chèr	chèr	NC	_
+chèr	cher	NC	_
 !	!	PONCT	_
 Encore	encore	ADV	_
 y	y	CLO	_
@@ -31314,7 +31351,7 @@ s'	si	CS	_
 il	il	CLS	_
 est	être	V	_
 plus	plus	ADV	_
-avantageus	avantageus	ADJ	_
+avantageus	avantageux	ADJ	_
 que	que	CS	_
 je	je	CLS	_
 te	tu	CLO	_
@@ -31398,7 +31435,7 @@ la	le	DET	_
 recette	recette	NC	_
 d'	de	P	_
 *	*	PONCT	_
-épicure	épicure	NC	_
+épicure	Épicure	NP	_
 ne	ne	ADV	_
 me	je	CLO	_
 produirait	produire	V	_
@@ -31568,7 +31605,7 @@ père	père	NC	_
 d'	de	P	_
 une	un	DET	_
 fille	fille	NC	_
-charmante	charmant	ADJ	_
+charmante	charmer	ADJ	_
 ,	,	PONCT	_
 qui	qui	PROREL	_
 ressemblera	ressembler	V	_
@@ -31627,7 +31664,7 @@ créature	créature	NC	_
 à	à	P	_
 -	-	PONCT	_
 peine	peine	NC	_
-ébaûchée	ébaûchée	ADJ	_
+ébaûchée	ébaûché	ADJ	_
 .	.	PONCT	_
 *	*	PONCT	_
 Laure	laure	NC	_
@@ -31636,7 +31673,7 @@ porte	porter	V	_
 bien	bien	ADV	_
 ;	;	PONCT	_
 et	et	CC	_
-sur-tout	sur-tout	ADV	_
+sur-tout	surtout	ADV	_
 elle	il	CLS	_
 est	être	V	_
 très	très	ADV	_
@@ -31687,7 +31724,8 @@ pas	pas	ADV	_
 son	son	DET	_
 dessein	dessein	NC	_
 .	.	PONCT	_
-Quant_à	quant_à	P	_
+Quant	quant	ADV	_
+à	à	P	_
 l'	le	DET	_
 enfant	enfant	NC	_
 ,	,	PONCT	_
@@ -31756,7 +31794,7 @@ va	aller	V	_
 être	être	VINF	_
 plus	plus	ADV	_
 -	-	PONCT	_
-charmante	charmant	ADJ	_
+charmante	charmer	ADJ	_
 que	que	CS	_
 jamais	jamais	ADV	_
 ,	,	PONCT	_
@@ -31791,7 +31829,8 @@ est	être	V	_
 mon	mon	DET	_
 avis	avis	NC	_
 ;	;	PONCT	_
-quant_à	quant_à	P	_
+quant	quant	ADV	_
+à	à	P	_
 Laure	Laure	NP	_
 ,	,	PONCT	_
 je	je	CLS	_
@@ -31851,7 +31890,9 @@ Mais	mais	CC	_
 c'	ce	CLS	_
 en-est	en-est	V	_
 assés	assez	ADV	_
-là-dessus	là-dessus	ADV	_
+là	là	ADV	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 .	.	PONCT	_
 Je	je	CLS	_
 t'	tu	CLO	_
@@ -31879,12 +31920,12 @@ vu	voir	VPP	_
 ,	,	PONCT	_
 cette	ce	DET	_
 fille	fille	NC	_
-charmante	charmant	ADJ	_
+charmante	charmer	ADJ	_
 :	:	PONCT	_
 ah	ah	I	_
 !	!	PONCT	_
-Mon	Mon	NP	_
-chèr	chèr	NP	_
+Mon	mon	NP	_
+chèr	cher	NP	_
 ,	,	PONCT	_
 que	que	PROREL	_
 je	je	CLS	_
@@ -32006,8 +32047,8 @@ par	par	P	_
 ta	ton	DET	_
 figure	figure	NC	_
 :	:	PONCT	_
-etc.	etc.	ADV	_
-Je	Je	NP	_
+etc.	etc	ADV	_
+Je	je	NP	_
 me	je	CLO	_
 dis	dire	V	_
 quelquefois	quelquefois	ADV	_
@@ -32133,10 +32174,10 @@ Parangon	Parangon	NP	_
 :	:	PONCT	_
 cela	cela	PRO	_
 sera	être	V	_
-charmant	charmant	ADJ	_
+charmant	charmer	ADJ	_
 ;	;	PONCT	_
 un-peu	un-peu	NC	_
-plûs	plûs	ADV	_
+plûs	plus	ADV	_
 colorié	colorier	VPP	_
 que	que	CS	_
 sa	son	DET	_
@@ -32184,7 +32225,7 @@ faut	falloir	V	_
 avouer	avouer	VINF	_
 que	que	CS	_
 *	*	PONCT	_
-Mme	Mme	NC	_
+Mme	madame	NC	_
 *	*	X	_
 Canon	Canon	NP	_
 ,	,	PONCT	_
@@ -32231,7 +32272,7 @@ cette	ce	DET	_
 lettre	lettre	NC	_
 chés	chez	ADJ	_
 *	*	PONCT	_
-Mme	Mme	NC	_
+Mme	madame	NC	_
 Parangon	Parangon	NP	_
 ,	,	PONCT	_
 où	où	PROREL	_
@@ -32255,7 +32296,7 @@ cause	cause	NC	_
 .	.	PONCT	_
 Adieu	adieu	I	_
 ,	,	PONCT	_
-chèr	chèr	ADJ	_
+chèr	cher	ADJ	_
 ami	ami	NC	_
 .	.	PONCT	_
 Lettre	lettre	NC	_
@@ -32310,7 +32351,7 @@ hommages	hommage	NC	_
 d'	de	P	_
 un	un	DET	_
 fils	fils	NC	_
-respectueus	respectueus	ADJ	_
+respectueus	respectueux	ADJ	_
 ,	,	PONCT	_
 pour	pour	P	_
 le	le	DET	_
@@ -32441,7 +32482,7 @@ pour	pour	P	_
 vous	vous	PRO	_
 ,	,	PONCT	_
 mon	mon	DET	_
-chèr	chèr	NC	_
+chèr	cher	NC	_
 père	père	NC	_
 et	et	CC	_
 ma	mon	DET	_
@@ -32462,7 +32503,7 @@ ci-incluse	ci-inclus	ADJ	_
 ,	,	PONCT	_
 que	que	CS	_
 *	*	PONCT	_
-Mme	Mme	NC	_
+Mme	madame	NC	_
 Parangon	Parangon	NP	_
 m'	je	CLO	_
 a	avoir	V	_
@@ -32488,7 +32529,7 @@ est	être	V	_
 -il	il	CLS	_
 possible	possible	ADJ	_
 ,	,	PONCT	_
-chèr	chèr	ADJ	_
+chèr	cher	ADJ	_
 père	père	NC	_
 et	et	CC	_
 chère	cher	ADJ	_
@@ -32562,7 +32603,7 @@ oblige	obliger	V	_
 d'	de	P	_
 autant	autant	ADV	_
 -	-	PONCT	_
-plûs	plûs	NC	_
+plûs	plus	NC	_
 ,	,	PONCT	_
 que	que	CS	_
 ce	ce	CLS	_
@@ -32596,7 +32637,7 @@ que	que	CS	_
 si	si	CS	_
 tout	tout	PRO	_
 se	se	CLO	_
-fesait	fesait	V	_
+fesait	faire	V	_
 pour	pour	P	_
 moi	je	PRO	_
 .	.	PONCT	_
@@ -32628,7 +32669,8 @@ lui	il	PRO	_
 toujours	toujours	ADV	_
 devoir	devoir	VINF	_
 ,	,	PONCT	_
-afin_que	afin_que	CS	_
+afin	afin	ADV	_
+que	que	CS	_
 ma	mon	DET	_
 reconnaissance	reconnaissance	NC	_
 soit	être	V	_
@@ -32684,13 +32726,13 @@ leur	il	CLO	_
 en-sommes	en-sommes	V	_
 plus	plus	ADV	_
 -	-	PONCT	_
-chèrs	chèrs	NC	_
+chèrs	cher	NC	_
 :	:	PONCT	_
 tels	tel	P	_
 vous	vous	CLS	_
 êtes	être	V	_
 ,	,	PONCT	_
-chèr	chèr	ADJ	_
+chèr	cher	ADJ	_
 père	père	NC	_
 et	et	CC	_
 chère	cher	ADJ	_
@@ -32708,7 +32750,7 @@ et	et	CC	_
 telle	tel	ADJ	_
 est	être	V	_
 *	*	PONCT	_
-Mme	Mme	NC	_
+Mme	madame	NC	_
 Parangon	Parangon	NP	_
 ,	,	PONCT	_
 pour	pour	P	_
@@ -32722,7 +32764,7 @@ J'	je	CLS	_
 apprens	apprendre	V	_
 que	que	CS	_
 le	le	DET	_
-chèr	chèr	NC	_
+chèr	cher	NC	_
 frère	frère	ADJ	_
 -	-	PONCT	_
 aîné	aîné	ADJ	_
@@ -32855,7 +32897,7 @@ ma	mon	DET	_
 joie	joie	NC	_
 ne	ne	ADV	_
 cédera	céder	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 à	à	P	_
 la	le	DET	_
 sienne	sien	NC	_
@@ -32925,7 +32967,7 @@ de	de	P	_
 vous	vous	CLO	_
 voir	voir	VINF	_
 ,	,	PONCT	_
-chèr	chèr	ADJ	_
+chèr	cher	ADJ	_
 père	père	NC	_
 et	et	CC	_
 chère	cher	ADJ	_
@@ -32941,7 +32983,7 @@ soeurs	sœur	NC	_
 je	je	CLS	_
 les	il	CLO	_
 embrasse	embrasser	V	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 ,	,	PONCT	_
 et	et	CC	_
 je	je	CLS	_
@@ -32972,8 +33014,8 @@ plus	plus	ADV	_
 vive	vif	ADJ	_
 tendresse	tendresse	NC	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
-Lettre	Lettre	NP	_
+etc.	etc	ADV	_
+Lettre	lettre	NC	_
 *	*	PONCT	_
 17	17	X	_
 .	.	PONCT	_
@@ -32996,7 +33038,7 @@ papier	papier	NC	_
 secret	secret	ADJ	_
 de	de	P	_
 *	*	PONCT	_
-Mme	Mme	NC	_
+Mme	madame	NC	_
 *	*	X	_
 Parangon	Parangon	NP	_
 ,	,	PONCT	_
@@ -33099,7 +33141,7 @@ lui	il	PRO	_
 Il	il	CLS	_
 est	être	V	_
 trop	trop	ADV	_
-heureus	heureus	ADJ	_
+heureus	heureux	ADJ	_
 ;	;	PONCT	_
 car	car	CC	_
 je	je	CLS	_
@@ -33109,7 +33151,7 @@ il	il	CLS	_
 aime	aimer	V	_
 bien	bien	ADV	_
 *	*	PONCT	_
-Mme	Mme	NC	_
+Mme	madame	NC	_
 *	*	X	_
 Parangon	Parangon	NP	_
 :	:	PONCT	_
@@ -33426,7 +33468,7 @@ j'	je	CLS	_
 ai	avoir	V	_
 fui	fuir	VPP	_
 le	le	DET	_
-chèr	chèr	NC	_
+chèr	cher	NC	_
 ennemi	ennemi	ADJ	_
 de	de	P	_
 mon	mon	DET	_
@@ -33895,7 +33937,7 @@ autel	autel	NC	_
 ...	…	PONCT	_
 ah	ah	I	_
 !	!	PONCT	_
-Quelle	Quelle	ADJ	_
+Quelle	quel	ADJ	_
 différence	différence	NC	_
 !	!	PONCT	_
 ...	…	PONCT	_
@@ -34150,7 +34192,7 @@ pas	pas	ADV	_
 souffert	souffrir	VPP	_
 !	!	PONCT	_
 ...	…	PONCT	_
-chèr	chèr	ET	_
+chèr	cher	ET	_
 *	*	X	_
 Edmond	Edmond	NP	_
 !	!	PONCT	_
@@ -34187,7 +34229,7 @@ pour	pour	P	_
 elle	il	PRO	_
 ;	;	PONCT	_
 et	et	CC	_
-sur-tout	sur-tout	ADV	_
+sur-tout	surtout	ADV	_
 elle	il	CLS	_
 aura	avoir	V	_
 un	un	DET	_
@@ -34204,7 +34246,7 @@ Ursule	Ursule	NP	_
 elle	il	CLS	_
 est	être	V	_
 aimée	aimer	VPP	_
-déja	déja	ADJ	_
+déja	déjà	ADJ	_
 ,	,	PONCT	_
 elle	il	CLS	_
 est	être	V	_
@@ -34224,7 +34266,7 @@ Mais	mais	CC	_
 elle	il	CLS	_
 les	il	CLO	_
 ignore	ignorer	V	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 !	!	PONCT	_
 Le	le	DET	_
 frère	frère	NC	_
@@ -34406,7 +34448,7 @@ malheureuse	malheureux	ADJ	_
 !	!	PONCT	_
 Quel	quel	DET	_
 souhait	souhait	NC	_
-alais	alais	V	_
+alais	aller	V	_
 -tu	tu	CLS	_
 former	former	VINF	_
 !	!	PONCT	_
@@ -34472,7 +34514,7 @@ il	il	CLS	_
 voye	voir	V	_
 cet	ce	DET	_
 home	home	NC	_
-dangereus	dangereus	ADJ	_
+dangereus	dangereux	ADJ	_
 !	!	PONCT	_
 Sondons	sonder	V	_
 mon	mon	DET	_
@@ -34834,7 +34876,7 @@ ailleurs	ailleurs	NC	_
 charmée	charmer	VPP	_
 que	que	CS	_
 *	*	PONCT	_
-Mlle	Mlle	NC	_
+Mlle	mademoiselle	NC	_
 *	*	X	_
 Fanchette	Fanchette	NP	_
 fût	être	V	_
@@ -34864,7 +34906,7 @@ la	le	DET	_
 soeur	sœur	NC	_
 de	de	P	_
 *	*	X	_
-Mme	Mme	NC	_
+Mme	madame	NC	_
 Parangon	Parangon	NP	_
 ,	,	PONCT	_
 et	et	CC	_
@@ -34915,7 +34957,7 @@ de	de	P	_
 la	le	DET	_
 chère	chère	NC	_
 *	*	PONCT	_
-Mme	Mme	NC	_
+Mme	madame	NC	_
 *	*	X	_
 Parangon	Parangon	NP	_
 ,	,	PONCT	_
@@ -34994,7 +35036,7 @@ aussi	aussi	ADV	_
 vertueuse	vertueux	ADJ	_
 que	que	CS	_
 *	*	PONCT	_
-Mme	Mme	NC	_
+Mme	madame	NC	_
 Parangon	Parangon	NP	_
 ,	,	PONCT	_
 n'	ne	ADV	_
@@ -35031,7 +35073,7 @@ que	que	PROREL	_
 vous	vous	CLS	_
 nous	nous	CLO	_
 voulez	vouloir	V	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 ,	,	PONCT	_
 doit	devoir	V	_
 vous	vous	CLO	_
@@ -35045,7 +35087,7 @@ et	et	CC	_
 ce	ce	CLS	_
 n'	ne	ADV	_
 est	être	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 à	à	P	_
 cette	ce	DET	_
 intention	intention	NC	_
@@ -35163,9 +35205,9 @@ conseiller	conseiller	NC	_
 :	:	PONCT	_
 j'	je	CLS	_
 entendais	entendre	V	_
-hièr	hièr	ADV	_
+hièr	hier	ADV	_
 *	*	PONCT	_
-Mme	Mme	NC	_
+Mme	madame	NC	_
 Parangon	Parangon	NP	_
 qui	qui	PROREL	_
 parlait	parler	V	_
@@ -35219,7 +35261,7 @@ considéré	considérer	VPP	_
 ,	,	PONCT	_
 il	il	CLS	_
 ne	ne	ADV	_
-falait	falait	V	_
+falait	falloir	V	_
 pas	pas	ADV	_
 que	que	CS	_
 je	je	CLS	_
@@ -35267,16 +35309,16 @@ pouvoir	pouvoir	VINF	_
 me	je	CLO	_
 les	il	CLO	_
 éviter	éviter	VINF	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 .	.	PONCT	_
 *	*	PONCT	_
-Mme	Mme	NC	_
+Mme	madame	NC	_
 *	*	X	_
 Canon	Canon	NP	_
 l'	il	CLO	_
 a	avoir	V	_
 bien-	bien-	X	_
-louée	louée	VPP	_
+louée	loué	VPP	_
 de	de	P	_
 sa	son	DET	_
 prudence	prudence	NC	_
@@ -35312,7 +35354,7 @@ en-étais	en-étais	V	_
 attendrie	attendrir	VPP	_
 .	.	PONCT	_
 *	*	PONCT	_
-Mme	Mme	NC	_
+Mme	madame	NC	_
 Canon	Canon	NP	_
 a	avoir	V	_
 demandé	demander	VPP	_
@@ -35381,7 +35423,7 @@ d'	de	P	_
 obtenir	obtenir	VINF	_
 de	de	P	_
 *	*	PONCT	_
-Mme	Mme	NC	_
+Mme	madame	NC	_
 Parangon	Parangon	NP	_
 la	le	DET	_
 permission	permission	NC	_
@@ -35396,7 +35438,7 @@ respectable	respectable	ADJ	_
 dame	dame	NC	_
 ,	,	PONCT	_
 à	à	P	_
-quî	quî	NC	_
+quî	qui	NC	_
 vous	vous	CLS	_
 êtes	être	V	_
 si	si	ADV	_
@@ -35495,7 +35537,7 @@ absence	absence	NC	_
 n'	ne	ADV	_
 a	avoir	V	_
 contribué	contribuer	VPP	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 à	à	P	_
 la	le	DET	_
 creuser	creuser	NC	_
@@ -35590,7 +35632,7 @@ Mr	monsieur	NC	_
 votre	votre	DET	_
 père	père	NC	_
 et	et	CC	_
-Mme	Mme	NC	_
+Mme	madame	NC	_
 votre	votre	DET	_
 mère	mère	NC	_
 :	:	PONCT	_
@@ -35700,7 +35742,7 @@ vie	vie	NC	_
 ,	,	PONCT	_
 avec	avec	P	_
 un	un	DET	_
-dévoûment	dévoûment	NC	_
+dévoûment	dévouement	NC	_
 parfait	parfait	ADJ	_
 ,	,	PONCT	_
 mademoiselle	mademoiselle	NC	_
@@ -35779,7 +35821,7 @@ celle	celui	PRO	_
 qu'	que	PROREL	_
 en-ressentiront	en-ressentiront	V	_
 nos	notre	DET	_
-chèrs	chèrs	NC	_
+chèrs	cher	NC	_
 père	père	NC	_
 et	et	CC	_
 mère	mère	NC	_
@@ -35789,16 +35831,16 @@ celle	celui	PRO	_
 que	que	PROREL	_
 vous	vous	CLS	_
 en-aurez	en-aurez	V	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 ,	,	PONCT	_
 ma	mon	DET	_
 chère	chère	NC	_
 ,	,	PONCT	_
-sur-tout	sur-tout	ADV	_
+sur-tout	surtout	ADV	_
 toi	tu	PRO	_
 ,	,	PONCT	_
 avec	avec	P	_
-quî	quî	VINF	_
+quî	qui	VINF	_
 mon	mon	DET	_
 inclination	inclination	NC	_
 m'	je	CLO	_
@@ -35871,7 +35913,7 @@ que	que	CS	_
 cela	cela	PRO	_
 me	je	CLO	_
 tente	tenter	V	_
-plûs	plûs	ADV	_
+plûs	plus	ADV	_
 que	que	CS	_
 le	le	DET	_
 mariage	mariage	NC	_
@@ -35954,7 +35996,7 @@ glisse	glisser	V	_
 des	un	DET	_
 billets	billet	NC	_
 ,	,	PONCT	_
-sur-tout	sur-tout	NC	_
+sur-tout	surtout	NC	_
 de	de	P	_
 la	le	DET	_
 part	part	NC	_
@@ -35971,7 +36013,7 @@ tel	tel	ADJ	_
 qui	qui	PROREL	_
 m'	je	CLO	_
 a	avoir	V	_
-déja	déja	VPP	_
+déja	déjà	VPP	_
 parlé	parler	VPP	_
 .	.	PONCT	_
 Je	je	CLS	_
@@ -36294,7 +36336,7 @@ de	de	P	_
 distinction	distinction	NC	_
 me	je	CLO	_
 le	le	DET	_
-fesait	fesait	NC	_
+fesait	faire	NC	_
 respecter	respecter	VINF	_
 ,	,	PONCT	_
 mais	mais	CC	_
@@ -36327,7 +36369,7 @@ belle	beau	ADJ	_
 demoiselle	demoiselle	NC	_
 ,	,	PONCT	_
 avec	avec	P	_
-quî	quî	NC	_
+quî	qui	NC	_
 vous	vous	CLS	_
 êtes	être	V	_
 ;	;	PONCT	_
@@ -36516,7 +36558,7 @@ chés	chez	NC	_
 nous	nous	PRO	_
 .	.	PONCT	_
 *	*	PONCT	_
-Mme	Mme	NC	_
+Mme	madame	NC	_
 *	*	X	_
 Canon	Canon	NP	_
 est	être	V	_
@@ -36563,11 +36605,11 @@ très	très	ADV	_
 -	-	PONCT	_
 bien-mises	bien-mises	NC	_
 ,	,	PONCT	_
-sur-tout	sur-tout	ADV	_
+sur-tout	surtout	ADV	_
 depuis	depuis	P	_
 que	que	CS	_
 *	*	PONCT	_
-Mme	Mme	NC	_
+Mme	madame	NC	_
 Parangon	Parangon	NP	_
 est	être	V	_
 ici	ici	ADV	_
@@ -36745,7 +36787,7 @@ Christine	Christine	NP	_
 :	:	PONCT	_
 elle	il	CLS	_
 est	être	V	_
-charmante	charmant	ADJ	_
+charmante	charmer	ADJ	_
 ;	;	PONCT	_
 elle	il	CLS	_
 aurait	avoir	V	_
@@ -36893,7 +36935,7 @@ tout	tout	NC	_
 -	-	PONCT	_
 dévoué	dévouer	VPP	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 J'	J'	NP	_
 ai	avoir	V	_
 encore	encore	ADV	_
@@ -36993,7 +37035,7 @@ ai	avoir	V	_
 regardé	regarder	VPP	_
 avec	avec	P	_
 le	le	DET	_
-plûs	plûs	NC	_
+plûs	plus	NC	_
 de	de	P	_
 colère	colère	NC	_
 que	que	PROREL	_
@@ -37021,7 +37063,7 @@ la	le	DET	_
 joie	joie	NC	_
 à	à	P	_
 nos	notre	DET	_
-chèrs	chèrs	NC	_
+chèrs	cher	NC	_
 père	père	NC	_
 et	et	CC	_
 mère	mère	NC	_
@@ -37031,7 +37073,7 @@ ce	ce	DET	_
 moment	moment	NC	_
 ,	,	PONCT	_
 *	*	PONCT	_
-Mme	Mme	NC	_
+Mme	madame	NC	_
 Canon	Canon	NP	_
 ,	,	PONCT	_
 m'	je	CLO	_
@@ -37058,7 +37100,7 @@ attente	attente	NC	_
 de	de	P	_
 ces	ce	DET	_
 moyens	moyen	NC	_
-ausquels	auquel	PROREL	_
+ausquels	à_lequel	PROREL	_
 il	il	CLS	_
 aura	avoir	V	_
 recours	recours	NC	_
@@ -37192,7 +37234,7 @@ touchans	toucher	VPR	_
 !	!	PONCT	_
 Ah	ah	I	_
 !	!	PONCT	_
-Si	Si	NP	_
+Si	si	NP	_
 j'	je	CLS	_
 étais	être	V	_
 assés	assez	ADV	_
@@ -37229,7 +37271,7 @@ j'	je	CLS	_
 ai	avoir	V	_
 les	le	DET	_
 plus	plus	ADV	_
-brillantes	brillant	ADJ	_
+brillantes	briller	ADJ	_
 espérances	espérance	NC	_
 .	.	PONCT	_
 Je	je	CLS	_
@@ -37330,7 +37372,7 @@ vous	vous	CLS	_
 cruelle	cruel	ADJ	_
 ,	,	PONCT	_
 d'	de	P	_
-aler	aler	VINF	_
+aler	aller	VINF	_
 me	je	CLO	_
 faire	faire	VINF	_
 tuer	tuer	VINF	_
@@ -37406,7 +37448,7 @@ page	page	NC	_
 car	car	CC	_
 il	il	CLS	_
 est	être	V	_
-charmant	charmant	ADJ	_
+charmant	charmer	ADJ	_
 :	:	PONCT	_
 mais	mais	CC	_
 comme	comme	CS	_
@@ -37542,7 +37584,7 @@ crois	croire	V	_
 )	)	PONCT	_
 ,	,	PONCT	_
 vous	vous	PRO	_
-alez	alez	V	_
+alez	aller	V	_
 mépriser	mépriser	VINF	_
 et	et	CC	_
 mon	mon	DET	_
@@ -37676,7 +37718,7 @@ car	car	CC	_
 je	je	CLS	_
 vous	vous	CLO	_
 aime	aimer	V	_
-plûs	plûs	ADV	_
+plûs	plus	ADV	_
 que	que	CS	_
 ma	mon	DET	_
 vie	vie	NC	_
@@ -37779,7 +37821,7 @@ a	avoir	V	_
 glissé	glisser	VPP	_
 un	un	DET	_
 billet	billet	NC	_
-hièr	hièr	ADJ	_
+hièr	hier	ADJ	_
 ,	,	PONCT	_
 est	être	V	_
 sûrement	sûrement	ADV	_
@@ -38025,7 +38067,7 @@ beaucoup	beaucoup	ADV	_
 ,	,	PONCT	_
 je	je	CLS	_
 présume	présumer	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 il	il	CLS	_
 doit	devoir	V	_
 leur	leur	DET	_
@@ -38128,7 +38170,7 @@ moi	je	PRO	_
 Je	je	CLS	_
 ne	ne	ADV	_
 sais	savoir	V	_
-quî	quî	ADV	_
+quî	qui	ADV	_
 vous	vous	CLS	_
 êtes	être	V	_
 ;	;	PONCT	_
@@ -38147,7 +38189,7 @@ crois	croire	V	_
 pas	pas	ADV	_
 que	que	CS	_
 vous	vous	PRO	_
-ayiez	ayiez	V	_
+ayiez	avoir	V	_
 encore	encore	ADV	_
 eu	avoir	VPP	_
 plus	plus	ADV	_
@@ -38186,8 +38228,8 @@ la	le	DET	_
 glace	glace	NC	_
 ,	,	PONCT	_
 pas	pas	ADV	_
-plûs	plûs	VPP	_
-qu'	qu'	ADV	_
+plûs	plus	VPP	_
+qu'	que	ADV	_
 à	à	P	_
 avoir	avoir	VINF	_
 une	un	DET	_
@@ -38221,7 +38263,7 @@ moi	je	PRO	_
 .	.	PONCT	_
 Vous	vous	CLS	_
 êtes	être	V	_
-charmante	charmant	ADJ	_
+charmante	charmer	ADJ	_
 !	!	PONCT	_
 Et	et	CC	_
 je	je	CLS	_
@@ -38233,7 +38275,7 @@ vous	vous	CLS	_
 ne	ne	ADV	_
 fassiez	faire	V	_
 de	de	P	_
-brillantes	brillant	ADJ	_
+brillantes	briller	ADJ	_
 conquêtes	conquête	NC	_
 :	:	PONCT	_
 c'	ce	CLS	_
@@ -38356,7 +38398,8 @@ avec	avec	P	_
 les	le	DET	_
 autres	autre	NC	_
 ,	,	PONCT	_
-afin_d'	afin_de	P	_
+afin	afin	ADV	_
+d'	de	P	_
 avoir	avoir	VINF	_
 un	un	DET	_
 second	second	ADJ	_
@@ -38383,7 +38426,7 @@ que	que	PROREL	_
 mon	mon	DET	_
 billet	billet	NC	_
 d'	de	P	_
-avanhièr	avanhièr	NC	_
+avanhièr	avant_hier	NC	_
 ne	ne	ADV	_
 soit	être	V	_
 pas	pas	ADV	_
@@ -38495,7 +38538,7 @@ supposé	supposer	VPP	_
 que	que	CS	_
 vous	vous	CLS	_
 l'	il	CLO	_
-ayiez	ayiez	V	_
+ayiez	avoir	V	_
 reçue	recevoir	VPP	_
 )	)	PONCT	_
 ;	;	PONCT	_
@@ -38518,7 +38561,8 @@ une	un	DET	_
 femme	femme	NC	_
 usagée	usager	VPP	_
 ,	,	PONCT	_
-afin_de	afin_de	P	_
+afin	afin	ADV	_
+de	de	P	_
 ne	ne	ADV	_
 paraître	paraître	VINF	_
 pas	pas	ADV	_
@@ -38709,7 +38753,7 @@ qui	qui	PROREL	_
 à	à	P	_
 Paris	Paris	NP	_
 avec	avec	P	_
-Mme	Mme	NC	_
+Mme	madame	NC	_
 votre	votre	DET	_
 tante	tante	NC	_
 et	et	CC	_
@@ -38820,7 +38864,7 @@ si	si	CS	_
 ce	ce	CLS	_
 n'	ne	ADV	_
 est	être	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 apparemment	apparemment	ADV	_
 les	le	DET	_
 financiers	financier	NC	_
@@ -38977,15 +39021,16 @@ un-peu	un-peu	ADJ	_
 en-arrière	en-arrière	NC	_
 de	de	P	_
 *	*	PONCT	_
-Mme	Mme	NC	_
+Mme	madame	NC	_
 Canon	Canon	NP	_
 et	et	CC	_
 de	de	P	_
 *	*	PONCT	_
-Mme	Mme	NC	_
+Mme	madame	NC	_
 Parangon	Parangon	NP	_
 ,	,	PONCT	_
-afin_de	afin_de	P	_
+afin	afin	ADV	_
+de	de	P	_
 n'	ne	ADV	_
 être	être	VINF	_
 pas	pas	ADV	_
@@ -39406,7 +39451,7 @@ côté	côté	NC	_
 je	je	CLS	_
 sonderai	sonder	V	_
 *	*	PONCT	_
-Mme	Mme	NC	_
+Mme	madame	NC	_
 Parangon	Parangon	NP	_
 ,	,	PONCT	_
 et	et	CC	_
@@ -39447,7 +39492,7 @@ es	être	V	_
 ce	ce	CLS	_
 ne	ne	ADV	_
 sera	être	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 un	un	DET	_
 jeu	jeu	NC	_
 ;	;	PONCT	_
@@ -39518,7 +39563,7 @@ année	année	NC	_
 ,	,	PONCT	_
 pour	pour	P	_
 nos	notre	DET	_
-chèrs	chèrs	NC	_
+chèrs	cher	NC	_
 parens	parent	ADJ	_
 et	et	CC	_
 pour	pour	P	_
@@ -39766,7 +39811,7 @@ petit	petit	ADJ	_
 écrit	écrit	NC	_
 de	de	P	_
 *	*	PONCT	_
-Mme	Mme	NC	_
+Mme	madame	NC	_
 *	*	X	_
 Parangon	Parangon	NP	_
 :	:	PONCT	_
@@ -39805,7 +39850,7 @@ que	que	CS	_
 le	le	DET	_
 roi	roi	NC	_
 David	David	NP	_
-fesait	fesait	V	_
+fesait	faire	V	_
 ses	son	DET	_
 pseaumes	psaume	NC	_
 ,	,	PONCT	_
@@ -39948,7 +39993,8 @@ dire	dire	VINF	_
 ma	mon	DET	_
 pensée	pensée	NC	_
 .	.	PONCT	_
-Quant_à	quant_à	P	_
+Quant	quant	ADV	_
+à	à	P	_
 ce	ce	PRO	_
 que	que	PROREL	_
 vous	vous	CLS	_
@@ -39967,14 +40013,14 @@ l'	le	DET	_
 esprit	esprit	NC	_
 de	de	P	_
 *	*	PONCT	_
-Mlle	Mlle	NC	_
+Mlle	mademoiselle	NC	_
 Fanchette	Fanchette	NP	_
 ,	,	PONCT	_
 je	je	CLS	_
 n'	ne	ADV	_
 y	y	CLO	_
 trouve	trouver	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 à	à	P	_
 louer	louer	VINF	_
 ,	,	PONCT	_
@@ -40000,7 +40046,7 @@ vu	voir	VPP	_
 qu'	que	CS	_
 il	il	CLS	_
 aime	aimer	V	_
-déja	déja	ADV	_
+déja	déjà	ADV	_
 si	si	ADV	_
 respectueusement	respectueusement	ADV	_
 sa	son	DET	_
@@ -40028,7 +40074,8 @@ travers	travers	NC	_
 champ	champ	NC	_
 .	.	PONCT	_
 Pour	pour	P	_
-quant_à	quant_à	P	_
+quant	quant	ADV	_
+à	à	P	_
 ce	ce	PRO	_
 qui	qui	PROREL	_
 est	être	V	_
@@ -40066,7 +40113,7 @@ joie	joie	NC	_
 cause	cause	NC	_
 de	de	P	_
 nos	notre	DET	_
-chèrs	chèrs	ADJ	_
+chèrs	cher	ADJ	_
 père	père	NC	_
 et	et	CC	_
 mère	mère	NC	_
@@ -40197,10 +40244,10 @@ en-feu	en-feu	ADJ	_
 s'	si	CS	_
 il	il	CLS	_
 le	il	CLO	_
-falait	falait	V	_
+falait	falloir	V	_
 ,	,	PONCT	_
 pour	pour	P	_
-aler	aler	VINF	_
+aler	aller	VINF	_
 à	à	P	_
 Ursule	Ursule	NP	_
 *	*	PONCT	_
@@ -40370,7 +40417,7 @@ en-rougissant	en-rougissant	ADV	_
 .	.	PONCT	_
 Ah	ah	I	_
 !	!	PONCT	_
-Je	Je	NP	_
+Je	je	NP	_
 ne	ne	ADV	_
 m'	je	CLO	_
 étonne	étonner	V	_
@@ -40385,7 +40432,7 @@ cousine	cousine	NC	_
 Et	et	CC	_
 ils	il	CLS	_
 descendirent	descendre	V	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 pour	pour	P	_
 vous	vous	CLO	_
 embrasser	embrasser	VINF	_
@@ -40395,7 +40442,7 @@ ils	il	CLS	_
 nous	nous	CLO	_
 complimentèrent	complimenter	V	_
 aussi	aussi	ADV	_
-toutes	tous	PRO	_
+toutes	tout	PRO	_
 ,	,	PONCT	_
 jusqu'	jusque	P	_
 à	à	P	_
@@ -40523,7 +40570,7 @@ surprenant	surprenant	ADJ	_
 ,	,	PONCT	_
 que	que	CS	_
 vous	vous	CLS	_
-soyiez	soyiez	V	_
+soyiez	être	V	_
 regardée	regarder	VPP	_
 et	et	CC	_
 contemplée	contempler	VPP	_
@@ -40614,10 +40661,10 @@ deux	deux	DET	_
 mots	mot	NC	_
 à	à	P	_
 *	*	PONCT	_
-Mme	Mme	NC	_
+Mme	madame	NC	_
 Parangon	Parangon	NP	_
 ;	;	PONCT	_
-sur-tout	sur-tout	NP	_
+sur-tout	surtout	NP	_
 ,	,	PONCT	_
 de	de	P	_
 ce	ce	DET	_
@@ -40647,7 +40694,8 @@ l'	il	CLO	_
 aient	avoir	V	_
 écouté	écouter	VPP	_
 .	.	PONCT	_
-Quant_à	quant_à	P	_
+Quant	quant	ADV	_
+à	à	P	_
 ce	ce	PRO	_
 qu'	que	PROREL	_
 ils	il	CLS	_
@@ -40766,7 +40814,7 @@ femme	femme	NC	_
 un-jour	un-jour	ADJ	_
 ,	,	PONCT	_
 pour	pour	P	_
-aler	aler	VINF	_
+aler	aller	VINF	_
 courir	courir	VINF	_
 de	de	P	_
 garnison	garnison	NC	_
@@ -40845,7 +40893,8 @@ sur	sur	P	_
 son	son	DET	_
 compte	compte	NC	_
 .	.	PONCT	_
-Quant_à	quant_à	P	_
+Quant	quant	ADV	_
+à	à	P	_
 ce	ce	PRO	_
 que	que	PROREL	_
 vous	vous	CLS	_
@@ -40922,7 +40971,7 @@ il	il	CLS	_
 ne	ne	ADV	_
 me	je	CLO	_
 reste	rester	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 à	à	P	_
 vous	vous	CLO	_
 recommander	recommander	VINF	_
@@ -40988,7 +41037,8 @@ Paris	Paris	NP	_
 .	.	PONCT	_
 Je	je	CLS	_
 vais	aller	V	_
-quant_à	quant_à	P	_
+quant	quant	ADV	_
+à	à	P	_
 -	-	PONCT	_
 présent	présent	NC	_
 vous	vous	CLO	_
@@ -40999,8 +41049,8 @@ nous	nous	PRO	_
 ,	,	PONCT	_
 de	de	P	_
 l'	le	DET	_
-heureus	heureus	ADJ	_
-évènement	évènement	NC	_
+heureus	heureux	ADJ	_
+évènement	événement	NC	_
 ,	,	PONCT	_
 et	et	CC	_
 d'	de	P	_
@@ -41025,8 +41075,8 @@ ne	ne	ADV	_
 nous	nous	CLO	_
 semblent	sembler	V	_
 à	à	P	_
-tous	tous	PRO	_
-qu'	qu'	ADV	_
+tous	tout	PRO	_
+qu'	que	ADV	_
 une	un	DET	_
 minute	minute	NC	_
 ,	,	PONCT	_
@@ -41062,7 +41112,7 @@ femme	femme	NC	_
 ,	,	PONCT	_
 tant	tant	ADV	_
 -	-	PONCT	_
-plûs	plûs	NC	_
+plûs	plus	NC	_
 il	il	CLS	_
 vous	vous	CLO	_
 plaît	plaire	V	_
@@ -41082,7 +41132,7 @@ tant	tant	ADV	_
 plus	plus	ADV	_
 vîte	vite	ADV	_
 le	le	DET	_
-devons	devon	NC	_
+devons	devoir	NC	_
 -nous	nous	CLO	_
 renvoyer	renvoyer	VINF	_
 où	où	PROREL	_
@@ -41094,7 +41144,8 @@ ce	ce	DET	_
 mérite	mérite	NC	_
 -là	là	ADV	_
 ,	,	PONCT	_
-afin_qu'	afin_que	CS	_
+afin	afin	ADV	_
+qu'	que	CS	_
 il	il	CLS	_
 s'	se	CLO	_
 en-remplisse	en-remplisse	V	_
@@ -41183,7 +41234,7 @@ heure	heure	NC	_
 comme	comme	P	_
 un	un	DET	_
 enfant	enfant	NC	_
-alaitant	alaitant	ADJ	_
+alaitant	allaiter	ADJ	_
 ,	,	PONCT	_
 mais	mais	CC	_
 auprès	auprès	ADV	_
@@ -41282,7 +41333,7 @@ mon	mon	DET	_
 Edmond	Edmond	NP	_
 ,	,	PONCT	_
 mon	mon	DET	_
-chèr	chèr	NC	_
+chèr	cher	NC	_
 fils	fils	NC	_
 ,	,	PONCT	_
 c'	ce	CLS	_
@@ -41305,7 +41356,7 @@ ces	ce	DET	_
 derniers	dernier	ADJ	_
 mots	mot	NC	_
 ,	,	PONCT	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 elle	il	PRO	_
 ,	,	PONCT	_
 qui	qui	PROREL	_
@@ -41518,7 +41569,7 @@ marquer	marquer	VINF	_
 visiblement	visiblement	ADV	_
 ,	,	PONCT	_
 mes	mon	DET	_
-chèrs	chèrs	NC	_
+chèrs	cher	NC	_
 enfans	enfant	ADJ	_
 ,	,	PONCT	_
 qu'	que	CS	_
@@ -41530,7 +41581,7 @@ par	par	P	_
 mariage	mariage	NC	_
 ne	ne	ADV	_
 sont	être	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 un	un	DET	_
 ;	;	PONCT	_
 et	et	CC	_
@@ -41644,7 +41695,7 @@ air	air	NC	_
 Mon	mon	DET	_
 pauvre	pauvre	ADJ	_
 mari	mari	NC	_
-alait	alait	ADJ	_
+alait	aller	ADJ	_
 ,	,	PONCT	_
 venait	venir	V	_
 ,	,	PONCT	_
@@ -41813,7 +41864,7 @@ sa	son	DET	_
 bouche	bouche	NC	_
 ,	,	PONCT	_
 en-lui	en-lui	NC	_
-disant	disant	ADJ	_
+disant	dire	VPR	_
 ,	,	PONCT	_
 mon	mon	DET	_
 père	père	NC	_
@@ -41851,7 +41902,8 @@ mère	mère	NC	_
 aux	à_le	P+D	_
 vôtres	vôtre	NC	_
 ,	,	PONCT	_
-afin_que	afin_que	CS	_
+afin	afin	ADV	_
+que	que	CS	_
 je	je	CLS	_
 le	il	CLO	_
 reçoive	recevoir	V	_
@@ -41928,7 +41980,7 @@ a	avoir	V	_
 pris	prendre	VPP	_
 ,	,	PONCT	_
 en-me	en-me	NC	_
-disant	disant	ADJ	_
+disant	dire	VPR	_
 :	:	PONCT	_
 je	je	CLS	_
 vais	aller	V	_
@@ -41975,10 +42027,10 @@ qui	qui	PROREL	_
 entrait	entrer	V	_
 ,	,	PONCT	_
 en-lui	en-lui	NC	_
-disant	disant	ADJ	_
+disant	dire	VPR	_
 ,	,	PONCT	_
 avec	avec	P	_
-plûs	plûs	NC	_
+plûs	plus	NC	_
 de	de	P	_
 hardiesse	hardiesse	NC	_
 ,	,	PONCT	_
@@ -42170,7 +42222,8 @@ de	de	P	_
 la	le	DET	_
 tristesse	tristesse	NC	_
 ,	,	PONCT	_
-afin_que	afin_que	CS	_
+afin	afin	ADV	_
+que	que	CS	_
 mon	mon	DET	_
 coeur	cœur	NC	_
 ne	ne	ADV	_
@@ -42209,7 +42262,7 @@ vingt-et-cinq	vingt-et-cinq	DET	_
 ans	an	NC	_
 ,	,	PONCT	_
 son	son	DET	_
-chèr	chèr	NC	_
+chèr	cher	NC	_
 et	et	CC	_
 pitoyable	pitoyable	ADJ	_
 souvenir	souvenir	NC	_
@@ -42242,12 +42295,12 @@ leurs	leur	DET	_
 repas	repas	NC	_
 ...	…	PONCT	_
 mes	mon	DET	_
-chèrs	chèrs	NC	_
+chèrs	cher	NC	_
 enfans	enfant	NC	_
 !	!	PONCT	_
 Voila	voiler	V	_
 comme	comme	P	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 nous	nous	CLS	_
 sommes	être	V	_
 venus	venir	VPP	_
@@ -42364,7 +42417,7 @@ que	que	ADV	_
 plus	plus	ADV	_
 avidement	avidement	ADV	_
 le	le	DET	_
-chèr	chèr	NC	_
+chèr	cher	NC	_
 et	et	CC	_
 précieus	précieus	V	_
 souvenir	souvenir	VINF	_
@@ -42428,7 +42481,7 @@ aîné	aîné	ADJ	_
 si	si	CS	_
 tant	tant	ADV	_
 est	être	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 un	un	DET	_
 père	père	NC	_
 cède	céder	V	_
@@ -42437,7 +42490,7 @@ une	un	DET	_
 chose	chose	NC	_
 ,	,	PONCT	_
 en-la	en-la	NC	_
-fesant	fesant	VPR	_
+fesant	faire	VPR	_
 passer	passer	VINF	_
 à	à	P	_
 son	son	DET	_
@@ -42535,7 +42588,7 @@ est	être	V	_
 préparé	préparer	VPP	_
 pour	pour	P	_
 le	le	DET	_
-batême	batême	NC	_
+batême	baptême	NC	_
 ;	;	PONCT	_
 et	et	CC	_
 notre	notre	DET	_
@@ -42556,7 +42609,7 @@ au	à_le	P+D	_
 nom	nom	NC	_
 de	de	P	_
 *	*	PONCT	_
-Mlle	Mlle	NC	_
+Mlle	mademoiselle	NC	_
 Fanchette	Fanchette	NP	_
 ;	;	PONCT	_
 et	et	CC	_
@@ -42585,7 +42638,7 @@ demoiselle	demoiselle	NC	_
 qui	qui	PROREL	_
 l'	il	CLO	_
 a	avoir	V	_
-grâcieusement	grâcieusement	ADV	_
+grâcieusement	gracieusement	ADV	_
 accordé	accorder	VPP	_
 ;	;	PONCT	_
 et	et	CC	_
@@ -42596,7 +42649,7 @@ cette	ce	DET	_
 raison	raison	NC	_
 que	que	CS	_
 *	*	X	_
-Mme	Mme	NC	_
+Mme	madame	NC	_
 Parangon	Parangon	NP	_
 a	avoir	V	_
 reçu	recevoir	VPP	_
@@ -42694,7 +42747,7 @@ qui	qui	PROREL	_
 a	avoir	V	_
 fait	faire	VPP	_
 que	que	CS	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 -	-	PONCT	_
 quatre	quatre	NC	_
 ont	avoir	V	_
@@ -42715,7 +42768,7 @@ comme	comme	P	_
 pour	pour	P	_
 ne	ne	ADV	_
 faire	faire	VINF	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 un	un	DET	_
 avec	avec	P	_
 lui	il	PRO	_
@@ -42739,7 +42792,7 @@ moment	moment	NC	_
 où	où	PROREL	_
 le	le	DET	_
 prêtre	prêtre	NC	_
-fesait	fesait	ADJ	_
+fesait	faire	ADJ	_
 -	-	PONCT	_
 faire	faire	VINF	_
 le	le	DET	_
@@ -42764,7 +42817,7 @@ enfant	enfant	NC	_
 et	et	CC	_
 pour	pour	P	_
 ce	ce	DET	_
-chèr	chèr	NC	_
+chèr	cher	NC	_
 fils	fils	NC	_
 ,	,	PONCT	_
 qui	qui	PROREL	_
@@ -42994,7 +43047,7 @@ moi	je	PRO	_
 qui	qui	PROREL	_
 en-savais	en-savais	V	_
 la	le	DET	_
-plûs	plûs	NC	_
+plûs	plus	NC	_
 ,	,	PONCT	_
 je	je	CLS	_
 ne	ne	ADV	_
@@ -43092,7 +43145,7 @@ aussi	aussi	ADV	_
 parlé	parler	VPP	_
 de	de	P	_
 *	*	PONCT	_
-Mme	Mme	NC	_
+Mme	madame	NC	_
 Parangon	Parangon	NP	_
 ,	,	PONCT	_
 avec	avec	P	_
@@ -43106,7 +43159,7 @@ dû	devoir	VPP	_
 et	et	CC	_
 de	de	P	_
 *	*	PONCT	_
-Mlle	Mlle	NC	_
+Mlle	mademoiselle	NC	_
 Fanchette	Fanchette	NP	_
 :	:	PONCT	_
 ce	ce	DET	_
@@ -43194,7 +43247,7 @@ mes	mon	DET	_
 respects	respect	NC	_
 à	à	P	_
 *	*	PONCT	_
-Mme	Mme	NC	_
+Mme	madame	NC	_
 Parangon	Parangon	NP	_
 ,	,	PONCT	_
 mes	mon	DET	_
@@ -43229,7 +43282,7 @@ vie	vie	NC	_
 .	.	PONCT	_
 Pour	pour	P	_
 *	*	PONCT	_
-Mme	Mme	NC	_
+Mme	madame	NC	_
 Parangon	Parangon	NP	_
 ,	,	PONCT	_
 elle	il	CLS	_
@@ -43298,14 +43351,15 @@ fais	faire	V	_
 guère	guère	ADV	_
 mes	mon	DET	_
 lettres	lettre	NC	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 en-cachette	en-cachette	ADJ	_
 ,	,	PONCT	_
 ma	mon	DET	_
 chère	cher	ADJ	_
 soeur	sœur	NC	_
 ,	,	PONCT	_
-afin_de	afin_de	P	_
+afin	afin	ADV	_
+de	de	P	_
 pouvoir	pouvoir	VINF	_
 parler	parler	VINF	_
 plus	plus	ADV	_
@@ -43316,7 +43370,7 @@ j'	je	CLS	_
 écris	écrire	V	_
 par	par	P	_
 petits	petit	ADJ	_
-intervales	intervales	NC	_
+intervales	intervalle	NC	_
 ,	,	PONCT	_
 et	et	CC	_
 il	il	CLS	_
@@ -43394,14 +43448,14 @@ sur	sur	P	_
 une	un	DET	_
 lettre	lettre	NC	_
 du	de_le	P+D	_
-chèr	chèr	NC	_
+chèr	cher	NC	_
 aîné	aîné	ADJ	_
 ,	,	PONCT	_
 qui	qui	PROREL	_
 me	je	CLO	_
 mande	mander	V	_
 l'	le	DET	_
-heureus	heureus	ADJ	_
+heureus	heureux	ADJ	_
 accouchement	accouchement	NC	_
 de	de	P	_
 son	son	DET	_
@@ -43459,7 +43513,7 @@ frère	frère	NC	_
 qui	qui	PROREL	_
 sentirait	sentir	V	_
 beaucoup	beaucoup	ADV	_
-plûs	plûs	VPP	_
+plûs	plus	VPP	_
 qu'	que	CS	_
 elle	il	CLS	_
 tout	tout	ADJ	_
@@ -43562,7 +43616,7 @@ déesse	déesse	NC	_
 et	et	CC	_
 de	de	P	_
 sa	son	DET	_
-charmante	charmant	ADJ	_
+charmante	charmer	ADJ	_
 soeur	sœur	NC	_
 .	.	PONCT	_
 La	le	DET	_
@@ -43586,14 +43640,15 @@ les	il	CLO	_
 éterniser	éterniser	VINF	_
 :	:	PONCT	_
 et	et	CC	_
-quant_à	quant_à	P	_
+quant	quant	ADV	_
+à	à	P	_
 la	le	DET	_
 seconde	seconde	NC	_
 ,	,	PONCT	_
 elle	il	CLS	_
 m'	je	CLO	_
 occupe	occuper	V	_
-déja	déja	ADJ	_
+déja	déjà	ADJ	_
 bien-plûs	bien-plûs	NC	_
 qu'	que	PROREL	_
 on	on	CLS	_
@@ -43605,11 +43660,11 @@ Fais	Fais	V	_
 ma	mon	DET	_
 cour	cour	NC	_
 à	à	P	_
-toutes	tous	PRO	_
+toutes	tout	PRO	_
 -	-	PONCT	_
 deux	deux	NC	_
 ,	,	PONCT	_
-sur-tout	sur-tout	ADV	_
+sur-tout	surtout	ADV	_
 à	à	P	_
 l'	le	DET	_
 aînée	aînée	NC	_
@@ -43632,7 +43687,7 @@ ai	avoir	V	_
 de	de	P	_
 plus	plus	ADV	_
 -	-	PONCT	_
-chèr	chèr	NC	_
+chèr	cher	NC	_
 ,	,	PONCT	_
 de	de	P	_
 ma	mon	DET	_
@@ -43656,7 +43711,7 @@ nous	nous	PRO	_
 auprès	auprès	ADV	_
 de	de	P	_
 nos	notre	DET	_
-chèrs	chèrs	NC	_
+chèrs	cher	NC	_
 parens	parent	ADJ	_
 ,	,	PONCT	_
 demain	demain	ADV	_
@@ -43700,7 +43755,7 @@ Il	il	CLS	_
 n'	ne	ADV	_
 y	y	CLO	_
 a	avoir	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 amitié	amitié	NC	_
 ,	,	PONCT	_
 tendresse	tendresse	NC	_
@@ -43775,7 +43830,7 @@ digne	digne	ADJ	_
 père	père	NC	_
 à	à	P	_
 *	*	PONCT	_
-Mme	Mme	NC	_
+Mme	madame	NC	_
 Parangon	Parangon	NP	_
 ,	,	PONCT	_
 au	à_le	P+D	_
@@ -43783,7 +43838,7 @@ au	à_le	P+D	_
 sujet	sujet	NC	_
 de	de	P	_
 *	*	PONCT	_
-Mlle	Mlle	NC	_
+Mlle	mademoiselle	NC	_
 Fanchette	Fanchette	NP	_
 :	:	PONCT	_
 je	je	CLS	_
@@ -43875,7 +43930,7 @@ de	de	P	_
 faire	faire	VINF	_
 représenter	représenter	VINF	_
 *	*	PONCT	_
-Mlle	Mlle	NC	_
+Mlle	mademoiselle	NC	_
 Fanchette	Fanchette	NP	_
 ,	,	PONCT	_
 vostre	vôtre	ADJ	_
@@ -43937,7 +43992,7 @@ de	de	P	_
 vostre	vôtre	ADJ	_
 consentement	consentement	NC	_
 à	à	P	_
-toutes	tous	PRO	_
+toutes	tout	PRO	_
 -	-	PONCT	_
 deux	deux	NC	_
 .	.	PONCT	_
@@ -44043,7 +44098,7 @@ serviteur	serviteur	NC	_
 E.	E.	NP	_
 R.	R.	NP	_
 *	*	X	_
-Mme	Mme	NC	_
+Mme	madame	NC	_
 Parangon	Parangon	NP	_
 ,	,	PONCT	_
 dès	dès	P	_
@@ -44089,7 +44144,7 @@ demandant	demander	VPR	_
 même	même	ADV	_
 s'	si	CS	_
 il	il	CLS	_
-falait	falait	V	_
+falait	falloir	V	_
 partir	partir	VINF	_
 :	:	PONCT	_
 sa	son	DET	_
@@ -44115,7 +44170,7 @@ et	et	CC	_
 elles	il	CLS	_
 se	se	CLO	_
 félicitèrent	féliciter	V	_
-toutes	tous	PRO	_
+toutes	tout	PRO	_
 -	-	PONCT	_
 deux	deux	NC	_
 de	de	P	_
@@ -44151,7 +44206,7 @@ Edmond	Edmond	NP	_
 françois	français	ADJ	_
 .	.	PONCT	_
 *	*	PONCT	_
-Mme	Mme	NC	_
+Mme	madame	NC	_
 Parangon	Parangon	NP	_
 mit	mettre	V	_
 aussitôt	aussitôt	ADV	_
@@ -44215,7 +44270,7 @@ brouillon	brouillon	NC	_
 réponse	réponse	NC	_
 de	de	P	_
 *	*	PONCT	_
-Mme	Mme	NC	_
+Mme	madame	NC	_
 Parangon	Parangon	NP	_
 ,	,	PONCT	_
 au	à_le	P+D	_
@@ -44245,7 +44300,7 @@ nous	nous	CLO	_
 avez	avoir	V	_
 fait	faire	VPP	_
 à	à	P	_
-toutes	tous	PRO	_
+toutes	tout	PRO	_
 -	-	PONCT	_
 deux	deux	NC	_
 ,	,	PONCT	_
@@ -44257,7 +44312,7 @@ auguste	auguste	ADJ	_
 que	que	CS	_
 celle	celui	PRO	_
 du	de_le	P+D	_
-batême	batême	NC	_
+batême	baptême	NC	_
 de	de	P	_
 l'	le	DET	_
 ainé	aîné	NC	_
@@ -44396,7 +44451,7 @@ autres	autre	NC	_
 Oui	oui	I	_
 ,	,	PONCT	_
 mon	mon	DET	_
-chèr	chèr	NC	_
+chèr	cher	NC	_
 *	*	PONCT	_
 Monsieur	monsieur	NC	_
 *	*	PONCT	_
@@ -44436,7 +44491,7 @@ celui	celui	PRO	_
 que	que	PROREL	_
 j'	je	CLS	_
 avais	avoir	V	_
-déja	déja	VPP	_
+déja	déjà	VPP	_
 exprimé	exprimer	VPP	_
 à	à	P	_
 Edmond	Edmond	NP	_
@@ -44591,7 +44646,7 @@ réels	réel	ADJ	_
 qu'	que	CS	_
 ils	il	CLS	_
 existaient	exister	V	_
-déja	déja	ADV	_
+déja	déjà	ADV	_
 ,	,	PONCT	_
 et	et	CC	_
 qu'	que	CS	_
@@ -44625,7 +44680,7 @@ soyez	être	V	_
 sur	sur	P	_
 ,	,	PONCT	_
 mon	mon	DET	_
-chèr	chèr	NC	_
+chèr	cher	NC	_
 monsieur	monsieur	NC	_
 .	.	PONCT	_
 Fanchette	Fanchette	NP	_
@@ -44682,7 +44737,7 @@ monsieur	monsieur	NC	_
 ,	,	PONCT	_
 votre	votre	DET	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 Voila	Voila	V	_
 tout	tout	ADJ	_
 ce	ce	PRO	_
@@ -44702,7 +44757,7 @@ mais	mais	CC	_
 ensuite	ensuite	ADV	_
 ,	,	PONCT	_
 *	*	PONCT	_
-Mme	Mme	NC	_
+Mme	madame	NC	_
 Parangon	Parangon	NP	_
 ,	,	PONCT	_
 sans	sans	P	_
@@ -44749,7 +44804,7 @@ chimères	chimère	NC	_
 :	:	PONCT	_
 car	car	CC	_
 *	*	X	_
-Mlle	Mlle	NC	_
+Mlle	mademoiselle	NC	_
 Fanchette	Fanchette	NP	_
 est	être	V	_
 un	un	DET	_
@@ -44757,7 +44812,7 @@ excellent	excellent	ADJ	_
 parti	parti	NC	_
 ,	,	PONCT	_
 *	*	X	_
-Mme	Mme	NC	_
+Mme	madame	NC	_
 Parangon	Parangon	NP	_
 n'	ne	ADV	_
 ayant	avoir	VPR	_
@@ -44802,7 +44857,7 @@ je	je	CLS	_
 t'	tu	CLO	_
 ai	avoir	V	_
 écrit	écrire	VPP	_
-avanhièr	avanhièr	ADV	_
+avanhièr	avant_hier	NC	_
 ,	,	PONCT	_
 parlant	parler	VPR	_
 d'	de	P	_
@@ -44812,7 +44867,7 @@ choses	chose	NC	_
 que	que	PROREL	_
 tu	tu	CLS	_
 as	avoir	V	_
-plûs	plûs	VPP	_
+plûs	plus	VPP	_
 envie	envie	NC	_
 de	de	P	_
 savoir	savoir	VINF	_
@@ -44901,7 +44956,7 @@ plus	plus	ADV	_
 resignée	résigner	VPP	_
 avec	avec	P	_
 *	*	X	_
-Mme	Mme	NC	_
+Mme	madame	NC	_
 Canon	Canon	NP	_
 ,	,	PONCT	_
 plus	plus	ADV	_
@@ -44921,7 +44976,7 @@ folle	fou	ADJ	_
 ,	,	PONCT	_
 avec	avec	P	_
 *	*	X	_
-Mlle	Mlle	NC	_
+Mlle	mademoiselle	NC	_
 Fanchette	Fanchette	NP	_
 ,	,	PONCT	_
 et	et	CC	_
@@ -44941,7 +44996,7 @@ et	et	CC	_
 ils	il	CLS	_
 ne	ne	ADV	_
 font	faire	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 accroître	accroître	VINF	_
 :	:	PONCT	_
 mais	mais	CC	_
@@ -45024,7 +45079,7 @@ Mes	mon	DET	_
 trois	trois	NC	_
 ou	ou	CC	_
 quatre	quatre	DET	_
-amoureus	amoureus	NC	_
+amoureus	amoureux	NC	_
 me	je	CLO	_
 donnent	donner	V	_
 toujours	toujours	ADV	_
@@ -45079,7 +45134,7 @@ il	il	CLS	_
 a	avoir	V	_
 un	un	DET	_
 teint	teint	NC	_
-charmant	charmant	ADJ	_
+charmant	charmer	ADJ	_
 .	.	PONCT	_
 Je	je	CLS	_
 t'	tu	CLO	_
@@ -45130,7 +45185,7 @@ est	être	V	_
 qu'	que	CS	_
 avec	avec	P	_
 *	*	PONCT	_
-Mme	Mme	NC	_
+Mme	madame	NC	_
 *	*	X	_
 Parangon	Parangon	NP	_
 ,	,	PONCT	_
@@ -45322,11 +45377,11 @@ pas	pas	ADV	_
 il	il	CLS	_
 est	être	V	_
 parvenu	parvenir	VPP	_
-hièr	hièr	ADV	_
+hièr	hier	ADV	_
 jusqu'	jusque	P	_
 à	à	P	_
 *	*	PONCT	_
-Mme	Mme	NC	_
+Mme	madame	NC	_
 Canon	Canon	NP	_
 ,	,	PONCT	_
 et	et	CC	_
@@ -45349,7 +45404,7 @@ a	avoir	V	_
 dit	dire	VPP	_
 à	à	P	_
 *	*	PONCT	_
-Mme	Mme	NC	_
+Mme	madame	NC	_
 Parangon	Parangon	NP	_
 )	)	PONCT	_
 ,	,	PONCT	_
@@ -45397,7 +45452,8 @@ que	que	PROREL	_
 tu	tu	CLS	_
 sais	savoir	V	_
 .	.	PONCT	_
-Quant_à	quant_à	P	_
+Quant	quant	ADV	_
+à	à	P	_
 mon	mon	DET	_
 premier	premier	ADJ	_
 adorateur	adorateur	NC	_
@@ -45520,7 +45576,8 @@ tout	tout	PRO	_
 -	-	PONCT	_
 cela	cela	PRO	_
 :	:	PONCT	_
-quant_à	quant_à	P	_
+quant	quant	ADV	_
+à	à	P	_
 moi	je	PRO	_
 ,	,	PONCT	_
 je	je	CLS	_
@@ -45603,7 +45660,7 @@ heure	heure	NC	_
 ,	,	PONCT	_
 que	que	CS	_
 *	*	PONCT	_
-Mme	Mme	NC	_
+Mme	madame	NC	_
 Parangon	Parangon	NP	_
 ait	avoir	V	_
 sa	son	DET	_
@@ -45645,7 +45702,7 @@ l'	le	DET	_
 air	air	NC	_
 de	de	P	_
 *	*	PONCT	_
-Mme	Mme	NC	_
+Mme	madame	NC	_
 Canon	Canon	NP	_
 ,	,	PONCT	_
 qui	qui	PROREL	_
@@ -45776,7 +45833,7 @@ qu'	que	PROREL	_
 a	avoir	V	_
 reçues	recevoir	VPP	_
 *	*	PONCT	_
-Mme	Mme	NC	_
+Mme	madame	NC	_
 Parangon	Parangon	NP	_
 ,	,	PONCT	_
 et	et	CC	_
@@ -45858,17 +45915,17 @@ rentrames	rentrames	V	_
 seules	seul	ADJ	_
 ,	,	PONCT	_
 *	*	X	_
-Mlle	Mlle	NC	_
+Mlle	mademoiselle	NC	_
 Fanchette	Fanchette	NP	_
 et	et	CC	_
 moi	je	PRO	_
 ;	;	PONCT	_
 *	*	PONCT	_
-Mme	Mme	NC	_
+Mme	madame	NC	_
 Parangon	Parangon	NP	_
 et	et	CC	_
 *	*	PONCT	_
-Mme	Mme	NC	_
+Mme	madame	NC	_
 Canon	Canon	NP	_
 ,	,	PONCT	_
 après	après	P	_
@@ -45932,7 +45989,7 @@ ma	mon	DET	_
 belle	beau	ADJ	_
 ,	,	PONCT	_
 ni	ni	CC	_
-quî	quî	V	_
+quî	qui	V	_
 vous	vous	CLS	_
 êtes	être	V	_
 ,	,	PONCT	_
@@ -45947,10 +46004,10 @@ mais	mais	CC	_
 je	je	CLS	_
 pense	penser	V	_
 que	que	CS	_
-quî	quî	NC	_
+quî	qui	NC	_
 que	que	PROREL	_
 vous	vous	PRO	_
-soyiez	soyiez	V	_
+soyiez	être	V	_
 ,	,	PONCT	_
 et	et	CC	_
 quel	quel	PROWH	_
@@ -46198,7 +46255,7 @@ quelque	quelque	DET	_
 passe	passe	NC	_
 que	que	PROREL	_
 vous	vous	PRO	_
-soyiez	soyiez	V	_
+soyiez	être	V	_
 :	:	PONCT	_
 et	et	CC	_
 à	à	P	_
@@ -46261,15 +46318,15 @@ vous	vous	PRO	_
 ,	,	PONCT	_
 ou	ou	CC	_
 passionnément	passionnément	ADV	_
-respectueus	respectueus	ADJ	_
+respectueus	respectueux	ADJ	_
 ,	,	PONCT	_
 ou	ou	CC	_
 passionnément	passionnément	ADV	_
-amoureus	amoureus	ADJ	_
+amoureus	amoureux	ADJ	_
 ,	,	PONCT	_
 ou	ou	CC	_
 passionnément	passionnément	ADV	_
-généreus	généreus	ADJ	_
+généreus	généreux	ADJ	_
 ,	,	PONCT	_
 votre	votre	DET	_
 très	très	ADV	_
@@ -46300,7 +46357,7 @@ le	le	DET	_
 retour	retour	NC	_
 de	de	P	_
 *	*	PONCT	_
-Mme	Mme	NC	_
+Mme	madame	NC	_
 *	*	X	_
 Parangon	Parangon	NP	_
 ,	,	PONCT	_
@@ -46452,7 +46509,7 @@ nous	nous	PRO	_
 Enfin	enfin	ADV	_
 ,	,	PONCT	_
 *	*	PONCT	_
-Mlle	Mlle	NC	_
+Mlle	mademoiselle	NC	_
 Fanchette	Fanchette	NP	_
 a	avoir	V	_
 aussi	aussi	ADV	_
@@ -46474,7 +46531,7 @@ pas	pas	ADV	_
 écrit	écrire	VPP	_
 ,	,	PONCT	_
 mais	mais	CC	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 -	-	PONCT	_
 deux	deux	NC	_
 ont	avoir	V	_
@@ -46485,7 +46542,7 @@ crois	croire	V	_
 ,	,	PONCT	_
 à	à	P	_
 *	*	PONCT	_
-Mme	Mme	NC	_
+Mme	madame	NC	_
 Canon	Canon	NP	_
 ,	,	PONCT	_
 à	à	P	_
@@ -46566,7 +46623,7 @@ de	de	P	_
 parler	parler	VINF	_
 à	à	P	_
 *	*	PONCT	_
-Mme	Mme	NC	_
+Mme	madame	NC	_
 Canon	Canon	NP	_
 ?	?	PONCT	_
 Oui	oui	I	_
@@ -46612,7 +46669,7 @@ mentons	menton	NC	_
 avancés	avancer	VPP	_
 de	de	P	_
 *	*	PONCT	_
-Mme	Mme	NC	_
+Mme	madame	NC	_
 Canon	Canon	NP	_
 ,	,	PONCT	_
 et	et	CC	_
@@ -46754,7 +46811,7 @@ Mlles	monsieur	NC	_
 vos	votre	DET	_
 filles	fille	NC	_
 sont	être	V	_
-charmantes	charmant	ADJ	_
+charmantes	charmer	ADJ	_
 :	:	PONCT	_
 ne	ne	ADV	_
 songez	songer	V	_
@@ -46826,7 +46883,7 @@ je	je	CLS	_
 vous	vous	CLO	_
 l'	il	CLO	_
 ai	avoir	V	_
-déja	déja	VPP	_
+déja	déjà	VPP	_
 dit	dire	VPP	_
 .	.	PONCT	_
 Est	être	V	_
@@ -46945,7 +47002,7 @@ pour	pour	P	_
 trouver	trouver	VINF	_
 un	un	DET	_
 sort	sort	NC	_
-brillant	brillant	ADJ	_
+brillant	briller	ADJ	_
 ,	,	PONCT	_
 et	et	CC	_
 je	je	CLS	_
@@ -47074,7 +47131,7 @@ propose	proposer	V	_
 ,	,	PONCT	_
 pour	pour	P	_
 votre	votre	DET	_
-charmante	charmant	ADJ	_
+charmante	charmer	ADJ	_
 fille	fille	NC	_
 ,	,	PONCT	_
 un	un	DET	_
@@ -47355,14 +47412,14 @@ la	le	DET	_
 direction	direction	NC	_
 de	de	P	_
 *	*	PONCT	_
-Mme	Mme	NC	_
+Mme	madame	NC	_
 Canon	Canon	NP	_
 ;	;	PONCT	_
 et	et	CC	_
 depuis	depuis	P	_
 que	que	CS	_
 *	*	PONCT	_
-Mme	Mme	NC	_
+Mme	madame	NC	_
 Parangon	Parangon	NP	_
 est	être	V	_
 avec	avec	P	_
@@ -47426,7 +47483,7 @@ frère	frère	NC	_
 ou	ou	CC	_
 par	par	P	_
 *	*	PONCT	_
-Mme	Mme	NC	_
+Mme	madame	NC	_
 *	*	X	_
 Parangon	Parangon	NP	_
 .	.	PONCT	_
@@ -47482,7 +47539,7 @@ aimable	aimable	ADJ	_
 ;	;	PONCT	_
 mais	mais	CC	_
 *	*	PONCT	_
-Mme	Mme	NC	_
+Mme	madame	NC	_
 Parangon	Parangon	NP	_
 la	il	CLO	_
 remplace	remplacer	V	_
@@ -47513,7 +47570,7 @@ On	on	CLS	_
 travaille	travailler	V	_
 à	à	P	_
 l'	le	DET	_
-aigüille	aigüille	NC	_
+aigüille	aiguille	NC	_
 ,	,	PONCT	_
 en-modes	en-modes	NC	_
 ,	,	PONCT	_
@@ -47577,7 +47634,8 @@ lendemain	lendemain	NC	_
 en-ce	en-ce	ADJ	_
 genre	genre	NC	_
 ;	;	PONCT	_
-afin_de	afin_de	P	_
+afin	afin	ADV	_
+de	de	P	_
 préparer	préparer	VINF	_
 la	le	DET	_
 tête	tête	NC	_
@@ -47602,7 +47660,7 @@ gravent	graver	V	_
 mieux	mieux	ADV	_
 durant	durant	P	_
 les	le	DET	_
-intervales	intervales	NC	_
+intervales	intervalle	NC	_
 du	de_le	P+D	_
 sommeil	sommeil	NC	_
 .	.	PONCT	_
@@ -47647,7 +47705,7 @@ très	très	ADV	_
 heureuses	heureux	ADJ	_
 .	.	PONCT	_
 *	*	X	_
-Mme	Mme	NC	_
+Mme	madame	NC	_
 Parangon	Parangon	NP	_
 aurait	avoir	V	_
 peut-être	peut-être	ADV	_
@@ -47699,7 +47757,7 @@ ne	ne	ADV	_
 tenais	tenir	V	_
 jamais	jamais	ADV	_
 l'	le	DET	_
-aigüille	aigüille	NC	_
+aigüille	aiguille	NC	_
 ,	,	PONCT	_
 je	je	CLS	_
 me	je	CLO	_
@@ -47741,7 +47799,7 @@ toute	tout	DET	_
 pudeur	pudeur	NC	_
 .	.	PONCT	_
 *	*	PONCT	_
-Mme	Mme	NC	_
+Mme	madame	NC	_
 *	*	X	_
 Parangon	Parangon	NP	_
 fut	être	V	_
@@ -47754,7 +47812,7 @@ l'	le	DET	_
 oeil	œil	NC	_
 ,	,	PONCT	_
 en-lui	en-lui	NC	_
-disant	disant	ADJ	_
+disant	dire	VPR	_
 :	:	PONCT	_
 ah	ah	I	_
 !	!	PONCT	_
@@ -47926,7 +47984,7 @@ attendris	attendrir	V	_
 ,	,	PONCT	_
 et	et	CC	_
 *	*	PONCT	_
-Mme	Mme	NC	_
+Mme	madame	NC	_
 *	*	X	_
 Parangon	Parangon	NP	_
 en-particulier	en-particulier	NP	_
@@ -47968,7 +48026,7 @@ des	un	DET	_
 petits	petit	ADJ	_
 inconvéniens	inconvénient	NC	_
 ,	,	PONCT	_
-ausquels	auquel	PROREL	_
+ausquels	à_lequel	PROREL	_
 j'	je	CLS	_
 entens	entendre	V	_
 dire	dire	VINF	_
@@ -48199,7 +48257,7 @@ la	le	DET	_
 santé	santé	NC	_
 de	de	P	_
 nos	notre	DET	_
-chèrs	chèrs	ADJ	_
+chèrs	cher	ADJ	_
 père	père	NC	_
 et	et	CC	_
 mère	mère	NC	_
@@ -48272,7 +48330,7 @@ pouvoir	pouvoir	NC	_
 et	et	CC	_
 nous	nous	CLS	_
 travaillons	travailler	V	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 -	-	PONCT	_
 deux	deux	NC	_
 ,	,	PONCT	_
@@ -48323,7 +48381,7 @@ ou	ou	CC	_
 celle	celui	PRO	_
 de	de	P	_
 *	*	PONCT	_
-Mlle	Mlle	NC	_
+Mlle	mademoiselle	NC	_
 Fanchette	Fanchette	NP	_
 ,	,	PONCT	_
 ou	ou	CC	_
@@ -48432,9 +48490,10 @@ des	de_le	P+D	_
 plus	plus	ADV	_
 coquets	coquet	ADJ	_
 ;	;	PONCT	_
-quant_à	quant_à	P	_
+quant	quant	ADV	_
+à	à	P	_
 *	*	PONCT	_
-Mlle	Mlle	NC	_
+Mlle	mademoiselle	NC	_
 Fanchette	Fanchette	NP	_
 ,	,	PONCT	_
 elle	il	CLS	_
@@ -48446,7 +48505,7 @@ jeune	jeune	ADJ	_
 et	et	CC	_
 elle	il	CLS	_
 a	avoir	V	_
-déja	déja	VPP	_
+déja	déjà	VPP	_
 trop	trop	ADV	_
 de	de	P	_
 cette	ce	DET	_
@@ -48485,7 +48544,7 @@ foi	foi	NC	_
 ,	,	PONCT	_
 il	il	CLS	_
 me	je	CLO	_
-falait	falait	V	_
+falait	falloir	V	_
 *	*	X	_
 Edmée	Edmée	NP	_
 ,	,	PONCT	_
@@ -48614,7 +48673,7 @@ les	le	DET	_
 traits	trait	NC	_
 de	de	P	_
 *	*	PONCT	_
-Mme	Mme	NC	_
+Mme	madame	NC	_
 Canon	Canon	NP	_
 ,	,	PONCT	_
 au	à_le	P+D	_
@@ -48717,7 +48776,7 @@ est	être	V	_
 le	le	DET	_
 coeur	cœur	NC	_
 ,	,	PONCT	_
-plûs	plûs	NC	_
+plûs	plus	NC	_
 que	que	PROREL	_
 l'	le	DET	_
 oeil	œil	NC	_
@@ -48747,12 +48806,12 @@ mon	mon	DET	_
 hommage	hommage	NC	_
 à	à	P	_
 *	*	PONCT	_
-Mme	Mme	NC	_
+Mme	madame	NC	_
 Parangon	Parangon	NP	_
 et	et	CC	_
 à	à	P	_
 *	*	PONCT	_
-Mlle	Mlle	NC	_
+Mlle	mademoiselle	NC	_
 Fanchette	Fanchette	NP	_
 .	.	PONCT	_
 p.	p.	X	_
@@ -48801,7 +48860,8 @@ et	et	CC	_
 n'	ne	ADV	_
 en-rien-dire	en-rien-dire	ADJ	_
 .	.	PONCT	_
-Quant_à	quant_à	P	_
+Quant	quant	ADV	_
+à	à	P	_
 Laure	Laure	NP	_
 ,	,	PONCT	_
 je	je	CLS	_
@@ -48849,7 +48909,7 @@ lettre	lettre	NC	_
 .	.	PONCT	_
 Il	il	CLS	_
 serait	être	V	_
-heureus	heureus	VPP	_
+heureus	heureux	VPP	_
 qu'	que	CS	_
 elle	il	CLS	_
 fût	être	V	_
@@ -48921,7 +48981,7 @@ que	que	CS	_
 je	je	CLS	_
 me	je	CLO	_
 sois	être	V	_
-mal-portée	mal-portée	VPP	_
+mal-portée	mal-porté	VPP	_
 :	:	PONCT	_
 aucontraire	aucontraire	NC	_
 ,	,	PONCT	_
@@ -48973,7 +49033,7 @@ soeur	sœur	NC	_
 :	:	PONCT	_
 car	car	CC	_
 le	le	DET	_
-chèr	chèr	NC	_
+chèr	cher	NC	_
 frère	frère	ADJ	_
 Edmond	Edmond	NP	_
 nous	nous	CLO	_
@@ -49021,7 +49081,9 @@ Ursule	Ursule	NP	_
 ,	,	PONCT	_
 j'	je	CLS	_
 attendrai	attendre	V	_
-là-dessus	là-dessus	ADV	_
+là	là	ADV	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 ce	ce	PRO	_
 qu'	que	PROREL	_
 il	il	CLS	_
@@ -49053,7 +49115,7 @@ ne	ne	ADV	_
 soient	être	V	_
 pas	pas	ADV	_
 aussi	aussi	ADV	_
-brillantes	brillant	ADJ	_
+brillantes	briller	ADJ	_
 ,	,	PONCT	_
 que	que	CS	_
 celles	celui	PRO	_
@@ -49197,7 +49259,7 @@ ils	il	CLS	_
 ne	ne	ADV	_
 sont	être	V	_
 pas	pas	ADV	_
-plûs	plûs	ADJ	_
+plûs	plus	ADJ	_
 feseurs	feseurs	NC	_
 de	de	P	_
 complimens	compliment	NC	_
@@ -49388,7 +49450,7 @@ la	le	DET	_
 vue	vue	NC	_
 de	de	P	_
 son	son	DET	_
-amoureus	amoureus	NC	_
+amoureus	amoureux	NC	_
 ,	,	PONCT	_
 elle	il	CLS	_
 ne	ne	ADV	_
@@ -49416,7 +49478,7 @@ journée	journée	NC	_
 et	et	CC	_
 quand	quand	CS	_
 l'	le	DET	_
-amoureus	amoureus	NC	_
+amoureus	amoureux	NC	_
 et	et	CC	_
 la	le	DET	_
 maitresse	maîtresse	NC	_
@@ -49525,7 +49587,7 @@ d'	de	P	_
 en-tomber	en-tomber	NP	_
 ,	,	PONCT	_
 en-nous	en-nous	NC	_
-disant	disant	ADJ	_
+disant	dire	VPR	_
 ,	,	PONCT	_
 ôtez	ôter	V	_
 -vous	vous	CLS	_
@@ -49548,7 +49610,8 @@ voyez	voir	V	_
 ,	,	PONCT	_
 moi	je	PRO	_
 !	!	PONCT	_
-Quant_à	quant_à	P	_
+Quant	quant	ADV	_
+à	à	P	_
 sa	son	DET	_
 maitresse	maîtresse	NC	_
 ,	,	PONCT	_
@@ -49605,7 +49668,7 @@ des	un	DET	_
 mauviettes	mauviette	NC	_
 !	!	PONCT	_
 Notre	notre	DET	_
-chèr	chèr	NC	_
+chèr	cher	NC	_
 père	père	ADJ	_
 rit	rire	V	_
 de	de	P	_
@@ -49675,12 +49738,13 @@ ici	ici	ADV	_
 chère	cher	ADJ	_
 soeur	sœur	NC	_
 .	.	PONCT	_
-Quant_à	quant_à	P	_
+Quant	quant	ADV	_
+à	à	P	_
 ce	ce	PRO	_
 qui	qui	PROREL	_
 est	être	V	_
 du	de_le	P+D	_
-chèr	chèr	NC	_
+chèr	cher	NC	_
 frère	frère	ADJ	_
 *	*	X	_
 Edmond	Edmond	NP	_
@@ -49704,7 +49768,7 @@ il	il	CLS	_
 parle	parler	V	_
 de	de	P	_
 *	*	PONCT	_
-Mlle	Mlle	NC	_
+Mlle	mademoiselle	NC	_
 *	*	X	_
 Edmée	Edmée	NP	_
 à	à	P	_
@@ -49777,7 +49841,7 @@ il	il	CLS	_
 a	avoir	V	_
 pour	pour	P	_
 *	*	PONCT	_
-Mme	Mme	NC	_
+Mme	madame	NC	_
 *	*	X	_
 Parangon	Parangon	NP	_
 ,	,	PONCT	_
@@ -49804,7 +49868,7 @@ ne	ne	ADV	_
 sais	savoir	V	_
 pourtant	pourtant	ADV	_
 ce	ce	PRO	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 a	avoir	V	_
 chanté	chanter	VPP	_
 un	un	DET	_
@@ -49953,7 +50017,8 @@ soeur	sœur	NC	_
 :	:	PONCT	_
 car	car	CC	_
 pour	pour	P	_
-quant_à	quant_à	P	_
+quant	quant	ADV	_
+à	à	P	_
 ce	ce	PRO	_
 qui	qui	PROREL	_
 est	être	V	_
@@ -50122,7 +50187,8 @@ frère	frère	NC	_
 lui	il	PRO	_
 -même	même	ADJ	_
 .	.	PONCT	_
-Quant_à	quant_à	P	_
+Quant	quant	ADV	_
+à	à	P	_
 ce	ce	PRO	_
 que	que	PROREL	_
 vous	vous	CLS	_
@@ -50188,7 +50254,7 @@ ne	ne	ADV	_
 fermerai	fermer	V	_
 ma	mon	DET	_
 lettre	lettre	NC	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 après	après	P	_
 lui	il	CLO	_
 avoir	avoir	VINF	_
@@ -50344,7 +50410,7 @@ des	un	DET	_
 lettres	lettre	NC	_
 de	de	P	_
 ses	son	DET	_
-amoureus	amoureus	NC	_
+amoureus	amoureux	NC	_
 ,	,	PONCT	_
 et	et	CC	_
 à	à	P	_
@@ -50369,7 +50435,7 @@ chère	cher	ADJ	_
 soeur	sœur	NC	_
 !	!	PONCT	_
 *	*	PONCT	_
-Mme	Mme	NC	_
+Mme	madame	NC	_
 *	*	X	_
 Parangon	Parangon	NP	_
 s'	se	CLO	_
@@ -50390,14 +50456,14 @@ de	de	P	_
 larmes	larme	NC	_
 :	:	PONCT	_
 *	*	PONCT	_
-Mlle	Mlle	NC	_
+Mlle	mademoiselle	NC	_
 Fanchette	Fanchette	NP	_
 et	et	CC	_
 moi	je	PRO	_
 nous	nous	CLS	_
 ne	ne	ADV	_
 savions	savoir	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 en-penser	en-penser	ADJ	_
 :	:	PONCT	_
 mais	mais	CC	_
@@ -50437,7 +50503,9 @@ te	tu	CLO	_
 donner	donner	VINF	_
 des	un	DET	_
 lumières	lumière	NC	_
-là-dessus	là-dessus	ADV	_
+là	là	ADV	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 pour	pour	P	_
 ne	ne	ADV	_
 te	tu	CLO	_
@@ -50489,13 +50557,13 @@ je	je	CLS	_
 te	tu	CLO	_
 l'	il	CLO	_
 ai	avoir	V	_
-déja	déja	VPP	_
+déja	déjà	VPP	_
 marqué	marquer	VPP	_
 ;	;	PONCT	_
 je	je	CLS	_
 ne	ne	ADV	_
 parle	parler	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 en-général	en-général	ADV	_
 ,	,	PONCT	_
 et	et	CC	_
@@ -50512,7 +50580,7 @@ dont	dont	PROREL	_
 je	je	CLS	_
 t'	tu	CLO	_
 ai	avoir	V	_
-déja	déja	VPP	_
+déja	déjà	VPP	_
 parlé	parler	VPP	_
 ,	,	PONCT	_
 m'	je	CLO	_
@@ -50567,7 +50635,7 @@ nous	nous	PRO	_
 ,	,	PONCT	_
 si	si	CS	_
 j'	je	CLS	_
-alais	alais	V	_
+alais	aller	V	_
 devenir	devenir	VINF	_
 marquise	marquise	NC	_
 ,	,	PONCT	_
@@ -50662,7 +50730,7 @@ De	de	P	_
 .	.	PONCT	_
 Vous	vous	CLS	_
 êtes	être	V	_
-charmante	charmant	ADJ	_
+charmante	charmer	ADJ	_
 ,	,	PONCT	_
 mademoiselle	mademoiselle	NC	_
 :	:	PONCT	_
@@ -50670,7 +50738,7 @@ je	je	CLS	_
 vous	vous	CLO	_
 l'	il	CLO	_
 ai	avoir	V	_
-déja	déja	VPP	_
+déja	déjà	VPP	_
 écrit	écrire	VPP	_
 plus	plus	ADV	_
 d'	de	P	_
@@ -50917,7 +50985,7 @@ mademoiselle	mademoiselle	NC	_
 de	de	P	_
 tendre	tendre	VINF	_
 des	un	DET	_
-piéges	piéges	NC	_
+piéges	piège	NC	_
 à	à	P	_
 la	le	DET	_
 vertu	vertu	NC	_
@@ -50998,7 +51066,7 @@ des	un	DET	_
 persones	personne	NC	_
 prudentes	prudent	ADJ	_
 et	et	CC	_
-desintéressées	desintéressées	ADJ	_
+desintéressées	desintéressé	ADJ	_
 .	.	PONCT	_
 Je	je	CLS	_
 n'	ne	ADV	_
@@ -51006,7 +51074,7 @@ aspire	aspirer	V	_
 ,	,	PONCT	_
 mademoiselle	mademoiselle	NC	_
 ,	,	PONCT	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 a	avoir	V	_
 vous	vous	CLO	_
 donner	donner	VINF	_
@@ -51033,9 +51101,9 @@ ou	ou	CC	_
 avec	avec	P	_
 quelqu'un	quelqu'un	PRO	_
 dans	dans	P	_
-quî	quî	NC	_
+quî	qui	NC	_
 vous	vous	PRO	_
-ayiez	ayiez	ADJ	_
+ayiez	avoir	ADJ	_
 confiance	confiance	NC	_
 ,	,	PONCT	_
 je	je	CLS	_
@@ -51045,7 +51113,7 @@ reste	reste	NC	_
 des	de_le	P+D	_
 arrangemens	arrangement	NC	_
 ;	;	PONCT	_
-sur-tout	sur-tout	ADV	_
+sur-tout	surtout	ADV	_
 la	le	DET	_
 manière	manière	NC	_
 dont	dont	PROREL	_
@@ -51088,7 +51156,7 @@ très	très	ADV	_
 -	-	PONCT	_
 humble	humble	ADJ	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 Voici	Voici	V	_
 ma	mon	DET	_
 réponse	réponse	NC	_
@@ -51364,7 +51432,7 @@ un	un	DET	_
 regard	regard	NC	_
 suppliant	suppliant	ADJ	_
 ,	,	PONCT	_
-auquel	auquel	PROREL	_
+auquel	à_lequel	PROREL	_
 j'	je	CLS	_
 ai	avoir	V	_
 répondu	répondre	VPP	_
@@ -51393,7 +51461,7 @@ l'	le	DET	_
 amant	amant	NC	_
 de	de	P	_
 *	*	PONCT	_
-Mme	Mme	NC	_
+Mme	madame	NC	_
 Parangon	Parangon	NP	_
 ,	,	PONCT	_
 celui	celui	PRO	_
@@ -51445,7 +51513,7 @@ jour	jour	NC	_
 -	-	PONCT	_
 jour	jour	NC	_
 plus	plus	ADV	_
-charmante	charmant	ADJ	_
+charmante	charmer	ADJ	_
 ,	,	PONCT	_
 et	et	CC	_
 je	je	CLS	_
@@ -51647,7 +51715,7 @@ lisons	lire	V	_
 lettre	lettre	NC	_
 à	à	P	_
 *	*	PONCT	_
-Mlle	Mlle	NC	_
+Mlle	mademoiselle	NC	_
 Fanchette	Fanchette	NP	_
 .	.	PONCT	_
 J'	je	CLS	_
@@ -51657,7 +51725,7 @@ ce	ce	DET	_
 matin	matin	NC	_
 que	que	CS	_
 votre	votre	DET	_
-charmante	charmant	ADJ	_
+charmante	charmer	ADJ	_
 soeur	sœur	NC	_
 était	être	V	_
 mariée	marier	VPP	_
@@ -51692,14 +51760,14 @@ vous	vous	PRO	_
 ,	,	PONCT	_
 jeune	jeune	ADJ	_
 et	et	CC	_
-charmante	charmant	ADJ	_
+charmante	charmer	ADJ	_
 persone	personne	PRO	_
 :	:	PONCT	_
 je	je	CLS	_
 l'	il	CLO	_
 écris	écrire	V	_
 à	à	P	_
-Mme	Mme	NC	_
+Mme	madame	NC	_
 votre	votre	DET	_
 soeur	sœur	NC	_
 ,	,	PONCT	_
@@ -51830,7 +51898,7 @@ a	avoir	V	_
 une	un	DET	_
 jeune	jeune	ADJ	_
 et	et	CC	_
-charmante	charmant	ADJ	_
+charmante	charmer	ADJ	_
 épouse	épouse	NC	_
 ,	,	PONCT	_
 dont	dont	PROREL	_
@@ -51890,7 +51958,7 @@ saurais	savoir	V	_
 mieux	mieux	ADV	_
 m'	je	CLO	_
 adresser	adresser	VINF	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 à	à	P	_
 vous	vous	PRO	_
 ,	,	PONCT	_
@@ -51945,8 +52013,8 @@ mademoiselle	mademoiselle	NC	_
 ,	,	PONCT	_
 votre	votre	DET	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
-Nous	Nous	NP	_
+etc.	etc	ADV	_
+Nous	nous	NP	_
 n'	ne	ADV	_
 avons	avoir	V	_
 pas	pas	ADV	_
@@ -51961,7 +52029,7 @@ fin	fin	NC	_
 ;	;	PONCT	_
 car	car	CC	_
 *	*	PONCT	_
-Mlle	Mlle	NC	_
+Mlle	mademoiselle	NC	_
 Fanchette	Fanchette	NP	_
 n'	ne	ADV	_
 a	avoir	V	_
@@ -52057,7 +52125,7 @@ et	et	CC	_
 non	non	ADV	_
 à	à	P	_
 *	*	PONCT	_
-Mlle	Mlle	NC	_
+Mlle	mademoiselle	NC	_
 Fanchette	Fanchette	NP	_
 qu'	que	PROREL	_
 on	on	CLS	_
@@ -52090,7 +52158,8 @@ moi	je	PRO	_
 cette	ce	DET	_
 découverte	découverte	NC	_
 ,	,	PONCT	_
-afin_que	afin_que	CS	_
+afin	afin	ADV	_
+que	que	CS	_
 ma	mon	DET	_
 jeune	jeune	ADJ	_
 compagne	compagne	NC	_
@@ -52133,7 +52202,7 @@ conquêtes	conquête	NC	_
 nous	nous	CLS	_
 sommes	être	V	_
 toujours	toujours	ADV	_
-flatées	flatées	ADJ	_
+flatées	flatté	ADJ	_
 d'	de	P	_
 en-faire	en-faire	NC	_
 ,	,	PONCT	_
@@ -52145,7 +52214,8 @@ très	très	ADV	_
 -	-	PONCT	_
 agréablement	agréablement	ADV	_
 .	.	PONCT	_
-Quant_au	quant_à_le	P+D	_
+Quant	quant	ADV	_
+au	à_le	P+D	_
 marquis	marquis	NC	_
 ,	,	PONCT	_
 il	il	CLS	_
@@ -52254,7 +52324,7 @@ ce	ce	PRO	_
 qui	qui	PROREL	_
 pourait	pourait	V	_
 donner	donner	VINF	_
-plûs	plûs	NC	_
+plûs	plus	NC	_
 d'	de	P	_
 éclat	éclat	NC	_
 à	à	P	_
@@ -52324,8 +52394,8 @@ faible	faible	ADJ	_
 marque	marque	NC	_
 de	de	P	_
 mon	mon	DET	_
-dévoûment	dévoûment	NC	_
-respectueus	respectueus	ADJ	_
+dévoûment	dévouement	NC	_
+respectueus	respectueux	ADJ	_
 :	:	PONCT	_
 elle	il	CLS	_
 serait	être	V	_
@@ -52379,7 +52449,7 @@ mademoiselle	mademoiselle	NC	_
 ,	,	PONCT	_
 votre	votre	DET	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 J'	J'	NP	_
 ai	avoir	V	_
 renvoyé	renvoyer	VPP	_
@@ -52463,7 +52533,7 @@ m'	je	CLO	_
 a	avoir	V	_
 -t-il	il	CLS	_
 paru	paraître	VPP	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 affligé	affliger	VPP	_
 ,	,	PONCT	_
 mais	mais	CC	_
@@ -52503,7 +52573,7 @@ je	je	CLS	_
 suis	être	V	_
 lieutenant	lieutenant	NC	_
 d'	de	P	_
-hièr	hièr	NC	_
+hièr	hier	NC	_
 ;	;	PONCT	_
 je	je	CLS	_
 ferai	faire	V	_
@@ -52706,7 +52776,7 @@ l'	le	DET	_
 exception	exception	NC	_
 de	de	P	_
 *	*	PONCT	_
-Mme	Mme	NC	_
+Mme	madame	NC	_
 Parangon	Parangon	NP	_
 ,	,	PONCT	_
 qui	qui	PROREL	_
@@ -52796,7 +52866,7 @@ cette	ce	DET	_
 voisine	voisine	NC	_
 de	de	P	_
 *	*	PONCT	_
-Mme	Mme	NC	_
+Mme	madame	NC	_
 Parangon	Parangon	NP	_
 ,	,	PONCT	_
 dont	dont	PROREL	_
@@ -52817,7 +52887,7 @@ très	très	ADV	_
 aimable	aimable	ADJ	_
 ,	,	PONCT	_
 *	*	PONCT	_
-Mlle	Mlle	NC	_
+Mlle	mademoiselle	NC	_
 Fanchette	Fanchette	NP	_
 ,	,	PONCT	_
 qui	qui	PROREL	_
@@ -52851,7 +52921,7 @@ la	le	DET	_
 tristesse	tristesse	NC	_
 de	de	P	_
 *	*	PONCT	_
-Mme	Mme	NC	_
+Mme	madame	NC	_
 Parangon	Parangon	NP	_
 l'	le	DET	_
 engajant	engajant	NC	_
@@ -52900,7 +52970,7 @@ en-ai	en-ai	V	_
 parlé	parler	VPP	_
 à	à	P	_
 *	*	PONCT	_
-Mme	Mme	NC	_
+Mme	madame	NC	_
 Parangon	Parangon	NP	_
 ,	,	PONCT	_
 qui	qui	PROREL	_
@@ -52940,7 +53010,7 @@ gouvernante	gouvernante	NC	_
 ,	,	PONCT	_
 et	et	CC	_
 *	*	X	_
-Mme	Mme	NC	_
+Mme	madame	NC	_
 Canon	Canon	NP	_
 la	il	CLO	_
 trouve	trouver	V	_
@@ -52974,7 +53044,7 @@ et	et	CC	_
 séductrice	séducteur	ADJ	_
 amitié	amitié	NC	_
 ,	,	PONCT	_
-sur-tout	sur-tout	ADV	_
+sur-tout	surtout	ADV	_
 vers	vers	P	_
 la	le	DET	_
 fin	fin	NC	_
@@ -53079,9 +53149,10 @@ la	il	CLO	_
 voir	voir	VINF	_
 impunément	impunément	ADV	_
 .	.	PONCT	_
-Quant_à	quant_à	P	_
+Quant	quant	ADV	_
+à	à	P	_
 *	*	PONCT	_
-Mlle	Mlle	NC	_
+Mlle	mademoiselle	NC	_
 Fanchette	Fanchette	NP	_
 ,	,	PONCT	_
 c'	ce	CLS	_
@@ -53218,7 +53289,7 @@ ce	ce	PRO	_
 que	que	PROREL	_
 je	je	CLS	_
 savais	savoir	V	_
-déja	déja	NC	_
+déja	déjà	NC	_
 ,	,	PONCT	_
 et	et	CC	_
 j'	je	CLS	_
@@ -53276,7 +53347,7 @@ capacité	capacité	NC	_
 pour	pour	P	_
 vous	vous	CLO	_
 servir	servir	VINF	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 -	-	PONCT	_
 deux	deux	NC	_
 .	.	PONCT	_
@@ -53421,7 +53492,7 @@ ma	mon	DET	_
 part	part	NC	_
 .	.	PONCT	_
 *	*	PONCT	_
-Mme	Mme	NC	_
+Mme	madame	NC	_
 Parangon	Parangon	NP	_
 ne	ne	ADV	_
 me	je	CLO	_
@@ -53469,7 +53540,7 @@ comme	comme	P	_
 ,	,	PONCT	_
 et	et	CC	_
 *	*	PONCT	_
-Mlle	Mlle	NC	_
+Mlle	mademoiselle	NC	_
 Fanchette	Fanchette	NP	_
 ,	,	PONCT	_
 que	que	PROREL	_
@@ -53495,7 +53566,7 @@ ma	mon	DET	_
 coquetterie	coquetterie	NC	_
 ,	,	PONCT	_
 mon	mon	DET	_
-chèr	chèr	NC	_
+chèr	cher	NC	_
 ,	,	PONCT	_
 tout	tout	PRO	_
 -	-	PONCT	_
@@ -53659,9 +53730,9 @@ mort	mort	NC	_
 ,	,	PONCT	_
 dont	dont	PROREL	_
 ,	,	PONCT	_
-heureus	heureus	ADJ	_
+heureus	heureux	ADJ	_
 ou	ou	CC	_
-malheureus	malheureus	ADJ	_
+malheureus	malheureux	ADJ	_
 ,	,	PONCT	_
 nous	nous	CLS	_
 avons	avoir	V	_
@@ -53790,7 +53861,7 @@ que	que	CS	_
 chaqu'	chaqu'	NC	_
 un	un	DET	_
 soit	soit	CC	_
-heureus	heureus	ADV	_
+heureus	heureux	ADV	_
 à	à	P	_
 sa	son	DET	_
 manière	manière	NC	_
@@ -53803,7 +53874,7 @@ certain	certain	ADJ	_
 qu'	que	CS	_
 en-voulant	en-voulant	VPR	_
 rendre	rendre	VINF	_
-heureus	heureus	ADJ	_
+heureus	heureux	ADJ	_
 les	le	DET	_
 hommes	homme	NC	_
 ,	,	PONCT	_
@@ -53822,7 +53893,7 @@ est	être	V	_
 les	il	CLO	_
 rendre	rendre	VINF	_
 souverainement	souverainement	ADV	_
-malheureus	malheureus	ADJ	_
+malheureus	malheureux	ADJ	_
 .	.	PONCT	_
 Ceci	ceci	PRO	_
 fait	faire	V	_
@@ -53911,7 +53982,7 @@ mon	mon	DET	_
 ami	ami	NC	_
 était	être	V	_
 assés	assez	ADV	_
-malheureus	malheureus	ADJ	_
+malheureus	malheureux	ADJ	_
 ,	,	PONCT	_
 pour	pour	P	_
 qu'	que	CS	_
@@ -53928,7 +53999,7 @@ un	un	DET	_
 incendie	incendie	NC	_
 pour	pour	P	_
 être	être	VINF	_
-heureus	heureus	VPP	_
+heureus	heureux	VPP	_
 actuellement	actuellement	ADV	_
 ,	,	PONCT	_
 certes	certes	ADV	_
@@ -53939,7 +54010,7 @@ pas	pas	ADV	_
 qu'	que	CS	_
 il	il	CLS	_
 fût	être	V	_
-heureus	heureus	ADJ	_
+heureus	heureux	ADJ	_
 dans	dans	P	_
 cette	ce	DET	_
 manière	manière	NC	_
@@ -54092,7 +54163,7 @@ pensent	penser	V	_
 ,	,	PONCT	_
 et	et	CC	_
 dans	dans	P	_
-quî	quî	NC	_
+quî	qui	NC	_
 s'	se	CLO	_
 est	être	V	_
 de	de	P	_
@@ -54159,13 +54230,13 @@ genre	genre	NC	_
 -	-	PONCT	_
 humain	humain	ADJ	_
 ;	;	PONCT	_
-plûs	plûs	X	_
+plûs	plus	X	_
 ces	ce	DET	_
 fleurs	fleur	NC	_
 sont	être	V	_
 belles	beau	ADJ	_
 ,	,	PONCT	_
-plûs	plûs	NC	_
+plûs	plus	NC	_
 elles	il	CLS	_
 ont	avoir	V	_
 droit	droit	ADV	_
@@ -54593,7 +54664,7 @@ jouira	jouir	V	_
 .	.	PONCT	_
 Il	il	CLS	_
 me	je	CLO	_
-falait	falait	V	_
+falait	falloir	V	_
 une	un	DET	_
 âme	âme	NC	_
 sensible	sensible	ADJ	_
@@ -54606,7 +54677,7 @@ trouvée	trouver	VPP	_
 :	:	PONCT	_
 il	il	CLS	_
 me	je	CLO	_
-falait	falait	V	_
+falait	falloir	V	_
 cependant	cependant	ADV	_
 un	un	DET	_
 esprit	esprit	NC	_
@@ -54702,7 +54773,7 @@ Je	je	CLS	_
 te	tu	CLO	_
 l'	il	CLO	_
 ai	avoir	V	_
-déja	déja	VPP	_
+déja	déjà	VPP	_
 dit	dire	VPP	_
 ,	,	PONCT	_
 je	je	CLS	_
@@ -54798,7 +54869,7 @@ pour	pour	P	_
 tes	ton	DET	_
 parangones	parangones	NC	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 ,	,	PONCT	_
 je	je	CLS	_
 dirai	dire	V	_
@@ -54833,7 +54904,7 @@ Canon	Canon	NP	_
 pour	pour	P	_
 la	il	CLO	_
 faire	faire	VINF	_
-aler	aler	VINF	_
+aler	aller	VINF	_
 avec	avec	P	_
 Ursule	Ursule	NP	_
 et	et	CC	_
@@ -54919,7 +54990,7 @@ bégueule	bégueule	ADJ	_
 .	.	PONCT	_
 Adieu	adieu	I	_
 mon	mon	DET	_
-chèr	chèr	NC	_
+chèr	cher	NC	_
 Edmond	Edmond	NP	_
 .	.	PONCT	_
 J'	je	CLS	_
@@ -55038,7 +55109,7 @@ le	le	DET	_
 retour	retour	NC	_
 de	de	P	_
 *	*	PONCT	_
-Mme	Mme	NC	_
+Mme	madame	NC	_
 *	*	X	_
 Parangon	Parangon	NP	_
 :	:	PONCT	_
@@ -55059,7 +55130,7 @@ copierai	copier	V	_
 pas	pas	ADV	_
 :	:	PONCT	_
 *	*	X	_
-Mlle	Mlle	NC	_
+Mlle	mademoiselle	NC	_
 Fanchette	Fanchette	NP	_
 s'	se	CLO	_
 y	y	CLO	_
@@ -55079,7 +55150,7 @@ car	car	CC	_
 je	je	CLS	_
 me	je	CLO	_
 doutais	douter	V	_
-déja	déja	NC	_
+déja	déjà	NC	_
 de	de	P	_
 ce	ce	PRO	_
 qui	qui	PROREL	_
@@ -55098,7 +55169,7 @@ Edmée	Edmée	NP	_
 Convenons	convenir	V	_
 que	que	CS	_
 ce	ce	DET	_
-chèr	chèr	NC	_
+chèr	cher	NC	_
 frère	frère	ADJ	_
 est	être	V	_
 encore	encore	ADV	_
@@ -55117,7 +55188,7 @@ sens	sentir	V	_
 moi	je	PRO	_
 ,	,	PONCT	_
 plus	plus	ADV	_
-ambicieuse	ambicieuse	ADJ	_
+ambicieuse	ambicieux	ADJ	_
 ,	,	PONCT	_
 et	et	CC	_
 plus	plus	ADV	_
@@ -55142,7 +55213,7 @@ encore	encore	ADV	_
 bien-vifs	bien-vifs	ADV	_
 .	.	PONCT	_
 Ma	mon	DET	_
-charmante	charmant	ADJ	_
+charmante	charmer	ADJ	_
 amie	ami	NC	_
 est	être	V	_
 partie	partir	VPP	_
@@ -55184,7 +55255,7 @@ cette	ce	DET	_
 lettre	lettre	NC	_
 -là	là	ADV	_
 est	être	V	_
-charmante	charmant	ADJ	_
+charmante	charmer	ADJ	_
 ,	,	PONCT	_
 et	et	CC	_
 je	je	CLS	_
@@ -55216,7 +55287,7 @@ avouer	avouer	VINF	_
 ,	,	PONCT	_
 que	que	CS	_
 *	*	PONCT	_
-Mme	Mme	NC	_
+Mme	madame	NC	_
 Parangon	Parangon	NP	_
 est	être	V	_
 passionnément	passionnément	ADV	_
@@ -55258,7 +55329,7 @@ peut	pouvoir	V	_
 que	que	ADV	_
 m'	je	CLO	_
 en-être	en-être	V	_
-avantageus	avantageus	ADV	_
+avantageus	avantageux	ADV	_
 .	.	PONCT	_
 Voila	voiler	V	_
 donc	donc	ADV	_
@@ -55277,7 +55348,9 @@ suis	être	V	_
 en-mon	en-mon	ADV	_
 particulier	particulier	ADJ	_
 ,	,	PONCT	_
-au-delà	au-delà	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dela	delà	ADV	_
 de	de	P	_
 toute	tout	DET	_
 expression	expression	NC	_
@@ -55313,7 +55386,7 @@ le	le	DET	_
 pays	pays	NC	_
 ;	;	PONCT	_
 car	car	CC	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 n'	ne	ADV	_
 auraient	avoir	V	_
 pas	pas	ADV	_
@@ -55518,7 +55591,7 @@ dérobée	dérober	VPP	_
 beaucoup	beaucoup	PRO	_
 de	de	P	_
 choses	chose	NC	_
-grâcieuses	grâcieuses	ADJ	_
+grâcieuses	gracieux	ADJ	_
 ,	,	PONCT	_
 et	et	CC	_
 il	il	CLS	_
@@ -55569,7 +55642,7 @@ Il	il	CLS	_
 faut	falloir	V	_
 en-excepter	en-excepter	VINF	_
 *	*	PONCT	_
-Mme	Mme	NC	_
+Mme	madame	NC	_
 Canon	Canon	NP	_
 ,	,	PONCT	_
 qui	qui	PROREL	_
@@ -55649,7 +55722,7 @@ le	le	DET	_
 le	le	DET	_
 plus	plus	ADV	_
 -	-	PONCT	_
-avantageus	avantageus	NC	_
+avantageus	avantageux	NC	_
 ,	,	PONCT	_
 sans	sans	P	_
 égard	égard	NC	_
@@ -55849,7 +55922,7 @@ a	avoir	V	_
 fait	faire	VPP	_
 rire	rire	VINF	_
 *	*	PONCT	_
-Mme	Mme	NC	_
+Mme	madame	NC	_
 Canon	Canon	NP	_
 .	.	PONCT	_
 Une	un	DET	_
@@ -55889,7 +55962,7 @@ y	y	CLO	_
 a	avoir	V	_
 que	que	ADV	_
 *	*	PONCT	_
-Mme	Mme	NC	_
+Mme	madame	NC	_
 Parangon	Parangon	NP	_
 et	et	CC	_
 moi	je	PRO	_
@@ -55930,7 +56003,7 @@ ce	ce	PRO	_
 qu'	que	PROREL	_
 il	il	CLS	_
 ne	ne	ADV	_
-falait	falait	V	_
+falait	falloir	V	_
 pas	pas	ADV	_
 la	il	CLO	_
 louer	louer	VINF	_
@@ -56064,7 +56137,7 @@ grand	grand	ADJ	_
 plaisir	plaisir	NC	_
 de	de	P	_
 nos	notre	DET	_
-chèrs	chèrs	NC	_
+chèrs	cher	NC	_
 parens	parent	ADJ	_
 ,	,	PONCT	_
 de	de	P	_
@@ -56119,14 +56192,15 @@ sa	son	DET	_
 bonté	bonté	NC	_
 l'	il	CLO	_
 a	avoir	V	_
-déja	déja	VPP	_
+déja	déjà	VPP	_
 fait	faire	VPP	_
 jusqu'	jusque	P	_
 à	à	P	_
 ce	ce	DET	_
 jour	jour	NC	_
 .	.	PONCT	_
-Quant_à	quant_à	P	_
+Quant	quant	ADV	_
+à	à	P	_
 ce	ce	PRO	_
 qui	qui	PROREL	_
 est	être	V	_
@@ -56189,7 +56263,7 @@ au	à_le	P+D	_
 sujet	sujet	NC	_
 de	de	P	_
 *	*	X	_
-Mlle	Mlle	NC	_
+Mlle	mademoiselle	NC	_
 Edmée	Edmée	NP	_
 ,	,	PONCT	_
 on	on	CLS	_
@@ -56207,7 +56281,7 @@ y	y	CLO	_
 aime	aimer	V	_
 bien	bien	ADV	_
 *	*	PONCT	_
-Mlle	Mlle	NC	_
+Mlle	mademoiselle	NC	_
 Fanchette	Fanchette	NP	_
 ,	,	PONCT	_
 et	et	CC	_
@@ -56271,7 +56345,7 @@ aimait	aimer	V	_
 bien	bien	ADV	_
 aussi	aussi	ADV	_
 *	*	PONCT	_
-Mlle	Mlle	NC	_
+Mlle	mademoiselle	NC	_
 Edmée	Edmée	NP	_
 ,	,	PONCT	_
 à	à	P	_
@@ -56379,7 +56453,7 @@ c'	ce	CLS	_
 votre	votre	DET	_
 avantage	avantage	NC	_
 à	à	P	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 ;	;	PONCT	_
 et	et	CC	_
 bénissez	bénir	V	_
@@ -56487,7 +56561,7 @@ son	son	DET	_
 coeur	cœur	NC	_
 ,	,	PONCT	_
 et	et	CC	_
-sur-tout	sur-tout	ADV	_
+sur-tout	surtout	ADV	_
 de	de	P	_
 ce	ce	PRO	_
 qu'	que	PROREL	_
@@ -56533,7 +56607,7 @@ et	et	CC	_
 il	il	CLS	_
 leur	il	CLO	_
 enjoignit	enjoindre	V	_
-sur-tout	sur-tout	ADV	_
+sur-tout	surtout	ADV	_
 de	de	P	_
 se	se	CLO	_
 conformer	conformer	VINF	_
@@ -56586,7 +56660,7 @@ est	être	V	_
 celui	celui	PRO	_
 de	de	P	_
 *	*	PONCT	_
-Mme	Mme	NC	_
+Mme	madame	NC	_
 *	*	X	_
 Palestine	Palestine	NP	_
 .	.	PONCT	_
@@ -56607,7 +56681,7 @@ eut	avoir	V	_
 fait	faire	VPP	_
 bien-friser	bien-friser	NC	_
 ,	,	PONCT	_
-sur-tout	sur-tout	ADV	_
+sur-tout	surtout	ADV	_
 Bertrand	Bertrand	NP	_
 ,	,	PONCT	_
 tout	tout	PRO	_
@@ -56619,7 +56693,7 @@ pour	pour	P	_
 lui	il	CLO	_
 donner	donner	VINF	_
 encore	encore	ADV	_
-plûs	plûs	NC	_
+plûs	plus	NC	_
 de	de	P	_
 son	son	DET	_
 air	air	NC	_
@@ -56689,7 +56763,7 @@ Catherine	Catherine	NP	_
 a	avoir	V	_
 paru	paraître	VPP	_
 ,	,	PONCT	_
-alant	alant	VPR	_
+alant	aller	VPR	_
 un-peu	un-peu	ADV	_
 devant	devant	P	_
 sa	son	DET	_
@@ -56801,7 +56875,7 @@ gente	gente	ADJ	_
 ?	?	PONCT	_
 Oh	oh	I	_
 !	!	PONCT	_
-Pour	Pour	ADV	_
+Pour	pour	ADV	_
 celle	celui	PRO	_
 -là	là	ADV	_
 ,	,	PONCT	_
@@ -56946,7 +57020,7 @@ Edmond	Edmond	NP	_
 ;	;	PONCT	_
 si	si	CS	_
 ç'	ça	CLS	_
-alait	alait	V	_
+alait	aller	V	_
 être	être	VINF	_
 son	son	DET	_
 frère	frère	NC	_
@@ -57082,7 +57156,7 @@ encore	encore	ADV	_
 Nous	nous	CLS	_
 alons	alons	V	_
 donc	donc	ADV	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 -	-	PONCT	_
 entrer	entrer	VINF	_
 ,	,	PONCT	_
@@ -57131,7 +57205,7 @@ aussitôt	aussitôt	ADV	_
 levée	lever	VPP	_
 ,	,	PONCT	_
 pour	pour	P	_
-aler	aler	VINF	_
+aler	aller	VINF	_
 à	à	P	_
 la	le	DET	_
 cave	cave	NC	_
@@ -57139,7 +57213,7 @@ cave	cave	NC	_
 pendant	pendant	P	_
 qu'	que	CS	_
 Edmée	Edmée	NP	_
-fesait	fesait	V	_
+fesait	faire	V	_
 les	le	DET	_
 politesses	politesse	NC	_
 à	à	P	_
@@ -57349,7 +57423,7 @@ un	un	DET	_
 mot	mot	NC	_
 de	de	P	_
 Bertrand	Bertrand	NP	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 en-passant	en-passant	ADV	_
 ,	,	PONCT	_
 et	et	CC	_
@@ -57474,7 +57548,7 @@ lui	il	PRO	_
 ;	;	PONCT	_
 et	et	CC	_
 il	il	CLS	_
-falait	falait	V	_
+falait	falloir	V	_
 bien	bien	ADV	_
 que	que	CS	_
 Bertrand	Bertrand	NP	_
@@ -57577,7 +57651,7 @@ et	et	CC	_
 fin	fin	NC	_
 ,	,	PONCT	_
 un-peu	un-peu	NC	_
-étonnée	étonné	ADJ	_
+étonnée	étonner	ADJ	_
 ,	,	PONCT	_
 elle	il	CLS	_
 lui	il	CLO	_
@@ -57858,7 +57932,7 @@ lui	il	CLO	_
 disaient	dire	V	_
 qu'	que	CS	_
 ils	il	CLS	_
-falait	falait	V	_
+falait	falloir	V	_
 parler	parler	VINF	_
 .	.	PONCT	_
 Voila	voiler	V	_
@@ -57902,7 +57976,7 @@ ainsi	ainsi	ADV	_
 que	que	CS	_
 nous	nous	PRO	_
 -	-	PONCT	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 ,	,	PONCT	_
 qui	qui	PROREL	_
 les	il	CLO	_
@@ -57962,7 +58036,7 @@ de	de	P	_
 ses	son	DET	_
 filles	fille	NC	_
 ,	,	PONCT	_
-toutes	tous	PRO	_
+toutes	tout	PRO	_
 -	-	PONCT	_
 deux	deux	NC	_
 sans	sans	P	_
@@ -57978,7 +58052,7 @@ qui	qui	PROREL	_
 nous	nous	CLO	_
 a	avoir	V	_
 fait	faire	VPP	_
-plûs	plûs	NC	_
+plûs	plus	NC	_
 comme	comme	P	_
 à	à	P	_
 ses	son	DET	_
@@ -57990,7 +58064,9 @@ comme	comme	P	_
 des	un	DET	_
 frères	frère	NC	_
 .	.	PONCT	_
-Là-dessus	là-dessus	ADV	_
+Là	là	ADV	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 notre	notre	DET	_
 père	père	NC	_
 s'	se	CLO	_
@@ -58149,7 +58225,7 @@ Ursule	Ursule	NP	_
 et	et	CC	_
 de	de	P	_
 *	*	PONCT	_
-Mme	Mme	NC	_
+Mme	madame	NC	_
 Parangon	Parangon	NP	_
 elle	il	PRO	_
 -même	même	ADJ	_
@@ -58231,7 +58307,7 @@ où	où	PROREL	_
 ce	ce	PRO	_
 qu'	que	PROREL	_
 il	il	CLS	_
-falait	falait	V	_
+falait	falloir	V	_
 qu'	que	CS	_
 ils	il	CLS	_
 fussent	être	V	_
@@ -58258,7 +58334,7 @@ aussi	aussi	ADV	_
 riches	riche	ADJ	_
 et	et	CC	_
 aussi	aussi	ADV	_
-grâcieuses	grâcieuses	ADJ	_
+grâcieuses	gracieux	ADJ	_
 et	et	CC	_
 spirituelles	spirituel	ADJ	_
 que	que	CS	_
@@ -58330,7 +58406,7 @@ de	de	P	_
 Bertrand	Bertrand	NP	_
 ,	,	PONCT	_
 l'	le	DET	_
-alait	alait	NC	_
+alait	aller	NC	_
 peut-être	peut-être	ADV	_
 donner	donner	VINF	_
 :	:	PONCT	_
@@ -58360,7 +58436,7 @@ se	se	CLO	_
 desolait	desolait	V	_
 ,	,	PONCT	_
 et	et	CC	_
-fesait	fesait	V	_
+fesait	faire	V	_
 parler	parler	VINF	_
 sa	son	DET	_
 soeur	sœur	NC	_
@@ -58375,12 +58451,14 @@ refuser	refuser	VINF	_
 avec	avec	P	_
 timidité	timidité	NC	_
 .	.	PONCT	_
-Là-dessus	là-dessus	ADV	_
+Là	là	ADV	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 *	*	X	_
 Edmond	Edmond	NP	_
 ,	,	PONCT	_
 à	à	P	_
-quî	quî	NC	_
+quî	qui	NC	_
 nos	notre	DET	_
 frères	frère	NC	_
 sont	être	V	_
@@ -58405,11 +58483,11 @@ Bertrand	Bertrand	NP	_
 ce	ce	DET	_
 bon	bon	ADJ	_
 et	et	CC	_
-chèr	chèr	ADJ	_
+chèr	cher	ADJ	_
 homme	homme	NC	_
 a	avoir	V	_
 vu	voir	VPP	_
-plûs	plûs	NC	_
+plûs	plus	NC	_
 d'	de	P	_
 agrément	agrément	NC	_
 pour	pour	P	_
@@ -58714,11 +58792,11 @@ décidé	décider	VPP	_
 c'	ce	CLS	_
 est	être	V	_
 *	*	PONCT	_
-Mme	Mme	NC	_
+Mme	madame	NC	_
 Parangon	Parangon	NP	_
 (	(	PONCT	_
 à	à	P	_
-quî	quî	NP	_
+quî	qui	NP	_
 il	il	CLS	_
 faut	falloir	V	_
 apparemment	apparemment	ADV	_
@@ -58781,7 +58859,8 @@ avons	avoir	V	_
 tout	tout	PRO	_
 préparé	préparer	VPP	_
 ,	,	PONCT	_
-afin_de	afin_de	P	_
+afin	afin	ADV	_
+de	de	P	_
 partir	partir	VINF	_
 pour	pour	P	_
 *	*	X	_
@@ -58798,7 +58877,7 @@ celui	celui	PRO	_
 qui	qui	PROREL	_
 est	être	V	_
 le	le	DET	_
-plûs	plûs	NC	_
+plûs	plus	NC	_
 en-état	en-état	ADJ	_
 d'	de	P	_
 y	y	CLO	_
@@ -58844,7 +58923,8 @@ de	de	P	_
 *	*	X	_
 Ragüel	Ragüel	NP	_
 ,	,	PONCT	_
-afin_de	afin_de	P	_
+afin	afin	ADV	_
+de	de	P	_
 donner	donner	VINF	_
 à	à	P	_
 nos	notre	DET	_
@@ -58863,7 +58943,7 @@ levé	lever	VPP	_
 et	et	CC	_
 nous	nous	CLO	_
 voyant	voir	VPR	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 autour	autour	ADV	_
 de	de	P	_
 lui	il	PRO	_
@@ -58879,7 +58959,7 @@ a	avoir	V	_
 dit	dire	VPP	_
 :	:	PONCT	_
 mes	mon	DET	_
-chèrs	chèrs	NC	_
+chèrs	cher	NC	_
 enfans	enfant	ADJ	_
 ,	,	PONCT	_
 voici	voici	V	_
@@ -58888,7 +58968,7 @@ je	je	CLS	_
 crois	croire	V	_
 ,	,	PONCT	_
 d'	de	P	_
-heureus	heureus	ADJ	_
+heureus	heureux	ADJ	_
 mariages	mariage	NC	_
 ,	,	PONCT	_
 que	que	CS	_
@@ -58901,7 +58981,7 @@ prépare	préparer	V	_
 :	:	PONCT	_
 priez	prier	V	_
 -	-	PONCT	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 Dieu	Dieu	NP	_
 en-cet	en-cet	ADJ	_
 instant	instant	NC	_
@@ -58917,14 +58997,14 @@ car	car	CC	_
 ce	ce	DET	_
 pauvre	pauvre	ADJ	_
 et	et	CC	_
-chèr	chèr	ADJ	_
+chèr	cher	ADJ	_
 enfant	enfant	NC	_
 est	être	V	_
 embarqué	embarquer	VPP	_
 sur	sur	P	_
 une	un	DET	_
 mèr	mèr	ADJ	_
-tempêteuse	tempêteuse	NC	_
+tempêteuse	tempêteux	NC	_
 ,	,	PONCT	_
 et	et	CC	_
 battue	battre	VPP	_
@@ -58972,7 +59052,7 @@ vous	vous	CLO	_
 supplie	supplier	V	_
 ,	,	PONCT	_
 que	que	CS	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 et	et	CC	_
 un-chaqu	un-chaqu	NP	_
 '	'	PONCT	_
@@ -59147,7 +59227,8 @@ et	et	CC	_
 de	de	P	_
 mère	mère	NC	_
 ,	,	PONCT	_
-afin_que	afin_que	CS	_
+afin	afin	ADV	_
+que	que	CS	_
 cette	ce	DET	_
 chère	cher	ADJ	_
 enfant	enfant	NC	_
@@ -59315,7 +59396,8 @@ sont	être	V	_
 la	le	DET	_
 ville	ville	NC	_
 ;	;	PONCT	_
-afin_que	afin_que	CS	_
+afin	afin	ADV	_
+que	que	CS	_
 vous	vous	CLS	_
 les	il	CLO	_
 préserviez	préserver	V	_
@@ -59473,7 +59555,7 @@ enfans	enfant	NC	_
 amen	amen	NC	_
 .	.	PONCT	_
 et	et	CC	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 nous	nous	CLS	_
 répétions	répéter	V	_
 amen	amen	NC	_
@@ -59496,7 +59578,7 @@ affection	affection	NC	_
 tout	tout	ADJ	_
 ce	ce	PRO	_
 que	que	ADV	_
-fesait	fesait	V	_
+fesait	faire	V	_
 ce	ce	DET	_
 bon	bon	ADJ	_
 et	et	CC	_
@@ -59554,7 +59636,7 @@ louanges	louange	NC	_
 qu'	que	PROREL	_
 on	on	CLS	_
 me	je	CLO	_
-fesait	fesait	V	_
+fesait	faire	V	_
 d'	de	P	_
 Edmée	Edmée	NP	_
 et	et	CC	_
@@ -59910,7 +59992,7 @@ dire	dire	VINF	_
 que	que	PROREL	_
 nos	notre	DET	_
 deux	deux	NC	_
-bellesoeurs	bellesœur	NP	_
+bellesoeurs	belle-sœur	NP	_
 viennent	venir	V	_
 d'	de	P	_
 arriver	arriver	VINF	_
@@ -59968,7 +60050,7 @@ qui	qui	PROREL	_
 en-est	en-est	V	_
 toute	tout	DET	_
 -	-	PONCT	_
-étonnée	étonné	ADJ	_
+étonnée	étonner	ADJ	_
 .	.	PONCT	_
 à	à	P	_
 *	*	PONCT	_
@@ -60009,7 +60091,7 @@ deux	deux	ADJ	_
 ménages	ménage	NC	_
 n'	ne	ADV	_
 en-font	en-font	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 un	un	DET	_
 avec	avec	P	_
 le	le	DET	_
@@ -60027,7 +60109,9 @@ digne	digne	ADJ	_
 père	père	NC	_
 a	avoir	V	_
 donné	donner	VPP	_
-là-dessus	là-dessus	ADV	_
+là	là	ADV	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 ses	son	DET	_
 ordres	ordre	NC	_
 à	à	P	_
@@ -60191,7 +60275,7 @@ soeur	sœur	NC	_
 mais	mais	CC	_
 c'	ce	CLS	_
 est	être	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 elle	il	CLS	_
 est	être	V	_
 si	si	CS	_
@@ -60428,7 +60512,7 @@ bien	bien	ADV	_
 du	de_le	P+D	_
 plaisir	plaisir	NC	_
 à	à	P	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 ,	,	PONCT	_
 tant	tant	ADV	_
 à	à	P	_
@@ -60452,7 +60536,7 @@ et	et	CC	_
 nous	nous	CLS	_
 la	il	CLO	_
 caressons	caresser	V	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 comme	comme	CS	_
 elle	il	PRO	_
 ;	;	PONCT	_
@@ -60572,7 +60656,7 @@ filles	fille	ADJ	_
 !	!	PONCT	_
 Ah	ah	I	_
 !	!	PONCT	_
-Vous	Vous	ADV	_
+Vous	vous	ADV	_
 êtes	être	V	_
 ce	ce	PRO	_
 dont	dont	PROREL	_
@@ -60673,7 +60757,8 @@ pudeur	pudeur	NC	_
 et	et	CC	_
 modestie	modestie	NC	_
 .	.	PONCT	_
-Quant_à	quant_à	P	_
+Quant	quant	ADV	_
+à	à	P	_
 vous	vous	PRO	_
 ,	,	PONCT	_
 ma	mon	DET	_
@@ -60950,7 +61035,7 @@ Mais	mais	CC	_
 vous	vous	CLS	_
 êtes	être	V	_
 justes	juste	ADJ	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 -	-	PONCT	_
 deux	deux	NC	_
 ,	,	PONCT	_
@@ -60961,7 +61046,7 @@ le	il	CLO	_
 partagez	partager	V	_
 également	également	ADV	_
 à	à	P	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 :	:	PONCT	_
 car	car	CC	_
 je	je	CLS	_
@@ -61005,7 +61090,7 @@ notre	notre	DET	_
 père	père	NC	_
 ,	,	PONCT	_
 à	à	P	_
-quî	quî	NC	_
+quî	qui	NC	_
 tout	tout	ADJ	_
 ce	ce	PRO	_
 qui	qui	PROREL	_
@@ -61147,7 +61232,7 @@ d'	de	P	_
 une	un	DET	_
 parente	parente	NC	_
 à	à	P	_
-quî	quî	NC	_
+quî	qui	NC	_
 j'	je	CLS	_
 ai	avoir	V	_
 ôté	ôter	VPP	_
@@ -61157,7 +61242,7 @@ honneur	honneur	NC	_
 je	je	CLS	_
 lui	il	CLO	_
 dois	devoir	V	_
-plûs	plûs	ADV	_
+plûs	plus	ADV	_
 que	que	CS	_
 si	si	CS	_
 elle	il	CLS	_
@@ -61266,10 +61351,10 @@ signature	signature	NC	_
 J'	je	CLS	_
 ai	avoir	V	_
 été	être	VPP	_
-bien-étonnée	bien-étonnée	ADV	_
+bien-étonnée	bien-étonné	ADV	_
 que	que	CS	_
 vous	vous	PRO	_
-ayiez	ayiez	V	_
+ayiez	avoir	V	_
 été	être	VPP	_
 à	à	P	_
 la	le	DET	_
@@ -61278,7 +61363,7 @@ comédie	comédie	NC	_
 et	et	CC	_
 que	que	CS	_
 *	*	PONCT	_
-Mme	Mme	NC	_
+Mme	madame	NC	_
 Canon	Canon	NP	_
 elle	il	PRO	_
 -même	même	ADJ	_
@@ -61331,7 +61416,7 @@ vous	vous	CLS	_
 avez	avoir	V	_
 renoncé	renoncer	VPP	_
 au	à_le	P+D	_
-batême	batême	NC	_
+batême	baptême	NC	_
 !	!	PONCT	_
 Et	et	CC	_
 pardon	pardon	NC	_
@@ -61435,7 +61520,7 @@ qu'	que	CS	_
 Edmée	Edmée	NP	_
 soit	être	V	_
 ma	mon	DET	_
-bellesoeur	bellesœur	NC	_
+bellesoeur	belle-sœur	NC	_
 ,	,	PONCT	_
 et	et	CC	_
 (	(	PONCT	_
@@ -61469,7 +61554,7 @@ cette	ce	DET	_
 qualité	qualité	NC	_
 ,	,	PONCT	_
 aulieu	aulieu	NC	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 à	à	P	_
 -	-	PONCT	_
 présent	présent	NC	_
@@ -61659,7 +61744,7 @@ flatée	flatter	VPP	_
 qu'	que	CS	_
 il	il	CLS	_
 serait	être	V	_
-charmant	charmant	ADJ	_
+charmant	charmer	ADJ	_
 en-uniforme	en-uniforme	NC	_
 !	!	PONCT	_
 Le	le	DET	_
@@ -61708,7 +61793,7 @@ c'	ce	CLS	_
 était	être	V	_
 un	un	DET	_
 rôle	rôle	NC	_
-auquel	auquel	PROREL	_
+auquel	à_lequel	PROREL	_
 je	je	CLS	_
 ne	ne	ADV	_
 me	je	CLO	_
@@ -61798,7 +61883,7 @@ Fanchette	Fanchette	NP	_
 que	que	CS	_
 de	de	P	_
 *	*	PONCT	_
-Mme	Mme	NC	_
+Mme	madame	NC	_
 *	*	X	_
 Canon	Canon	NP	_
 ,	,	PONCT	_
@@ -62048,7 +62133,7 @@ soeur	sœur	NC	_
 ,	,	PONCT	_
 votre	votre	DET	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 De	de	P	_
 la	le	DET	_
 même	même	NC	_
@@ -62101,7 +62186,7 @@ Je	je	CLS	_
 ne	ne	ADV	_
 vous	vous	CLO	_
 ai	avoir	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 entrevue	entrevoir	VPP	_
 une	un	DET	_
 -	-	PONCT	_
@@ -62219,7 +62304,7 @@ fait	faire	VPP	_
 un	un	DET	_
 portrait	portrait	NC	_
 si	si	CS	_
-avantageus	avantageus	ADJ	_
+avantageus	avantageux	ADJ	_
 ,	,	PONCT	_
 que	que	PROREL	_
 je	je	CLS	_
@@ -62259,10 +62344,10 @@ vous	vous	PRO	_
 en-me	en-me	NC	_
 persuadant	persuader	VPR	_
 de	de	P	_
-plûs	plûs	NP	_
+plûs	plus	NP	_
 -en	en	CLO	_
 -	-	PONCT	_
-plûs	plûs	NC	_
+plûs	plus	NC	_
 de	de	P	_
 votre	votre	DET	_
 mérite	mérite	NC	_
@@ -62306,7 +62391,7 @@ une	un	DET	_
 satisfaction	satisfaction	NC	_
 complette	complet	ADJ	_
 aux	à_le	P+D	_
-chèrs	chèrs	ADJ	_
+chèrs	cher	ADJ	_
 auteurs	auteur	NC	_
 de	de	P	_
 mes	mon	DET	_
@@ -62324,7 +62409,7 @@ et	et	CC	_
 à	à	P	_
 vous	vous	PRO	_
 -	-	PONCT	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 qui	qui	PROREL	_
 composez	composer	V	_
 ma	mon	DET	_
@@ -62384,12 +62469,12 @@ aimable	aimable	ADJ	_
 compagne	compagne	NC	_
 ,	,	PONCT	_
 *	*	PONCT	_
-Mlle	Mlle	NC	_
+Mlle	mademoiselle	NC	_
 *	*	X	_
 Fanchette	Fanchette	NP	_
 ,	,	PONCT	_
 à	à	P	_
-quî	quî	NC	_
+quî	qui	NC	_
 j'	je	CLS	_
 ai	avoir	V	_
 parlé	parler	VPP	_
@@ -62418,11 +62503,11 @@ que	que	CS	_
 nous	nous	CLS	_
 -nous	nous	CLO	_
 verrons	voir	V	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 quelque	quelque	DET	_
 -	-	PONCT	_
 jour	jour	NC	_
-réünis	réünis	VPP	_
+réünis	réunir	VPP	_
 sous	sous	P	_
 les	le	DET	_
 ieux	jeu	NC	_
@@ -62530,11 +62615,11 @@ dans	dans	P	_
 l'	le	DET	_
 éloignement	éloignement	NC	_
 de	de	P	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 -	-	PONCT	_
 ceux	celui	PRO	_
 à	à	P	_
-quî	quî	NP	_
+quî	qui	NP	_
 je	je	CLS	_
 tiens	tenir	V	_
 par	par	P	_
@@ -62554,7 +62639,7 @@ moi	je	PRO	_
 *	*	X	_
 Fanchette	Fanchette	NP	_
 C.	C.	NP	_
-Lettre	Lettre	NP	_
+Lettre	lettre	NP	_
 *	*	PONCT	_
 27	27	X	_
 .	.	PONCT	_
@@ -62593,7 +62678,7 @@ amitié	amitié	NC	_
 mon	mon	DET	_
 très	très	ADV	_
 -	-	PONCT	_
-chèr	chèr	ADJ	_
+chèr	cher	ADJ	_
 ami	ami	NC	_
 :	:	PONCT	_
 aux	à_le	P+D	_
@@ -62620,7 +62705,7 @@ connais	connaître	V	_
 pas	pas	ADV	_
 ,	,	PONCT	_
 mon	mon	DET	_
-chèr	chèr	NC	_
+chèr	cher	NC	_
 ami	ami	ADJ	_
 !	!	PONCT	_
 Va	aller	V	_
@@ -62730,7 +62815,7 @@ une	un	DET	_
 ...	…	PONCT	_
 vous	vous	CLS	_
 êtes	être	V	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 -	-	PONCT	_
 deux	deux	NC	_
 ce	ce	PRO	_
@@ -62751,7 +62836,7 @@ oui	oui	I	_
 votre	votre	DET	_
 ami	ami	NC	_
 à	à	P	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 -	-	PONCT	_
 deux	deux	NC	_
 ,	,	PONCT	_
@@ -62783,7 +62868,7 @@ sans	sans	P	_
 chagrin	chagrin	NC	_
 de	de	P	_
 ce	ce	PRO	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 en	en	P	_
 vous	vous	CLO	_
 débattant	débattre	VPR	_
@@ -62807,9 +62892,9 @@ vous	vous	PRO	_
 .	.	PONCT	_
 Ah	ah	I	_
 !	!	PONCT	_
-Venez	Venez	V	_
+Venez	venir	V	_
 -y	y	CLO	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 -	-	PONCT	_
 deux	deux	NC	_
 ,	,	PONCT	_
@@ -62884,7 +62969,8 @@ une	un	DET	_
 action	action	NC	_
 naturelle	naturel	ADJ	_
 .	.	PONCT	_
-Quant_à	quant_à	P	_
+Quant	quant	ADV	_
+à	à	P	_
 la	le	DET	_
 chère	cher	ADJ	_
 persone	personne	NC	_
@@ -62951,7 +63037,7 @@ vertu	vertu	NC	_
 .	.	PONCT	_
 Haïssez	haïr	V	_
 -moi	je	CLO	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 -	-	PONCT	_
 deux	deux	NC	_
 ;	;	PONCT	_
@@ -63002,7 +63088,7 @@ Mes	mon	DET	_
 amis	ami	NC	_
 ,	,	PONCT	_
 mes	mon	DET	_
-chèrs	chèrs	NC	_
+chèrs	cher	NC	_
 amis	ami	ADJ	_
 !	!	PONCT	_
 Vous	vous	CLS	_
@@ -63158,7 +63244,7 @@ vraie	vrai	ADJ	_
 votre	votre	DET	_
 crime	crime	NC	_
 est	être	V	_
-affreus	affreus	ADJ	_
+affreus	affreux	ADJ	_
 .	.	PONCT	_
 Eh	eh	I	_
 !	!	PONCT	_
@@ -63324,13 +63410,13 @@ comme	comme	CS	_
 vous	vous	CLS	_
 l'	il	CLO	_
 appelez	appeler	V	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 -	-	PONCT	_
 deux	deux	NC	_
 ,	,	PONCT	_
 n'	ne	ADV	_
 est	être	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 une	un	DET	_
 faiblesse	faiblesse	NC	_
 très	très	ADV	_
@@ -63533,7 +63619,7 @@ calme	calme	ADJ	_
 -toi	tu	CLO	_
 ,	,	PONCT	_
 mon	mon	DET	_
-chèr	chèr	NC	_
+chèr	cher	NC	_
 ami	ami	ADJ	_
 :	:	PONCT	_
 reviens	revenir	V	_
@@ -63580,7 +63666,7 @@ encore	encore	ADV	_
 :	:	PONCT	_
 s'	si	CS	_
 il	il	CLS	_
-falait	falait	V	_
+falait	falloir	V	_
 ,	,	PONCT	_
 pour	pour	P	_
 ton	ton	DET	_
@@ -63725,7 +63811,7 @@ pour	pour	P	_
 moi	je	PRO	_
 dans	dans	P	_
 un	un	DET	_
-effrayant	effrayant	ADJ	_
+effrayant	effrayer	ADJ	_
 silence	silence	NC	_
 ,	,	PONCT	_
 chère	cher	ADJ	_
@@ -63803,7 +63889,7 @@ je	je	CLS	_
 couche	coucher	V	_
 :	:	PONCT	_
 *	*	PONCT	_
-Mme	Mme	NC	_
+Mme	madame	NC	_
 Canon	Canon	NP	_
 avait	avoir	V	_
 une	un	DET	_
@@ -63905,7 +63991,7 @@ aussitôt	aussitôt	ADV	_
 éveillées	éveiller	VPP	_
 ,	,	PONCT	_
 *	*	PONCT	_
-Mlle	Mlle	NC	_
+Mlle	mademoiselle	NC	_
 *	*	X	_
 Fanchette	Fanchette	NP	_
 et	et	CC	_
@@ -63987,7 +64073,7 @@ ai	avoir	V	_
 eu	avoir	VPP	_
 un	un	DET	_
 songe	songe	NC	_
-affreus	affreus	ADJ	_
+affreus	affreux	ADJ	_
 .	.	PONCT	_
 Mais	mais	CC	_
 je	je	CLS	_
@@ -63997,7 +64083,7 @@ crois	croire	V	_
 plus	plus	ADV	_
 ;	;	PONCT	_
 *	*	PONCT	_
-Mme	Mme	NC	_
+Mme	madame	NC	_
 Parangon	Parangon	NP	_
 m'	je	CLO	_
 a	avoir	V	_
@@ -64128,7 +64214,8 @@ sur	sur	P	_
 mon	mon	DET	_
 sein	sein	NC	_
 ,	,	PONCT	_
-tandis_que	tandis_que	CS	_
+tandis	tandis	ADV	_
+que	que	CS	_
 l'	le	DET	_
 autre	autre	NC	_
 ,	,	PONCT	_
@@ -64169,7 +64256,7 @@ et	et	CC	_
 je	je	CLS	_
 suis	être	V	_
 tombée	tomber	VPP	_
-mourante	mourant	ADJ	_
+mourante	mourir	ADJ	_
 .	.	PONCT	_
 Cette	ce	DET	_
 chute	chute	NC	_
@@ -64185,7 +64272,7 @@ et	et	CC	_
 je	je	CLS	_
 serrais	serrer	V	_
 *	*	PONCT	_
-Mlle	Mlle	NC	_
+Mlle	mademoiselle	NC	_
 *	*	X	_
 Fanchette	Fanchette	NP	_
 dans	dans	P	_
@@ -64265,7 +64352,7 @@ nous	nous	CLS	_
 a	avoir	V	_
 faite	faire	VPP	_
 *	*	PONCT	_
-Mme	Mme	NC	_
+Mme	madame	NC	_
 Canon	Canon	NP	_
 .	.	PONCT	_
 Comme	comme	CS	_
@@ -64303,7 +64390,7 @@ petit	petit	ADJ	_
 chapeau	chapeau	NC	_
 .	.	PONCT	_
 *	*	PONCT	_
-Mme	Mme	NC	_
+Mme	madame	NC	_
 Canon	Canon	NP	_
 ma	mon	DET	_
 dit	dit	NC	_
@@ -64312,7 +64399,7 @@ on	on	CLS	_
 croirait	croire	V	_
 que	que	CS	_
 vous	vous	PRO	_
-alez	alez	V	_
+alez	aller	V	_
 en-campagne	en-campagne	NC	_
 !	!	PONCT	_
 Je	je	CLS	_
@@ -64412,7 +64499,7 @@ inquiète	inquiéter	V	_
 ;	;	PONCT	_
 ni	ni	CC	_
 *	*	PONCT	_
-Mme	Mme	NC	_
+Mme	madame	NC	_
 Parangon	Parangon	NP	_
 .	.	PONCT	_
 Adieu	adieu	I	_

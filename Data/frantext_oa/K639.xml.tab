@@ -147,7 +147,7 @@ très	très	ADV	_
 tenu	tenir	VPP	_
 ,	,	PONCT	_
 très	très	ADV	_
-obéissant	obéissant	ADJ	_
+obéissant	obéir	ADJ	_
 et	et	CC	_
 toujours	toujours	ADV	_
 convenable	convenable	ADJ	_
@@ -156,7 +156,7 @@ ses	son	DET	_
 petites	petit	ADJ	_
 manières	manière	NC	_
 ,	,	PONCT	_
-auquel	auquel	PROREL	_
+auquel	à_lequel	PROREL	_
 rien	rien	PRO	_
 n'	ne	ADV	_
 arrivait	arriver	V	_
@@ -443,7 +443,8 @@ ne	ne	ADV	_
 donnent	donner	V	_
 rien	rien	PRO	_
 ;	;	PONCT	_
-tandis_que	tandis_que	CS	_
+tandis	tandis	ADV	_
+que	que	CS	_
 ,	,	PONCT	_
 au	à_le	P+D	_
 contraire	contraire	NC	_
@@ -734,7 +735,7 @@ choses	chose	NC	_
 ...	…	PONCT	_
 oh	oh	I	_
 !	!	PONCT	_
-Alors	Alors	ADV	_
+Alors	alors	ADV	_
 je	je	CLS	_
 me	je	CLO	_
 levai	lever	V	_
@@ -1017,12 +1018,12 @@ extrême	extrême	ADJ	_
 et	et	CC	_
 ma	mon	DET	_
 joie	joie	NC	_
-étonnée	étonné	ADJ	_
+étonnée	étonner	ADJ	_
 .	.	PONCT	_
 -	-	X	_
 ah	ah	I	_
 !	!	PONCT	_
-Mon	Mon	NP	_
+Mon	mon	NP	_
 dieu	dieu	NC	_
 ,	,	PONCT	_
 mais	mais	CC	_
@@ -1473,7 +1474,9 @@ se	se	CLO	_
 tenaient	tenir	V	_
 sans	sans	P	_
 doute	doute	NC	_
-là-haut	là-haut	ADV	_
+à	à_le	P+D	_
+-	-	PONCT	_
+haut	haut	ADV	_
 ,	,	PONCT	_
 au	à_le	P+D	_
 second	second	ADJ	_
@@ -1815,7 +1818,7 @@ j'	je	CLS	_
 aurais	avoir	V	_
 désiré	désirer	VPP	_
 avoir	avoir	VINF	_
-toutes	tous	PRO	_
+toutes	tout	PRO	_
 ,	,	PONCT	_
 à	à	P	_
 leurs	leur	DET	_
@@ -2019,7 +2022,7 @@ de	de	P	_
 leurs	leur	DET	_
 grandes	grand	ADJ	_
 ombres	ombre	NC	_
-mouvantes	mouvant	ADJ	_
+mouvantes	mouvoir	ADJ	_
 qui	qui	PROREL	_
 ,	,	PONCT	_
 au	à_le	P+D	_
@@ -2205,7 +2208,7 @@ entra	entrer	V	_
 ...	…	PONCT	_
 oh	oh	I	_
 !	!	PONCT	_
-Alors	Alors	ADV	_
+Alors	alors	ADV	_
 je	je	CLS	_
 me	je	CLO	_
 jetai	jeter	V	_
@@ -3050,7 +3053,9 @@ aperçus	apercevoir	V	_
 au	à_le	P+D	_
 loin	loin	NC	_
 ,	,	PONCT	_
-par-dessus	par-dessus	P	_
+par	par	S	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 le	le	DET	_
 fouillis	fouillis	NC	_
 des	de_le	P+D	_
@@ -3281,7 +3286,7 @@ est	être	V	_
 -il	il	CLS	_
 fixé	fixer	VPP	_
 ainsi	ainsi	ADV	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 à	à	P	_
 la	le	DET	_
 faveur	faveur	NC	_
@@ -3291,7 +3296,7 @@ deux	deux	ADJ	_
 sentiments	sentiment	NC	_
 tout	tout	ADV	_
 nouveaux	nouveau	ADJ	_
-auxquels	auquel	PROREL	_
+auxquels	à_lequel	PROREL	_
 il	il	CLS	_
 s'	se	CLO	_
 est	être	V	_
@@ -3730,7 +3735,9 @@ de	de	P	_
 méchanceté	méchanceté	NC	_
 sinistre	sinistre	ADJ	_
 .	.	PONCT	_
-Au-dessus	au-dessus	ADV	_
+Au	à_le	P+D	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 ,	,	PONCT	_
 s'	se	CLO	_
 étendait	étendre	V	_
@@ -4263,7 +4270,7 @@ souriante	souriant	ADJ	_
 .	.	PONCT	_
 Oh	oh	I	_
 !	!	PONCT	_
-Je	Je	V	_
+Je	je	V	_
 la	il	CLO	_
 revois	revoir	V	_
 si	si	ADV	_
@@ -4898,7 +4905,8 @@ poussière	poussière	NC	_
 des	de_le	P+D	_
 poussières	poussière	NC	_
 .	.	PONCT	_
-Tandis_que	tandis_que	CS	_
+Tandis	tandis	ADV	_
+que	que	CS	_
 ,	,	PONCT	_
 pour	pour	P	_
 ma	mon	DET	_
@@ -5140,7 +5148,7 @@ qu'	que	CS	_
 il	il	CLS	_
 ne	ne	ADV	_
 serait	être	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 une	un	DET	_
 combinaison	combinaison	NC	_
 d'	de	P	_
@@ -5730,7 +5738,7 @@ pour	pour	P	_
 tant	tant	ADV	_
 d'	un	DET	_
 autres	autre	NC	_
-auxquels	auquel	PROREL	_
+auxquels	à_lequel	PROREL	_
 un	un	DET	_
 pareil	pareil	ADJ	_
 amour	amour	NC	_
@@ -6814,7 +6822,9 @@ très	très	ADV	_
 loin	loin	ADV	_
 ,	,	PONCT	_
 montrait	montrer	V	_
-au-dessus	au-dessus	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 de	de	P	_
 ces	ce	DET	_
 lignes	ligne	NC	_
@@ -6930,7 +6940,7 @@ au	à_le	P+D	_
 milieu	milieu	NC	_
 d'	de	P	_
 eux	il	PRO	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 ,	,	PONCT	_
 je	je	CLS	_
 poussais	pousser	V	_
@@ -6947,7 +6957,7 @@ trop	trop	ADV	_
 garanti	garantir	VPP	_
 ,	,	PONCT	_
 trop	trop	ADV	_
-ignorant	ignorant	ADJ	_
+ignorant	ignorer	ADJ	_
 des	de_le	P+D	_
 halliers	hallier	NC	_
 et	et	CC	_
@@ -7169,7 +7179,7 @@ tantes	tante	NC	_
 de	de	P	_
 Saint-Pierre-d	Saint-Pierre-d	NP	_
 '	'	PONCT	_
-Oleron	Oleron	NP	_
+Oleron	Oléron	NP	_
 .	.	PONCT	_
 C'	ce	CLS	_
 était	être	V	_
@@ -7442,7 +7452,9 @@ branches	branche	NC	_
 retombantes	retombant	ADJ	_
 !	!	PONCT	_
 ...	…	PONCT	_
-par-dessous	par-dessous	P	_
+par	par	S	_
+-	-	PONCT	_
+dessous	dessous	ADV	_
 un	un	DET	_
 premier	premier	ADJ	_
 berceau	berceau	NC	_
@@ -7614,7 +7626,9 @@ blouses	blouse	NC	_
 et	et	CC	_
 tabliers	tablier	NC	_
 blancs	blanc	ADJ	_
-par-dessus	par-dessus	P	_
+par	par	S	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 ,	,	PONCT	_
 à	à	P	_
 la	le	DET	_
@@ -7662,7 +7676,7 @@ cause	cause	NC	_
 de	de	P	_
 la	le	DET	_
 lumière	lumière	NC	_
-mourante	mourant	ADJ	_
+mourante	mourir	ADJ	_
 .	.	PONCT	_
 Des	un	DET	_
 deux	deux	ADJ	_
@@ -8172,7 +8186,8 @@ me	je	CLO	_
 faisait	faire	V	_
 peur	peur	NC	_
 ,	,	PONCT	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 elle	il	CLS	_
 était	être	V	_
 restée	rester	VPP	_
@@ -8280,7 +8295,8 @@ j'	je	CLS	_
 aimais	aimer	V	_
 venir	venir	VINF	_
 jouer	jouer	VINF	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 il	il	CLS	_
 y	y	CLO	_
 avait	avoir	V	_
@@ -8331,7 +8347,7 @@ l'	le	DET	_
 ocre	ocre	NC	_
 jaune	jaune	ADJ	_
 ,	,	PONCT	_
-auxquels	auquel	PROREL	_
+auxquels	à_lequel	PROREL	_
 étaient	être	V	_
 accrochées	accrocher	VPP	_
 ,	,	PONCT	_
@@ -8602,7 +8618,7 @@ coup	coup	NC	_
 pour	pour	P	_
 moi	je	PRO	_
 une	un	DET	_
-effrayante	effrayant	ADJ	_
+effrayante	effrayer	ADJ	_
 profondeur	profondeur	NC	_
 ;	;	PONCT	_
 le	le	DET	_
@@ -9074,7 +9090,9 @@ saisir	saisir	VINF	_
 .	.	PONCT	_
 CHAPITRE	chapitre	NC	_
 X	X	ADJ	_
-Au-dessus	au-dessus	ADV	_
+Au	à_le	P+D	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 de	de	P	_
 chez	chez	P	_
 la	le	DET	_
@@ -9116,7 +9134,9 @@ De	de	P	_
 ses	son	DET	_
 fenêtres	fenêtre	NC	_
 ,	,	PONCT	_
-par-dessus	par-dessus	P	_
+par	par	S	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 quelques	quelque	DET	_
 maisons	maison	NC	_
 et	et	CC	_
@@ -9188,7 +9208,9 @@ mer	mer	NC	_
 voisine	voisin	ADJ	_
 .	.	PONCT	_
 De	de	P	_
-là-haut	là-haut	ADV	_
+à	à_le	P+D	_
+-	-	PONCT	_
+haut	haut	ADV	_
 ,	,	PONCT	_
 on	on	CLS	_
 voyait	voir	V	_
@@ -9912,7 +9934,7 @@ les	le	DET	_
 personnes	personne	NC	_
 ,	,	PONCT	_
 presque	presque	ADV	_
-toutes	tous	PRO	_
+toutes	tout	PRO	_
 âgées	âgé	ADJ	_
 ,	,	PONCT	_
 qui	qui	PROREL	_
@@ -10015,7 +10037,7 @@ c'est-à-dire	c'est-à-dire	CC	_
 l'	le	DET	_
 île	île	NC	_
 d'	de	P	_
-Oleron	Oleron	NP	_
+Oleron	Oléron	NP	_
 ,	,	PONCT	_
 était	être	V	_
 le	le	DET	_
@@ -10117,7 +10139,9 @@ petite	petit	ADJ	_
 ligne	ligne	NC	_
 bleuâtre	bleuâtre	ADJ	_
 ,	,	PONCT	_
-au-dessus	au-dessus	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 de	de	P	_
 cette	ce	DET	_
 autre	autre	ADJ	_
@@ -10184,7 +10208,7 @@ ville	ville	NC	_
 de	de	P	_
 Saint-Pierre-d	Saint-Pierre-d	NP	_
 '	'	PONCT	_
-Oleron	Oleron	NP	_
+Oleron	Oléron	NP	_
 ,	,	PONCT	_
 j'	je	CLS	_
 avais	avoir	V	_
@@ -10347,7 +10371,7 @@ aussi	aussi	ADV	_
 de	de	P	_
 Saint-Pierre-d	Saint-Pierre-d	NP	_
 '	'	PONCT	_
-Oleron	Oleron	NP	_
+Oleron	Oléron	NP	_
 ,	,	PONCT	_
 d'	de	P	_
 une	un	DET	_
@@ -10853,7 +10877,7 @@ des	de_le	P+D	_
 persécutions	persécution	NC	_
 religieuses	religieux	ADJ	_
 et	et	CC	_
-auquel	auquel	PROREL	_
+auquel	à_lequel	PROREL	_
 je	je	CLS	_
 portais	porter	V	_
 un	un	DET	_
@@ -11302,7 +11326,7 @@ ses	son	DET	_
 appels	appel	NC	_
 tristes	triste	ADJ	_
 ,	,	PONCT	_
-auxquels	auquel	PROREL	_
+auxquels	à_lequel	PROREL	_
 répondaient	répondre	V	_
 ,	,	PONCT	_
 du	de_le	P+D	_
@@ -11387,7 +11411,7 @@ n'	ne	ADV	_
 étaient	être	V	_
 encore	encore	ADV	_
 rien	rien	PRO	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 un	un	DET	_
 bruit	bruit	NC	_
 doux	doux	ADJ	_
@@ -11546,7 +11570,7 @@ soeur	sœur	NC	_
 ...	…	PONCT	_
 oh	oh	I	_
 !	!	PONCT	_
-Alors	Alors	ADV	_
+Alors	alors	ADV	_
 je	je	CLS	_
 me	je	CLO	_
 levai	lever	V	_
@@ -11682,7 +11706,8 @@ complète	complet	ADJ	_
 gaieté	gaieté	NC	_
 ,	,	PONCT	_
 précisément	précisément	ADV	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 ils	il	CLS	_
 étaient	être	V	_
 habituels	habituel	ADJ	_
@@ -11828,7 +11853,9 @@ l'	le	DET	_
 vient	venir	V	_
 ,	,	PONCT	_
 sortez	sortir	V	_
-au-devant	au-devant	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+devant	devant	ADV	_
 de	de	P	_
 lui	il	PRO	_
 .	.	PONCT	_
@@ -11946,7 +11973,7 @@ salon	salon	NC	_
 où	où	PROREL	_
 nous	nous	CLS	_
 étions	être	V	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 assemblés	assembler	VPP	_
 ,	,	PONCT	_
 y_compris	y_compris	P	_
@@ -13430,7 +13457,8 @@ veut	vouloir	V	_
 -	-	X	_
 non	non	I	_
 ,	,	PONCT	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 j'	je	CLS	_
 ai	avoir	V	_
 été	être	VPP	_
@@ -14143,7 +14171,7 @@ de	de	P	_
 son	son	DET	_
 lit	lit	NC	_
 ,	,	PONCT	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 ,	,	PONCT	_
 à	à	P	_
 la	le	DET	_
@@ -14254,7 +14282,7 @@ yeux	œil	NC	_
 sur	sur	P	_
 l'	le	DET	_
 aïeule	aïeule	NC	_
-mourante	mourant	ADJ	_
+mourante	mourir	ADJ	_
 et	et	CC	_
 sur	sur	P	_
 sa	son	DET	_
@@ -14309,7 +14337,9 @@ mère	mère	NC	_
 ,	,	PONCT	_
 "	"	PONCT	_
 et	et	CC	_
-au-dessous	au-dessous	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessous	dessous	ADV	_
 ,	,	PONCT	_
 une	un	DET	_
 respectueuse	respectueux	ADJ	_
@@ -14548,7 +14578,7 @@ vers	vers	P	_
 huit	huit	DET	_
 heures	heure	NC	_
 et	et	CC	_
-demie	demie	NC	_
+demie	demi	ADJ	_
 ,	,	PONCT	_
 je	je	CLS	_
 voulus	vouloir	V	_
@@ -14793,7 +14823,7 @@ ainsi	ainsi	ADV	_
 pour	pour	P	_
 les	le	DET	_
 personnes	personne	NC	_
-mourantes	mourant	ADJ	_
+mourantes	mourir	ADJ	_
 ;	;	PONCT	_
 mais	mais	CC	_
 ,	,	PONCT	_
@@ -14974,7 +15004,7 @@ partie	partir	VPP	_
 ils	il	CLS	_
 devaient	devoir	V	_
 faire	faire	VINF	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 ,	,	PONCT	_
 dès	dès	P	_
 la	le	DET	_
@@ -15324,7 +15354,8 @@ de	de	P	_
 remèdes	remède	NC	_
 .	.	PONCT	_
 Et	et	CC	_
-tandis_que	tandis_que	CS	_
+tandis	tandis	ADV	_
+que	que	CS	_
 je	je	CLS	_
 regardais	regarder	V	_
 cet	ce	DET	_
@@ -15841,7 +15872,7 @@ derrière	derrière	P	_
 des	un	DET	_
 portes	porte	NC	_
 sournoisement	sournoisement	ADV	_
-entre-bâillées	entre-bâillées	ADJ	_
+entre-bâillées	entre-bâillé	ADJ	_
 ,	,	PONCT	_
 s'	si	CS	_
 ils	il	CLS	_
@@ -16058,7 +16089,7 @@ je	je	CLS	_
 ne	ne	ADV	_
 jouais	jouer	V	_
 quelquefois	quelquefois	ADV	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 avec	avec	P	_
 des	un	DET	_
 petites	petit	ADJ	_
@@ -16357,7 +16388,7 @@ fond	fond	NC	_
 dans	dans	P	_
 un	un	DET	_
 recoin	recoin	NC	_
-charmant	charmant	ADJ	_
+charmant	charmer	ADJ	_
 ,	,	PONCT	_
 sous	sous	P	_
 un	un	DET	_
@@ -16597,9 +16628,12 @@ soleil	soleil	NC	_
 retrouvé	retrouver	VPP	_
 ,	,	PONCT	_
 -	-	PONCT	_
-tandis_que	tandis_que	CS	_
+tandis	tandis	ADV	_
+que	que	CS	_
 ,	,	PONCT	_
-au-dessus	au-dessus	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 de	de	P	_
 ma	mon	DET	_
 tête	tête	NC	_
@@ -16811,7 +16845,7 @@ le	le	DET	_
 coin	coin	NC	_
 du	de_le	P+D	_
 monde	monde	NC	_
-auquel	auquel	PROREL	_
+auquel	à_lequel	PROREL	_
 je	je	CLS	_
 reste	rester	V	_
 le	le	DET	_
@@ -17095,7 +17129,9 @@ je	je	CLS	_
 me	je	CLO	_
 suis	être	V	_
 inquiété	inquiéter	VPP	_
-par-dessus	par-dessus	P	_
+par	par	S	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 tout	tout	ADV	_
 de	de	P	_
 savoir	savoir	VINF	_
@@ -17306,7 +17342,7 @@ mur	mur	NC	_
 ,	,	PONCT	_
 comme	comme	P	_
 les	le	DET	_
-Arabes	Arabe	NC	_
+Arabe	arabe	NC	_
 leur	leur	DET	_
 plus	plus	ADV	_
 sainte	saint	ADJ	_
@@ -17378,7 +17414,8 @@ est	être	V	_
 sans	sans	P	_
 doute	doute	NC	_
 ,	,	PONCT	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 la	le	DET	_
 persistance	persistance	NC	_
 de	de	P	_
@@ -17776,7 +17813,7 @@ parentes	parente	NC	_
 de	de	P	_
 Saint-Pierre-d	Saint-Pierre-d	NP	_
 '	'	PONCT	_
-Oleron	Oleron	NP	_
+Oleron	Oléron	NP	_
 (	(	PONCT	_
 ma	mon	DET	_
 grand'	grand	ADJ	_
@@ -18066,7 +18103,7 @@ la	le	DET	_
 place	place	NC	_
 ,	,	PONCT	_
 chez	chez	P	_
-M.	M.	NC	_
+M.	monsieur	NC	_
 Le	le	DET	_
 maire	maire	NC	_
 .	.	PONCT	_
@@ -18074,7 +18111,7 @@ Car	car	CC	_
 la	le	DET	_
 maison	maison	NC	_
 de	de	P	_
-M.	M.	NC	_
+M.	monsieur	NC	_
 Le	le	DET	_
 maire	maire	NC	_
 avait	avoir	V	_
@@ -18269,7 +18306,7 @@ simplement	simplement	ADV	_
 la	le	DET	_
 douzaine	douzaine	NC	_
 ,	,	PONCT	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 bruns	brun	ADJ	_
 et	et	CC	_
 hâlés	hâler	VPP	_
@@ -19048,7 +19085,7 @@ enfant	enfant	NC	_
 "	"	PONCT	_
 oh	oh	I	_
 !	!	PONCT	_
-Mon	Mon	V	_
+Mon	mon	V	_
 dieu	dieu	NC	_
 ,	,	PONCT	_
 rien	rien	PRO	_
@@ -19119,7 +19156,8 @@ sauvages	sauvage	ADJ	_
 aimées	aimer	VPP	_
 peut-être	peut-être	ADV	_
 précisément	précisément	ADV	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 elles	il	CLS	_
 étaient	être	V	_
 ainsi	ainsi	ADV	_
@@ -19916,7 +19954,7 @@ Et	et	CC	_
 en	en	P	_
 général	général	NC	_
 ,	,	PONCT	_
-M.	M.	NC	_
+M.	monsieur	NC	_
 Ratin	Ratin	NP	_
 écrivait	écrire	V	_
 bien	bien	ADV	_
@@ -20118,7 +20156,7 @@ les	le	DET	_
 camarades	camarade	NC	_
 à	à	P	_
 lui	il	PRO	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 on	on	CLS	_
 risquait	risquer	V	_
 d'	de	P	_
@@ -20482,13 +20520,15 @@ palmier	palmier	NC	_
 ;	;	PONCT	_
 on	on	CLS	_
 lisait	lire	V	_
-au-dessous	au-dessous	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessous	dessous	ADV	_
 :	:	PONCT	_
 "	"	PONCT	_
 portrait	portrait	NC	_
 de	de	P	_
 S.	S.	NP	_
-M.	M.	NC	_
+M.	monsieur	NC	_
 Pomaré	Pomaré_IV	NP	_
 IV	_
 ,	,	PONCT	_
@@ -20554,7 +20594,7 @@ fermées	fermer	VPP	_
 ,	,	PONCT	_
 nous	nous	CLS	_
 étions	être	V	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 dans	dans	P	_
 le	le	DET	_
 salon	salon	NC	_
@@ -20718,7 +20758,8 @@ sa	son	DET	_
 chambre	chambre	NC	_
 ,	,	PONCT	_
 et	et	CC	_
-quant_aux	quant_à_le	P+D	_
+quant	quant	ADV	_
+aux	à_le	P+D	_
 différentes	différent	ADJ	_
 petites	petit	ADJ	_
 choses	chose	NC	_
@@ -20758,7 +20799,8 @@ environ	environ	ADV	_
 cinq	cinq	DET	_
 mois	mois	NC	_
 .	.	PONCT	_
-Quant_à	quant_à	P	_
+Quant	quant	ADV	_
+à	à	P	_
 son	son	DET	_
 retour	retour	NC	_
 ,	,	PONCT	_
@@ -20766,7 +20808,7 @@ il	il	CLS	_
 ne	ne	ADV	_
 m'	je	CLO	_
 apparaissait	apparaître	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 au	à_le	P+D	_
 fond	fond	NC	_
 d'	de	P	_
@@ -21418,7 +21460,7 @@ impatience	impatience	NC	_
 ces	ce	DET	_
 petits	petit	ADJ	_
 jeux	jeu	NC	_
-auxquels	auquel	PROREL	_
+auxquels	à_lequel	PROREL	_
 on	on	CLS	_
 allait	aller	V	_
 jouer	jouer	VINF	_
@@ -21506,7 +21548,9 @@ ma	mon	DET	_
 course	course	NC	_
 pour	pour	P	_
 aller	aller	VINF	_
-au-devant	au-devant	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+devant	devant	ADV	_
 d'	de	P	_
 eux	il	PRO	_
 à	à	P	_
@@ -21706,7 +21750,7 @@ rapidement	rapidement	ADV	_
 ,	,	PONCT	_
 car	car	CC	_
 la	le	DET	_
-chanteuse	chanteuse	NC	_
+chanteuse	chanteur	NC	_
 trottait	trotter	V	_
 ,	,	PONCT	_
 trottait	trotter	V	_
@@ -21816,7 +21860,7 @@ la	le	DET	_
 bonne	bon	ADJ	_
 vieille	vieille	NC	_
 ,	,	PONCT	_
-fière	fière	NC	_
+fière	fier	NC	_
 d'	de	P	_
 être	être	VINF	_
 appelée	appeler	VPP	_
@@ -21844,7 +21888,8 @@ blanches	blanc	ADJ	_
 .	.	PONCT	_
 Puis	puis	CC	_
 ,	,	PONCT	_
-tandis_qu'	tandis_que	CS	_
+tandis	tandis	ADV	_
+qu'	que	CS	_
 elle	il	CLS	_
 découvrait	découvrir	V	_
 son	son	DET	_
@@ -21916,7 +21961,8 @@ et	et	CC	_
 confortable	confortable	ADJ	_
 ,	,	PONCT	_
 -	-	PONCT	_
-tandis_que	tandis_que	CS	_
+tandis	tandis	ADV	_
+que	que	CS	_
 le	le	DET	_
 refrain	refrain	NC	_
 monotone	monotone	ADJ	_
@@ -22281,7 +22327,7 @@ captif	captif	ADJ	_
 neuf	neuf	DET	_
 heures	heure	NC	_
 et	et	CC	_
-demie	demie	NC	_
+demie	demi	ADJ	_
 ,	,	PONCT	_
 rarement	rarement	ADV	_
 plus	plus	ADV	_
@@ -22376,7 +22422,7 @@ avait	avoir	V	_
 la	le	DET	_
 perspective	perspective	NC	_
 de	de	P	_
-M.	M.	NC	_
+M.	monsieur	NC	_
 Ratin	Ratin	NP	_
 ,	,	PONCT	_
 qui	qui	PROREL	_
@@ -22652,7 +22698,7 @@ de	de	P	_
 l'	le	DET	_
 île	île	NC	_
 d'	de	P	_
-Oleron	Oleron	NP	_
+Oleron	Oléron	NP	_
 où	où	PROREL	_
 je	je	CLS	_
 les	il	CLO	_
@@ -22707,7 +22753,9 @@ d'	de	P	_
 août	août	NC	_
 .	.	PONCT	_
 -	-	PONCT	_
-au-dessus	au-dessus	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 des	de_le	P+D	_
 "	"	PONCT	_
 gleux	gleux	ADJ	_
@@ -22784,7 +22832,7 @@ regret	regret	NC	_
 des	de_le	P+D	_
 champs	champ	NC	_
 d'	de	P	_
-Oleron	Oleron	NP	_
+Oleron	Oléron	NP	_
 ,	,	PONCT	_
 chauffés	chauffer	VPP	_
 au	à_le	P+D	_
@@ -23137,10 +23185,10 @@ Jéhovah	Jéhovah	NP	_
 CHAPITRE	chapitre	NC	_
 XXV	XXV	ADJ	_
 L'	le	DET	_
-égypte	égypte	NC	_
+égypte	Égypte	NC	_
 ,	,	PONCT	_
 l'	le	DET	_
-égypte	égypte	NC	_
+égypte	Égypte	NC	_
 antique	antique	ADJ	_
 ,	,	PONCT	_
 appelée	appeler	VPP	_
@@ -23310,7 +23358,8 @@ bonshommes	bonhomme	NC	_
 vint	venir	V	_
 ensuite	ensuite	ADV	_
 .	.	PONCT	_
-Quant_à	quant_à	P	_
+Quant	quant	ADV	_
+à	à	P	_
 ces	ce	DET	_
 deux	deux	ADJ	_
 jeunes	jeune	ADJ	_
@@ -23409,7 +23458,7 @@ j'	je	CLS	_
 arriverais	arriver	V	_
 à	à	P	_
 trouver	trouver	VINF	_
-charmants	charmant	ADJ	_
+charmants	charmer	ADJ	_
 dans	dans	P	_
 la	le	DET	_
 suite	suite	NC	_
@@ -23506,7 +23555,9 @@ longtemps	longtemps	ADV	_
 .	.	PONCT	_
 Un	un	DET	_
 peu	peu	NC	_
-au-dessus	au-dessus	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 de	de	P	_
 la	le	DET	_
 chambre	chambre	NC	_
@@ -23965,7 +24016,7 @@ histoire	histoire	NC	_
 naturelle	naturel	ADJ	_
 ne	ne	ADV	_
 représentait	représenter	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 une	un	DET	_
 déviation	déviation	NC	_
 passagère	passager	ADJ	_
@@ -24024,7 +24075,7 @@ nature	nature	NC	_
 elle	il	PRO	_
 -même	même	ADJ	_
 ,	,	PONCT	_
-effrayante	effrayant	ADJ	_
+effrayante	effrayer	ADJ	_
 ,	,	PONCT	_
 et	et	CC	_
 aux	à_le	P+D	_
@@ -24189,7 +24240,9 @@ travail	travail	NC	_
 ,	,	PONCT	_
 et	et	CC	_
 ,	,	PONCT	_
-au-dessus	au-dessus	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 ,	,	PONCT	_
 ma	mon	DET	_
 bibliothèque	bibliothèque	NC	_
@@ -24274,7 +24327,7 @@ rares	rare	ADJ	_
 passants	passant	NC	_
 ,	,	PONCT	_
 bientôt	bientôt	ADV	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 connus	connaître	VPP	_
 de	de	P	_
 visage	visage	NC	_
@@ -24331,7 +24384,8 @@ de	de	P	_
 moineau	moineau	NC	_
 prisonnier	prisonnier	ADJ	_
 ,	,	PONCT	_
-tandis_que	tandis_que	CS	_
+tandis	tandis	ADV	_
+que	que	CS	_
 mon	mon	DET	_
 cahier	cahier	NC	_
 taché	tacher	VPP	_
@@ -24848,7 +24902,7 @@ ni	ni	CC	_
 effroi	effroi	NC	_
 ;	;	PONCT	_
 comme	comme	P	_
-M.	M.	NC	_
+M.	monsieur	NC	_
 Ratin	Ratin	NP	_
 ,	,	PONCT	_
 elle	il	CLS	_
@@ -25274,7 +25328,7 @@ de	de	P	_
 l'	le	DET	_
 île	île	NC	_
 d'	de	P	_
-Oleron	Oleron	NP	_
+Oleron	Oléron	NP	_
 .	.	PONCT	_
 Ils	il	CLS	_
 étaient	être	V	_
@@ -25995,7 +26049,7 @@ temple	temple	NC	_
 de	de	P	_
 Saint-pierre	Saint-pierre	NP	_
 d'	de	P	_
-Oleron	Oleron	NP	_
+Oleron	Oléron	NP	_
 ;	;	PONCT	_
 mon	mon	DET	_
 aïeul	aïeul	NC	_
@@ -26251,7 +26305,7 @@ dans	dans	P	_
 l'	le	DET	_
 île	île	NC	_
 d'	de	P	_
-Oleron	Oleron	NP	_
+Oleron	Oléron	NP	_
 ,	,	PONCT	_
 par	par	P	_
 exemple	exemple	NC	_
@@ -26260,7 +26314,7 @@ Dans	dans	P	_
 l'	le	DET	_
 île	île	NC	_
 d'	de	P	_
-Oleron	Oleron	NP	_
+Oleron	Oléron	NP	_
 ,	,	PONCT	_
 oui	oui	I	_
 ,	,	PONCT	_
@@ -26619,7 +26673,8 @@ mettre	mettre	VINF	_
 au	à_le	P+D	_
 collège	collège	NC	_
 ,	,	PONCT	_
-afin_de	afin_de	P	_
+afin	afin	ADV	_
+de	de	P	_
 m'	je	CLO	_
 habituer	habituer	VINF	_
 aux	à_le	P+D	_
@@ -26630,7 +26685,8 @@ monde	monde	NC	_
 ,	,	PONCT	_
 et	et	CC	_
 ,	,	PONCT	_
-tandis_que	tandis_que	CS	_
+tandis	tandis	ADV	_
+que	que	CS	_
 cette	ce	DET	_
 question	question	NC	_
 s'	se	CLO	_
@@ -26717,7 +26773,7 @@ je	je	CLS	_
 fus	être	V	_
 délivré	délivrer	VPP	_
 de	de	P	_
-M.	M.	NC	_
+M.	monsieur	NC	_
 Ratin	Ratin	NP	_
 .	.	PONCT	_
 Un	un	DET	_
@@ -27194,7 +27250,9 @@ de	de	P	_
 vraie	vrai	ADJ	_
 campagne	campagne	NC	_
 ;	;	PONCT	_
-par-dessus	par-dessus	P	_
+par	par	S	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 les	le	DET	_
 vieux	vieux	ADJ	_
 murs	mur	NC	_
@@ -27420,7 +27478,7 @@ ne	ne	ADV	_
 sautait	sauter	V	_
 sur	sur	P	_
 moi	je	PRO	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 après	après	P	_
 m'	je	CLO	_
 avoir	avoir	VINF	_
@@ -27910,7 +27968,9 @@ tout	tout	ADV	_
 de	de	P	_
 suite	suite	NC	_
 rendu	rendre	VPP	_
-là-haut	là-haut	ADV	_
+à	à_le	P+D	_
+-	-	PONCT	_
+haut	haut	ADV	_
 ,	,	PONCT	_
 pour	pour	P	_
 m'	je	CLO	_
@@ -28176,7 +28236,7 @@ me	je	CLO	_
 tenir	tenir	VINF	_
 compagnie	compagnie	NC	_
 .	.	PONCT	_
-étonnée	étonné	ADJ	_
+étonnée	étonner	ADJ	_
 de	de	P	_
 ma	mon	DET	_
 demande	demande	NC	_
@@ -28192,7 +28252,7 @@ ce	ce	DET	_
 sanctuaire	sanctuaire	NC	_
 )	)	PONCT	_
 ,	,	PONCT	_
-étonnée	étonné	ADJ	_
+étonnée	étonner	ADJ	_
 surtout	surtout	ADV	_
 de	de	P	_
 mon	mon	DET	_
@@ -28255,7 +28315,7 @@ main	main	NC	_
 .	.	PONCT	_
 Oh	oh	I	_
 !	!	PONCT	_
-Alors	Alors	ADV	_
+Alors	alors	ADV	_
 ,	,	PONCT	_
 rasséréné	rasséréner	VPP	_
 ,	,	PONCT	_
@@ -28302,7 +28362,8 @@ ma	mon	DET	_
 petite	petit	ADJ	_
 fenêtre	fenêtre	NC	_
 ,	,	PONCT	_
-tandis_que	tandis_que	CS	_
+tandis	tandis	ADV	_
+que	que	CS	_
 baissait	baisser	V	_
 le	le	DET	_
 jour	jour	NC	_
@@ -29006,7 +29067,7 @@ elle	il	CLS	_
 n'	ne	ADV	_
 était	être	V	_
 guère	guère	ADV	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 à	à	P	_
 cinq	cinq	DET	_
 ou	ou	CC	_
@@ -29201,7 +29262,7 @@ portes	porte	NC	_
 une	un	DET	_
 porte	porte	NC	_
 assez	assez	ADV	_
-abandonnée	abandonnée	ADJ	_
+abandonnée	abandonné	ADJ	_
 ,	,	PONCT	_
 où	où	PROREL	_
 ne	ne	ADV	_
@@ -29297,7 +29358,7 @@ de	de	P	_
 convention	convention	NC	_
 ,	,	PONCT	_
 et	et	CC	_
-auxquels	auquel	PROREL	_
+auxquels	à_lequel	PROREL	_
 il	il	CLS	_
 faut	falloir	V	_
 absolument	absolument	ADV	_
@@ -29496,7 +29557,8 @@ le	le	DET	_
 plus	plus	NC	_
 ,	,	PONCT	_
 probablement	probablement	ADV	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 beaucoup	beaucoup	PRO	_
 de	de	P	_
 mes	mon	DET	_
@@ -29686,7 +29748,7 @@ je	je	CLS	_
 n'	ne	ADV	_
 ai	avoir	V	_
 réussi	réussir	VPP	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 à	à	P	_
 en	en	CLO	_
 fatiguer	fatiguer	VINF	_
@@ -30120,7 +30182,8 @@ que	que	CS	_
 de	de	P	_
 coutume	coutume	NC	_
 ,	,	PONCT	_
-tandis_que	tandis_que	CS	_
+tandis	tandis	ADV	_
+que	que	CS	_
 s'	se	CLO	_
 enfonçait	enfoncer	V	_
 son	son	DET	_
@@ -30219,7 +30282,7 @@ relative	relatif	ADJ	_
 Ils	il	CLS	_
 n'	ne	ADV	_
 étaient	être	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 une	un	DET	_
 sorte	sorte	NC	_
 de	de	P	_
@@ -30450,7 +30513,7 @@ heure	heure	NC	_
 à	à	P	_
 la	le	DET	_
 lumière	lumière	NC	_
-mourante	mourant	ADJ	_
+mourante	mourir	ADJ	_
 ,	,	PONCT	_
 à	à	P	_
 la	le	DET	_
@@ -30812,7 +30875,8 @@ des	de_le	P+D	_
 bois	bois	NC	_
 .	.	PONCT	_
 Et	et	CC	_
-tandis_qu'	tandis_que	CS	_
+tandis	tandis	ADV	_
+qu'	que	CS	_
 on	on	CLS	_
 était	être	V	_
 là	là	ADV	_
@@ -31305,7 +31369,7 @@ J'	je	CLS	_
 ai	avoir	V	_
 un	un	DET	_
 souvenir	souvenir	NC	_
-effrayant	effrayant	ADJ	_
+effrayant	effrayer	ADJ	_
 et	et	CC	_
 magnifique	magnifique	ADJ	_
 de	de	P	_
@@ -31507,7 +31571,7 @@ tout	tout	ADV	_
 fait	fait	NC	_
 mignonne	mignon	ADJ	_
 et	et	CC	_
-charmante	charmant	ADJ	_
+charmante	charmer	ADJ	_
 sur	sur	P	_
 ses	son	DET	_
 huit	huit	NC	_
@@ -32505,7 +32569,7 @@ monde	monde	NC	_
 on	on	CLS	_
 avait	avoir	V	_
 déjà	déjà	ADV	_
-complétement	complétement	ADV	_
+complétement	complètement	ADV	_
 cessé	cesser	VPP	_
 de	de	P	_
 parler	parler	VINF	_
@@ -33087,7 +33151,7 @@ petite	petit	ADJ	_
 procession	procession	NC	_
 d'	de	P	_
 enfants	enfant	NC	_
-abandonnées	abandonnées	ADJ	_
+abandonnées	abandonner	ADJ	_
 avait	avoir	V	_
 achevé	achever	VPP	_
 de	de	P	_
@@ -33270,7 +33334,8 @@ automnes	automne	NC	_
 ,	,	PONCT	_
 sans	sans	P	_
 doute	doute	NC	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 elles	il	CLS	_
 sont	être	V	_
 un	un	DET	_
@@ -33354,11 +33419,12 @@ des	un	DET	_
 lis	li	NC	_
 qui	qui	PROREL	_
 étaient	être	V	_
-charmants	charmant	ADJ	_
+charmants	charmer	ADJ	_
 ,	,	PONCT	_
 et	et	CC	_
 ,	,	PONCT	_
-tandis_qu'	tandis_que	CS	_
+tandis	tandis	ADV	_
+qu'	que	CS	_
 elle	il	CLS	_
 se	se	CLO	_
 penchait	pencher	V	_
@@ -34114,7 +34180,8 @@ lire	lire	VINF	_
 le	le	DET	_
 grec	grec	NC	_
 ,	,	PONCT	_
-afin_de	afin_de	P	_
+afin	afin	ADV	_
+de	de	P	_
 m'	je	CLO	_
 aider	aider	VINF	_
 à	à	P	_
@@ -35379,7 +35446,8 @@ que	que	CS	_
 de	de	P	_
 coutume	coutume	NC	_
 ,	,	PONCT	_
-afin_d'	afin_de	P	_
+afin	afin	ADV	_
+d'	de	P	_
 être	être	VINF	_
 sûr	sûr	ADJ	_
 que	que	CS	_
@@ -35651,7 +35719,7 @@ et	et	CC	_
 ils	il	CLS	_
 se	se	CLO	_
 mirent	mettre	V	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 à	à	P	_
 rire	rire	NC	_
 .	.	PONCT	_
@@ -35713,7 +35781,7 @@ par	par	P	_
 de	un	DET	_
 pauvres	pauvre	ADJ	_
 gens	gens	NC	_
-ignorants	ignorant	ADJ	_
+ignorants	ignorer	ADJ	_
 des	de_le	P+D	_
 causes	cause	NC	_
 ;	;	PONCT	_
@@ -35727,7 +35795,8 @@ en	en	CLO	_
 avoir	avoir	VINF	_
 souffert	souffrir	VPP	_
 .	.	PONCT	_
-Tandis_que	tandis_que	CS	_
+Tandis	tandis	ADV	_
+que	que	CS	_
 cette	ce	DET	_
 scène	scène	NC	_
 !	!	PONCT	_
@@ -35931,7 +36000,7 @@ inconnus	inconnu	ADJ	_
 -	-	X	_
 oh	oh	I	_
 !	!	PONCT	_
-Mais	Mais	ADV	_
+Mais	mais	ADV	_
 ça	ça	PRO	_
 ?	?	PONCT	_
 ...	…	PONCT	_
@@ -36031,7 +36100,8 @@ splendide	splendide	ADJ	_
 qui	qui	PROREL	_
 survint	survenir	V	_
 ,	,	PONCT	_
-tandis_que	tandis_que	CS	_
+tandis	tandis	ADV	_
+que	que	CS	_
 nous	nous	CLS	_
 étions	être	V	_
 accoudés	accouder	VPP	_
@@ -36259,7 +36329,7 @@ grandes	grand	ADJ	_
 buires	buire	NC	_
 de	de	P	_
 cuivre	cuivre	NC	_
-brillant	brillant	ADJ	_
+brillant	briller	ADJ	_
 .	.	PONCT	_
 Toute	tout	ADJ	_
 mon	mon	DET	_
@@ -36603,7 +36673,7 @@ nous	nous	CLS	_
 allâmes	aller	V	_
 nous	nous	CLO	_
 asseoir	asseoir	VINF	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 ensemble	ensemble	ADV	_
 au	à_le	P+D	_
 bord	bord	NC	_
@@ -37316,8 +37386,8 @@ gentiment	gentiment	ADV	_
 ils	il	CLS	_
 ne	ne	ADV	_
 songeaient	songer	V	_
-tous	tous	PRO	_
-qu'	qu'	ADV	_
+tous	tout	PRO	_
+qu'	que	ADV	_
 à	à	P	_
 me	je	CLO	_
 faire	faire	VINF	_
@@ -37748,7 +37818,7 @@ odeur	odeur	NC	_
 ;	;	PONCT	_
 et	et	CC	_
 des	un	DET	_
-abeilles	abeilles	NC	_
+abeilles	abeille	NC	_
 ,	,	PONCT	_
 des	un	DET	_
 guêpes	guêpe	NC	_
@@ -37815,7 +37885,7 @@ par	par	P	_
 les	le	DET	_
 mêmes	même	NC	_
 bourdonnantes	bourdonnant	ADJ	_
-abeilles	abeilles	NC	_
+abeilles	abeille	NC	_
 .	.	PONCT	_
 On	on	CLS	_
 voyait	voir	V	_
@@ -38100,7 +38170,7 @@ de	de	P	_
 mouches	mouche	NC	_
 et	et	CC	_
 d'	de	P	_
-abeilles	abeilles	NC	_
+abeilles	abeille	NC	_
 .	.	PONCT	_
 Et	et	CC	_
 tout	tout	ADJ	_
@@ -38343,7 +38413,9 @@ muscats	muscat	NC	_
 puis	puis	CC	_
 se	se	CLO	_
 sauvaient	sauver	V	_
-par-dessus	par-dessus	P	_
+par	par	S	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 le	le	DET	_
 mur	mur	NC	_
 ;	;	PONCT	_
@@ -38609,7 +38681,9 @@ passant	passer	VPR	_
 sa	son	DET	_
 tête	tête	NC	_
 lointaine	lointain	ADJ	_
-au-dessus	au-dessus	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 des	de_le	P+D	_
 murs	mur	NC	_
 d'	de	P	_
@@ -38691,7 +38765,7 @@ l'	le	DET	_
 oeil	œil	NC	_
 ,	,	PONCT	_
 très	très	ADV	_
-étonné	étonné	ADJ	_
+étonné	étonner	ADJ	_
 et	et	CC	_
 attiré	attirer	VPP	_
 par	par	P	_
@@ -38779,7 +38853,7 @@ ces	ce	DET	_
 jours	jour	NC	_
 -là	là	ADV	_
 .	.	PONCT	_
-Tous	tous	PRO	_
+Tous	tout	PRO	_
 ensemble	ensemble	ADV	_
 ,	,	PONCT	_
 on	on	CLS	_
@@ -38872,7 +38946,7 @@ se	se	CLO	_
 rendent	rendre	V	_
 à	à	P	_
 des	un	DET	_
-abbayes	abbayes	NC	_
+abbayes	abbaye	NC	_
 solitaires	solitaire	ADJ	_
 sur	sur	P	_
 des	un	DET	_
@@ -39525,7 +39599,7 @@ rouges	rouge	ADJ	_
 de	de	P	_
 ces	ce	DET	_
 ruines	ruine	NC	_
-abandonnées	abandonnées	ADJ	_
+abandonnées	abandonner	ADJ	_
 .	.	PONCT	_
 Et	et	CC	_
 ,	,	PONCT	_
@@ -39575,7 +39649,7 @@ bien	bien	ADV	_
 dans	dans	P	_
 son	son	DET	_
 site	site	NC	_
-charmant	charmant	ADJ	_
+charmant	charmer	ADJ	_
 ,	,	PONCT	_
 un	un	PRO	_
 des	de_le	P+D	_
@@ -39589,7 +39663,7 @@ féodale	féodal	ADJ	_
 ...	…	PONCT	_
 oh	oh	I	_
 !	!	PONCT	_
-Dans	Dans	V	_
+Dans	dans	V	_
 une	un	DET	_
 tour	tour	NC	_
 ,	,	PONCT	_
@@ -40291,7 +40365,9 @@ dans	dans	P	_
 le	le	DET	_
 vide	vide	NC	_
 ;	;	PONCT	_
-au-dessous	au-dessous	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessous	dessous	ADV	_
 de	de	P	_
 moi	je	PRO	_
 fuyaient	fuir	V	_
@@ -40804,7 +40880,7 @@ elles	il	CLS	_
 étaient	être	V	_
 étranges	étrange	ADJ	_
 et	et	CC	_
-charmantes	charmant	ADJ	_
+charmantes	charmer	ADJ	_
 pour	pour	P	_
 moi	je	PRO	_
 ,	,	PONCT	_
@@ -40818,7 +40894,7 @@ cailloux	caillou	NC	_
 noirs	noir	ADJ	_
 comme	comme	P	_
 en	en	P	_
-Orient	Orient	NC	_
+Orient	orient	NC	_
 ,	,	PONCT	_
 et	et	CC	_
 bordées	border	VPP	_
@@ -41224,7 +41300,9 @@ nous	nous	CLS	_
 gonflions	gonfler	V	_
 en	en	P	_
 brûlant	brûler	VPR	_
-au-dessous	au-dessous	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessous	dessous	ADV	_
 des	un	DET	_
 gerbes	gerbe	NC	_
 de	de	P	_
@@ -41786,7 +41864,7 @@ d'	de	P	_
 enfants	enfant	NC	_
 qui	qui	PROREL	_
 parlaient	parler	V	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 à	à	P	_
 la	le	DET	_
 fois	fois	NC	_
@@ -43048,7 +43126,7 @@ de	de	P	_
 dix	dix	DET	_
 heures	heure	NC	_
 et	et	CC	_
-demie	demie	NC	_
+demie	demi	ADJ	_
 ,	,	PONCT	_
 pendant	pendant	P	_
 au	à_le	P+D	_
@@ -43179,7 +43257,7 @@ la	le	DET	_
 mienne	mien	NC	_
 .	.	PONCT	_
 Presque	presque	ADV	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 plus	plus	ADV	_
 âgés	âgé	ADJ	_
 et	et	CC	_
@@ -43295,7 +43373,8 @@ avec	avec	P	_
 des	un	DET	_
 égaux	égal	NC	_
 .	.	PONCT	_
-Tandis_que	tandis_que	CS	_
+Tandis	tandis	ADV	_
+que	que	CS	_
 j'	je	CLS	_
 étais	être	V	_
 fier	fier	VINF	_
@@ -43344,12 +43423,15 @@ on	on	CLS	_
 n'	ne	ADV	_
 est	être	V	_
 pas	pas	ADV	_
-au-dessus	au-dessus	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 de	de	P	_
 ses	son	DET	_
 semblables	semblable	NC	_
 ,	,	PONCT	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 -	-	PONCT	_
 pour	pour	P	_
 son	son	DET	_
@@ -43577,7 +43659,8 @@ n'	ne	ADV	_
 aboutissait	aboutir	V	_
 complètement	complètement	ADV	_
 ,	,	PONCT	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 nous	nous	CLS	_
 ne	ne	ADV	_
 savions	savoir	V	_
@@ -43659,7 +43742,7 @@ collège	collège	NC	_
 et	et	CC	_
 qui	qui	PROREL	_
 avaient	avoir	V	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 des	un	DET	_
 surnoms	surnom	NC	_
 -les	il	CLO	_
@@ -44863,7 +44946,7 @@ reste	reste	NC	_
 nous	nous	CLO	_
 y	y	CLO	_
 allions	aller	V	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 ensemble	ensemble	ADV	_
 .	.	PONCT	_
 Je	je	CLS	_
@@ -44998,7 +45081,8 @@ un	un	DET	_
 vrai	vrai	ADJ	_
 recueillement	recueillement	NC	_
 religieux	religieux	ADJ	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 alors	alors	ADV	_
 les	le	DET	_
 voix	voix	NC	_
@@ -46372,7 +46456,7 @@ en	en	P	_
 fausset	fausset	NC	_
 plaintif	plaintif	ADJ	_
 des	de_le	P+D	_
-Arabes	Arabe	NC	_
+Arabe	arabe	NC	_
 et	et	CC	_
 les	le	DET	_
 blancheurs	blancheur	NC	_
@@ -46425,7 +46509,7 @@ une	un	DET	_
 sorte	sorte	NC	_
 de	de	P	_
 gris-gris	gri-gri	NC	_
-auquel	auquel	PROREL	_
+auquel	à_lequel	PROREL	_
 je	je	CLS	_
 tiens	tenir	V	_
 beaucoup	beaucoup	ADV	_
@@ -46455,7 +46539,7 @@ ambassade	ambassade	NC	_
 quelque	quelque	DET	_
 part	part	NC	_
 en	en	P	_
-Orient	Orient	NC	_
+Orient	orient	NC	_
 ,	,	PONCT	_
 -	-	PONCT	_
 s'	si	CS	_
@@ -47127,7 +47211,7 @@ je	je	CLS	_
 les	il	CLO	_
 retrouvai	retrouver	V	_
 là	là	ADV	_
-toutes	tous	PRO	_
+toutes	tout	PRO	_
 ,	,	PONCT	_
 dans	dans	P	_
 leur	leur	DET	_
@@ -47386,7 +47470,7 @@ exotiques	exotique	ADJ	_
 des	un	DET	_
 palais	palais	NC	_
 d'	de	P	_
-Orient	Orient	NC	_
+Orient	orient	NC	_
 nacrés	nacré	ADJ	_
 et	et	CC	_
 dorés	doré	ADJ	_
@@ -47696,7 +47780,9 @@ ce	ce	PRO	_
 qu'	que	PROREL	_
 il	il	CLS	_
 glissait	glisser	V	_
-là-dedans	là-dedans	ADV	_
+là	là	ADV	_
+-	-	PONCT	_
+dedans	dedans	ADV	_
 de	de	P	_
 jolies	joli	ADJ	_
 choses	chose	NC	_
@@ -47789,7 +47875,8 @@ banalités	banalité	NC	_
 courantes	courant	ADJ	_
 ,	,	PONCT	_
 et	et	CC	_
-quant_à	quant_à	P	_
+quant	quant	ADV	_
+à	à	P	_
 mettre	mettre	VINF	_
 des	un	DET	_
 choses	chose	NC	_
@@ -47919,7 +48006,7 @@ espèces	espèce	NC	_
 de	de	P	_
 sphinx	sphinx	NC	_
 d'	de	P	_
-égypte	égypte	NC	_
+égypte	Égypte	NC	_
 ,	,	PONCT	_
 à	à	P	_
 l'	le	DET	_
@@ -48258,7 +48345,9 @@ essayer	essayer	VINF	_
 de	de	P	_
 prolonger	prolonger	VINF	_
 ,	,	PONCT	_
-au-delà	au-delà	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+delà	delà	ADV	_
 de	de	P	_
 ma	mon	DET	_
 propre	propre	ADJ	_
@@ -48557,7 +48646,9 @@ et	et	CC	_
 ils	il	CLS	_
 retiraient	retirer	V	_
 de	de	P	_
-là-dedans	là-dedans	ADV	_
+là	là	ADV	_
+-	-	PONCT	_
+dedans	dedans	ADV	_
 des	un	DET	_
 objets	objet	NC	_
 d'	de	P	_
@@ -48995,7 +49086,7 @@ collège	collège	NC	_
 quatre	quatre	DET	_
 heures	heure	NC	_
 et	et	CC	_
-demie	demie	NC	_
+demie	demi	ADJ	_
 et	et	CC	_
 nous	nous	CLS	_
 partions	partir	V	_
@@ -49680,7 +49771,7 @@ longs	long	ADJ	_
 crépuscules	crépuscule	NC	_
 tièdes	tiède	ADJ	_
 et	et	CC	_
-charmants	charmant	ADJ	_
+charmants	charmer	ADJ	_
 .	.	PONCT	_
 C'	ce	CLS	_
 est	être	V	_
@@ -49755,7 +49846,7 @@ par	par	P	_
 tous	tout	ADJ	_
 les	le	DET	_
 petits	petit	NC	_
-auxquels	auquel	PROREL	_
+auxquels	à_lequel	PROREL	_
 on	on	CLS	_
 aura	avoir	V	_
 l'	le	DET	_
@@ -49908,7 +49999,7 @@ pavés	pavé	NC	_
 .	.	PONCT	_
 Un	un	DET	_
 anneau	anneau	NC	_
-auquel	auquel	PROREL	_
+auquel	à_lequel	PROREL	_
 il	il	CLS	_
 était	être	V	_
 suspendu	suspendre	VPP	_
@@ -50146,7 +50237,9 @@ pu	pouvoir	VPP	_
 fermer	fermer	VINF	_
 les	le	DET	_
 yeux	œil	NC	_
-là-dessus	là-dessus	ADV	_
+là	là	ADV	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 ,	,	PONCT	_
 tolérer	tolérer	VINF	_
 même	même	ADV	_
@@ -50445,7 +50538,9 @@ savoir	savoir	VINF	_
 présent	présent	NC	_
 ,	,	PONCT	_
 qu'	que	CS	_
-au-delà	au-delà	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+delà	delà	ADV	_
 se	se	CLO	_
 trouvaient	trouver	V	_
 ,	,	PONCT	_
@@ -50665,8 +50760,9 @@ troncs	tronc	NC	_
 élancés	élancer	VPP	_
 ;	;	PONCT	_
 et	et	CC	_
-là-dessous	là-dessous	ADV	_
-,	,	PONCT	_
+là	là	ADV	_
+-	-	PONCT	_
+dessous	dessous	ADV	_,	,	PONCT	_
 aucune	aucun	DET	_
 broussaille	broussaille	NC	_
 ,	,	PONCT	_
@@ -50968,7 +51064,8 @@ route	route	NC	_
 faite	faire	VPP	_
 ,	,	PONCT	_
 "	"	PONCT	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 le	le	DET	_
 tombeau	tombeau	NC	_
 de	de	P	_
@@ -51193,7 +51290,8 @@ soir	soir	NC	_
 la	le	DET	_
 Limoise	Limoise	NP	_
 ,	,	PONCT	_
-tandis_qu'	tandis_que	CS	_
+tandis	tandis	ADV	_
+qu'	que	CS	_
 arrivait	arriver	V	_
 l'	le	DET	_
 heure	heure	NC	_
@@ -51629,7 +51727,7 @@ de	de	P	_
 choses	chose	NC	_
 devaient	devoir	V	_
 être	être	VINF	_
-charmantes	charmant	ADJ	_
+charmantes	charmer	ADJ	_
 !	!	PONCT	_
 Je	je	CLS	_
 ne	ne	ADV	_
@@ -52730,7 +52828,8 @@ donner	donner	VINF	_
 cet	ce	DET	_
 étranger	étranger	NC	_
 ,	,	PONCT	_
-afin_qu'	afin_que	CS	_
+afin	afin	ADV	_
+qu'	que	CS	_
 elle	il	CLS	_
 eût	avoir	V	_
 encore	encore	ADV	_
@@ -53208,7 +53307,7 @@ Après	après	P	_
 ces	ce	DET	_
 deux	deux	ADJ	_
 mois	mois	NC	_
-charmants	charmant	ADJ	_
+charmants	charmer	ADJ	_
 ,	,	PONCT	_
 la	le	DET	_
 pénible	pénible	ADJ	_
@@ -53940,7 +54039,7 @@ au	à_le	P+D	_
 fond	fond	NC	_
 de	de	P	_
 laquelle	il	PROREL	_
-toutes	tous	PRO	_
+toutes	tout	PRO	_
 venaient	venir	V	_
 infailliblement	infailliblement	ADV	_
 trouver	trouver	VINF	_
@@ -54044,7 +54143,7 @@ madame	madame	NC	_
 Jeanne	Jeanne	NP	_
 ,	,	PONCT	_
 mon	mon	DET	_
-amoureuse	amoureuse	NC	_
+amoureuse	amoureux	NC	_
 ,	,	PONCT	_
 la	le	DET	_
 seule	seul	ADJ	_
@@ -54066,7 +54165,7 @@ mouches	mouche	NC	_
 !	!	PONCT	_
 Oh	oh	I	_
 !	!	PONCT	_
-Mais	Mais	NP	_
+Mais	mais	NP	_
 ,	,	PONCT	_
 comment	comment	PROWH	_
 donc	donc	ADV	_
@@ -54112,7 +54211,8 @@ cheminée	cheminée	NC	_
 moyen	moyen	ADJ	_
 âge	âge	NC	_
 ,	,	PONCT	_
-tandis_que	tandis_que	CS	_
+tandis	tandis	ADV	_
+que	que	CS	_
 je	je	CLS	_
 regardais	regarder	V	_
 ,	,	PONCT	_
@@ -55678,7 +55778,8 @@ dans	dans	P	_
 mon	mon	DET	_
 éducation	éducation	NC	_
 .	.	PONCT	_
-Quant_à	quant_à	P	_
+Quant	quant	ADV	_
+à	à	P	_
 ces	ce	DET	_
 graves	grave	ADJ	_
 questions	question	NC	_
@@ -55820,7 +55921,8 @@ tristes	triste	ADJ	_
 cette	ce	DET	_
 fois	fois	NC	_
 ,	,	PONCT	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 son	son	DET	_
 absence	absence	NC	_
 ,	,	PONCT	_
@@ -56082,7 +56184,7 @@ oh	oh	I	_
 Non	non	I	_
 ;	;	PONCT	_
 rien	rien	PRO	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 y	y	CLO	_
 penser	penser	VINF	_
 faisait	faire	V	_
@@ -56198,7 +56300,8 @@ triste	triste	ADJ	_
 des	de_le	P+D	_
 départs	départ	NC	_
 ,	,	PONCT	_
-tandis_que	tandis_que	CS	_
+tandis	tandis	ADV	_
+que	que	CS	_
 j'	je	CLS	_
 étais	être	V	_
 là	là	ADV	_
@@ -56389,7 +56492,8 @@ façon	façon	NC	_
 irrévocable	irrévocable	ADJ	_
 .	.	PONCT	_
 Et	et	CC	_
-quant_à	quant_à	P	_
+quant	quant	ADV	_
+à	à	P	_
 cette	ce	DET	_
 idée	idée	NC	_
 d'	de	P	_
@@ -56844,9 +56948,10 @@ en	en	P	_
 bons	bon	ADJ	_
 termes	terme	NC	_
 avec	avec	P	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 ,	,	PONCT	_
-tandis_que	tandis_que	CS	_
+tandis	tandis	ADV	_
+que	que	CS	_
 le	le	DET	_
 vrai	vrai	ADJ	_
 moi	je	PRO	_
@@ -56939,9 +57044,9 @@ aile	aile	NC	_
 d'	de	P	_
 alouette	alouette	NC	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 "	"	PONCT	_
 -	-	PONCT	_
 car	car	CC	_
@@ -57019,7 +57124,8 @@ des	de_le	P+D	_
 autres	autre	ADJ	_
 hommes	homme	NC	_
 ,	,	PONCT	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 elles	il	CLS	_
 m'	je	CLO	_
 ont	avoir	V	_
@@ -57259,7 +57365,8 @@ vision	vision	NC	_
 de	de	P	_
 rêve	rêve	NC	_
 .	.	PONCT	_
-Quant_à	quant_à	P	_
+Quant	quant	ADV	_
+à	à	P	_
 Paul	Paul	NP	_
 ,	,	PONCT	_
 -	-	PONCT	_
@@ -57290,7 +57397,7 @@ c'	ce	CLS	_
 était	être	V	_
 une	un	DET	_
 petite	petit	ADJ	_
-parfumeuse	parfumeuse	NC	_
+parfumeuse	parfumeur	NC	_
 ,	,	PONCT	_
 qu'	que	CS	_
 il	il	CLS	_
@@ -57528,7 +57635,7 @@ je	je	CLS	_
 ne	ne	ADV	_
 sais	savoir	V	_
 ce	ce	PRO	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 avait	avoir	V	_
 cette	ce	DET	_
 femme	femme	NC	_
@@ -57632,7 +57739,8 @@ m'	je	CLO	_
 arrêtait	arrêter	V	_
 encore	encore	ADV	_
 .	.	PONCT	_
-Quant_à	quant_à	P	_
+Quant	quant	ADV	_
+à	à	P	_
 en	en	CLO	_
 demander	demander	VINF	_
 la	le	DET	_
@@ -58129,7 +58237,7 @@ d'	de	P	_
 où	où	PROWH	_
 ,	,	PONCT	_
 sans	sans	P	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 aucune	aucun	DET	_
 porte	porte	NC	_
 eût	avoir	V	_
@@ -58326,7 +58434,7 @@ n'	ne	ADV	_
 eût	avoir	V	_
 jamais	jamais	ADV	_
 été	être	VPP	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 un	un	DET	_
 rien	rien	NC	_
 sans	sans	P	_
@@ -58362,7 +58470,7 @@ c'	ce	CLS	_
 fini	finir	VPP	_
 ,	,	PONCT	_
 rien	rien	PRO	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 un	un	DET	_
 rêve	rêve	NC	_
 ,	,	PONCT	_
@@ -58571,7 +58679,9 @@ en	en	P	_
 tourbillonnant	tourbillonner	VPR	_
 par	par	P	_
 nuées	nuée	NC	_
-au-dessus	au-dessus	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 des	de_le	P+D	_
 vieux	vieux	ADJ	_
 toits	toit	NC	_
@@ -60264,7 +60374,7 @@ vision	vision	NC	_
 elles	il	CLS	_
 m'	je	CLO	_
 apparurent	apparaître	V	_
-toutes	tous	PRO	_
+toutes	tout	PRO	_
 ensemble	ensemble	ADV	_
 :	:	PONCT	_
 un	un	DET	_
@@ -60276,7 +60386,7 @@ avec	avec	P	_
 des	un	DET	_
 sourires	sourire	NC	_
 de	de	P	_
-douce	douce	NC	_
+douce	doux	NC	_
 bienvenue	bienvenu	ADJ	_
 ,	,	PONCT	_
 mais	mais	CC	_
@@ -60386,7 +60496,8 @@ là	là	ADV	_
 ces	ce	DET	_
 notes	note	NC	_
 ,	,	PONCT	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 d'	de	P	_
 abord	abord	NC	_
 la	le	DET	_
@@ -61114,7 +61225,7 @@ air	air	NC	_
 de	de	P	_
 s'	se	CLO	_
 être	être	VINF	_
-abaissées	abaissées	VPP	_
+abaissées	abaissé	VPP	_
 pour	pour	P	_
 n'	ne	ADV	_
 être	être	VINF	_

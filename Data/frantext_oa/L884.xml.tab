@@ -1,6 +1,6 @@
 ACTE	acte	NC	_
 1	1	ADJ	_
-SCèNE	SCèNE	NC	_
+SCèNE	scène	NC	_
 I	I	ADJ	_
 la	le	DET	_
 gare	gare	NC	_
@@ -141,7 +141,7 @@ sortie	sortie	NC	_
 .	.	PONCT	_
 ACTE	acte	NC	_
 1	1	ADJ	_
-SCèNE	SCèNE	NC	_
+SCèNE	scène	NC	_
 II	II	ADJ	_
 Gardefeu	Gardefeu	NP	_
 ,	,	PONCT	_
@@ -256,7 +256,7 @@ sort	sortir	V	_
 .	.	PONCT	_
 ACTE	acte	NC	_
 1	1	ADJ	_
-SCèNE	SCèNE	NC	_
+SCèNE	scène	NC	_
 III	III	ADJ	_
 Bobinet	bobinet	NC	_
 ,	,	PONCT	_
@@ -331,7 +331,7 @@ part	part	NC	_
 .	.	PONCT	_
 c'	ce	CLS	_
 est	être	V	_
-M	M	NC	_
+M	monsieur	NC	_
 Raoul	Raoul	NP	_
 De	de	P	_
 Gardefeu	Gardefeu	NP	_
@@ -342,7 +342,8 @@ le	il	CLO	_
 salue	saluer	V	_
 plus	plus	ADV	_
 ,	,	PONCT	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 il	il	CLS	_
 m'	je	CLO	_
 a	avoir	V	_
@@ -367,7 +368,8 @@ me	je	CLO	_
 salue	saluer	V	_
 plus	plus	ADV	_
 ,	,	PONCT	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 il	il	CLS	_
 nous	nous	CLO	_
 est	être	V	_
@@ -757,7 +759,7 @@ voyageurs	voyageur	NC	_
 .	.	PONCT	_
 ACTE	acte	NC	_
 1	1	ADJ	_
-SCèNE	SCèNE	NC	_
+SCèNE	scène	NC	_
 IV	IV	ADJ	_
 les	le	DET	_
 mêmes	même	NC	_
@@ -774,7 +776,7 @@ Gardefeu	Gardefeu	NP	_
 .	.	PONCT	_
 Choeur	chœur	NC	_
 De	de	P	_
-Voyageurs	Voyageurs	NP	_
+Voyageurs	voyageur	NP	_
 .	.	PONCT	_
 Le	le	DET	_
 ciel	ciel	NC	_
@@ -913,9 +915,9 @@ ciel	ciel	NC	_
 est	être	V	_
 noir	noir	ADJ	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 les	le	DET	_
 voyageurs	voyageur	NC	_
 sortent	sortir	V	_
@@ -925,7 +927,7 @@ bousculant	bousculer	VPR	_
 .	.	PONCT	_
 ACTE	acte	NC	_
 1	1	ADJ	_
-SCèNE	SCèNE	NC	_
+SCèNE	scène	NC	_
 V	V	ADJ	_
 Bobinet	bobinet	NC	_
 ,	,	PONCT	_
@@ -1036,7 +1038,8 @@ Pourquoi	pourquoi	PROWH	_
 ?	?	PONCT	_
 Bobinet	bobinet	NC	_
 .	.	PONCT	_
-Parce_qu'	parce_que	CS	_
+Parce	parce	ADV	_
+qu'	que	CS	_
 elle	il	CLS	_
 a	avoir	V	_
 fait	faire	VPP	_
@@ -1454,7 +1457,7 @@ qui	qui	PROREL	_
 ramènerait	ramener	V	_
 la	le	DET	_
 jeunesse	jeunesse	NC	_
-brillante	brillant	ADJ	_
+brillante	briller	ADJ	_
 dans	dans	P	_
 les	le	DET	_
 hôtels	hôtel	NC	_
@@ -1546,9 +1549,9 @@ et	et	CC	_
 dès	dès	P	_
 demain	demain	ADV	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 Bobinet	bobinet	NC	_
 .	.	PONCT	_
 II	II	X	_
@@ -1647,9 +1650,9 @@ et	et	CC	_
 dès	dès	P	_
 demain	demain	ADV	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 Bobinet	bobinet	NC	_
 .	.	PONCT	_
 Et	et	CC	_
@@ -1701,7 +1704,7 @@ sort	sortir	V	_
 .	.	PONCT	_
 ACTE	acte	NC	_
 1	1	ADJ	_
-SCèNE	SCèNE	NC	_
+SCèNE	scène	NC	_
 VI	VI	ADJ	_
 Gardefeu	Gardefeu	NP	_
 ,	,	PONCT	_
@@ -1784,7 +1787,7 @@ monde	monde	NC	_
 ?	?	PONCT	_
 ACTE	acte	NC	_
 1	1	ADJ	_
-SCèNE	SCèNE	NC	_
+SCèNE	scène	NC	_
 VII	VII	ADJ	_
 Gardefeu	Gardefeu	NP	_
 ,	,	PONCT	_
@@ -2278,7 +2281,7 @@ sort	sortir	V	_
 .	.	PONCT	_
 ACTE	acte	NC	_
 1	1	ADJ	_
-SCèNE	SCèNE	NC	_
+SCèNE	scène	NC	_
 VIII	VIII	ADJ	_
 Gardefeu	Gardefeu	NP	_
 ,	,	PONCT	_
@@ -2389,7 +2392,7 @@ baronne	baronne	NC	_
 .	.	PONCT	_
 ACTE	acte	NC	_
 1	1	ADJ	_
-SCèNE	SCèNE	NC	_
+SCèNE	scène	NC	_
 IX	IX	ADJ	_
 Gardefeu	Gardefeu	NP	_
 ,	,	PONCT	_
@@ -2537,7 +2540,7 @@ sort	sort	NC	_
 .	.	PONCT	_
 ACTE	acte	NC	_
 1	1	ADJ	_
-SCèNE	SCèNE	NC	_
+SCèNE	scène	NC	_
 X	X	ADJ	_
 le	le	DET	_
 baron	baron	NC	_
@@ -2579,7 +2582,7 @@ pensé	penser	VPP	_
 cela	cela	PRO	_
 .	.	PONCT	_
 La	le	DET	_
-Baronne	Baronne	NP	_
+Baronne	baron	NP	_
 ,	,	PONCT	_
 s'	se	CLO	_
 approchant	approcher	VPR	_
@@ -2636,7 +2639,7 @@ le	le	DET	_
 suédois	suédois	NC	_
 ...	…	PONCT	_
 La	le	DET	_
-Baronne	Baronne	NP	_
+Baronne	baron	NP	_
 .	.	PONCT	_
 Si	si	CS	_
 nous	nous	CLS	_
@@ -2665,7 +2668,7 @@ pas	pas	ADV	_
 venue	venir	VPP	_
 .	.	PONCT	_
 La	le	DET	_
-Baronne	Baronne	NP	_
+Baronne	baron	NP	_
 ,	,	PONCT	_
 à	à	P	_
 Gardefeu	Gardefeu	NP	_
@@ -2692,7 +2695,7 @@ suédois	suédois	NC	_
 maintenant	maintenant	ADV	_
 !	!	PONCT	_
 La	le	DET	_
-Baronne	Baronne	NP	_
+Baronne	baron	NP	_
 .	.	PONCT	_
 Vous	vous	CLS	_
 connaissez	connaître	V	_
@@ -2834,7 +2837,7 @@ l'	il	CLO	_
 espère	espérer	V	_
 .	.	PONCT	_
 La	le	DET	_
-Baronne	Baronne	NP	_
+Baronne	baron	NP	_
 .	.	PONCT	_
 On	on	CLS	_
 vous	vous	CLO	_
@@ -2932,7 +2935,7 @@ tout	tout	ADV	_
 cela	cela	PRO	_
 !	!	PONCT	_
 La	le	DET	_
-Baronne	Baronne	NP	_
+Baronne	baron	NP	_
 .	.	PONCT	_
 Je	je	CLS	_
 veux	vouloir	V	_
@@ -3003,7 +3006,7 @@ Le	le	DET	_
 Baron	baron	NP	_
 et	et	CC	_
 La	le	DET	_
-Baronne	Baronne	NP	_
+Baronne	baron	NP	_
 .	.	PONCT	_
 Dans	dans	P	_
 la	le	DET	_
@@ -3061,7 +3064,7 @@ bas	bas	ADJ	_
 .	.	PONCT	_
 ah	ah	I	_
 !	!	PONCT	_
-Vous	Vous	ADV	_
+Vous	vous	ADV	_
 êtes	être	V	_
 un	un	DET	_
 gros	gros	ADJ	_
@@ -3084,7 +3087,7 @@ tout	tout	DET	_
 honneur	honneur	NC	_
 !	!	PONCT	_
 La	le	DET	_
-Baronne	Baronne	NP	_
+Baronne	baron	NP	_
 ,	,	PONCT	_
 prenant	prendre	VPR	_
 Gardefeu	Gardefeu	NP	_
@@ -3134,7 +3137,7 @@ fait	faire	V	_
 peur	peur	NC	_
 !	!	PONCT	_
 La	le	DET	_
-Baronne	Baronne	NP	_
+Baronne	baron	NP	_
 ,	,	PONCT	_
 bas	bas	ADJ	_
 .	.	PONCT	_
@@ -3174,7 +3177,7 @@ vous	vous	CLS	_
 en	en	CLO	_
 verrez	voir	V	_
 plus	plus	ADV	_
-encor	encor	ADV	_
+encor	encore	ADV	_
 que	que	CS	_
 vous	vous	CLS	_
 ne	ne	ADV	_
@@ -3192,21 +3195,21 @@ serai	être	V	_
 votre	votre	DET	_
 guide	guide	NC	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 Le	le	DET	_
 Baron	baron	NP	_
 et	et	CC	_
 La	le	DET	_
-Baronne	Baronne	NP	_
+Baronne	baron	NP	_
 .	.	PONCT	_
 Vous	vous	CLS	_
 serez	être	V	_
 notre	notre	DET	_
 guide	guide	NC	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 Gardefeu	Gardefeu	NP	_
 .	.	PONCT	_
 Et	et	CC	_
@@ -3296,7 +3299,7 @@ sans	sans	P	_
 moi	je	PRO	_
 .	.	PONCT	_
 La	le	DET	_
-Baronne	Baronne	NP	_
+Baronne	baron	NP	_
 .	.	PONCT	_
 Il	il	CLS	_
 n'	ne	ADV	_
@@ -3360,7 +3363,7 @@ sort	sortir	V	_
 .	.	PONCT	_
 ACTE	acte	NC	_
 1	1	ADJ	_
-SCèNE	SCèNE	NC	_
+SCèNE	scène	NC	_
 XI	XI	ADJ	_
 le	le	DET	_
 baron	baron	NC	_
@@ -3369,7 +3372,7 @@ la	le	DET	_
 baronne	baronne	NC	_
 .	.	PONCT	_
 La	le	DET	_
-Baronne	Baronne	NP	_
+Baronne	baron	NP	_
 .	.	PONCT	_
 Une	un	DET	_
 lettre	lettre	NC	_
@@ -3386,7 +3389,7 @@ cette	ce	DET	_
 lettre	lettre	NC	_
 ?	?	PONCT	_
 La	le	DET	_
-Baronne	Baronne	NP	_
+Baronne	baron	NP	_
 ,	,	PONCT	_
 ouvrant	ouvrir	VPR	_
 la	le	DET	_
@@ -3437,7 +3440,7 @@ dit	dire	V	_
 -elle	il	CLS	_
 ?	?	PONCT	_
 La	le	DET	_
-Baronne	Baronne	NP	_
+Baronne	baron	NP	_
 .	.	PONCT	_
 Je	je	CLS	_
 lui	il	CLO	_
@@ -3510,7 +3513,7 @@ voyageurs	voyageur	NC	_
 .	.	PONCT	_
 ACTE	acte	NC	_
 1	1	ADJ	_
-SCèNE	SCèNE	NC	_
+SCèNE	scène	NC	_
 XII	XII	ADJ	_
 les	le	DET	_
 mêmes	même	NC	_
@@ -3603,7 +3606,7 @@ des	un	DET	_
 valises	valise	NC	_
 .	.	PONCT	_
 Le	le	DET	_
-Brésilien	Brésilien	NC	_
+Brésilien	brésilien	NC	_
 .	.	PONCT	_
 Je	je	CLS	_
 suis	être	V	_
@@ -3633,7 +3636,7 @@ Paris	Paris	NP	_
 je	je	CLS	_
 te	tu	CLO	_
 reviens	revenir	V	_
-encor	encor	ADV	_
+encor	encore	ADV	_
 !	!	PONCT	_
 Deux	deux	DET	_
 fois	fois	NC	_
@@ -3908,7 +3911,7 @@ j'	je	CLS	_
 en	en	CLO	_
 ai	avoir	V	_
 !	!	PONCT	_
-Venez	Venez	NP	_
+Venez	venir	NP	_
 !	!	PONCT	_
 Nous	nous	CLS	_
 le	il	CLO	_
@@ -3934,7 +3937,7 @@ prenez	prendre	V	_
 !	!	PONCT	_
 Hurrah	hurrah	I	_
 !	!	PONCT	_
-Je	Je	NP	_
+Je	je	NP	_
 viens	venir	V	_
 de	de	P	_
 débarquer	débarquer	VINF	_
@@ -4046,7 +4049,7 @@ Paris	Paris	NP	_
 je	je	CLS	_
 te	tu	CLO	_
 reviens	revenir	V	_
-encor	encor	ADV	_
+encor	encore	ADV	_
 !	!	PONCT	_
 Reprise	reprendre	VPP	_
 Du	Du	NP	_
@@ -4060,7 +4063,7 @@ Paris	Paris	NP	_
 !	!	PONCT	_
 Etc.	etc.	ADV	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 rentrent	rentrer	V	_
 le	le	DET	_
 baron	baron	NC	_
@@ -4071,13 +4074,13 @@ et	et	CC	_
 Gardefeu	Gardefeu	NP	_
 .	.	PONCT	_
 Le	le	DET	_
-Brésilien	Brésilien	NC	_
+Brésilien	brésilien	NC	_
 ,	,	PONCT	_
 Le	le	DET	_
 Baron	baron	NP	_
 ,	,	PONCT	_
 La	le	DET	_
-Baronne	Baronne	NP	_
+Baronne	baron	NP	_
 ,	,	PONCT	_
 Gardefeu	Gardefeu	NP	_
 .	.	PONCT	_
@@ -4108,7 +4111,7 @@ Paris	Paris	NP	_
 est	être	V	_
 un	un	DET	_
 endroit	endroit	NC	_
-charmant	charmant	ADJ	_
+charmant	charmer	ADJ	_
 !	!	PONCT	_
 Quatre	quatre	DET	_
 Employés	Employés	NC	_
@@ -4125,14 +4128,14 @@ rien	rien	PRO	_
 à	à	P	_
 déclarer	déclarer	VINF	_
 ?	?	PONCT	_
-Tous	tous	PRO	_
+Tous	tout	PRO	_
 .	.	PONCT	_
 Non	non	I	_
 ,	,	PONCT	_
 rien	rien	PRO	_
 ...	…	PONCT	_
 Choeur	chœur	NC	_
-Général	Général	NP	_
+Général	général	NP	_
 ,	,	PONCT	_
 nous	nous	CLS	_
 venons	venir	V	_
@@ -4268,12 +4271,12 @@ aimer	aimer	VINF	_
 ,	,	PONCT	_
 oh	oh	I	_
 !	!	PONCT	_
-Mon	Mon	V	_
+Mon	mon	V	_
 dieu	dieu	NC	_
 ,	,	PONCT	_
 nous	nous	CLS	_
 allons	aller	V	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 nous	nous	CLO	_
 amuser	amuser	VINF	_
 comme	comme	P	_
@@ -4285,9 +4288,9 @@ vapeur	vapeur	NC	_
 nous	nous	CLO	_
 amène	amener	V	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 Tous	Tous	ADV	_
 les	le	DET	_
 étrangers	étranger	NC	_
@@ -4325,7 +4328,7 @@ baronne	baronne	NC	_
 .	.	PONCT	_
 ACTE	acte	NC	_
 2	2	ADJ	_
-SCèNE	SCèNE	NC	_
+SCèNE	scène	NC	_
 I	I	ADJ	_
 un	un	DET	_
 salon	salon	NC	_
@@ -4562,7 +4565,7 @@ Alphonse	alphonse	NC	_
 .	.	PONCT	_
 Oh	oh	I	_
 !	!	PONCT	_
-Alors	Alors	ADV	_
+Alors	alors	ADV	_
 ...	…	PONCT	_
 je	je	CLS	_
 vous	vous	CLO	_
@@ -4719,9 +4722,9 @@ L'	le	DET	_
 aimable	aimable	NC	_
 gantière	gantier	ADJ	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 .	.	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 Frick	Frick	NP	_
 .	.	PONCT	_
 C'	ce	CLS	_
@@ -4769,9 +4772,9 @@ botte	botte	NC	_
 qui	qui	PROREL	_
 dénote	dénoter	V	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 .	.	PONCT	_
 .	.	PONCT	_
 Frick	Frick	NP	_
@@ -4790,9 +4793,9 @@ botte	botte	NC	_
 qui	qui	PROREL	_
 dénote	dénoter	V	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 .	.	PONCT	_
 .	.	PONCT	_
 Gabrielle	Gabrielle	NP	_
@@ -4875,7 +4878,7 @@ embrassait	embrasser	V	_
 et	et	CC	_
 l'	il	CLO	_
 embrassait	embrasser	V	_
-encor	encor	ADV	_
+encor	encore	ADV	_
 .	.	PONCT	_
 Et	et	CC	_
 puis	puis	ADV	_
@@ -5266,7 +5269,7 @@ Alphonse	Alphonse	NP	_
 .	.	PONCT	_
 ACTE	acte	NC	_
 2	2	ADJ	_
-SCèNE	SCèNE	NC	_
+SCèNE	scène	NC	_
 II	II	ADJ	_
 les	le	DET	_
 mêmes	même	NC	_
@@ -5346,7 +5349,7 @@ gauche	gauche	NC	_
 .	.	PONCT	_
 ACTE	acte	NC	_
 2	2	ADJ	_
-SCèNE	SCèNE	NC	_
+SCèNE	scène	NC	_
 III	III	ADJ	_
 Gardefeu	Gardefeu	NP	_
 ,	,	PONCT	_
@@ -5400,7 +5403,7 @@ sort	sortir	V	_
 .	.	PONCT	_
 ACTE	acte	NC	_
 2	2	ADJ	_
-SCèNE	SCèNE	NC	_
+SCèNE	scène	NC	_
 IV	IV	ADJ	_
 Gardefeu	Gardefeu	NP	_
 ,	,	PONCT	_
@@ -5478,7 +5481,7 @@ chambre	chambre	NC	_
 .	.	PONCT	_
 ACTE	acte	NC	_
 2	2	ADJ	_
-SCèNE	SCèNE	NC	_
+SCèNE	scène	NC	_
 V	V	ADJ	_
 Gardefeu	Gardefeu	NP	_
 ,	,	PONCT	_
@@ -5623,7 +5626,7 @@ Baron	baron	NP	_
 Parfaitement	parfaitement	ADV	_
 .	.	PONCT	_
 La	le	DET	_
-Baronne	Baronne	NP	_
+Baronne	baron	NP	_
 ,	,	PONCT	_
 avec	avec	P	_
 effusion	effusion	NC	_
@@ -5671,7 +5674,7 @@ savoir	savoir	VINF	_
 .	.	PONCT	_
 ACTE	acte	NC	_
 2	2	ADJ	_
-SCèNE	SCèNE	NC	_
+SCèNE	scène	NC	_
 VI	VI	ADJ	_
 Gardefeu	Gardefeu	NP	_
 ,	,	PONCT	_
@@ -5949,7 +5952,7 @@ ah	ah	I	_
 !	!	PONCT	_
 Ah	ah	I	_
 !	!	PONCT	_
-Je	Je	ADV	_
+Je	je	ADV	_
 te	tu	CLO	_
 vois	voir	V	_
 venir	venir	VINF	_
@@ -6134,7 +6137,7 @@ souveraine	souverain	ADJ	_
 je	je	CLS	_
 ne	ne	ADV	_
 ferai	faire	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 un	un	DET	_
 court	court	ADJ	_
 séjour	séjour	NC	_
@@ -6698,7 +6701,7 @@ Gardefeu	Gardefeu	NP	_
 .	.	PONCT	_
 Oh	oh	I	_
 !	!	PONCT	_
-Je	Je	ADV	_
+Je	je	ADV	_
 vais	aller	V	_
 vous	vous	CLO	_
 dire	dire	VINF	_
@@ -6765,7 +6768,7 @@ fixe	fixe	ADJ	_
 Je	je	CLS	_
 ne	ne	ADV	_
 tiens	tenir	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 à	à	P	_
 une	un	DET	_
 chose	chose	NC	_
@@ -6908,7 +6911,7 @@ plus	plus	ADV	_
 ...	…	PONCT	_
 à	à	P	_
 sept	sept	NC	_
-heures	heures	ADJ	_
+heures	heure	ADJ	_
 ,	,	PONCT	_
 la	le	DET	_
 table	table	NC	_
@@ -6966,7 +6969,8 @@ dîner	dîner	NC	_
 soit	être	V	_
 bon	bon	ADJ	_
 ,	,	PONCT	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 ...	…	PONCT	_
 je	je	CLS	_
 veux	vouloir	V	_
@@ -6984,7 +6988,7 @@ refrain	refrain	NC	_
 .	.	PONCT	_
 ACTE	acte	NC	_
 2	2	ADJ	_
-SCèNE	SCèNE	NC	_
+SCèNE	scène	NC	_
 VII	VII	ADJ	_
 Gardefeu	Gardefeu	NP	_
 ,	,	PONCT	_
@@ -7035,7 +7039,7 @@ Frick	Frick	NP	_
 .	.	PONCT	_
 ACTE	acte	NC	_
 2	2	ADJ	_
-SCèNE	SCèNE	NC	_
+SCèNE	scène	NC	_
 VIII	VIII	ADJ	_
 Gardefe	Gardefe	NP	_
 ,	,	PONCT	_
@@ -7462,13 +7466,13 @@ colonel	colonel	NC	_
 .	.	PONCT	_
 à	à	P	_
 sept	sept	NC	_
-heures	heures	ADJ	_
+heures	heure	ADJ	_
 ,	,	PONCT	_
 revenez	revenir	V	_
 !	!	PONCT	_
 ...	…	PONCT	_
 Frick	Frick	NP	_
-Et	Et	NP	_
+Et	et	NP	_
 Gabrielle	Gabrielle	NP	_
 .	.	PONCT	_
 à	à	P	_
@@ -7523,7 +7527,7 @@ fauteuil	fauteuil	NC	_
 )	)	PONCT	_
 ACTE	acte	NC	_
 2	2	ADJ	_
-SCèNE	SCèNE	NC	_
+SCèNE	scène	NC	_
 IX	IX	ADJ	_
 Gardefeu	Gardefeu	NP	_
 ,	,	PONCT	_
@@ -7555,7 +7559,8 @@ les	le	DET	_
 femmes	femme	NC	_
 du	de_le	P+D	_
 monde	monde	NC	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 je	je	CLS	_
 n'	ne	ADV	_
 avais	avoir	V	_
@@ -7566,7 +7571,7 @@ sou	sou	NC	_
 ...	…	PONCT	_
 ah	ah	I	_
 !	!	PONCT	_
-Mon	Mon	ADV	_
+Mon	mon	ADV	_
 ami	ami	ADJ	_
 !	!	PONCT	_
 J'	je	CLS	_
@@ -7634,7 +7639,8 @@ aux	à_le	P+D	_
 femmes	femme	NC	_
 du	de_le	P+D	_
 monde	monde	NC	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 je	je	CLS	_
 commençais	commencer	V	_
 à	à	P	_
@@ -7702,7 +7708,7 @@ soir	soir	NC	_
 ,	,	PONCT	_
 à	à	P	_
 sept	sept	NC	_
-heures	heures	ADJ	_
+heures	heure	ADJ	_
 dix	dix	DET	_
 minutes	minute	NC	_
 ;	;	PONCT	_
@@ -7937,7 +7943,7 @@ ah	ah	I	_
 !	!	PONCT	_
 Ah	ah	I	_
 !	!	PONCT	_
-Ah	Ah	I	_
+Ah	ah	I	_
 !	!	PONCT	_
 (	(	PONCT	_
 puis	puis	CC	_
@@ -8031,7 +8037,7 @@ Gardefeu	Gardefeu	NP	_
 .	.	PONCT	_
 Eh	eh	I	_
 !	!	PONCT	_
-Je	Je	NP	_
+Je	je	NP	_
 ne	ne	ADV	_
 sais	savoir	V	_
 pas	pas	ADV	_
@@ -8306,7 +8312,7 @@ chut	chut	I	_
 !	!	PONCT	_
 ACTE	acte	NC	_
 2	2	ADJ	_
-SCèNE	SCèNE	NC	_
+SCèNE	scène	NC	_
 X	X	ADJ	_
 Gardefeu	Gardefeu	NP	_
 ,	,	PONCT	_
@@ -8316,7 +8322,7 @@ la	le	DET	_
 baronne	baronne	NC	_
 .	.	PONCT	_
 La	le	DET	_
-Baronne	Baronne	NP	_
+Baronne	baron	NP	_
 ,	,	PONCT	_
 à	à	P	_
 Gardefeu	Gardefeu	NP	_
@@ -8464,7 +8470,7 @@ il	il	CLS	_
 n'	ne	ADV	_
 y	y	CLO	_
 a	avoir	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 à	à	P	_
 tourner	tourner	VINF	_
 jusqu'	jusque	P	_
@@ -8502,7 +8508,7 @@ pendule	pendule	NC	_
 .	.	PONCT	_
 ACTE	acte	NC	_
 2	2	ADJ	_
-SCèNE	SCèNE	NC	_
+SCèNE	scène	NC	_
 XI	XI	ADJ	_
 Gardefeu	Gardefeu	NP	_
 ,	,	PONCT	_
@@ -8510,7 +8516,7 @@ la	le	DET	_
 baronne	baronne	NC	_
 .	.	PONCT	_
 La	le	DET	_
-Baronne	Baronne	NP	_
+Baronne	baron	NP	_
 .	.	PONCT	_
 Monsieur	monsieur	NC	_
 !	!	PONCT	_
@@ -8520,7 +8526,7 @@ Gardefeu	Gardefeu	NP	_
 Madame	madame	NC	_
 ...	…	PONCT	_
 La	le	DET	_
-Baronne	Baronne	NP	_
+Baronne	baron	NP	_
 .	.	PONCT	_
 Voici	voici	V	_
 ce	ce	PRO	_
@@ -8544,7 +8550,7 @@ madame	madame	NC	_
 ?	?	PONCT	_
 ...	…	PONCT	_
 La	le	DET	_
-Baronne	Baronne	NP	_
+Baronne	baron	NP	_
 .	.	PONCT	_
 Cinq	cinq	DET	_
 bagues	bague	NC	_
@@ -8568,7 +8574,7 @@ est	être	V	_
 à	à	P	_
 ...	…	PONCT	_
 La	le	DET	_
-Baronne	Baronne	NP	_
+Baronne	baron	NP	_
 .	.	PONCT	_
 C'	ce	CLS	_
 est	être	V	_
@@ -8588,7 +8594,7 @@ vous	vous	PRO	_
 madame	madame	NC	_
 .	.	PONCT	_
 La	le	DET	_
-Baronne	Baronne	NP	_
+Baronne	baron	NP	_
 .	.	PONCT	_
 Ah	ah	I	_
 !	!	PONCT	_
@@ -8604,7 +8610,7 @@ Gardefeu	Gardefeu	NP	_
 Oui	oui	I	_
 !	!	PONCT	_
 La	le	DET	_
-Baronne	Baronne	NP	_
+Baronne	baron	NP	_
 .	.	PONCT	_
 Jolie	joli	ADJ	_
 ?	?	PONCT	_
@@ -8616,7 +8622,7 @@ Très	très	ADV	_
 jolie	joli	ADJ	_
 ...	…	PONCT	_
 La	le	DET	_
-Baronne	Baronne	NP	_
+Baronne	baron	NP	_
 .	.	PONCT	_
 Il	il	CLS	_
 y	y	CLO	_
@@ -8631,7 +8637,7 @@ Gardefeu	Gardefeu	NP	_
 Comment	comment	PROWH	_
 ?	?	PONCT	_
 La	le	DET	_
-Baronne	Baronne	NP	_
+Baronne	baron	NP	_
 .	.	PONCT	_
 Oui	oui	I	_
 ,	,	PONCT	_
@@ -8667,7 +8673,7 @@ mon	mon	DET	_
 nom	nom	NC	_
 ...	…	PONCT	_
 La	le	DET	_
-Baronne	Baronne	NP	_
+Baronne	baron	NP	_
 .	.	PONCT	_
 Comment	comment	PROWH	_
 ,	,	PONCT	_
@@ -8766,7 +8772,7 @@ la	le	DET	_
 lettre	lettre	NC	_
 .	.	PONCT	_
 La	le	DET	_
-Baronne	Baronne	NP	_
+Baronne	baron	NP	_
 .	.	PONCT	_
 C'	ce	CLS	_
 est	être	V	_
@@ -8774,7 +8780,7 @@ entendu	entendre	VPP	_
 ...	…	PONCT	_
 ACTE	acte	NC	_
 2	2	ADJ	_
-SCèNE	SCèNE	NC	_
+SCèNE	scène	NC	_
 XII	XII	ADJ	_
 les	le	DET	_
 mêmes	même	NC	_
@@ -8811,7 +8817,7 @@ Gardefeu	Gardefeu	NP	_
 Métella	Métella	NP	_
 !	!	PONCT	_
 La	le	DET	_
-Baronne	Baronne	NP	_
+Baronne	baron	NP	_
 .	.	PONCT	_
 Eh_bien	eh_bien	I	_
 !	!	PONCT	_
@@ -8875,7 +8881,7 @@ avant	avant	P	_
 vous	vous	PRO	_
 .	.	PONCT	_
 La	le	DET	_
-Baronne	Baronne	NP	_
+Baronne	baron	NP	_
 ,	,	PONCT	_
 saluant	saluer	VPR	_
 .	.	PONCT	_
@@ -8888,7 +8894,7 @@ saluant	saluer	VPR	_
 madame	madame	NC	_
 ...	…	PONCT	_
 La	le	DET	_
-Baronne	Baronne	NP	_
+Baronne	baron	NP	_
 .	.	PONCT	_
 J'	je	CLS	_
 ai	avoir	V	_
@@ -8920,7 +8926,7 @@ par	par	P	_
 exemple	exemple	NC	_
 !	!	PONCT	_
 La	le	DET	_
-Baronne	Baronne	NP	_
+Baronne	baron	NP	_
 .	.	PONCT	_
 Je	je	CLS	_
 rentre	rentrer	V	_
@@ -8936,7 +8942,7 @@ chez	chez	P	_
 elle	il	PRO	_
 !	!	PONCT	_
 La	le	DET	_
-Baronne	Baronne	NP	_
+Baronne	baron	NP	_
 .	.	PONCT	_
 à	à	P	_
 quelle	quel	DET	_
@@ -8951,7 +8957,7 @@ sept	sept	NC	_
 heures	heure	NC	_
 ...	…	PONCT	_
 La	le	DET	_
-Baronne	Baronne	NP	_
+Baronne	baron	NP	_
 ,	,	PONCT	_
 saluant	saluer	VPR	_
 .	.	PONCT	_
@@ -8972,7 +8978,7 @@ elle	il	PRO	_
 .	.	PONCT	_
 ACTE	acte	NC	_
 2	2	ADJ	_
-SCèNE	SCèNE	NC	_
+SCèNE	scène	NC	_
 XIII	XIII	ADJ	_
 Métella	Métella	NP	_
 ,	,	PONCT	_
@@ -9453,7 +9459,7 @@ semaines	semaine	NC	_
 ,	,	PONCT	_
 qui	qui	PROREL	_
 furent	être	V	_
-toutes	tous	PRO	_
+toutes	tout	PRO	_
 pleines	plein	ADJ	_
 des	de_le	P+D	_
 passe-temps	passe-temps	NC	_
@@ -9860,7 +9866,7 @@ Gardefeu	Gardefeu	NP	_
 .	.	PONCT	_
 Oh	oh	I	_
 !	!	PONCT	_
-Je	Je	ADV	_
+Je	je	ADV	_
 ne	ne	ADV	_
 les	le	DET	_
 mérite	mérite	NC	_
@@ -9888,7 +9894,7 @@ baron	baron	NC	_
 .	.	PONCT	_
 ACTE	acte	NC	_
 2	2	ADJ	_
-SCèNE	SCèNE	NC	_
+SCèNE	scène	NC	_
 XIV	XIV	ADJ	_
 les	le	DET	_
 mêmes	même	NC	_
@@ -10082,7 +10088,8 @@ jours	jour	NC	_
 ?	?	PONCT	_
 Métella	Métella	NP	_
 .	.	PONCT	_
-Parce_que	parce_que	CS	_
+Parce	parce	ADV	_
+que	que	CS	_
 je	je	CLS	_
 le	il	CLO	_
 veux	vouloir	V	_
@@ -10116,7 +10123,7 @@ sort	sortir	V	_
 .	.	PONCT	_
 ACTE	acte	NC	_
 2	2	ADJ	_
-SCèNE	SCèNE	NC	_
+SCèNE	scène	NC	_
 XV	XV	ADJ	_
 le	le	DET	_
 baron	baron	NC	_
@@ -10139,7 +10146,7 @@ enfin	enfin	ADV	_
 !	!	PONCT	_
 ...	…	PONCT	_
 sept	sept	NC	_
-heures	heures	ADJ	_
+heures	heure	ADJ	_
 moins	moins	ADV	_
 dix	dix	NC	_
 ...	…	PONCT	_
@@ -10216,7 +10223,7 @@ brandebourgs	brandebourg	NC	_
 .	.	PONCT	_
 ACTE	acte	NC	_
 2	2	ADJ	_
-SCèNE	SCèNE	NC	_
+SCèNE	scène	NC	_
 XVI	XVI	ADJ	_
 les	le	DET	_
 mêmes	même	NC	_
@@ -10227,7 +10234,7 @@ Gardefeu	Gardefeu	NP	_
 .	.	PONCT	_
 Ah	ah	I	_
 !	!	PONCT	_
-Voilà	Voilà	V	_
+Voilà	voilà	V	_
 les	le	DET	_
 convives	convive	NC	_
 qui	qui	PROREL	_
@@ -10413,9 +10420,9 @@ Baron	baron	NP	_
 .	.	PONCT	_
 Ah	ah	I	_
 !	!	PONCT	_
-Ah	Ah	I	_
+Ah	ah	I	_
 !	!	PONCT	_
-Vous	Vous	NP	_
+Vous	vous	NP	_
 êtes	être	V	_
 ...	…	PONCT	_
 Frick	Frick	NP	_
@@ -10503,7 +10510,7 @@ coupe	coupe	NC	_
 ,	,	PONCT	_
 et	et	CC	_
 possède	posséder	V	_
-encor	encor	ADV	_
+encor	encore	ADV	_
 mille	mille	DET	_
 autres	autre	ADJ	_
 talents	talent	NC	_
@@ -10599,7 +10606,7 @@ coupe	coupe	NC	_
 ,	,	PONCT	_
 et	et	CC	_
 possède	posséder	V	_
-encor	encor	ADV	_
+encor	encore	ADV	_
 ,	,	PONCT	_
 mille	mille	DET	_
 autres	autre	ADJ	_
@@ -10931,7 +10938,7 @@ préviens	prévenir	V	_
 ,	,	PONCT	_
 ils	il	CLS	_
 sont	être	V	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 allemands	allemand	ADJ	_
 ...	…	PONCT	_
 c'	ce	CLS	_
@@ -10943,7 +10950,7 @@ comme	comme	P	_
 ...	…	PONCT	_
 ACTE	acte	NC	_
 2	2	ADJ	_
-SCèNE	SCèNE	NC	_
+SCèNE	scène	NC	_
 XVII	XVII	ADJ	_
 les	le	DET	_
 mêmes	même	NC	_
@@ -11045,7 +11052,7 @@ son	son	DET	_
 front	front	NC	_
 attristé	attrister	VPP	_
 ?	?	PONCT	_
-Tous	tous	PRO	_
+Tous	tout	PRO	_
 .	.	PONCT	_
 parlé	parler	VPP	_
 .	.	PONCT	_
@@ -11097,7 +11104,9 @@ telle	tel	ADJ	_
 manière	manière	NC	_
 que	que	CS	_
 de	de	P	_
-là-haut	là-haut	ADV	_
+à	à_le	P+D	_
+-	-	PONCT	_
+haut	haut	ADV	_
 ,	,	PONCT	_
 du	de_le	P+D	_
 haut	haut	NC	_
@@ -11189,7 +11198,9 @@ prière	prière	NC	_
 ,	,	PONCT	_
 que	que	CS	_
 de	de	P	_
-là-haut	là-haut	ADV	_
+à	à_le	P+D	_
+-	-	PONCT	_
+haut	haut	ADV	_
 ,	,	PONCT	_
 du	de_le	P+D	_
 haut	haut	NC	_
@@ -11420,7 +11431,7 @@ la	le	DET	_
 la	le	DET	_
 la	la	NC	_
 .	.	PONCT	_
-Tous	tous	PRO	_
+Tous	tout	PRO	_
 .	.	PONCT	_
 La	le	DET	_
 la	la	NC	_
@@ -11461,7 +11472,7 @@ tableau	tableau	NC	_
 .	.	PONCT	_
 ACTE	acte	NC	_
 3	3	ADJ	_
-SCèNE	SCèNE	NC	_
+SCèNE	scène	NC	_
 I	I	ADJ	_
 le	le	DET	_
 grand	grand	ADJ	_
@@ -11499,7 +11510,7 @@ du	de_le	P+D	_
 rideau	rideau	NC	_
 ils	il	CLS	_
 sont	être	V	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 en	en	P	_
 train	train	NC	_
 d'	de	P	_
@@ -11515,7 +11526,7 @@ dans	dans	P	_
 les	le	DET	_
 jardinières	jardinière	NC	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 Choeur	chœur	NC	_
 .	.	PONCT	_
 Il	il	CLS	_
@@ -11540,7 +11551,7 @@ Bobinet	Bobinet	NP	_
 .	.	PONCT	_
 ACTE	acte	NC	_
 3	3	ADJ	_
-SCèNE	SCèNE	NC	_
+SCèNE	scène	NC	_
 II	II	ADJ	_
 les	le	DET	_
 mêmes	même	NC	_
@@ -11788,7 +11799,8 @@ aux	à_le	P+D	_
 femmes	femme	NC	_
 .	.	PONCT	_
 )	)	PONCT	_
-quant_à	quant_à	P	_
+quant	quant	ADV	_
+à	à	P	_
 vous	vous	PRO	_
 ,	,	PONCT	_
 mesdemoiselles	mademoiselle	NC	_
@@ -11864,7 +11876,7 @@ Allez	aller	V	_
 vous	vous	CLO	_
 habiller	habiller	VINF	_
 .	.	PONCT	_
-Tous	tous	PRO	_
+Tous	tout	PRO	_
 .	.	PONCT	_
 Allons	aller	V	_
 .	.	PONCT	_
@@ -11932,7 +11944,7 @@ C'	ce	CLS	_
 est	être	V	_
 vrai	vrai	ADJ	_
 ...	…	PONCT	_
-Tous	tous	PRO	_
+Tous	tout	PRO	_
 .	.	PONCT	_
 C'	ce	CLS	_
 est	être	V	_
@@ -11993,7 +12005,7 @@ fier	fier	VINF	_
 à	à	P	_
 vous	vous	PRO	_
 ,	,	PONCT	_
-Tous	tous	PRO	_
+Tous	tout	PRO	_
 .	.	PONCT	_
 Vous	vous	CLS	_
 pouvez	pouvoir	V	_
@@ -12120,7 +12132,7 @@ vous	vous	CLO	_
 en	en	CLO	_
 faudra	falloir	V	_
 .	.	PONCT	_
-Tous	tous	PRO	_
+Tous	tout	PRO	_
 .	.	PONCT	_
 Autant	autant	ADV	_
 ,	,	PONCT	_
@@ -12182,7 +12194,7 @@ avez	avoir	V	_
 bien	bien	ADV	_
 compris	comprendre	VPP	_
 !	!	PONCT	_
-Tous	tous	PRO	_
+Tous	tout	PRO	_
 .	.	PONCT	_
 Oui	oui	I	_
 ,	,	PONCT	_
@@ -12195,7 +12207,7 @@ Urbain	urbain	ADJ	_
 .	.	PONCT	_
 Ah	ah	I	_
 !	!	PONCT	_
-Nous	Nous	ADV	_
+Nous	nous	ADV	_
 allons	aller	V	_
 vus	voir	VPP	_
 manigancer	manigancer	VINF	_
@@ -12206,7 +12218,7 @@ bal	bal	NC	_
 tout	tout	PRO	_
 casser	casser	VINF	_
 !	!	PONCT	_
-Tous	tous	PRO	_
+Tous	tout	PRO	_
 .	.	PONCT	_
 Un	un	DET	_
 petit	petit	ADJ	_
@@ -12327,9 +12339,9 @@ notre	notre	DET	_
 bon	bon	ADJ	_
 maître	maître	NC	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 tout	tout	ADJ	_
 le	le	DET	_
 monde	monde	NC	_
@@ -12339,7 +12351,7 @@ Bobinet	Bobinet	NP	_
 .	.	PONCT	_
 ACTE	acte	NC	_
 3	3	ADJ	_
-SCèNE	SCèNE	NC	_
+SCèNE	scène	NC	_
 III	III	ADJ	_
 Bobinet	bobinet	NC	_
 ,	,	PONCT	_
@@ -13056,7 +13068,7 @@ ne	ne	ADV	_
 m'	je	CLO	_
 a	avoir	V	_
 servi	servir	VPP	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 une	un	DET	_
 fois	fois	NC	_
 et	et	CC	_
@@ -13313,7 +13325,7 @@ qui	qui	PROREL	_
 sera	être	V	_
 madame	madame	NC	_
 l'	le	DET	_
-amirale	amirale	NC	_
+amirale	amiral	NC	_
 ...	…	PONCT	_
 elle	il	CLS	_
 est	être	V	_
@@ -13325,7 +13337,7 @@ Gardefeu	Gardefeu	NP	_
 .	.	PONCT	_
 Oh	oh	I	_
 !	!	PONCT	_
-Alors	Alors	ADV	_
+Alors	alors	ADV	_
 ...	…	PONCT	_
 prosper	prosper	NP	_
 entre	entre	P	_
@@ -13388,7 +13400,7 @@ violene	violene	NP	_
 .	.	PONCT	_
 ACTE	acte	NC	_
 3	3	ADJ	_
-SCèNE	SCèNE	NC	_
+SCèNE	scène	NC	_
 IV	IV	ADJ	_
 le	le	DET	_
 baron	baron	NC	_
@@ -13416,7 +13428,7 @@ Prosper	Prosper	NP	_
 )	)	PONCT	_
 madame	madame	NC	_
 l'	le	DET	_
-amirale	amirale	NC	_
+amirale	amiral	NC	_
 ?	?	PONCT	_
 ...	…	PONCT	_
 Prosper	Prosper	NP	_
@@ -13467,7 +13479,7 @@ sort	sortir	V	_
 .	.	PONCT	_
 ACTE	acte	NC	_
 3	3	ADJ	_
-SCèNE	SCèNE	NC	_
+SCèNE	scène	NC	_
 V	V	ADJ	_
 le	le	DET	_
 baron	baron	NC	_
@@ -13696,9 +13708,9 @@ Baron	baron	NP	_
 .	.	PONCT	_
 Oh	oh	I	_
 !	!	PONCT	_
-Oh	Oh	NP	_
+Oh	oh	NP	_
 !	!	PONCT	_
-Voilà	Voilà	V	_
+Voilà	voilà	V	_
 un	un	DET	_
 personnage	personnage	NC	_
 ...	…	PONCT	_
@@ -14103,7 +14115,7 @@ bonne	bon	ADJ	_
 nouvelle	nouveau	ADJ	_
 ...	…	PONCT	_
 Prosper	Prosper	NP	_
-Et	Et	NP	_
+Et	et	NP	_
 Urbain	Urbain	NP	_
 .	.	PONCT	_
 Boulevard	boulevard	NC	_
@@ -14330,10 +14342,10 @@ Urbain	urbain	ADJ	_
 .	.	PONCT	_
 Ah	ah	I	_
 !	!	PONCT	_
-Voilà	Voilà	V	_
+Voilà	voilà	V	_
 madame	madame	NC	_
 l'	le	DET	_
-amirale	amirale	NC	_
+amirale	amiral	NC	_
 !	!	PONCT	_
 Pauline	Pauline	NP	_
 a	avoir	V	_
@@ -14358,7 +14370,7 @@ elle	il	PRO	_
 .	.	PONCT	_
 ACTE	acte	NC	_
 3	3	ADJ	_
-SCèNE	SCèNE	NC	_
+SCèNE	scène	NC	_
 VI	VI	ADJ	_
 les	le	DET	_
 mêmes	même	NC	_
@@ -14372,7 +14384,7 @@ Ah	ah	I	_
 !	!	PONCT	_
 Madame	madame	NC	_
 l'	le	DET	_
-amirale	amirale	NC	_
+amirale	amiral	NC	_
 .	.	PONCT	_
 Urbain	urbain	ADJ	_
 ,	,	PONCT	_
@@ -14390,7 +14402,7 @@ J'	je	CLS	_
 ai	avoir	V	_
 reçu	recevoir	VPP	_
 votre	votre	DET	_
-charmante	charmant	ADJ	_
+charmante	charmer	ADJ	_
 invitation	invitation	NC	_
 ,	,	PONCT	_
 madame	madame	NC	_
@@ -14457,7 +14469,8 @@ dans	dans	P	_
 mon	mon	DET	_
 milieu	milieu	NC	_
 ...	…	PONCT	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 tout	tout	ADV	_
 à	à	P	_
 l'	le	DET	_
@@ -14520,7 +14533,7 @@ on	on	CLS	_
 sonne	sonner	V	_
 .	.	PONCT	_
 Prosper	Prosper	NP	_
-Et	Et	NP	_
+Et	et	NP	_
 Urbain	Urbain	NP	_
 .	.	PONCT	_
 Voilà	voilà	V	_
@@ -14546,7 +14559,7 @@ fort	fort	ADJ	_
 Pauline	pauline	NC	_
 à	à	P	_
 Urbain	Urbain	NP	_
-Et	Et	NP	_
+Et	et	NP	_
 à	à	P	_
 Prosper	Prosper	NP	_
 .	.	PONCT	_
@@ -14557,7 +14570,7 @@ s'	se	CLO	_
 impatiente	impatienter	V	_
 ...	…	PONCT	_
 Urbain	urbain	ADJ	_
-Et	Et	NC	_
+Et	et	NC	_
 Prosper	Prosper	NP	_
 .	.	PONCT	_
 On	on	CLS	_
@@ -14584,7 +14597,7 @@ aller	aller	VINF	_
 .	.	PONCT	_
 ACTE	acte	NC	_
 3	3	ADJ	_
-SCèNE	SCèNE	NC	_
+SCèNE	scène	NC	_
 VII	VII	ADJ	_
 le	le	DET	_
 baron	baron	NC	_
@@ -14826,7 +14839,7 @@ Baron	baron	NP	_
 .	.	PONCT	_
 Oh	oh	I	_
 !	!	PONCT	_
-Oh	Oh	NP	_
+Oh	oh	NP	_
 !	!	PONCT	_
 Pauline	pauline	NC	_
 .	.	PONCT	_
@@ -14851,7 +14864,7 @@ ne	ne	ADV	_
 laisse	laisser	V	_
 aux	à_le	P+D	_
 femmes	femme	NC	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 une	un	DET	_
 place	place	NC	_
 insuffisante	insuffisant	ADJ	_
@@ -14861,7 +14874,8 @@ Baron	baron	NP	_
 .	.	PONCT	_
 Oh	oh	I	_
 !	!	PONCT	_
-Quant_à	quant_à	P	_
+Quant	quant	ADV	_
+à	à	P	_
 cela	cela	PRO	_
 ...	…	PONCT	_
 Pauline	pauline	NC	_
@@ -14886,7 +14900,8 @@ Pauline	Pauline	NP	_
 je	je	CLS	_
 dis	dire	V	_
 que	que	CS	_
-quant_à	quant_à	P	_
+quant	quant	ADV	_
+à	à	P	_
 la	le	DET	_
 place	place	NC	_
 insuffisante	insuffisant	ADJ	_
@@ -14980,7 +14995,7 @@ rêveuse	rêveur	ADJ	_
 .	.	PONCT	_
 ah	ah	I	_
 !	!	PONCT	_
-Pourquoi	Pourquoi	ADV	_
+Pourquoi	pourquoi	ADV	_
 me	je	CLO	_
 le	il	CLO	_
 demandez	demander	V	_
@@ -15222,7 +15237,7 @@ fierté	fierté	NC	_
 .	.	PONCT	_
 ah	ah	I	_
 !	!	PONCT	_
-Voilà	Voilà	V	_
+Voilà	voilà	V	_
 que	que	CS	_
 vous	vous	CLS	_
 me	je	CLO	_
@@ -15295,7 +15310,7 @@ haut	haut	ADV	_
 )	)	PONCT	_
 ah	ah	I	_
 !	!	PONCT	_
-Pourquoi	Pourquoi	NP	_
+Pourquoi	pourquoi	NP	_
 suis	être	V	_
 -je	je	CLS	_
 marié	marier	VPP	_
@@ -15533,12 +15548,12 @@ nuage	nuage	NC	_
 qui	qui	PROREL	_
 voyage	voyager	V	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 ACTE	acte	NC	_
 3	3	ADJ	_
-SCèNE	SCèNE	NC	_
+SCèNE	scène	NC	_
 VIII	VIII	ADJ	_
 les	le	DET	_
 mêmes	même	NC	_
@@ -15649,11 +15664,11 @@ Léonie	Léonie	NP	_
 .	.	PONCT	_
 Cette	ce	DET	_
 chère	cher	ADJ	_
-amirale	amirale	NC	_
+amirale	amiral	NC	_
 .	.	PONCT	_
 Oh	oh	I	_
 !	!	PONCT	_
-Mais	Mais	NP	_
+Mais	mais	NP	_
 ,	,	PONCT	_
 vous	vous	CLS	_
 avez	avoir	V	_
@@ -15679,7 +15694,7 @@ part	part	NC	_
 .	.	PONCT	_
 ah	ah	I	_
 !	!	PONCT	_
-Mais	Mais	NP	_
+Mais	mais	NP	_
 alors	alors	ADV	_
 me	je	CLO	_
 voilà	voilà	V	_
@@ -15699,7 +15714,7 @@ De	de	P	_
 Gondremarck	Gondremarck	NP	_
 ...	…	PONCT	_
 Les	le	DET	_
-Femmes	Femmes	NC	_
+Femmes	femme	NC	_
 .	.	PONCT	_
 Baron	baron	NC	_
 ...	…	PONCT	_
@@ -15734,7 +15749,7 @@ Urbain	Urbain	NP	_
 .	.	PONCT	_
 ACTE	acte	NC	_
 3	3	ADJ	_
-SCèNE	SCèNE	NC	_
+SCèNE	scène	NC	_
 IX	IX	ADJ	_
 les	le	DET	_
 mêmes	même	NC	_
@@ -15781,7 +15796,7 @@ jalouse	jaloux	ADJ	_
 .	.	PONCT	_
 ah	ah	I	_
 !	!	PONCT	_
-Vous	Vous	ADV	_
+Vous	vous	ADV	_
 connaissez	connaître	V	_
 madame	madame	NC	_
 ?	?	PONCT	_
@@ -15815,7 +15830,7 @@ Pauline	pauline	NC	_
 .	.	PONCT	_
 Oh	oh	I	_
 !	!	PONCT	_
-Mais	Mais	ADV	_
+Mais	mais	ADV	_
 quelles	quel	DET	_
 toilettes	toilette	NC	_
 ,	,	PONCT	_
@@ -15895,7 +15910,7 @@ trottinaient	trottiner	V	_
 ...	…	PONCT	_
 j'	je	CLS	_
 ai	avoir	V	_
-complétement	complétement	ADV	_
+complétement	complètement	ADV	_
 lâché	lâcher	VPP	_
 les	le	DET	_
 invalides	invalide	NC	_
@@ -16115,9 +16130,9 @@ on	on	CLS	_
 devient	devenir	V	_
 fou	fou	ADJ	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 Ensemble	ensemble	ADV	_
 .	.	PONCT	_
 Sa	son	DET	_
@@ -16133,7 +16148,7 @@ frou	frou	NC	_
 ,	,	PONCT	_
 etc	etc	ADV	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 entre	entre	P	_
 Prosper	Prosper	NP	_
 en	en	P	_
@@ -16141,7 +16156,7 @@ diplomate	diplomate	NC	_
 .	.	PONCT	_
 ACTE	acte	NC	_
 3	3	ADJ	_
-SCèNE	SCèNE	NC	_
+SCèNE	scène	NC	_
 X	X	ADJ	_
 les	le	DET	_
 mêmes	même	NC	_
@@ -16239,7 +16254,7 @@ porte	porte	NC	_
 du	de_le	P+D	_
 fond	fond	NC	_
 .	.	PONCT	_
-Tous	tous	PRO	_
+Tous	tout	PRO	_
 .	.	PONCT	_
 L'	le	DET	_
 amiral	amiral	NC	_
@@ -16354,7 +16369,7 @@ dans	dans	P	_
 le	le	DET	_
 dos	dos	NC	_
 !	!	PONCT	_
-Tous	tous	PRO	_
+Tous	tout	PRO	_
 .	.	PONCT	_
 Son	son	DET	_
 habit	habit	NC	_
@@ -16602,7 +16617,8 @@ général	général	ADJ	_
 ,	,	PONCT	_
 sonnez	sonner	V	_
 ,	,	PONCT	_
-afin_que	afin_que	CS	_
+afin	afin	ADV	_
+que	que	CS	_
 l'on	on	CLS	_
 nous	nous	CLO	_
 serve	servir	V	_
@@ -16663,7 +16679,8 @@ tenir	tenir	VINF	_
 ...	…	PONCT	_
 Pauline	pauline	NC	_
 .	.	PONCT	_
-Tandis_que	tandis_que	CS	_
+Tandis	tandis	ADV	_
+que	que	CS	_
 quand	quand	CS	_
 il	il	CLS	_
 n'	ne	ADV	_
@@ -16678,7 +16695,7 @@ Renvoyons	renvoyer	V	_
 les	le	DET	_
 domestiques	domestique	NC	_
 ...	…	PONCT	_
-Tous	tous	PRO	_
+Tous	tout	PRO	_
 .	.	PONCT	_
 C'	ce	CLS	_
 est	être	V	_
@@ -16698,7 +16715,7 @@ Renvoyez	renvoyer	V	_
 renvoyez	renvoyer	V	_
 -les	il	CLO	_
 .	.	PONCT	_
-Tous	tous	PRO	_
+Tous	tout	PRO	_
 ,	,	PONCT	_
 parlant	parler	VPR	_
 aux	à_le	P+D	_
@@ -17029,9 +17046,9 @@ pas	pas	ADV	_
 trop	trop	ADV	_
 vite	vite	ADV	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 on	on	CLS	_
 s'	se	CLO	_
 assied	asseoir	V	_
@@ -17219,13 +17236,13 @@ nous	nous	CLO	_
 fait	faire	V	_
 aimer	aimer	VINF	_
 .	.	PONCT	_
-Tous	tous	PRO	_
+Tous	tout	PRO	_
 .	.	PONCT	_
 Ah	ah	I	_
 !	!	PONCT	_
-Ah	Ah	I	_
+Ah	ah	I	_
 !	!	PONCT	_
-Ah	Ah	I	_
+Ah	ah	I	_
 !	!	PONCT	_
 ça	ça	CLS	_
 commence	commencer	V	_
@@ -17234,9 +17251,9 @@ Prosper	Prosper	NP	_
 .	.	PONCT	_
 Ah	ah	I	_
 !	!	PONCT	_
-Ah	Ah	I	_
+Ah	ah	I	_
 !	!	PONCT	_
-Ah	Ah	I	_
+Ah	ah	I	_
 !	!	PONCT	_
 ça	ça	CLS	_
 commence	commencer	V	_
@@ -17258,7 +17275,7 @@ s'	se	CLO	_
 en	en	CLO	_
 va	aller	V	_
 !	!	PONCT	_
-Tous	tous	PRO	_
+Tous	tout	PRO	_
 .	.	PONCT	_
 Tout	tout	DET	_
 tourne	tourne	NC	_
@@ -17344,13 +17361,13 @@ dans	dans	P	_
 les	le	DET	_
 petits	petit	NC	_
 .	.	PONCT	_
-Tous	tous	PRO	_
+Tous	tout	PRO	_
 .	.	PONCT	_
 Ah	ah	I	_
 !	!	PONCT	_
-Ah	Ah	I	_
+Ah	ah	I	_
 !	!	PONCT	_
-Ah	Ah	I	_
+Ah	ah	I	_
 !	!	PONCT	_
 ça	ça	CLS	_
 commence	commencer	V	_
@@ -17359,9 +17376,9 @@ Gabrielle	Gabrielle	NP	_
 .	.	PONCT	_
 Ah	ah	I	_
 !	!	PONCT	_
-Ah	Ah	I	_
+Ah	ah	I	_
 !	!	PONCT	_
-Ah	Ah	I	_
+Ah	ah	I	_
 !	!	PONCT	_
 ça	ça	CLS	_
 commence	commencer	V	_
@@ -17372,7 +17389,7 @@ tourne	tourne	NC	_
 tout	tout	ADV	_
 danse	danse	NC	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 .	.	PONCT	_
 .	.	PONCT	_
 Pauline	pauline	NC	_
@@ -17488,7 +17505,7 @@ belle	beau	ADJ	_
 en	en	P	_
 vérité	vérité	NC	_
 .	.	PONCT	_
-Tous	tous	PRO	_
+Tous	tout	PRO	_
 ,	,	PONCT	_
 buvant	boire	VPR	_
 au	à_le	P+D	_
@@ -17560,7 +17577,7 @@ Baron	baron	NP	_
 .	.	PONCT	_
 Ils	il	CLS	_
 sont	être	V	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 gris	gris	ADJ	_
 .	.	PONCT	_
 Ensemble	ensemble	ADV	_
@@ -17574,7 +17591,7 @@ gris	gris	ADJ	_
 ,	,	PONCT	_
 mais	mais	CC	_
 vous	vous	CLS	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 gris	gris	ADJ	_
 .	.	PONCT	_
 Tous	tout	ADJ	_
@@ -17636,7 +17653,7 @@ gris	gris	ADJ	_
 .	.	PONCT	_
 Etc.	etc.	ADV	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 puis	puis	CC	_
 ensuite	ensuite	ADV	_
 ,	,	PONCT	_
@@ -17659,8 +17676,8 @@ danse	danse	NC	_
 .	.	PONCT	_
 Ils	il	CLS	_
 sont	être	V	_
-tous	tous	PRO	_
-complétement	complétement	ADV	_
+tous	tout	PRO	_
+complétement	complètement	ADV	_
 gris	gris	ADJ	_
 .	.	PONCT	_
 Choeur	chœur	NC	_
@@ -17699,7 +17716,7 @@ tableau	tableau	NC	_
 .	.	PONCT	_
 ACTE	acte	NC	_
 4	4	ADJ	_
-SCèNE	SCèNE	NC	_
+SCèNE	scène	NC	_
 I	I	ADJ	_
 décor	décor	NC	_
 du	de_le	P+D	_
@@ -17894,7 +17911,7 @@ Alphonse	Alphonse	NP	_
 .	.	PONCT	_
 ACTE	acte	NC	_
 4	4	ADJ	_
-SCèNE	SCèNE	NC	_
+SCèNE	scène	NC	_
 II	II	ADJ	_
 Gardefeu	Gardefeu	NP	_
 .	.	PONCT	_
@@ -17965,7 +17982,7 @@ baronne	baronne	NC	_
 .	.	PONCT	_
 ACTE	acte	NC	_
 4	4	ADJ	_
-SCèNE	SCèNE	NC	_
+SCèNE	scène	NC	_
 III	III	ADJ	_
 Gardefeu	Gardefeu	NP	_
 ,	,	PONCT	_
@@ -17973,7 +17990,7 @@ la	le	DET	_
 baronne	baronne	NC	_
 .	.	PONCT	_
 La	le	DET	_
-Baronne	Baronne	NP	_
+Baronne	baron	NP	_
 .	.	PONCT	_
 Tiens	tenir	V	_
 ,	,	PONCT	_
@@ -17998,7 +18015,7 @@ la	le	DET	_
 baronne	baronne	NC	_
 .	.	PONCT	_
 La	le	DET	_
-Baronne	Baronne	NP	_
+Baronne	baron	NP	_
 .	.	PONCT	_
 Comment	comment	PROWH	_
 ,	,	PONCT	_
@@ -18022,7 +18039,7 @@ est	être	V	_
 sortie	sortir	VPP	_
 .	.	PONCT	_
 La	le	DET	_
-Baronne	Baronne	NP	_
+Baronne	baron	NP	_
 .	.	PONCT	_
 Et	et	CC	_
 pourquoi	pourquoi	PROWH	_
@@ -18034,7 +18051,7 @@ Gardefeu	Gardefeu	NP	_
 .	.	PONCT	_
 Ah	ah	I	_
 !	!	PONCT	_
-Voilà	Voilà	V	_
+Voilà	voilà	V	_
 !	!	PONCT	_
 ...	…	PONCT	_
 pourquoi	pourquoi	PROWH	_
@@ -18050,7 +18067,7 @@ un	un	DET	_
 voltigeur	voltigeur	NC	_
 ...	…	PONCT	_
 La	le	DET	_
-Baronne	Baronne	NP	_
+Baronne	baron	NP	_
 .	.	PONCT	_
 Un	un	DET	_
 voltigeur	voltigeur	NC	_
@@ -18062,7 +18079,7 @@ Oui	oui	I	_
 madame	madame	NC	_
 ...	…	PONCT	_
 La	le	DET	_
-Baronne	Baronne	NP	_
+Baronne	baron	NP	_
 .	.	PONCT	_
 Qu'	que	PROWH	_
 est	être	V	_
@@ -18170,7 +18187,7 @@ sont	être	V	_
 partis	partir	VPP	_
 .	.	PONCT	_
 La	le	DET	_
-Baronne	Baronne	NP	_
+Baronne	baron	NP	_
 .	.	PONCT	_
 Ils	il	CLS	_
 sont	être	V	_
@@ -18203,7 +18220,7 @@ pas	pas	ADV	_
 bientôt	bientôt	ADV	_
 ...	…	PONCT	_
 La	le	DET	_
-Baronne	Baronne	NP	_
+Baronne	baron	NP	_
 .	.	PONCT	_
 Et	et	CC	_
 mon	mon	DET	_
@@ -18225,7 +18242,7 @@ encore	encore	ADV	_
 madame	madame	NC	_
 ...	…	PONCT	_
 La	le	DET	_
-Baronne	Baronne	NP	_
+Baronne	baron	NP	_
 .	.	PONCT	_
 Comme	comme	CS	_
 vous	vous	CLS	_
@@ -18269,7 +18286,7 @@ on	on	CLS	_
 frappe	frapper	V	_
 .	.	PONCT	_
 La	le	DET	_
-Baronne	Baronne	NP	_
+Baronne	baron	NP	_
 .	.	PONCT	_
 On	on	CLS	_
 a	avoir	V	_
@@ -18299,7 +18316,7 @@ croyez	croire	V	_
 madame	madame	NC	_
 ?	?	PONCT	_
 La	le	DET	_
-Baronne	Baronne	NP	_
+Baronne	baron	NP	_
 .	.	PONCT	_
 Comment	comment	PROWH	_
 ,	,	PONCT	_
@@ -18335,7 +18352,7 @@ entend	entendre	V	_
 jamais	jamais	ADV	_
 .	.	PONCT	_
 La	le	DET	_
-Baronne	Baronne	NP	_
+Baronne	baron	NP	_
 .	.	PONCT	_
 Mais	mais	CC	_
 ,	,	PONCT	_
@@ -18381,10 +18398,10 @@ fort	fort	ADJ	_
 .	.	PONCT	_
 ACTE	acte	NC	_
 4	4	ADJ	_
-SCèNE	SCèNE	NC	_
+SCèNE	scène	NC	_
 IV	IV	ADJ	_
 La	le	DET	_
-Baronne	Baronne	NP	_
+Baronne	baron	NP	_
 .	.	PONCT	_
 Qu'	que	PROWH	_
 est	être	V	_
@@ -18467,7 +18484,7 @@ aussi	aussi	ADV	_
 ,	,	PONCT	_
 quelle	quel	DET	_
 ville	ville	NC	_
-charmante	charmant	ADJ	_
+charmante	charmer	ADJ	_
 !	!	PONCT	_
 ...	…	PONCT	_
 j'	je	CLS	_
@@ -18477,7 +18494,7 @@ italiens	italien	NC	_
 ...	…	PONCT	_
 ah	ah	I	_
 !	!	PONCT	_
-Quelle	Quelle	ADJ	_
+Quelle	quel	ADJ	_
 soirée	soirée	NC	_
 j'	je	CLS	_
 ai	avoir	V	_
@@ -18494,7 +18511,7 @@ lumières	lumière	NC	_
 !	!	PONCT	_
 Je	je	CLS	_
 suis	être	V	_
-encor	encor	ADV	_
+encor	encore	ADV	_
 tout	tout	ADV	_
 éblouie	éblouir	VPP	_
 ,	,	PONCT	_
@@ -18540,12 +18557,12 @@ et	et	CC	_
 lorgnant	lorgner	VPR	_
 ces	ce	DET	_
 femmes	femme	NC	_
-charmantes	charmant	ADJ	_
+charmantes	charmer	ADJ	_
 ,	,	PONCT	_
 force	force	NC	_
 petits	petit	ADJ	_
 messieurs	messieurs	NC	_
-charmants	charmant	ADJ	_
+charmants	charmer	ADJ	_
 !	!	PONCT	_
 J'	je	CLS	_
 arrive	arriver	V	_
@@ -18801,7 +18818,7 @@ voir	voir	VINF	_
 .	.	PONCT	_
 Je	je	CLS	_
 suis	être	V	_
-encor	encor	ADV	_
+encor	encore	ADV	_
 tout	tout	ADV	_
 éblouie	éblouir	VPP	_
 ,	,	PONCT	_
@@ -18836,7 +18853,7 @@ Paris	Paris	NP	_
 !	!	PONCT	_
 ACTE	acte	NC	_
 4	4	ADJ	_
-SCèNE	SCèNE	NC	_
+SCèNE	scène	NC	_
 V	V	ADJ	_
 La	le	DET	_
 baronne	baronne	NC	_
@@ -18854,7 +18871,7 @@ Madame	madame	NC	_
 madame	madame	NC	_
 ...	…	PONCT	_
 La	le	DET	_
-Baronne	Baronne	NP	_
+Baronne	baron	NP	_
 .	.	PONCT	_
 Eh_bien	eh_bien	I	_
 ?	?	PONCT	_
@@ -18872,7 +18889,7 @@ chambre	chambre	NC	_
 madame	madame	NC	_
 .	.	PONCT	_
 La	le	DET	_
-Baronne	Baronne	NP	_
+Baronne	baron	NP	_
 .	.	PONCT	_
 C'	ce	CLS	_
 était	être	V	_
@@ -18895,7 +18912,7 @@ mari	mari	NC	_
 madame	madame	NC	_
 .	.	PONCT	_
 La	le	DET	_
-Baronne	Baronne	NP	_
+Baronne	baron	NP	_
 .	.	PONCT	_
 Mais	mais	CC	_
 enfin	enfin	ADV	_
@@ -18961,7 +18978,7 @@ est	être	V	_
 pas	pas	ADV	_
 ?	?	PONCT	_
 La	le	DET	_
-Baronne	Baronne	NP	_
+Baronne	baron	NP	_
 .	.	PONCT	_
 Mais	mais	CC	_
 pas	pas	ADV	_
@@ -18986,7 +19003,7 @@ Verdure	Verdure	NP	_
 .	.	PONCT	_
 ACTE	acte	NC	_
 4	4	ADJ	_
-SCèNE	SCèNE	NC	_
+SCèNE	scène	NC	_
 VI	VI	ADJ	_
 les	le	DET	_
 mêmes	même	NC	_
@@ -19015,7 +19032,7 @@ le	il	CLO	_
 disais	dire	V	_
 ...	…	PONCT	_
 La	le	DET	_
-Baronne	Baronne	NP	_
+Baronne	baron	NP	_
 .	.	PONCT	_
 Ma	mon	DET	_
 chère	chère	NC	_
@@ -19150,7 +19167,7 @@ Karadec	Karadec	NP	_
 Madame	madame	NC	_
 ...	…	PONCT	_
 La	le	DET	_
-Baronne	Baronne	NP	_
+Baronne	baron	NP	_
 .	.	PONCT	_
 Madame	madame	NC	_
 ...	…	PONCT	_
@@ -19205,7 +19222,7 @@ votre	votre	DET	_
 service	service	NC	_
 ?	?	PONCT	_
 La	le	DET	_
-Baronne	Baronne	NP	_
+Baronne	baron	NP	_
 .	.	PONCT	_
 Oui	oui	I	_
 ,	,	PONCT	_
@@ -19287,7 +19304,7 @@ Eh_bien	eh_bien	I	_
 ,	,	PONCT	_
 allez	aller	V	_
 !	!	PONCT	_
-Allez	Allez	NP	_
+Allez	aller	NP	_
 !	!	PONCT	_
 Gardefeu	Gardefeu	NP	_
 ,	,	PONCT	_
@@ -19326,7 +19343,7 @@ Gardefeu	Gardefeu	NP	_
 .	.	PONCT	_
 Ah	ah	I	_
 !	!	PONCT	_
-Mais	Mais	NP	_
+Mais	mais	NP	_
 ...	…	PONCT	_
 ah	ah	I	_
 !	!	PONCT	_
@@ -19394,7 +19411,7 @@ est	être	V	_
 fâcheux	fâcheux	ADJ	_
 !	!	PONCT	_
 La	le	DET	_
-Baronne	Baronne	NP	_
+Baronne	baron	NP	_
 .	.	PONCT	_
 Mais	mais	CC	_
 je	je	CLS	_
@@ -19532,7 +19549,7 @@ allons	aller	V	_
 c'	ce	CLS	_
 est	être	V	_
 moins	moins	ADV	_
-effrayant	effrayant	ADJ	_
+effrayant	effrayer	ADJ	_
 que	que	CS	_
 je	je	CLS	_
 ne	ne	ADV	_
@@ -19559,7 +19576,7 @@ sort	sortir	V	_
 .	.	PONCT	_
 ACTE	acte	NC	_
 4	4	ADJ	_
-SCèNE	SCèNE	NC	_
+SCèNE	scène	NC	_
 VII	VII	ADJ	_
 Madame	madame	NC	_
 De	de	P	_
@@ -19577,7 +19594,7 @@ la	le	DET	_
 baronne	baronne	NC	_
 .	.	PONCT	_
 La	le	DET	_
-Baronne	Baronne	NP	_
+Baronne	baron	NP	_
 .	.	PONCT	_
 En	en	P	_
 attendant	attendre	VPR	_
@@ -19629,7 +19646,8 @@ annoncé	annoncer	VPP	_
 .	.	PONCT	_
 C'	ce	CLS	_
 était	être	V	_
-afin_de	afin_de	P	_
+afin	afin	ADV	_
+de	de	P	_
 voir	voir	VINF	_
 comment	comment	PROWH	_
 nos	notre	DET	_
@@ -19658,7 +19676,7 @@ dire	dire	VINF	_
 ,	,	PONCT	_
 elle	il	CLS	_
 a	avoir	V	_
-complétement	complétement	ADV	_
+complétement	complètement	ADV	_
 réussi	réussir	VPP	_
 .	.	PONCT	_
 Madame	madame	NC	_
@@ -19936,7 +19954,7 @@ De	de	P	_
 Quimper	Quimper	NP	_
 -	-	PONCT	_
 Karadec	Karadec	NP	_
-Et	Et	NP	_
+Et	et	NP	_
 De	de	P	_
 Folle	fou	ADJ	_
 -	-	PONCT	_
@@ -20016,7 +20034,7 @@ parisiens	parisien	NC	_
 ?	?	PONCT	_
 ...	…	PONCT	_
 La	le	DET	_
-Baronne	Baronne	NP	_
+Baronne	baron	NP	_
 .	.	PONCT	_
 Mais	mais	CC	_
 je	je	CLS	_
@@ -20115,7 +20133,7 @@ l'	le	DET	_
 impertinence	impertinence	NC	_
 ?	?	PONCT	_
 La	le	DET	_
-Baronne	Baronne	NP	_
+Baronne	baron	NP	_
 .	.	PONCT	_
 Il	il	CLS	_
 ne	ne	ADV	_
@@ -20137,7 +20155,7 @@ Mais	mais	CC	_
 si	si	I	_
 ...	…	PONCT	_
 La	le	DET	_
-Baronne	Baronne	NP	_
+Baronne	baron	NP	_
 .	.	PONCT	_
 Mais	mais	CC	_
 non	non	I	_
@@ -20205,7 +20223,7 @@ avez	avoir	V	_
 enfin	enfin	ADV	_
 ?	?	PONCT	_
 La	le	DET	_
-Baronne	Baronne	NP	_
+Baronne	baron	NP	_
 .	.	PONCT	_
 La	il	CLO	_
 voici	voici	V	_
@@ -20231,7 +20249,7 @@ de	de	P	_
 suite	suite	NC	_
 ...	…	PONCT	_
 La	le	DET	_
-Baronne	Baronne	NP	_
+Baronne	baron	NP	_
 .	.	PONCT	_
 Eh	eh	I	_
 !	!	PONCT	_
@@ -20265,7 +20283,7 @@ bonne	bon	ADJ	_
 heure	heure	NC	_
 ...	…	PONCT	_
 La	le	DET	_
-Baronne	Baronne	NP	_
+Baronne	baron	NP	_
 ,	,	PONCT	_
 parcourant	parcourir	VPR	_
 la	le	DET	_
@@ -20289,7 +20307,7 @@ c'	ce	CLS	_
 est	être	V	_
 ?	?	PONCT	_
 La	le	DET	_
-Baronne	Baronne	NP	_
+Baronne	baron	NP	_
 .	.	PONCT	_
 Oh	oh	I	_
 !	!	PONCT	_
@@ -20331,7 +20349,7 @@ je	je	CLS	_
 meure	mourir	V	_
 !	!	PONCT	_
 La	le	DET	_
-Baronne	Baronne	NP	_
+Baronne	baron	NP	_
 .	.	PONCT	_
 Cette	ce	DET	_
 lettre	lettre	NC	_
@@ -20360,7 +20378,7 @@ de	de	P	_
 cocotte	cocotte	NC	_
 !	!	PONCT	_
 La	le	DET	_
-Baronne	Baronne	NP	_
+Baronne	baron	NP	_
 .	.	PONCT	_
 Cette	ce	DET	_
 demoiselle	demoiselle	NC	_
@@ -20415,7 +20433,7 @@ prie	prier	V	_
 continuez	continuer	V	_
 ...	…	PONCT	_
 La	le	DET	_
-Baronne	Baronne	NP	_
+Baronne	baron	NP	_
 .	.	PONCT	_
 Je	je	CLS	_
 me	je	CLO	_
@@ -20508,7 +20526,7 @@ son	son	DET	_
 oeil-de-boeuf	œil-de-bœuf	NC	_
 .	.	PONCT	_
 La	le	DET	_
-Baronne	Baronne	NP	_
+Baronne	baron	NP	_
 .	.	PONCT	_
 Qu'	que	PROWH	_
 est	être	V	_
@@ -20553,7 +20571,7 @@ audacieuse	audacieux	ADJ	_
 exceptionnelle	exceptionnel	ADJ	_
 ...	…	PONCT	_
 La	le	DET	_
-Baronne	Baronne	NP	_
+Baronne	baron	NP	_
 .	.	PONCT	_
 Cependant	cependant	ADV	_
 ,	,	PONCT	_
@@ -20607,7 +20625,7 @@ un	un	DET	_
 polisson	polisson	NC	_
 !	!	PONCT	_
 La	le	DET	_
-Baronne	Baronne	NP	_
+Baronne	baron	NP	_
 .	.	PONCT	_
 Partons	parton	NC	_
 ...	…	PONCT	_
@@ -20628,7 +20646,7 @@ veux	vouloir	V	_
 faire	faire	VINF	_
 ?	?	PONCT	_
 La	le	DET	_
-Baronne	Baronne	NP	_
+Baronne	baron	NP	_
 .	.	PONCT	_
 Partir	partir	VINF	_
 d'	de	P	_
@@ -20658,7 +20676,7 @@ a	avoir	V	_
 osé	oser	VPP	_
 ...	…	PONCT	_
 La	le	DET	_
-Baronne	Baronne	NP	_
+Baronne	baron	NP	_
 .	.	PONCT	_
 Le	il	CLO	_
 punir	punir	VINF	_
@@ -20797,7 +20815,7 @@ venger	venger	VINF	_
 !	!	PONCT	_
 ACTE	acte	NC	_
 4	4	ADJ	_
-SCèNE	SCèNE	NC	_
+SCèNE	scène	NC	_
 VIII	VIII	ADJ	_
 les	le	DET	_
 mêmes	même	NC	_
@@ -20837,7 +20855,7 @@ au	à_le	P+D	_
 grand-hôtel	grand-hôtel	NC	_
 .	.	PONCT	_
 La	le	DET	_
-Baronne	Baronne	NP	_
+Baronne	baron	NP	_
 .	.	PONCT	_
 Je	je	CLS	_
 croyais	croire	V	_
@@ -20943,7 +20961,7 @@ sort	sortir	V	_
 .	.	PONCT	_
 ACTE	acte	NC	_
 4	4	ADJ	_
-SCèNE	SCèNE	NC	_
+SCèNE	scène	NC	_
 IX	IX	ADJ	_
 les	le	DET	_
 mêmes	même	NC	_
@@ -20952,7 +20970,7 @@ moins	moins	ADV	_
 Gardefeu	Gardefeu	NP	_
 .	.	PONCT	_
 La	le	DET	_
-Baronne	Baronne	NP	_
+Baronne	baron	NP	_
 .	.	PONCT	_
 Comment	comment	PROWH	_
 !	!	PONCT	_
@@ -21017,7 +21035,7 @@ votre	votre	DET	_
 chambre	chambre	NC	_
 ?	?	PONCT	_
 La	le	DET	_
-Baronne	Baronne	NP	_
+Baronne	baron	NP	_
 ,	,	PONCT	_
 la	le	DET	_
 lui	il	CLO	_
@@ -21128,7 +21146,7 @@ bien	bien	ADV	_
 ...	…	PONCT	_
 allez	aller	V	_
 !	!	PONCT	_
-Allez	Allez	V	_
+Allez	aller	V	_
 vite	vite	ADV	_
 !	!	PONCT	_
 ...	…	PONCT	_
@@ -21147,7 +21165,7 @@ venger	venger	VINF	_
 !	!	PONCT	_
 Etc.	etc.	ADV	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 les	le	DET	_
 deux	deux	ADJ	_
 femmes	femme	NC	_
@@ -21155,7 +21173,7 @@ sortent	sortir	V	_
 .	.	PONCT	_
 ACTE	acte	NC	_
 4	4	ADJ	_
-SCèNE	SCèNE	NC	_
+SCèNE	scène	NC	_
 X	X	ADJ	_
 Madame	madame	NC	_
 De	de	P	_
@@ -21174,7 +21192,7 @@ Karadec	Karadec	NP	_
 .	.	PONCT	_
 Ah	ah	I	_
 !	!	PONCT	_
-Ah	Ah	I	_
+Ah	ah	I	_
 !	!	PONCT	_
 M	M	NC	_
 De	de	P	_
@@ -21495,7 +21513,8 @@ je	je	CLS	_
 suis	être	V	_
 restée	rester	VPP	_
 ,	,	PONCT	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 je	je	CLS	_
 vous	vous	CLO	_
 avais	avoir	V	_
@@ -21511,7 +21530,8 @@ Quimper	Quimper	NP	_
 -	-	PONCT	_
 Karadec	Karadec	NP	_
 .	.	PONCT	_
-Parce_que	parce_que	CS	_
+Parce	parce	ADV	_
+que	que	CS	_
 je	je	CLS	_
 vous	vous	CLO	_
 avais	avoir	V	_
@@ -21698,7 +21718,8 @@ pourquoi	pourquoi	PROWH	_
 ça	ça	PRO	_
 ?	?	PONCT	_
 ...	…	PONCT	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 je	je	CLS	_
 ne	ne	ADV	_
 suis	être	V	_
@@ -21739,7 +21760,8 @@ Gardefeu	Gardefeu	NP	_
 .	.	PONCT	_
 Oh	oh	I	_
 !	!	PONCT	_
-Quant_à	quant_à	P	_
+Quant	quant	ADV	_
+à	à	P	_
 ça	ça	PRO	_
 vous	vous	CLO	_
 pouvez	pouvoir	V	_
@@ -21837,7 +21859,7 @@ Gardefeu	Gardefeu	NP	_
 .	.	PONCT	_
 Oh	oh	I	_
 !	!	PONCT	_
-Oh	Oh	NP	_
+Oh	oh	NP	_
 !	!	PONCT	_
 Madame	madame	NC	_
 De	de	P	_
@@ -21952,7 +21974,7 @@ ah	ah	I	_
 !	!	PONCT	_
 Ah	ah	I	_
 !	!	PONCT	_
-Nous	Nous	ADV	_
+Nous	nous	ADV	_
 voulons	vouloir	V	_
 nous	nous	CLO	_
 moquer	moquer	VINF	_
@@ -22051,7 +22073,7 @@ Karadec	Karadec	NP	_
 .	.	PONCT	_
 Ah	ah	I	_
 !	!	PONCT	_
-Je	Je	ADV	_
+Je	je	ADV	_
 crois	croire	V	_
 bien	bien	ADV	_
 !	!	PONCT	_
@@ -22677,7 +22699,7 @@ entre	entrer	V	_
 .	.	PONCT	_
 ACTE	acte	NC	_
 4	4	ADJ	_
-SCèNE	SCèNE	NC	_
+SCèNE	scène	NC	_
 XI	XI	ADJ	_
 Gardefeu	Gardefeu	NP	_
 ,	,	PONCT	_
@@ -22738,7 +22760,7 @@ par	par	P	_
 le	le	DET	_
 bras	bras	NC	_
 ,	,	PONCT	_
-complétement	complétement	ADV	_
+complétement	complètement	ADV	_
 gris	gris	ADJ	_
 tous	tout	ADJ	_
 les	le	DET	_
@@ -22848,7 +22870,7 @@ Le	le	DET	_
 Baron	baron	NP	_
 .	.	PONCT	_
 Moment	moment	NC	_
-charmant	charmant	ADJ	_
+charmant	charmer	ADJ	_
 !	!	PONCT	_
 La	le	DET	_
 baronne	baronne	NC	_
@@ -22926,7 +22948,7 @@ pincettes	pincette	NC	_
 .	.	PONCT	_
 ACTE	acte	NC	_
 5	5	ADJ	_
-SCèNE	SCèNE	NC	_
+SCèNE	scène	NC	_
 I	I	ADJ	_
 un	un	DET	_
 salon	salon	NC	_
@@ -23030,7 +23052,7 @@ débarqué	débarquer	VPP	_
 ;	;	PONCT	_
 ce	ce	CLS	_
 sera	être	V	_
-charmant	charmant	ADJ	_
+charmant	charmer	ADJ	_
 t	t	NC	_
 le	le	DET	_
 souper	souper	NC	_
@@ -23116,7 +23138,7 @@ fermez	fermer	V	_
 les	le	DET	_
 yeux	œil	NC	_
 !	!	PONCT	_
-Tous	tous	PRO	_
+Tous	tout	PRO	_
 .	.	PONCT	_
 Fermons	fermer	V	_
 les	le	DET	_
@@ -23185,7 +23207,7 @@ fermez	fermer	V	_
 les	le	DET	_
 yeux	œil	NC	_
 !	!	PONCT	_
-Tous	tous	PRO	_
+Tous	tout	PRO	_
 .	.	PONCT	_
 Fermons	fermer	V	_
 les	le	DET	_
@@ -23223,7 +23245,7 @@ café	café	NC	_
 .	.	PONCT	_
 ACTE	acte	NC	_
 5	5	ADJ	_
-SCèNE	SCèNE	NC	_
+SCèNE	scène	NC	_
 II	II	ADJ	_
 Urbain	urbain	ADJ	_
 ,	,	PONCT	_
@@ -23325,7 +23347,7 @@ Gondremarck	Gondremarck	NP	_
 .	.	PONCT	_
 ACTE	acte	NC	_
 5	5	ADJ	_
-SCèNE	SCèNE	NC	_
+SCèNE	scène	NC	_
 III	III	ADJ	_
 Urbain	urbain	ADJ	_
 ,	,	PONCT	_
@@ -23514,7 +23536,8 @@ moi	je	PRO	_
 tout	tout	ADV	_
 seul	seul	ADJ	_
 ...	…	PONCT	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 j'	je	CLS	_
 attends	attendre	V	_
 une	un	DET	_
@@ -23636,7 +23659,7 @@ Métella	Métella	NP	_
 !	!	PONCT	_
 ACTE	acte	NC	_
 5	5	ADJ	_
-SCèNE	SCèNE	NC	_
+SCèNE	scène	NC	_
 IV	IV	ADJ	_
 les	le	DET	_
 mêmes	même	NC	_
@@ -23734,7 +23757,7 @@ yeux	œil	NC	_
 .	.	PONCT	_
 ACTE	acte	NC	_
 5	5	ADJ	_
-SCèNE	SCèNE	NC	_
+SCèNE	scène	NC	_
 V	V	ADJ	_
 Métella	Métella	NP	_
 ,	,	PONCT	_
@@ -23834,7 +23857,7 @@ Baron	baron	NP	_
 .	.	PONCT	_
 Oh	oh	I	_
 !	!	PONCT	_
-Oh	Oh	NP	_
+Oh	oh	NP	_
 !	!	PONCT	_
 Métella	Métella	NP	_
 .	.	PONCT	_
@@ -24000,7 +24023,7 @@ messieurs	messieurs	NC	_
 ,	,	PONCT	_
 des	un	DET	_
 femmes	femme	NC	_
-charmantes	charmant	ADJ	_
+charmantes	charmer	ADJ	_
 qui	qui	PROREL	_
 viennent	venir	V	_
 pimpantes	pimpant	ADJ	_
@@ -24213,7 +24236,7 @@ de	de	P	_
 gaîté	gaîté	NC	_
 !	!	PONCT	_
 Les	le	DET	_
-brillants	brillant	ADJ	_
+brillants	briller	ADJ	_
 viveurs	viveur	NC	_
 sont	être	V	_
 mal	mal	ADV	_
@@ -24298,7 +24321,7 @@ dégage	dégager	V	_
 .	.	PONCT	_
 ACTE	acte	NC	_
 5	5	ADJ	_
-SCèNE	SCèNE	NC	_
+SCèNE	scène	NC	_
 VI	VI	ADJ	_
 les	le	DET	_
 mêmes	même	NC	_
@@ -24382,7 +24405,7 @@ Mademoiselle	mademoiselle	NC	_
 Métella	Métella	NP	_
 ?	?	PONCT	_
 La	le	DET	_
-Baronne	Baronne	NP	_
+Baronne	baron	NP	_
 .	.	PONCT	_
 Oui	oui	I	_
 ,	,	PONCT	_
@@ -24407,7 +24430,7 @@ fait	faire	VPP	_
 venir	venir	VINF	_
 ?	?	PONCT	_
 La	le	DET	_
-Baronne	Baronne	NP	_
+Baronne	baron	NP	_
 .	.	PONCT	_
 Je	je	CLS	_
 le	il	CLO	_
@@ -24463,7 +24486,7 @@ me	je	CLO	_
 connaissent	connaître	V	_
 .	.	PONCT	_
 La	le	DET	_
-Baronne	Baronne	NP	_
+Baronne	baron	NP	_
 .	.	PONCT	_
 Je	je	CLS	_
 te	tu	CLO	_
@@ -24488,14 +24511,14 @@ connais	connaître	V	_
 !	!	PONCT	_
 Les	le	DET	_
 Quatre	quatre	NC	_
-Femmes	Femmes	NP	_
+Femmes	femme	NP	_
 .	.	PONCT	_
 Je	je	CLS	_
 te	tu	CLO	_
 connais	connaître	V	_
 !	!	PONCT	_
 La	le	DET	_
-Baronne	Baronne	NP	_
+Baronne	baron	NP	_
 .	.	PONCT	_
 I	I	X	_
 tu	tu	CLS	_
@@ -24541,9 +24564,9 @@ Tu	tu	CLS	_
 me	je	CLO	_
 connais	connaître	V	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 Madame	madame	NC	_
 De	de	P	_
 Folle	Folle	NP	_
@@ -24587,7 +24610,7 @@ Je	je	CLS	_
 te	tu	CLO	_
 connais	connaître	V	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 Métella	Métella	NP	_
 .	.	PONCT	_
 Et	et	CC	_
@@ -24621,13 +24644,13 @@ Je	je	CLS	_
 te	tu	CLO	_
 connais	connaître	V	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 entre	entre	P	_
 Urbain	Urbain	NP	_
 .	.	PONCT	_
 ACTE	acte	NC	_
 5	5	ADJ	_
-SCèNE	SCèNE	NC	_
+SCèNE	scène	NC	_
 VII	VII	ADJ	_
 les	le	DET	_
 mêmes	même	NC	_
@@ -24843,7 +24866,7 @@ Baron	baron	NP	_
 .	.	PONCT	_
 Bah	bah	I	_
 !	!	PONCT	_
-Je	Je	NP	_
+Je	je	NP	_
 me	je	CLO	_
 risque	risquer	V	_
 !	!	PONCT	_
@@ -24901,7 +24924,7 @@ porte	porte	NC	_
 .	.	PONCT	_
 ACTE	acte	NC	_
 5	5	ADJ	_
-SCèNE	SCèNE	NC	_
+SCèNE	scène	NC	_
 VIII	VIII	ADJ	_
 le	le	DET	_
 baron	baron	NC	_
@@ -25115,7 +25138,7 @@ Ohé	ohé	I	_
 !	!	PONCT	_
 ACTE	acte	NC	_
 5	5	ADJ	_
-SCèNE	SCèNE	NC	_
+SCèNE	scène	NC	_
 IX	IX	ADJ	_
 masques	masquer	V	_
 hommes	homme	NC	_
@@ -25174,7 +25197,7 @@ douceurs	douceur	NC	_
 .	.	PONCT	_
 Nous	nous	CLS	_
 arrivons	arriver	V	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 amoureux	amoureux	ADJ	_
 ,	,	PONCT	_
 et	et	CC	_
@@ -25191,7 +25214,7 @@ et	et	CC	_
 ravis	ravi	ADJ	_
 .	.	PONCT	_
 Le	le	DET	_
-Brésilien	Brésilien	NC	_
+Brésilien	brésilien	NC	_
 ,	,	PONCT	_
 entrant	entrer	VPR	_
 avec	avec	P	_
@@ -25243,7 +25266,7 @@ un	un	DET	_
 brésilien	brésilien	NC	_
 .	.	PONCT	_
 Le	le	DET	_
-Brésilien	Brésilien	NC	_
+Brésilien	brésilien	NC	_
 .	.	PONCT	_
 Il	il	CLS	_
 lui	il	CLO	_
@@ -25278,13 +25301,13 @@ beau	beau	ADJ	_
 brésilien	brésilien	NC	_
 ?	?	PONCT	_
 Le	le	DET	_
-Brésilien	Brésilien	NC	_
+Brésilien	brésilien	NC	_
 .	.	PONCT	_
 Sang	sang	NC	_
 de	de	P	_
 boeuf	bœuf	NC	_
 ,	,	PONCT	_
-charmante	charmant	ADJ	_
+charmante	charmer	ADJ	_
 gantière	gantière	NC	_
 ,	,	PONCT	_
 lui	il	CLO	_
@@ -25310,7 +25333,7 @@ le	le	DET	_
 brésilien	brésilien	NC	_
 ,	,	PONCT	_
 Le	le	DET	_
-Brésilien	Brésilien	NC	_
+Brésilien	brésilien	NC	_
 .	.	PONCT	_
 Et	et	CC	_
 dans	dans	P	_
@@ -25360,7 +25383,7 @@ le	le	DET	_
 brésilien	brésilien	NC	_
 .	.	PONCT	_
 Le	le	DET	_
-Brésilien	Brésilien	NC	_
+Brésilien	brésilien	NC	_
 .	.	PONCT	_
 Les	le	DET	_
 gants	gant	NC	_
@@ -25391,7 +25414,7 @@ séduisant	séduire	VPR	_
 brésilien	brésilien	ADJ	_
 !	!	PONCT	_
 Le	le	DET	_
-Brésilien	Brésilien	NC	_
+Brésilien	brésilien	NC	_
 .	.	PONCT	_
 Tu	tu	CLS	_
 veux	vouloir	V	_
@@ -25419,7 +25442,7 @@ le	le	DET	_
 brésilien	brésilien	NC	_
 !	!	PONCT	_
 Le	le	DET	_
-Brésilien	Brésilien	NC	_
+Brésilien	brésilien	NC	_
 .	.	PONCT	_
 Et	et	CC	_
 voilà	voilà	V	_
@@ -25447,7 +25470,7 @@ Gardefeu	Gardefeu	NP	_
 déguisés	déguiser	VPP	_
 .	.	PONCT	_
 Bobinet	bobinet	NC	_
-Et	Et	NP	_
+Et	et	NP	_
 Gardefeu	Gardefeu	NP	_
 .	.	PONCT	_
 Nous	nous	CLO	_
@@ -25457,7 +25480,7 @@ nous	nous	CLO	_
 voilà	voilà	V	_
 !	!	PONCT	_
 Le	le	DET	_
-Brésilien	Brésilien	NC	_
+Brésilien	brésilien	NC	_
 .	.	PONCT	_
 Eh	eh	I	_
 !	!	PONCT	_
@@ -25477,7 +25500,7 @@ maintenant	maintenant	ADV	_
 allons	aller	V	_
 souper	souper	VINF	_
 .	.	PONCT	_
-Tous	tous	PRO	_
+Tous	tout	PRO	_
 .	.	PONCT	_
 Allons	aller	V	_
 souper	souper	VINF	_
@@ -25513,7 +25536,7 @@ cela	cela	PRO	_
 ?	?	PONCT	_
 ACTE	acte	NC	_
 5	5	ADJ	_
-SCèNE	SCèNE	NC	_
+SCèNE	scène	NC	_
 X	X	ADJ	_
 les	le	DET	_
 mêmes	même	NC	_
@@ -25566,7 +25589,7 @@ va	aller	V	_
 se	se	CLO	_
 battre	battre	VINF	_
 !	!	PONCT	_
-Tous	tous	PRO	_
+Tous	tout	PRO	_
 .	.	PONCT	_
 On	on	CLS	_
 va	aller	V	_
@@ -25574,7 +25597,7 @@ se	se	CLO	_
 battre	battre	VINF	_
 !	!	PONCT	_
 Le	le	DET	_
-Brésilien	Brésilien	NC	_
+Brésilien	brésilien	NC	_
 .	.	PONCT	_
 N'	ne	ADV	_
 ayez	avoir	V	_
@@ -25606,7 +25629,7 @@ tout	tout	ADV	_
 l'	le	DET	_
 heure	heure	NC	_
 ,	,	PONCT	_
-charmante	charmant	ADJ	_
+charmante	charmer	ADJ	_
 gantière	gantière	NC	_
 !	!	PONCT	_
 Gabrielle	Gabrielle	NP	_
@@ -25639,7 +25662,7 @@ brésilien	brésilien	NC	_
 .	.	PONCT	_
 ACTE	acte	NC	_
 5	5	ADJ	_
-SCèNE	SCèNE	NC	_
+SCèNE	scène	NC	_
 XI	XI	ADJ	_
 le	le	DET	_
 baron	baron	NC	_
@@ -25685,7 +25708,7 @@ l'	il	CLO	_
 ausi	ausi	ADV	_
 .	.	PONCT	_
 Le	le	DET	_
-Brésilien	Brésilien	NC	_
+Brésilien	brésilien	NC	_
 .	.	PONCT	_
 Je	je	CLS	_
 le	il	CLO	_
@@ -25714,7 +25737,7 @@ assister	assister	VINF	_
 ?	?	PONCT	_
 ...	…	PONCT	_
 Le	le	DET	_
-Brésilien	Brésilien	NC	_
+Brésilien	brésilien	NC	_
 .	.	PONCT	_
 Avec	avec	P	_
 plaisir	plaisir	NC	_
@@ -25740,7 +25763,7 @@ mais	mais	CC	_
 une	un	DET	_
 condition	condition	NC	_
 .	.	PONCT	_
-Tous	tous	PRO	_
+Tous	tout	PRO	_
 .	.	PONCT	_
 Laquelle	il	PROWH	_
 ?	?	PONCT	_
@@ -25775,7 +25798,7 @@ en	en	CLO	_
 mêler	mêler	VINF	_
 .	.	PONCT	_
 Le	le	DET	_
-Brésilien	Brésilien	NC	_
+Brésilien	brésilien	NC	_
 .	.	PONCT	_
 Si	si	CS	_
 ce	ce	CLS	_
@@ -25808,7 +25831,7 @@ mais	mais	CC	_
 non	non	I	_
 .	.	PONCT	_
 Le	le	DET	_
-Brésilien	Brésilien	NC	_
+Brésilien	brésilien	NC	_
 .	.	PONCT	_
 Je	je	CLS	_
 m'	je	CLO	_
@@ -25837,7 +25860,7 @@ sera	être	V	_
 sérieux	sérieux	ADJ	_
 !	!	PONCT	_
 Le	le	DET	_
-Brésilien	Brésilien	NC	_
+Brésilien	brésilien	NC	_
 .	.	PONCT	_
 C'	ce	CLS	_
 est	être	V	_
@@ -25857,7 +25880,7 @@ Commençons	commencer	V	_
 alors	alors	ADV	_
 .	.	PONCT	_
 Le	le	DET	_
-Brésilien	Brésilien	NC	_
+Brésilien	brésilien	NC	_
 .	.	PONCT	_
 Commençons	commencer	V	_
 !	!	PONCT	_
@@ -25878,7 +25901,7 @@ Bobinet	bobinet	NC	_
 Bien	bien	ADV	_
 !	!	PONCT	_
 Le	le	DET	_
-Brésilien	Brésilien	NC	_
+Brésilien	brésilien	NC	_
 .	.	PONCT	_
 Nous	nous	CLS	_
 y	y	CLO	_
@@ -25917,7 +25940,7 @@ bien	bien	ADV	_
 cela	cela	PRO	_
 !	!	PONCT	_
 Le	le	DET	_
-Brésilien	Brésilien	NC	_
+Brésilien	brésilien	NC	_
 .	.	PONCT	_
 Nous	nous	CLS	_
 nous	nous	CLO	_
@@ -26059,7 +26082,7 @@ petit	petit	ADJ	_
 procès-verbal	procès-verbal	NC	_
 .	.	PONCT	_
 Le	le	DET	_
-Brésilien	Brésilien	NC	_
+Brésilien	brésilien	NC	_
 ,	,	PONCT	_
 mécontent	mécontent	ADJ	_
 .	.	PONCT	_
@@ -26131,7 +26154,7 @@ de	de	P	_
 quoi	quoi	PROWH	_
 ?	?	PONCT	_
 Le	le	DET	_
-Brésilien	Brésilien	NC	_
+Brésilien	brésilien	NC	_
 .	.	PONCT	_
 Répondez	répondre	V	_
 ...	…	PONCT	_
@@ -26193,7 +26216,7 @@ ou	ou	CC	_
 non	non	I	_
 ?	?	PONCT	_
 Le	le	DET	_
-Brésilien	Brésilien	NC	_
+Brésilien	brésilien	NC	_
 .	.	PONCT	_
 Si	si	CS	_
 vous	vous	CLS	_
@@ -26343,7 +26366,7 @@ parlez	parler	V	_
 alors	alors	ADV	_
 ?	?	PONCT	_
 Le	le	DET	_
-Brésilien	Brésilien	NC	_
+Brésilien	brésilien	NC	_
 .	.	PONCT	_
 Si	si	CS	_
 le	le	DET	_
@@ -26421,7 +26444,7 @@ mon	mon	DET	_
 ami	ami	NC	_
 .	.	PONCT	_
 Le	le	DET	_
-Brésilien	Brésilien	NC	_
+Brésilien	brésilien	NC	_
 .	.	PONCT	_
 Pourquoi	pourquoi	PROWH	_
 ?	?	PONCT	_
@@ -26455,7 +26478,7 @@ procès-verbal	procès-verbal	NC	_
 .	.	PONCT	_
 Le	le	DET	_
 Baron	baron	NP	_
-Et	Et	NP	_
+Et	et	NP	_
 Gardefeu	Gardefeu	NP	_
 .	.	PONCT	_
 Oui	oui	I	_
@@ -26560,7 +26583,8 @@ dire	dire	VINF	_
 d'	de	P	_
 abord	abord	NC	_
 ,	,	PONCT	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 ça	ça	CLS	_
 ne	ne	ADV	_
 serait	être	V	_
@@ -26569,7 +26593,8 @@ poli	polir	VPP	_
 ...	…	PONCT	_
 et	et	CC	_
 puis	puis	ADV	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 ça	ça	CLS	_
 ne	ne	ADV	_
 serait	être	V	_
@@ -26606,7 +26631,7 @@ Baron	baron	NP	_
 Et	et	CC	_
 ferme	ferme	NC	_
 !	!	PONCT	_
-Tous	tous	PRO	_
+Tous	tout	PRO	_
 .	.	PONCT	_
 De	de	P	_
 quoi	quoi	PROWH	_
@@ -26617,7 +26642,7 @@ vou	vou	NC	_
 alors	alors	ADV	_
 ?	?	PONCT	_
 Le	le	DET	_
-Brésilien	Brésilien	NC	_
+Brésilien	brésilien	NC	_
 .	.	PONCT	_
 écoutez	écouter	V	_
 -moi	je	CLO	_
@@ -26776,7 +26801,7 @@ Bobinet	bobinet	NC	_
 Et	et	CC	_
 madame	madame	NC	_
 l'	le	DET	_
-amirale	amirale	NC	_
+amirale	amiral	NC	_
 ...	…	PONCT	_
 hé	hé	I	_
 ?	?	PONCT	_
@@ -26787,7 +26812,7 @@ Oh	oh	I	_
 !	!	PONCT	_
 Madame	madame	NC	_
 l'	le	DET	_
-amirale	amirale	NC	_
+amirale	amiral	NC	_
 !	!	PONCT	_
 ...	…	PONCT	_
 très	très	ADV	_
@@ -26797,7 +26822,7 @@ aussi	aussi	ADV	_
 ,	,	PONCT	_
 madame	madame	NC	_
 l'	le	DET	_
-amirale	amirale	NC	_
+amirale	amiral	NC	_
 .	.	PONCT	_
 Gardefeu	Gardefeu	NP	_
 .	.	PONCT	_
@@ -26840,7 +26865,7 @@ arrangé	arranger	VPP	_
 alors	alors	ADV	_
 ?	?	PONCT	_
 Le	le	DET	_
-Brésilien	Brésilien	NC	_
+Brésilien	brésilien	NC	_
 .	.	PONCT	_
 Il	il	CLS	_
 n'	ne	ADV	_
@@ -26878,7 +26903,7 @@ la	le	DET	_
 fin	fin	NC	_
 !	!	PONCT	_
 Le	le	DET	_
-Brésilien	Brésilien	NC	_
+Brésilien	brésilien	NC	_
 .	.	PONCT	_
 Qu'	que	PROWH	_
 est	être	V	_
@@ -26899,7 +26924,7 @@ vous	vous	CLS	_
 insupportable	insupportable	ADJ	_
 .	.	PONCT	_
 Le	le	DET	_
-Brésilien	Brésilien	NC	_
+Brésilien	brésilien	NC	_
 .	.	PONCT	_
 Alors	alors	ADV	_
 ,	,	PONCT	_
@@ -27002,7 +27027,7 @@ tout	tout	PRO	_
 !	!	PONCT	_
 Les	le	DET	_
 Cinq	cinq	NC	_
-Femmes	Femmes	NP	_
+Femmes	femme	NP	_
 .	.	PONCT	_
 Messieurs	monsieur	NC	_
 !	!	PONCT	_
@@ -27011,7 +27036,7 @@ messieurs	messieurs	NC	_
 !	!	PONCT	_
 ...	…	PONCT	_
 La	le	DET	_
-Baronne	Baronne	NP	_
+Baronne	baron	NP	_
 ,	,	PONCT	_
 au	à_le	P+D	_
 baron	baron	NC	_
@@ -27029,7 +27054,7 @@ Ma	mon	DET	_
 femme	femme	NC	_
 !	!	PONCT	_
 La	le	DET	_
-Baronne	Baronne	NP	_
+Baronne	baron	NP	_
 .	.	PONCT	_
 Oui	oui	I	_
 .	.	PONCT	_
@@ -27040,7 +27065,7 @@ Pardonnez	pardonner	V	_
 -moi	je	CLO	_
 .	.	PONCT	_
 La	le	DET	_
-Baronne	Baronne	NP	_
+Baronne	baron	NP	_
 .	.	PONCT	_
 Oui	oui	I	_
 ,	,	PONCT	_
@@ -27082,7 +27107,7 @@ de	de	P	_
 ta	ton	DET	_
 cousine	cousine	NC	_
 et	et	CC	_
-protége	protége	V	_
+protége	protéger	V	_
 -nous	nous	CLO	_
 .	.	PONCT	_
 Gabrielle	Gabrielle	NP	_
@@ -27099,7 +27124,7 @@ est	être	V	_
 arrangé	arranger	VPP	_
 .	.	PONCT	_
 Le	le	DET	_
-Brésilien	Brésilien	NC	_
+Brésilien	brésilien	NC	_
 .	.	PONCT	_
 Eh_bien	eh_bien	I	_
 !	!	PONCT	_
@@ -27138,13 +27163,13 @@ cris	cri	NC	_
 célébrons	célébrer	V	_
 Paris	Paris	NP	_
 .	.	PONCT	_
-Tous	tous	PRO	_
+Tous	tout	PRO	_
 .	.	PONCT	_
 Célébrons	célébrer	V	_
 Paris	Paris	NP	_
 .	.	PONCT	_
 Le	le	DET	_
-Brésilien	Brésilien	NC	_
+Brésilien	brésilien	NC	_
 .	.	PONCT	_
 I	I	X	_
 en	en	P	_
@@ -27203,7 +27228,7 @@ pif	pif	NC	_
 et	et	CC	_
 paf	paf	ADJ	_
 !	!	PONCT	_
-Tous	tous	PRO	_
+Tous	tout	PRO	_
 .	.	PONCT	_
 Et	et	CC	_
 pif	pif	NC	_
@@ -27288,10 +27313,10 @@ pif	pif	NC	_
 ,	,	PONCT	_
 paf	paf	ADJ	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
-Tous	tous	PRO	_
+etc.	etc	ADV	_
+Tous	tout	PRO	_
 .	.	PONCT	_
 Et	et	CC	_
 pif	pif	NC	_
@@ -27299,9 +27324,9 @@ pif	pif	NC	_
 et	et	CC	_
 paf	paf	ADJ	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 Oui	oui	I	_
 ,	,	PONCT	_
 voilà	voilà	V	_
@@ -27309,11 +27334,11 @@ la	le	DET	_
 vie	vie	NC	_
 parisienne	parisien	ADJ	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 La	le	DET	_
-Baronne	Baronne	NP	_
+Baronne	baron	NP	_
 .	.	PONCT	_
 III	III	X	_
 des	un	DET	_
@@ -27354,7 +27379,7 @@ un	un	DET	_
 pardon	pardon	NC	_
 général	général	ADJ	_
 .	.	PONCT	_
-Tous	tous	PRO	_
+Tous	tout	PRO	_
 .	.	PONCT	_
 Et	et	CC	_
 pif	pif	NC	_
@@ -27375,7 +27400,7 @@ la	le	DET	_
 vie	vie	NC	_
 parisienne	parisien	ADJ	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 fin	fin	ADJ	_

@@ -30,7 +30,7 @@ intérêt	intérêt	NC	_
 elles	il	CLS	_
 le	il	CLO	_
 tiennent	tenir	V	_
-sur-tout	sur-tout	ADV	_
+sur-tout	surtout	ADV	_
 de	de	P	_
 l'	le	DET	_
 usage	usage	NC	_
@@ -170,7 +170,7 @@ l'on	on	CLS	_
 n'	ne	ADV	_
 apperçoit	apercevoir	V	_
 plus	plus	ADV	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 une	un	DET	_
 pulpe	pulpe	NC	_
 à	à	P	_
@@ -441,7 +441,7 @@ d'	de	P	_
 en	en	CLO	_
 suivre	suivre	VINF	_
 les	le	DET	_
-embranchemens	embranchemens	NC	_
+embranchemens	embranchement	NC	_
 et	et	CC	_
 d'	de	P	_
 en	en	CLO	_
@@ -499,7 +499,7 @@ faut	falloir	V	_
 qu'	que	CS	_
 il	il	CLS	_
 distingue	distinguer	V	_
-sur-tout	sur-tout	ADV	_
+sur-tout	surtout	ADV	_
 ce	ce	PRO	_
 qui	qui	PROREL	_
 fait	faire	V	_
@@ -583,7 +583,7 @@ qu'	que	CS	_
 il	il	CLS	_
 les	il	CLO	_
 compare	comparer	V	_
-toutes	tous	PRO	_
+toutes	tout	PRO	_
 ,	,	PONCT	_
 et	et	CC	_
 qu'	que	CS	_
@@ -612,7 +612,7 @@ parcelle	parcelle	NC	_
 Ce	ce	CLS	_
 n'	ne	ADV	_
 est	être	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 à	à	P	_
 ce	ce	DET	_
 prix	prix	NC	_
@@ -835,12 +835,12 @@ elles	il	CLS	_
 ne	ne	ADV	_
 peuvent	pouvoir	V	_
 agir	agir	VINF	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 autant	autant	ADV	_
 qu'	que	CS	_
 elles	il	CLS	_
 agissent	agir	V	_
-toutes	tous	PRO	_
+toutes	tout	PRO	_
 ensemble	ensemble	ADV	_
 :	:	PONCT	_
 vouloir	vouloir	VINF	_
@@ -1090,7 +1090,7 @@ celles	celui	PRO	_
 qui	qui	PROREL	_
 ne	ne	ADV	_
 sont	être	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 accessoires	accessoire	ADJ	_
 .	.	PONCT	_
 Il	il	CLS	_
@@ -1179,7 +1179,7 @@ ne	ne	ADV	_
 peut	pouvoir	V	_
 devenir	devenir	VINF	_
 rigoureuse	rigoureux	ADJ	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 autant	autant	ADV	_
 qu'	que	CS	_
 on	on	CLS	_
@@ -1218,7 +1218,7 @@ certaines	certain	PRO	_
 ,	,	PONCT	_
 elle	il	CLS	_
 est	être	V	_
-déja	déja	NC	_
+déja	déjà	NC	_
 du	de_le	P+D	_
 moins	moins	NC	_
 la	le	DET	_
@@ -1644,7 +1644,7 @@ Le	le	DET	_
 citoyen	citoyen	NC	_
 *	*	PONCT	_
 baillon	bâillon	NC	_
-sur-tout	sur-tout	ADJ	_
+sur-tout	surtout	ADJ	_
 ,	,	PONCT	_
 ce	ce	DET	_
 naturaliste	naturaliste	NC	_
@@ -1763,7 +1763,7 @@ levant	levant	NC	_
 de	de	P	_
 l'	le	DET	_
 *	*	PONCT	_
-égypte	égypte	NC	_
+égypte	Égypte	NC	_
 et	et	CC	_
 de	de	P	_
 la	le	DET	_
@@ -1843,7 +1843,7 @@ point	point	ADV	_
 lorsqu'	lorsque	CS	_
 on	on	CLS	_
 saura	savoir	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 il	il	CLS	_
 m'	je	CLO	_
 a	avoir	V	_
@@ -1945,7 +1945,7 @@ ne	ne	ADV	_
 m'	je	CLO	_
 avez	avoir	V	_
 imposé	imposer	VPP	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 une	un	DET	_
 condition	condition	NC	_
 ;	;	PONCT	_
@@ -2022,7 +2022,7 @@ celles	celui	PRO	_
 que	que	PROREL	_
 l'on	on	CLS	_
 connoît	connaître	V	_
-déja	déja	NC	_
+déja	déjà	NC	_
 ;	;	PONCT	_
 tantôt	tantôt	ADV	_
 c'	ce	CLS	_
@@ -2077,7 +2077,7 @@ parties	partie	NC	_
 .	.	PONCT	_
 C'	ce	CLS	_
 est	être	V	_
-sur-tout	sur-tout	NP	_
+sur-tout	surtout	NP	_
 en	en	P	_
 histoire	histoire	NC	_
 naturelle	naturel	ADJ	_
@@ -2093,7 +2093,8 @@ on	on	CLS	_
 a	avoir	V	_
 fait	faire	VPP	_
 ,	,	PONCT	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 la	le	DET	_
 nature	nature	NC	_
 nous	nous	CLO	_
@@ -2159,7 +2160,7 @@ faire	faire	VINF	_
 jouir	jouir	VINF	_
 ,	,	PONCT	_
 autant	autant	ADV	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 il	il	CLS	_
 est	être	V	_
 en	en	P	_
@@ -2175,7 +2176,7 @@ que	que	PROREL	_
 les	le	DET	_
 collections	collection	NC	_
 contiennent	contenir	V	_
-déja	déja	NC	_
+déja	déjà	NC	_
 de	de	P	_
 neuf	neuf	NC	_
 et	et	CC	_
@@ -2192,7 +2193,7 @@ les	le	DET	_
 faits	fait	NC	_
 nous	nous	CLO	_
 laissent	laisser	V	_
-déja	déja	ADV	_
+déja	déjà	ADV	_
 entrevoir	entrevoir	VINF	_
 ;	;	PONCT	_
 et	et	CC	_
@@ -2551,7 +2552,7 @@ rapidement	rapidement	ADV	_
 ces	ce	DET	_
 faits	fait	NC	_
 ,	,	PONCT	_
-sur-tout	sur-tout	ADV	_
+sur-tout	surtout	ADV	_
 quand	quand	CS	_
 ils	il	CLS	_
 sont	être	V	_
@@ -2650,7 +2651,7 @@ programme	programme	NC	_
 de	de	P	_
 l'	le	DET	_
 ouvrage	ouvrage	NC	_
-auquel	auquel	PROREL	_
+auquel	à_lequel	PROREL	_
 je	je	CLS	_
 travaille	travailler	V	_
 ,	,	PONCT	_
@@ -2664,7 +2665,7 @@ vrai	vrai	ADJ	_
 qu'	que	CS	_
 il	il	CLS	_
 contient	contenir	V	_
-déja	déja	VINF	_
+déja	déjà	VINF	_
 un	un	DET	_
 ensemble	ensemble	NC	_
 imposant	imposant	ADJ	_
@@ -3494,7 +3495,7 @@ ajouter	ajouter	VINF	_
 celles	celui	PRO	_
 qui	qui	PROREL	_
 peuvent	pouvoir	V	_
-déja	déja	VINF	_
+déja	déjà	VINF	_
 exister	exister	VINF	_
 sur	sur	P	_
 les	le	DET	_
@@ -3694,7 +3695,7 @@ Ce	ce	PRO	_
 qui	qui	PROREL	_
 m'	je	CLO	_
 a	avoir	V	_
-sur-tout	sur-tout	VPP	_
+sur-tout	surtout	VPP	_
 guéri	guérir	VPP	_
 de	de	P	_
 l'	le	DET	_
@@ -3953,7 +3954,7 @@ dans	dans	P	_
 les	le	DET	_
 sciences	science	NC	_
 et	et	CC	_
-sur-tout	sur-tout	ADV	_
+sur-tout	surtout	ADV	_
 dans	dans	P	_
 les	le	DET	_
 sciences	science	NC	_
@@ -4248,7 +4249,7 @@ en	en	CLO	_
 profite	profiter	V	_
 .	.	PONCT	_
 Les	le	DET	_
-rapprochemens	rapprochemens	NC	_
+rapprochemens	rapprochement	NC	_
 que	que	CS	_
 la	le	DET	_
 première	première	NC	_
@@ -4298,7 +4299,7 @@ de	de	P	_
 vues	vue	NC	_
 ,	,	PONCT	_
 et	et	CC	_
-sur-tout	sur-tout	ADV	_
+sur-tout	surtout	ADV	_
 de	de	P	_
 plus	plus	ADV	_
 de	de	P	_
@@ -4315,7 +4316,7 @@ parmi	parmi	P	_
 lesquels	lequel	PROREL	_
 je	je	CLS	_
 dois	devoir	V	_
-sur-tout	sur-tout	ADV	_
+sur-tout	surtout	ADV	_
 nommer	nommer	VINF	_
 *	*	PONCT	_
 ray	rai	NC	_
@@ -4900,7 +4901,7 @@ physiologie	physiologie	NC	_
 n'	ne	ADV	_
 occupe	occuper	V	_
 aussi	aussi	ADV	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 une	un	DET	_
 place	place	NC	_
 accessoire	accessoire	ADJ	_
@@ -4952,7 +4953,7 @@ traits	trait	NC	_
 qui	qui	PROREL	_
 n'	ne	ADV	_
 appartiennent	appartenir	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 à	à	P	_
 l'	le	DET	_
 histoire	histoire	NC	_
@@ -5015,7 +5016,7 @@ Il	il	CLS	_
 ne	ne	ADV	_
 me	je	CLO	_
 reste	rester	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 à	à	P	_
 exprimer	exprimer	VINF	_
 le	le	DET	_
@@ -5396,7 +5397,7 @@ volupté	volupté	NC	_
 ,	,	PONCT	_
 ces	ce	DET	_
 yeux	œil	NC	_
-brillans	brillant	ADJ	_
+brillans	briller	ADJ	_
 de	de	P	_
 l'	le	DET	_
 étincelle	étincelle	NC	_
@@ -5705,7 +5706,7 @@ d'	de	P	_
 agir	agir	VINF	_
 sur	sur	P	_
 elles	il	PRO	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 à	à	P	_
 l'	le	DET	_
 instant	instant	NC	_
@@ -5752,7 +5753,7 @@ sans	sans	P	_
 lui	il	PRO	_
 ,	,	PONCT	_
 et	et	CC	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 il	il	CLS	_
 existe	exister	V	_
 évidemment	évidemment	ADV	_
@@ -5812,7 +5813,9 @@ sa	son	DET	_
 sphère	sphère	NC	_
 s'	se	CLO	_
 étend	étendre	V	_
-au-delà	au-delà	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+delà	delà	ADV	_
 des	un	DET	_
 limites	limite	NC	_
 du	de_le	P+D	_
@@ -5845,7 +5848,7 @@ entre	entre	P	_
 celles	celui	PRO	_
 qui	qui	PROREL	_
 existoient	exister	V	_
-déja	déja	NC	_
+déja	déjà	NC	_
 ;	;	PONCT	_
 et	et	CC	_
 cette	ce	DET	_
@@ -6158,7 +6161,8 @@ en	en	CLO	_
 échapper	échapper	VINF	_
 un	un	DET	_
 jour	jour	NC	_
-afin_de	afin_de	P	_
+afin	afin	ADV	_
+de	de	P	_
 rentrer	rentrer	VINF	_
 sous	sous	P	_
 les	le	DET	_
@@ -6338,7 +6342,8 @@ pas	pas	ADV	_
 à	à	P	_
 mourir	mourir	VINF	_
 ,	,	PONCT	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 elles	il	CLS	_
 n'	ne	ADV	_
 ont	avoir	V	_
@@ -6392,7 +6397,8 @@ dans	dans	P	_
 l'	le	DET	_
 ensemble	ensemble	NC	_
 ,	,	PONCT	_
-tandis_que	tandis_que	CS	_
+tandis	tandis	ADV	_
+que	que	CS	_
 ,	,	PONCT	_
 dans	dans	P	_
 les	le	DET	_
@@ -6490,14 +6496,14 @@ formés	former	VPP	_
 ,	,	PONCT	_
 et	et	CC	_
 jouissant	jouir	VPR	_
-déja	déja	NC	_
+déja	déjà	NC	_
 de	de	P	_
 cette	ce	DET	_
 force	force	NC	_
 vitale	vital	ADJ	_
 ,	,	PONCT	_
 produisant	produire	VPR	_
-déja	déja	V	_
+déja	déjà	V	_
 ce	ce	DET	_
 mouvement	mouvement	NC	_
 de	de	P	_
@@ -6551,7 +6557,7 @@ vie	vie	NC	_
 et	et	CC	_
 ils	il	CLS	_
 ont	avoir	V	_
-déja	déja	VPP	_
+déja	déjà	VPP	_
 en	en	P	_
 eux	il	PRO	_
 le	le	DET	_
@@ -6618,7 +6624,7 @@ s'	se	CLO	_
 est	être	V	_
 détaché	détacher	VPP	_
 ;	;	PONCT	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 ont	avoir	V	_
 participé	participer	VPP	_
 à	à	P	_
@@ -6651,7 +6657,7 @@ force	force	NC	_
 vitale	vital	ADJ	_
 des	de_le	P+D	_
 corps	corps	NC	_
-auxquels	auquel	PROREL	_
+auxquels	à_lequel	PROREL	_
 ils	il	CLS	_
 appartenoient	appartenir	V	_
 alors	alors	ADV	_
@@ -6702,7 +6708,7 @@ cet	ce	DET	_
 accouplement	accouplement	NC	_
 n'	ne	ADV	_
 est	être	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 une	un	DET	_
 circonstance	circonstance	NC	_
 particulière	particulier	ADJ	_
@@ -7391,7 +7397,8 @@ vécu	vivre	VPP	_
 .	.	PONCT	_
 Ainsi	ainsi	ADV	_
 ,	,	PONCT	_
-tandis_que	tandis_que	CS	_
+tandis	tandis	ADV	_
+que	que	CS	_
 les	le	DET	_
 solides	solide	NC	_
 bruts	brut	ADJ	_
@@ -7422,7 +7429,7 @@ ils	il	CLS	_
 ne	ne	ADV	_
 se	se	CLO	_
 résolvent	résoudre	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 en	en	P	_
 un	un	DET	_
 nombre	nombre	NC	_
@@ -7934,7 +7941,7 @@ permet	permettre	V	_
 guère	guère	ADV	_
 de	de	P	_
 croire	croire	VINF	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 elle	il	CLS	_
 ait	avoir	V	_
 privé	priver	VPP	_
@@ -8687,7 +8694,7 @@ innombrables	innombrable	ADJ	_
 ,	,	PONCT	_
 qui	qui	PROREL	_
 sont	être	V	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 des	un	DET	_
 ramifications	ramification	NC	_
 de	de	P	_
@@ -8944,7 +8951,7 @@ sang	sang	NC	_
 paroît	paraître	V	_
 n'	ne	ADV	_
 être	être	VINF	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 un	un	DET	_
 véhicule	véhicule	NC	_
 ,	,	PONCT	_
@@ -9137,7 +9144,8 @@ les	le	DET	_
 différens	différent	ADJ	_
 couloirs	couloir	NC	_
 .	.	PONCT	_
-Quant_aux	quant_à_le	P+D	_
+quant	quant	ADV	_
+aux	à_le	P+D	_
 poumons	poumon	NC	_
 ,	,	PONCT	_
 l'	le	DET	_
@@ -9173,7 +9181,7 @@ elle	il	CLS	_
 a	avoir	V	_
 lieu	lieu	NC	_
 dans	dans	P	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 ,	,	PONCT	_
 quoique	quoique	CS	_
 de	de	P	_
@@ -9254,7 +9262,8 @@ un	un	DET	_
 organe	organe	NC	_
 particulier	particulier	ADJ	_
 ,	,	PONCT	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 le	le	DET	_
 sang	sang	NC	_
 venant	venir	VPR	_
@@ -9436,7 +9445,8 @@ l'	le	DET	_
 amour	amour	NC	_
 :	:	PONCT	_
 et	et	CC	_
-quant_à	quant_à	P	_
+quant	quant	ADV	_
+à	à	P	_
 la	le	DET	_
 partie	partie	NC	_
 purement	purement	ADV	_
@@ -9459,7 +9469,8 @@ sur	sur	P	_
 les	le	DET	_
 germes	germe	NC	_
 ;	;	PONCT	_
-tandis_que	tandis_que	CS	_
+tandis	tandis	ADV	_
+que	que	CS	_
 dans	dans	P	_
 les	le	DET	_
 végétaux	végétal	NC	_
@@ -10064,7 +10075,7 @@ de	de	P	_
 molécules	molécule	NC	_
 solides	solide	ADJ	_
 ;	;	PONCT	_
-toutes	tous	PRO	_
+toutes	tout	PRO	_
 donnent	donner	V	_
 des	un	DET	_
 fluides	fluide	NC	_
@@ -10173,7 +10184,7 @@ les	le	DET	_
 membranes	membrane	NC	_
 ne	ne	ADV	_
 consistent	consister	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 en	en	P	_
 une	un	DET	_
 cellulosité	cellulosité	NC	_
@@ -10293,7 +10304,7 @@ qui	qui	PROREL	_
 se	se	CLO	_
 trouvent	trouver	V	_
 presque	presque	ADV	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 dans	dans	P	_
 chacune	chacun	PRO	_
 d'	de	P	_
@@ -10360,7 +10371,7 @@ albumine	albumine	NC	_
 la	le	DET	_
 fibrine	fibrine	NC	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 ,	,	PONCT	_
 qui	qui	PROREL	_
 ,	,	PONCT	_
@@ -10809,7 +10820,7 @@ elle	il	PRO	_
 n'	ne	ADV	_
 est	être	V	_
 -elle	il	CLS	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 un	un	DET	_
 cas	cas	NC	_
 particulier	particulier	ADJ	_
@@ -10905,7 +10916,7 @@ intestins	intestin	NC	_
 le	le	DET	_
 coeur	cœur	NC	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 Mais	mais	CC	_
 le	le	DET	_
 principal	principal	ADJ	_
@@ -10957,7 +10968,7 @@ raccourcissent	raccourcir	V	_
 les	le	DET	_
 deux	deux	ADJ	_
 points	point	NC	_
-auxquels	auquel	PROREL	_
+auxquels	à_lequel	PROREL	_
 il	il	CLS	_
 s'	se	CLO	_
 insère	insérer	V	_
@@ -11014,7 +11025,7 @@ ont	avoir	V	_
 leurs	leur	DET	_
 muscles	muscle	NC	_
 attachés	attacher	VPP	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 à	à	P	_
 divers	divers	DET	_
 points	point	NC	_
@@ -11209,7 +11220,7 @@ muscles	muscle	NC	_
 entraînant	entraîner	VPR	_
 l'	le	DET	_
 os	os	NC	_
-auquel	auquel	PROREL	_
+auquel	à_lequel	PROREL	_
 il	il	CLS	_
 s'	se	CLO	_
 attache	attacher	V	_
@@ -11423,7 +11434,7 @@ extérieurs	extérieur	ADJ	_
 sur	sur	P	_
 le	le	DET	_
 nôtre	nôtre	NC	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 autant	autant	ADV	_
 que	que	CS	_
 les	le	DET	_
@@ -11590,7 +11601,7 @@ goût	goût	NC	_
 ,	,	PONCT	_
 dont	dont	PROREL	_
 le	le	DET	_
-siége	siége	NC	_
+siége	siège	NC	_
 est	être	V	_
 sur	sur	P	_
 les	le	DET	_
@@ -12103,7 +12114,7 @@ Le	le	DET	_
 plus	plus	ADV	_
 irrésistible	irrésistible	ADJ	_
 de	de	P	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 est	être	V	_
 celui	celui	PRO	_
 de	de	P	_
@@ -12344,7 +12355,7 @@ pancréas	pancréas	NC	_
 .	.	PONCT	_
 La	le	DET	_
 première	première	NC	_
-sur-tout	sur-tout	ADJ	_
+sur-tout	surtout	ADJ	_
 ,	,	PONCT	_
 qui	qui	PROREL	_
 produit	produire	V	_
@@ -12545,7 +12556,7 @@ le	le	DET	_
 fluide	fluide	NC	_
 qu'	que	PROREL	_
 ils	il	CLS	_
-charient	charient	V	_
+charient	charrier	V	_
 ,	,	PONCT	_
 c'est-à-dire	c'est-à-dire	CC	_
 du	de_le	P+D	_
@@ -12782,7 +12793,7 @@ les	le	DET	_
 parties	partie	NC	_
 du	de_le	P+D	_
 corps	corps	NC	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 il	il	CLS	_
 doit	devoir	V	_
 nourrir	nourrir	VINF	_
@@ -12890,7 +12901,8 @@ des	un	DET	_
 poumons	poumon	NC	_
 cellulaires	cellulaire	ADJ	_
 ,	,	PONCT	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 ce	ce	CLS	_
 n'	ne	ADV	_
 est	être	V	_
@@ -12963,7 +12975,7 @@ sont	être	V	_
 pas	pas	ADV	_
 pour	pour	P	_
 cela	cela	PRO	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 dépourvus	dépourvoir	VPP	_
 de	de	P	_
 la	le	DET	_
@@ -13226,7 +13238,7 @@ paroissent	paraître	V	_
 en	en	P	_
 cela	cela	PRO	_
 tendre	tendre	VINF	_
-toutes	tous	PRO	_
+toutes	tout	PRO	_
 à	à	P	_
 un	un	DET	_
 but	but	NC	_
@@ -13290,7 +13302,7 @@ bien	bien	ADV	_
 qu'	que	CS	_
 ils	il	CLS	_
 soient	être	V	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 réunis	réunir	VPP	_
 dans	dans	P	_
 tous	tout	ADJ	_
@@ -13611,7 +13623,7 @@ arrive	arriver	V	_
 son	son	DET	_
 état	état	NC	_
 parfait	parfait	ADJ	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 après	après	P	_
 avoir	avoir	VINF	_
 laissé	laisser	VPP	_
@@ -13633,7 +13645,7 @@ reins	rein	NC	_
 le	le	DET	_
 foie	foie	NC	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 ,	,	PONCT	_
 et	et	CC	_
 en	en	CLO	_
@@ -13665,7 +13677,7 @@ propre	propre	ADJ	_
 fournir	fournir	VINF	_
 le	le	DET	_
 chyle	chyle	NC	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 après	après	P	_
 avoir	avoir	VINF	_
 à	à	P	_
@@ -14226,7 +14238,7 @@ Cela	cela	PRO	_
 a	avoir	V	_
 dû	devoir	VPP	_
 frapper	frapper	VINF	_
-sur-tout	sur-tout	ADV	_
+sur-tout	surtout	ADV	_
 à	à	P	_
 l'	le	DET	_
 égard	égard	NC	_
@@ -14652,7 +14664,9 @@ le	le	DET	_
 cerveau	cerveau	NC	_
 qui	qui	PROREL	_
 soit	être	V	_
-au-dessus	au-dessus	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 du	de_le	P+D	_
 canal	canal	NC	_
 alimentaire	alimentaire	ADJ	_
@@ -14669,7 +14683,9 @@ des	de_le	P+D	_
 nerfs	nerf	NC	_
 est	être	V	_
 situé	situer	VPP	_
-au-dessous	au-dessous	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessous	dessous	ADV	_
 ,	,	PONCT	_
 et	et	CC	_
 contenu	contenir	VPP	_
@@ -14718,7 +14734,9 @@ côté	côté	NC	_
 du	de_le	P+D	_
 dos	dos	NC	_
 ,	,	PONCT	_
-au-dessus	au-dessus	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 du	de_le	P+D	_
 tube	tube	NC	_
 alimentaire	alimentaire	ADJ	_
@@ -14790,7 +14808,7 @@ autres	autre	NC	_
 qui	qui	PROREL	_
 les	il	CLO	_
 ont	avoir	V	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 sur	sur	P	_
 le	le	DET	_
 cordon	cordon	NC	_
@@ -14898,7 +14916,7 @@ autres	autre	ADJ	_
 sens	sens	NC	_
 ,	,	PONCT	_
 mais	mais	CC	_
-sur-tout	sur-tout	ADV	_
+sur-tout	surtout	ADV	_
 le	il	CLO	_
 toucher	toucher	VINF	_
 et	et	CC	_
@@ -14980,7 +14998,7 @@ connoître	connaître	VINF	_
 .	.	PONCT	_
 C'	ce	CLS	_
 est	être	V	_
-sur-tout	sur-tout	ADJ	_
+sur-tout	surtout	ADJ	_
 dans	dans	P	_
 le	le	DET	_
 nombre	nombre	NC	_
@@ -15073,7 +15091,7 @@ celles	celui	PRO	_
 qui	qui	PROREL	_
 sont	être	V	_
 le	le	DET	_
-siége	siége	NC	_
+siége	siège	NC	_
 du	de_le	P+D	_
 goût	goût	NC	_
 ,	,	PONCT	_
@@ -15088,7 +15106,7 @@ mais	mais	CC	_
 ce	ce	CLS	_
 n'	ne	ADV	_
 est	être	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 aux	à_le	P+D	_
 articles	article	NC	_
 particuliers	particulier	ADJ	_
@@ -15140,7 +15158,7 @@ sac	sac	NC	_
 qui	qui	PROREL	_
 n'	ne	ADV	_
 a	avoir	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 une	un	DET	_
 seule	seul	ADJ	_
 ouverture	ouverture	NC	_
@@ -15239,7 +15257,8 @@ des	un	DET	_
 substances	substance	NC	_
 solides	solide	ADJ	_
 ,	,	PONCT	_
-tandis_que	tandis_que	CS	_
+tandis	tandis	ADV	_
+que	que	CS	_
 dans	dans	P	_
 d'	un	DET	_
 autres	autre	NC	_
@@ -15257,7 +15276,7 @@ l'	le	DET	_
 animal	animal	NC	_
 ne	ne	ADV	_
 peut	pouvoir	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 avaler	avaler	VINF	_
 des	un	DET	_
 corps	corps	NC	_
@@ -15356,7 +15375,7 @@ et	et	CC	_
 des	de_le	P+D	_
 coecums	coecums	NC	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 Tout	tout	ADJ	_
 ce	ce	DET	_
 détail	détail	NC	_
@@ -15460,7 +15479,8 @@ propres	propre	ADJ	_
 la	le	DET	_
 circulation	circulation	NC	_
 .	.	PONCT	_
-Quant_aux	quant_à_le	P+D	_
+quant	quant	ADV	_
+aux	à_le	P+D	_
 autres	autre	ADJ	_
 animaux	animal	NC	_
 ,	,	PONCT	_
@@ -15569,7 +15589,8 @@ leurs	leur	DET	_
 vaisseaux	vaisseau	NC	_
 chylifères	chylifère	ADJ	_
 ,	,	PONCT	_
-tandis_qu'	tandis_que	CS	_
+tandis	tandis	ADV	_
+qu'	que	CS	_
 elles	il	CLS	_
 sont	être	V	_
 très	très	ADV	_
@@ -15643,7 +15664,7 @@ dans	dans	P	_
 le	le	DET	_
 tronc	tronc	NC	_
 artériel	artériel	ADJ	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 après	après	P	_
 avoir	avoir	VINF	_
 fait	faire	VPP	_
@@ -15737,12 +15758,13 @@ par	par	P	_
 le	le	DET	_
 poumon	poumon	NC	_
 ,	,	PONCT	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 cet	ce	DET	_
 organe	organe	NC	_
 ne	ne	ADV	_
 reçoit	recevoir	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 une	un	DET	_
 expansion	expansion	NC	_
 d'	de	P	_
@@ -15796,7 +15818,7 @@ y	y	CLO	_
 en	en	CLO	_
 a	avoir	V	_
 jamais	jamais	ADV	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 un	un	DET	_
 :	:	PONCT	_
 mais	mais	CC	_
@@ -15834,7 +15856,7 @@ n'	ne	ADV	_
 y	y	CLO	_
 en	en	CLO	_
 a	avoir	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 à	à	P	_
 l'	le	DET	_
 une	un	NC	_
@@ -15895,7 +15917,7 @@ il	il	CLS	_
 n'	ne	ADV	_
 y	y	CLO	_
 a	avoir	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 un	un	DET	_
 seul	seul	ADJ	_
 ventricule	ventricule	NC	_
@@ -16361,7 +16383,7 @@ animaux	animal	NC	_
 qui	qui	PROREL	_
 appartiennent	appartenir	V	_
 presque	presque	ADV	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 à	à	P	_
 la	le	DET	_
 classe	classe	NC	_
@@ -16398,7 +16420,7 @@ Les	le	DET	_
 autres	autre	NC	_
 ne	ne	ADV	_
 produisent	produire	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 en	en	P	_
 vertu	vertu	NC	_
 d'	de	P	_
@@ -17126,12 +17148,13 @@ abstraite	abstrait	ADJ	_
 n'	ne	ADV	_
 existent	exister	V	_
 pas	pas	ADV	_
-toutes	tous	PRO	_
+toutes	tout	PRO	_
 dans	dans	P	_
 la	le	DET	_
 nature	nature	NC	_
 ,	,	PONCT	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 ,	,	PONCT	_
 dans	dans	P	_
 l'	le	DET	_
@@ -17159,7 +17182,7 @@ autres	autre	NC	_
 ,	,	PONCT	_
 et	et	CC	_
 concourent	concourir	V	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 ensemble	ensemble	ADV	_
 à	à	P	_
 un	un	DET	_
@@ -17201,7 +17224,8 @@ s'	se	CLO	_
 excluent	exclure	V	_
 réciproquement	réciproquement	ADV	_
 ,	,	PONCT	_
-tandis_que	tandis_que	CS	_
+tandis	tandis	ADV	_
+que	que	CS	_
 d'	un	DET	_
 autres	autre	NC	_
 s'	se	CLO	_
@@ -17294,7 +17318,7 @@ ne	ne	ADV	_
 peut	pouvoir	V	_
 s'	se	CLO	_
 opérer	opérer	VINF	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 à	à	P	_
 l'	le	DET	_
 aide	aide	NC	_
@@ -17370,7 +17394,7 @@ ne	ne	ADV	_
 s'	se	CLO	_
 opère	opérer	V	_
 donc	donc	ADV	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 à	à	P	_
 l'	le	DET	_
 aide	aide	NC	_
@@ -17563,7 +17587,7 @@ existence	existence	NC	_
 de	de	P	_
 l'	le	DET	_
 être	être	NC	_
-auquel	auquel	PROREL	_
+auquel	à_lequel	PROREL	_
 ils	il	CLS	_
 appartiennent	appartenir	V	_
 ,	,	PONCT	_
@@ -17862,7 +17886,7 @@ celles	celui	PRO	_
 qui	qui	PROREL	_
 les	il	CLO	_
 constituent	constituer	V	_
-déja	déja	ADV	_
+déja	déjà	ADV	_
 .	.	PONCT	_
 L'	le	DET	_
 action	action	NC	_
@@ -17874,7 +17898,7 @@ pouvoit	pouvoir	V	_
 donc	donc	ADV	_
 s'	se	CLO	_
 exercer	exercer	VINF	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 au	à_le	P+D	_
 lieu	lieu	NC	_
 et	et	CC	_
@@ -18042,7 +18066,8 @@ une	un	DET	_
 seule	seul	ADJ	_
 masse	masse	NC	_
 ,	,	PONCT	_
-tandis_que	tandis_que	CS	_
+tandis	tandis	ADV	_
+que	que	CS	_
 ceux	celui	PRO	_
 qui	qui	PROREL	_
 ne	ne	ADV	_
@@ -18096,7 +18121,7 @@ n'	ne	ADV	_
 y	y	CLO	_
 en	en	CLO	_
 ait	avoir	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 à	à	P	_
 l'	le	DET	_
 un	un	NC	_
@@ -18513,7 +18538,7 @@ n'	ne	ADV	_
 chez	chez	P	_
 ceux	celui	PRO	_
 -ci	ci	ADV	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 une	un	DET	_
 chose	chose	NC	_
 accessoire	accessoire	ADJ	_
@@ -18706,7 +18731,8 @@ ils	il	CLS	_
 sont	être	V	_
 morts	mort	ADJ	_
 ,	,	PONCT	_
-tandis_que	tandis_que	CS	_
+tandis	tandis	ADV	_
+que	que	CS	_
 celles	celui	PRO	_
 des	de_le	P+D	_
 animaux	animal	NC	_
@@ -18795,7 +18821,8 @@ illusion	illusion	NC	_
 cet	ce	DET	_
 égard	égard	NC	_
 ,	,	PONCT	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 ,	,	PONCT	_
 se	se	CLO	_
 trouvant	trouver	VPR	_
@@ -18958,7 +18985,8 @@ la	le	DET	_
 circulation	circulation	NC	_
 double	double	ADJ	_
 ,	,	PONCT	_
-tandis_que	tandis_que	CS	_
+tandis	tandis	ADV	_
+que	que	CS	_
 parmi	parmi	P	_
 ceux	celui	PRO	_
 qui	qui	PROREL	_
@@ -18996,7 +19024,9 @@ paroît	paraître	V	_
 qu'	que	CS	_
 un	un	DET	_
 degré	degré	NC	_
-au-dessous	au-dessous	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessous	dessous	ADV	_
 auroit	avoir	V	_
 été	être	VPP	_
 insuffisant	insuffisant	ADJ	_
@@ -19093,7 +19123,7 @@ où	où	PROREL	_
 il	il	CLS	_
 n'	ne	ADV	_
 occupe	occuper	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 une	un	DET	_
 petite	petit	ADJ	_
 partie	partie	NC	_
@@ -19221,7 +19251,8 @@ la	le	DET	_
 moelle	moelle	NC	_
 épinière	épinière	ADJ	_
 ,	,	PONCT	_
-tandis_que	tandis_que	CS	_
+tandis	tandis	ADV	_
+que	que	CS	_
 ,	,	PONCT	_
 dans	dans	P	_
 ceux	celui	PRO	_
@@ -19339,7 +19370,8 @@ est	être	V	_
 plus	plus	ADV	_
 complète	complet	ADJ	_
 ,	,	PONCT	_
-afin_que	afin_que	CS	_
+afin	afin	ADV	_
+que	que	CS	_
 la	le	DET	_
 quantité	quantité	NC	_
 des	de_le	P+D	_
@@ -19438,7 +19470,8 @@ souvent	souvent	ADV	_
 leurs	leur	DET	_
 repas	repas	NC	_
 ,	,	PONCT	_
-tandis_que	tandis_que	CS	_
+tandis	tandis	ADV	_
+que	que	CS	_
 les	le	DET	_
 reptiles	reptile	NC	_
 ,	,	PONCT	_
@@ -19610,7 +19643,7 @@ pour	pour	P	_
 ainsi	ainsi	ADV	_
 dire	dire	VINF	_
 ,	,	PONCT	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 régis	régir	VPP	_
 et	et	CC	_
 gouvernés	gouverner	VPP	_
@@ -19932,7 +19965,7 @@ force	force	NC	_
 .	.	PONCT	_
 C'	ce	CLS	_
 est	être	V	_
-sur-tout	sur-tout	ADJ	_
+sur-tout	surtout	ADJ	_
 dans	dans	P	_
 le	le	DET	_
 systême	système	NC	_
@@ -20090,7 +20123,7 @@ n'	ne	ADV	_
 leur	leur	DET	_
 action	action	NC	_
 ,	,	PONCT	_
-sur-tout	sur-tout	ADV	_
+sur-tout	surtout	ADV	_
 lorsque	lorsque	CS	_
 l'	le	DET	_
 animal	animal	NC	_
@@ -20377,7 +20410,8 @@ dans	dans	P	_
 certains	certain	DET	_
 animaux	animal	NC	_
 ,	,	PONCT	_
-tandis_que	tandis_que	CS	_
+tandis	tandis	ADV	_
+que	que	CS	_
 dans	dans	P	_
 d'	un	DET	_
 autres	autre	NC	_
@@ -20487,7 +20521,7 @@ la	le	DET	_
 nature	nature	NC	_
 s'	se	CLO	_
 est	être	V	_
-abandonnée	abandonnée	VPP	_
+abandonnée	abandonné	VPP	_
 à	à	P	_
 toute	tout	ADJ	_
 sa	son	DET	_
@@ -20771,7 +20805,7 @@ des	de_le	P+D	_
 qui	qui	PROREL	_
 les	il	CLO	_
 rassembleroit	rassembler	V	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 en	en	P	_
 une	un	DET	_
 série	série	NC	_
@@ -20837,7 +20871,7 @@ certaines	certain	DET	_
 limites	limite	NC	_
 ,	,	PONCT	_
 et	et	CC	_
-sur-tout	sur-tout	NP	_
+sur-tout	surtout	NP	_
 en	en	P	_
 considérant	considérer	VPR	_
 chaque	chaque	DET	_
@@ -21260,7 +21294,7 @@ genre	genre	NC	_
 qui	qui	PROREL	_
 les	il	CLO	_
 comprendroit	comprendre	V	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 :	:	PONCT	_
 mais	mais	CC	_
 ,	,	PONCT	_
@@ -21298,7 +21332,7 @@ seulement	seulement	ADV	_
 ,	,	PONCT	_
 mais	mais	CC	_
 dans	dans	P	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 ;	;	PONCT	_
 autrement	autrement	ADV	_
 on	on	CLS	_
@@ -21807,7 +21841,7 @@ premier	premier	NC	_
 ,	,	PONCT	_
 et	et	CC	_
 celui	celui	PRO	_
-auquel	auquel	PROREL	_
+auquel	à_lequel	PROREL	_
 tous	tout	ADJ	_
 les	le	DET	_
 hommes	homme	NC	_
@@ -21902,7 +21936,7 @@ il	il	CLS	_
 n'	ne	ADV	_
 est	être	V	_
 applicable	applicable	ADJ	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 aux	à_le	P+D	_
 êtres	être	NC	_
 dont	dont	PROREL	_
@@ -22060,8 +22094,8 @@ du	de_le	P+D	_
 troisième	troisième	ADJ	_
 rang	rang	NC	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
-Mais	Mais	NP	_
+etc.	etc	ADV	_
+Mais	mais	NP	_
 ils	il	CLS	_
 auroient	avoir	V	_
 dû	devoir	VPP	_
@@ -22620,7 +22654,7 @@ de	de	P	_
 l'	le	DET	_
 épine	épine	NC	_
 contribuent	contribuer	V	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 ,	,	PONCT	_
 par	par	P	_
 des	un	DET	_
@@ -23300,7 +23334,7 @@ voûte	voûte	NC	_
 le	le	DET	_
 pont	pont	NC	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 Leurs	Leurs	ADJ	_
 yeux	œil	NC	_
 n'	ne	ADV	_
@@ -23351,7 +23385,7 @@ au	à_le	P+D	_
 moins	moins	NC	_
 quelques-uns	quelqu'un	PRO	_
 dans	dans	P	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 .	.	PONCT	_
 Leurs	leur	DET	_
 poumons	poumon	NC	_
@@ -23376,7 +23410,7 @@ charnu	charnu	ADJ	_
 Ils	il	CLS	_
 n'	ne	ADV	_
 ont	avoir	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 un	un	DET	_
 larynx	larynx	NC	_
 ,	,	PONCT	_
@@ -23428,7 +23462,7 @@ point	point	NC	_
 Leurs	leur	DET	_
 vaisseaux	vaisseau	NC	_
 lactés	lacté	ADJ	_
-charient	charient	V	_
+charient	charrier	V	_
 un	un	DET	_
 chyle	chyle	NC	_
 blanc	blanc	ADJ	_
@@ -23493,7 +23527,7 @@ ovipares	ovipare	ADJ	_
 Ils	il	CLS	_
 n'	ne	ADV	_
 ont	avoir	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 un	un	DET	_
 seul	seul	ADJ	_
 ovaire	ovaire	NC	_
@@ -23547,7 +23581,7 @@ devant	devant	P	_
 ne	ne	ADV	_
 peuvent	pouvoir	V	_
 servir	servir	VINF	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 à	à	P	_
 voler	voler	VINF	_
 ,	,	PONCT	_
@@ -23581,7 +23615,7 @@ son	son	DET	_
 tympan	tympan	NC	_
 n'	ne	ADV	_
 a	avoir	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 un	un	DET	_
 osselet	osselet	NC	_
 ;	;	PONCT	_
@@ -23826,7 +23860,7 @@ des	de_le	P+D	_
 sens	sens	NC	_
 ,	,	PONCT	_
 et	et	CC	_
-sur-tout	sur-tout	ADV	_
+sur-tout	surtout	ADV	_
 l'	le	DET	_
 oreille	oreille	NC	_
 ,	,	PONCT	_
@@ -23898,7 +23932,7 @@ Il	il	CLS	_
 n'	ne	ADV	_
 y	y	CLO	_
 a	avoir	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 un	un	DET	_
 larynx	larynx	NC	_
 sans	sans	P	_
@@ -24169,7 +24203,9 @@ le	le	DET	_
 cerveau	cerveau	NC	_
 qui	qui	PROREL	_
 soit	être	V	_
-au-dessus	au-dessus	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 du	de_le	P+D	_
 canal	canal	NC	_
 alimentaire	alimentaire	ADJ	_
@@ -24380,7 +24416,8 @@ oreilles	oreille	NC	_
 bien	bien	ADV	_
 marqués	marquer	VPP	_
 ,	,	PONCT	_
-tandis_que	tandis_que	CS	_
+tandis	tandis	ADV	_
+que	que	CS	_
 d'	un	DET	_
 autres	autre	NC	_
 paroissent	paraître	V	_
@@ -24406,7 +24443,7 @@ autres	autre	NC	_
 qui	qui	PROREL	_
 ne	ne	ADV	_
 peuvent	pouvoir	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 avaler	avaler	VINF	_
 .	.	PONCT	_
 Il	il	CLS	_
@@ -24612,7 +24649,7 @@ voler	voler	VINF	_
 ceux	celui	PRO	_
 -là	là	ADV	_
 ont	avoir	V	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 passé	passer	VPP	_
 par	par	P	_
 d'	un	DET	_
@@ -24627,7 +24664,7 @@ souvent	souvent	ADV	_
 entièrement	entièrement	ADV	_
 immobile	immobile	ADJ	_
 .	.	PONCT	_
-Tous	tous	PRO	_
+Tous	tout	PRO	_
 ont	avoir	V	_
 le	le	DET	_
 systême	système	NC	_
@@ -24937,7 +24974,8 @@ de	de	P	_
 leur	leur	DET	_
 tête	tête	NC	_
 ,	,	PONCT	_
-afin_qu'	afin_que	CS	_
+afin	afin	ADV	_
+qu'	que	CS	_
 ils	il	CLS	_
 puissent	pouvoir	V	_
 inspirer	inspirer	VINF	_
@@ -25182,7 +25220,7 @@ pieds	pied	NC	_
 ne	ne	ADV	_
 peuvent	pouvoir	V	_
 servir	servir	VINF	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 à	à	P	_
 les	il	CLO	_
 soutenir	soutenir	VINF	_
@@ -25196,7 +25234,7 @@ marche	marche	NC	_
 .	.	PONCT	_
 Ils	il	CLS	_
 sont	être	V	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 herbivores	herbivore	ADJ	_
 ,	,	PONCT	_
 et	et	CC	_
@@ -25359,7 +25397,7 @@ mâchoires	mâchoire	NC	_
 souvent	souvent	ADV	_
 d'	un	DET	_
 énormes	énorme	ADJ	_
-canines	canine	NC	_
+canines	canin	NC	_
 .	.	PONCT	_
 Leur	leur	DET	_
 estomac	estomac	NC	_
@@ -25401,7 +25439,7 @@ des	de_le	P+D	_
 solipèdes	solipède	NC	_
 n'	ne	ADV	_
 a	avoir	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 un	un	DET	_
 doigt	doigt	NC	_
 apparent	apparent	ADJ	_
@@ -25429,7 +25467,7 @@ gros	gros	ADJ	_
 intestins	intestin	NC	_
 ,	,	PONCT	_
 et	et	CC	_
-sur-tout	sur-tout	ADV	_
+sur-tout	surtout	ADV	_
 un	un	DET	_
 énorme	énorme	ADJ	_
 coecum	coecum	NC	_
@@ -25611,7 +25649,7 @@ ressemble	ressembler	V	_
 aussi	aussi	ADV	_
 à	à	P	_
 la	le	DET	_
-précédente	précédente	NC	_
+précédente	précédent	NC	_
 par	par	P	_
 le	le	DET	_
 peu	peu	NC	_
@@ -25678,7 +25716,7 @@ des	un	DET	_
 des	un	DET	_
 cuirasses	cuirasse	NC	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 Les	le	DET	_
 rongeurs	rongeur	NC	_
 forment	former	V	_
@@ -25708,7 +25746,7 @@ intervalle	intervalle	NC	_
 vuide	vide	ADJ	_
 ,	,	PONCT	_
 sans	sans	P	_
-canines	canine	NC	_
+canines	canin	NC	_
 .	.	PONCT	_
 Cette	ce	DET	_
 organisation	organisation	NC	_
@@ -25870,7 +25908,7 @@ et	et	CC	_
 fortes	fort	ADJ	_
 ,	,	PONCT	_
 leurs	leur	DET	_
-canines	canine	NC	_
+canines	canin	NC	_
 grosses	gros	ADJ	_
 et	et	CC	_
 pointues	pointu	ADJ	_
@@ -25946,7 +25984,7 @@ très	très	ADV	_
 -	-	PONCT	_
 courts	court	ADJ	_
 :	:	PONCT	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 ont	avoir	V	_
 le	le	DET	_
 ventre	ventre	NC	_
@@ -26072,7 +26110,7 @@ doigts	doigt	NC	_
 ,	,	PONCT	_
 très	très	ADV	_
 -	-	PONCT	_
-alongés	alongés	NC	_
+alongés	allonger	NC	_
 ,	,	PONCT	_
 ont	avoir	V	_
 leurs	leur	DET	_
@@ -26209,7 +26247,7 @@ homme	homme	NC	_
 ;	;	PONCT	_
 seulement	seulement	ADV	_
 les	le	DET	_
-canines	canine	NC	_
+canines	canin	NC	_
 sont	être	V	_
 plus	plus	ADV	_
 alongées	allongé	ADJ	_
@@ -26321,7 +26359,8 @@ de	de	P	_
 leurs	leur	DET	_
 alimens	aliment	NC	_
 ,	,	PONCT	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 la	le	DET	_
 faculté	faculté	NC	_
 de	de	P	_
@@ -26389,7 +26428,7 @@ larynx	larynx	NC	_
 inférieur	inférieur	ADJ	_
 n'	ne	ADV	_
 a	avoir	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 un	un	DET	_
 seul	seul	ADJ	_
 muscle	muscle	NC	_
@@ -26411,7 +26450,7 @@ que	que	CS	_
 les	le	DET	_
 hérons	héron	NC	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 Ont	avoir	V	_
 un	un	DET	_
 grand	grand	ADJ	_
@@ -26443,7 +26482,7 @@ cormorans	cormoran	NC	_
 ,	,	PONCT	_
 pélicans	pélican	NC	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 ,	,	PONCT	_
 et	et	CC	_
 de	de	P	_
@@ -26475,7 +26514,7 @@ comme	comme	P	_
 les	le	DET	_
 pics	pic	NC	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 ;	;	PONCT	_
 mais	mais	CC	_
 il	il	CLS	_
@@ -26491,7 +26530,7 @@ autres	autre	ADJ	_
 oiseaux	oiseau	NC	_
 ,	,	PONCT	_
 et	et	CC	_
-sur-tout	sur-tout	NP	_
+sur-tout	surtout	NP	_
 dans	dans	P	_
 ceux	celui	PRO	_
 qui	qui	PROREL	_
@@ -26613,7 +26652,7 @@ cou	cou	NC	_
 et	et	CC	_
 le	le	DET	_
 bec	bec	NC	_
-alongés	alongés	ADJ	_
+alongés	allonger	ADJ	_
 ,	,	PONCT	_
 et	et	CC	_
 qui	qui	PROREL	_
@@ -26679,7 +26718,7 @@ grains	grain	NC	_
 ceux	celui	PRO	_
 -ci	ci	ADV	_
 ont	avoir	V	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 un	un	DET	_
 jabot	jabot	NC	_
 très	très	ADV	_
@@ -26695,7 +26734,7 @@ des	un	DET	_
 intestins	intestin	NC	_
 ,	,	PONCT	_
 et	et	CC	_
-sur-tout	sur-tout	V	_
+sur-tout	surtout	V	_
 deux	deux	DET	_
 coecums	coecums	NC	_
 très	très	ADV	_
@@ -26799,7 +26838,7 @@ gésier	gésier	NC	_
 les	le	DET	_
 coucous	coucou	NC	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 :	:	PONCT	_
 les	le	DET	_
 uns	un	NC	_
@@ -26948,7 +26987,7 @@ même	même	ADV	_
 les	le	DET	_
 charognes	charogne	NC	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 Les	le	DET	_
 reptiles	reptile	NC	_
 se	se	CLO	_
@@ -27040,7 +27079,7 @@ d'	de	P	_
 une	un	DET	_
 espèce	espèce	NC	_
 de	de	P	_
-gaîne	gaîne	NC	_
+gaîne	gaine	NC	_
 ;	;	PONCT	_
 leur	leur	DET	_
 estomac	estomac	NC	_
@@ -27145,7 +27184,8 @@ la	le	DET	_
 peau	peau	NC	_
 nue	nu	ADJ	_
 ,	,	PONCT	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 les	le	DET	_
 deux	deux	ADJ	_
 premiers	premier	ADJ	_
@@ -27178,7 +27218,8 @@ doivent	devoir	V	_
 toujours	toujours	ADV	_
 conserver	conserver	VINF	_
 ;	;	PONCT	_
-tandis_que	tandis_que	CS	_
+tandis	tandis	ADV	_
+que	que	CS	_
 les	le	DET	_
 deux	deux	ADJ	_
 autres	autre	NC	_
@@ -27270,7 +27311,7 @@ assez	assez	ADV	_
 certains	certain	DET	_
 reptiles	reptile	NC	_
 ,	,	PONCT	_
-sur-tout	sur-tout	ADV	_
+sur-tout	surtout	ADV	_
 par	par	P	_
 les	le	DET	_
 organes	organe	NC	_
@@ -27421,7 +27462,8 @@ animaux	animal	NC	_
 nommés	nommer	VPP	_
 céphalopodes	céphalopode	ADJ	_
 ,	,	PONCT	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 ils	il	CLS	_
 portent	porter	V	_
 les	le	DET	_
@@ -27534,7 +27576,8 @@ gastéropodes	gastéropode	NC	_
 ,	,	PONCT	_
 ainsi	ainsi	ADV	_
 nommés	nommer	VPP	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 ils	il	CLS	_
 rampent	ramper	V	_
 sur	sur	P	_
@@ -27844,7 +27887,7 @@ abord	abord	NC	_
 en	en	P	_
 deux	deux	DET	_
 grands	grand	ADJ	_
-embranchemens	embranchemens	NC	_
+embranchemens	embranchement	NC	_
 .	.	PONCT	_
 Le	le	DET	_
 premier	premier	NC	_
@@ -27861,7 +27904,7 @@ solides	solide	ADJ	_
 et	et	CC	_
 ne	ne	ADV	_
 vivent	vivre	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 en	en	P	_
 suçant	sucer	VPR	_
 des	un	DET	_
@@ -27880,7 +27923,7 @@ ryngotes	ryngotes	NC	_
 )	)	PONCT	_
 ne	ne	ADV	_
 subissent	subir	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 une	un	DET	_
 demi-métamorphose	demi-métamorphose	NC	_
 ,	,	PONCT	_
@@ -27978,7 +28021,8 @@ et	et	CC	_
 ils	il	CLS	_
 ont	avoir	V	_
 souvent	souvent	ADV	_
-en_outre	en_outre	ADV	_
+en	en	P	_
+outre	outre	P	_
 une	un	DET	_
 trompe	trompe	NC	_
 charnue	charnu	ADJ	_
@@ -28091,7 +28135,7 @@ garnies	garnir	VPP	_
 de	de	P	_
 vésicules	vésicule	NC	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 Sa	son	DET	_
 bouche	bouche	NC	_
 est	être	V	_
@@ -28207,7 +28251,7 @@ des	un	DET	_
 trachées	trachée	NC	_
 tubuleuses	tubuleux	ADJ	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 L'	le	DET	_
 insecte	insecte	NC	_
 parfait	parfait	ADJ	_
@@ -28392,7 +28436,7 @@ velu	velu	ADJ	_
 par	par	P	_
 dehors	dehors	ADV	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 Le	le	DET	_
 second	second	ADJ	_
 ordre	ordre	NC	_
@@ -28462,7 +28506,7 @@ Ces	ce	DET	_
 insectes	insecte	NC	_
 ne	ne	ADV	_
 subissent	subir	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 une	un	DET	_
 demi-métamorphose	demi-métamorphose	NC	_
 ;	;	PONCT	_
@@ -28652,7 +28696,7 @@ vestiges	vestige	NC	_
 de	de	P	_
 mâchoires	mâchoire	NC	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 Le	le	DET	_
 quatrième	quatrième	ADJ	_
 ordre	ordre	NC	_
@@ -28719,7 +28763,7 @@ où	où	PROREL	_
 il	il	CLS	_
 n'	ne	ADV	_
 a	avoir	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 une	un	DET	_
 ou	ou	CC	_
 deux	deux	DET	_
@@ -28743,7 +28787,7 @@ industrieux	industrieux	ADJ	_
 et	et	CC	_
 notamment	notamment	ADV	_
 les	le	DET	_
-abeilles	abeilles	NC	_
+abeilles	abeille	NC	_
 .	.	PONCT	_
 Enfin	enfin	ADV	_
 il	il	CLS	_
@@ -28835,7 +28879,7 @@ les	le	DET	_
 de	de	P	_
 mer	mer	NC	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 On	on	CLS	_
 peut	pouvoir	V	_
 faire	faire	VINF	_
@@ -28868,7 +28912,7 @@ méduses	méduse	NC	_
 les	le	DET	_
 actinies	actinie	NC	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 Enfin	enfin	ADV	_
 les	le	DET	_
 polypes	polype	NC	_
@@ -28893,7 +28937,7 @@ coraux	corail	NC	_
 semblent	sembler	V	_
 ne	ne	ADV	_
 consister	consister	VINF	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 en	en	P	_
 un	un	DET	_
 sac	sac	NC	_
@@ -29403,7 +29447,7 @@ lavage	lavage	NC	_
 Cette	ce	DET	_
 matière	matière	NC	_
 a	avoir	V	_
-sur-tout	sur-tout	VPP	_
+sur-tout	surtout	VPP	_
 ,	,	PONCT	_
 par	par	P	_
 l'	le	DET	_
@@ -29686,7 +29730,7 @@ effet	effet	NC	_
 la	le	DET	_
 respiration	respiration	NC	_
 enlevant	enlever	VPR	_
-sur-tout	sur-tout	ADV	_
+sur-tout	surtout	ADV	_
 au	à_le	P+D	_
 sang	sang	NC	_
 de	de	P	_
@@ -29911,7 +29955,7 @@ comme	comme	CS	_
 nous	nous	CLS	_
 l'	il	CLO	_
 avons	avoir	V	_
-déja	déja	VPP	_
+déja	déjà	VPP	_
 vu	voir	VPP	_
 ,	,	PONCT	_
 l'	le	DET	_
@@ -30031,7 +30075,7 @@ La	le	DET	_
 cellulosité	cellulosité	NC	_
 est	être	V	_
 même	même	ADV	_
-déja	déja	ADV	_
+déja	déjà	ADV	_
 très	très	ADV	_
 -	-	PONCT	_
 rare	rare	ADJ	_
@@ -30803,7 +30847,7 @@ lié	lier	VPP	_
 ,	,	PONCT	_
 les	le	DET	_
 muscles	muscle	NC	_
-auxquels	auquel	PROREL	_
+auxquels	à_lequel	PROREL	_
 il	il	CLS	_
 se	se	CLO	_
 distribue	distribuer	V	_
@@ -31078,7 +31122,9 @@ avec	avec	P	_
 le	le	DET	_
 nerf	nerf	NC	_
 est	être	V	_
-au-delà	au-delà	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+delà	delà	ADV	_
 des	un	DET	_
 bornes	borne	NC	_
 fixées	fixer	VPP	_
@@ -31367,7 +31413,7 @@ ne	ne	ADV	_
 peuvent	pouvoir	V	_
 être	être	VINF	_
 rapportées	rapporter	VPP	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 à	à	P	_
 un	un	DET	_
 changement	changement	NC	_
@@ -31606,7 +31652,7 @@ des	un	DET	_
 corps	corps	NC	_
 pointus	pointu	ADJ	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 Comme	comme	CS	_
 il	il	CLS	_
 n'	ne	ADV	_
@@ -31728,7 +31774,8 @@ aux	à_le	P+D	_
 stimulus	stimulus	NC	_
 extérieurs	extérieur	ADJ	_
 ,	,	PONCT	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 le	le	DET	_
 nerf	nerf	NC	_
 ,	,	PONCT	_
@@ -32011,7 +32058,7 @@ dépendent	dépendre	V	_
 de	de	P	_
 l'	le	DET	_
 intelligence	intelligence	NC	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 autant	autant	ADV	_
 qu'	que	CS	_
 ils	il	CLS	_
@@ -32077,7 +32124,7 @@ appuie	appuyer	V	_
 sur	sur	P	_
 des	un	DET	_
 expériences	expérience	NC	_
-déja	déja	ADJ	_
+déja	déjà	ADJ	_
 anciennes	ancien	ADJ	_
 de	de	P	_
 Stenon	Stenon	NP	_
@@ -32095,7 +32142,7 @@ artère	artère	NC	_
 paralyse	paralyser	V	_
 les	le	DET	_
 muscles	muscle	NC	_
-auxquels	auquel	PROREL	_
+auxquels	à_lequel	PROREL	_
 elle	il	CLS	_
 se	se	CLO	_
 rend	rendre	V	_
@@ -32139,7 +32186,7 @@ au	à_le	P+D	_
 galvanisme	galvanisme	NC	_
 .	.	PONCT	_
 *	*	PONCT	_
-M	M	NC	_
+M	monsieur	NC	_
 Humboldt	Humboldt	NP	_
 en	en	CLO	_
 a	avoir	V	_
@@ -32323,7 +32370,8 @@ l'	le	DET	_
 de	de	P	_
 vie	vie	NC	_
 ,	,	PONCT	_
-tandis_qu'	tandis_que	CS	_
+tandis	tandis	ADV	_
+qu'	que	CS	_
 immédiatement	immédiatement	ADV	_
 après	après	P	_
 la	le	DET	_
@@ -32450,7 +32498,7 @@ il	il	CLS	_
 n'	ne	ADV	_
 y	y	CLO	_
 a	avoir	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 un	un	DET	_
 changement	changement	NC	_
 subit	subit	ADJ	_
@@ -32473,7 +32521,7 @@ cohésion	cohésion	NC	_
 .	.	PONCT	_
 Nous	nous	CLS	_
 avons	avoir	V	_
-déja	déja	VPP	_
+déja	déjà	VPP	_
 des	un	DET	_
 exemples	exemple	NC	_
 de	de	P	_
@@ -32507,7 +32555,7 @@ le	le	DET	_
 plus	plus	ADV	_
 connu	connaître	VPP	_
 de	de	P	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 est	être	V	_
 celui	celui	PRO	_
 que	que	PROREL	_
@@ -32640,7 +32688,7 @@ on	on	CLS	_
 ne	ne	ADV	_
 peut	pouvoir	V	_
 choisir	choisir	VINF	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 entre	entre	P	_
 ces	ce	DET	_
 deux	deux	ADJ	_
@@ -32864,7 +32912,7 @@ ne	ne	ADV	_
 peut	pouvoir	V	_
 la	il	CLO	_
 débarrasser	débarrasser	VINF	_
-complétement	complétement	ADV	_
+complétement	complètement	ADV	_
 ,	,	PONCT	_
 donne	donner	V	_
 à	à	P	_
@@ -33053,7 +33101,7 @@ ordinaire	ordinaire	ADJ	_
 mais	mais	CC	_
 qui	qui	PROREL	_
 est	être	V	_
-déja	déja	VPP	_
+déja	déjà	VPP	_
 figurée	figurer	VPP	_
 et	et	CC	_
 enveloppée	envelopper	VPP	_
@@ -33097,7 +33145,7 @@ sur	sur	P	_
 les	le	DET	_
 autres	autre	NC	_
 ont	avoir	V	_
-déja	déja	VPP	_
+déja	déjà	VPP	_
 des	un	DET	_
 articulations	articulation	NC	_
 visibles	visible	ADJ	_
@@ -33115,10 +33163,10 @@ autre	autre	NC	_
 et	et	CC	_
 les	le	DET	_
 enveloppe	enveloppe	NC	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 dans	dans	P	_
 une	un	DET	_
-gaîne	gaîne	NC	_
+gaîne	gaine	NC	_
 commune	commun	ADJ	_
 :	:	PONCT	_
 mais	mais	CC	_
@@ -33618,9 +33666,10 @@ occipital	occipital	ADJ	_
 le	le	DET	_
 frontal	frontal	NC	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 ;	;	PONCT	_
-tandis_qu'	tandis_que	CS	_
+tandis	tandis	ADV	_
+qu'	que	CS	_
 on	on	CLS	_
 regarde	regarder	V	_
 comme	comme	P	_
@@ -34053,7 +34102,7 @@ qu'	que	CS	_
 ils	il	CLS	_
 les	il	CLO	_
 surpassent	surpasser	V	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 par	par	P	_
 leur	leur	DET	_
 densité	densité	NC	_
@@ -34084,7 +34133,7 @@ les	le	DET	_
 cétacés	cétacé	NC	_
 ,	,	PONCT	_
 et	et	CC	_
-sur-tout	sur-tout	NP	_
+sur-tout	surtout	NP	_
 dans	dans	P	_
 la	le	DET	_
 baleine	baleine	NC	_
@@ -34141,7 +34190,7 @@ os	os	NC	_
 qui	qui	PROREL	_
 ne	ne	ADV	_
 prennent	prendre	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 assez	assez	ADV	_
 tard	tard	ADV	_
 la	le	DET	_
@@ -34168,7 +34217,7 @@ le	le	DET	_
 corps	corps	NC	_
 des	de_le	P+D	_
 os	os	NC	_
-auxquels	auquel	PROREL	_
+auxquels	à_lequel	PROREL	_
 elles	il	CLS	_
 appartiennent	appartenir	V	_
 .	.	PONCT	_
@@ -34698,7 +34747,7 @@ la	le	DET	_
 proportion	proportion	NC	_
 des	de_le	P+D	_
 animaux	animal	NC	_
-auxquels	auquel	PROREL	_
+auxquels	à_lequel	PROREL	_
 elles	il	CLS	_
 appartiennent	appartenir	V	_
 ,	,	PONCT	_
@@ -35051,7 +35100,7 @@ tympan	tympan	NC	_
 .	.	PONCT	_
 C'	ce	CLS	_
 est	être	V	_
-sur-tout	sur-tout	ADJ	_
+sur-tout	surtout	ADJ	_
 dans	dans	P	_
 les	le	DET	_
 oiseaux	oiseau	NC	_
@@ -35381,7 +35430,7 @@ le	le	DET	_
 sang	sang	NC	_
 ,	,	PONCT	_
 et	et	CC	_
-sur-tout	sur-tout	ADV	_
+sur-tout	surtout	ADV	_
 que	que	CS	_
 le	le	DET	_
 lait	lait	NC	_
@@ -35497,7 +35546,7 @@ cette	ce	DET	_
 combinaison	combinaison	NC	_
 a	avoir	V	_
 lieu	lieu	NC	_
-sur-tout	sur-tout	ADV	_
+sur-tout	surtout	ADV	_
 à	à	P	_
 l'	le	DET	_
 époque	époque	NC	_
@@ -35579,7 +35628,7 @@ rigidité	rigidité	NC	_
 dans	dans	P	_
 des	un	DET	_
 organes	organe	NC	_
-auxquels	auquel	PROREL	_
+auxquels	à_lequel	PROREL	_
 elle	il	CLS	_
 est	être	V	_
 nuisible	nuisible	ADJ	_
@@ -35635,7 +35684,7 @@ anatomie	anatomie	NC	_
 comparée	comparer	VPP	_
 nous	nous	CLO	_
 présente	présenter	V	_
-sur-tout	sur-tout	ADV	_
+sur-tout	surtout	ADV	_
 la	le	DET	_
 formation	formation	NC	_
 du	de_le	P+D	_
@@ -35729,7 +35778,7 @@ cerf	cerf	NC	_
 le	le	DET	_
 chevreuil	chevreuil	NC	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 ,	,	PONCT	_
 soit	soit	CC	_
 aux	à_le	P+D	_
@@ -35795,7 +35844,9 @@ front	front	NC	_
 ne	ne	ADV	_
 va	aller	V	_
 point	point	ADV	_
-au-delà	au-delà	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+delà	delà	ADV	_
 ;	;	PONCT	_
 un	un	DET	_
 bourrelet	bourrelet	NC	_
@@ -36495,7 +36546,7 @@ couches	couche	NC	_
 n'	ne	ADV	_
 existent	exister	V	_
 point	point	ADV	_
-toutes	tous	PRO	_
+toutes	tout	PRO	_
 dans	dans	P	_
 les	le	DET	_
 jeunes	jeune	ADJ	_
@@ -36766,7 +36817,7 @@ adhérer	adhérer	VINF	_
 à	à	P	_
 la	le	DET	_
 coquille	coquille	NC	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 à	à	P	_
 l'	le	DET	_
 endroit	endroit	NC	_
@@ -36806,7 +36857,8 @@ sont	être	V	_
 point	point	ADV	_
 réparées	réparer	VPP	_
 ,	,	PONCT	_
-tandis_que	tandis_que	CS	_
+tandis	tandis	ADV	_
+que	que	CS	_
 celles	celui	PRO	_
 où	où	PROREL	_
 aucun	aucun	DET	_
@@ -36932,7 +36984,7 @@ formeroit	former	V	_
 -il	il	CLS	_
 ,	,	PONCT	_
 et	et	CC	_
-sur-tout	sur-tout	ADV	_
+sur-tout	surtout	ADV	_
 comment	comment	PROWH	_
 se	se	CLO	_
 détruiroit	détruire	V	_
@@ -37371,7 +37423,7 @@ molles	mou	ADJ	_
 mortes	mort	ADJ	_
 ,	,	PONCT	_
 et	et	CC	_
-déja	déja	NC	_
+déja	déjà	NC	_
 remplacées	remplacer	VPP	_
 par	par	P	_
 d'	un	DET	_
@@ -37941,7 +37993,7 @@ leur	leur	DET	_
 organisation	organisation	NC	_
 sera	être	V	_
 plus	plus	ADV	_
-complétement	complétement	ADV	_
+complétement	complètement	ADV	_
 connue	connaître	VPP	_
 ,	,	PONCT	_
 les	le	DET	_
@@ -38119,7 +38171,8 @@ comme	comme	P	_
 absolument	absolument	ADV	_
 extérieure	extérieur	ADJ	_
 ,	,	PONCT	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 elle	il	CLS	_
 est	être	V	_
 recouverte	recouvrir	VPP	_
@@ -38442,7 +38495,7 @@ Nous	nous	CLS	_
 ne	ne	ADV	_
 nous	nous	CLO	_
 arrêterons	arrêter	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 à	à	P	_
 ce	ce	PRO	_
 qui	qui	PROREL	_
@@ -38450,7 +38503,8 @@ concerne	concerner	V	_
 leurs	leur	DET	_
 articulations	articulation	NC	_
 ,	,	PONCT	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 ce	ce	CLS	_
 sont	être	V	_
 elles	il	PRO	_
@@ -38906,7 +38960,7 @@ poissons	poisson	NC	_
 s'	se	CLO	_
 unissent	unir	V	_
 presque	presque	ADV	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 par	par	P	_
 des	un	DET	_
 sutures	suture	NC	_
@@ -38983,7 +39037,8 @@ qui	qui	PROREL	_
 en	en	CLO	_
 diffère	différer	V	_
 ,	,	PONCT	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 elle	il	CLS	_
 permet	permettre	V	_
 un	un	DET	_
@@ -39128,7 +39183,8 @@ seulement	seulement	ADV	_
 la	le	DET	_
 peau	peau	NC	_
 ;	;	PONCT	_
-tandis_que	tandis_que	CS	_
+tandis	tandis	ADV	_
+que	que	CS	_
 dans	dans	P	_
 d'	un	DET	_
 autres	autre	ADJ	_
@@ -39257,7 +39313,7 @@ articulations	articulation	NC	_
 qui	qui	PROREL	_
 ne	ne	ADV	_
 permettent	permettre	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 un	un	DET	_
 demi-mouvement	demi-mouvement	NC	_
 ,	,	PONCT	_
@@ -39347,7 +39403,8 @@ sur	sur	P	_
 les	le	DET	_
 autres	autre	NC	_
 ,	,	PONCT	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 la	le	DET	_
 substance	substance	NC	_
 qui	qui	PROREL	_
@@ -39492,7 +39549,7 @@ uns	un	NC	_
 sur	sur	P	_
 les	le	DET	_
 autres	autre	NC	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 avec	avec	P	_
 beaucoup	beaucoup	PRO	_
 de	de	P	_
@@ -40024,7 +40081,7 @@ plan	plan	NC	_
 tant	tant	ADV	_
 que	que	CS	_
 celui	celui	PRO	_
-auquel	auquel	PROREL	_
+auquel	à_lequel	PROREL	_
 il	il	CLS	_
 tient	tenir	V	_
 ne	ne	ADV	_
@@ -40224,7 +40281,7 @@ rongeurs	rongeur	NC	_
 les	le	DET	_
 cochons	cochon	NC	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 ,	,	PONCT	_
 il	il	CLS	_
 tient	tenir	V	_
@@ -40402,7 +40459,7 @@ peut	pouvoir	V	_
 plus	plus	ADV	_
 être	être	VINF	_
 dérangé	déranger	VPP	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 en	en	P	_
 reprenant	reprendre	VPR	_
 une	un	DET	_
@@ -40460,7 +40517,7 @@ combat	combat	NC	_
 .	.	PONCT	_
 Nous	nous	CLS	_
 avons	avoir	V	_
-déja	déja	VPP	_
+déja	déjà	VPP	_
 parlé	parler	VPP	_
 plus	plus	ADV	_
 haut	haut	ADJ	_
@@ -40550,7 +40607,7 @@ n'	ne	ADV	_
 ont	avoir	V	_
 d'	un	DET	_
 articulations	articulation	NC	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 à	à	P	_
 leurs	leur	DET	_
 coquilles	coquille	NC	_
@@ -40644,7 +40701,7 @@ bien	bien	ADV	_
 ces	ce	DET	_
 pièces	pièce	NC	_
 sont	être	V	_
-toutes	tous	PRO	_
+toutes	tout	PRO	_
 attachées	attacher	VPP	_
 immédiatement	immédiatement	ADV	_
 au	à_le	P+D	_
@@ -40681,7 +40738,7 @@ il	il	CLS	_
 n'	ne	ADV	_
 y	y	CLO	_
 a	avoir	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 un	un	DET	_
 mouvement	mouvement	NC	_
 commun	commun	ADJ	_
@@ -40817,7 +40874,8 @@ d'	de	P	_
 appui	appui	NC	_
 solide	solide	ADJ	_
 ,	,	PONCT	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 les	le	DET	_
 enveloppes	enveloppe	NC	_
 écailleuses	écailleux	ADJ	_
@@ -40846,7 +40904,8 @@ nécessairement	nécessairement	ADV	_
 le	le	DET	_
 ginglyme	ginglyme	NC	_
 .	.	PONCT	_
-Quant_aux	quant_à_le	P+D	_
+quant	quant	ADV	_
+aux	à_le	P+D	_
 parties	partie	NC	_
 qui	qui	PROREL	_
 n'	ne	ADV	_
@@ -41212,7 +41271,7 @@ irritabilité	irritabilité	NC	_
 ce	ce	CLS	_
 n'	ne	ADV	_
 est	être	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 un	un	DET	_
 lien	lien	NC	_
 passif	passif	ADJ	_
@@ -41325,7 +41384,7 @@ la	il	CLO	_
 reçoit	recevoir	V	_
 facilement	facilement	ADV	_
 ,	,	PONCT	_
-sur-tout	sur-tout	ADV	_
+sur-tout	surtout	ADV	_
 lorsque	lorsque	CS	_
 son	son	DET	_
 action	action	NC	_
@@ -41486,7 +41545,7 @@ qu'	que	PROREL	_
 on	on	CLS	_
 peut	pouvoir	V	_
 voir	voir	VINF	_
-sur-tout	sur-tout	ADV	_
+sur-tout	surtout	ADV	_
 dans	dans	P	_
 les	le	DET	_
 grandes	grand	ADJ	_
@@ -41531,7 +41590,8 @@ charnue	charnu	ADJ	_
 ;	;	PONCT	_
 car	car	CC	_
 ,	,	PONCT	_
-quant_à	quant_à	P	_
+quant	quant	ADV	_
+à	à	P	_
 la	le	DET	_
 nature	nature	NC	_
 chymique	chimique	ADJ	_
@@ -41599,7 +41659,7 @@ fibres	fibre	NC	_
 musculaires	musculaire	ADJ	_
 élémentaires	élémentaire	ADJ	_
 exercent	exercer	V	_
-toutes	tous	PRO	_
+toutes	tout	PRO	_
 une	un	DET	_
 force	force	NC	_
 égale	égal	ADJ	_
@@ -42119,7 +42179,7 @@ rayonnés	rayonné	NC	_
 des	de_le	P+D	_
 ventrus	ventru	ADJ	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 ,	,	PONCT	_
 se	se	CLO	_
 réunir	réunir	VINF	_
@@ -42168,7 +42228,7 @@ muscles	muscle	NC	_
 qui	qui	PROREL	_
 n'	ne	ADV	_
 ont	avoir	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 un	un	DET	_
 seul	seul	ADJ	_
 ventre	ventre	NC	_
@@ -42301,7 +42361,7 @@ peuvent	pouvoir	V	_
 se	se	CLO	_
 contracter	contracter	VINF	_
 en	en	P	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 sens	sens	NC	_
 .	.	PONCT	_
 Lorsque	lorsque	CS	_
@@ -42329,7 +42389,7 @@ oeufs	bœuf	NC	_
 des	un	DET	_
 excrémens	excrément	NC	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 Mais	mais	CC	_
 d'	de	P	_
 ordinaire	ordinaire	NC	_
@@ -42391,7 +42451,7 @@ limaces	limace	NC	_
 les	le	DET	_
 sangsues	sangsue	NC	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 S'	se	CLO	_
 alongent	allonger	V	_
 et	et	CC	_
@@ -42787,7 +42847,7 @@ reviennent	revenir	V	_
 au	à_le	P+D	_
 fond	fond	NC	_
 ,	,	PONCT	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 ,	,	PONCT	_
 à	à	P	_
 celui	celui	PRO	_
@@ -43105,7 +43165,9 @@ longue	long	ADJ	_
 apophyse	apophyse	NC	_
 ,	,	PONCT	_
 élevée	élever	VPP	_
-au-dessus	au-dessus	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 du	de_le	P+D	_
 genou	genou	NC	_
 ,	,	PONCT	_
@@ -43168,7 +43230,7 @@ ne	ne	ADV	_
 faisant	faire	VPR	_
 avec	avec	P	_
 lui	il	PRO	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 un	un	DET	_
 angle	angle	NC	_
 fort	fort	ADV	_
@@ -43317,7 +43379,7 @@ le	le	DET	_
 plus	plus	ADV	_
 ordinaire	ordinaire	ADJ	_
 de	de	P	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 ,	,	PONCT	_
 est	être	V	_
 lorsqu'	lorsque	CS	_
@@ -43379,7 +43441,7 @@ le	le	DET	_
 plus	plus	ADV	_
 désavantageux	désavantageux	ADJ	_
 de	de	P	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 ,	,	PONCT	_
 à	à	P	_
 cause	cause	NC	_
@@ -43456,7 +43518,9 @@ convexité	convexité	NC	_
 pour	pour	P	_
 s'	se	CLO	_
 insérer	insérer	VINF	_
-au-dessous	au-dessous	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessous	dessous	ADV	_
 ,	,	PONCT	_
 font	faire	V	_
 avec	avec	P	_
@@ -43493,7 +43557,8 @@ et	et	CC	_
 moins	moins	ADV	_
 variable	variable	ADJ	_
 .	.	PONCT	_
-Quant_à	quant_à	P	_
+Quant	quant	ADV	_
+à	à	P	_
 la	le	DET	_
 proximité	proximité	NC	_
 du	de_le	P+D	_
@@ -43519,7 +43584,7 @@ de	de	P	_
 flexion	flexion	NC	_
 ,	,	PONCT	_
 mais	mais	CC	_
-sur-tout	sur-tout	NP	_
+sur-tout	surtout	NP	_
 pour	pour	P	_
 pouvoir	pouvoir	VINF	_
 produire	produire	VINF	_
@@ -43537,7 +43602,7 @@ musculaire	musculaire	ADJ	_
 ne	ne	ADV	_
 pouvant	pouvoir	VPR	_
 perdre	perdre	VINF	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 une	un	DET	_
 fraction	fraction	NC	_
 déterminée	déterminer	VPP	_
@@ -43578,7 +43643,7 @@ angulaire	angulaire	ADJ	_
 ;	;	PONCT	_
 au	à_le	P+D	_
 lieu	lieu	NC	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 en	en	P	_
 s'	se	CLO	_
 insérant	insérer	VPR	_
@@ -43848,7 +43913,7 @@ ligamens	ligament	NC	_
 annulaires	annulaire	ADJ	_
 ,	,	PONCT	_
 les	il	CLO	_
-gaînes	gaîner	V	_
+gaînes	gaine	NC	_
 ,	,	PONCT	_
 et	et	CC	_
 les	le	DET	_
@@ -43936,7 +44001,7 @@ Il	il	CLS	_
 n'	ne	ADV	_
 y	y	CLO	_
 a	avoir	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 une	un	DET	_
 seule	seul	ADJ	_
 perforation	perforation	NC	_
@@ -44028,7 +44093,7 @@ sont	être	V	_
 renfermés	renfermer	VPP	_
 dans	dans	P	_
 des	un	DET	_
-gaînes	gaînes	NC	_
+gaînes	gaine	NC	_
 ,	,	PONCT	_
 dont	dont	PROREL	_
 ils	il	CLS	_
@@ -44057,7 +44122,7 @@ squelette	squelette	NC	_
 .	.	PONCT	_
 nous	nous	CLS	_
 avons	avoir	V	_
-déja	déja	VPP	_
+déja	déjà	VPP	_
 vu	voir	VPP	_
 que	que	CS	_
 le	le	DET	_
@@ -44185,7 +44250,7 @@ composent	composer	V	_
 les	le	DET	_
 squelettes	squelette	NC	_
 sont	être	V	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 articulés	articuler	VPP	_
 de	de	P	_
 manière	manière	NC	_
@@ -44318,7 +44383,8 @@ dans	dans	P	_
 les	le	DET	_
 chairs	chair	NC	_
 ,	,	PONCT	_
-tandis_que	tandis_que	CS	_
+tandis	tandis	ADV	_
+que	que	CS	_
 les	le	DET	_
 autres	autre	ADJ	_
 animaux	animal	NC	_
@@ -44400,7 +44466,7 @@ antérieure	antérieur	ADJ	_
 ne	ne	ADV	_
 manque	manquer	V	_
 seule	seul	ADJ	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 à	à	P	_
 une	un	DET	_
 espèce	espèce	NC	_
@@ -44972,7 +45038,7 @@ tortues	tortue	NC	_
 le	le	DET	_
 crocodile	crocodile	NC	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 ;	;	PONCT	_
 mais	mais	CC	_
 elle	il	CLS	_
@@ -45057,7 +45123,7 @@ les	le	DET	_
 extrémités	extrémité	NC	_
 ne	ne	ADV	_
 consistent	consister	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 en	en	P	_
 osselets	osselet	NC	_
 rayonnés	rayonner	VPP	_
@@ -45202,7 +45268,7 @@ il	il	CLS	_
 n'	ne	ADV	_
 en	en	CLO	_
 a	avoir	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 un	un	DET	_
 ,	,	PONCT	_
 on	on	CLS	_
@@ -45345,7 +45411,7 @@ plies	plie	NC	_
 les	le	DET	_
 turbots	turbot	NC	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 Dans	dans	P	_
 lequel	lequel	PROREL	_
 la	le	DET	_
@@ -45484,7 +45550,7 @@ cette	ce	DET	_
 ressemblance	ressemblance	NC	_
 n'	ne	ADV	_
 est	être	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 extérieure	extérieur	ADJ	_
 ,	,	PONCT	_
 et	et	CC	_
@@ -45541,7 +45607,7 @@ seulement	seulement	ADV	_
 un	un	DET	_
 peu	peu	NC	_
 plus	plus	ADV	_
-alongés	alongés	ADJ	_
+alongés	allonger	ADJ	_
 .	.	PONCT	_
 De	de	P	_
 même	même	ADV	_
@@ -45749,7 +45815,7 @@ soudées	souder	VPP	_
 et	et	CC	_
 ne	ne	ADV	_
 formant	former	VPR	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 un	un	DET	_
 seul	seul	ADJ	_
 os	os	NC	_
@@ -45882,7 +45948,7 @@ Les	le	DET	_
 apophyses	apophyse	NC	_
 épineuses	épineux	ADJ	_
 ,	,	PONCT	_
-sur-tout	sur-tout	ADJ	_
+sur-tout	surtout	ADJ	_
 ,	,	PONCT	_
 sont	être	V	_
 très	très	ADV	_
@@ -46132,7 +46198,7 @@ côte	côte	NC	_
 .	.	PONCT	_
 Des	un	DET	_
 sept	sept	NC	_
-vertèbres	vertèbres	ADJ	_
+vertèbres	vertèbre	ADJ	_
 cervicales	cervical	ADJ	_
 ,	,	PONCT	_
 les	le	DET	_
@@ -46203,7 +46269,7 @@ un	un	DET	_
 trou	trou	NC	_
 .	.	PONCT	_
 Les	le	DET	_
-épineuses	épineuses	NC	_
+épineuses	épineux	NC	_
 sont	être	V	_
 fourchues	fourchu	ADJ	_
 ,	,	PONCT	_
@@ -46299,7 +46365,8 @@ corps	corps	NC	_
 ;	;	PONCT	_
 enfin	enfin	ADV	_
 ,	,	PONCT	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 son	son	DET	_
 articulation	articulation	NC	_
 avec	avec	P	_
@@ -46859,7 +46926,8 @@ a	avoir	V	_
 alors	alors	ADV	_
 ankilose	ankilose	NP	_
 .	.	PONCT	_
-Quant_aux	quant_à_le	P+D	_
+quant	quant	ADV	_
+aux	à_le	P+D	_
 autres	autre	ADJ	_
 vertèbres	vertèbre	NC	_
 ,	,	PONCT	_
@@ -46926,7 +46994,7 @@ Il	il	CLS	_
 n'	ne	ADV	_
 y	y	CLO	_
 a	avoir	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 un	un	DET	_
 très	très	ADV	_
 -	-	PONCT	_
@@ -47164,7 +47232,7 @@ dans	dans	P	_
 le	le	DET	_
 lori	lori	NC	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 3	3	X	_
 )	)	PONCT	_
 forme	forme	NC	_
@@ -47192,7 +47260,8 @@ guère	guère	ADV	_
 des	de_le	P+D	_
 nôtres	nôtre	NC	_
 que	que	ADV	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 leurs	leur	DET	_
 apophyses	apophyse	NC	_
 épineuses	épineux	ADJ	_
@@ -47228,7 +47297,7 @@ tête	tête	NC	_
 .	.	PONCT	_
 C'	ce	CLS	_
 est	être	V	_
-sur-tout	sur-tout	ADJ	_
+sur-tout	surtout	ADJ	_
 dans	dans	P	_
 le	le	DET	_
 pongo	pongo	NC	_
@@ -47584,7 +47653,7 @@ chameaux	chameau	NC	_
 la	le	DET	_
 girafe	girafe	NC	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 ;	;	PONCT	_
 sans	sans	P	_
 cela	cela	PRO	_
@@ -47600,7 +47669,7 @@ en	en	P	_
 arrière	arrière	NC	_
 .	.	PONCT	_
 Les	le	DET	_
-transverses	transverses	NC	_
+transverses	transverse	NC	_
 sont	être	V	_
 comprimées	comprimer	VPP	_
 ,	,	PONCT	_
@@ -47652,7 +47721,7 @@ chèvre	chèvre	NC	_
 le	le	DET	_
 mouton	mouton	NC	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 Les	le	DET	_
 vertèbres	vertèbre	NC	_
 cervicales	cervical	ADJ	_
@@ -47984,7 +48053,8 @@ celles	celui	PRO	_
 des	de_le	P+D	_
 lombaires	lombaire	NC	_
 ,	,	PONCT	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 celles	celui	PRO	_
 -ci	ci	ADV	_
 donnent	donner	V	_
@@ -48150,7 +48220,7 @@ cheval	cheval	NC	_
 le	le	DET	_
 marsouin	marsouin	NC	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 d	d	NC	_
 )	)	PONCT	_
 les	le	DET	_
@@ -48303,7 +48373,7 @@ des	de_le	P+D	_
 ruminans	ruminant	NC	_
 ,	,	PONCT	_
 mais	mais	CC	_
-sur-tout	sur-tout	ADV	_
+sur-tout	surtout	ADV	_
 dans	dans	P	_
 la	le	DET	_
 taupe	taupe	NC	_
@@ -48446,7 +48516,7 @@ transverses	transverse	ADJ	_
 ,	,	PONCT	_
 et	et	CC	_
 des	de_le	P+D	_
-épineuses	épineuses	NC	_
+épineuses	épineux	NC	_
 d'	de	P	_
 autant	autant	ADV	_
 plus	plus	ADV	_
@@ -48589,7 +48659,8 @@ apophyses	apophyse	NC	_
 transverses	transverse	ADJ	_
 ,	,	PONCT	_
 et	et	CC	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 ses	son	DET	_
 apophyses	apophyse	NC	_
 épineuses	épineux	ADJ	_
@@ -48653,7 +48724,7 @@ particularités	particularité	NC	_
 .	.	PONCT	_
 Des	un	DET	_
 sept	sept	NC	_
-vertèbres	vertèbres	ADJ	_
+vertèbres	vertèbre	ADJ	_
 cervicales	cervical	ADJ	_
 ,	,	PONCT	_
 la	le	DET	_
@@ -48908,7 +48979,7 @@ et	et	CC	_
 n'	ne	ADV	_
 en	en	CLO	_
 a	avoir	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 un	un	DET	_
 petit	petit	ADJ	_
 nombre	nombre	NC	_
@@ -48957,13 +49028,16 @@ beaucoup	beaucoup	ADV	_
 plus	plus	ADV	_
 long	long	ADJ	_
 ,	,	PONCT	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 ils	il	CLS	_
 devoient	dévoyer	V	_
 chercher	chercher	VINF	_
 leur	leur	DET	_
 nourriture	nourriture	NC	_
-au-dessous	au-dessous	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessous	dessous	ADV	_
 de	de	P	_
 la	le	DET	_
 surface	surface	NC	_
@@ -48991,7 +49065,7 @@ planes	plan	ADJ	_
 qui	qui	PROREL	_
 ne	ne	ADV	_
 souffriroient	souffrir	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 un	un	DET	_
 mouvement	mouvement	NC	_
 obscur	obscur	ADJ	_
@@ -49025,7 +49099,7 @@ ne	ne	ADV	_
 peuvent	pouvoir	V	_
 se	se	CLO	_
 fléchir	fléchir	VINF	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 en	en	P	_
 avant	avant	NC	_
 ,	,	PONCT	_
@@ -49035,7 +49109,7 @@ autres	autre	NC	_
 ne	ne	ADV	_
 le	il	CLO	_
 peuvent	pouvoir	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 en	en	P	_
 arrière	arrière	NC	_
 .	.	PONCT	_
@@ -49115,7 +49189,7 @@ d'	de	P	_
 oiseaux	oiseau	NC	_
 n'	ne	ADV	_
 ont	avoir	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 un	un	DET	_
 bourrelet	bourrelet	NC	_
 placé	placer	VPP	_
@@ -49508,7 +49582,7 @@ longues	long	ADJ	_
 La	le	DET	_
 dernière	dernière	NC	_
 de	de	P	_
-toutes	tous	PRO	_
+toutes	tout	PRO	_
 ,	,	PONCT	_
 à	à	P	_
 laquelle	il	PROREL	_
@@ -49619,7 +49693,7 @@ la	le	DET	_
 première	première	NC	_
 n'	ne	ADV	_
 est	être	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 un	un	DET	_
 simple	simple	ADJ	_
 tubercule	tubercule	NC	_
@@ -49656,7 +49730,7 @@ latéraux	latéral	ADJ	_
 .	.	PONCT	_
 Le	le	DET	_
 point	point	NC	_
-auquel	auquel	PROREL	_
+auquel	à_lequel	PROREL	_
 ils	il	CLS	_
 se	se	CLO	_
 réunissent	réunir	V	_
@@ -49751,7 +49825,7 @@ où	où	PROREL	_
 elle	il	CLS	_
 n'	ne	ADV	_
 est	être	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 un	un	DET	_
 simple	simple	ADJ	_
 tubercule	tubercule	NC	_
@@ -49956,7 +50030,7 @@ que	que	ADV	_
 deux	deux	DET	_
 .	.	PONCT	_
 Dans	dans	P	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 ,	,	PONCT	_
 les	le	DET	_
 vertèbres	vertèbre	NC	_
@@ -50058,7 +50132,7 @@ pour	pour	P	_
 tout	tout	DET	_
 os	os	NC	_
 sacrum	sacrum	NC	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 un	un	DET	_
 os	os	NC	_
 long	long	ADJ	_
@@ -50119,7 +50193,7 @@ tête	tête	NC	_
 au	à_le	P+D	_
 sacrum	sacrum	NC	_
 ;	;	PONCT	_
-toutes	tous	PRO	_
+toutes	tout	PRO	_
 sont	être	V	_
 de	de	P	_
 forme	forme	NC	_
@@ -50167,7 +50241,7 @@ sont	être	V	_
 de	un	DET	_
 petits	petit	ADJ	_
 os	os	NC	_
-alongés	alongés	ADJ	_
+alongés	allonger	ADJ	_
 ,	,	PONCT	_
 mobiles	mobile	ADJ	_
 ,	,	PONCT	_
@@ -50216,7 +50290,7 @@ Il	il	CLS	_
 n'	ne	ADV	_
 y	y	CLO	_
 a	avoir	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 une	un	DET	_
 seule	seul	ADJ	_
 vertèbre	vertèbre	NC	_
@@ -50343,7 +50417,7 @@ du	de_le	P+D	_
 côté	côté	NC	_
 du	de_le	P+D	_
 ventre	ventre	NC	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 une	un	DET	_
 ligne	ligne	NC	_
 saillante	saillant	ADJ	_
@@ -50462,7 +50536,7 @@ ne	ne	ADV	_
 borne	borner	V	_
 le	le	DET	_
 mouvement	mouvement	NC	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 autant	autant	ADV	_
 qu'	que	CS	_
 il	il	CLS	_
@@ -50516,7 +50590,8 @@ sont	être	V	_
 seulement	seulement	ADV	_
 distinctes	distinct	ADJ	_
 ,	,	PONCT	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 elles	il	CLS	_
 ne	ne	ADV	_
 portent	porter	V	_
@@ -50764,7 +50839,7 @@ très	très	ADV	_
 -	-	PONCT	_
 longues	long	ADJ	_
 ,	,	PONCT	_
-sur-tout	sur-tout	ADJ	_
+sur-tout	surtout	ADJ	_
 dans	dans	P	_
 les	le	DET	_
 poissons	poisson	NC	_
@@ -50777,7 +50852,7 @@ pleuronectes	pleuronecte	NC	_
 ,	,	PONCT	_
 chétodons	chétodon	NC	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 C'	ce	CLS	_
 est	être	V	_
 dans	dans	P	_
@@ -50989,7 +51064,7 @@ correspondent	correspondre	V	_
 de	un	DET	_
 petits	petit	ADJ	_
 osselets	osselet	NC	_
-alongés	alongés	ADJ	_
+alongés	allonger	ADJ	_
 qui	qui	PROREL	_
 soutiennent	soutenir	V	_
 la	le	DET	_
@@ -51156,7 +51231,7 @@ et	et	CC	_
 dorsale	dorsal	ADJ	_
 n'	ne	ADV	_
 a	avoir	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 un	un	DET	_
 mouvement	mouvement	NC	_
 obscur	obscur	ADJ	_
@@ -51503,7 +51578,9 @@ bas	bas	ADJ	_
 et	et	CC	_
 en	en	P	_
 partie	partie	NC	_
-au-dessous	au-dessous	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessous	dessous	ADV	_
 du	de_le	P+D	_
 précédent	précédent	NC	_
 ,	,	PONCT	_
@@ -51565,7 +51642,9 @@ plus	plus	ADV	_
 superficiel	superficiel	ADJ	_
 ,	,	PONCT	_
 situé	situer	VPP	_
-au-dessus	au-dessus	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 des	de_le	P+D	_
 précédens	précédent	NC	_
 .	.	PONCT	_
@@ -52054,7 +52133,7 @@ il	il	CLS	_
 n'	ne	ADV	_
 y	y	CLO	_
 a	avoir	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 un	un	DET	_
 seul	seul	ADJ	_
 muscle	muscle	NC	_
@@ -52351,7 +52430,7 @@ suit	suivre	V	_
 Elles	il	CLS	_
 se	se	CLO	_
 joignent	joindre	V	_
-toutes	tous	PRO	_
+toutes	tout	PRO	_
 ensemble	ensemble	ADV	_
 pour	pour	P	_
 former	former	VINF	_
@@ -52456,7 +52535,7 @@ construire	construire	VINF	_
 leurs	leur	DET	_
 habitations	habitation	NC	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 Etc.	Etc.	NP	_
 On	on	CLS	_
 conçoit	concevoir	V	_
@@ -52742,11 +52821,11 @@ qui	qui	PROREL	_
 leur	il	CLO	_
 sert	servir	V	_
 de	de	P	_
-gaîne	gaîner	V	_
+gaîne	gaine	NC	_
 .	.	PONCT	_
 Toutes	tout	ADJ	_
 ces	ce	DET	_
-gaînes	gaînes	NC	_
+gaînes	gaine	NC	_
 sont	être	V	_
 réunies	réunir	VPP	_
 par	par	P	_
@@ -52946,7 +53025,9 @@ de	de	P	_
 v	u	NC	_
 ,	,	PONCT	_
 placés	placer	VPP	_
-au-dessous	au-dessous	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessous	dessous	ADV	_
 de	de	P	_
 la	le	DET	_
 queue	queue	NC	_
@@ -53073,7 +53154,7 @@ sont	être	V	_
 reçus	recevoir	VPP	_
 dans	dans	P	_
 des	un	DET	_
-gaînes	gaînes	NC	_
+gaînes	gaine	NC	_
 semblables	semblable	ADJ	_
 à	à	P	_
 celles	celui	PRO	_
@@ -53264,7 +53345,9 @@ et	et	CC	_
 va	aller	V	_
 s'	se	CLO	_
 insérer	insérer	VINF	_
-au-dessous	au-dessous	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessous	dessous	ADV	_
 de	de	P	_
 la	le	DET	_
 queue	queue	NC	_
@@ -53340,7 +53423,9 @@ interne	interne	ADJ	_
 de	de	P	_
 l'	le	DET	_
 ischion	ischion	NC	_
-au-dessous	au-dessous	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessous	dessous	ADV	_
 et	et	CC	_
 derrière	derrière	P	_
 la	le	DET	_
@@ -53369,7 +53454,7 @@ chien	chien	NC	_
 il	il	CLS	_
 n'	ne	ADV	_
 a	avoir	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 une	un	DET	_
 languette	languette	NC	_
 charnue	charnu	ADJ	_
@@ -53402,7 +53487,7 @@ digitations	digitation	NC	_
 charnues	charnu	ADJ	_
 aux	à_le	P+D	_
 sept	sept	NC	_
-vertèbres	vertèbres	ADJ	_
+vertèbres	vertèbre	ADJ	_
 caudales	caudal	ADJ	_
 qui	qui	PROREL	_
 suivent	suivre	V	_
@@ -53837,7 +53922,9 @@ des	de_le	P+D	_
 vertèbres	vertèbre	NC	_
 qui	qui	PROREL	_
 sont	être	V	_
-au-dessous	au-dessous	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessous	dessous	ADV	_
 .	.	PONCT	_
 Dans	dans	P	_
 la	le	DET	_
@@ -53980,7 +54067,9 @@ analogue	analogue	NC	_
 du	de_le	P+D	_
 lombo-costal	lombo-costal	ADJ	_
 naît	naître	V	_
-au-dessus	au-dessus	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 du	de_le	P+D	_
 précédent	précéder	V	_
 par	par	P	_
@@ -54060,7 +54149,7 @@ Il	il	CLS	_
 n'	ne	ADV	_
 y	y	CLO	_
 a	avoir	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 un	un	DET	_
 petit	petit	ADJ	_
 droit	droit	NC	_
@@ -54073,7 +54162,9 @@ la	le	DET	_
 base	base	NC	_
 du	de_le	P+D	_
 crâne	crâne	NC	_
-au-dessous	au-dessous	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessous	dessous	ADV	_
 du	de_le	P+D	_
 trou	trou	NC	_
 vertébral	vertébral	ADJ	_
@@ -54182,7 +54273,7 @@ sont	être	V	_
 ceux	celui	PRO	_
 de	de	P	_
 l'	le	DET	_
-alongement	alongement	NC	_
+alongement	allongement	NC	_
 ,	,	PONCT	_
 par	par	P	_
 lequel	lequel	PROREL	_
@@ -54193,7 +54284,9 @@ portée	porter	VPP	_
 en	en	P	_
 avant	avant	NC	_
 ,	,	PONCT	_
-au-delà	au-delà	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+delà	delà	ADV	_
 du	de_le	P+D	_
 test	test	NC	_
 ,	,	PONCT	_
@@ -54421,7 +54514,9 @@ naît	naître	V	_
 sous	sous	P	_
 la	le	DET	_
 carapace	carapace	NC	_
-au-dessous	au-dessous	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessous	dessous	ADV	_
 du	de_le	P+D	_
 corps	corps	NC	_
 de	de	P	_
@@ -54538,7 +54633,9 @@ des	de_le	P+D	_
 premières	premier	ADJ	_
 vertèbres	vertèbre	NC	_
 dorsales	dorsal	ADJ	_
-au-dessous	au-dessous	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessous	dessous	ADV	_
 de	de	P	_
 la	le	DET	_
 carapace	carapace	NC	_
@@ -54633,7 +54730,9 @@ ces	ce	DET	_
 muscles	muscle	NC	_
 sont	être	V	_
 situés	situer	VPP	_
-au-devant	au-devant	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+devant	devant	ADV	_
 ou	ou	CC	_
 en	en	P	_
 arrière	arrière	NC	_
@@ -54706,7 +54805,8 @@ action	action	NC	_
 de	de	P	_
 nager	nager	VINF	_
 ;	;	PONCT	_
-tandis_que	tandis_que	CS	_
+tandis	tandis	ADV	_
+que	que	CS	_
 le	le	DET	_
 mouvement	mouvement	NC	_
 de	de	P	_
@@ -54778,7 +54878,9 @@ peau	peau	NC	_
 ,	,	PONCT	_
 on	on	CLS	_
 trouve	trouver	V	_
-au-dessous	au-dessous	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessous	dessous	ADV	_
 une	un	DET	_
 masse	masse	NC	_
 charnue	charnu	ADJ	_
@@ -54867,7 +54969,7 @@ brochet	brochet	NC	_
 le	le	DET	_
 merlan	merlan	NC	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 2	2	X	_
 )	)	PONCT	_
 aux	à_le	P+D	_
@@ -55133,7 +55235,9 @@ celle	celui	PRO	_
 elle	il	CLS	_
 est	être	V	_
 entraînée	entraîner	VPP	_
-au-delà	au-delà	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+delà	delà	ADV	_
 de	de	P	_
 la	le	DET	_
 ligne	ligne	NC	_
@@ -55235,7 +55339,7 @@ ils	il	CLS	_
 ne	ne	ADV	_
 s'	se	CLO	_
 attachent	attacher	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 à	à	P	_
 la	le	DET	_
 tête	tête	NC	_
@@ -55315,7 +55419,7 @@ aponévrose	aponévrose	NC	_
 de	de	P	_
 couleur	couleur	NC	_
 argentée	argenté	ADJ	_
-brillante	brillant	ADJ	_
+brillante	briller	ADJ	_
 ,	,	PONCT	_
 qui	qui	PROREL	_
 forme	former	V	_
@@ -55408,7 +55512,9 @@ par	par	P	_
 de	un	DET	_
 petits	petit	ADJ	_
 tendons	tendon	NC	_
-au-dessous	au-dessous	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessous	dessous	ADV	_
 et	et	CC	_
 sur	sur	P	_
 les	le	DET	_
@@ -55499,7 +55605,7 @@ n'	ne	ADV	_
 y	y	CLO	_
 en	en	CLO	_
 a	avoir	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 une	un	DET	_
 paire	paire	NC	_
 dans	dans	P	_
@@ -55558,7 +55664,7 @@ poissons	poisson	NC	_
 qui	qui	PROREL	_
 n'	ne	ADV	_
 ont	avoir	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 une	un	DET	_
 seule	seul	ADJ	_
 nageoire	nageoire	NC	_
@@ -55574,7 +55680,7 @@ carpe	carpe	NC	_
 la	le	DET	_
 tanche	tanche	NC	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 Il	il	CLS	_
 y	y	CLO	_
 a	avoir	V	_
@@ -55631,7 +55737,7 @@ muge	muge	NC	_
 les	le	DET	_
 zées	zée	NC	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 On	on	CLS	_
 trouve	trouver	V	_
 trois	trois	DET	_
@@ -55839,7 +55945,7 @@ les	le	DET	_
 tendons	tendon	NC	_
 beaucoup	beaucoup	ADV	_
 plus	plus	ADV	_
-alongés	alongés	ADJ	_
+alongés	allonger	ADJ	_
 .	.	PONCT	_
 Les	le	DET	_
 nageoires	nageoire	NC	_
@@ -55990,7 +56096,8 @@ fermer	fermer	VINF	_
 la	le	DET	_
 nageoire	nageoire	NC	_
 ,	,	PONCT	_
-tandis_que	tandis_que	CS	_
+tandis	tandis	ADV	_
+que	que	CS	_
 les	le	DET	_
 premiers	premier	NC	_
 servent	servir	V	_
@@ -56173,7 +56280,9 @@ la	le	DET	_
 colonne	colonne	NC	_
 vertébrale	vertébral	ADJ	_
 ,	,	PONCT	_
-au-dessus	au-dessus	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 de	de	P	_
 l'	le	DET	_
 abdomen	abdomen	NC	_
@@ -56473,7 +56582,7 @@ et	et	CC	_
 qu'	que	CS	_
 ils	il	CLS	_
 sont	être	V	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 ,	,	PONCT	_
 excepté	excepté	P	_
 le	le	DET	_
@@ -56541,7 +56650,7 @@ vertébrale	vertébral	ADJ	_
 que	que	PROREL	_
 nous	nous	CLS	_
 avons	avoir	V	_
-déja	déja	VPP	_
+déja	déjà	VPP	_
 décrite	décrire	VPP	_
 ;	;	PONCT	_
 en	en	P	_
@@ -56692,7 +56801,8 @@ appendice	appendice	NC	_
 abdominale	abdominale	ADJ	_
 est	être	V	_
 retenue	retenir	VPP	_
-en_outre	en_outre	ADV	_
+en	en	P	_
+outre	outre	P	_
 par	par	P	_
 un	un	DET	_
 fort	fort	ADJ	_
@@ -57048,7 +57158,7 @@ Les	le	DET	_
 côtes	côte	NC	_
 n'	ne	ADV	_
 ont	avoir	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 un	un	DET	_
 mouvement	mouvement	NC	_
 borné	borner	VPP	_
@@ -57173,7 +57283,8 @@ prolongement	prolongement	NC	_
 Il	il	CLS	_
 y	y	CLO	_
 a	avoir	V	_
-en_outre	en_outre	ADV	_
+en	en	P	_
+outre	outre	P	_
 ,	,	PONCT	_
 dans	dans	P	_
 chacun	chacun	PRO	_
@@ -57420,7 +57531,9 @@ sont	être	V	_
 placées	placer	VPP	_
 les	le	DET	_
 unes	un	NC	_
-au-dessus	au-dessus	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 des	de_le	P+D	_
 autres	autre	NC	_
 comme	comme	P	_
@@ -57587,7 +57700,7 @@ et	et	CC	_
 peu	peu	ADV	_
 épais	épais	ADJ	_
 ,	,	PONCT	_
-sur-tout	sur-tout	ADV	_
+sur-tout	surtout	ADV	_
 à	à	P	_
 la	le	DET	_
 partie	partie	NC	_
@@ -57753,7 +57866,8 @@ de	de	P	_
 la	le	DET	_
 côte	côte	NC	_
 présente	présent	ADJ	_
-en_outre	en_outre	ADV	_
+en	en	P	_
+outre	outre	P	_
 une	un	DET	_
 particularité	particularité	NC	_
 caractéristique	caractéristique	ADJ	_
@@ -57775,7 +57889,9 @@ obliquement	obliquement	ADV	_
 en	en	P	_
 arrière	arrière	NC	_
 ,	,	PONCT	_
-au-dessus	au-dessus	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 de	de	P	_
 la	le	DET	_
 côte	côte	NC	_
@@ -57809,7 +57925,7 @@ très	très	ADV	_
 large	large	ADJ	_
 ,	,	PONCT	_
 presque	presque	ADV	_
-quarré	quarrer	VPP	_
+quarré	carré	NC	_
 .	.	PONCT	_
 Il	il	CLS	_
 a	avoir	V	_
@@ -57919,7 +58035,7 @@ angles	angle	NC	_
 plus	plus	ADV	_
 ou	ou	CC	_
 moins	moins	ADV	_
-alongés	alongés	ADJ	_
+alongés	allonger	ADJ	_
 ,	,	PONCT	_
 quelquefois	quelquefois	ADV	_
 trois	trois	DET	_
@@ -58065,7 +58181,8 @@ les	le	DET	_
 mâles	mâle	NC	_
 ont	avoir	V	_
 ,	,	PONCT	_
-en_outre	en_outre	ADV	_
+en	en	P	_
+outre	outre	P	_
 ,	,	PONCT	_
 le	le	DET	_
 haut	haut	NC	_
@@ -58150,7 +58267,7 @@ corbeau	corbeau	NC	_
 ,	,	PONCT	_
 n'	ne	ADV	_
 ont	avoir	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 une	un	DET	_
 ligne	ligne	NC	_
 saillante	saillant	ADJ	_
@@ -58526,7 +58643,9 @@ un	un	DET	_
 autre	autre	ADJ	_
 disque	disque	NC	_
 placé	placer	VPP	_
-au-dessous	au-dessous	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessous	dessous	ADV	_
 de	de	P	_
 l'	le	DET	_
 abdomen	abdomen	NC	_
@@ -58559,7 +58678,7 @@ vertèbres	vertèbre	NC	_
 elles	il	CLS	_
 n'	ne	ADV	_
 ont	avoir	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 un	un	DET	_
 seul	seul	ADJ	_
 point	point	NC	_
@@ -58682,7 +58801,7 @@ petites	petit	ADJ	_
 plaques	plaque	NC	_
 osseuses	osseux	ADJ	_
 presque	presque	ADV	_
-quarrées	quarrer	VPP	_
+quarrées	carré	ADJ	_
 ,	,	PONCT	_
 unies	unir	VPP	_
 intimement	intimement	ADV	_
@@ -58795,7 +58914,7 @@ là	là	ADV	_
 une	un	DET	_
 pièce	pièce	NC	_
 osseuse	osseux	ADJ	_
-quarrée	quarrer	VPP	_
+quarrée	carré	ADJ	_
 ,	,	PONCT	_
 convexe	convexe	ADJ	_
 en	en	P	_
@@ -58833,7 +58952,9 @@ quelques	quelque	DET	_
 petites	petit	ADJ	_
 pièces	pièce	NC	_
 particulières	particulier	ADJ	_
-au-dessus	au-dessus	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 de	de	P	_
 la	le	DET	_
 queue	queue	NC	_
@@ -59077,7 +59198,7 @@ une	un	DET	_
 forte	fort	ADJ	_
 épine	épine	NC	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 La	le	DET	_
 cavité	cavité	NC	_
 abdominale	abdominale	ADJ	_
@@ -59113,7 +59234,7 @@ cycloptères	cycloptère	NC	_
 les	le	DET	_
 fistulaires	fistulaire	NC	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 Par	par	P	_
 exemple	exemple	NC	_
 ,	,	PONCT	_
@@ -59192,7 +59313,7 @@ brochets	brochet	NC	_
 les	le	DET	_
 chétodons	chétodon	NC	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 Enfin	enfin	ADV	_
 elles	il	CLS	_
 s'	se	CLO	_
@@ -59214,7 +59335,7 @@ le	le	DET	_
 salmone	salmone	NC	_
 rhomboïde	rhomboïde	ADJ	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 Le	le	DET	_
 syngnathe	syngnathe	NC	_
 hippocampe	hippocampe	NC	_
@@ -59251,7 +59372,7 @@ Il	il	CLS	_
 n'	ne	ADV	_
 y	y	CLO	_
 a	avoir	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 un	un	DET	_
 petit	petit	ADJ	_
 nombre	nombre	NC	_
@@ -59417,7 +59538,7 @@ côtes	côte	NC	_
 ne	ne	ADV	_
 servent	servir	V	_
 guère	guère	ADV	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 aux	à_le	P+D	_
 mouvemens	mouvement	NC	_
 de	de	P	_
@@ -59693,7 +59814,7 @@ Le	le	DET	_
 sternum	sternum	NC	_
 n'	ne	ADV	_
 a	avoir	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 un	un	DET	_
 muscle	muscle	NC	_
 qui	qui	PROREL	_
@@ -59968,7 +60089,7 @@ azygos	azygos	ADJ	_
 et	et	CC	_
 le	le	DET	_
 canal	canal	NC	_
-thorachique	thorachique	ADJ	_
+thorachique	thoracique	ADJ	_
 .	.	PONCT	_
 Il	il	CLS	_
 y	y	CLO	_
@@ -60135,7 +60256,7 @@ sont	être	V	_
 recouverts	recouvrir	VPP	_
 par	par	P	_
 une	un	DET	_
-gaîne	gaîne	NC	_
+gaîne	gaine	NC	_
 aponévrotique	aponévrotique	ADJ	_
 que	que	PROREL	_
 produisent	produire	V	_
@@ -60201,7 +60322,7 @@ anneau	anneau	NC	_
 ombilical	ombilical	ADJ	_
 .	.	PONCT	_
 Les	le	DET	_
-transverses	transverses	NC	_
+transverses	transverse	NC	_
 du	de_le	P+D	_
 bas-ventre	bas-ventre	NC	_
 (	(	PONCT	_
@@ -60323,7 +60444,7 @@ proportionnelle	proportionnel	ADJ	_
 .	.	PONCT	_
 C'	ce	CLS	_
 est	être	V	_
-sur-tout	sur-tout	ADJ	_
+sur-tout	surtout	ADJ	_
 dans	dans	P	_
 les	le	DET	_
 muscles	muscle	NC	_
@@ -60420,7 +60541,7 @@ didelphes	didelphe	NC	_
 ou	ou	CC	_
 sarigues	sarigue	NC	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 c	c	NC	_
 .	.	PONCT	_
 Dans	dans	P	_
@@ -60521,7 +60642,8 @@ et	et	CC	_
 en	en	P	_
 arrière	arrière	NC	_
 ,	,	PONCT	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 il	il	CLS	_
 n'	ne	ADV	_
 y	y	CLO	_
@@ -60895,7 +61017,9 @@ n'	ne	ADV	_
 étant	être	VPR	_
 pas	pas	ADV	_
 situés	situer	VPP	_
-au-dessus	au-dessus	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 des	de_le	P+D	_
 os	os	NC	_
 ,	,	PONCT	_
@@ -61889,7 +62013,7 @@ l'	le	DET	_
 atlas	atlas	NC	_
 ,	,	PONCT	_
 mais	mais	CC	_
-sur-tout	sur-tout	VPP	_
+sur-tout	surtout	VPP	_
 par	par	P	_
 les	le	DET	_
 cinq	cinq	ADJ	_
@@ -62166,13 +62290,13 @@ deux	deux	ADJ	_
 dispositions	disposition	NC	_
 aient	avoir	V	_
 lieu	lieu	NC	_
-complétement	complétement	ADV	_
+complétement	complètement	ADV	_
 .	.	PONCT	_
 Les	le	DET	_
 nègres	nègre	NC	_
 mêmes	même	ADJ	_
 ont	avoir	V	_
-déja	déja	VPP	_
+déja	déjà	VPP	_
 la	le	DET	_
 portion	portion	NC	_
 antérieure	antérieur	ADJ	_
@@ -62188,7 +62312,8 @@ que	que	CS	_
 la	le	DET	_
 postérieure	postérieur	ADJ	_
 ,	,	PONCT	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 leurs	leur	DET	_
 mâchoires	mâchoire	NC	_
 s'	se	CLO	_
@@ -62362,10 +62487,14 @@ ne	ne	ADV	_
 plus	plus	ADV	_
 le	il	CLO	_
 croiser	croiser	VINF	_
-au-dessous	au-dessous	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessous	dessous	ADV	_
 ,	,	PONCT	_
 mais	mais	CC	_
-au-dessus	au-dessus	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 de	de	P	_
 la	le	DET	_
 tête	tête	NC	_
@@ -62453,7 +62582,7 @@ les	le	DET	_
 ligamens	ligament	NC	_
 ,	,	PONCT	_
 et	et	CC	_
-sur-tout	sur-tout	VPP	_
+sur-tout	surtout	VPP	_
 par	par	P	_
 celui	celui	PRO	_
 nommé	nommer	VPP	_
@@ -62617,7 +62746,8 @@ grande	grand	ADJ	_
 partie	partie	NC	_
 ossifié	ossifier	VPP	_
 ,	,	PONCT	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 elle	il	CLS	_
 l'	il	CLO	_
 emploie	employer	V	_
@@ -63270,7 +63400,8 @@ ils	il	CLS	_
 veulent	vouloir	V	_
 dormir	dormir	VINF	_
 ,	,	PONCT	_
-tandis_qu'	tandis_que	CS	_
+tandis	tandis	ADV	_
+qu'	que	CS	_
 aucun	aucun	DET	_
 quadrupède	quadrupède	NC	_
 ne	ne	ADV	_
@@ -63473,13 +63604,15 @@ il	il	CLS	_
 n'	ne	ADV	_
 y	y	CLO	_
 a	avoir	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 un	un	DET	_
 seul	seul	ADJ	_
 condyle	condyle	NC	_
 ,	,	PONCT	_
 situé	situer	VPP	_
-au-dessous	au-dessous	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessous	dessous	ADV	_
 du	de_le	P+D	_
 trou	trou	NC	_
 occipital	occipital	ADJ	_
@@ -63613,7 +63746,7 @@ tortues	tortue	NC	_
 n'	ne	ADV	_
 ont	avoir	V	_
 aussi	aussi	ADV	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 un	un	DET	_
 seul	seul	ADJ	_
 condyle	condyle	NC	_
@@ -63648,7 +63781,7 @@ articulaires	articulaire	ADJ	_
 en	en	P	_
 forme	forme	NC	_
 de	de	P	_
-treffle	treffle	NC	_
+treffle	trèfle	NC	_
 .	.	PONCT	_
 Comme	comme	CS	_
 ce	ce	DET	_
@@ -63710,7 +63843,7 @@ cervicales	cervical	ADJ	_
 Nous	nous	CLS	_
 les	il	CLO	_
 avons	avoir	V	_
-déja	déja	VPP	_
+déja	déjà	VPP	_
 décrits	décrire	VPP	_
 .	.	PONCT	_
 Les	le	DET	_
@@ -63742,13 +63875,15 @@ trois	trois	DET	_
 facettes	facette	NC	_
 disposées	disposer	VPP	_
 en	en	P	_
-treffle	treffle	NC	_
+treffle	trèfle	NC	_
 ,	,	PONCT	_
 rapprochées	rapprocher	VPP	_
 en	en	P	_
 un	un	DET	_
 tubercule	tubercule	NC	_
-au-dessous	au-dessous	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessous	dessous	ADV	_
 du	de_le	P+D	_
 trou	trou	NC	_
 occipital	occipital	ADJ	_
@@ -63806,7 +63941,9 @@ est	être	V	_
 unique	unique	ADJ	_
 et	et	CC	_
 placé	placer	VPP	_
-au-dessous	au-dessous	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessous	dessous	ADV	_
 du	de_le	P+D	_
 trou	trou	NC	_
 occipital	occipital	ADJ	_
@@ -63874,7 +64011,9 @@ longitudinale	longitudinal	ADJ	_
 qui	qui	PROREL	_
 se	se	CLO	_
 termine	terminer	V	_
-au-dessus	au-dessus	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 du	de_le	P+D	_
 grand	grand	ADJ	_
 trou	trou	NC	_
@@ -63919,7 +64058,7 @@ perche	perche	NC	_
 le	le	DET	_
 salmone	salmone	NC	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 La	le	DET	_
 protubérance	protubérance	NC	_
 occipitale	occipital	ADJ	_
@@ -64439,7 +64578,9 @@ insérer	insérer	VINF	_
 à	à	P	_
 l'	le	DET	_
 occiput	occiput	NC	_
-au-dessus	au-dessus	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 de	de	P	_
 tous	tout	ADJ	_
 les	le	DET	_
@@ -65014,7 +65155,9 @@ ligament	ligament	NC	_
 très	très	ADV	_
 -	-	PONCT	_
 élevé	élever	VPP	_
-au-dessus	au-dessus	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 des	de_le	P+D	_
 vertèbres	vertèbre	NC	_
 .	.	PONCT	_
@@ -65139,12 +65282,14 @@ deux	deux	ADJ	_
 premières	premier	ADJ	_
 dorsales	dorsal	ADJ	_
 .	.	PONCT	_
-Quant_au	quant_à_le	P+D	_
+Quant	quant	ADV	_
+au	à_le	P+D	_
 splénius	splénius	NC	_
 ,	,	PONCT	_
 il	il	CLS	_
 fournit	fournir	V	_
-en_outre	en_outre	ADV	_
+en	en	P	_
+outre	outre	P	_
 trois	trois	DET	_
 languettes	languette	NC	_
 aux	à_le	P+D	_
@@ -65253,7 +65398,7 @@ grand	grand	ADJ	_
 complexus	complexus	NC	_
 ne	ne	ADV	_
 tient	tenir	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 aux	à_le	P+D	_
 apophyses	apophyse	NC	_
 articulaires	articulaire	ADJ	_
@@ -65443,7 +65588,8 @@ et	et	CC	_
 des	un	DET	_
 oiseaux	oiseau	NC	_
 ,	,	PONCT	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 le	le	DET	_
 test	test	NC	_
 donne	donner	V	_
@@ -65520,7 +65666,9 @@ en	en	P	_
 arrière	arrière	NC	_
 .	.	PONCT	_
 2)	2)	X	_
-au-dessous	au-dessous	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessous	dessous	ADV	_
 et	et	CC	_
 du	de_le	P+D	_
 milieu	milieu	NC	_
@@ -65656,7 +65804,9 @@ dans	dans	P	_
 la	le	DET	_
 fosse	fosse	NC	_
 basilaire	basilaire	ADJ	_
-au-dessous	au-dessous	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessous	dessous	ADV	_
 du	de_le	P+D	_
 condyle	condyle	NC	_
 .	.	PONCT	_
@@ -65993,7 +66143,9 @@ base	base	NC	_
 du	de_le	P+D	_
 crâne	crâne	NC	_
 ,	,	PONCT	_
-au-dessous	au-dessous	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessous	dessous	ADV	_
 du	de_le	P+D	_
 grand	grand	ADJ	_
 trou	trou	NC	_
@@ -66102,7 +66254,9 @@ Le	le	DET	_
 premier	premier	ADJ	_
 est	être	V	_
 situé	situer	VPP	_
-au-dessus	au-dessus	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 du	de_le	P+D	_
 corps	corps	NC	_
 et	et	CC	_
@@ -66199,7 +66353,9 @@ muqueuse	muqueux	ADJ	_
 qui	qui	PROREL	_
 se	se	CLO	_
 glisse	glisser	V	_
-au-dessus	au-dessus	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 des	de_le	P+D	_
 branchies	branchie	NC	_
 ,	,	PONCT	_
@@ -66225,7 +66381,9 @@ L'	le	DET	_
 inférieur	inférieur	NC	_
 est	être	V	_
 situé	situer	VPP	_
-au-dessous	au-dessous	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessous	dessous	ADV	_
 du	de_le	P+D	_
 corps	corps	NC	_
 et	et	CC	_
@@ -66438,7 +66596,9 @@ fait	faire	VPP	_
 nommer	nommer	VINF	_
 huméral	huméral	ADJ	_
 .	.	PONCT	_
-au-dessus	au-dessus	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 de	de	P	_
 cette	ce	DET	_
 facette	facette	NC	_
@@ -66509,7 +66669,9 @@ applatie	aplatir	VPP	_
 qui	qui	PROREL	_
 se	se	CLO	_
 porte	porter	V	_
-au-dessus	au-dessus	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 de	de	P	_
 l'	le	DET	_
 angle	angle	NC	_
@@ -66528,7 +66690,9 @@ face	face	NC	_
 ,	,	PONCT	_
 qui	qui	PROREL	_
 est	être	V	_
-au-dessus	au-dessus	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 de	de	P	_
 l'	le	DET	_
 épine	épine	NC	_
@@ -66603,7 +66767,7 @@ omoplate	omoplate	NC	_
 qui	qui	PROREL	_
 glisse	glisser	V	_
 en	en	P	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 sens	sens	NC	_
 sur	sur	P	_
 la	le	DET	_
@@ -66868,7 +67032,8 @@ et	et	CC	_
 les	le	DET	_
 solipèdes	solipède	NC	_
 .	.	PONCT	_
-Quant_aux	quant_à_le	P+D	_
+quant	quant	ADV	_
+aux	à_le	P+D	_
 animaux	animal	NC	_
 onguiculés	onguiculé	ADJ	_
 ,	,	PONCT	_
@@ -66952,7 +67117,7 @@ loutres	loutre	NC	_
 ,	,	PONCT	_
 phoques	phoque	NC	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 N'	ne	ADV	_
 ont	avoir	V	_
 que	que	ADV	_
@@ -66991,7 +67156,7 @@ de	de	P	_
 la	le	DET	_
 taupe	taupe	NC	_
 est	être	V	_
-sur-tout	sur-tout	ADJ	_
+sur-tout	surtout	ADJ	_
 remarquable	remarquable	ADJ	_
 par	par	P	_
 sa	son	DET	_
@@ -67178,7 +67343,7 @@ comme	comme	P	_
 les	le	DET	_
 chauve-souris	chauve-souris	NC	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 Qu'	que	CS	_
 elle	il	CLS	_
 manque	manquer	V	_
@@ -67406,7 +67571,7 @@ plupart	plupart	NC	_
 :	:	PONCT	_
 on	on	CLS	_
 la	le	DET	_
-retrouve	retrouve	NC	_
+retrouve	retrouver	V	_
 cependant	cependant	ADV	_
 dans	dans	P	_
 le	le	DET	_
@@ -67458,7 +67623,9 @@ le	le	DET	_
 tranchant	tranchant	NC	_
 postérieur	postérieur	ADJ	_
 et	et	CC	_
-au-devant	au-devant	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+devant	devant	ADV	_
 du	de_le	P+D	_
 tubercule	tubercule	NC	_
 qui	qui	PROREL	_
@@ -67844,7 +68011,9 @@ défaut	défaut	NC	_
 d'	de	P	_
 ossification	ossification	NC	_
 .	.	PONCT	_
-Au-dessus	au-dessus	ADV	_
+Au	à_le	P+D	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 de	de	P	_
 l'	le	DET	_
 angle	angle	NC	_
@@ -67919,7 +68088,8 @@ efforts	effort	NC	_
 plus	plus	ADV	_
 violens	violent	ADJ	_
 ,	,	PONCT	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 cette	ce	DET	_
 configuration	configuration	NC	_
 fournit	fournir	V	_
@@ -67944,7 +68114,7 @@ les	le	DET	_
 singes	singe	NC	_
 ,	,	PONCT	_
 mais	mais	CC	_
-sur-tout	sur-tout	ADV	_
+sur-tout	surtout	ADV	_
 les	le	DET	_
 chauve-souris	chauve-souris	NC	_
 et	et	CC	_
@@ -67958,7 +68128,7 @@ plus	plus	NC	_
 de	de	P	_
 l'	le	DET	_
 extrême	extrême	NC	_
-alongement	alongement	ADV	_
+alongement	allongement	ADV	_
 qu'	que	CS	_
 on	on	CLS	_
 trouvera	trouver	V	_
@@ -68544,7 +68714,7 @@ n'	ne	ADV	_
 en	en	CLO	_
 forment	former	V	_
 plus	plus	ADV	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 un	un	DET	_
 seul	seul	NC	_
 extrémement	extrêmement	ADV	_
@@ -68573,7 +68743,7 @@ existe	exister	V	_
 de	de	P	_
 la	le	DET	_
 fourchette	fourchette	NC	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 une	un	DET	_
 sorte	sorte	NC	_
 d'	de	P	_
@@ -68630,7 +68800,8 @@ sont	être	V	_
 plus	plus	ADV	_
 nécessaires	nécessaire	ADJ	_
 .	.	PONCT	_
-Quant_aux	quant_à_le	P+D	_
+quant	quant	ADV	_
+aux	à_le	P+D	_
 oiseaux	oiseau	NC	_
 qui	qui	PROREL	_
 ne	ne	ADV	_
@@ -68675,7 +68846,7 @@ y	y	CLO	_
 en	en	CLO	_
 a	avoir	V	_
 plus	plus	ADV	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 un	un	DET	_
 rudiment	rudiment	NC	_
 .	.	PONCT	_
@@ -68756,7 +68927,7 @@ est	être	V	_
 large	large	ADJ	_
 et	et	CC	_
 presque	presque	ADV	_
-quarrée	quarrer	VPP	_
+quarrée	carré	ADJ	_
 dans	dans	P	_
 l'	le	DET	_
 iguane	iguane	NC	_
@@ -68890,7 +69061,7 @@ le	le	DET	_
 sternum	sternum	NC	_
 ne	ne	ADV	_
 font	faire	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 une	un	DET	_
 seule	seul	ADJ	_
 pièce	pièce	NC	_
@@ -68978,7 +69149,9 @@ du	de_le	P+D	_
 côté	côté	NC	_
 droit	droit	ADJ	_
 glisse	glisser	V	_
-au-dessus	au-dessus	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 de	de	P	_
 celle	celui	PRO	_
 qui	qui	PROREL	_
@@ -69109,7 +69282,7 @@ continuation	continuation	NC	_
 du	de_le	P+D	_
 premier	premier	NC	_
 ,	,	PONCT	_
-auquel	auquel	PROREL	_
+auquel	à_lequel	PROREL	_
 il	il	CLS	_
 s'	se	CLO	_
 unit	unir	V	_
@@ -69263,7 +69436,7 @@ le	le	DET	_
 nombre	nombre	NC	_
 de	de	P	_
 muscles	muscle	NC	_
-auxquels	auquel	PROREL	_
+auxquels	à_lequel	PROREL	_
 il	il	CLS	_
 donne	donner	V	_
 attache	attache	NC	_
@@ -69379,7 +69552,9 @@ l'	le	DET	_
 épaule	épaule	NC	_
 se	se	CLO	_
 porte	porter	V	_
-au-devant	au-devant	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+devant	devant	ADV	_
 de	de	P	_
 la	le	DET	_
 poitrine	poitrine	NC	_
@@ -69695,7 +69870,7 @@ en	en	P	_
 arrière	arrière	NC	_
 ,	,	PONCT	_
 en	en	P	_
-abaissant	abaissant	VPR	_
+abaissant	abaisser	VPR	_
 un	un	DET	_
 peu	peu	NC	_
 l'	le	DET	_
@@ -69926,7 +70101,9 @@ l'	le	DET	_
 de	de	P	_
 l'	le	DET	_
 omoplate	omoplate	NC	_
-au-dessous	au-dessous	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessous	dessous	ADV	_
 de	de	P	_
 son	son	DET	_
 arête	arête	NC	_
@@ -70193,7 +70370,8 @@ leurs	leur	DET	_
 vertèbres	vertèbre	NC	_
 cervicales	cervical	ADJ	_
 ,	,	PONCT	_
-tandis_que	tandis_que	CS	_
+tandis	tandis	ADV	_
+que	que	CS	_
 dans	dans	P	_
 plusieurs	plusieurs	DET	_
 carnivores	carnivore	NC	_
@@ -70201,7 +70379,7 @@ il	il	CLS	_
 n'	ne	ADV	_
 en	en	CLO	_
 donne	donner	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 à	à	P	_
 une	un	DET	_
 partie	partie	NC	_
@@ -70331,7 +70509,7 @@ muscle	muscle	NC	_
 qui	qui	PROREL	_
 n'	ne	ADV	_
 a	avoir	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 une	un	DET	_
 digitation	digitation	NC	_
 insérée	insérer	VPP	_
@@ -70346,7 +70524,9 @@ antérieure	antérieur	ADJ	_
 elle	il	CLS	_
 se	se	CLO	_
 fixe	fixer	V	_
-au-dessus	au-dessus	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 de	de	P	_
 la	le	DET	_
 cavité	cavité	NC	_
@@ -70505,7 +70685,7 @@ il	il	CLS	_
 ne	ne	ADV	_
 s'	se	CLO	_
 attache	attacher	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 à	à	P	_
 la	le	DET	_
 première	premier	ADJ	_
@@ -70522,7 +70702,7 @@ n'	ne	ADV	_
 a	avoir	V	_
 d'	un	DET	_
 attache	attache	NC	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 à	à	P	_
 l'	le	DET	_
 apophyse	apophyse	NC	_
@@ -70699,7 +70879,7 @@ fixe	fixe	ADJ	_
 ne	ne	ADV	_
 forment	former	V	_
 ensemble	ensemble	ADV	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 un	un	DET	_
 seul	seul	ADJ	_
 muscle	muscle	NC	_
@@ -70881,7 +71061,7 @@ de	de	P	_
 l'	le	DET	_
 apophyse	apophyse	NC	_
 mastoïde	mastoïde	ADJ	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 un	un	DET	_
 tendon	tendon	NC	_
 qui	qui	PROREL	_
@@ -71031,7 +71211,7 @@ deltoïde	deltoïde	NC	_
 on	on	CLS	_
 ne	ne	ADV	_
 trouve	trouver	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 un	un	DET	_
 seul	seul	ADJ	_
 muscle	muscle	NC	_
@@ -71054,7 +71234,9 @@ supérieures	supérieur	ADJ	_
 ,	,	PONCT	_
 qui	qui	PROREL	_
 passe	passer	V	_
-au-devant	au-devant	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+devant	devant	ADV	_
 de	de	P	_
 la	le	DET	_
 tête	tête	NC	_
@@ -71250,7 +71432,7 @@ rhomboïde	rhomboïde	NC	_
 ne	ne	ADV	_
 s'	se	CLO	_
 attache	attacher	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 au	à_le	P+D	_
 ligament	ligament	NC	_
 cervical	cervical	ADJ	_
@@ -71378,7 +71560,7 @@ et	et	CC	_
 ne	ne	ADV	_
 s'	se	CLO	_
 attache	attacher	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 aux	à_le	P+D	_
 dernières	dernier	ADJ	_
 vertèbres	vertèbre	NC	_
@@ -71682,7 +71864,8 @@ dans	dans	P	_
 les	le	DET	_
 chauve-souris	chauve-souris	NC	_
 ,	,	PONCT	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 ils	il	CLS	_
 diffèrent	différer	V	_
 beaucoup	beaucoup	PRO	_
@@ -71697,7 +71880,9 @@ grand	grand	ADJ	_
 dentelé	dentelé	NC	_
 est	être	V	_
 situé	situer	VPP	_
-au-devant	au-devant	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+devant	devant	ADV	_
 du	de_le	P+D	_
 petit	petit	ADJ	_
 pectoral	pectoral	NC	_
@@ -72488,7 +72673,7 @@ le	le	DET	_
 sterno-mastoïdien	sterno-mastoïdien	NC	_
 n'	ne	ADV	_
 a	avoir	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 un	un	DET	_
 ventre	ventre	NC	_
 qui	qui	PROREL	_
@@ -73053,7 +73238,8 @@ par	par	P	_
 sa	son	DET	_
 forme	forme	NC	_
 ;	;	PONCT	_
-quant_à	quant_à	P	_
+quant	quant	ADV	_
+à	à	P	_
 sa	son	DET	_
 proportion	proportion	NC	_
 avec	avec	P	_
@@ -73157,7 +73343,9 @@ s'	se	CLO	_
 y	y	CLO	_
 élève	élever	V	_
 davantage	davantage	ADV	_
-au-dessus	au-dessus	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 de	de	P	_
 la	le	DET	_
 tête	tête	NC	_
@@ -73210,7 +73398,9 @@ applatie	aplatir	VPP	_
 ,	,	PONCT	_
 et	et	CC	_
 élevée	élever	VPP	_
-au-dessus	au-dessus	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 de	de	P	_
 la	le	DET	_
 tête	tête	NC	_
@@ -73489,7 +73679,7 @@ l'	le	DET	_
 humérus	humérus	NC	_
 représente	représenter	V	_
 un	un	DET	_
-quarré	quarré	NC	_
+quarré	carré	NC	_
 placé	placer	VPP	_
 verticalement	verticalement	ADV	_
 ,	,	PONCT	_
@@ -73549,7 +73739,9 @@ en	en	P	_
 l'	le	DET	_
 air	air	NC	_
 ,	,	PONCT	_
-au-dessus	au-dessus	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 de	de	P	_
 l'	le	DET	_
 épaule	épaule	NC	_
@@ -73699,7 +73891,9 @@ s'	se	CLO	_
 articulent	articuler	V	_
 l'	le	DET	_
 un	un	NC	_
-au-dessus	au-dessus	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 de	de	P	_
 l'	le	DET	_
 autre	autre	NC	_
@@ -73797,7 +73991,9 @@ de	de	P	_
 l'	le	DET	_
 os	os	NC	_
 .	.	PONCT	_
-Au-dessus	au-dessus	ADV	_
+Au	à_le	P+D	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 de	de	P	_
 cette	ce	DET	_
 grosse	gros	ADJ	_
@@ -73836,7 +74032,9 @@ de	de	P	_
 l'	le	DET	_
 avant-bras	avant-bras	NC	_
 .	.	PONCT	_
-Au-dessous	au-dessous	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessous	dessous	ADV	_
 de	de	P	_
 la	le	DET	_
 tête	tête	NC	_
@@ -74239,7 +74437,9 @@ sus-épineuse	sus-épineux	ADJ	_
 Son	son	DET	_
 tendon	tendon	NC	_
 passe	passer	V	_
-au-dessus	au-dessus	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 de	de	P	_
 l'	le	DET	_
 articulation	articulation	NC	_
@@ -74505,7 +74705,9 @@ se	se	CLO	_
 porte	porter	V	_
 un	un	DET	_
 peu	peu	NC	_
-au-dessous	au-dessous	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessous	dessous	ADV	_
 de	de	P	_
 la	le	DET	_
 tête	tête	NC	_
@@ -75154,7 +75356,7 @@ sous-scapulaire	sous-scapulaire	NC	_
 .	.	PONCT	_
 nous	nous	CLS	_
 avons	avoir	V	_
-déja	déja	VPP	_
+déja	déjà	VPP	_
 vu	voir	VPP	_
 comment	comment	PROWH	_
 ,	,	PONCT	_
@@ -75441,7 +75643,7 @@ le	le	DET	_
 biceps	biceps	NC	_
 n'	ne	ADV	_
 a	avoir	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 une	un	DET	_
 tête	tête	NC	_
 ,	,	PONCT	_
@@ -75489,7 +75691,7 @@ de	de	P	_
 six	six	DET	_
 portions	portion	NC	_
 qui	qui	PROREL	_
-toutes	tous	PRO	_
+toutes	tout	PRO	_
 s'	se	CLO	_
 attachent	attacher	V	_
 à	à	P	_
@@ -75499,7 +75701,7 @@ antérieure	antérieur	ADJ	_
 de	de	P	_
 la	le	DET	_
 portion	portion	NC	_
-quarrée	quarrer	VPP	_
+quarrée	carré	ADJ	_
 de	de	P	_
 l'	le	DET	_
 humérus	humérus	NC	_
@@ -75570,7 +75772,7 @@ postérieure	postérieur	ADJ	_
 de	de	P	_
 la	le	DET	_
 portion	portion	NC	_
-quarrée	quarrer	VPP	_
+quarrée	carré	ADJ	_
 de	de	P	_
 l'	le	DET	_
 humérus	humérus	NC	_
@@ -75726,7 +75928,9 @@ derrière	derrière	P	_
 la	le	DET	_
 grosse	gros	ADJ	_
 tubérosité	tubérosité	NC	_
-au-dessus	au-dessus	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 du	de_le	P+D	_
 précédent	précédent	NC	_
 ,	,	PONCT	_
@@ -75796,7 +76000,7 @@ grand	grand	ADJ	_
 dorsal	dorsal	NC	_
 n'	ne	ADV	_
 est	être	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 une	un	DET	_
 bandelette	bandelette	NC	_
 charnue	charnu	ADJ	_
@@ -75876,7 +76080,7 @@ clavicule	clavicule	NC	_
 ,	,	PONCT	_
 à	à	P	_
 moins	moins	ADV	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 on	on	CLS	_
 ne	ne	ADV	_
 regarde	regarder	V	_
@@ -75924,7 +76128,9 @@ Leur	leur	DET	_
 tendon	tendon	NC	_
 réuni	réunir	VPP	_
 passe	passer	V	_
-au-dessus	au-dessus	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 de	de	P	_
 l'	le	DET	_
 articulation	articulation	NC	_
@@ -75987,7 +76193,7 @@ trois	trois	DET	_
 muscles	muscle	NC	_
 pectoraux	pectoral	ADJ	_
 ,	,	PONCT	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 attachés	attacher	VPP	_
 à	à	P	_
 leur	leur	DET	_
@@ -76138,7 +76344,9 @@ poulie	poulie	NC	_
 et	et	CC	_
 s'	se	CLO	_
 attache	attacher	V	_
-au-dessus	au-dessus	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 de	de	P	_
 la	le	DET	_
 tête	tête	NC	_
@@ -76415,7 +76623,9 @@ portions	portion	NC	_
 placées	placer	VPP	_
 l'	le	DET	_
 une	un	NC	_
-au-dessus	au-dessus	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 de	de	P	_
 l'	le	DET	_
 autre	autre	NC	_
@@ -76600,7 +76810,9 @@ contourne	contourner	V	_
 sur	sur	P	_
 l'	le	DET	_
 os	os	NC	_
-au-dessus	au-dessus	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 de	de	P	_
 l'	le	DET	_
 articulation	articulation	NC	_
@@ -76904,7 +77116,9 @@ l'	le	DET	_
 os	os	NC	_
 du	de_le	P+D	_
 bras	bras	NC	_
-au-dessous	au-dessous	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessous	dessous	ADV	_
 de	de	P	_
 son	son	DET	_
 articulation	articulation	NC	_
@@ -76955,7 +77169,7 @@ la	le	DET	_
 plus	plus	ADV	_
 profonde	profond	ADJ	_
 de	de	P	_
-toutes	tous	PRO	_
+toutes	tout	PRO	_
 ,	,	PONCT	_
 s'	se	CLO	_
 attache	attacher	V	_
@@ -76984,7 +77198,7 @@ son	son	DET	_
 tendon	tendon	NC	_
 aux	à_le	P+D	_
 deux	deux	ADJ	_
-précédentes	précédente	NC	_
+précédentes	précédent	NC	_
 .	.	PONCT	_
 L'	le	DET	_
 analogue	analogue	NC	_
@@ -77100,7 +77314,9 @@ insérer	insérer	VINF	_
 à	à	P	_
 l'	le	DET	_
 humérus	humérus	NC	_
-au-dessous	au-dessous	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessous	dessous	ADV	_
 de	de	P	_
 la	le	DET	_
 petite	petit	ADJ	_
@@ -77589,7 +77805,9 @@ dehors	dehors	NC	_
 il	il	CLS	_
 y	y	CLO	_
 a	avoir	V	_
-au-dessus	au-dessus	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 un	un	DET	_
 grand	grand	ADJ	_
 creux	creux	NC	_
@@ -77857,7 +78075,7 @@ beaucoup	beaucoup	ADV	_
 plus	plus	ADV	_
 large	large	ADJ	_
 ,	,	PONCT	_
-sur-tout	sur-tout	ADV	_
+sur-tout	surtout	ADV	_
 en	en	P	_
 dehors	dehors	NC	_
 ,	,	PONCT	_
@@ -78088,7 +78306,8 @@ capsulaire	capsulaire	ADJ	_
 du	de_le	P+D	_
 rayon	rayon	NC	_
 .	.	PONCT	_
-Quant_aux	quant_à_le	P+D	_
+quant	quant	ADV	_
+aux	à_le	P+D	_
 deux	deux	DET	_
 os	os	NC	_
 de	de	P	_
@@ -78274,7 +78493,7 @@ elles	il	CLS	_
 n'	ne	ADV	_
 en	en	CLO	_
 ont	avoir	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 un	un	DET	_
 rudiment	rudiment	NC	_
 qui	qui	PROREL	_
@@ -78288,7 +78507,9 @@ stilet	stilet	NC	_
 grêle	grêle	ADJ	_
 ,	,	PONCT	_
 placé	placer	VPP	_
-au-dessous	au-dessous	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessous	dessous	ADV	_
 du	de_le	P+D	_
 radius	radius	NC	_
 ,	,	PONCT	_
@@ -78348,7 +78569,8 @@ concave	concave	ADJ	_
 en	en	P	_
 avant	avant	NC	_
 ,	,	PONCT	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 la	le	DET	_
 facette	facette	NC	_
 radiale	radial	ADJ	_
@@ -78576,7 +78798,7 @@ marmotte	marmotte	NC	_
 le	le	DET	_
 porc-épic	porc-épic	NC	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 Tiennent	tenir	V	_
 une	un	DET	_
 espèce	espèce	NC	_
@@ -78836,7 +79058,7 @@ cubitus	cubitus	NC	_
 n'	ne	ADV	_
 est	être	V	_
 plus	plus	ADV	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 un	un	DET	_
 appendice	appendice	NC	_
 immobile	immobile	ADJ	_
@@ -79646,7 +79868,9 @@ tubercules	tubercule	NC	_
 placés	placer	VPP	_
 l'	le	DET	_
 un	un	NC	_
-au-dessus	au-dessus	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 de	de	P	_
 l'	le	DET	_
 autre	autre	NC	_
@@ -79677,7 +79901,7 @@ ce	ce	PRO	_
 que	que	PROREL	_
 le	le	DET	_
 membre	membre	NC	_
-thorachique	thorachique	ADJ	_
+thorachique	thoracique	ADJ	_
 des	de_le	P+D	_
 cétacés	cétacé	NC	_
 est	être	V	_
@@ -79764,7 +79988,7 @@ os	os	NC	_
 y	y	CLO	_
 sont	être	V	_
 plus	plus	ADV	_
-alongés	alongés	ADJ	_
+alongés	allonger	ADJ	_
 ,	,	PONCT	_
 et	et	CC	_
 la	le	DET	_
@@ -79849,7 +80073,9 @@ sont	être	V	_
 situés	situer	VPP	_
 l'	le	DET	_
 un	un	NC	_
-au-dessus	au-dessus	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 de	de	P	_
 l'	le	DET	_
 autre	autre	NC	_
@@ -79926,7 +80152,7 @@ de	de	P	_
 tourner	tourner	VINF	_
 ensemble	ensemble	ADV	_
 en	en	P	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 sens	sens	NC	_
 .	.	PONCT	_
 Les	le	DET	_
@@ -79959,7 +80185,7 @@ que	que	CS	_
 le	le	DET	_
 cubitus	cubitus	NC	_
 ,	,	PONCT	_
-auquel	auquel	PROREL	_
+auquel	à_lequel	PROREL	_
 il	il	CLS	_
 est	être	V	_
 uni	unir	VPP	_
@@ -80171,7 +80397,9 @@ radius	radius	NC	_
 ,	,	PONCT	_
 un	un	DET	_
 peu	peu	NC	_
-au-dessous	au-dessous	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessous	dessous	ADV	_
 de	de	P	_
 son	son	DET	_
 cou	cou	NC	_
@@ -80208,7 +80436,9 @@ une	un	DET	_
 tubérosité	tubérosité	NC	_
 qui	qui	PROREL	_
 est	être	V	_
-au-devant	au-devant	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+devant	devant	ADV	_
 de	de	P	_
 l'	le	DET	_
 apophyse	apophyse	NC	_
@@ -80268,7 +80498,7 @@ il	il	CLS	_
 n'	ne	ADV	_
 a	avoir	V	_
 plus	plus	ADV	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 une	un	DET	_
 seule	seul	ADJ	_
 tête	tête	NC	_
@@ -80305,7 +80535,8 @@ fournit	fournir	V	_
 le	le	DET	_
 coraco-brachial	coraco-brachial	NC	_
 .	.	PONCT	_
-Quant_au	quant_à_le	P+D	_
+Quant	quant	ADV	_
+au	à_le	P+D	_
 brachial	brachial	ADJ	_
 interne	interne	NC	_
 ,	,	PONCT	_
@@ -80600,7 +80831,9 @@ postérieure	postérieur	ADJ	_
 de	de	P	_
 l'	le	DET	_
 humérus	humérus	NC	_
-au-dessous	au-dessous	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessous	dessous	ADV	_
 de	de	P	_
 sa	son	DET	_
 tête	tête	NC	_
@@ -80709,7 +80942,8 @@ du	de_le	P+D	_
 grand	grand	ADJ	_
 rond	rond	NC	_
 .	.	PONCT	_
-En_outre	en_outre	ADV	_
+En	en	P	_
+outre	outre	P	_
 ,	,	PONCT	_
 le	le	DET	_
 tendon	tendon	NC	_
@@ -81090,7 +81324,7 @@ Les	le	DET	_
 chauve-souris	chauve-souris	NC	_
 n'	ne	ADV	_
 ont	avoir	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 un	un	DET	_
 muscle	muscle	NC	_
 fléchisseur	fléchisseur	ADJ	_
@@ -81116,7 +81350,9 @@ l'	le	DET	_
 un	un	NC	_
 s'	se	CLO	_
 attache	attacher	V	_
-au-dessus	au-dessus	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 de	de	P	_
 la	le	DET	_
 cavité	cavité	NC	_
@@ -81199,7 +81435,9 @@ bras	bras	NC	_
 et	et	CC	_
 l'	le	DET	_
 autre	autre	NC	_
-au-dessus	au-dessus	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 de	de	P	_
 l'	le	DET	_
 angle	angle	NC	_
@@ -81318,7 +81556,9 @@ se	se	CLO	_
 portent	porter	V	_
 l'	le	DET	_
 un	un	NC	_
-au-dessus	au-dessus	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 de	de	P	_
 l'	le	DET	_
 autre	autre	NC	_
@@ -81443,7 +81683,9 @@ condyle	condyle	NC	_
 externe	externe	ADJ	_
 ,	,	PONCT	_
 mais	mais	CC	_
-au-dessus	au-dessus	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 du	de_le	P+D	_
 précédent	précédent	NC	_
 ,	,	PONCT	_
@@ -81589,7 +81831,7 @@ le	le	DET	_
 rond	rond	NC	_
 et	et	CC	_
 le	le	DET	_
-quarré	quarré	NC	_
+quarré	carré	NC	_
 pronateurs	pronateur	ADJ	_
 .	.	PONCT	_
 Le	le	DET	_
@@ -81631,7 +81873,7 @@ du	de_le	P+D	_
 radius	radius	NC	_
 .	.	PONCT	_
 Le	le	DET	_
-quarré	quarré	NC	_
+quarré	carré	NC	_
 (	(	PONCT	_
 cubito-radien	cubito-radien	NC	_
 )	)	PONCT	_
@@ -81683,7 +81925,7 @@ chauve-souris	chauve-souris	NC	_
 qui	qui	PROREL	_
 n'	ne	ADV	_
 ont	avoir	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 un	un	DET	_
 os	os	NC	_
 unique	unique	ADJ	_
@@ -81886,7 +82128,9 @@ situé	situer	VPP	_
 à	à	P	_
 la	le	DET	_
 poitrine	poitrine	NC	_
-au-dessous	au-dessous	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessous	dessous	ADV	_
 du	de_le	P+D	_
 grand	grand	ADJ	_
 pectoral	pectoral	NC	_
@@ -81930,7 +82174,9 @@ du	de_le	P+D	_
 grand	grand	ADJ	_
 pectoral	pectoral	NC	_
 ,	,	PONCT	_
-au-dessous	au-dessous	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessous	dessous	ADV	_
 du	de_le	P+D	_
 deltoïde	deltoïde	NC	_
 ;	;	PONCT	_
@@ -81945,7 +82191,9 @@ humérale	huméral	ADJ	_
 du	de_le	P+D	_
 radius	radius	NC	_
 ,	,	PONCT	_
-au-dessous	au-dessous	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessous	dessous	ADV	_
 de	de	P	_
 la	le	DET	_
 capsule	capsule	NC	_
@@ -81993,7 +82241,7 @@ Il	il	CLS	_
 n'	ne	ADV	_
 y	y	CLO	_
 a	avoir	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 un	un	DET	_
 supinateur	supinateur	NC	_
 qui	qui	PROREL	_
@@ -82014,7 +82262,7 @@ n'	ne	ADV	_
 y	y	CLO	_
 a	avoir	V	_
 aussi	aussi	ADV	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 un	un	DET	_
 pronateur	pronateur	NC	_
 qui	qui	PROREL	_
@@ -82040,13 +82288,13 @@ ces	ce	DET	_
 muscles	muscle	NC	_
 sont	être	V	_
 presque	presque	ADV	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 aponévrotiques	aponévrotique	ADJ	_
 ,	,	PONCT	_
 et	et	CC	_
 ne	ne	ADV	_
 produisent	produire	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 un	un	DET	_
 très	très	ADV	_
 -	-	PONCT	_
@@ -82443,7 +82691,8 @@ sémi	sémi	ADJ	_
 -	-	PONCT	_
 lunaire	lunaire	ADJ	_
 .	.	PONCT	_
-Quant_à	quant_à	P	_
+Quant	quant	ADV	_
+à	à	P	_
 la	le	DET	_
 seconde	second	ADJ	_
 rangée	rangée	NC	_
@@ -82477,7 +82726,9 @@ a	avoir	V	_
 une	un	DET	_
 éminence	éminence	NC	_
 saillante	saillant	ADJ	_
-au-dedans	au-dedans	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dedans	dedans	ADV	_
 de	de	P	_
 la	le	DET	_
 main	main	NC	_
@@ -82617,7 +82868,8 @@ très	très	ADV	_
 -	-	PONCT	_
 réels	réel	ADJ	_
 ,	,	PONCT	_
-afin_de	afin_de	P	_
+afin	afin	ADV	_
+de	de	P	_
 donner	donner	VINF	_
 plus	plus	ADV	_
 de	de	P	_
@@ -82682,7 +82934,8 @@ des	de_le	P+D	_
 os	os	NC	_
 métacarpiens	métacarpien	ADJ	_
 .	.	PONCT	_
-Quant_aux	quant_à_le	P+D	_
+quant	quant	ADV	_
+aux	à_le	P+D	_
 autres	autre	ADJ	_
 ligamens	ligament	NC	_
 du	de_le	P+D	_
@@ -82766,7 +83019,8 @@ est	être	V	_
 plus	plus	ADV	_
 saillant	saillant	ADJ	_
 ,	,	PONCT	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 sa	son	DET	_
 forme	forme	NC	_
 est	être	V	_
@@ -82932,7 +83186,9 @@ très	très	ADV	_
 -	-	PONCT	_
 grande	grand	ADJ	_
 face	face	NC	_
-au-dedans	au-dedans	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dedans	dedans	ADV	_
 de	de	P	_
 la	le	DET	_
 main	main	NC	_
@@ -82979,7 +83235,7 @@ par	par	P	_
 leur	leur	DET	_
 réunion	réunion	NC	_
 ,	,	PONCT	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 un	un	DET	_
 grand	grand	ADJ	_
 os	os	NC	_
@@ -83074,7 +83330,7 @@ Ceux	celui	PRO	_
 qui	qui	PROREL	_
 n'	ne	ADV	_
 ont	avoir	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 un	un	DET	_
 vestige	vestige	NC	_
 de	de	P	_
@@ -83215,7 +83471,9 @@ ongles	ongle	NC	_
 qui	qui	PROREL	_
 soient	être	V	_
 visibles	visible	ADJ	_
-au-dehors	au-dehors	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dehors	dehors	ADV	_
 .	.	PONCT	_
 Parmi	parmi	P	_
 les	le	DET	_
@@ -83334,7 +83592,7 @@ porc-épic	porc-épic	NC	_
 n'	ne	ADV	_
 en	en	CLO	_
 diffère	différer	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 en	en	P	_
 ce	ce	PRO	_
 que	que	PROREL	_
@@ -83386,7 +83644,7 @@ lunaire	lunaire	ADJ	_
 n'	ne	ADV	_
 en	en	CLO	_
 font	faire	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 un	un	DET	_
 sans	sans	P	_
 os	os	NC	_
@@ -83598,7 +83856,8 @@ la	le	DET	_
 première	premier	ADJ	_
 rangée	rangée	NC	_
 ,	,	PONCT	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 il	il	CLS	_
 n'	ne	ADV	_
 y	y	CLO	_
@@ -83734,7 +83993,8 @@ du	de_le	P+D	_
 cochon	cochon	NC	_
 ,	,	PONCT	_
 que	que	ADV	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 les	le	DET	_
 doigts	doigt	NC	_
 latéraux	latéral	ADJ	_
@@ -83881,7 +84141,7 @@ extrémement	extrêmement	ADV	_
 applatis	aplatir	VPP	_
 ,	,	PONCT	_
 presque	presque	ADV	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 de	de	P	_
 figure	figure	NC	_
 hexagone	hexagone	ADJ	_
@@ -84013,7 +84273,9 @@ ne	ne	ADV	_
 peuvent	pouvoir	V	_
 s'	se	CLO	_
 écarter	écarter	VINF	_
-au-delà	au-delà	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+delà	delà	ADV	_
 de	de	P	_
 l'	le	DET	_
 étendue	étendue	NC	_
@@ -84040,7 +84302,8 @@ inter-métacarpiens	inter-métacarpiens	NC	_
 Ces	ce	DET	_
 os	os	NC	_
 sont	être	V	_
-en_outre	en_outre	ADV	_
+en	en	P	_
+outre	outre	P	_
 retenus	retenir	VPP	_
 sur	sur	P	_
 la	le	DET	_
@@ -84518,7 +84781,8 @@ de	de	P	_
 gaines	gaine	NC	_
 ligamenteuses	ligamenteux	ADJ	_
 maintiennent	maintenir	V	_
-en_outre	en_outre	ADV	_
+en	en	P	_
+outre	outre	P	_
 en	en	P	_
 situation	situation	NC	_
 les	le	DET	_
@@ -84663,7 +84927,9 @@ mais	mais	CC	_
 non	non	ADV	_
 s'	se	CLO	_
 étendre	étendre	VINF	_
-au-delà	au-delà	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+delà	delà	ADV	_
 de	de	P	_
 la	le	DET	_
 ligne	ligne	NC	_
@@ -84991,7 +85257,8 @@ relever	relever	VINF	_
 leurs	leur	DET	_
 ongles	ongle	NC	_
 ,	,	PONCT	_
-afin_qu'	afin_que	CS	_
+afin	afin	ADV	_
+qu'	que	CS	_
 ils	il	CLS	_
 ne	ne	ADV	_
 s'	se	CLO	_
@@ -85182,7 +85449,7 @@ et	et	CC	_
 n'	ne	ADV	_
 est	être	V	_
 articulée	articuler	VPP	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 à	à	P	_
 sa	son	DET	_
 portion	portion	NC	_
@@ -85193,7 +85460,9 @@ inférieure	inférieur	ADJ	_
 elle	il	CLS	_
 se	se	CLO	_
 prolonge	prolonger	V	_
-au-dessous	au-dessous	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessous	dessous	ADV	_
 de	de	P	_
 l'	le	DET	_
 articulation	articulation	NC	_
@@ -85246,7 +85515,9 @@ qui	qui	PROREL	_
 se	se	CLO	_
 fait	faire	V	_
 beaucoup	beaucoup	ADV	_
-au-delà	au-delà	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+delà	delà	ADV	_
 de	de	P	_
 la	le	DET	_
 ligne	ligne	NC	_
@@ -85395,7 +85666,7 @@ paca	paca	NC	_
 l'	le	DET	_
 agouti	agouti	NC	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 Enfin	enfin	ADV	_
 un	un	DET	_
 pouce	pouce	NC	_
@@ -85416,7 +85687,7 @@ inde	inde	NC	_
 la	le	DET	_
 marmotte	marmotte	NC	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 En	en	P	_
 général	général	NC	_
 ,	,	PONCT	_
@@ -85759,7 +86030,8 @@ ils	il	CLS	_
 sont	être	V	_
 cependant	cependant	ADV	_
 parfaits	parfait	ADJ	_
-quant_au	quant_à_le	P+D	_
+Quant	quant	ADV	_
+au	à_le	P+D	_
 nombre	nombre	NC	_
 des	de_le	P+D	_
 os	os	NC	_
@@ -85798,7 +86070,7 @@ l'	il	CLO	_
 avons	avoir	V	_
 vu	voir	VPP	_
 ,	,	PONCT	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 un	un	DET	_
 seul	seul	ADJ	_
 os	os	NC	_
@@ -86000,7 +86272,7 @@ Il	il	CLS	_
 n'	ne	ADV	_
 y	y	CLO	_
 a	avoir	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 une	un	DET	_
 seule	seul	ADJ	_
 rangée	rangée	NC	_
@@ -86359,7 +86631,8 @@ troisième	troisième	NC	_
 en	en	P	_
 dessous	dessous	NC	_
 ,	,	PONCT	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 la	le	DET	_
 deuxième	deuxième	NC	_
 est	être	V	_
@@ -86633,7 +86906,7 @@ La	le	DET	_
 grenouille	grenouille	NC	_
 n'	ne	ADV	_
 a	avoir	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 une	un	DET	_
 seule	seul	ADJ	_
 phalange	phalange	NC	_
@@ -86791,7 +87064,7 @@ condyle	condyle	NC	_
 de	de	P	_
 l'	le	DET	_
 humérus	humérus	NC	_
-auquel	auquel	PROREL	_
+auquel	à_lequel	PROREL	_
 ils	il	CLS	_
 s'	se	CLO	_
 attachent	attacher	V	_
@@ -86952,7 +87225,9 @@ condyle	condyle	NC	_
 externe	externe	ADJ	_
 ,	,	PONCT	_
 marchant	marcher	VPR	_
-au-dessus	au-dessus	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 l'	le	DET	_
 un	un	NC	_
 de	de	P	_
@@ -87027,7 +87302,7 @@ Le	le	DET	_
 chien	chien	NC	_
 n'	ne	ADV	_
 a	avoir	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 un	un	DET	_
 seul	seul	ADJ	_
 radial	radial	NC	_
@@ -87549,7 +87824,7 @@ sous	sous	P	_
 le	il	CLO	_
 précédent	précéder	V	_
 ,	,	PONCT	_
-auquel	auquel	PROREL	_
+auquel	à_lequel	PROREL	_
 il	il	CLS	_
 est	être	V	_
 parallèle	parallèle	ADJ	_
@@ -87737,7 +88012,7 @@ des	un	DET	_
 adducteurs	adducteur	NC	_
 ,	,	PONCT	_
 des	un	DET	_
-abducteurs	abducteurs	NC	_
+abducteurs	abducteur	NC	_
 :	:	PONCT	_
 ils	il	CLS	_
 sont	être	V	_
@@ -87788,7 +88063,7 @@ extenseurs	extenseur	NC	_
 ,	,	PONCT	_
 ils	il	CLS	_
 sont	être	V	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 situés	situer	VPP	_
 à	à	P	_
 la	le	DET	_
@@ -87909,7 +88184,7 @@ ne	ne	ADV	_
 donne	donner	V	_
 de	de	P	_
 languette	languette	NC	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 au	à_le	P+D	_
 petit	petit	ADJ	_
 doigt	doigt	NC	_
@@ -87984,7 +88259,7 @@ n'	ne	ADV	_
 y	y	CLO	_
 en	en	CLO	_
 a	avoir	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 un	un	DET	_
 seul	seul	NC	_
 qui	qui	PROREL	_
@@ -88089,7 +88364,9 @@ tendon	tendon	NC	_
 après	après	P	_
 être	être	VINF	_
 passé	passer	VPP	_
-au-devant	au-devant	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+devant	devant	ADV	_
 du	de_le	P+D	_
 carpe	carpe	NC	_
 ,	,	PONCT	_
@@ -88148,7 +88425,7 @@ ne	ne	ADV	_
 donne	donner	V	_
 de	de	P	_
 tendon	tendon	NC	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 à	à	P	_
 l'	le	DET	_
 index	index	NC	_
@@ -88236,7 +88513,9 @@ cubito	cubito	ET	_
 sus-phalangien	sus-phalangien	ET	_
 )	)	PONCT	_
 placé	placer	VPP	_
-au-dessus	au-dessus	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 de	de	P	_
 l'	le	DET	_
 extenseur	extenseur	NC	_
@@ -88369,7 +88648,7 @@ autre	autre	NC	_
 .	.	PONCT	_
 2	2	X	_
 les	le	DET	_
-abducteurs	abducteurs	NC	_
+abducteurs	abducteur	NC	_
 des	de_le	P+D	_
 doigts	doigt	NC	_
 .	.	PONCT	_
@@ -88383,7 +88662,9 @@ cubito	cubito	NC	_
 sus-métacarpien	sus-métacarpien	ADJ	_
 )	)	PONCT	_
 placé	placer	VPP	_
-au-dessus	au-dessus	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 et	et	CC	_
 du	de_le	P+D	_
 côté	côté	NC	_
@@ -88435,8 +88716,8 @@ ours	ours	NC	_
 les	le	DET	_
 lapins	lapin	NC	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
-Dans	Dans	NP	_
+etc.	etc	ADV	_
+Dans	dans	NP	_
 le	le	DET	_
 cheval	cheval	NC	_
 et	et	CC	_
@@ -88477,7 +88758,7 @@ doigts	doigt	NC	_
 ,	,	PONCT	_
 ils	il	CLS	_
 sont	être	V	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 à	à	P	_
 la	le	DET	_
 face	face	NC	_
@@ -88612,7 +88893,7 @@ au	à_le	P+D	_
 pouce	pouce	NC	_
 ,	,	PONCT	_
 doigt	doigt	NC	_
-auquel	auquel	PROREL	_
+auquel	à_lequel	PROREL	_
 le	le	DET	_
 sublime	sublime	NC	_
 n'	ne	ADV	_
@@ -88787,7 +89068,7 @@ qui	qui	PROREL	_
 ne	ne	ADV	_
 donnent	donner	V	_
 chacun	chacun	PRO	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 une	un	DET	_
 languette	languette	NC	_
 .	.	PONCT	_
@@ -88877,7 +89158,7 @@ fléchisseurs	fléchisseur	NC	_
 ne	ne	ADV	_
 seroient	être	V	_
 pas	pas	ADV	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 à	à	P	_
 la	le	DET	_
 face	face	NC	_
@@ -88886,7 +89167,7 @@ interne	interne	ADJ	_
 ni	ni	CC	_
 les	le	DET	_
 extenseurs	extenseur	NC	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 à	à	P	_
 l'	le	DET	_
 externe	externe	NC	_
@@ -88932,7 +89213,9 @@ condyle	condyle	NC	_
 interne	interne	ADJ	_
 ,	,	PONCT	_
 marche	marcher	V	_
-au-dessus	au-dessus	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 du	de_le	P+D	_
 cubital	cubital	ADJ	_
 interne	interne	NC	_
@@ -89119,7 +89402,7 @@ doigt	doigt	NC	_
 .	.	PONCT	_
 2	2	X	_
 les	le	DET	_
-abducteurs	abducteurs	NC	_
+abducteurs	abducteur	NC	_
 fléchisseurs	fléchisseur	ADJ	_
 Vicq	Vicq	NP	_
 -	-	PONCT	_
@@ -89271,7 +89554,7 @@ le	il	CLO	_
 nomme	nommer	V	_
 la	le	DET	_
 chair	chair	NC	_
-quarrée	quarrer	VPP	_
+quarrée	carré	ADJ	_
 ,	,	PONCT	_
 le	le	DET	_
 palmaire	palmaire	NC	_
@@ -89576,7 +89859,9 @@ aux	à_le	P+D	_
 deux	deux	ADJ	_
 côtés	côté	NC	_
 et	et	CC	_
-au-dessus	au-dessus	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 de	de	P	_
 la	le	DET	_
 première	premier	ADJ	_
@@ -89589,7 +89874,7 @@ Les	le	DET	_
 chauve-souris	chauve-souris	NC	_
 n'	ne	ADV	_
 ont	avoir	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 un	un	DET	_
 seul	seul	ADJ	_
 extenseur	extenseur	NC	_
@@ -90113,7 +90398,7 @@ raies	raie	NC	_
 les	le	DET	_
 squales	squale	NC	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 Les	le	DET	_
 deux	deux	ADJ	_
 nageoires	nageoire	NC	_
@@ -90153,7 +90438,7 @@ nageoire	nageoire	NC	_
 pectorale	pectoral	ADJ	_
 ne	ne	ADV	_
 manque	manquer	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 à	à	P	_
 un	un	DET	_
 très	très	ADV	_
@@ -90170,8 +90455,8 @@ murènes	murène	NC	_
 les	le	DET	_
 cécilies	cécilie	NC	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
-Dans	Dans	NP	_
+etc.	etc	ADV	_
+Dans	dans	NP	_
 ceux	celui	PRO	_
 qui	qui	PROREL	_
 l'	il	CLO	_
@@ -90201,7 +90486,7 @@ dans	dans	P	_
 les	le	DET	_
 raies	raie	NC	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 Dans	dans	P	_
 les	le	DET	_
 raies	raie	NC	_
@@ -90242,7 +90527,7 @@ articles	article	NC	_
 ;	;	PONCT	_
 ils	il	CLS	_
 tiennent	tenir	V	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 à	à	P	_
 un	un	DET	_
 cartilage	cartilage	NC	_
@@ -90370,7 +90655,7 @@ sont	être	V	_
 les	le	DET	_
 balistes	baliste	NC	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 )	)	PONCT	_
 les	le	DET	_
 nageoires	nageoire	NC	_
@@ -90444,7 +90729,9 @@ omoplates	omoplate	NC	_
 La	le	DET	_
 portion	portion	NC	_
 située	situer	VPP	_
-au-dessus	au-dessus	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 de	de	P	_
 la	le	DET	_
 nageoire	nageoire	NC	_
@@ -90456,7 +90743,9 @@ mince	mince	ADJ	_
 celle	celui	PRO	_
 qui	qui	PROREL	_
 est	être	V	_
-au-dessous	au-dessous	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessous	dessous	ADV	_
 ,	,	PONCT	_
 a	avoir	V	_
 en	en	P	_
@@ -90492,9 +90781,9 @@ sont	être	V	_
 logés	loger	VPP	_
 les	le	DET	_
 muscles	muscle	NC	_
-abducteurs	abducteurs	ADJ	_
+abducteurs	abducteur	ADJ	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 La	le	DET	_
 portion	portion	NC	_
 du	de_le	P+D	_
@@ -90547,7 +90836,7 @@ volant	volant	ADJ	_
 des	un	DET	_
 zées	zée	NC	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 La	le	DET	_
 vive	vive	NC	_
 en	en	CLO	_
@@ -90643,7 +90932,7 @@ beaucoup	beaucoup	PRO	_
 de	de	P	_
 poissons	poisson	NC	_
 ,	,	PONCT	_
-sur-tout	sur-tout	ADV	_
+sur-tout	surtout	ADV	_
 dans	dans	P	_
 ceux	celui	PRO	_
 de	de	P	_
@@ -90663,7 +90952,7 @@ choetodons	choetodons	NC	_
 ,	,	PONCT	_
 perches	perche	NC	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 Dans	dans	P	_
 les	le	DET	_
 balistes	baliste	NC	_
@@ -90813,8 +91102,8 @@ choetodons	choetodons	NC	_
 les	le	DET	_
 perches	perche	NC	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
-Lorsque	Lorsque	NP	_
+etc.	etc	ADV	_
+Lorsque	lorsque	NP	_
 le	le	DET	_
 premier	premier	ADJ	_
 rayon	rayon	NC	_
@@ -90833,7 +91122,7 @@ loricaire	loricaire	NC	_
 quelques	quelque	DET	_
 silures	silure	NC	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 Il	il	CLS	_
 s'	se	CLO	_
 articule	articuler	V	_
@@ -91123,7 +91412,7 @@ dans	dans	P	_
 les	le	DET	_
 blennies	blennie	NC	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 2	2	X	_
 des	un	DET	_
 muscles	muscle	NC	_
@@ -91424,7 +91713,9 @@ fibres	fibre	NC	_
 se	se	CLO	_
 dirigent	diriger	V	_
 obliquement	obliquement	ADV	_
-au-dehors	au-dehors	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dehors	dehors	ADV	_
 ,	,	PONCT	_
 et	et	CC	_
 se	se	CLO	_
@@ -91642,7 +91933,9 @@ sous-scapulaire	sous-scapulaire	ADJ	_
 qui	qui	PROREL	_
 se	se	CLO	_
 trouve	trouver	V	_
-au-dessous	au-dessous	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessous	dessous	ADV	_
 de	de	P	_
 la	le	DET	_
 clavicule	clavicule	NC	_
@@ -92009,7 +92302,7 @@ plus	plus	ADV	_
 bas	bas	ADJ	_
 que	que	CS	_
 le	le	DET	_
-coccix	coccix	NC	_
+coccix	coccyx	NC	_
 ,	,	PONCT	_
 cette	ce	DET	_
 branche	branche	NC	_
@@ -92180,7 +92473,7 @@ des	un	DET	_
 os	os	NC	_
 particuliers	particulier	ADJ	_
 ,	,	PONCT	_
-auxquels	auquel	PROREL	_
+auxquels	à_lequel	PROREL	_
 on	on	CLS	_
 a	avoir	V	_
 donné	donner	VPP	_
@@ -92635,7 +92928,7 @@ du	de_le	P+D	_
 sacrum	sacrum	NC	_
 et	et	CC	_
 du	de_le	P+D	_
-coccix	coccix	NC	_
+coccix	coccyx	NC	_
 ,	,	PONCT	_
 en	en	P	_
 unissant	unir	VPR	_
@@ -92695,7 +92988,7 @@ la	le	DET	_
 queue	queue	NC	_
 ou	ou	CC	_
 du	de_le	P+D	_
-coccix	coccix	NC	_
+coccix	coccyx	NC	_
 sont	être	V	_
 fermement	fermement	ADV	_
 attachés	attacher	VPP	_
@@ -92821,14 +93114,18 @@ de	de	P	_
 l'	le	DET	_
 épine	épine	NC	_
 ,	,	PONCT	_
-au-dessous	au-dessous	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessous	dessous	ADV	_
 du	de_le	P+D	_
 bassin	bassin	NC	_
 dans	dans	P	_
 l'	le	DET	_
 homme	homme	NC	_
 ,	,	PONCT	_
-au-dessus	au-dessus	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 dans	dans	P	_
 les	le	DET	_
 animaux	animal	NC	_
@@ -92943,7 +93240,7 @@ tronc	tronc	NC	_
 ou	ou	CC	_
 du	de_le	P+D	_
 cylindre	cylindre	NC	_
-auquel	auquel	PROREL	_
+auquel	à_lequel	PROREL	_
 elle	il	CLS	_
 appartient	appartenir	V	_
 .	.	PONCT	_
@@ -93257,9 +93554,9 @@ la	le	DET	_
 marmotte	marmotte	NC	_
 ,	,	PONCT	_
 le	le	DET	_
-kanguroo	kanguroo	NC	_
+kanguroo	kangourou	NC	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 Le	le	DET	_
 bassin	bassin	NC	_
 est	être	V	_
@@ -93288,7 +93585,7 @@ petit	petit	ADJ	_
 diamètre	diamètre	NC	_
 ;	;	PONCT	_
 mais	mais	CC	_
-sur-tout	sur-tout	VPP	_
+sur-tout	surtout	VPP	_
 par	par	P	_
 la	le	DET	_
 présence	présence	NC	_
@@ -93430,7 +93727,7 @@ tranchant	tranchant	NC	_
 véritable	véritable	ADJ	_
 ne	ne	ADV	_
 seroit	être	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 une	un	DET	_
 arête	arête	NC	_
 .	.	PONCT	_
@@ -93459,7 +93756,8 @@ et	et	CC	_
 les	le	DET	_
 fourmiliers	fourmilier	NC	_
 ,	,	PONCT	_
-tandis_que	tandis_que	CS	_
+tandis	tandis	ADV	_
+que	que	CS	_
 les	le	DET	_
 paresseux	paresseux	NC	_
 les	il	CLO	_
@@ -93513,7 +93811,7 @@ il	il	CLS	_
 n'	ne	ADV	_
 y	y	CLO	_
 a	avoir	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 un	un	DET	_
 trou	trou	NC	_
 au	à_le	P+D	_
@@ -93535,7 +93833,8 @@ celui	celui	PRO	_
 des	de_le	P+D	_
 carnassiers	carnassier	NC	_
 que	que	ADV	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 ses	son	DET	_
 ischions	ischion	NC	_
 se	se	CLO	_
@@ -93561,7 +93860,7 @@ le	le	DET	_
 tapir	tapir	NC	_
 ,	,	PONCT	_
 et	et	CC	_
-sur-tout	sur-tout	NP	_
+sur-tout	surtout	NP	_
 dans	dans	P	_
 les	le	DET	_
 ruminans	ruminant	NC	_
@@ -93938,12 +94237,13 @@ des	de_le	P+D	_
 carnassiers	carnassier	NC	_
 ,	,	PONCT	_
 et	et	CC	_
-sur-tout	sur-tout	ADV	_
+sur-tout	surtout	ADV	_
 des	un	DET	_
 loutres	loutre	NC	_
 ,	,	PONCT	_
 que	que	ADV	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 il	il	CLS	_
 est	être	V	_
 étroit	étroit	ADJ	_
@@ -94015,7 +94315,7 @@ lombes	lombes	NC	_
 et	et	CC	_
 le	le	DET	_
 sacrum	sacrum	NC	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 un	un	DET	_
 seul	seul	ADJ	_
 os	os	NC	_
@@ -94193,7 +94493,7 @@ l'	le	DET	_
 ischiatique	ischiatique	NC	_
 .	.	PONCT	_
 Cet	ce	DET	_
-alongement	alongement	NC	_
+alongement	allongement	NC	_
 est	être	V	_
 encore	encore	ADV	_
 plus	plus	ADV	_
@@ -94288,7 +94588,7 @@ tout	tout	PRO	_
 fait	faire	V	_
 séparé	séparer	VPP	_
 du	de_le	P+D	_
-coccix	coccix	NC	_
+coccix	coccyx	NC	_
 ,	,	PONCT	_
 qui	qui	PROREL	_
 s'	se	CLO	_
@@ -94332,7 +94632,8 @@ lequel	lequel	PROREL	_
 les	le	DET	_
 ischions	ischion	NC	_
 sont	être	V	_
-en_outre	en_outre	ADV	_
+en	en	P	_
+outre	outre	P	_
 entièrement	entièrement	ADV	_
 séparés	séparer	VPP	_
 des	de_le	P+D	_
@@ -94571,7 +94872,7 @@ masse	masse	NC	_
 entière	entier	ADJ	_
 du	de_le	P+D	_
 bassin	bassin	NC	_
-auquel	auquel	PROREL	_
+auquel	à_lequel	PROREL	_
 cet	ce	DET	_
 os	os	NC	_
 est	être	V	_
@@ -94652,7 +94953,7 @@ iléons	iléon	NC	_
 sont	être	V	_
 très	très	ADV	_
 -	-	PONCT	_
-alongés	alongés	NC	_
+alongés	allonger	NC	_
 ;	;	PONCT	_
 les	le	DET	_
 pubis	pubis	NC	_
@@ -94707,7 +95008,7 @@ aux	à_le	P+D	_
 ischions	ischion	NC	_
 ne	ne	ADV	_
 forment	former	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 une	un	DET	_
 large	large	ADJ	_
 plaque	plaque	NC	_
@@ -94743,7 +95044,7 @@ nombre	nombre	NC	_
 :	:	PONCT	_
 1	1	X	_
 le	le	DET	_
-quarré	quarré	NC	_
+quarré	carré	NC	_
 des	de_le	P+D	_
 lombes	lombes	NC	_
 iléo-costien	iléo-costien	ADJ	_
@@ -94756,7 +95057,7 @@ l'	le	DET	_
 os	os	NC	_
 des	de_le	P+D	_
 îles	île	NC	_
-auquel	auquel	PROREL	_
+auquel	à_lequel	PROREL	_
 il	il	CLS	_
 s'	se	CLO	_
 attache	attacher	V	_
@@ -94892,7 +95193,7 @@ y	y	CLO	_
 a	avoir	V	_
 point	point	ADV	_
 de	de	P	_
-quarré	quarré	NC	_
+quarré	carré	NC	_
 des	de_le	P+D	_
 lombes	lombes	NC	_
 ;	;	PONCT	_
@@ -94928,7 +95229,7 @@ petit	petit	ADJ	_
 psoas	psoas	NC	_
 ,	,	PONCT	_
 ni	ni	CC	_
-quarré	quarrer	VPP	_
+quarré	carré	NC	_
 des	de_le	P+D	_
 lombes	lombes	NC	_
 .	.	PONCT	_
@@ -94945,7 +95246,7 @@ le	le	DET	_
 muscle	muscle	NC	_
 analogue	analogue	ADJ	_
 au	à_le	P+D	_
-quarré	quarré	NC	_
+quarré	carré	NC	_
 des	de_le	P+D	_
 lombes	lombes	NC	_
 s'	se	CLO	_
@@ -95067,7 +95368,7 @@ les	le	DET	_
 grenouilles	grenouille	NC	_
 .	.	PONCT	_
 Le	le	DET	_
-quarré	quarré	NC	_
+quarré	carré	NC	_
 des	de_le	P+D	_
 lombes	lombes	NC	_
 s'	se	CLO	_
@@ -95109,7 +95410,8 @@ vers	vers	P	_
 la	le	DET	_
 tête	tête	NC	_
 ,	,	PONCT	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 il	il	CLS	_
 est	être	V	_
 mobile	mobile	ADJ	_
@@ -95136,7 +95438,7 @@ ventrale	ventral	ADJ	_
 des	de_le	P+D	_
 poissons	poisson	NC	_
 ,	,	PONCT	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 à	à	P	_
 la	le	DET	_
 fin	fin	NC	_
@@ -95285,7 +95587,8 @@ aigu	aigu	ADJ	_
 en	en	P	_
 avant	avant	NC	_
 ,	,	PONCT	_
-afin_que	afin_que	CS	_
+afin	afin	ADV	_
+que	que	CS	_
 son	son	DET	_
 axe	axe	NC	_
 réponde	répondre	V	_
@@ -95539,7 +95842,8 @@ fémur	fémur	NC	_
 Il	il	CLS	_
 y	y	CLO	_
 a	avoir	V	_
-en_outre	en_outre	ADV	_
+en	en	P	_
+outre	outre	P	_
 dans	dans	P	_
 l'	le	DET	_
 articulation	articulation	NC	_
@@ -95761,7 +96065,9 @@ trochanter	trochanter	NC	_
 s'	se	CLO	_
 y	y	CLO	_
 élève	élever	V	_
-au-dessus	au-dessus	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 d'	de	P	_
 elle	il	PRO	_
 .	.	PONCT	_
@@ -95927,7 +96233,7 @@ des	de_le	P+D	_
 oiseaux	oiseau	NC	_
 n'	ne	ADV	_
 a	avoir	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 un	un	DET	_
 seul	seul	ADJ	_
 trochanter	trochanter	NC	_
@@ -96355,7 +96661,7 @@ derrière	derrière	P	_
 le	il	CLO	_
 précédent	précéder	V	_
 ,	,	PONCT	_
-auquel	auquel	PROREL	_
+auquel	à_lequel	PROREL	_
 leur	leur	DET	_
 tendon	tendon	NC	_
 s'	se	CLO	_
@@ -96432,7 +96738,7 @@ forment	former	V	_
 une	un	DET	_
 espèce	espèce	NC	_
 de	de	P	_
-gaîne	gaîne	NC	_
+gaîne	gaine	NC	_
 .	.	PONCT	_
 Il	il	CLS	_
 agit	agir	V	_
@@ -96460,7 +96766,7 @@ glisse	glisser	V	_
 .	.	PONCT	_
 5	5	X	_
 le	le	DET	_
-quarré	quarré	NC	_
+quarré	carré	NC	_
 de	de	P	_
 la	le	DET	_
 cuisse	cuisse	NC	_
@@ -96662,7 +96968,7 @@ les	le	DET	_
 singes	singe	NC	_
 ,	,	PONCT	_
 l'	le	DET	_
-alongement	alongement	NC	_
+alongement	allongement	NC	_
 de	de	P	_
 l'	le	DET	_
 os	os	NC	_
@@ -96692,7 +96998,7 @@ des	de_le	P+D	_
 trois	trois	NC	_
 .	.	PONCT	_
 Le	le	DET	_
-quarré	quarré	NC	_
+quarré	carré	NC	_
 est	être	V	_
 proportionné	proportionner	VPP	_
 à	à	P	_
@@ -96738,7 +97044,7 @@ interne	interne	ADJ	_
 ,	,	PONCT	_
 ni	ni	CC	_
 de	de	P	_
-quarré	quarré	NC	_
+quarré	carré	NC	_
 .	.	PONCT	_
 Dans	dans	P	_
 les	le	DET	_
@@ -96959,7 +97265,7 @@ jumeaux	jumeau	NC	_
 L'	le	DET	_
 analogue	analogue	NC	_
 du	de_le	P+D	_
-quarré	quarré	NC	_
+quarré	carré	NC	_
 est	être	V	_
 fort	fort	ADV	_
 grand	grand	ADJ	_
@@ -97158,7 +97464,9 @@ par	par	P	_
 un	un	DET	_
 tendon	tendon	NC	_
 grêle	grêle	ADJ	_
-au-dessous	au-dessous	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessous	dessous	ADV	_
 du	de_le	P+D	_
 petit	petit	ADJ	_
 trochanter	trochanter	NC	_
@@ -97197,7 +97505,9 @@ savoir	savoir	VINF	_
 ,	,	PONCT	_
 le	le	DET	_
 premier	premier	NC	_
-au-dessus	au-dessus	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 de	de	P	_
 la	le	DET	_
 symphise	symphise	NC	_
@@ -97321,7 +97631,7 @@ iliaque	iliaque	NC	_
 sont	être	V	_
 beaucoup	beaucoup	ADV	_
 plus	plus	ADV	_
-alongés	alongés	ADJ	_
+alongés	allonger	ADJ	_
 que	que	CS	_
 dans	dans	P	_
 l'	le	DET	_
@@ -97381,7 +97691,7 @@ externe	externe	ADJ	_
 Elles	il	CLS	_
 n'	ne	ADV	_
 ont	avoir	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 un	un	DET	_
 adducteur	adducteur	NC	_
 de	de	P	_
@@ -97544,7 +97854,7 @@ il	il	CLS	_
 n'	ne	ADV	_
 y	y	CLO	_
 a	avoir	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 un	un	DET	_
 seul	seul	ADJ	_
 fessier	fessier	NC	_
@@ -97569,7 +97879,9 @@ iléon	iléon	NC	_
 et	et	CC	_
 se	se	CLO	_
 fixe	fixer	V	_
-au-dessous	au-dessous	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessous	dessous	ADV	_
 de	de	P	_
 la	le	DET	_
 tête	tête	NC	_
@@ -97584,7 +97896,7 @@ de	de	P	_
 la	le	DET	_
 pointe	pointe	NC	_
 du	de_le	P+D	_
-coccix	coccix	NC	_
+coccix	coccyx	NC	_
 ,	,	PONCT	_
 et	et	CC	_
 s'	se	CLO	_
@@ -97607,7 +97919,7 @@ existent	exister	V	_
 point	point	ADV	_
 .	.	PONCT	_
 Le	le	DET	_
-quarré	quarré	NC	_
+quarré	carré	NC	_
 de	de	P	_
 la	le	DET	_
 cuisse	cuisse	NC	_
@@ -97879,7 +98191,9 @@ s'	se	CLO	_
 insère	insérer	V	_
 au	à_le	P+D	_
 fémur	fémur	NC	_
-au-dessous	au-dessous	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessous	dessous	ADV	_
 du	de_le	P+D	_
 petit	petit	ADJ	_
 trochanter	trochanter	NC	_
@@ -97911,7 +98225,9 @@ os	os	NC	_
 de	de	P	_
 la	le	DET	_
 cuisse	cuisse	NC	_
-au-dessous	au-dessous	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessous	dessous	ADV	_
 du	de_le	P+D	_
 grand	grand	ADJ	_
 trochanter	trochanter	NC	_
@@ -98164,7 +98480,8 @@ l'	le	DET	_
 de	de	P	_
 repos	repos	NC	_
 ;	;	PONCT	_
-tandis_que	tandis_que	CS	_
+tandis	tandis	ADV	_
+que	que	CS	_
 dans	dans	P	_
 les	le	DET	_
 oiseaux	oiseau	NC	_
@@ -98595,7 +98912,9 @@ tibia	tibia	NC	_
 de	de	P	_
 s'	se	CLO	_
 étendre	étendre	VINF	_
-au-delà	au-delà	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+delà	delà	ADV	_
 de	de	P	_
 la	le	DET	_
 ligne	ligne	NC	_
@@ -98736,7 +99055,9 @@ en	en	P	_
 sautoir	sautoir	NC	_
 l'	le	DET	_
 un	un	NC	_
-au-dessus	au-dessus	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 de	de	P	_
 l'	le	DET	_
 autre	autre	NC	_
@@ -99104,7 +99425,9 @@ externe	externe	ADJ	_
 de	de	P	_
 l'	le	DET	_
 astragal	astragal	NC	_
-au-dessous	au-dessous	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessous	dessous	ADV	_
 du	de_le	P+D	_
 tibia	tibia	NC	_
 ,	,	PONCT	_
@@ -99123,7 +99446,7 @@ péroné	péroné	NC	_
 n'	ne	ADV	_
 est	être	V	_
 plus	plus	ADV	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 un	un	DET	_
 rudiment	rudiment	NC	_
 stiloïde	stiloïde	ADJ	_
@@ -99275,7 +99598,7 @@ du	de_le	P+D	_
 tibia	tibia	NC	_
 se	se	CLO	_
 fait	faire	V	_
-déja	déja	VINF	_
+déja	déjà	VINF	_
 remarquer	remarquer	VINF	_
 ;	;	PONCT	_
 mais	mais	CC	_
@@ -99345,14 +99668,14 @@ grenouilles	grenouille	NC	_
 n'	ne	ADV	_
 en	en	CLO	_
 ont	avoir	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 un	un	DET	_
 cependant	cependant	ADV	_
 ;	;	PONCT	_
 mais	mais	CC	_
 une	un	DET	_
 rainure	rainure	NC	_
-indique	indique	ADJ	_
+indique	indiquer	ADJ	_
 le	le	DET	_
 point	point	NC	_
 de	de	P	_
@@ -99397,7 +99720,7 @@ la	le	DET	_
 jambe	jambe	NC	_
 se	se	CLO	_
 terminent	terminer	V	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 par	par	P	_
 un	un	DET	_
 tendon	tendon	NC	_
@@ -99770,7 +100093,7 @@ adducteurs	adducteur	NC	_
 du	de_le	P+D	_
 fémur	fémur	NC	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 Cette	ce	DET	_
 masse	masse	NC	_
 longue	long	ADJ	_
@@ -99789,11 +100112,11 @@ cuisse	cuisse	NC	_
 .	.	PONCT	_
 Ils	il	CLS	_
 sont	être	V	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 renfermés	renfermer	VPP	_
 dans	dans	P	_
 une	un	DET	_
-gaîne	gaîne	NC	_
+gaîne	gaine	NC	_
 aponévrotique	aponévrotique	ADJ	_
 nommée	nommer	VPP	_
 fascia	fascia	NC	_
@@ -99943,7 +100266,7 @@ l'	le	DET	_
 homme	homme	NC	_
 n'	ne	ADV	_
 a	avoir	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 une	un	DET	_
 seule	seul	ADJ	_
 tête	tête	NC	_
@@ -100025,7 +100348,7 @@ les	le	DET	_
 quadrupèdes	quadrupède	NC	_
 ,	,	PONCT	_
 et	et	CC	_
-sur-tout	sur-tout	NP	_
+sur-tout	surtout	NP	_
 dans	dans	P	_
 ceux	celui	PRO	_
 qui	qui	PROREL	_
@@ -100038,7 +100361,7 @@ Aussi	aussi	ADV	_
 forme	former	V	_
 -t-il	il	CLS	_
 ,	,	PONCT	_
-sur-tout	sur-tout	ADV	_
+sur-tout	surtout	ADV	_
 dans	dans	P	_
 les	le	DET	_
 animaux	animal	NC	_
@@ -100060,7 +100383,8 @@ nomme	nommer	V	_
 court	court	ADJ	_
 adducteur	adducteur	NC	_
 ,	,	PONCT	_
-tandis_qu'	tandis_que	CS	_
+tandis	tandis	ADV	_
+qu'	que	CS	_
 il	il	CLS	_
 donne	donner	V	_
 le	le	DET	_
@@ -100592,7 +100916,7 @@ crural	crural	NC	_
 ne	ne	ADV	_
 forment	former	V	_
 manifestement	manifestement	ADV	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 une	un	DET	_
 seule	seul	ADJ	_
 portion	portion	NC	_
@@ -100613,7 +100937,7 @@ la	le	DET	_
 jambe	jambe	NC	_
 n'	ne	ADV	_
 a	avoir	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 un	un	DET	_
 seul	seul	ADJ	_
 ventre	ventre	NC	_
@@ -100690,7 +101014,9 @@ couturier	couturier	NC	_
 est	être	V	_
 situé	situer	VPP	_
 directement	directement	ADV	_
-au-devant	au-devant	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+devant	devant	ADV	_
 de	de	P	_
 la	le	DET	_
 cuisse	cuisse	NC	_
@@ -101401,7 +101727,9 @@ cunéiformes	cunéiforme	ADJ	_
 qui	qui	PROREL	_
 sont	être	V	_
 placés	placer	VPP	_
-au-devant	au-devant	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+devant	devant	ADV	_
 de	de	P	_
 l'	le	DET	_
 os	os	NC	_
@@ -101703,7 +102031,7 @@ et	et	CC	_
 le	le	DET	_
 scaphoïde	scaphoïde	NC	_
 excessivement	excessivement	ADV	_
-alongés	alongés	ADJ	_
+alongés	allonger	ADJ	_
 ,	,	PONCT	_
 ce	ce	PRO	_
 qui	qui	PROREL	_
@@ -101952,7 +102280,8 @@ taupe	taupe	NC	_
 est	être	V	_
 remarquable	remarquable	ADJ	_
 ,	,	PONCT	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 son	son	DET	_
 tarse	tarse	NC	_
 s'	se	CLO	_
@@ -101961,7 +102290,7 @@ seulement	seulement	ADV	_
 avec	avec	P	_
 le	le	DET	_
 tibia	tibia	NC	_
-auquel	auquel	PROREL	_
+auquel	à_lequel	PROREL	_
 le	le	DET	_
 péroné	péroné	NC	_
 est	être	V	_
@@ -102014,7 +102343,9 @@ parties	partie	NC	_
 ;	;	PONCT	_
 une	un	DET	_
 placée	placée	NC	_
-au-devant	au-devant	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+devant	devant	ADV	_
 de	de	P	_
 l'	le	DET	_
 astragal	astragal	NC	_
@@ -102107,7 +102438,7 @@ du	de_le	P+D	_
 pouce	pouce	NC	_
 .	.	PONCT	_
 Dans	dans	P	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 ,	,	PONCT	_
 le	le	DET	_
 scaphoïde	scaphoïde	ADJ	_
@@ -102167,7 +102498,7 @@ sont	être	V	_
 des	un	DET	_
 os	os	NC	_
 plats	plat	ADJ	_
-alongés	alongés	ADJ	_
+alongés	allonger	ADJ	_
 ,	,	PONCT	_
 qui	qui	PROREL	_
 sont	être	V	_
@@ -103143,7 +103474,7 @@ le	le	DET	_
 calcanéum	calcanéum	NC	_
 sont	être	V	_
 fort	fort	ADJ	_
-alongés	alongés	NC	_
+alongés	allonger	NC	_
 ,	,	PONCT	_
 et	et	CC	_
 pourroient	pouvoir	V	_
@@ -103351,7 +103682,9 @@ le	le	DET	_
 soléaire	soléaire	NC	_
 tibio-calcanien	tibio-calcanien	ADJ	_
 placé	placer	VPP	_
-au-devant	au-devant	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+devant	devant	ADV	_
 d'	de	P	_
 eux	il	PRO	_
 ,	,	PONCT	_
@@ -103437,7 +103770,7 @@ péroné	péroné	NC	_
 .	.	PONCT	_
 Il	il	CLS	_
 est	être	V	_
-sur-tout	sur-tout	ADV	_
+sur-tout	surtout	ADV	_
 très	très	ADV	_
 -	-	PONCT	_
 grêle	grêle	ADJ	_
@@ -104106,7 +104439,7 @@ Le	le	DET	_
 cheval	cheval	NC	_
 n'	ne	ADV	_
 a	avoir	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 un	un	DET	_
 seul	seul	ADJ	_
 péronier	péronier	NC	_
@@ -104245,7 +104578,7 @@ le	le	DET	_
 gastrocnémien	gastrocnémien	NC	_
 n'	ne	ADV	_
 a	avoir	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 un	un	DET	_
 seul	seul	ADJ	_
 ventre	ventre	NC	_
@@ -104409,7 +104742,7 @@ il	il	CLS	_
 ne	ne	ADV	_
 se	se	CLO	_
 fixe	fixer	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 à	à	P	_
 un	un	DET	_
 seul	seul	ADJ	_
@@ -104431,11 +104764,11 @@ il	il	CLS	_
 n'	ne	ADV	_
 y	y	CLO	_
 a	avoir	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 un	un	DET	_
 seul	seul	ADJ	_
 muscle	muscle	NC	_
-auquel	auquel	PROREL	_
+auquel	à_lequel	PROREL	_
 la	le	DET	_
 désignation	désignation	NC	_
 de	de	P	_
@@ -104986,7 +105319,7 @@ le	le	DET	_
 plus	plus	ADV	_
 court	court	ADJ	_
 dans	dans	P	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 .	.	PONCT	_
 Le	le	DET	_
 petit	petit	ADJ	_
@@ -105403,7 +105736,7 @@ trois	trois	DET	_
 doigts	doigt	NC	_
 les	il	CLO	_
 ont	avoir	V	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 en	en	P	_
 avant	avant	NC	_
 .	.	PONCT	_
@@ -105435,7 +105768,7 @@ les	le	DET	_
 pétrels	pétrel	NC	_
 et	et	CC	_
 les	le	DET	_
-pingoins	pingoins	NC	_
+pingoins	pingouins	NC	_
 ont	avoir	V	_
 le	le	DET	_
 pouce	pouce	NC	_
@@ -105600,7 +105933,7 @@ extenseurs	extenseur	ADJ	_
 ,	,	PONCT	_
 fléchisseurs	fléchisseur	ADJ	_
 ;	;	PONCT	_
-abducteurs	abducteurs	NC	_
+abducteurs	abducteur	NC	_
 ,	,	PONCT	_
 adducteurs	adducteur	NC	_
 ;	;	PONCT	_
@@ -106760,7 +107093,7 @@ tendons	tendon	NC	_
 s'	se	CLO	_
 insèrent	insérer	V	_
 aux	à_le	P+D	_
-troisièmes	troisièmes	ADJ	_
+troisièmes	troisième	ADJ	_
 phalanges	phalange	NC	_
 .	.	PONCT	_
 Les	le	DET	_
@@ -107147,7 +107480,7 @@ gymnotes	gymnote	NC	_
 les	le	DET	_
 anarrhiques	anarrhique	NC	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 Et	et	CC	_
 dans	dans	P	_
 quelques	quelque	DET	_
@@ -107175,7 +107508,7 @@ ostractions	ostractions	NC	_
 les	le	DET	_
 tétrodons	tétrodon	NC	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 Tantôt	Tantôt	NP	_
 ces	ce	DET	_
 nageoires	nageoire	NC	_
@@ -107185,7 +107518,9 @@ sous	sous	P	_
 la	le	DET	_
 gorge	gorge	NC	_
 ,	,	PONCT	_
-au-dessous	au-dessous	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessous	dessous	ADV	_
 de	de	P	_
 l'	le	DET	_
 ouverture	ouverture	NC	_
@@ -107601,7 +107936,7 @@ ils	il	CLS	_
 sont	être	V	_
 applatis	aplatir	VPP	_
 ,	,	PONCT	_
-alongés	alongés	NP	_
+alongés	allonger	NP	_
 ,	,	PONCT	_
 et	et	CC	_
 leurs	leur	DET	_
@@ -107723,7 +108058,7 @@ sont	être	V	_
 séparés	séparer	VPP	_
 ,	,	PONCT	_
 extrêmement	extrêmement	ADV	_
-alongés	alongés	ADJ	_
+alongés	allonger	ADJ	_
 ,	,	PONCT	_
 et	et	CC	_
 reçoivent	recevoir	V	_
@@ -107789,7 +108124,7 @@ autres	autre	NC	_
 sont	être	V	_
 très	très	ADV	_
 -	-	PONCT	_
-alongés	alongés	NC	_
+alongés	allonger	NC	_
 en	en	P	_
 pointe	pointe	NC	_
 ,	,	PONCT	_
@@ -107901,7 +108236,7 @@ carpes	carpe	NC	_
 ,	,	PONCT	_
 ils	il	CLS	_
 sont	être	V	_
-alongés	alongés	ADJ	_
+alongés	allonger	ADJ	_
 et	et	CC	_
 ne	ne	ADV	_
 se	se	CLO	_
@@ -108344,7 +108679,7 @@ n'	ne	ADV	_
 y	y	CLO	_
 a	avoir	V	_
 ordinairement	ordinairement	ADV	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 un	un	DET	_
 muscle	muscle	NC	_
 destiné	destiner	VPP	_
@@ -108665,7 +109000,9 @@ une	un	DET	_
 espèce	espèce	NC	_
 d'	de	P	_
 entonnoir	entonnoir	NC	_
-au-dessous	au-dessous	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessous	dessous	ADV	_
 des	un	DET	_
 nageoires	nageoire	NC	_
 pectorales	pectoral	ADJ	_
@@ -108680,11 +109017,13 @@ nageoires	nageoire	NC	_
 n'	ne	ADV	_
 en	en	CLO	_
 forment	former	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 une	un	DET	_
 seule	seul	ADJ	_
 placée	placer	VPP	_
-au-devant	au-devant	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+devant	devant	ADV	_
 de	de	P	_
 l'	le	DET	_
 anus	anus	NC	_
@@ -108737,7 +109076,7 @@ est	être	V	_
 garnie	garnir	VPP	_
 d'	de	P	_
 appendices	appendice	NC	_
-alongés	alongés	VPP	_
+alongés	allonger	VPP	_
 sur	sur	P	_
 lesquels	lequel	PROREL	_
 ils	il	CLS	_
@@ -108837,7 +109176,7 @@ diverses	divers	ADJ	_
 .	.	PONCT	_
 Elles	il	CLS	_
 agissent	agir	V	_
-toutes	tous	PRO	_
+toutes	tout	PRO	_
 de	de	P	_
 manière	manière	NC	_
 à	à	P	_
@@ -109066,7 +109405,7 @@ coniques	conique	ADJ	_
 plus	plus	ADV	_
 ou	ou	CC	_
 moins	moins	ADV	_
-alongés	alongés	ADJ	_
+alongés	allonger	ADJ	_
 ,	,	PONCT	_
 disposés	disposer	VPP	_
 en	en	P	_
@@ -109148,7 +109487,9 @@ propres	propre	ADJ	_
 aux	à_le	P+D	_
 ventouses	ventouse	NC	_
 .	.	PONCT	_
-Au-dessous	au-dessous	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessous	dessous	ADV	_
 de	de	P	_
 la	le	DET	_
 peau	peau	NC	_
@@ -109204,10 +109545,12 @@ muscles	muscle	NC	_
 qui	qui	PROREL	_
 sont	être	V	_
 situés	situer	VPP	_
-au-dedans	au-dedans	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dedans	dedans	ADV	_
 ,	,	PONCT	_
 et	et	CC	_
-auxquels	auquel	PROREL	_
+auxquels	à_lequel	PROREL	_
 il	il	CLS	_
 sert	servir	V	_
 comme	comme	P	_
@@ -109239,7 +109582,9 @@ minces	mince	ADJ	_
 couchés	coucher	VPP	_
 l'	le	DET	_
 un	un	NC	_
-au-dessous	au-dessous	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessous	dessous	ADV	_
 de	de	P	_
 l'	le	DET	_
 autre	autre	NC	_
@@ -109371,7 +109716,7 @@ canards	canard	NC	_
 les	le	DET	_
 oies	oie	NC	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 Elle	il	CLS	_
 forme	former	V	_
 un	un	DET	_
@@ -109434,7 +109779,9 @@ vers	vers	P	_
 l'	le	DET	_
 extrémité	extrémité	NC	_
 .	.	PONCT	_
-Au-dessous	au-dessous	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessous	dessous	ADV	_
 de	de	P	_
 ces	ce	DET	_
 trois	trois	ADJ	_
@@ -109895,7 +110242,7 @@ poulpes	poulpe	NC	_
 ce	ce	CLS	_
 n'	ne	ADV	_
 est	être	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 un	un	DET	_
 disque	disque	NC	_
 charnu	charnu	ADJ	_
@@ -109947,7 +110294,7 @@ ne	ne	ADV	_
 portent	porter	V	_
 de	de	P	_
 ventouses	ventouse	NC	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 à	à	P	_
 leur	leur	DET	_
 extrémité	extrémité	NC	_
@@ -110027,7 +110374,8 @@ de	de	P	_
 ces	ce	DET	_
 fonctions	fonction	NC	_
 .	.	PONCT	_
-Quant_aux	quant_à_le	P+D	_
+quant	quant	ADV	_
+aux	à_le	P+D	_
 organes	organe	NC	_
 de	de	P	_
 la	le	DET	_
@@ -110179,7 +110527,9 @@ moyennes	moyen	ADJ	_
 et	et	CC	_
 longitudinales	longitudinal	ADJ	_
 .	.	PONCT	_
-Au-dessous	au-dessous	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessous	dessous	ADV	_
 de	de	P	_
 ces	ce	DET	_
 fibres	fibre	NC	_
@@ -110215,7 +110565,7 @@ le	le	DET	_
 pied	pied	NC	_
 n'	ne	ADV	_
 est	être	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 un	un	DET	_
 sillon	sillon	NC	_
 longitudinal	longitudinal	ADJ	_
@@ -110363,7 +110713,8 @@ il	il	CLS	_
 le	il	CLO	_
 rétrécit	rétrécir	V	_
 ;	;	PONCT	_
-tandis_que	tandis_que	CS	_
+tandis	tandis	ADV	_
+que	que	CS	_
 le	le	DET	_
 supérieur	supérieur	NC	_
 le	il	CLO	_
@@ -110530,7 +110881,7 @@ bulimes	bulime	NC	_
 les	le	DET	_
 bulles	bulle	NC	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 Il	Il	NP	_
 n'	ne	ADV	_
 y	y	CLO	_
@@ -110780,7 +111131,9 @@ entourent	entourer	V	_
 le	le	DET	_
 corps	corps	NC	_
 immédiatement	immédiatement	ADV	_
-au-dessus	au-dessus	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 du	de_le	P+D	_
 pied	pied	NC	_
 .	.	PONCT	_
@@ -110923,7 +111276,8 @@ charnière	charnière	NC	_
 .	.	PONCT	_
 Elles	il	CLS	_
 sont	être	V	_
-en_outre	en_outre	ADV	_
+en	en	P	_
+outre	outre	P	_
 réunies	réunir	VPP	_
 par	par	P	_
 un	un	DET	_
@@ -110976,7 +111330,7 @@ pélérines	pélérines	NC	_
 les	le	DET	_
 arondes	aronde	NC	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 N'	ne	ADV	_
 ont	avoir	V	_
 point	point	ADV	_
@@ -111253,7 +111607,8 @@ des	de_le	P+D	_
 acéphales	acéphale	NC	_
 offrent	offrir	V	_
 ,	,	PONCT	_
-en_outre	en_outre	ADV	_
+en	en	P	_
+outre	outre	P	_
 ,	,	PONCT	_
 beaucoup	beaucoup	PRO	_
 d'	de	P	_
@@ -111327,8 +111682,8 @@ servent	servir	V	_
 de	de	P	_
 charpente	charpente	NC	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
-Cette	Cette	ADJ	_
+etc.	etc	ADV	_
+Cette	ce	ADJ	_
 membrane	membrane	NC	_
 contractile	contractile	ADJ	_
 qui	qui	PROREL	_
@@ -111387,7 +111742,7 @@ huîtres	huître	NC	_
 les	le	DET	_
 moules	moule	NC	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 Tantôt	tantôt	ADV	_
 ,	,	PONCT	_
 comme	comme	P	_
@@ -111413,7 +111768,7 @@ myes	mye	NC	_
 les	le	DET	_
 pholades	pholade	NC	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 ,	,	PONCT	_
 il	il	CLS	_
 est	être	V	_
@@ -111443,7 +111798,7 @@ n'	ne	ADV	_
 a	avoir	V	_
 d'	un	DET	_
 ouverture	ouverture	NC	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 à	à	P	_
 l'	le	DET	_
 une	un	NC	_
@@ -111667,7 +112022,7 @@ les	le	DET	_
 anodontites	anodontites	NC	_
 n'	ne	ADV	_
 ont	avoir	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 une	un	DET	_
 seule	seul	ADJ	_
 de	de	P	_
@@ -111717,7 +112072,7 @@ gros	gros	ADJ	_
 Ils	il	CLS	_
 sont	être	V	_
 plus	plus	ADV	_
-alongés	alongés	ADJ	_
+alongés	allonger	ADJ	_
 encore	encore	ADV	_
 et	et	CC	_
 plus	plus	ADV	_
@@ -111790,7 +112145,7 @@ bord	bord	NC	_
 du	de_le	P+D	_
 manteau	manteau	NC	_
 ,	,	PONCT	_
-sur-tout	sur-tout	ADV	_
+sur-tout	surtout	ADV	_
 vers	vers	P	_
 l'	le	DET	_
 anus	anus	NC	_
@@ -111902,7 +112257,7 @@ n'	ne	ADV	_
 y	y	CLO	_
 en	en	CLO	_
 a	avoir	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 un	un	DET	_
 seul	seul	NC	_
 situé	situé	ADJ	_
@@ -111988,7 +112343,7 @@ mactres	mactre	NC	_
 ,	,	PONCT	_
 bucardes	bucarde	NC	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 Ils	il	CLS	_
 sont	être	V	_
 toujours	toujours	ADV	_
@@ -112015,7 +112370,8 @@ est	être	V	_
 la	le	DET	_
 charnière	charnière	NC	_
 ,	,	PONCT	_
-afin_qu'	afin_que	CS	_
+afin	afin	ADV	_
+qu'	que	CS	_
 un	un	DET	_
 très	très	ADV	_
 -	-	PONCT	_
@@ -112164,7 +112520,9 @@ Linné	Linné	NP	_
 Il	il	CLS	_
 est	être	V	_
 placé	placer	VPP	_
-au-devant	au-devant	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+devant	devant	ADV	_
 du	de_le	P+D	_
 corps	corps	NC	_
 ,	,	PONCT	_
@@ -112431,7 +112789,7 @@ le	le	DET	_
 mieux	mieux	NC	_
 organisé	organiser	VPP	_
 de	de	P	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 .	.	PONCT	_
 Il	il	CLS	_
 ressemble	ressembler	V	_
@@ -112506,7 +112864,7 @@ creux	creux	NC	_
 des	de_le	P+D	_
 nates	nates	NC	_
 .	.	PONCT	_
-Tous	tous	PRO	_
+Tous	tout	PRO	_
 entrent	entrer	V	_
 dans	dans	P	_
 le	le	DET	_
@@ -112545,7 +112903,7 @@ est	être	V	_
 enveloppée	envelopper	VPP	_
 d'	de	P	_
 une	un	DET	_
-gaîne	gaîne	NC	_
+gaîne	gaine	NC	_
 formée	former	VPP	_
 de	de	P	_
 fibres	fibre	NC	_
@@ -112707,13 +113065,13 @@ ne	ne	ADV	_
 les	il	CLO	_
 ferons	faire	V	_
 connoître	connaître	VINF	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 en	en	P	_
 traitant	traiter	VPR	_
 des	de_le	P+D	_
 divers	divers	ADJ	_
 organes	organe	NC	_
-auxquels	auquel	PROREL	_
+auxquels	à_lequel	PROREL	_
 ils	il	CLS	_
 appartiennent	appartenir	V	_
 .	.	PONCT	_
@@ -113527,7 +113885,9 @@ intestinal	intestinal	ADJ	_
 ;	;	PONCT	_
 ensuite	ensuite	ADV	_
 vue	voir	VPP	_
-par-dessous	par-dessous	P	_
+par	par	S	_
+-	-	PONCT	_
+dessous	dessous	ADV	_
 ,	,	PONCT	_
 c'est-à-dire	c'est-à-dire	CC	_
 ,	,	PONCT	_
@@ -113564,7 +113924,8 @@ ligne	ligne	NC	_
 moyenne	moyen	ADJ	_
 longitudinale	longitudinal	ADJ	_
 ,	,	PONCT	_
-afin_d'	afin_de	P	_
+afin	afin	ADV	_
+d'	de	P	_
 en	en	CLO	_
 appercevoir	apercevoir	VINF	_
 la	le	DET	_
@@ -113591,7 +113952,9 @@ intérieur	intérieur	NC	_
 du	de_le	P+D	_
 thorax	thorax	NC	_
 ,	,	PONCT	_
-au-dessus	au-dessus	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 de	de	P	_
 la	le	DET	_
 partie	partie	NC	_
@@ -113704,7 +114067,9 @@ la	le	DET	_
 queue	queue	NC	_
 ,	,	PONCT	_
 vu	voir	VPP	_
-par-dessous	par-dessous	P	_
+par	par	S	_
+-	-	PONCT	_
+dessous	dessous	ADV	_
 ,	,	PONCT	_
 présente	présenter	V	_
 trois	trois	DET	_
@@ -113997,7 +114362,7 @@ nageoires	nageoire	NC	_
 de	de	P	_
 branchies	branchie	NC	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 Elles	il	CLS	_
 varient	varier	V	_
 beaucoup	beaucoup	ADV	_
@@ -114009,7 +114374,7 @@ dans	dans	P	_
 les	le	DET	_
 crabes	crabe	NC	_
 ,	,	PONCT	_
-sur-tout	sur-tout	ADV	_
+sur-tout	surtout	ADV	_
 la	le	DET	_
 première	premier	ADJ	_
 paire	paire	NC	_
@@ -114132,7 +114497,7 @@ applatie	aplatir	VPP	_
 courte	court	ADJ	_
 ,	,	PONCT	_
 presque	presque	ADV	_
-quarrée	quarrer	VPP	_
+quarrée	carré	ADJ	_
 ,	,	PONCT	_
 lisse	lisse	ADJ	_
 et	et	CC	_
@@ -114248,7 +114613,7 @@ un	un	DET	_
 peu	peu	NC	_
 applatie	aplatir	VPP	_
 ,	,	PONCT	_
-sur-tout	sur-tout	ADV	_
+sur-tout	surtout	ADV	_
 à	à	P	_
 son	son	DET	_
 extrémité	extrémité	NC	_
@@ -114340,7 +114705,7 @@ la	le	DET	_
 plus	plus	ADV	_
 grosse	gros	ADJ	_
 de	de	P	_
-toutes	tous	PRO	_
+toutes	tout	PRO	_
 .	.	PONCT	_
 Elle	il	CLS	_
 se	se	CLO	_
@@ -114447,7 +114812,8 @@ seul	seul	ADJ	_
 ongle	ongle	NC	_
 mobile	mobile	ADJ	_
 .	.	PONCT	_
-Quant_au	quant_à_le	P+D	_
+Quant	quant	ADV	_
+au	à_le	P+D	_
 reste	reste	NC	_
 ,	,	PONCT	_
 elles	il	CLS	_
@@ -115109,7 +115475,7 @@ stratyomes	stratyomes	NC	_
 ,	,	PONCT	_
 syrphes	syrphe	NC	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 Le	le	DET	_
 corps	corps	NC	_
 des	de_le	P+D	_
@@ -115235,7 +115601,7 @@ leptures	lepture	NC	_
 les	le	DET	_
 rhagies	rhagie	NC	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 )	)	PONCT	_
 ont	avoir	V	_
 les	le	DET	_
@@ -115334,7 +115700,8 @@ d'	de	P	_
 hyménoptères	hyménoptère	NC	_
 ont	avoir	V	_
 ,	,	PONCT	_
-en_outre	en_outre	ADV	_
+en	en	P	_
+outre	outre	P	_
 des	de_le	P+D	_
 six	six	ADJ	_
 pattes	patte	NC	_
@@ -115422,7 +115789,8 @@ l'	le	DET	_
 insecte	insecte	NC	_
 parfait	parfait	ADJ	_
 ,	,	PONCT	_
-quant_aux	quant_à_le	P+D	_
+quant	quant	ADV	_
+aux	à_le	P+D	_
 pieds	pied	NC	_
 .	.	PONCT	_
 Après	après	P	_
@@ -115462,7 +115830,7 @@ la	le	DET	_
 larve	larve	NC	_
 d'	de	P	_
 un	un	DET	_
-scarabé	scarabé	NC	_
+scarabé	scarabée	NC	_
 ,	,	PONCT	_
 qui	qui	PROREL	_
 vit	vivre	V	_
@@ -115776,7 +116144,7 @@ ne	ne	ADV	_
 semblent	sembler	V	_
 plus	plus	ADV	_
 former	former	VINF	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 une	un	DET	_
 seule	seul	ADJ	_
 masse	masse	NC	_
@@ -116287,9 +116655,13 @@ c'est-à-dire	c'est-à-dire	CC	_
 qui	qui	PROREL	_
 sont	être	V	_
 situés	situer	VPP	_
-au-dessous	au-dessous	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessous	dessous	ADV	_
 et	et	CC	_
-au-dessus	au-dessus	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 des	de_le	P+D	_
 stigmates	stigmate	NC	_
 ou	ou	CC	_
@@ -116331,16 +116703,20 @@ chacun	chacun	PRO	_
 des	de_le	P+D	_
 anneaux	anneau	NC	_
 ,	,	PONCT	_
-au-dessus	au-dessus	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 des	de_le	P+D	_
 stigmates	stigmate	NC	_
 .	.	PONCT	_
 Ils	il	CLS	_
 sont	être	V	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 situés	situer	VPP	_
 longitudinalement	longitudinalement	ADV	_
-au-dessus	au-dessus	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 les	le	DET	_
 uns	un	NC	_
 des	de_le	P+D	_
@@ -116857,7 +117233,9 @@ s'	se	CLO	_
 insèrent	insérer	V	_
 ,	,	PONCT	_
 jusqu'	jusque	P	_
-au-delà	au-delà	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+delà	delà	ADV	_
 du	de_le	P+D	_
 stigmate	stigmate	NC	_
 du	de_le	P+D	_
@@ -116885,7 +117263,9 @@ de	de	P	_
 ces	ce	DET	_
 musclesest	musclesest	NC	_
 situé	situer	VPP	_
-au-devant	au-devant	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+devant	devant	ADV	_
 de	de	P	_
 l'	le	DET	_
 autre	autre	NC	_
@@ -116941,7 +117321,8 @@ par	par	P	_
 leurs	leur	DET	_
 contractions	contraction	NC	_
 .	.	PONCT	_
-Quant_aux	quant_à_le	P+D	_
+quant	quant	ADV	_
+aux	à_le	P+D	_
 muscles	muscle	NC	_
 de	de	P	_
 la	le	DET	_
@@ -117116,14 +117497,14 @@ la	le	DET	_
 larve	larve	NC	_
 d'	de	P	_
 un	un	DET	_
-scarabé	scarabé	NC	_
+scarabé	scarabée	NC	_
 .	.	PONCT	_
 le	le	DET	_
 corps	corps	NC	_
 des	de_le	P+D	_
 larves	larve	NC	_
 des	de_le	P+D	_
-scarabés	scarabés	NC	_
+scarabés	scarabée	NC	_
 est	être	V	_
 arqué	arquer	VPP	_
 ,	,	PONCT	_
@@ -117158,7 +117539,9 @@ membraneux	membraneux	ADJ	_
 plissé	plisser	VPP	_
 ,	,	PONCT	_
 situé	situer	VPP	_
-au-dessous	au-dessous	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessous	dessous	ADV	_
 des	un	DET	_
 stigmates	stigmate	NC	_
 .	.	PONCT	_
@@ -117401,7 +117784,7 @@ on	on	CLS	_
 n'	ne	ADV	_
 apperçoit	apercevoir	V	_
 plus	plus	ADV	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 une	un	DET	_
 série	série	NC	_
 de	de	P	_
@@ -117445,7 +117828,9 @@ dos	dos	NC	_
 ,	,	PONCT	_
 on	on	CLS	_
 rencontre	rencontrer	V	_
-au-dessous	au-dessous	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessous	dessous	ADV	_
 des	un	DET	_
 fibres	fibre	NC	_
 toutes	tout	ADV	_
@@ -117473,7 +117858,9 @@ musculaires	musculaire	ADJ	_
 très	très	ADV	_
 -	-	PONCT	_
 courtes	court	ADJ	_
-au-dessus	au-dessus	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 du	de_le	P+D	_
 plein	plein	NC	_
 que	que	PROREL	_
@@ -117897,7 +118284,9 @@ les	le	DET	_
 muscles	muscle	NC	_
 ventraux	ventral	ADJ	_
 ,	,	PONCT	_
-au-dessus	au-dessus	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 de	de	P	_
 l'	le	DET	_
 union	union	NC	_
@@ -118180,7 +118569,7 @@ entièrement	entièrement	ADV	_
 recouverte	recouvrir	VPP	_
 par	par	P	_
 la	le	DET	_
-précédente	précédente	NC	_
+précédente	précédent	NC	_
 .	.	PONCT	_
 Elle	il	CLS	_
 est	être	V	_
@@ -118212,7 +118601,7 @@ muscles	muscle	NC	_
 du	de_le	P+D	_
 dos	dos	NC	_
 sont	être	V	_
-alongés	alongés	VPP	_
+alongés	allonger	VPP	_
 ,	,	PONCT	_
 étendus	étendre	VPP	_
 de	de	P	_
@@ -118278,7 +118667,9 @@ anneau	anneau	NC	_
 qui	qui	PROREL	_
 suit	suivre	V	_
 .	.	PONCT	_
-Au-dessous	au-dessous	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessous	dessous	ADV	_
 de	de	P	_
 ces	ce	DET	_
 muscles	muscle	NC	_
@@ -118356,9 +118747,11 @@ sur	sur	P	_
 le	le	DET	_
 côté	côté	NC	_
 .	.	PONCT	_
-Au-dessous	au-dessous	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessous	dessous	ADV	_
 des	de_le	P+D	_
-transverses	transverses	NC	_
+transverses	transverse	NC	_
 latéraux	latéral	ADJ	_
 ,	,	PONCT	_
 il	il	CLS	_
@@ -118460,12 +118853,14 @@ La	le	DET	_
 première	premier	ADJ	_
 paire	paire	NC	_
 des	de_le	P+D	_
-transverses	transverses	NC	_
+transverses	transverse	NC	_
 latéraux	latéral	ADJ	_
 ,	,	PONCT	_
 s'	se	CLO	_
 attachant	attacher	VPR	_
-au-dessous	au-dessous	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessous	dessous	ADV	_
 de	de	P	_
 la	le	DET	_
 tête	tête	NC	_
@@ -118516,7 +118911,7 @@ que	que	CS	_
 dans	dans	P	_
 celles	celui	PRO	_
 des	de_le	P+D	_
-scarabés	scarabés	NC	_
+scarabés	scarabée	NC	_
 :	:	PONCT	_
 mais	mais	CC	_
 comme	comme	CS	_
@@ -118594,7 +118989,7 @@ avons	avoir	V	_
 décrits	décrire	VPP	_
 dans	dans	P	_
 le	le	DET	_
-scarabé	scarabé	NC	_
+scarabé	scarabée	NC	_
 ,	,	PONCT	_
 sont	être	V	_
 destinés	destiner	VPP	_
@@ -118920,7 +119315,7 @@ mittes	mite	NC	_
 ,	,	PONCT	_
 puces	puce	NC	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 Ont	avoir	V	_
 le	le	DET	_
 corselet	corselet	NC	_
@@ -119120,7 +119515,7 @@ on	on	CLS	_
 observe	observer	V	_
 dans	dans	P	_
 les	le	DET	_
-scarabés	scarabés	NC	_
+scarabés	scarabée	NC	_
 ,	,	PONCT	_
 les	le	DET	_
 lucanes	lucane	NC	_
@@ -119212,7 +119607,7 @@ brentes	brentes	NC	_
 les	le	DET	_
 réduves	réduve	NC	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 L'	le	DET	_
 axe	axe	NC	_
 du	de_le	P+D	_
@@ -119323,7 +119718,7 @@ asiles	asile	NC	_
 les	le	DET	_
 stratyomes	stratyomes	NC	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 La	le	DET	_
 disposition	disposition	NC	_
 de	de	P	_
@@ -119446,7 +119841,8 @@ vers	vers	P	_
 le	le	DET	_
 dos	dos	NC	_
 ,	,	PONCT	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 elle	il	CLS	_
 est	être	V	_
 là	là	ADV	_
@@ -119546,7 +119942,9 @@ abaisseurs	abaisseurs	NC	_
 inférieurement	inférieurement	ADV	_
 .	.	PONCT	_
 Immédiatement	immédiatement	ADV	_
-au-dessous	au-dessous	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessous	dessous	ADV	_
 de	de	P	_
 la	le	DET	_
 partie	partie	NC	_
@@ -119777,7 +120175,7 @@ coléoptères	coléoptère	NC	_
 est	être	V	_
 de	de	P	_
 figure	figure	NC	_
-quarrée	quarrer	VPP	_
+quarrée	carré	ADJ	_
 ,	,	PONCT	_
 avec	avec	P	_
 les	le	DET	_
@@ -120394,7 +120792,7 @@ urocères	urocère	NC	_
 les	le	DET	_
 scorpions	scorpion	NC	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 Tantôt	tantôt	ADV	_
 il	il	CLS	_
 est	être	V	_
@@ -120435,7 +120833,7 @@ diptères	diptères	NC	_
 les	le	DET	_
 araignées	araignée	NC	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 Quelquefois	quelquefois	ADV	_
 l'	le	DET	_
 abdomen	abdomen	NC	_
@@ -120459,10 +120857,10 @@ poils	poil	NC	_
 ,	,	PONCT	_
 des	un	DET	_
 fils	fils	NC	_
-alongés	alongés	ADJ	_
+alongés	allonger	ADJ	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
-Mais	Mais	ADJ	_
+etc.	etc	ADV	_
+Mais	mais	ADJ	_
 ces	ce	DET	_
 conformations	conformation	NC	_
 sont	être	V	_
@@ -120593,7 +120991,8 @@ de	de	P	_
 son	son	DET	_
 mouvement	mouvement	NC	_
 .	.	PONCT	_
-Quant_aux	quant_à_le	P+D	_
+quant	quant	ADV	_
+aux	à_le	P+D	_
 insectes	insecte	NC	_
 dont	dont	PROREL	_
 l'	le	DET	_
@@ -120768,7 +121167,8 @@ très	très	ADV	_
 -	-	PONCT	_
 borné	borner	VPP	_
 ;	;	PONCT	_
-tandis_que	tandis_que	CS	_
+tandis	tandis	ADV	_
+que	que	CS	_
 dans	dans	P	_
 les	le	DET	_
 hyménoptères	hyménoptère	NC	_
@@ -120803,7 +121203,9 @@ il	il	CLS	_
 ne	ne	ADV	_
 paroît	paraître	V	_
 souvent	souvent	ADV	_
-au-dehors	au-dehors	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dehors	dehors	ADV	_
 que	que	CS	_
 le	le	DET	_
 tiers	tiers	NC	_
@@ -121155,7 +121557,8 @@ autre	autre	NC	_
 par	par	P	_
 ginglyme	ginglyme	NC	_
 ,	,	PONCT	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 la	le	DET	_
 substance	substance	NC	_
 dure	dur	ADJ	_
@@ -121249,12 +121652,12 @@ varie	varier	V	_
 Chez	chez	P	_
 les	le	DET	_
 insectes	insecte	NC	_
-auxquels	auquel	PROREL	_
+auxquels	à_lequel	PROREL	_
 les	le	DET	_
 pattes	patte	NC	_
 ne	ne	ADV	_
 servent	servir	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 à	à	P	_
 la	le	DET	_
 marche	marche	NC	_
@@ -121276,7 +121679,7 @@ hyménoptères	hyménoptère	NC	_
 des	un	DET	_
 diptères	diptères	NC	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 Les	le	DET	_
 hanches	hanche	NC	_
 sont	être	V	_
@@ -121312,7 +121715,7 @@ fouir	fouir	VINF	_
 la	le	DET	_
 terre	terre	NC	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 La	le	DET	_
 hanche	hanche	NC	_
 est	être	V	_
@@ -121461,7 +121864,7 @@ carabes	carabe	NC	_
 les	le	DET	_
 cicindèles	cicindèle	NC	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 Il	il	CLS	_
 y	y	CLO	_
 a	avoir	V	_
@@ -121528,7 +121931,7 @@ charansons	charansons	NC	_
 les	le	DET	_
 puces	puce	NC	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 Dans	dans	P	_
 ceux	celui	PRO	_
 qui	qui	PROREL	_
@@ -121574,7 +121977,7 @@ les	le	DET	_
 pattes	patte	NC	_
 antérieures	antérieur	ADJ	_
 des	de_le	P+D	_
-scarabés	scarabés	NC	_
+scarabés	scarabée	NC	_
 ,	,	PONCT	_
 des	un	DET	_
 scarites	scarite	NC	_
@@ -121582,7 +121985,7 @@ scarites	scarite	NC	_
 des	un	DET	_
 taupes-grillons	taupe-grillon	NC	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 Enfin	enfin	ADV	_
 la	le	DET	_
 forme	forme	NC	_
@@ -121633,7 +122036,7 @@ dépend	dépendre	V	_
 essentiellement	essentiellement	ADV	_
 des	un	DET	_
 usages	usage	NC	_
-auxquels	auquel	PROREL	_
+auxquels	à_lequel	PROREL	_
 il	il	CLS	_
 est	être	V	_
 destiné	destiner	VPP	_
@@ -121832,7 +122235,7 @@ surface	surface	NC	_
 ,	,	PONCT	_
 comme	comme	P	_
 les	le	DET	_
-scarabés	scarabés	NC	_
+scarabés	scarabée	NC	_
 ,	,	PONCT	_
 les	le	DET	_
 escarbots	escarbot	NC	_
@@ -121846,7 +122249,7 @@ scarites	scarite	NC	_
 les	le	DET	_
 sphex	sphex	NC	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 Ils	il	NP	_
 sont	être	V	_
 applatis	aplatir	VPP	_
@@ -121879,7 +122282,7 @@ naucores	naucore	NC	_
 ,	,	PONCT	_
 corises	corise	NC	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 Ils	il	CLS	_
 sont	être	V	_
 garnis	garnir	VPP	_
@@ -121922,7 +122325,7 @@ capricornes	capricorne	NC	_
 les	le	DET	_
 thrips	thrips	NC	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 Il	il	CLS	_
 sont	être	V	_
 formés	former	VPP	_
@@ -122002,7 +122405,7 @@ mélolonthes	mélolonthes	NC	_
 les	le	DET	_
 népes	népes	NC	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 ;	;	PONCT	_
 par	par	P	_
 deux	deux	DET	_
@@ -122203,9 +122606,10 @@ cicindèles	cicindèle	NC	_
 les	le	DET	_
 carabes	carabe	NC	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 ;	;	PONCT	_
-tandis_que	tandis_que	CS	_
+tandis	tandis	ADV	_
+que	que	CS	_
 ceux	celui	PRO	_
 qui	qui	PROREL	_
 ont	avoir	V	_
@@ -122231,8 +122635,8 @@ les	le	DET	_
 gallinsectes	gallinsecte	NC	_
 femelles	femelle	ADJ	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
-Lorsque	Lorsque	NP	_
+etc.	etc	ADV	_
+Lorsque	lorsque	NP	_
 les	le	DET	_
 pattes	patte	NC	_
 antérieures	antérieur	ADJ	_
@@ -122268,7 +122672,7 @@ dans	dans	P	_
 quelques	quelque	DET	_
 espèces	espèce	NC	_
 de	de	P	_
-scarabés	scarabés	NC	_
+scarabés	scarabée	NC	_
 ,	,	PONCT	_
 de	de	P	_
 capricornes	capricorne	NC	_
@@ -122276,7 +122680,7 @@ capricornes	capricorne	NC	_
 de	de	P	_
 clytres	clytre	NC	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 Aussi	aussi	ADV	_
 ces	ce	DET	_
 sortes	sorte	NC	_
@@ -122338,7 +122742,7 @@ grillons	grillon	NC	_
 les	le	DET	_
 puces	puce	NC	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 Cependant	cependant	ADV	_
 il	il	CLS	_
 est	être	V	_
@@ -122429,7 +122833,7 @@ leucopses	leucopses	NC	_
 les	le	DET	_
 chalcides	chalcide	NC	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 Mais	mais	CC	_
 tous	tout	ADJ	_
 ces	ce	DET	_
@@ -122671,7 +123075,9 @@ la	le	DET	_
 poitrine	poitrine	NC	_
 qui	qui	PROREL	_
 est	être	V	_
-au-dessus	au-dessus	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 ;	;	PONCT	_
 et	et	CC	_
 ,	,	PONCT	_
@@ -122692,7 +123098,9 @@ par	par	P	_
 tranches	tranche	NC	_
 verticales	vertical	ADJ	_
 .	.	PONCT	_
-Au-dessus	au-dessus	ADV	_
+Au	à_le	P+D	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 de	de	P	_
 la	le	DET	_
 dernière	dernier	ADJ	_
@@ -122815,7 +123223,8 @@ de	de	P	_
 la	le	DET	_
 hanche	hanche	NC	_
 .	.	PONCT	_
-Quant_aux	quant_à_le	P+D	_
+quant	quant	ADV	_
+aux	à_le	P+D	_
 deux	deux	ADJ	_
 paires	paire	NC	_
 de	de	P	_
@@ -123283,7 +123692,9 @@ Il	il	CLS	_
 y	y	CLO	_
 a	avoir	V	_
 toujours	toujours	ADV	_
-au-dessous	au-dessous	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessous	dessous	ADV	_
 de	de	P	_
 l'	le	DET	_
 aile	aile	NC	_
@@ -123328,7 +123739,8 @@ partie	partie	NC	_
 le	le	DET	_
 balancier	balancier	NC	_
 ,	,	PONCT	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 on	on	CLS	_
 suppose	supposer	V	_
 qu'	que	CS	_
@@ -123396,7 +123808,8 @@ balancier	balancier	NC	_
 Il	il	CLS	_
 y	y	CLO	_
 a	avoir	V	_
-en_outre	en_outre	ADV	_
+en	en	P	_
+outre	outre	P	_
 ,	,	PONCT	_
 dans	dans	P	_
 les	le	DET	_
@@ -123704,7 +124117,7 @@ dans	dans	P	_
 leur	leur	DET	_
 longueur	longueur	NC	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 Ici	Ici	NP	_
 se	se	CLO	_
 termine	terminer	V	_
@@ -123795,7 +124208,7 @@ néréïdes	néréïdes	NC	_
 les	le	DET	_
 lombrics	lombric	NC	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 Deux	deux	DET	_
 ordres	ordre	NC	_
 de	de	P	_
@@ -123852,7 +124265,9 @@ On	on	CLS	_
 les	il	CLO	_
 trouve	trouver	V	_
 immédiatement	immédiatement	ADV	_
-au-dessous	au-dessous	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessous	dessous	ADV	_
 de	de	P	_
 la	le	DET	_
 peau	peau	NC	_
@@ -124046,7 +124461,7 @@ on	on	CLS	_
 les	il	CLO	_
 décrivoit	décrire	V	_
 pour	pour	P	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 .	.	PONCT	_
 Les	le	DET	_
 soies	soie	NC	_
@@ -124060,7 +124475,7 @@ les	le	DET	_
 les	le	DET	_
 tubercules	tubercule	NC	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 Qui	qui	PROWH	_
 font	faire	V	_
 plus	plus	ADV	_
@@ -124186,7 +124601,9 @@ elles	il	CLS	_
 tirent	tirer	V	_
 les	le	DET	_
 poils	poil	NC	_
-au-dehors	au-dehors	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dehors	dehors	ADV	_
 et	et	CC	_
 dans	dans	P	_
 le	le	DET	_
@@ -124328,7 +124745,9 @@ contractent	contracter	V	_
 ,	,	PONCT	_
 ils	il	CLS	_
 poussent	pousser	V	_
-au-dehors	au-dehors	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dehors	dehors	ADV	_
 le	le	DET	_
 rétracteur	rétracteur	NC	_
 ,	,	PONCT	_
@@ -124773,7 +125192,7 @@ vers	ver	NC	_
 qui	qui	PROREL	_
 ne	ne	ADV	_
 marchent	marcher	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 en	en	P	_
 s'	se	CLO	_
 appliquant	appliquer	VPR	_
@@ -124864,7 +125283,7 @@ les	le	DET	_
 les	le	DET	_
 uncinaires	uncinaires	NC	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 Etc.	etc.	ADV	_
 La	le	DET	_
 disposition	disposition	NC	_
@@ -125106,7 +125525,9 @@ la	le	DET	_
 seule	seul	ADJ	_
 qui	qui	PROREL	_
 paroisse	paroisse	V	_
-au-dehors	au-dehors	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dehors	dehors	ADV	_
 de	de	P	_
 l'	le	DET	_
 animal	animal	NC	_
@@ -125591,7 +126012,7 @@ reconnoît	reconnaître	V	_
 dans	dans	P	_
 leur	leur	DET	_
 articulation	articulation	NC	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 une	un	DET	_
 substance	substance	NC	_
 ligamenteuse	ligamenteux	ADJ	_
@@ -125645,7 +126066,8 @@ ont	avoir	V	_
 nommées	nommer	VPP	_
 ambulacres	ambulacre	NC	_
 ,	,	PONCT	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 ils	il	CLS	_
 les	il	CLO	_
 ont	avoir	V	_
@@ -125772,7 +126194,7 @@ alongées	allonger	VPP	_
 en	en	P	_
 cylindre	cylindre	NC	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 Etc.	etc.	ADV	_
 Dans	dans	P	_
 les	le	DET	_
@@ -125896,7 +126318,7 @@ mouvement	mouvement	NC	_
 .	.	PONCT	_
 Nous	nous	CLS	_
 avons	avoir	V	_
-sur-tout	sur-tout	VPP	_
+sur-tout	surtout	VPP	_
 appuyé	appuyer	VPP	_
 sur	sur	P	_
 les	le	DET	_
@@ -126302,7 +126724,7 @@ se	se	CLO	_
 représenter	représenter	VINF	_
 l'	le	DET	_
 extension	extension	NC	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 ils	il	CLS	_
 produisent	produire	V	_
 comme	comme	P	_
@@ -126498,7 +126920,8 @@ nécessaire	nécessaire	ADJ	_
 .	.	PONCT	_
 D'	de	P	_
 abord	abord	NC	_
-quant_à	quant_à	P	_
+quant	quant	ADV	_
+à	à	P	_
 la	le	DET	_
 ligne	ligne	NC	_
 de	de	P	_
@@ -126686,7 +127109,8 @@ du	de_le	P+D	_
 calcanéum	calcanéum	NC	_
 relevé	relever	VPP	_
 ,	,	PONCT	_
-tandis_que	tandis_que	CS	_
+tandis	tandis	ADV	_
+que	que	CS	_
 dans	dans	P	_
 l'	le	DET	_
 homme	homme	NC	_
@@ -127365,7 +127789,9 @@ placée	placer	VPP	_
 au	à_le	P+D	_
 bas	bas	NC	_
 et	et	CC	_
-au-devant	au-devant	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+devant	devant	ADV	_
 du	de_le	P+D	_
 fémur	fémur	NC	_
 ,	,	PONCT	_
@@ -127798,7 +128224,8 @@ soulever	soulever	VINF	_
 sa	son	DET	_
 tête	tête	NC	_
 ,	,	PONCT	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 elle	il	CLS	_
 est	être	V	_
 très	très	ADV	_
@@ -127912,7 +128339,7 @@ tellement	tellement	ADV	_
 de	de	P	_
 sang	sang	NC	_
 ,	,	PONCT	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 ils	il	CLS	_
 sont	être	V	_
 obligés	obliger	VPP	_
@@ -127961,7 +128388,7 @@ ne	ne	ADV	_
 soit	être	V	_
 point	point	ADV	_
 trop	trop	ADV	_
-abaissée	abaissée	ADJ	_
+abaissée	abaissé	ADJ	_
 ,	,	PONCT	_
 s'	se	CLO	_
 assoient	asseoir	V	_
@@ -128021,7 +128448,7 @@ les	le	DET	_
 les	le	DET	_
 sarigues	sarigue	NC	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 Autrement	autrement	ADV	_
 sa	son	DET	_
 pesanteur	pesanteur	NC	_
@@ -128052,7 +128479,7 @@ chiens	chien	NC	_
 les	le	DET	_
 chats	chat	NC	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 Quelques	Quelques	ADJ	_
 quadrupèdes	quadrupède	NC	_
 s'	se	CLO	_
@@ -128095,7 +128522,7 @@ on	on	CLS	_
 voit	voir	V	_
 dans	dans	P	_
 les	le	DET	_
-kanguroos	kanguroos	NC	_
+kanguroos	kangourou	NC	_
 et	et	CC	_
 les	le	DET	_
 gerboises	gerboise	NC	_
@@ -128416,7 +128843,8 @@ aile	aile	NC	_
 pour	pour	P	_
 dormir	dormir	VINF	_
 ,	,	PONCT	_
-afin_qu'	afin_que	CS	_
+afin	afin	ADV	_
+qu'	que	CS	_
 elle	il	CLS	_
 charge	charger	V	_
 d'	de	P	_
@@ -128425,13 +128853,15 @@ le	le	DET	_
 point	point	NC	_
 qui	qui	PROREL	_
 répond	répondre	V	_
-au-dessus	au-dessus	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 des	de_le	P+D	_
 pieds	pied	NC	_
 .	.	PONCT	_
 Nous	nous	CLS	_
 avons	avoir	V	_
-déja	déja	VPP	_
+déja	déjà	VPP	_
 vu	voir	VPP	_
 ,	,	PONCT	_
 au	à_le	P+D	_
@@ -128813,7 +129243,7 @@ beaucoup	beaucoup	ADV	_
 plus	plus	ADV	_
 puissans	puissant	ADJ	_
 ,	,	PONCT	_
-sur-tout	sur-tout	ADJ	_
+sur-tout	surtout	ADJ	_
 ceux	celui	PRO	_
 du	de_le	P+D	_
 coude	coude	NC	_
@@ -128831,7 +129261,7 @@ L'	le	DET	_
 omoplate	omoplate	NC	_
 est	être	V	_
 fortement	fortement	ADV	_
-abaissée	abaissée	ADJ	_
+abaissée	abaissé	ADJ	_
 ,	,	PONCT	_
 et	et	CC	_
 par	par	P	_
@@ -129044,7 +129474,7 @@ du	de_le	P+D	_
 bas-ventre	bas-ventre	NC	_
 ,	,	PONCT	_
 et	et	CC	_
-sur-tout	sur-tout	ADV	_
+sur-tout	surtout	ADV	_
 les	le	DET	_
 muscles	muscle	NC	_
 droits	droit	ADJ	_
@@ -129100,7 +129530,7 @@ de	de	P	_
 l'	le	DET	_
 abdomen	abdomen	NC	_
 contribuent	contribuer	V	_
-sur-tout	sur-tout	ADV	_
+sur-tout	surtout	ADV	_
 avec	avec	P	_
 force	force	NC	_
 à	à	P	_
@@ -129659,7 +130089,9 @@ soit	être	V	_
 jamais	jamais	ADV	_
 entièrement	entièrement	ADV	_
 suspendu	suspendre	VPP	_
-au-dessus	au-dessus	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 du	de_le	P+D	_
 sol	sol	NC	_
 .	.	PONCT	_
@@ -129756,7 +130188,8 @@ assez	assez	ADV	_
 de	de	P	_
 facilité	facilité	NC	_
 ,	,	PONCT	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 en	en	P	_
 général	général	NC	_
 la	le	DET	_
@@ -129782,7 +130215,8 @@ aussi	aussi	ADV	_
 constante	constant	ADJ	_
 ;	;	PONCT	_
 et	et	CC	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 il	il	CLS	_
 est	être	V	_
 plus	plus	ADV	_
@@ -129823,7 +130257,7 @@ veut	vouloir	V	_
 marcher	marcher	VINF	_
 sur	sur	P	_
 un	un	DET	_
-terrein	terrein	NC	_
+terrein	terrain	NC	_
 uni	uni	ADJ	_
 ,	,	PONCT	_
 il	il	CLS	_
@@ -130239,7 +130673,8 @@ en	en	P	_
 sens	sens	NC	_
 contraire	contraire	ADJ	_
 ,	,	PONCT	_
-afin_que	afin_que	CS	_
+afin	afin	ADV	_
+que	que	CS	_
 ,	,	PONCT	_
 dans	dans	P	_
 leur	leur	DET	_
@@ -130251,7 +130686,9 @@ se	se	CLO	_
 trouve	trouver	V	_
 élevé	élever	VPP	_
 immédiatement	immédiatement	ADV	_
-au-dessus	au-dessus	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 de	de	P	_
 la	le	DET	_
 place	place	NC	_
@@ -130456,7 +130893,7 @@ la	le	DET	_
 marche	marche	NC	_
 sur	sur	P	_
 un	un	DET	_
-terrein	terrein	NC	_
+terrein	terrain	NC	_
 plat	plat	ADJ	_
 ,	,	PONCT	_
 mais	mais	CC	_
@@ -130516,7 +130953,8 @@ corps	corps	NC	_
 en	en	P	_
 avant	avant	NC	_
 ,	,	PONCT	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 on	on	CLS	_
 raccourcit	raccourcir	V	_
 d'	de	P	_
@@ -130555,7 +130993,8 @@ action	action	NC	_
 de	de	P	_
 monter	monter	VINF	_
 ,	,	PONCT	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 les	le	DET	_
 jambes	jambe	NC	_
 s'	se	CLO	_
@@ -130723,9 +131162,9 @@ par	par	P	_
 ce	ce	DET	_
 mouvement	mouvement	NC	_
 ,	,	PONCT	_
-auquel	auquel	PROREL	_
+auquel	à_lequel	PROREL	_
 contribuent	contribuer	V	_
-sur-tout	sur-tout	ADV	_
+sur-tout	surtout	ADV	_
 les	le	DET	_
 extenseurs	extenseur	NC	_
 du	de_le	P+D	_
@@ -130831,7 +131270,9 @@ entier	entier	NC	_
 pendant	pendant	P	_
 un	un	DET	_
 instant	instant	NC	_
-au-dessus	au-dessus	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 du	de_le	P+D	_
 sol	sol	NC	_
 ;	;	PONCT	_
@@ -131156,7 +131597,7 @@ et	et	CC	_
 ce	ce	CLS	_
 n'	ne	ADV	_
 est	être	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 au	à_le	P+D	_
 moment	moment	NC	_
 où	où	PROREL	_
@@ -131199,7 +131640,7 @@ trop	trop	ADV	_
 disproportionnés	disproportionner	VPP	_
 ,	,	PONCT	_
 et	et	CC	_
-sur-tout	sur-tout	ADV	_
+sur-tout	surtout	ADV	_
 lorsque	lorsque	CS	_
 le	le	DET	_
 train	train	NC	_
@@ -131386,7 +131827,7 @@ les	le	DET	_
 rats	rat	NC	_
 ,	,	PONCT	_
 et	et	CC	_
-sur-tout	sur-tout	ADV	_
+sur-tout	surtout	ADV	_
 les	le	DET	_
 gerboises	gerboise	NC	_
 .	.	PONCT	_
@@ -131522,7 +131963,7 @@ castors	castor	NC	_
 les	le	DET	_
 tortues	tortue	NC	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 Article	Article	NP	_
 iii	iii	X	_
 .	.	PONCT	_
@@ -131588,7 +132029,7 @@ en	en	CLO	_
 a	avoir	V	_
 de	un	DET	_
 tels	tel	ADJ	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 à	à	P	_
 la	le	DET	_
 main	main	NC	_
@@ -131757,7 +132198,7 @@ rats	rat	NC	_
 les	le	DET	_
 sarigues	sarigue	NC	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 ;	;	PONCT	_
 d'	un	DET	_
 autres	autre	NC	_
@@ -131797,7 +132238,7 @@ peuvent	pouvoir	V	_
 retenir	retenir	VINF	_
 les	le	DET	_
 corps	corps	NC	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 en	en	P	_
 les	il	CLO	_
 fixant	fixer	VPR	_
@@ -131836,7 +132277,7 @@ préhension	préhension	NC	_
 .	.	PONCT	_
 Nous	nous	CLS	_
 avons	avoir	V	_
-déja	déja	VPP	_
+déja	déjà	VPP	_
 vu	voir	VPP	_
 que	que	CS	_
 la	le	DET	_
@@ -131965,12 +132406,13 @@ assez	assez	ADV	_
 mauvais	mauvais	ADJ	_
 grimpeur	grimpeur	NC	_
 ,	,	PONCT	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 il	il	CLS	_
 ne	ne	ADV	_
 peut	pouvoir	V	_
 empoigner	empoigner	VINF	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 avec	avec	P	_
 ses	son	DET	_
 mains	main	NC	_
@@ -132251,7 +132693,7 @@ corps	corps	NC	_
 .	.	PONCT	_
 Nous	nous	CLS	_
 avons	avoir	V	_
-déja	déja	VPP	_
+déja	déjà	VPP	_
 vu	voir	VPP	_
 comment	comment	PROWH	_
 ces	ce	DET	_
@@ -132480,7 +132922,7 @@ sittelles	sittelle	NC	_
 ,	,	PONCT	_
 n'	ne	ADV	_
 ont	avoir	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 un	un	DET	_
 seul	seul	ADJ	_
 doigt	doigt	NC	_
@@ -132576,7 +133018,7 @@ il	il	CLS	_
 n'	ne	ADV	_
 y	y	CLO	_
 a	avoir	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 un	un	DET	_
 petit	petit	ADJ	_
 nombre	nombre	NC	_
@@ -132594,7 +133036,8 @@ toutefois	toutefois	ADV	_
 en	en	P	_
 volant	voler	VPR	_
 ,	,	PONCT	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 alors	alors	ADV	_
 leurs	leur	DET	_
 pieds	pied	NC	_
@@ -132809,7 +133252,9 @@ le	le	DET	_
 corps	corps	NC	_
 tout	tout	ADV	_
 entier	entier	ADJ	_
-au-dessus	au-dessus	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 du	de_le	P+D	_
 sol	sol	NC	_
 ,	,	PONCT	_
@@ -132937,7 +133382,8 @@ acquise	acquérir	VPP	_
 pour	pour	P	_
 monter	monter	VINF	_
 ,	,	PONCT	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 la	le	DET	_
 pesanteur	pesanteur	NC	_
 lui	il	CLO	_
@@ -133035,7 +133481,7 @@ plus	plus	ADV	_
 ,	,	PONCT	_
 comme	comme	P	_
 les	le	DET	_
-kanguroos	kanguroos	NC	_
+kanguroos	kangourou	NC	_
 ,	,	PONCT	_
 les	le	DET	_
 gerboises	gerboise	NC	_
@@ -133052,7 +133498,7 @@ sauterelles	sauterelle	NC	_
 les	le	DET	_
 puces	puce	NC	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 L'	le	DET	_
 espace	espace	NC	_
 que	que	PROREL	_
@@ -133079,7 +133525,8 @@ les	le	DET	_
 grands	grand	ADJ	_
 animaux	animal	NC	_
 ,	,	PONCT	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 ,	,	PONCT	_
 lorsque	lorsque	CS	_
 les	le	DET	_
@@ -133151,7 +133598,7 @@ l'	le	DET	_
 homme	homme	NC	_
 et	et	CC	_
 les	le	DET	_
-oiseax	oiseax	NC	_
+oiseax	oiseau	NC	_
 sont	être	V	_
 les	le	DET	_
 seuls	seul	NC	_
@@ -133160,7 +133607,8 @@ puissent	pouvoir	V	_
 sauter	sauter	VINF	_
 verticalement	verticalement	ADV	_
 ,	,	PONCT	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 ils	il	CLS	_
 sont	être	V	_
 les	le	DET	_
@@ -133170,7 +133618,9 @@ le	le	DET	_
 tronc	tronc	NC	_
 soit	être	V	_
 verticalement	verticalement	ADV	_
-au-dessus	au-dessus	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 du	de_le	P+D	_
 membre	membre	NC	_
 qui	qui	PROREL	_
@@ -133222,7 +133672,7 @@ insectes	insecte	NC	_
 ne	ne	ADV	_
 peuvent	pouvoir	V	_
 sauter	sauter	VINF	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 en	en	P	_
 avant	avant	NC	_
 .	.	PONCT	_
@@ -133266,7 +133716,8 @@ de	de	P	_
 la	le	DET	_
 marche	marche	NC	_
 que	que	ADV	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 le	le	DET	_
 corps	corps	NC	_
 est	être	V	_
@@ -133301,7 +133752,8 @@ même	même	ADJ	_
 grands	grand	ADJ	_
 pas	pas	NC	_
 ,	,	PONCT	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 la	le	DET	_
 vîtesse	vitesse	NC	_
 acquise	acquérir	VPP	_
@@ -133334,7 +133786,8 @@ subitement	subitement	ADV	_
 en	en	P	_
 courant	courir	VPR	_
 ,	,	PONCT	_
-tandis_qu'	tandis_que	CS	_
+tandis	tandis	ADV	_
+qu'	que	CS	_
 en	en	P	_
 marchant	marcher	VPR	_
 on	on	CLS	_
@@ -133398,7 +133851,8 @@ corps	corps	NC	_
 en	en	P	_
 avant	avant	NC	_
 ,	,	PONCT	_
-afin_que	afin_que	CS	_
+afin	afin	ADV	_
+que	que	CS	_
 son	son	DET	_
 centre	centre	NC	_
 de	de	P	_
@@ -133501,7 +133955,7 @@ sa	son	DET	_
 manière	manière	NC	_
 de	de	P	_
 courir	courir	VINF	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 en	en	P	_
 faisant	faire	VPR	_
 ses	son	DET	_
@@ -133691,7 +134145,7 @@ chiens	chien	NC	_
 les	le	DET	_
 lièvres	lièvre	NC	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 Dans	dans	P	_
 cette	ce	DET	_
 sorte	sorte	NC	_
@@ -133742,7 +134196,8 @@ et	et	CC	_
 quatre	quatre	DET	_
 temps	temps	NC	_
 ,	,	PONCT	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 les	le	DET	_
 pieds	pied	NC	_
 de	de	P	_
@@ -133815,7 +134270,7 @@ ondulations	ondulation	NC	_
 qu'	que	PROREL	_
 ils	il	CLS	_
 détendent	détendre	V	_
-toutes	tous	PRO	_
+toutes	tout	PRO	_
 à	à	P	_
 la	le	DET	_
 fois	fois	NC	_
@@ -133876,7 +134331,9 @@ Certains	certain	DET	_
 poissons	poisson	NC	_
 sautent	sauter	V	_
 aussi	aussi	ADV	_
-au-dessus	au-dessus	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 des	un	DET	_
 cataractes	cataracte	NC	_
 ,	,	PONCT	_
@@ -133897,7 +134354,7 @@ Les	le	DET	_
 longue	long	ADJ	_
 queue	queue	NC	_
 ,	,	PONCT	_
-sur-tout	sur-tout	ADV	_
+sur-tout	surtout	ADV	_
 les	le	DET	_
 salicoques	salicoque	NC	_
 ,	,	PONCT	_
@@ -134434,7 +134891,7 @@ eux	il	PRO	_
 ne	ne	ADV	_
 nagent	nager	V	_
 pas	pas	ADV	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 bien	bien	ADV	_
 ,	,	PONCT	_
 comme	comme	P	_
@@ -134667,7 +135124,9 @@ L'	le	DET	_
 eau	eau	NC	_
 qui	qui	PROREL	_
 est	être	V	_
-au-devant	au-devant	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+devant	devant	ADV	_
 du	de_le	P+D	_
 poisson	poisson	NC	_
 résiste	résister	V	_
@@ -134680,7 +135139,8 @@ avant	avant	NC	_
 ,	,	PONCT	_
 d'	de	P	_
 abord	abord	NC	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 la	le	DET	_
 vîtesse	vitesse	NC	_
 avec	avec	P	_
@@ -134702,7 +135162,8 @@ sa	son	DET	_
 queue	queue	NC	_
 ;	;	PONCT	_
 ensuite	ensuite	ADV	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 sa	son	DET	_
 queue	queue	NC	_
 est	être	V	_
@@ -134912,7 +135373,8 @@ il	il	CLS	_
 tourne	tourner	V	_
 horizontalement	horizontalement	ADV	_
 .	.	PONCT	_
-Quant_à	quant_à	P	_
+Quant	quant	ADV	_
+à	à	P	_
 ses	son	DET	_
 mouvemens	mouvement	NC	_
 en	en	P	_
@@ -135083,7 +135545,7 @@ prouver	prouver	VINF	_
 dans	dans	P	_
 le	le	DET	_
 chapitre	chapitre	NC	_
-déja	déja	ADJ	_
+déja	déjà	ADJ	_
 annoncé	annoncer	VPP	_
 ,	,	PONCT	_
 par	par	P	_
@@ -135429,7 +135891,8 @@ de	de	P	_
 leur	leur	DET	_
 corps	corps	NC	_
 ,	,	PONCT	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 ils	il	CLS	_
 ne	ne	ADV	_
 nagent	nager	V	_
@@ -135812,8 +136275,8 @@ aquatiques	aquatique	ADJ	_
 des	un	DET	_
 cousins	cousin	NC	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
-Mais	Mais	NP	_
+etc.	etc	ADV	_
+Mais	mais	NP	_
 les	le	DET	_
 quadrupèdes	quadrupède	NC	_
 ,	,	PONCT	_
@@ -136061,7 +136524,8 @@ très	très	ADV	_
 en	en	P	_
 arrière	arrière	NC	_
 ,	,	PONCT	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 leur	leur	DET	_
 effort	effort	NC	_
 est	être	V	_
@@ -136286,7 +136750,7 @@ loutre	loutre	NC	_
 le	le	DET	_
 castor	castor	NC	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 ;	;	PONCT	_
 mais	mais	CC	_
 les	le	DET	_
@@ -136874,7 +137338,7 @@ descendre	descendre	VINF	_
 il	il	CLS	_
 n'	ne	ADV	_
 a	avoir	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 à	à	P	_
 répéter	répéter	VINF	_
 moins	moins	ADV	_
@@ -137063,7 +137527,7 @@ La	le	DET	_
 cause	cause	NC	_
 en	en	CLO	_
 est	être	V	_
-sur-tout	sur-tout	VPP	_
+sur-tout	surtout	VPP	_
 dans	dans	P	_
 la	le	DET	_
 longueur	longueur	NC	_
@@ -137388,7 +137852,8 @@ grand	grand	ADJ	_
 à	à	P	_
 proportion	proportion	NC	_
 ,	,	PONCT	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 les	le	DET	_
 pennes	penne	NC	_
 antérieures	antérieur	ADJ	_
@@ -137551,7 +138016,7 @@ brusques	brusque	ADJ	_
 Voilà	voilà	V	_
 pourquoi	pourquoi	PROWH	_
 les	le	DET	_
-oiseax	oiseax	NC	_
+oiseax	oiseau	NC	_
 à	à	P	_
 vol	vol	NC	_
 rapide	rapide	ADJ	_
@@ -137581,7 +138046,7 @@ corps	corps	NC	_
 ;	;	PONCT	_
 en	en	P	_
 l'	il	CLO	_
-abaissant	abaissant	VPR	_
+abaissant	abaisser	VPR	_
 lorsque	lorsque	CS	_
 l'	le	DET	_
 oiseau	oiseau	NC	_
@@ -137682,7 +138147,7 @@ martinets	martinet	NC	_
 les	le	DET	_
 fous	fou	NC	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 Ne	ne	ADV	_
 peuvent	pouvoir	V	_
 sauter	sauter	VINF	_
@@ -137712,7 +138177,7 @@ ne	ne	ADV	_
 prennent	prendre	V	_
 leur	leur	DET	_
 vol	vol	NC	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 avec	avec	P	_
 beaucoup	beaucoup	PRO	_
 de	de	P	_
@@ -138087,7 +138552,7 @@ corps	corps	NC	_
 et	et	CC	_
 qui	qui	PROREL	_
 sont	être	V	_
-toutes	tous	PRO	_
+toutes	tout	PRO	_
 en	en	P	_
 communication	communication	NC	_
 avec	avec	P	_
@@ -138106,7 +138571,7 @@ de	de	P	_
 toutes	tout	DET	_
 parts	part	NC	_
 ,	,	PONCT	_
-sur-tout	sur-tout	ADV	_
+sur-tout	surtout	ADV	_
 à	à	P	_
 cause	cause	NC	_
 de	de	P	_
@@ -138144,7 +138609,7 @@ des	de_le	P+D	_
 plumes	plume	NC	_
 ,	,	PONCT	_
 et	et	CC	_
-sur-tout	sur-tout	NP	_
+sur-tout	surtout	NP	_
 celui	celui	PRO	_
 des	de_le	P+D	_
 pennes	penne	NC	_
@@ -138269,7 +138734,7 @@ terrestres	terrestre	ADJ	_
 ,	,	PONCT	_
 et	et	CC	_
 les	le	DET	_
-pingoins	pingoins	NC	_
+pingoins	pingouins	NC	_
 et	et	CC	_
 les	le	DET	_
 manchots	manchot	NC	_
@@ -138336,13 +138801,13 @@ leurs	leur	DET	_
 avant-bras	avant-bras	NC	_
 ,	,	PONCT	_
 et	et	CC	_
-sur-tout	sur-tout	ADJ	_
+sur-tout	surtout	ADJ	_
 leurs	leur	DET	_
 quatre	quatre	ADJ	_
 doigts	doigt	NC	_
 sont	être	V	_
 excessivement	excessivement	ADV	_
-alongés	alongés	ADJ	_
+alongés	allonger	ADJ	_
 ,	,	PONCT	_
 et	et	CC	_
 interceptent	intercepter	V	_
@@ -138390,7 +138855,7 @@ l'	le	DET	_
 air	air	NC	_
 l'	le	DET	_
 animal	animal	NC	_
-auquel	auquel	PROREL	_
+auquel	à_lequel	PROREL	_
 elle	il	CLS	_
 appartient	appartenir	V	_
 .	.	PONCT	_
@@ -138451,7 +138916,8 @@ peuvent	pouvoir	V	_
 que	que	ADV	_
 ramper	ramper	VINF	_
 ,	,	PONCT	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 leurs	leur	DET	_
 jambes	jambe	NC	_
 de	de	P	_
@@ -138491,7 +138957,7 @@ pattes	patte	NC	_
 ,	,	PONCT	_
 mais	mais	CC	_
 sans	sans	P	_
-alongement	alongement	NC	_
+alongement	allongement	NC	_
 des	de_le	P+D	_
 doigts	doigt	NC	_
 ;	;	PONCT	_
@@ -138531,7 +138997,7 @@ sauts	saut	NC	_
 en	en	P	_
 descendant	descendre	VPR	_
 ,	,	PONCT	_
-auxquels	auquel	PROREL	_
+auxquels	à_lequel	PROREL	_
 on	on	CLS	_
 ne	ne	ADV	_
 peut	pouvoir	V	_
@@ -138618,7 +139084,9 @@ de	de	P	_
 quelques	quelque	DET	_
 rayons	rayon	NC	_
 situés	situer	VPP	_
-au-dessous	au-dessous	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessous	dessous	ADV	_
 de	de	P	_
 ces	ce	DET	_
 nageoires	nageoire	NC	_

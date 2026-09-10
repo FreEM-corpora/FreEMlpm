@@ -116,7 +116,9 @@ peuvent	pouvoir	V	_
 s'	se	CLO	_
 écarter	écarter	VINF	_
 .	.	PONCT	_
-Au-dessus	au-dessus	ADV	_
+Au	à_le	P+D	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 du	de_le	P+D	_
 manteau	manteau	NC	_
 d'	de	P	_
@@ -247,7 +249,7 @@ gâteaux	gâteau	NC	_
 de	de	P	_
 flacons	flacon	NC	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 au	à_le	P+D	_
 fond	fond	NC	_
 ,	,	PONCT	_
@@ -289,7 +291,9 @@ dans	dans	P	_
 plusieurs	plusieurs	DET	_
 coins	coin	NC	_
 et	et	CC	_
-au-dessus	au-dessus	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 du	de_le	P+D	_
 buffet	buffet	NC	_
 ,	,	PONCT	_
@@ -338,7 +342,7 @@ allumés	allumer	VPP	_
 ACTE	acte	NC	_
 I	I	ADJ	_
 ,	,	PONCT	_
-SCèNE	SCèNE	NC	_
+SCèNE	scène	NC	_
 1	1	ADJ	_
 le	le	DET	_
 public	public	NC	_
@@ -362,7 +366,7 @@ tire-laine	tire-laine	NC	_
 le	le	DET	_
 portier	portier	NC	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 ,	,	PONCT	_
 puis	puis	CC	_
 les	le	DET	_
@@ -378,7 +382,7 @@ distributrice	distributrice	NC	_
 les	le	DET	_
 violons	violon	NC	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 (	(	PONCT	_
 on	on	CLS	_
 entend	entendre	V	_
@@ -470,7 +474,7 @@ deuxième	deuxième	NC	_
 on	on	CLS	_
 ne	ne	ADV	_
 commence	commencer	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 à	à	P	_
 deux	deux	DET	_
 heures	heure	NC	_
@@ -500,7 +504,7 @@ apportés	apporter	VPP	_
 .	.	PONCT	_
 )	)	PONCT	_
 Un	un	DET	_
-Laquais	Laquais	NC	_
+Laquais	laquais	NC	_
 ,	,	PONCT	_
 entrant	entrer	VPR	_
 .	.	PONCT	_
@@ -510,7 +514,7 @@ flanquin	flanquin	ET	_
 !	!	PONCT	_
 ...	…	PONCT	_
 Un	un	DET	_
-Autre	Autre	NC	_
+Autre	autre	NC	_
 ,	,	PONCT	_
 déjà	déjà	ADV	_
 arrivé	arriver	VPP	_
@@ -519,7 +523,7 @@ Champagne	champagne	NC	_
 ?	?	PONCT	_
 ...	…	PONCT	_
 Le	le	DET	_
-Premier	Premier	NP	_
+Premier	premier	NP	_
 ,	,	PONCT	_
 lui	il	CLO	_
 montrant	montrer	VPR	_
@@ -558,7 +562,7 @@ mon	mon	DET	_
 coquin	coquin	NC	_
 .	.	PONCT	_
 Premier	premier	ADJ	_
-Laquais	Laquais	NP	_
+Laquais	laquais	NP	_
 ,	,	PONCT	_
 tirant	tirer	VPR	_
 de	de	P	_
@@ -778,7 +782,7 @@ sa	son	DET	_
 canne	canne	NC	_
 .	.	PONCT	_
 )	)	PONCT	_
-buveurs	buveuse	NC	_
+buveurs	buveur	NC	_
 ...	…	PONCT	_
 (	(	PONCT	_
 en	en	P	_
@@ -850,7 +854,7 @@ mon	mon	DET	_
 fils	fils	NC	_
 !	!	PONCT	_
 Le	le	DET	_
-Jeune	Jeune	NP	_
+Jeune	jeune	NP	_
 Homme	homme	NP	_
 et	et	CC	_
 du	de_le	P+D	_
@@ -948,7 +952,9 @@ Page	Page	NP	_
 on	on	CLS	_
 pourra	pouvoir	V	_
 de	de	P	_
-là-haut	là-haut	ADV	_
+à	à_le	P+D	_
+-	-	PONCT	_
+haut	haut	ADV	_
 pêcher	pêcher	VINF	_
 quelque	quelque	DET	_
 perruque	perruque	NC	_
@@ -1031,7 +1037,7 @@ pois	pois	NC	_
 .	.	PONCT	_
 )	)	PONCT	_
 Le	le	DET	_
-Jeune	Jeune	NP	_
+Jeune	jeune	NP	_
 Homme	homme	NP	_
 ,	,	PONCT	_
 à	à	P	_
@@ -1049,7 +1055,7 @@ Bourgeois	Bourgeois	NP	_
 Clorise	Clorise	NP	_
 .	.	PONCT	_
 Le	le	DET	_
-Jeune	Jeune	NP	_
+Jeune	jeune	NP	_
 Homme	homme	NC	_
 de	de	P	_
 qui	qui	PROREL	_
@@ -1097,7 +1103,7 @@ coupez	couper	V	_
 -la	il	CLO	_
 !	!	PONCT	_
 Un	un	DET	_
-Spectateur	Spectateur	NC	_
+Spectateur	spectateur	NC	_
 ,	,	PONCT	_
 à	à	P	_
 un	un	DET	_
@@ -1239,7 +1245,7 @@ porte	porte	NC	_
 .	.	PONCT	_
 )	)	PONCT	_
 Une	un	DET	_
-Voix	Voix	NC	_
+Voix	voix	NC	_
 De	de	P	_
 Fausset	Fausset	NP	_
 place	place	NC	_
@@ -1247,7 +1253,7 @@ place	place	NC	_
 brutes	brut	ADJ	_
 !	!	PONCT	_
 Un	un	DET	_
-Laquais	Laquais	NC	_
+Laquais	laquais	NC	_
 ,	,	PONCT	_
 s'	se	CLO	_
 étonnant	étonner	VPR	_
@@ -1261,11 +1267,11 @@ parterre	parterre	NC	_
 ?	?	PONCT	_
 ...	…	PONCT	_
 Un	un	DET	_
-Autre	Autre	NC	_
-Laquais	Laquais	NP	_
+Autre	autre	NC	_
+Laquais	laquais	NP	_
 oh	oh	I	_
 !	!	PONCT	_
-Pour	Pour	ADV	_
+Pour	pour	ADV	_
 quelques	quelque	DET	_
 minutes	minute	NC	_
 !	!	PONCT	_
@@ -1371,7 +1377,7 @@ une	un	DET	_
 humeur	humeur	NC	_
 ...	…	PONCT	_
 Un	un	DET	_
-Autre	Autre	NC	_
+Autre	autre	NC	_
 console	consoler	V	_
 -toi	tu	CLO	_
 ,	,	PONCT	_
@@ -1461,7 +1467,7 @@ loges	loge	NC	_
 ACTE	acte	NC	_
 I	I	ADJ	_
 ,	,	PONCT	_
-SCèNE	SCèNE	NC	_
+SCèNE	scène	NC	_
 2	2	ADJ	_
 les	le	DET	_
 mêmes	même	NC	_
@@ -1484,7 +1490,7 @@ Brissaille	Brissaille	NP	_
 riant	rire	VPR	_
 .	.	PONCT	_
 pas	pas	ADV	_
-encor	encor	ADV	_
+encor	encore	ADV	_
 gris	gris	ADJ	_
 ?	?	PONCT	_
 ...	…	PONCT	_
@@ -1539,7 +1545,7 @@ Christian	Christian	NP	_
 la	le	DET	_
 tête	tête	NC	_
 est	être	V	_
-charmante	charmant	ADJ	_
+charmante	charmer	ADJ	_
 .	.	PONCT	_
 Premier	premier	ADJ	_
 Marquis	marquis	NP	_
@@ -1761,7 +1767,7 @@ de	de	P	_
 Rouen	Rouen	NP	_
 .	.	PONCT	_
 Le	le	DET	_
-Jeune	Jeune	NP	_
+Jeune	jeune	NP	_
 Homme	homme	NP	_
 ,	,	PONCT	_
 à	à	P	_
@@ -1825,7 +1831,7 @@ Marquis	marquis	NP	_
 attention	attention	NC	_
 !	!	PONCT	_
 Nos	notre	DET	_
-précieuses	précieuse	NC	_
+précieuses	précieux	NC	_
 prennent	prendre	V	_
 place	place	NC	_
 :	:	PONCT	_
@@ -1853,14 +1859,14 @@ Marquis	marquis	NC	_
 tu	tu	CLS	_
 les	il	CLO	_
 sais	savoir	V	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 ?	?	PONCT	_
 Premier	premier	ADJ	_
 Marquis	marquis	NP	_
 je	je	CLS	_
 les	il	CLO	_
 sais	savoir	V	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 ,	,	PONCT	_
 marquis	marquis	NC	_
 !	!	PONCT	_
@@ -2004,7 +2010,7 @@ trouble	troubler	V	_
 Je	je	CLS	_
 ne	ne	ADV	_
 suis	être	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 un	un	DET	_
 bon	bon	ADJ	_
 soldat	soldat	NC	_
@@ -2102,7 +2108,7 @@ Christian	Christian	NP	_
 )	)	PONCT	_
 je	je	CLS	_
 reste	rester	V	_
-encor	encor	ADV	_
+encor	encore	ADV	_
 un	un	DET	_
 peu	peu	NC	_
 .	.	PONCT	_
@@ -3328,7 +3334,7 @@ Commencez	commencer	V	_
 ACTE	acte	NC	_
 I	I	ADJ	_
 ,	,	PONCT	_
-SCèNE	SCèNE	NC	_
+SCèNE	scène	NC	_
 3	3	ADJ	_
 les	le	DET	_
 mêmes	même	NC	_
@@ -3381,7 +3387,7 @@ De	de	P	_
 Guiche	Guiche	NP	_
 !	!	PONCT	_
 Un	un	DET	_
-Autre	Autre	NC	_
+Autre	autre	NC	_
 ff	ff	ADJ	_
 !	!	PONCT	_
 ...	…	PONCT	_
@@ -3390,7 +3396,7 @@ un	un	DET	_
 gascon	gascon	NC	_
 !	!	PONCT	_
 Le	le	DET	_
-Premier	Premier	NP	_
+Premier	premier	NP	_
 le	le	DET	_
 gascon	gascon	NC	_
 souple	souple	ADJ	_
@@ -3527,7 +3533,7 @@ vicomte	vicomte	NC	_
 !	!	PONCT	_
 Ah	ah	I	_
 !	!	PONCT	_
-Je	Je	NP	_
+Je	je	NP	_
 vais	aller	V	_
 lui	il	CLO	_
 jeter	jeter	VINF	_
@@ -3994,7 +4000,7 @@ ah	ah	I	_
 ?	?	PONCT	_
 ...	…	PONCT	_
 Le	le	DET	_
-Spectateur	Spectateur	NC	_
+Spectateur	spectateur	NC	_
 la	le	DET	_
 chose	chose	NC	_
 me	je	CLO	_
@@ -4073,9 +4079,9 @@ attente	attente	NC	_
 .	.	PONCT	_
 )	)	PONCT	_
 La	le	DET	_
-Voix	Voix	NC	_
+Voix	voix	NC	_
 D'	de	P	_
-Un	Un	NP	_
+Un	un	NP	_
 Marquis	marquis	NP	_
 ,	,	PONCT	_
 dans	dans	P	_
@@ -4091,7 +4097,7 @@ cette	ce	DET	_
 chandelle	chandelle	NC	_
 !	!	PONCT	_
 Un	un	DET	_
-Autre	Autre	NC	_
+Autre	autre	NC	_
 Marquis	marquis	NP	_
 ,	,	PONCT	_
 passant	passer	VPR	_
@@ -4117,7 +4123,9 @@ main	main	NC	_
 en	en	P	_
 main	main	NC	_
 ,	,	PONCT	_
-au-dessus	au-dessus	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 des	de_le	P+D	_
 têtes	tête	NC	_
 .	.	PONCT	_
@@ -4139,7 +4147,7 @@ loges	loge	NC	_
 .	.	PONCT	_
 )	)	PONCT	_
 Un	un	DET	_
-Spectateur	Spectateur	NC	_
+Spectateur	spectateur	NC	_
 silence	silence	NC	_
 !	!	PONCT	_
 (	(	PONCT	_
@@ -4341,7 +4349,7 @@ bois	bois	NC	_
 ...	…	PONCT	_
 "	"	PONCT	_
 Une	un	DET	_
-Voix	Voix	NC	_
+Voix	voix	NC	_
 ,	,	PONCT	_
 au	à_le	P+D	_
 milieu	milieu	NC	_
@@ -4410,7 +4418,7 @@ terrifié	terrifier	VPP	_
 Cyrano	Cyrano	NP	_
 !	!	PONCT	_
 La	le	DET	_
-Voix	Voix	NC	_
+Voix	voix	NC	_
 roi	roi	NC	_
 des	de_le	P+D	_
 pîtres	pîtres	NC	_
@@ -4434,7 +4442,7 @@ Montfleury	Montfleury	NP	_
 mais	mais	CC	_
 ...	…	PONCT	_
 La	le	DET	_
-Voix	Voix	NC	_
+Voix	voix	NC	_
 tu	tu	CLS	_
 récalcitres	récalcitrer	V	_
 ?	?	PONCT	_
@@ -4484,7 +4492,7 @@ sol	sol	NC	_
 ...	…	PONCT	_
 "	"	PONCT	_
 La	le	DET	_
-Voix	Voix	NC	_
+Voix	voix	NC	_
 ,	,	PONCT	_
 plus	plus	ADV	_
 menaçante	menaçant	ADJ	_
@@ -4519,7 +4527,9 @@ d'	de	P	_
 un	un	DET	_
 bras	bras	NC	_
 jaillit	jaillir	V	_
-au-dessus	au-dessus	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 des	de_le	P+D	_
 têtes	tête	NC	_
 .	.	PONCT	_
@@ -4548,7 +4558,7 @@ agite	agiter	V	_
 .	.	PONCT	_
 )	)	PONCT	_
 La	le	DET	_
-Voix	Voix	NC	_
+Voix	voix	NC	_
 sortez	sortir	V	_
 !	!	PONCT	_
 Le	le	DET	_
@@ -4614,7 +4624,7 @@ vue	vue	NC	_
 ACTE	acte	NC	_
 I	I	ADJ	_
 ,	,	PONCT	_
-SCèNE	SCèNE	NC	_
+SCèNE	scène	NC	_
 4	4	ADJ	_
 les	le	DET	_
 mêmes	même	NC	_
@@ -4719,7 +4729,7 @@ le	le	DET	_
 désentripaille	désentripaille	NC	_
 !	!	PONCT	_
 Une	un	DET	_
-Voix	Voix	NC	_
+Voix	voix	NC	_
 mais	mais	CC	_
 ...	…	PONCT	_
 Cyrano	Cyrano	NP	_
@@ -4728,8 +4738,8 @@ il	il	CLS	_
 sorte	sortir	V	_
 !	!	PONCT	_
 Une	un	DET	_
-Autre	Autre	NC	_
-Voix	Voix	NP	_
+Autre	autre	NC	_
+Voix	voix	NP	_
 pourtant	pourtant	ADV	_
 ...	…	PONCT	_
 Cyrano	Cyrano	NP	_
@@ -4737,7 +4747,7 @@ ce	ce	CLS	_
 n'	ne	ADV	_
 est	être	V	_
 pas	pas	ADV	_
-encor	encor	ADV	_
+encor	encore	ADV	_
 fait	faire	VPP	_
 ?	?	PONCT	_
 (	(	PONCT	_
@@ -4930,7 +4940,7 @@ recul	recul	NC	_
 .	.	PONCT	_
 )	)	PONCT	_
 Une	un	DET	_
-Voix	Voix	NC	_
+Voix	voix	NC	_
 ,	,	PONCT	_
 chantant	chanter	VPR	_
 au	à_le	P+D	_
@@ -4970,14 +4980,14 @@ j'	je	CLS	_
 entends	entendre	V	_
 une	un	DET	_
 fois	fois	NC	_
-encor	encor	ADV	_
+encor	encore	ADV	_
 cette	ce	DET	_
 chanson	chanson	NC	_
 ,	,	PONCT	_
 je	je	CLS	_
 vous	vous	CLO	_
 assomme	assommer	V	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 .	.	PONCT	_
 Un	un	DET	_
 Bourgeois	Bourgeois	NP	_
@@ -5289,7 +5299,7 @@ Montfleury	Montfleury	NP	_
 je	je	CLS	_
 ...	…	PONCT	_
 Une	un	DET	_
-Voix	Voix	NC	_
+Voix	voix	NC	_
 ,	,	PONCT	_
 des	un	DET	_
 loges	loge	NC	_
@@ -5491,7 +5501,7 @@ Autres	Autres	NC	_
 si	si	CS	_
 !	!	PONCT	_
 Un	un	DET	_
-Jeune	Jeune	NP	_
+Jeune	jeune	NP	_
 Homme	homme	NP	_
 ,	,	PONCT	_
 à	à	P	_
@@ -5898,7 +5908,7 @@ fou	fou	ADJ	_
 !	!	PONCT	_
 ...	…	PONCT	_
 Un	un	DET	_
-Fâcheux	Fâcheux	NC	_
+Fâcheux	fâcheux	NC	_
 ,	,	PONCT	_
 qui	qui	PROREL	_
 s'	se	CLO	_
@@ -5933,7 +5943,7 @@ Cyrano	Cyrano	NP	_
 non	non	I	_
 !	!	PONCT	_
 Le	le	DET	_
-Fâcheux	Fâcheux	NC	_
+Fâcheux	fâcheux	NC	_
 vous	vous	CLS	_
 n'	ne	ADV	_
 avez	avoir	V	_
@@ -5944,7 +5954,7 @@ Cyrano	Cyrano	NP	_
 non	non	I	_
 !	!	PONCT	_
 Le	le	DET	_
-Fâcheux	Fâcheux	NC	_
+Fâcheux	fâcheux	NC	_
 quoi	quoi	PROWH	_
 ,	,	PONCT	_
 pas	pas	ADV	_
@@ -5996,7 +6006,7 @@ une	un	DET	_
 protectrice	protectrice	NC	_
 !	!	PONCT	_
 Le	le	DET	_
-Fâcheux	Fâcheux	NC	_
+Fâcheux	fâcheux	NC	_
 mais	mais	CC	_
 vous	vous	CLS	_
 allez	aller	V	_
@@ -6010,7 +6020,7 @@ est	être	V	_
 selon	selon	P	_
 .	.	PONCT	_
 Le	le	DET	_
-Fâcheux	Fâcheux	NC	_
+Fâcheux	fâcheux	NC	_
 mais	mais	CC	_
 le	le	DET	_
 duc	duc	NC	_
@@ -6044,7 +6054,7 @@ cette	ce	DET	_
 rallonge	rallonge	NC	_
 !	!	PONCT	_
 Le	le	DET	_
-Fâcheux	Fâcheux	NC	_
+Fâcheux	fâcheux	NC	_
 mais	mais	CC	_
 vous	vous	CLS	_
 ne	ne	ADV	_
@@ -6059,7 +6069,7 @@ y	y	CLO	_
 songe	songer	V	_
 .	.	PONCT	_
 Le	le	DET	_
-Fâcheux	Fâcheux	NC	_
+Fâcheux	fâcheux	NC	_
 mais	mais	CC	_
 ...	…	PONCT	_
 Cyrano	Cyrano	NP	_
@@ -6070,7 +6080,7 @@ talons	talon	NC	_
 maintenant	maintenant	ADV	_
 .	.	PONCT	_
 Le	le	DET	_
-Fâcheux	Fâcheux	NC	_
+Fâcheux	fâcheux	NC	_
 mais	mais	CC	_
 ...	…	PONCT	_
 Cyrano	Cyrano	NP	_
@@ -6087,7 +6097,7 @@ mon	mon	DET	_
 nez	nez	NC	_
 .	.	PONCT	_
 Le	le	DET	_
-Fâcheux	Fâcheux	NC	_
+Fâcheux	fâcheux	NC	_
 ,	,	PONCT	_
 ahuri	ahurir	VPP	_
 .	.	PONCT	_
@@ -6106,7 +6116,7 @@ d'	de	P	_
 étonnant	étonner	VPR	_
 ?	?	PONCT	_
 Le	le	DET	_
-Fâcheux	Fâcheux	NC	_
+Fâcheux	fâcheux	NC	_
 ,	,	PONCT	_
 reculant	reculer	VPR	_
 .	.	PONCT	_
@@ -6130,7 +6140,7 @@ trompe	trompe	NC	_
 ?	?	PONCT	_
 ...	…	PONCT	_
 Le	le	DET	_
-Fâcheux	Fâcheux	NC	_
+Fâcheux	fâcheux	NC	_
 ,	,	PONCT	_
 même	même	ADV	_
 jeu	jeu	NC	_
@@ -6150,7 +6160,7 @@ de	de	P	_
 hibou	hibou	NC	_
 ?	?	PONCT	_
 Le	le	DET	_
-Fâcheux	Fâcheux	NC	_
+Fâcheux	fâcheux	NC	_
 je	je	CLS	_
 ...	…	PONCT	_
 Cyrano	Cyrano	NP	_
@@ -6163,7 +6173,7 @@ au	à_le	P+D	_
 bout	bout	NC	_
 ?	?	PONCT	_
 Le	le	DET	_
-Fâcheux	Fâcheux	NC	_
+Fâcheux	fâcheux	NC	_
 mais	mais	CC	_
 ...	…	PONCT	_
 Cyrano	Cyrano	NP	_
@@ -6187,7 +6197,7 @@ d'	de	P	_
 hétéroclite	hétéroclite	ADJ	_
 ?	?	PONCT	_
 Le	le	DET	_
-Fâcheux	Fâcheux	NC	_
+Fâcheux	fâcheux	NC	_
 oh	oh	I	_
 !	!	PONCT	_
 ...	…	PONCT	_
@@ -6198,7 +6208,7 @@ un	un	DET	_
 phénomène	phénomène	NC	_
 ?	?	PONCT	_
 Le	le	DET	_
-Fâcheux	Fâcheux	NC	_
+Fâcheux	fâcheux	NC	_
 mais	mais	CC	_
 d'	de	P	_
 y	y	CLO	_
@@ -6227,7 +6237,7 @@ le	il	CLO	_
 regarder	regarder	VINF	_
 ?	?	PONCT	_
 Le	le	DET	_
-Fâcheux	Fâcheux	NC	_
+Fâcheux	fâcheux	NC	_
 j'	je	CLS	_
 avais	avoir	V	_
 ...	…	PONCT	_
@@ -6237,7 +6247,7 @@ dégoûte	dégoûter	V	_
 alors	alors	ADV	_
 ?	?	PONCT	_
 Le	le	DET	_
-Fâcheux	Fâcheux	NC	_
+Fâcheux	fâcheux	NC	_
 monsieur	monsieur	NC	_
 ...	…	PONCT	_
 Cyrano	Cyrano	NP	_
@@ -6248,7 +6258,7 @@ sa	son	DET	_
 couleur	couleur	NC	_
 ?	?	PONCT	_
 Le	le	DET	_
-Fâcheux	Fâcheux	NC	_
+Fâcheux	fâcheux	NC	_
 monsieur	monsieur	NC	_
 !	!	PONCT	_
 Cyrano	Cyrano	NP	_
@@ -6258,7 +6268,7 @@ forme	forme	NC	_
 obscène	obscène	ADJ	_
 ?	?	PONCT	_
 Le	le	DET	_
-Fâcheux	Fâcheux	NC	_
+Fâcheux	fâcheux	NC	_
 mais	mais	CC	_
 du	de_le	P+D	_
 tout	tout	NC	_
@@ -6284,7 +6294,7 @@ trop	trop	ADV	_
 grand	grand	ADJ	_
 ?	?	PONCT	_
 Le	le	DET	_
-Fâcheux	Fâcheux	NC	_
+Fâcheux	fâcheux	NC	_
 ,	,	PONCT	_
 balbutiant	balbutier	VPR	_
 .	.	PONCT	_
@@ -6318,7 +6328,7 @@ nez	nez	NC	_
 Holà	holà	I	_
 !	!	PONCT	_
 Le	le	DET	_
-Fâcheux	Fâcheux	NC	_
+Fâcheux	fâcheux	NC	_
 ciel	ciel	NC	_
 !	!	PONCT	_
 Cyrano	Cyrano	NP	_
@@ -6419,7 +6429,7 @@ soufflette	souffleter	V	_
 .	.	PONCT	_
 )	)	PONCT	_
 Le	le	DET	_
-Fâcheux	Fâcheux	NC	_
+Fâcheux	fâcheux	NC	_
 aï	aï	NC	_
 !	!	PONCT	_
 Cyrano	Cyrano	NP	_
@@ -6476,7 +6486,7 @@ votre	votre	DET	_
 dos	dos	NC	_
 !	!	PONCT	_
 Le	le	DET	_
-Fâcheux	Fâcheux	NC	_
+Fâcheux	fâcheux	NC	_
 ,	,	PONCT	_
 se	se	CLO	_
 sauvant	sauver	VPR	_
@@ -6561,7 +6571,7 @@ nous	nous	CLO	_
 ennuie	ennuyer	V	_
 !	!	PONCT	_
 Le	le	DET	_
-Vicomte	Vicomte	NC	_
+Vicomte	vicomte	NC	_
 De	de	P	_
 Valvert	Valvert	NP	_
 ,	,	PONCT	_
@@ -6583,7 +6593,7 @@ répondre	répondre	VINF	_
 ?	?	PONCT	_
 ...	…	PONCT	_
 Le	le	DET	_
-Vicomte	Vicomte	NC	_
+Vicomte	vicomte	NC	_
 personne	personne	PRO	_
 ?	?	PONCT	_
 Attendez	attendre	V	_
@@ -6641,7 +6651,7 @@ gravement	gravement	ADV	_
 très	très	ADV	_
 .	.	PONCT	_
 Le	le	DET	_
-Vicomte	Vicomte	NC	_
+Vicomte	vicomte	NC	_
 ,	,	PONCT	_
 riant	rire	VPR	_
 .	.	PONCT	_
@@ -6657,7 +6667,7 @@ tout	tout	PRO	_
 ?	?	PONCT	_
 ...	…	PONCT	_
 Le	le	DET	_
-Vicomte	Vicomte	NC	_
+Vicomte	vicomte	NC	_
 mais	mais	CC	_
 ...	…	PONCT	_
 Cyrano	Cyrano	NP	_
@@ -7287,7 +7297,7 @@ laissez	laisser	V	_
 donc	donc	ADV	_
 !	!	PONCT	_
 Le	le	DET	_
-Vicomte	Vicomte	NC	_
+Vicomte	vicomte	NC	_
 ,	,	PONCT	_
 suffoqué	suffoquer	VPP	_
 .	.	PONCT	_
@@ -7436,7 +7446,7 @@ tout	tout	ADV	_
 couvert	couvrir	VPP	_
 d'	de	P	_
 exploits	exploit	NC	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 en	en	P	_
 rubans	ruban	NC	_
 je	je	CLS	_
@@ -7470,7 +7480,7 @@ des	un	DET	_
 éperons	éperon	NC	_
 .	.	PONCT	_
 Le	le	DET	_
-Vicomte	Vicomte	NC	_
+Vicomte	vicomte	NC	_
 mais	mais	CC	_
 ,	,	PONCT	_
 monsieur	monsieur	NC	_
@@ -7507,7 +7517,7 @@ m'	je	CLO	_
 était	être	V	_
 d'	de	P	_
 ailleurs	ailleurs	NC	_
-encor	encor	ADV	_
+encor	encore	ADV	_
 fort	fort	ADV	_
 importun	importun	ADJ	_
 :	:	PONCT	_
@@ -7522,7 +7532,7 @@ de	de	P	_
 quelqu'un	quelqu'un	PRO	_
 .	.	PONCT	_
 Le	le	DET	_
-Vicomte	Vicomte	NC	_
+Vicomte	vicomte	NC	_
 maraud	maraud	NC	_
 ,	,	PONCT	_
 faquin	faquin	NC	_
@@ -7568,7 +7578,7 @@ rires	rire	NC	_
 .	.	PONCT	_
 )	)	PONCT	_
 Le	le	DET	_
-Vicomte	Vicomte	NC	_
+Vicomte	vicomte	NC	_
 ,	,	PONCT	_
 exaspéré	exaspérer	VPP	_
 .	.	PONCT	_
@@ -7592,7 +7602,7 @@ ay	ay	NC	_
 !	!	PONCT	_
 ...	…	PONCT	_
 Le	le	DET	_
-Vicomte	Vicomte	NC	_
+Vicomte	vicomte	NC	_
 ,	,	PONCT	_
 qui	qui	PROREL	_
 remontait	remonter	V	_
@@ -7603,7 +7613,7 @@ retournant	retourner	VPR	_
 qu'	que	PROWH	_
 est	être	V	_
 -ce	ce	CLS	_
-encor	encor	ADV	_
+encor	encore	ADV	_
 qu'	que	CS	_
 il	il	CLS	_
 dit	dire	V	_
@@ -7641,7 +7651,7 @@ ay	ay	NC	_
 !	!	PONCT	_
 ...	…	PONCT	_
 Le	le	DET	_
-Vicomte	Vicomte	NC	_
+Vicomte	vicomte	NC	_
 qu'	que	PROREL	_
 avez	avoir	V	_
 -vous	vous	CLS	_
@@ -7656,7 +7666,7 @@ mon	mon	DET	_
 épée	épée	NC	_
 !	!	PONCT	_
 Le	le	DET	_
-Vicomte	Vicomte	NC	_
+Vicomte	vicomte	NC	_
 ,	,	PONCT	_
 tirant	tirer	VPR	_
 la	le	DET	_
@@ -7672,10 +7682,10 @@ donner	donner	VINF	_
 un	un	DET	_
 petit	petit	ADJ	_
 coup	coup	NC	_
-charmant	charmant	ADJ	_
+charmant	charmer	ADJ	_
 .	.	PONCT	_
 Le	le	DET	_
-Vicomte	Vicomte	NC	_
+Vicomte	vicomte	NC	_
 ,	,	PONCT	_
 méprisant	mépriser	VPR	_
 .	.	PONCT	_
@@ -7711,7 +7721,7 @@ une	un	DET	_
 ballade	ballade	NC	_
 .	.	PONCT	_
 Le	le	DET	_
-Vicomte	Vicomte	NC	_
+Vicomte	vicomte	NC	_
 une	un	DET	_
 ballade	ballade	NC	_
 ?	?	PONCT	_
@@ -7731,7 +7741,7 @@ je	je	CLS	_
 crois	croire	V	_
 ?	?	PONCT	_
 Le	le	DET	_
-Vicomte	Vicomte	NC	_
+Vicomte	vicomte	NC	_
 mais	mais	CC	_
 ...	…	PONCT	_
 Cyrano	Cyrano	NP	_
@@ -7756,7 +7766,7 @@ huit	huit	DET	_
 vers	ver	NC	_
 ...	…	PONCT	_
 Le	le	DET	_
-Vicomte	Vicomte	NC	_
+Vicomte	vicomte	NC	_
 ,	,	PONCT	_
 piétinant	piétiner	VPR	_
 .	.	PONCT	_
@@ -7774,7 +7784,7 @@ de	de	P	_
 quatre	quatre	NC	_
 ...	…	PONCT	_
 Le	le	DET	_
-Vicomte	Vicomte	NC	_
+Vicomte	vicomte	NC	_
 vous	vous	PRO	_
 ...	…	PONCT	_
 Cyrano	Cyrano	NP	_
@@ -7800,7 +7810,7 @@ dernier	dernier	ADJ	_
 vers	ver	NC	_
 .	.	PONCT	_
 Le	le	DET	_
-Vicomte	Vicomte	NC	_
+Vicomte	vicomte	NC	_
 non	non	I	_
 !	!	PONCT	_
 Cyrano	Cyrano	NP	_
@@ -7829,7 +7839,7 @@ bélître	bélître	NC	_
 !	!	PONCT	_
 "	"	PONCT	_
 Le	le	DET	_
-Vicomte	Vicomte	NC	_
+Vicomte	vicomte	NC	_
 qu'	que	PROREL	_
 est	être	V	_
 -ce	ce	CLS	_
@@ -7934,7 +7944,7 @@ Ragueneau	Ragueneau	NP	_
 ,	,	PONCT	_
 Cuigy	Cuigy	NP	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 )	)	PONCT	_
 Cyrano	Cyrano	NP	_
 ,	,	PONCT	_
@@ -8322,7 +8332,7 @@ héros	héros	NC	_
 !	!	PONCT	_
 ...	…	PONCT	_
 Un	un	DET	_
-Mousquetaire	Mousquetaire	NC	_
+Mousquetaire	mousquetaire	NC	_
 ,	,	PONCT	_
 s'	se	CLO	_
 avançant	avancer	VPR	_
@@ -8542,7 +8552,8 @@ Bret	Bret	NP	_
 à	à	P	_
 Cyrano	Cyrano	NP	_
 .	.	PONCT	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 ?	?	PONCT	_
 Cyrano	Cyrano	NP	_
 ,	,	PONCT	_
@@ -8703,7 +8714,7 @@ ma	mon	DET	_
 chère	cher	ADJ	_
 enfant	enfant	NC	_
 ,	,	PONCT	_
-encor	encor	ADV	_
+encor	encore	ADV	_
 que	que	CS	_
 mon	mon	DET	_
 orgueil	orgueil	NC	_
@@ -8827,7 +8838,7 @@ oh	oh	I	_
 !	!	PONCT	_
 Quelque	quelque	DET	_
 chose	chose	NC	_
-encor	encor	ADV	_
+encor	encore	ADV	_
 !	!	PONCT	_
 Cyrano	Cyrano	NP	_
 oui	oui	I	_
@@ -8876,7 +8887,7 @@ sort	sortir	V	_
 ACTE	acte	NC	_
 I	I	ADJ	_
 ,	,	PONCT	_
-SCèNE	SCèNE	NC	_
+SCèNE	scène	NC	_
 5	5	ADJ	_
 Cyrano	Cyrano	NP	_
 ,	,	PONCT	_
@@ -8990,7 +9001,7 @@ si	si	CS	_
 tu	tu	CLS	_
 n'	ne	ADV	_
 écoutes	écouter	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 eux	il	PRO	_
 !	!	PONCT	_
 ...	…	PONCT	_
@@ -9271,7 +9282,7 @@ nombril	nombril	NC	_
 pour	pour	P	_
 les	le	DET	_
 femmes	femme	NC	_
-encor	encor	ADV	_
+encor	encore	ADV	_
 se	se	CLO	_
 croit	croire	V	_
 un	un	DET	_
@@ -9472,7 +9483,7 @@ monde	monde	NC	_
 !	!	PONCT	_
 La	le	DET	_
 plus	plus	ADV	_
-brillante	brillant	ADJ	_
+brillante	briller	ADJ	_
 ,	,	PONCT	_
 la	le	DET	_
 plus	plus	ADV	_
@@ -9491,7 +9502,7 @@ Le	le	DET	_
 Bret	Bret	NP	_
 eh	eh	I	_
 !	!	PONCT	_
-Mon	Mon	NP	_
+Mon	mon	NP	_
 dieu	dieu	NC	_
 ,	,	PONCT	_
 quelle	il	PROWH	_
@@ -9674,7 +9685,7 @@ protubérance	protubérance	NC	_
 !	!	PONCT	_
 Oh	oh	I	_
 !	!	PONCT	_
-Je	Je	ADV	_
+Je	je	ADV	_
 ne	ne	ADV	_
 me	je	CLO	_
 fais	faire	V	_
@@ -10103,7 +10114,7 @@ duègne	duègne	NC	_
 .	.	PONCT	_
 ah	ah	I	_
 !	!	PONCT	_
-Mon	Mon	NP	_
+Mon	mon	NP	_
 dieu	dieu	NC	_
 !	!	PONCT	_
 Sa	son	DET	_
@@ -10112,7 +10123,7 @@ duègne	duègne	NC	_
 ACTE	acte	NC	_
 I	I	ADJ	_
 ,	,	PONCT	_
-SCèNE	SCèNE	NC	_
+SCèNE	scène	NC	_
 6	6	ADJ	_
 Cyrano	Cyrano	NP	_
 ,	,	PONCT	_
@@ -10122,7 +10133,7 @@ Bret	Bret	NP	_
 la	le	DET	_
 duègne	duègne	NC	_
 La	le	DET	_
-Duègne	Duègne	NC	_
+Duègne	duègne	NC	_
 ,	,	PONCT	_
 avec	avec	P	_
 un	un	DET	_
@@ -10154,7 +10165,7 @@ me	je	CLO	_
 voir	voir	VINF	_
 ?	?	PONCT	_
 La	le	DET	_
-Duègne	Duègne	NC	_
+Duègne	duègne	NC	_
 ,	,	PONCT	_
 avec	avec	P	_
 une	un	DET	_
@@ -10177,7 +10188,7 @@ des	de_le	P+D	_
 ?	?	PONCT	_
 ...	…	PONCT	_
 La	le	DET	_
-Duègne	Duègne	NC	_
+Duègne	duègne	NC	_
 ,	,	PONCT	_
 nouvelle	nouveau	ADJ	_
 révérence	révérence	NC	_
@@ -10191,11 +10202,11 @@ chancelant	chanceler	VPR	_
 .	.	PONCT	_
 ah	ah	I	_
 !	!	PONCT	_
-Mon	Mon	NP	_
+Mon	mon	NP	_
 dieu	dieu	NC	_
 !	!	PONCT	_
 La	le	DET	_
-Duègne	Duègne	NC	_
+Duègne	duègne	NC	_
 l'on	on	CLS	_
 ira	aller	V	_
 ,	,	PONCT	_
@@ -10224,11 +10235,11 @@ Bret	Bret	NP	_
 .	.	PONCT	_
 ah	ah	I	_
 !	!	PONCT	_
-Mon	Mon	NP	_
+Mon	mon	NP	_
 dieu	dieu	NC	_
 !	!	PONCT	_
 La	le	DET	_
-Duègne	Duègne	NC	_
+Duègne	duègne	NC	_
 en	en	P	_
 sortant	sortir	VPR	_
 ,	,	PONCT	_
@@ -10255,12 +10266,12 @@ mais	mais	CC	_
 ...	…	PONCT	_
 ah	ah	I	_
 !	!	PONCT	_
-Mon	Mon	NP	_
+Mon	mon	NP	_
 dieu	dieu	NC	_
 !	!	PONCT	_
 ...	…	PONCT	_
 La	le	DET	_
-Duègne	Duègne	NC	_
+Duègne	duègne	NC	_
 dites	dire	V	_
 vite	vite	ADV	_
 .	.	PONCT	_
@@ -10270,7 +10281,7 @@ cherche	chercher	V	_
 !	!	PONCT	_
 ...	…	PONCT	_
 La	le	DET	_
-Duègne	Duègne	NC	_
+Duègne	duègne	NC	_
 où	où	PROREL	_
 ?	?	PONCT	_
 ...	…	PONCT	_
@@ -10285,7 +10296,7 @@ le	le	DET	_
 pâtissier	pâtissier	NC	_
 ...	…	PONCT	_
 La	le	DET	_
-Duègne	Duègne	NC	_
+Duègne	duègne	NC	_
 il	il	CLS	_
 perche	percher	V	_
 ?	?	PONCT	_
@@ -10307,7 +10318,7 @@ Saint-honoré	saint-honoré	NC	_
 !	!	PONCT	_
 ...	…	PONCT	_
 La	le	DET	_
-Duègne	Duègne	NC	_
+Duègne	duègne	NC	_
 ,	,	PONCT	_
 remontant	remonter	VPR	_
 .	.	PONCT	_
@@ -10334,7 +10345,7 @@ sort	sortir	V	_
 ACTE	acte	NC	_
 I	I	ADJ	_
 ,	,	PONCT	_
-SCèNE	SCèNE	NC	_
+SCèNE	scène	NC	_
 7	7	ADJ	_
 Cyrano	Cyrano	NP	_
 ,	,	PONCT	_
@@ -10396,7 +10407,7 @@ triste	triste	ADJ	_
 Cyrano	Cyrano	NP	_
 ah	ah	I	_
 !	!	PONCT	_
-Pour	Pour	ADV	_
+Pour	pour	ADV	_
 quoi	quoi	PROWH	_
 que	que	PROREL	_
 ce	ce	CLS	_
@@ -10512,7 +10523,7 @@ place	place	NC	_
 .	.	PONCT	_
 )	)	PONCT	_
 Une	un	DET	_
-Voix	Voix	NC	_
+Voix	voix	NC	_
 ,	,	PONCT	_
 de	de	P	_
 la	le	DET	_
@@ -10829,7 +10840,8 @@ l'	le	DET	_
 de	de	P	_
 Lignière	Lignière	NP	_
 .	.	PONCT	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 cet	ce	DET	_
 ivrogne	ivrogne	NC	_
 ,	,	PONCT	_
@@ -10900,7 +10912,7 @@ entier	entier	ADJ	_
 !	!	PONCT	_
 ...	…	PONCT	_
 Une	un	DET	_
-Comédienne	Comédienne	NP	_
+Comédienne	comédien	NP	_
 ,	,	PONCT	_
 en	en	P	_
 costume	costume	NC	_
@@ -10925,7 +10937,7 @@ la	le	DET	_
 soubrette	soubrette	NC	_
 ?	?	PONCT	_
 La	le	DET	_
-Comédienne	Comédienne	NP	_
+Comédienne	comédien	NP	_
 ,	,	PONCT	_
 aux	à_le	P+D	_
 autres	autre	NC	_
@@ -10970,8 +10982,8 @@ le	le	DET	_
 danger	danger	NC	_
 !	!	PONCT	_
 Une	un	DET	_
-Autre	Autre	NC	_
-Comédienne	Comédienne	NP	_
+Autre	autre	NC	_
+Comédienne	comédien	NP	_
 ,	,	PONCT	_
 sautant	sauter	VPR	_
 de	de	P	_
@@ -10980,7 +10992,7 @@ scène	scène	NC	_
 .	.	PONCT	_
 oh	oh	I	_
 !	!	PONCT	_
-Mais	Mais	V	_
+Mais	mais	V	_
 moi	je	PRO	_
 je	je	CLS	_
 vais	aller	V	_
@@ -10991,7 +11003,7 @@ venez	venir	V	_
 !	!	PONCT	_
 ...	…	PONCT	_
 Une	un	DET	_
-Autre	Autre	NC	_
+Autre	autre	NC	_
 ,	,	PONCT	_
 sautant	sauter	VPR	_
 aussi	aussi	ADV	_
@@ -11009,7 +11021,7 @@ Cassandre	Cassandre	NP	_
 ...	…	PONCT	_
 Cyrano	Cyrano	NP	_
 venez	venir	V	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 ,	,	PONCT	_
 le	le	DET	_
 docteur	docteur	NC	_
@@ -11018,7 +11030,7 @@ Isabelle	Isabelle	NP	_
 ,	,	PONCT	_
 Léandre	Léandre	NP	_
 ,	,	PONCT	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 !	!	PONCT	_
 Car	car	CC	_
 vous	vous	CLS	_
@@ -11026,7 +11038,7 @@ allez	aller	V	_
 joindre	joindre	VINF	_
 ,	,	PONCT	_
 essaim	essaim	NC	_
-charmant	charmant	ADJ	_
+charmant	charmer	ADJ	_
 et	et	CC	_
 fol	fou	ADJ	_
 ,	,	PONCT	_
@@ -11060,7 +11072,7 @@ basque	basque	NC	_
 ...	…	PONCT	_
 Toutes	tout	ADJ	_
 Les	le	DET	_
-Femmes	Femmes	NC	_
+Femmes	femme	NC	_
 ,	,	PONCT	_
 sautant	sauter	VPR	_
 de	de	P	_
@@ -11290,7 +11302,7 @@ vous	vous	CLS	_
 allez	aller	V	_
 voir	voir	VINF	_
 !	!	PONCT	_
-Tous	tous	PRO	_
+Tous	tout	PRO	_
 à	à	P	_
 la	le	DET	_
 porte	porte	NC	_
@@ -11351,7 +11363,8 @@ tranquillement	tranquillement	ADV	_
 )	)	PONCT	_
 c'	ce	CLS	_
 est	être	V	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 on	on	CLS	_
 savait	savoir	V	_
 qu'	que	CS	_
@@ -11483,7 +11496,7 @@ en	en	P	_
 fer	fer	NC	_
 forgé	forger	VPP	_
 ,	,	PONCT	_
-auquel	auquel	PROREL	_
+auquel	à_lequel	PROREL	_
 sont	être	V	_
 accrochés	accrocher	VPP	_
 des	un	DET	_
@@ -11640,7 +11653,7 @@ une	un	DET	_
 corde	corde	NC	_
 ,	,	PONCT	_
 et	et	CC	_
-auquel	auquel	PROREL	_
+auquel	à_lequel	PROREL	_
 de	un	DET	_
 grosses	gros	ADJ	_
 pièces	pièce	NC	_
@@ -11761,7 +11774,7 @@ les	le	DET	_
 mangeurs	mangeur	NC	_
 et	et	CC	_
 les	le	DET	_
-buveurs	buveuse	NC	_
+buveurs	buveur	NC	_
 .	.	PONCT	_
 Une	un	DET	_
 plus	plus	ADV	_
@@ -11791,7 +11804,7 @@ il	il	CLS	_
 ACTE	acte	NC	_
 II	II	ADJ	_
 ,	,	PONCT	_
-SCèNE	SCèNE	NC	_
+SCèNE	scène	NC	_
 1	1	ADJ	_
 Ragueneau	Ragueneau	NP	_
 ,	,	PONCT	_
@@ -11820,7 +11833,7 @@ ses	son	DET	_
 doigts	doigt	NC	_
 .	.	PONCT	_
 Premier	premier	ADJ	_
-Pâtissier	Pâtissier	NP	_
+Pâtissier	pâtissier	NP	_
 ,	,	PONCT	_
 apportant	apporter	VPR	_
 une	un	DET	_
@@ -11832,7 +11845,7 @@ en	en	P	_
 nougat	nougat	NC	_
 !	!	PONCT	_
 Deuxième	deuxième	ADJ	_
-Pâtissier	Pâtissier	NP	_
+Pâtissier	pâtissier	NP	_
 ,	,	PONCT	_
 apportant	apporter	VPR	_
 un	un	DET	_
@@ -11841,7 +11854,7 @@ plat	plat	NC	_
 flan	flan	NC	_
 !	!	PONCT	_
 Troisième	troisième	ADJ	_
-Pâtissier	Pâtissier	NP	_
+Pâtissier	pâtissier	NP	_
 ,	,	PONCT	_
 apportant	apporter	VPR	_
 un	un	DET	_
@@ -11853,7 +11866,7 @@ plumes	plume	NC	_
 paon	paon	NC	_
 !	!	PONCT	_
 Quatrième	quatrième	ADJ	_
-Pâtissier	Pâtissier	NP	_
+Pâtissier	pâtissier	NP	_
 ,	,	PONCT	_
 apportant	apporter	VPR	_
 une	un	DET	_
@@ -11864,7 +11877,7 @@ gâteaux	gâteau	NC	_
 roinsoles	roinsoles	ET	_
 !	!	PONCT	_
 Cinquième	cinquième	ADJ	_
-Pâtissier	Pâtissier	NP	_
+Pâtissier	pâtissier	NP	_
 ,	,	PONCT	_
 apportant	apporter	VPR	_
 une	un	DET	_
@@ -11948,7 +11961,7 @@ est	être	V	_
 courte	court	ADJ	_
 !	!	PONCT	_
 Le	le	DET	_
-Cuisinier	Cuisinier	NC	_
+Cuisinier	cuisinier	NC	_
 de	de	P	_
 combien	combien	PROWH	_
 ?	?	PONCT	_
@@ -11963,16 +11976,16 @@ passe	passer	V	_
 .	.	PONCT	_
 )	)	PONCT	_
 Le	le	DET	_
-Cuisinier	Cuisinier	NC	_
+Cuisinier	cuisinier	NC	_
 hein	hein	I	_
 ?	?	PONCT	_
 Premier	premier	ADJ	_
-Pâtissier	Pâtissier	NP	_
+Pâtissier	pâtissier	NP	_
 la	le	DET	_
 tarte	tarte	NC	_
 !	!	PONCT	_
 Deuxième	deuxième	ADJ	_
-Pâtissier	Pâtissier	NP	_
+Pâtissier	pâtissier	NP	_
 la	le	DET	_
 tourte	tourte	NC	_
 !	!	PONCT	_
@@ -11992,7 +12005,7 @@ pour	pour	P	_
 que	que	CS	_
 tes	ton	DET	_
 yeux	œil	NC	_
-charmants	charmant	ADJ	_
+charmants	charmer	ADJ	_
 n'	ne	ADV	_
 aillent	aller	V	_
 pas	pas	ADV	_
@@ -12127,7 +12140,7 @@ de	de	P	_
 rôtis	rôti	NC	_
 !	!	PONCT	_
 Un	un	DET	_
-Autre	Autre	NC	_
+Autre	autre	NC	_
 Apprenti	Apprenti	NP	_
 ,	,	PONCT	_
 s'	se	CLO	_
@@ -12331,7 +12344,7 @@ croquantes	croquante	NC	_
 ...	…	PONCT	_
 ah	ah	I	_
 !	!	PONCT	_
-Vous	Vous	ADV	_
+Vous	vous	ADV	_
 renouvelez	renouveler	V	_
 Orphée	Orphée	NP	_
 et	et	CC	_
@@ -12429,7 +12442,7 @@ prose	prose	NC	_
 ACTE	acte	NC	_
 II	II	ADJ	_
 ,	,	PONCT	_
-SCèNE	SCèNE	NC	_
+SCèNE	scène	NC	_
 2	2	ADJ	_
 les	le	DET	_
 mêmes	même	NC	_
@@ -12452,7 +12465,7 @@ désirez	désirer	V	_
 petits	petit	ADJ	_
 ?	?	PONCT	_
 Premier	premier	ADJ	_
-Enfant	Enfant	NC	_
+Enfant	enfant	NC	_
 trois	trois	DET	_
 pâtés	pâté	NC	_
 .	.	PONCT	_
@@ -12471,7 +12484,7 @@ bien	bien	ADV	_
 chauds	chaud	ADJ	_
 .	.	PONCT	_
 Deuxième	deuxième	ADJ	_
-Enfant	Enfant	NC	_
+Enfant	enfant	NC	_
 s'	si	CS	_
 il	il	CLS	_
 vous	vous	CLO	_
@@ -12762,7 +12775,7 @@ brusquement	brusquement	ADV	_
 ACTE	acte	NC	_
 II	II	ADJ	_
 ,	,	PONCT	_
-SCèNE	SCèNE	NC	_
+SCèNE	scène	NC	_
 3	3	ADJ	_
 Ragueneau	Ragueneau	NP	_
 ,	,	PONCT	_
@@ -13145,7 +13158,7 @@ de	de	P	_
 cygne	cygne	NC	_
 .	.	PONCT	_
 Un	un	DET	_
-Mousquetaire	Mousquetaire	NC	_
+Mousquetaire	mousquetaire	NC	_
 ,	,	PONCT	_
 superbement	superbement	ADV	_
 moustachu	moustachu	ADJ	_
@@ -13287,7 +13300,8 @@ j'	je	CLS	_
 ai	avoir	V	_
 là	là	ADV	_
 !	!	PONCT	_
-Tandis_qu'	tandis_que	CS	_
+Tandis	tandis	ADV	_
+qu'	que	CS	_
 en	en	P	_
 écrivant	écrire	VPR	_
 ...	…	PONCT	_
@@ -13372,7 +13386,7 @@ hésitantes	hésitant	ADJ	_
 ACTE	acte	NC	_
 II	II	ADJ	_
 ,	,	PONCT	_
-SCèNE	SCèNE	NC	_
+SCèNE	scène	NC	_
 4	4	ADJ	_
 Ragueneau	Ragueneau	NP	_
 ,	,	PONCT	_
@@ -13419,7 +13433,7 @@ vos	votre	DET	_
 crottés	crottés	NC	_
 !	!	PONCT	_
 Premier	premier	ADJ	_
-Poète	Poète	NC	_
+Poète	poète	NC	_
 ,	,	PONCT	_
 entrant	entrer	VPR	_
 ,	,	PONCT	_
@@ -13430,7 +13444,7 @@ confrère	confrère	NC	_
 !	!	PONCT	_
 ...	…	PONCT	_
 Deuxième	deuxième	ADJ	_
-Poète	Poète	NC	_
+Poète	poète	NC	_
 ,	,	PONCT	_
 de	de	P	_
 même	même	ADV	_
@@ -13444,7 +13458,7 @@ cher	cher	ADJ	_
 confrère	confrère	NC	_
 !	!	PONCT	_
 Troisième	troisième	ADJ	_
-Poète	Poète	NC	_
+Poète	poète	NC	_
 aigle	aigle	NC	_
 des	de_le	P+D	_
 pâtissiers	pâtissier	NC	_
@@ -13461,14 +13475,14 @@ dans	dans	P	_
 votre	votre	DET	_
 aire	aire	NC	_
 Quatrième	quatrième	ADJ	_
-Poète	Poète	NC	_
+Poète	poète	NC	_
 ô	ô	I	_
 Phoebus	Phoebus	NP	_
 -	-	PONCT	_
 rôtisseur	rôtisseur	NC	_
 !	!	PONCT	_
 Cinquième	cinquième	ADJ	_
-Poète	Poète	NC	_
+Poète	poète	NC	_
 Apollon	Apollon	NP	_
 maître-queux	maître-queux	NC	_
 !	!	PONCT	_
@@ -13495,7 +13509,7 @@ eux	il	PRO	_
 !	!	PONCT	_
 ...	…	PONCT	_
 Premier	premier	ADJ	_
-Poète	Poète	NC	_
+Poète	poète	NC	_
 nous	nous	CLS	_
 fûmes	être	V	_
 retardés	retarder	VPP	_
@@ -13511,7 +13525,7 @@ Nesle	Nesle	NP	_
 !	!	PONCT	_
 ...	…	PONCT	_
 Deuxième	deuxième	ADJ	_
-Poète	Poète	NC	_
+Poète	poète	NC	_
 ouverts	ouvrir	VPP	_
 à	à	P	_
 coups	coup	NC	_
@@ -13582,7 +13596,7 @@ et	et	CC	_
 vous	vous	PRO	_
 ?	?	PONCT	_
 Le	le	DET	_
-Mousquetaire	Mousquetaire	NC	_
+Mousquetaire	mousquetaire	NC	_
 ,	,	PONCT	_
 se	se	CLO	_
 frisant	frire	VPR	_
@@ -13615,7 +13629,7 @@ vous	vous	CLO	_
 aime	aimer	V	_
 ...	…	PONCT	_
 Premier	premier	ADJ	_
-Poète	Poète	NC	_
+Poète	poète	NC	_
 un	un	DET	_
 seul	seul	ADJ	_
 homme	homme	NC	_
@@ -13633,7 +13647,7 @@ fuite	fuite	NC	_
 ...	…	PONCT	_
 !	!	PONCT	_
 Deuxième	deuxième	ADJ	_
-Poète	Poète	NC	_
+Poète	poète	NC	_
 oh	oh	I	_
 !	!	PONCT	_
 C'	ce	CLS	_
@@ -13659,7 +13673,7 @@ vos	votre	DET	_
 yeux	œil	NC	_
 ...	…	PONCT	_
 Troisième	troisième	ADJ	_
-Poète	Poète	NC	_
+Poète	poète	NC	_
 on	on	CLS	_
 trouvait	trouver	V	_
 des	un	DET	_
@@ -13671,7 +13685,7 @@ des	de_le	P+D	_
 orfèvres	orfèvre	NC	_
 !	!	PONCT	_
 Premier	premier	ADJ	_
-Poète	Poète	NC	_
+Poète	poète	NC	_
 sapristi	sapristi	I	_
 !	!	PONCT	_
 Ce	ce	CLS	_
@@ -13690,7 +13704,7 @@ vos	votre	DET	_
 lèvres	lèvre	NC	_
 ...	…	PONCT	_
 Premier	premier	ADJ	_
-Poète	Poète	NC	_
+Poète	poète	NC	_
 un	un	DET	_
 terrible	terrible	ADJ	_
 géant	géant	NC	_
@@ -13719,7 +13733,7 @@ vous	vous	CLO	_
 vois	voir	V	_
 .	.	PONCT	_
 Deuxième	deuxième	ADJ	_
-Poète	Poète	NC	_
+Poète	poète	NC	_
 ,	,	PONCT	_
 happant	happer	VPR	_
 un	un	DET	_
@@ -13791,7 +13805,7 @@ en	en	P	_
 vers	ver	NC	_
 .	.	PONCT	_
 Troisième	troisième	ADJ	_
-Poète	Poète	NC	_
+Poète	poète	NC	_
 ,	,	PONCT	_
 s'	se	CLO	_
 installant	installer	VPR	_
@@ -13810,7 +13824,7 @@ ces	ce	DET	_
 vers	ver	NC	_
 !	!	PONCT	_
 Quatrième	quatrième	ADJ	_
-Poète	Poète	NC	_
+Poète	poète	NC	_
 ,	,	PONCT	_
 regardant	regarder	VPR	_
 une	un	DET	_
@@ -13841,7 +13855,7 @@ dent	dent	NC	_
 .	.	PONCT	_
 )	)	PONCT	_
 Premier	premier	ADJ	_
-Poète	Poète	NC	_
+Poète	poète	NC	_
 ce	ce	DET	_
 pain	pain	NC	_
 d'	de	P	_
@@ -13873,12 +13887,12 @@ d'	de	P	_
 .	.	PONCT	_
 )	)	PONCT	_
 Deuxième	deuxième	ADJ	_
-Poète	Poète	NC	_
+Poète	poète	NC	_
 nous	nous	CLO	_
 écoutons	écouter	V	_
 .	.	PONCT	_
 Troisième	troisième	ADJ	_
-Poète	Poète	NC	_
+Poète	poète	NC	_
 ,	,	PONCT	_
 serrant	serrer	VPR	_
 légèrement	légèrement	ADV	_
@@ -13899,7 +13913,7 @@ Il	il	CLS	_
 rit	rire	V	_
 .	.	PONCT	_
 Deuxième	deuxième	ADJ	_
-Poète	Poète	NC	_
+Poète	poète	NC	_
 ,	,	PONCT	_
 mordant	mordre	VPR	_
 à	à	P	_
@@ -13946,7 +13960,7 @@ en	en	P	_
 vers	ver	NC	_
 ...	…	PONCT	_
 Deuxième	deuxième	ADJ	_
-Poète	Poète	NC	_
+Poète	poète	NC	_
 ,	,	PONCT	_
 au	à_le	P+D	_
 premier	premier	NC	_
@@ -13962,7 +13976,7 @@ tu	tu	CLS	_
 déjeunes	déjeuner	V	_
 ?	?	PONCT	_
 Premier	premier	ADJ	_
-Poète	Poète	NC	_
+Poète	poète	NC	_
 ,	,	PONCT	_
 au	à_le	P+D	_
 deuxième	deuxième	NC	_
@@ -14077,7 +14091,7 @@ exquis	exquis	NC	_
 délicieux	délicieux	ADJ	_
 !	!	PONCT	_
 Un	un	DET	_
-Poète	Poète	NC	_
+Poète	poète	NC	_
 ,	,	PONCT	_
 s'	se	CLO	_
 étouffant	étouffer	VPR	_
@@ -14260,7 +14274,7 @@ vertus	vertu	NC	_
 Cyrano	Cyrano	NP	_
 euh	euh	I	_
 !	!	PONCT	_
-Pour	Pour	NC	_
+Pour	pour	NC	_
 des	de_le	P+D	_
 yeux	œil	NC	_
 vainqueurs	vainqueur	ADJ	_
@@ -14372,7 +14386,7 @@ son	son	DET	_
 nez	nez	NC	_
 ...	…	PONCT	_
 Le	le	DET	_
-Mousquetaire	Mousquetaire	NC	_
+Mousquetaire	mousquetaire	NC	_
 sur	sur	P	_
 son	son	DET	_
 nez	nez	NC	_
@@ -14450,7 +14464,7 @@ des	un	DET	_
 vers	ver	NC	_
 ...	…	PONCT	_
 Premier	premier	ADJ	_
-Poète	Poète	NC	_
+Poète	poète	NC	_
 ,	,	PONCT	_
 désespéré	désespéré	ADJ	_
 ,	,	PONCT	_
@@ -14464,14 +14478,14 @@ gâteaux	gâteau	NC	_
 !	!	PONCT	_
 ...	…	PONCT	_
 Deuxième	deuxième	ADJ	_
-Poète	Poète	NC	_
+Poète	poète	NC	_
 emportons	emporter	V	_
 -les	il	CLO	_
 !	!	PONCT	_
 (	(	PONCT	_
 ils	il	CLS	_
 sortent	sortir	V	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 derrière	derrière	P	_
 Ragueneau	Ragueneau	NP	_
 ,	,	PONCT	_
@@ -14490,7 +14504,7 @@ plateaux	plateau	NC	_
 ACTE	acte	NC	_
 II	II	ADJ	_
 ,	,	PONCT	_
-SCèNE	SCèNE	NC	_
+SCèNE	scène	NC	_
 5	5	ADJ	_
 Cyrano	Cyrano	NP	_
 ,	,	PONCT	_
@@ -14557,7 +14571,7 @@ mots	mot	NC	_
 duègna	duègna	NC	_
 !	!	PONCT	_
 La	le	DET	_
-Duègne	Duègne	NC	_
+Duègne	duègne	NC	_
 quatre	quatre	ADJ	_
 .	.	PONCT	_
 Cyrano	Cyrano	NP	_
@@ -14566,7 +14580,7 @@ Cyrano	Cyrano	NP	_
 gourmande	gourmand	ADJ	_
 ?	?	PONCT	_
 La	le	DET	_
-Duègne	Duègne	NC	_
+Duègne	duègne	NC	_
 à	à	P	_
 m'	je	CLO	_
 en	en	CLO	_
@@ -14595,7 +14609,7 @@ Monsieur	monsieur	NC	_
 Benserade	Benserade	NP	_
 ...	…	PONCT	_
 La	le	DET	_
-Duègne	Duègne	NC	_
+Duègne	duègne	NC	_
 heu	heu	I	_
 !	!	PONCT	_
 ...	…	PONCT	_
@@ -14609,7 +14623,7 @@ de	de	P	_
 darioles	dariole	NC	_
 .	.	PONCT	_
 La	le	DET	_
-Duègne	Duègne	NC	_
+Duègne	duègne	NC	_
 ,	,	PONCT	_
 changeant	changer	VPR	_
 de	de	P	_
@@ -14629,7 +14643,7 @@ petit	petit	ADJ	_
 chou	chou	NC	_
 ?	?	PONCT	_
 La	le	DET	_
-Duègne	Duègne	NC	_
+Duègne	duègne	NC	_
 monsieur	monsieur	NC	_
 ,	,	PONCT	_
 j'	je	CLS	_
@@ -14680,14 +14694,14 @@ poupelin	poupelin	NC	_
 -	-	X	_
 ah	ah	I	_
 !	!	PONCT	_
-Vous	Vous	ADV	_
+Vous	vous	ADV	_
 aimez	aimer	V	_
 les	le	DET	_
 gâteaux	gâteau	NC	_
 frais	frais	ADJ	_
 ?	?	PONCT	_
 La	le	DET	_
-Duègne	Duègne	NC	_
+Duègne	duègne	NC	_
 j'	je	CLS	_
 en	en	CLO	_
 suis	être	V	_
@@ -14714,7 +14728,7 @@ la	le	DET	_
 rue	rue	NC	_
 .	.	PONCT	_
 La	le	DET	_
-Duègne	Duègne	NC	_
+Duègne	duègne	NC	_
 mais	mais	CC	_
 ...	…	PONCT	_
 Cyrano	Cyrano	NP	_
@@ -14726,7 +14740,7 @@ dehors	dehors	ADV	_
 et	et	CC	_
 ne	ne	ADV	_
 revenez	revenir	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 après	après	P	_
 avoir	avoir	VINF	_
 fini	finir	VPP	_
@@ -14756,7 +14770,7 @@ respectueuse	respectueux	ADJ	_
 ACTE	acte	NC	_
 II	II	ADJ	_
 ,	,	PONCT	_
-SCèNE	SCèNE	NC	_
+SCèNE	scène	NC	_
 6	6	ADJ	_
 Cyrano	Cyrano	NP	_
 ,	,	PONCT	_
@@ -15071,7 +15085,7 @@ est	être	V	_
 que	que	PROREL	_
 c'	ce	CLS	_
 est	être	V	_
-encor	encor	ADV	_
+encor	encore	ADV	_
 que	que	CS	_
 cette	ce	DET	_
 égratignure	égratignure	NC	_
@@ -15114,7 +15128,7 @@ Hein	hein	I	_
 votre	votre	DET	_
 âge	âge	NC	_
 ,	,	PONCT	_
-encor	encor	ADV	_
+encor	encore	ADV	_
 !	!	PONCT	_
 -	-	PONCT	_
 où	où	PROREL	_
@@ -15493,7 +15507,7 @@ l'	il	CLO	_
 ai	avoir	V	_
 jamais	jamais	ADV	_
 vu	voir	VPP	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 à	à	P	_
 la	le	DET	_
 comédie	comédie	NC	_
@@ -15599,7 +15613,7 @@ pauvre	pauvre	ADJ	_
 petite	petite	NC	_
 ...	…	PONCT	_
 La	le	DET	_
-Duègne	Duègne	NC	_
+Duègne	duègne	NC	_
 ,	,	PONCT	_
 ouvrant	ouvrir	VPR	_
 la	le	DET	_
@@ -15789,11 +15803,11 @@ et	et	CC	_
 me	je	CLO	_
 disant	dire	VPR	_
 que	que	CS	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 ,	,	PONCT	_
 vous	vous	CLS	_
 êtes	être	V	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 gascons	gascon	ADJ	_
 dans	dans	P	_
 votre	votre	DET	_
@@ -15896,7 +15910,7 @@ voulait	vouloir	V	_
 ,	,	PONCT	_
 lui	il	PRO	_
 que	que	PROREL	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 ils	il	CLS	_
 craindront	craindre	V	_
 ...	…	PONCT	_
@@ -16147,7 +16161,7 @@ tête	tête	NC	_
 ACTE	acte	NC	_
 II	II	ADJ	_
 ,	,	PONCT	_
-SCèNE	SCèNE	NC	_
+SCèNE	scène	NC	_
 7	7	ADJ	_
 Cyrano	Cyrano	NP	_
 ,	,	PONCT	_
@@ -16168,7 +16182,7 @@ cadets	cadet	NC	_
 la	le	DET	_
 foule	foule	NC	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 ,	,	PONCT	_
 puis	puis	CC	_
 De	de	P	_
@@ -16332,7 +16346,7 @@ humeur	humeur	NC	_
 bourrue	bourru	ADJ	_
 !	!	PONCT	_
 Une	un	DET	_
-Voix	Voix	NC	_
+Voix	voix	NC	_
 ,	,	PONCT	_
 au	à_le	P+D	_
 dehors	dehors	NC	_
@@ -16373,7 +16387,7 @@ rue	rue	NC	_
 !	!	PONCT	_
 ...	…	PONCT	_
 Les	le	DET	_
-Cadets	Cadets	NC	_
+Cadets	cadet	NC	_
 ,	,	PONCT	_
 entrant	entrer	VPR	_
 dans	dans	P	_
@@ -16402,13 +16416,13 @@ messieurs	messieurs	NC	_
 vous	vous	CLS	_
 êtes	être	V	_
 donc	donc	ADV	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 de	de	P	_
 Gascogne	Gascogne	NP	_
 ?	?	PONCT	_
 Les	le	DET	_
-Cadets	Cadets	NC	_
-tous	tous	PRO	_
+Cadets	cadet	NC	_
+tous	tout	PRO	_
 !	!	PONCT	_
 Un	un	DET	_
 Cadet	Cadet	NC	_
@@ -16422,7 +16436,7 @@ Cyrano	Cyrano	NP	_
 baron	baron	NC	_
 !	!	PONCT	_
 Un	un	DET	_
-Autre	Autre	NC	_
+Autre	autre	NC	_
 ,	,	PONCT	_
 lui	il	CLO	_
 secouant	secouer	VPR	_
@@ -16454,7 +16468,7 @@ Cyrano	Cyrano	NP	_
 ,	,	PONCT	_
 ne	ne	ADV	_
 sachant	savoir	VPR	_
-auquel	auquel	PROREL	_
+auquel	à_lequel	PROREL	_
 répondre	répondre	VINF	_
 .	.	PONCT	_
 baron	baron	NC	_
@@ -16473,8 +16487,8 @@ barons	baron	NC	_
 messieurs	messieurs	NC	_
 ?	?	PONCT	_
 Les	le	DET	_
-Cadets	Cadets	NC	_
-tous	tous	PRO	_
+Cadets	cadet	NC	_
+tous	tout	PRO	_
 !	!	PONCT	_
 Ragueneau	Ragueneau	NP	_
 le	il	CLO	_
@@ -16721,7 +16735,7 @@ nous	nous	CLS	_
 gardâmes	garder	V	_
 ?	?	PONCT	_
 Un	un	DET	_
-Autre	Autre	NC	_
+Autre	autre	NC	_
 je	je	CLS	_
 veux	vouloir	V	_
 vous	vous	CLO	_
@@ -16774,7 +16788,7 @@ tais	taire	V	_
 Un	un	DET	_
 Homme	homme	NC	_
 De	de	P	_
-Lettres	Lettres	NC	_
+Lettres	lettre	NC	_
 ,	,	PONCT	_
 avec	avec	P	_
 un	un	DET	_
@@ -16836,7 +16850,7 @@ d'	de	P	_
 avenir	avenir	NC	_
 !	!	PONCT	_
 Un	un	DET	_
-Poète	Poète	NC	_
+Poète	poète	NC	_
 ,	,	PONCT	_
 s'	se	CLO	_
 avançant	avancer	VPR	_
@@ -16844,10 +16858,10 @@ avançant	avancer	VPR	_
 monsieur	monsieur	NC	_
 ...	…	PONCT	_
 Cyrano	Cyrano	NP	_
-encor	encor	ADV	_
+encor	encore	ADV	_
 !	!	PONCT	_
 Le	le	DET	_
-Poète	Poète	NC	_
+Poète	poète	NC	_
 ...	…	PONCT	_
 je	je	CLS	_
 veux	vouloir	V	_
@@ -16859,7 +16873,7 @@ votre	votre	DET	_
 nom	nom	NC	_
 ...	…	PONCT	_
 Quelqu'	quelque	DET	_
-Un	Un	NC	_
+Un	un	NC	_
 ,	,	PONCT	_
 s'	se	CLO	_
 avançant	avancer	VPR	_
@@ -17066,7 +17080,7 @@ voir	voir	VINF	_
 De	de	P	_
 Guiche	Guiche	NP	_
 ,	,	PONCT	_
-auquel	auquel	PROREL	_
+auquel	à_lequel	PROREL	_
 Cuigy	Cuigy	NP	_
 a	avoir	V	_
 parlé	parler	VPP	_
@@ -17223,7 +17237,7 @@ lambel	lambel	NC	_
 ,	,	PONCT	_
 bastogne	bastogne	NC	_
 ,	,	PONCT	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 plus	plus	ADV	_
 nobles	noble	ADJ	_
 que	que	CS	_
@@ -17702,7 +17716,7 @@ ah	ah	I	_
 !	!	PONCT	_
 Ah	ah	I	_
 !	!	PONCT	_
-Ah	Ah	I	_
+Ah	ah	I	_
 !	!	PONCT	_
 Cuigy	Cuigy	NP	_
 celui	celui	PRO	_
@@ -17812,7 +17826,7 @@ dans	dans	P	_
 un	un	DET	_
 salut	salut	NC	_
 ,	,	PONCT	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 glisser	glisser	VINF	_
 aux	à_le	P+D	_
 pieds	pied	NC	_
@@ -17867,7 +17881,7 @@ monsieur	monsieur	NC	_
 !	!	PONCT	_
 ...	…	PONCT	_
 Une	un	DET	_
-Voix	Voix	NC	_
+Voix	voix	NC	_
 ,	,	PONCT	_
 dans	dans	P	_
 la	le	DET	_
@@ -18033,7 +18047,7 @@ sort	sortir	V	_
 ACTE	acte	NC	_
 II	II	ADJ	_
 ,	,	PONCT	_
-SCèNE	SCèNE	NC	_
+SCèNE	scène	NC	_
 8	8	ADJ	_
 Cyrano	Cyrano	NP	_
 ,	,	PONCT	_
@@ -18053,7 +18067,7 @@ et	et	CC	_
 à	à	P	_
 gauche	gauche	NC	_
 et	et	CC	_
-auxquels	auquel	PROREL	_
+auxquels	à_lequel	PROREL	_
 on	on	CLS	_
 sert	servir	V	_
 à	à	P	_
@@ -18097,7 +18111,7 @@ ciel	ciel	NC	_
 .	.	PONCT	_
 ah	ah	I	_
 !	!	PONCT	_
-Dans	Dans	ADV	_
+Dans	dans	ADV	_
 quels	quel	DET	_
 jolis	joli	ADJ	_
 draps	drap	NC	_
@@ -18236,7 +18250,7 @@ merci	merci	I	_
 Dédier	dédier	VINF	_
 ,	,	PONCT	_
 comme	comme	P	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 ils	il	CLS	_
 le	il	CLO	_
 font	faire	V	_
@@ -18468,7 +18482,7 @@ Ne	ne	ADV	_
 découvrir	découvrir	VINF	_
 du	de_le	P+D	_
 talent	talent	NC	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 aux	à_le	P+D	_
 mazettes	mazette	NC	_
 ?	?	PONCT	_
@@ -18608,7 +18622,7 @@ fortune	fortune	NC	_
 tel	tel	DET	_
 voyage	voyage	NC	_
 ,	,	PONCT	_
-auquel	auquel	PROREL	_
+auquel	à_lequel	PROREL	_
 on	on	CLS	_
 pense	penser	V	_
 ,	,	PONCT	_
@@ -18736,11 +18750,11 @@ seul	seul	ADJ	_
 ,	,	PONCT	_
 soit	soit	CC	_
 !	!	PONCT	_
-Mais	Mais	NP	_
+Mais	mais	NP	_
 non	non	ADV	_
 pas	pas	ADV	_
 contre	contre	P	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 !	!	PONCT	_
 Comment	comment	PROWH	_
 diable	diable	ADJ	_
@@ -19102,7 +19116,7 @@ sert	servir	V	_
 ACTE	acte	NC	_
 II	II	ADJ	_
 ,	,	PONCT	_
-SCèNE	SCèNE	NC	_
+SCèNE	scène	NC	_
 9	9	ADJ	_
 Cyrano	Cyrano	NP	_
 ,	,	PONCT	_
@@ -19208,7 +19222,7 @@ tête	tête	NC	_
 apprentif	apprentif	NP	_
 ?	?	PONCT	_
 Un	un	DET	_
-Autre	Autre	NC	_
+Autre	autre	NC	_
 Cadet	Cadet	NP	_
 oui	oui	I	_
 ,	,	PONCT	_
@@ -19264,7 +19278,7 @@ est	être	V	_
 -ce	ce	CLS	_
 ?	?	PONCT	_
 Un	un	DET	_
-Autre	Autre	NC	_
+Autre	autre	NC	_
 Cadet	Cadet	NP	_
 ,	,	PONCT	_
 d'	de	P	_
@@ -19303,7 +19317,7 @@ est	être	V	_
 le	le	DET	_
 ...	…	PONCT	_
 Un	un	DET	_
-Autre	Autre	NC	_
+Autre	autre	NC	_
 chut	chut	I	_
 !	!	PONCT	_
 ...	…	PONCT	_
@@ -19341,7 +19355,7 @@ aurait	avoir	V	_
 affaire	affaire	NC	_
 !	!	PONCT	_
 Un	un	DET	_
-Autre	Autre	NC	_
+Autre	autre	NC	_
 ,	,	PONCT	_
 qui	qui	PROREL	_
 ,	,	PONCT	_
@@ -19374,7 +19388,8 @@ par	par	P	_
 lui	il	CLO	_
 furent	être	V	_
 exterminés	exterminer	VPP	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 il	il	CLS	_
 lui	il	CLO	_
 déplut	déplaire	V	_
@@ -19385,7 +19400,7 @@ du	de_le	P+D	_
 nez	nez	NC	_
 !	!	PONCT	_
 Un	un	DET	_
-Autre	Autre	NC	_
+Autre	autre	NC	_
 ,	,	PONCT	_
 d'	de	P	_
 une	un	DET	_
@@ -19427,7 +19442,7 @@ fatal	fatal	ADJ	_
 cartilage	cartilage	NC	_
 !	!	PONCT	_
 Un	un	DET	_
-Autre	Autre	NC	_
+Autre	autre	NC	_
 ,	,	PONCT	_
 lui	il	CLO	_
 posant	poser	VPR	_
@@ -19468,7 +19483,7 @@ linceul	linceul	NC	_
 (	(	PONCT	_
 silence	silence	NC	_
 .	.	PONCT	_
-Tous	tous	PRO	_
+Tous	tout	PRO	_
 autour	autour	ADV	_
 de	de	P	_
 lui	il	PRO	_
@@ -19584,7 +19599,7 @@ récit	récit	NC	_
 ?	?	PONCT	_
 ...	…	PONCT	_
 (	(	PONCT	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 rapprochent	rapprocher	V	_
 leurs	leur	DET	_
 escabeaux	escabeau	NC	_
@@ -20147,7 +20162,7 @@ Cyrano	Cyrano	NP	_
 tonnerre	tonnerre	NC	_
 !	!	PONCT	_
 Sortez	sortir	V	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 !	!	PONCT	_
 (	(	PONCT	_
 tous	tout	ADJ	_
@@ -20170,7 +20185,7 @@ du	de_le	P+D	_
 tigre	tigre	NC	_
 !	!	PONCT	_
 Cyrano	Cyrano	NP	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 !	!	PONCT	_
 Et	et	CC	_
 laissez	laisser	V	_
@@ -20196,7 +20211,7 @@ en	en	P	_
 hachis	hachis	NC	_
 ?	?	PONCT	_
 Un	un	DET	_
-Autre	Autre	NC	_
+Autre	autre	NC	_
 Cadet	Cadet	NP	_
 dans	dans	P	_
 un	un	PRO	_
@@ -20224,7 +20239,7 @@ Carbon	carbon	NC	_
 sortons	sortir	V	_
 !	!	PONCT	_
 Un	un	DET	_
-Autre	Autre	NC	_
+Autre	autre	NC	_
 il	il	CLS	_
 n'	ne	ADV	_
 en	en	CLO	_
@@ -20235,7 +20250,7 @@ une	un	DET	_
 miette	miette	NC	_
 !	!	PONCT	_
 Un	un	DET	_
-Autre	Autre	NC	_
+Autre	autre	NC	_
 ce	ce	PRO	_
 qui	qui	PROREL	_
 va	aller	V	_
@@ -20250,7 +20265,7 @@ d'	de	P	_
 effroi	effroi	NC	_
 !	!	PONCT	_
 Un	un	DET	_
-Autre	Autre	NC	_
+Autre	autre	NC	_
 ,	,	PONCT	_
 refermant	refermer	VPR	_
 la	le	DET	_
@@ -20266,7 +20281,7 @@ d'	de	P	_
 (	(	PONCT	_
 ils	il	CLS	_
 sont	être	V	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 sortis	sortir	VPP	_
 ,	,	PONCT	_
 -	-	PONCT	_
@@ -20306,7 +20321,7 @@ moment	moment	NC	_
 ACTE	acte	NC	_
 II	II	ADJ	_
 ,	,	PONCT	_
-SCèNE	SCèNE	NC	_
+SCèNE	scène	NC	_
 10	10	ADJ	_
 Cyrano	Cyrano	NP	_
 ,	,	PONCT	_
@@ -21203,7 +21218,7 @@ elle	il	PRO	_
 Christian	Christian	NP	_
 ah	ah	I	_
 !	!	PONCT	_
-Mon	Mon	ADV	_
+Mon	mon	ADV	_
 ami	ami	ADJ	_
 !	!	PONCT	_
 (	(	PONCT	_
@@ -21224,7 +21239,7 @@ embrassés	embrasser	VPP	_
 ACTE	acte	NC	_
 II	II	ADJ	_
 ,	,	PONCT	_
-SCèNE	SCèNE	NC	_
+SCèNE	scène	NC	_
 11	11	ADJ	_
 Cyrano	Cyrano	NP	_
 ,	,	PONCT	_
@@ -21268,7 +21283,7 @@ hein	hein	I	_
 ?	?	PONCT	_
 Tous	tout	ADJ	_
 Les	le	DET	_
-Cadets	Cadets	NC	_
+Cadets	cadet	NC	_
 ,	,	PONCT	_
 entrant	entrer	VPR	_
 et	et	CC	_
@@ -21298,7 +21313,7 @@ consternation	consternation	NC	_
 .	.	PONCT	_
 )	)	PONCT	_
 Le	le	DET	_
-Mousquetaire	Mousquetaire	NC	_
+Mousquetaire	mousquetaire	NC	_
 ,	,	PONCT	_
 goguenard	goguenard	ADJ	_
 .	.	PONCT	_
@@ -21329,7 +21344,7 @@ l'	le	DET	_
 autre	autre	NC	_
 ?	?	PONCT	_
 Le	le	DET	_
-Mousquetaire	Mousquetaire	NC	_
+Mousquetaire	mousquetaire	NC	_
 on	on	CLS	_
 peut	pouvoir	V	_
 donc	donc	ADV	_
@@ -21474,7 +21489,9 @@ de	un	DET	_
 larges	large	ADJ	_
 feuillages	feuillage	NC	_
 .	.	PONCT	_
-Au-dessus	au-dessus	ADV	_
+Au	à_le	P+D	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 de	de	P	_
 la	le	DET	_
 porte	porte	NC	_
@@ -21611,7 +21628,7 @@ yeux	œil	NC	_
 ACTE	acte	NC	_
 III	III	ADJ	_
 ,	,	PONCT	_
-SCèNE	SCèNE	NC	_
+SCèNE	scène	NC	_
 1	1	ADJ	_
 Ragueneau	Ragueneau	NP	_
 ,	,	PONCT	_
@@ -21671,7 +21688,7 @@ comme	comme	P	_
 intendant	intendant	NC	_
 .	.	PONCT	_
 La	le	DET	_
-Duègne	Duègne	NC	_
+Duègne	duègne	NC	_
 mais	mais	CC	_
 comment	comment	PROWH	_
 expliquer	expliquer	VINF	_
@@ -21714,7 +21731,7 @@ pas	pas	ADV	_
 long	long	ADJ	_
 !	!	PONCT	_
 La	le	DET	_
-Duègne	Duègne	NC	_
+Duègne	duègne	NC	_
 ,	,	PONCT	_
 se	se	CLO	_
 levant	lever	VPR	_
@@ -21737,7 +21754,7 @@ nous	nous	CLO	_
 attend	attendre	V	_
 !	!	PONCT	_
 La	le	DET	_
-Voix	Voix	NC	_
+Voix	voix	NC	_
 De	de	P	_
 Roxane	Roxane	NP	_
 ,	,	PONCT	_
@@ -21751,7 +21768,7 @@ une	un	DET	_
 mante	mante	NC	_
 !	!	PONCT	_
 La	le	DET	_
-Duègne	Duègne	NC	_
+Duègne	duègne	NC	_
 ,	,	PONCT	_
 à	à	P	_
 Ragueneau	Ragueneau	NP	_
@@ -21803,7 +21820,7 @@ le	le	DET	_
 tendre	tendre	NC	_
 ?	?	PONCT	_
 La	le	DET	_
-Duègne	Duègne	NC	_
+Duègne	duègne	NC	_
 ,	,	PONCT	_
 minaudant	minauder	VPR	_
 .	.	PONCT	_
@@ -21835,7 +21852,7 @@ le	le	DET	_
 tendre	tendre	NC	_
 !	!	PONCT	_
 La	le	DET	_
-Voix	Voix	NC	_
+Voix	voix	NC	_
 De	de	P	_
 Roxane	Roxane	NP	_
 je	je	CLS	_
@@ -21856,7 +21873,7 @@ rapproche	rapprocher	V	_
 .	.	PONCT	_
 )	)	PONCT	_
 La	le	DET	_
-Voix	Voix	NC	_
+Voix	voix	NC	_
 De	de	P	_
 Cyrano	Cyrano	NP	_
 ,	,	PONCT	_
@@ -21874,7 +21891,7 @@ La	le	DET	_
 La	le	DET	_
 !	!	PONCT	_
 La	le	DET	_
-Duègne	Duègne	NC	_
+Duègne	duègne	NC	_
 ,	,	PONCT	_
 surprise	surprise	NC	_
 .	.	PONCT	_
@@ -22022,7 +22039,7 @@ balcon	balcon	NC	_
 .	.	PONCT	_
 )	)	PONCT	_
 La	le	DET	_
-Duègne	Duègne	NC	_
+Duègne	duègne	NC	_
 ,	,	PONCT	_
 montrant	montrer	VPR	_
 les	le	DET	_
@@ -22141,7 +22158,7 @@ ce	ce	CLS	_
 fut	être	V	_
 d'	de	P	_
 abord	abord	NC	_
-charmant	charmant	ADJ	_
+charmant	charmer	ADJ	_
 ,	,	PONCT	_
 et	et	CC	_
 ce	ce	DET	_
@@ -22377,7 +22394,7 @@ il	il	CLS	_
 ?	?	PONCT	_
 Roxane	Roxane	NP	_
 mieux	mieux	ADV	_
-encor	encor	ADV	_
+encor	encore	ADV	_
 !	!	PONCT	_
 écoutez	écouter	V	_
 donc	donc	ADV	_
@@ -22516,7 +22533,7 @@ mon	mon	DET	_
 coeur	cœur	NC	_
 ne	ne	ADV	_
 fait	faire	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 un	un	DET	_
 cri	cri	NC	_
 ,	,	PONCT	_
@@ -22592,7 +22609,7 @@ par	par	P	_
 coeur	cœur	NC	_
 ?	?	PONCT	_
 Roxane	Roxane	NP	_
-toutes	tous	PRO	_
+toutes	tout	PRO	_
 !	!	PONCT	_
 Cyrano	Cyrano	NP	_
 il	il	CLS	_
@@ -22639,7 +22656,7 @@ un	un	DET	_
 maître	maître	NC	_
 !	!	PONCT	_
 La	le	DET	_
-Duègne	Duègne	NC	_
+Duègne	duègne	NC	_
 ,	,	PONCT	_
 qui	qui	PROREL	_
 était	être	V	_
@@ -22750,7 +22767,7 @@ paraît	paraître	V	_
 ACTE	acte	NC	_
 III	III	ADJ	_
 ,	,	PONCT	_
-SCèNE	SCèNE	NC	_
+SCèNE	scène	NC	_
 2	2	ADJ	_
 Roxane	Roxane	NP	_
 ,	,	PONCT	_
@@ -23219,7 +23236,7 @@ Il	il	CLS	_
 n'	ne	ADV	_
 y	y	CLO	_
 a	avoir	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 une	un	DET	_
 femme	femme	NC	_
 pour	pour	P	_
@@ -23361,7 +23378,7 @@ ah	ah	I	_
 !	!	PONCT	_
 Ah	ah	I	_
 !	!	PONCT	_
-Ah	Ah	I	_
+Ah	ah	I	_
 !	!	PONCT	_
 Cyrano	Cyrano	NP	_
 !	!	PONCT	_
@@ -23646,7 +23663,7 @@ sort	sortir	V	_
 .	.	PONCT	_
 )	)	PONCT	_
 La	le	DET	_
-Duègne	Duègne	NC	_
+Duègne	duègne	NC	_
 ,	,	PONCT	_
 lui	il	CLO	_
 faisant	faire	VPR	_
@@ -23699,7 +23716,7 @@ cousin	cousin	NC	_
 ACTE	acte	NC	_
 III	III	ADJ	_
 ,	,	PONCT	_
-SCèNE	SCèNE	NC	_
+SCèNE	scène	NC	_
 3	3	ADJ	_
 Roxane	Roxane	NP	_
 ,	,	PONCT	_
@@ -23732,7 +23749,7 @@ et	et	CC	_
 Lysimon	Lysimon	NP	_
 !	!	PONCT	_
 La	le	DET	_
-Duègne	Duègne	NC	_
+Duègne	duègne	NC	_
 ,	,	PONCT	_
 mettant	mettre	VPR	_
 son	son	DET	_
@@ -23778,14 +23795,14 @@ Clomire	Clomire	NP	_
 .	.	PONCT	_
 )	)	PONCT	_
 La	le	DET	_
-Duègne	Duègne	NC	_
+Duègne	duègne	NC	_
 ,	,	PONCT	_
 avec	avec	P	_
 ravissement	ravissement	NC	_
 .	.	PONCT	_
 oh	oh	I	_
 !	!	PONCT	_
-Voyez	Voyez	V	_
+Voyez	voir	V	_
 !	!	PONCT	_
 Le	le	DET	_
 heurtoir	heurtoir	NC	_
@@ -23910,7 +23927,9 @@ vous	vous	CLS	_
 serez	être	V	_
 muet	muet	ADJ	_
 ,	,	PONCT	_
-là-dessus	là-dessus	ADV	_
+là	là	ADV	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 !	!	PONCT	_
 Cyrano	Cyrano	NP	_
 comme	comme	P	_
@@ -24035,7 +24054,7 @@ Christian	Christian	NP	_
 ACTE	acte	NC	_
 III	III	ADJ	_
 ,	,	PONCT	_
-SCèNE	SCèNE	NC	_
+SCèNE	scène	NC	_
 4	4	ADJ	_
 Cyrano	Cyrano	NP	_
 ,	,	PONCT	_
@@ -24283,14 +24302,14 @@ jardin	jardin	NC	_
 ACTE	acte	NC	_
 III	III	ADJ	_
 ,	,	PONCT	_
-SCèNE	SCèNE	NC	_
+SCèNE	scène	NC	_
 5	5	ADJ	_
 Christian	Christian	NP	_
 ,	,	PONCT	_
 Roxane	Roxane	NP	_
 ,	,	PONCT	_
 La	le	DET	_
-Duègne	Duègne	NP	_
+Duègne	duègne	NP	_
 ,	,	PONCT	_
 un	un	DET	_
 instant	instant	NC	_
@@ -24324,7 +24343,7 @@ Grémione	Grémione	NP	_
 !	!	PONCT	_
 ...	…	PONCT	_
 La	le	DET	_
-Duègne	Duègne	NC	_
+Duègne	duègne	NC	_
 ,	,	PONCT	_
 désespérée	désespéré	ADJ	_
 .	.	PONCT	_
@@ -24356,7 +24375,7 @@ adieu	adieu	I	_
 !	!	PONCT	_
 ...	…	PONCT	_
 (	(	PONCT	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 saluent	saluer	V	_
 Roxane	Roxane	NP	_
 ,	,	PONCT	_
@@ -24701,7 +24720,7 @@ Non	non	I	_
 !	!	PONCT	_
 Non	non	I	_
 !	!	PONCT	_
-Allez	Allez	V	_
+Allez	aller	V	_
 -vous	vous	CLS	_
 -en	en	CLO	_
 !	!	PONCT	_
@@ -24739,7 +24758,7 @@ succès	succès	NC	_
 ACTE	acte	NC	_
 III	III	ADJ	_
 ,	,	PONCT	_
-SCèNE	SCèNE	NC	_
+SCèNE	scène	NC	_
 6	6	ADJ	_
 Christian	Christian	NP	_
 ,	,	PONCT	_
@@ -25639,13 +25658,13 @@ moi	je	PRO	_
 je	je	CLS	_
 ne	ne	ADV	_
 suis	être	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 une	un	DET	_
 ombre	ombre	NC	_
 ,	,	PONCT	_
 et	et	CC	_
 vous	vous	PRO	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 une	un	DET	_
 clarté	clarté	NC	_
 !	!	PONCT	_
@@ -25688,7 +25707,8 @@ Roxane	Roxane	NP	_
 pourquoi	pourquoi	PROWH	_
 ?	?	PONCT	_
 Cyrano	Cyrano	NP	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 ...	…	PONCT	_
 jusqu'	jusque	P	_
 ici	ici	ADV	_
@@ -26514,7 +26534,7 @@ monte	monter	V	_
 ...	…	PONCT	_
 oh	oh	I	_
 !	!	PONCT	_
-Mais	Mais	V	_
+Mais	mais	V	_
 vraiment	vraiment	ADV	_
 ,	,	PONCT	_
 ce	ce	DET	_
@@ -26567,7 +26587,7 @@ Il	il	CLS	_
 ne	ne	ADV	_
 me	je	CLO	_
 reste	rester	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 à	à	P	_
 mourir	mourir	VINF	_
 maintenant	maintenant	ADV	_
@@ -26695,7 +26715,7 @@ Je	je	CLS	_
 ne	ne	ADV	_
 demande	demander	V	_
 plus	plus	ADV	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 une	un	DET	_
 chose	chose	NC	_
 ...	…	PONCT	_
@@ -26981,7 +27001,7 @@ portes	porte	NC	_
 ACTE	acte	NC	_
 III	III	ADJ	_
 ,	,	PONCT	_
-SCèNE	SCèNE	NC	_
+SCèNE	scène	NC	_
 7	7	ADJ	_
 Cyrano	Cyrano	NP	_
 ,	,	PONCT	_
@@ -27089,7 +27109,7 @@ Christian	Christian	NP	_
 ACTE	acte	NC	_
 III	III	ADJ	_
 ,	,	PONCT	_
-SCèNE	SCèNE	NC	_
+SCèNE	scène	NC	_
 8	8	ADJ	_
 Cyrano	Cyrano	NP	_
 ,	,	PONCT	_
@@ -27179,7 +27199,7 @@ balcon	balcon	NC	_
 ACTE	acte	NC	_
 III	III	ADJ	_
 ,	,	PONCT	_
-SCèNE	SCèNE	NC	_
+SCèNE	scène	NC	_
 9	9	ADJ	_
 Cyrano	Cyrano	NP	_
 ,	,	PONCT	_
@@ -27289,7 +27309,7 @@ il	il	CLS	_
 n'	ne	ADV	_
 y	y	CLO	_
 a	avoir	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 un	un	DET	_
 frisson	frisson	NC	_
 !	!	PONCT	_
@@ -27506,7 +27526,7 @@ cueillir	cueillir	VINF	_
 cette	ce	DET	_
 fleur	fleur	NC	_
 sans	sans	P	_
-pareille	pareille	NC	_
+pareille	pareil	NC	_
 ...	…	PONCT	_
 Cyrano	Cyrano	NP	_
 ,	,	PONCT	_
@@ -27733,13 +27753,13 @@ passais	passer	V	_
 ...	…	PONCT	_
 Christian	Christian	NP	_
 est	être	V	_
-encor	encor	ADV	_
+encor	encore	ADV	_
 là	là	ADV	_
 ?	?	PONCT	_
 Christian	Christian	NP	_
 ,	,	PONCT	_
 très	très	ADV	_
-étonné	étonné	ADJ	_
+étonné	étonner	ADJ	_
 .	.	PONCT	_
 tiens	tenir	V	_
 ,	,	PONCT	_
@@ -27791,7 +27811,7 @@ Roxane	Roxane	NP	_
 ACTE	acte	NC	_
 III	III	ADJ	_
 ,	,	PONCT	_
-SCèNE	SCèNE	NC	_
+SCèNE	scène	NC	_
 10	10	ADJ	_
 Cyrano	Cyrano	NP	_
 ,	,	PONCT	_
@@ -27918,7 +27938,7 @@ ose	oser	V	_
 Roxane	Roxane	NP	_
 oh	oh	I	_
 !	!	PONCT	_
-Mais	Mais	NP	_
+Mais	mais	NP	_
 il	il	CLS	_
 ne	ne	ADV	_
 va	aller	V	_
@@ -28081,7 +28101,7 @@ lettre	lettre	NC	_
 écoutez	écouter	V	_
 :	:	PONCT	_
 (	(	PONCT	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 se	se	CLO	_
 rapprochent	rapprocher	V	_
 ,	,	PONCT	_
@@ -28127,7 +28147,7 @@ lignes	ligne	NC	_
 en	en	P	_
 vos	votre	DET	_
 mains	main	NC	_
-charmantes	charmant	ADJ	_
+charmantes	charmer	ADJ	_
 ,	,	PONCT	_
 d'	de	P	_
 un	un	DET	_
@@ -28446,7 +28466,7 @@ Cyrano	Cyrano	NP	_
 ,	,	PONCT	_
 les	le	DET	_
 poussant	pousser	VPR	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 vers	vers	P	_
 la	le	DET	_
 maison	maison	NC	_
@@ -28644,7 +28664,7 @@ atmosphère	atmosphère	NC	_
 ACTE	acte	NC	_
 III	III	ADJ	_
 ,	,	PONCT	_
-SCèNE	SCèNE	NC	_
+SCèNE	scène	NC	_
 11	11	ADJ	_
 Cyrano	Cyrano	NP	_
 ,	,	PONCT	_
@@ -29271,7 +29291,7 @@ drôle	drôle	ADJ	_
 Cyrano	Cyrano	NP	_
 ah	ah	I	_
 !	!	PONCT	_
-Vous	Vous	ADV	_
+Vous	vous	ADV	_
 riez	rire	V	_
 ?	?	PONCT	_
 De	de	P	_
@@ -29351,7 +29371,7 @@ ai	avoir	V	_
 aux	à_le	P+D	_
 éperons	éperon	NC	_
 ,	,	PONCT	_
-encor	encor	ADV	_
+encor	encore	ADV	_
 ,	,	PONCT	_
 quelques	quelque	DET	_
 poils	poil	NC	_
@@ -29469,7 +29489,9 @@ aiguille	aiguille	NC	_
 à	à	P	_
 présent	présent	NC	_
 ,	,	PONCT	_
-là-haut	là-haut	ADV	_
+à	à_le	P+D	_
+-	-	PONCT	_
+haut	haut	ADV	_
 ,	,	PONCT	_
 marque	marquer	V	_
 mon	mon	DET	_
@@ -29584,7 +29606,7 @@ Ourse	Ourse	NP	_
 est	être	V	_
 trop	trop	ADV	_
 petite	petit	ADJ	_
-encor	encor	ADV	_
+encor	encore	ADV	_
 pour	pour	P	_
 qu'	que	CS	_
 elle	il	CLS	_
@@ -29911,7 +29933,7 @@ côté	côté	NC	_
 et	et	CC	_
 je	je	CLS	_
 pouvais	pouvoir	V	_
-encor	encor	ADV	_
+encor	encore	ADV	_
 faire	faire	VINF	_
 engouffrer	engouffrer	VINF	_
 du	de_le	P+D	_
@@ -30039,7 +30061,7 @@ de	de	P	_
 plus	plus	NC	_
 en	en	P	_
 plus	plus	NC	_
-étonné	étonné	ADJ	_
+étonné	étonner	ADJ	_
 .	.	PONCT	_
 quatre	quatre	NC	_
 !	!	PONCT	_
@@ -30507,7 +30529,7 @@ ciel	ciel	NC	_
 ACTE	acte	NC	_
 III	III	ADJ	_
 ,	,	PONCT	_
-SCèNE	SCèNE	NC	_
+SCèNE	scène	NC	_
 12	12	ADJ	_
 les	le	DET	_
 mêmes	même	NC	_
@@ -30803,7 +30825,7 @@ oh	oh	I	_
 !	!	PONCT	_
 Tes	Tes	ADJ	_
 lèvres	lèvre	NC	_
-encor	encor	ADV	_
+encor	encore	ADV	_
 !	!	PONCT	_
 Cyrano	Cyrano	NP	_
 allons	aller	V	_
@@ -31076,7 +31098,7 @@ armes	arme	NC	_
 ;	;	PONCT	_
 tambours	tambour	NC	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 .	.	PONCT	_
 .	.	PONCT	_
 -	-	PONCT	_
@@ -31152,7 +31174,7 @@ Silence	silence	NC	_
 ACTE	acte	NC	_
 IV	IV	ADJ	_
 ,	,	PONCT	_
-SCèNE	SCèNE	NC	_
+SCèNE	scène	NC	_
 1	1	ADJ	_
 Christian	Christian	NP	_
 ,	,	PONCT	_
@@ -31327,7 +31349,7 @@ recouchent	recoucher	V	_
 .	.	PONCT	_
 )	)	PONCT	_
 Une	un	DET	_
-Sentinelle	Sentinelle	NP	_
+Sentinelle	sentinelle	NP	_
 ,	,	PONCT	_
 au	à_le	P+D	_
 dehors	dehors	NC	_
@@ -31339,13 +31361,13 @@ va	aller	V	_
 là	là	ADV	_
 ?	?	PONCT	_
 La	le	DET	_
-Voix	Voix	NC	_
+Voix	voix	NC	_
 De	de	P	_
 Cyrano	Cyrano	NP	_
 Bergerac	Bergerac	NP	_
 !	!	PONCT	_
 La	le	DET	_
-Sentinelle	Sentinelle	NP	_
+Sentinelle	sentinelle	NP	_
 ,	,	PONCT	_
 qui	qui	PROREL	_
 est	être	V	_
@@ -31377,7 +31399,9 @@ descend	descendre	V	_
 Le	le	DET	_
 Bret	Bret	NP	_
 va	aller	V	_
-au-devant	au-devant	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+devant	devant	ADV	_
 de	de	P	_
 lui	il	PRO	_
 ,	,	PONCT	_
@@ -31715,7 +31739,7 @@ disparaît	disparaître	V	_
 ACTE	acte	NC	_
 IV	IV	ADJ	_
 ,	,	PONCT	_
-SCèNE	SCèNE	NC	_
+SCèNE	scène	NC	_
 2	2	ADJ	_
 les	le	DET	_
 mêmes	même	NC	_
@@ -31864,11 +31888,11 @@ ai	avoir	V	_
 faim	faim	NC	_
 !	!	PONCT	_
 Un	un	DET	_
-Autre	Autre	NC	_
+Autre	autre	NC	_
 je	je	CLS	_
 meurs	mourir	V	_
 !	!	PONCT	_
-Tous	tous	PRO	_
+Tous	tout	PRO	_
 oh	oh	I	_
 !	!	PONCT	_
 Carbon	carbon	NC	_
@@ -31888,7 +31912,7 @@ un	un	DET	_
 geste	geste	NC	_
 !	!	PONCT	_
 Le	le	DET	_
-Premier	Premier	NP	_
+Premier	premier	NP	_
 ,	,	PONCT	_
 se	se	CLO	_
 regardant	regarder	VPR	_
@@ -31911,7 +31935,7 @@ est	être	V	_
 indigeste	indigeste	ADJ	_
 !	!	PONCT	_
 Un	un	DET	_
-Autre	Autre	NC	_
+Autre	autre	NC	_
 mon	mon	DET	_
 tortil	tortil	NC	_
 de	de	P	_
@@ -31923,7 +31947,7 @@ de	de	P	_
 chester	chester	NC	_
 !	!	PONCT	_
 Un	un	DET	_
-Autre	Autre	NC	_
+Autre	autre	NC	_
 moi	je	PRO	_
 ,	,	PONCT	_
 si	si	CS	_
@@ -31956,7 +31980,7 @@ comme	comme	P	_
 Achille	Achille	NP	_
 !	!	PONCT	_
 Un	un	DET	_
-Autre	Autre	NC	_
+Autre	autre	NC	_
 oui	oui	I	_
 ,	,	PONCT	_
 du	de_le	P+D	_
@@ -32034,7 +32058,7 @@ tu	tu	CLS	_
 grignotes	grignoter	V	_
 ?	?	PONCT	_
 Le	le	DET	_
-Premier	Premier	NP	_
+Premier	premier	NP	_
 de	de	P	_
 l'	le	DET	_
 étoupe	étoupe	NC	_
@@ -32065,7 +32089,7 @@ peu	peu	ADV	_
 giboyeux	giboyeux	ADJ	_
 !	!	PONCT	_
 Un	un	DET	_
-Autre	Autre	NC	_
+Autre	autre	NC	_
 ,	,	PONCT	_
 entrant	entrer	VPR	_
 .	.	PONCT	_
@@ -32077,7 +32101,7 @@ de	de	P	_
 chasser	chasser	VINF	_
 !	!	PONCT	_
 Un	un	DET	_
-Autre	Autre	NC	_
+Autre	autre	NC	_
 ,	,	PONCT	_
 même	même	ADV	_
 jeu	jeu	NC	_
@@ -32089,7 +32113,7 @@ dans	dans	P	_
 la	le	DET	_
 Scarpe	Scarpe	NC	_
 !	!	PONCT	_
-Tous	tous	PRO	_
+Tous	tout	PRO	_
 ,	,	PONCT	_
 debout	debout	ADJ	_
 ,	,	PONCT	_
@@ -32133,7 +32157,7 @@ Chasseur	Chasseur	NC	_
 un	un	DET	_
 moineau	moineau	NC	_
 !	!	PONCT	_
-Tous	tous	PRO	_
+Tous	tout	PRO	_
 ,	,	PONCT	_
 exaspérés	exaspérer	VPP	_
 .	.	PONCT	_
@@ -32162,7 +32186,7 @@ jour	jour	NC	_
 ACTE	acte	NC	_
 IV	IV	ADJ	_
 ,	,	PONCT	_
-SCèNE	SCèNE	NC	_
+SCèNE	scène	NC	_
 3	3	ADJ	_
 les	le	DET	_
 mêmes	même	NC	_
@@ -32293,7 +32317,7 @@ la	le	DET	_
 charge	charge	NC	_
 .	.	PONCT	_
 Un	un	DET	_
-Autre	Autre	NC	_
+Autre	autre	NC	_
 dans	dans	P	_
 les	le	DET	_
 oreilles	oreille	NC	_
@@ -32321,7 +32345,7 @@ tu	tu	CLS	_
 mens	mentir	V	_
 !	!	PONCT	_
 Un	un	DET	_
-Autre	Autre	NC	_
+Autre	autre	NC	_
 oh	oh	I	_
 !	!	PONCT	_
 Manger	Manger	NP	_
@@ -32350,7 +32374,7 @@ ta	ton	DET	_
 salade	salade	NC	_
 .	.	PONCT	_
 Un	un	DET	_
-Autre	Autre	NC	_
+Autre	autre	NC	_
 qu'	que	PROREL	_
 est	être	V	_
 -ce	ce	CLS	_
@@ -32377,7 +32401,7 @@ l'	le	DET	_
 Iliade	Iliade	NC	_
 .	.	PONCT	_
 Un	un	DET	_
-Autre	Autre	NC	_
+Autre	autre	NC	_
 le	le	DET	_
 ministre	ministre	NC	_
 ,	,	PONCT	_
@@ -32398,7 +32422,7 @@ du	de_le	P+D	_
 perdreau	perdreau	NC	_
 ?	?	PONCT	_
 Le	le	DET	_
-Même	Même	NC	_
+Même	même	NC	_
 pourquoi	pourquoi	PROWH	_
 pas	pas	ADV	_
 ?	?	PONCT	_
@@ -32417,7 +32441,7 @@ you	you	ET	_
 please	please	ET	_
 ?	?	PONCT	_
 Le	le	DET	_
-Même	Même	NC	_
+Même	même	NC	_
 par	par	P	_
 quelque	quelque	DET	_
 capucin	capucin	NC	_
@@ -32429,7 +32453,7 @@ qui	qui	PROREL	_
 grise	griser	V	_
 ?	?	PONCT	_
 Un	un	DET	_
-Autre	Autre	NC	_
+Autre	autre	NC	_
 j'	je	CLS	_
 ai	avoir	V	_
 des	un	DET	_
@@ -32448,7 +32472,7 @@ le	le	DET	_
 marmot	marmot	NC	_
 !	!	PONCT	_
 Le	le	DET	_
-Premier	Premier	NP	_
+Premier	premier	NP	_
 Cadet	Cadet	NP	_
 ,	,	PONCT	_
 haussant	hausser	VPR	_
@@ -32564,7 +32588,7 @@ Mais	mais	CC	_
 vous	vous	CLS	_
 ne	ne	ADV	_
 pensez	penser	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 à	à	P	_
 manger	manger	VINF	_
 ?	?	PONCT	_
@@ -32983,7 +33007,7 @@ tambour	tambour	NC	_
 roule	rouler	V	_
 .	.	PONCT	_
 )	)	PONCT	_
-Tous	tous	PRO	_
+Tous	tout	PRO	_
 ,	,	PONCT	_
 se	se	CLO	_
 levant	lever	VPR	_
@@ -33061,7 +33085,7 @@ Guiche	Guiche	NP	_
 !	!	PONCT	_
 Tous	tout	ADJ	_
 Les	le	DET	_
-Cadets	Cadets	NC	_
+Cadets	cadet	NC	_
 ,	,	PONCT	_
 murmurant	murmurer	VPR	_
 .	.	PONCT	_
@@ -33077,7 +33101,7 @@ nous	nous	CLO	_
 ennuie	ennuyer	V	_
 !	!	PONCT	_
 Un	un	DET	_
-Autre	Autre	NC	_
+Autre	autre	NC	_
 avec	avec	P	_
 ,	,	PONCT	_
 sur	sur	P	_
@@ -33097,7 +33121,7 @@ le	le	DET	_
 fier	fier	NC	_
 !	!	PONCT	_
 Un	un	DET	_
-Autre	Autre	NC	_
+Autre	autre	NC	_
 comme	comme	CS	_
 si	si	CS	_
 l'on	on	CLS	_
@@ -33109,7 +33133,7 @@ du	de_le	P+D	_
 fer	fer	NC	_
 !	!	PONCT	_
 Le	le	DET	_
-Premier	Premier	NP	_
+Premier	premier	NP	_
 c'	ce	CLS	_
 est	être	V	_
 bon	bon	ADJ	_
@@ -33129,7 +33153,7 @@ un	un	DET	_
 courtisan	courtisan	NC	_
 !	!	PONCT	_
 Un	un	DET	_
-Autre	Autre	NC	_
+Autre	autre	NC	_
 le	le	DET	_
 neveu	neveu	NC	_
 de	de	P	_
@@ -33144,7 +33168,7 @@ gascon	gascon	NC	_
 pourtant	pourtant	ADV	_
 !	!	PONCT	_
 Le	le	DET	_
-Premier	Premier	NP	_
+Premier	premier	NP	_
 un	un	DET	_
 faux	faux	NC	_
 !	!	PONCT	_
@@ -33152,7 +33176,8 @@ faux	faux	NC	_
 méfiez	méfier	V	_
 -vous	vous	CLS	_
 !	!	PONCT	_
-Parce_que	parce_que	CS	_
+Parce	parce	ADV	_
+que	que	CS	_
 ,	,	PONCT	_
 les	le	DET	_
 gascons	gascon	NC	_
@@ -33178,7 +33203,7 @@ est	être	V	_
 pâle	pâle	ADJ	_
 !	!	PONCT	_
 Un	un	DET	_
-Autre	Autre	NC	_
+Autre	autre	NC	_
 il	il	CLS	_
 a	avoir	V	_
 faim	faim	NC	_
@@ -33189,7 +33214,7 @@ un	un	DET	_
 pauvre	pauvre	ADJ	_
 diable	diable	NC	_
 !	!	PONCT	_
-Mais	Mais	NP	_
+Mais	mais	NP	_
 comme	comme	P	_
 sa	son	DET	_
 cuirasse	cuirasse	NC	_
@@ -33233,7 +33258,7 @@ vos	votre	DET	_
 dés	dé	NC	_
 ...	…	PONCT	_
 (	(	PONCT	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 rapidement	rapidement	ADV	_
 se	se	CLO	_
 mettent	mettre	V	_
@@ -33325,7 +33350,7 @@ Carbon	Carbon	NP	_
 ACTE	acte	NC	_
 IV	IV	ADJ	_
 ,	,	PONCT	_
-SCèNE	SCèNE	NC	_
+SCèNE	scène	NC	_
 4	4	ADJ	_
 les	le	DET	_
 mêmes	même	NC	_
@@ -33526,7 +33551,7 @@ moi	je	PRO	_
 Je	je	CLS	_
 n'	ne	ADV	_
 obéis	obéir	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 aux	à_le	P+D	_
 ordres	ordre	NC	_
 de	de	P	_
@@ -33643,7 +33668,8 @@ je	je	CLS	_
 faisais	faire	V	_
 ma	mon	DET	_
 caracole	caracole	NC	_
-afin_de	afin_de	P	_
+afin	afin	ADV	_
+de	de	P	_
 rassembler	rassembler	VINF	_
 mes	mon	DET	_
 gens	gens	NC	_
@@ -33913,7 +33939,7 @@ oui	oui	I	_
 ,	,	PONCT	_
 vantardise	vantardise	NC	_
 ,	,	PONCT	_
-encor	encor	ADV	_
+encor	encore	ADV	_
 ,	,	PONCT	_
 de	de	P	_
 gascon	gascon	NC	_
@@ -33951,7 +33977,7 @@ sautoir	sautoir	NC	_
 De	de	P	_
 Guiche	Guiche	NP	_
 offre	offrir	V	_
-encor	encor	ADV	_
+encor	encore	ADV	_
 de	de	P	_
 gascon	gascon	NC	_
 !	!	PONCT	_
@@ -34109,11 +34135,11 @@ l'	le	DET	_
 air	air	NC	_
 .	.	PONCT	_
 )	)	PONCT	_
-Tous	tous	PRO	_
+Tous	tout	PRO	_
 hein	hein	I	_
 ?	?	PONCT	_
 La	le	DET	_
-Sentinelle	Sentinelle	NP	_
+Sentinelle	sentinelle	NP	_
 ,	,	PONCT	_
 en	en	P	_
 haut	haut	NC	_
@@ -34358,7 +34384,7 @@ Je	je	CLS	_
 dirai	dire	V	_
 que	que	CS	_
 de	de	P	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 c'	ce	CLS	_
 est	être	V	_
 le	le	DET	_
@@ -34417,7 +34443,7 @@ préparez	préparer	V	_
 -vous	vous	CLS	_
 !	!	PONCT	_
 (	(	PONCT	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 se	se	CLO	_
 lèvent	lever	V	_
 .	.	PONCT	_
@@ -34452,7 +34478,7 @@ bien	bien	ADV	_
 ils	il	CLS	_
 se	se	CLO	_
 rasseyent	rasseoir	V	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 .	.	PONCT	_
 On	on	CLS	_
 reprend	reprendre	V	_
@@ -34498,7 +34524,7 @@ tuer	tuer	VINF	_
 Cyrano	Cyrano	NP	_
 ah	ah	I	_
 !	!	PONCT	_
-Voilà	Voilà	V	_
+Voilà	voilà	V	_
 la	le	DET	_
 vengeance	vengeance	NC	_
 ?	?	PONCT	_
@@ -34626,7 +34652,7 @@ sang	sang	NC	_
 qui	qui	PROREL	_
 lui	il	CLO	_
 manquait	manquer	V	_
-encor	encor	ADV	_
+encor	encore	ADV	_
 !	!	PONCT	_
 (	(	PONCT	_
 De	de	P	_
@@ -34850,7 +34876,8 @@ pleurer	pleurer	VINF	_
 Cyrano	Cyrano	NP	_
 oui	oui	I	_
 ...	…	PONCT	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 ...	…	PONCT	_
 mourir	mourir	VINF	_
 n'	ne	ADV	_
@@ -34921,10 +34948,10 @@ camp	camp	NC	_
 .	.	PONCT	_
 )	)	PONCT	_
 La	le	DET	_
-Voix	Voix	NC	_
+Voix	voix	NC	_
 D'	de	P	_
 Une	un	NP	_
-Sentinelle	Sentinelle	NP	_
+Sentinelle	sentinelle	NP	_
 ventrebieu	ventrebieu	NP	_
 ,	,	PONCT	_
 qui	qui	PROREL	_
@@ -34950,7 +34977,7 @@ est	être	V	_
 ?	?	PONCT	_
 ...	…	PONCT	_
 La	le	DET	_
-Sentinelle	Sentinelle	NP	_
+Sentinelle	sentinelle	NP	_
 ,	,	PONCT	_
 qui	qui	PROREL	_
 est	être	V	_
@@ -35059,7 +35086,7 @@ Carbon	carbon	NC	_
 chapeau	chapeau	NC	_
 bas	bas	ADJ	_
 ,	,	PONCT	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 !	!	PONCT	_
 De	de	P	_
 Guiche	Guiche	NP	_
@@ -35192,7 +35219,7 @@ stupeur	stupeur	NC	_
 ACTE	acte	NC	_
 IV	IV	ADJ	_
 ,	,	PONCT	_
-SCèNE	SCèNE	NC	_
+SCèNE	scène	NC	_
 5	5	ADJ	_
 les	le	DET	_
 mêmes	même	NC	_
@@ -35382,7 +35409,7 @@ bonjour	bonjour	I	_
 (	(	PONCT	_
 les	le	DET	_
 regardant	regardant	NC	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 .	.	PONCT	_
 )	)	PONCT	_
 vous	vous	CLS	_
@@ -35855,7 +35882,7 @@ va	aller	V	_
 se	se	CLO	_
 battre	battre	VINF	_
 .	.	PONCT	_
-Tous	tous	PRO	_
+Tous	tout	PRO	_
 oh	oh	I	_
 !	!	PONCT	_
 Non	non	I	_
@@ -35938,7 +35965,7 @@ Guiche	Guiche	NP	_
 .	.	PONCT	_
 ah	ah	I	_
 !	!	PONCT	_
-Vous	Vous	ADV	_
+Vous	vous	ADV	_
 me	je	CLO	_
 vouliez	vouloir	V	_
 veuve	veuf	ADJ	_
@@ -35983,7 +36010,7 @@ eh	eh	I	_
 Quoi	quoi	PROWH	_
 ,	,	PONCT	_
 la	le	DET	_
-précieuse	précieuse	NC	_
+précieuse	précieux	NC	_
 était	être	V	_
 une	un	DET	_
 héroïne	héroïne	NC	_
@@ -36021,7 +36048,7 @@ mes	mon	DET	_
 amis	ami	NC	_
 !	!	PONCT	_
 Un	un	DET	_
-Autre	Autre	NC	_
+Autre	autre	NC	_
 ,	,	PONCT	_
 avec	avec	P	_
 enivrement	enivrement	NC	_
@@ -36094,7 +36121,7 @@ vous	vous	CLS	_
 avez	avoir	V	_
 le	le	DET	_
 temps	temps	NC	_
-encor	encor	ADV	_
+encor	encore	ADV	_
 :	:	PONCT	_
 changez	changer	V	_
 d'	de	P	_
@@ -36112,7 +36139,7 @@ sort	sortir	V	_
 ACTE	acte	NC	_
 IV	IV	ADJ	_
 ,	,	PONCT	_
-SCèNE	SCèNE	NC	_
+SCèNE	scène	NC	_
 6	6	ADJ	_
 les	le	DET	_
 mêmes	même	NC	_
@@ -36139,7 +36166,7 @@ autres	autre	NC	_
 elle	il	CLS	_
 reste	rester	V	_
 !	!	PONCT	_
-Tous	tous	PRO	_
+Tous	tout	PRO	_
 ,	,	PONCT	_
 se	se	CLO	_
 précipitant	précipiter	VPR	_
@@ -36549,7 +36576,7 @@ tout	tout	ADV	_
 cela	cela	PRO	_
 !	!	PONCT	_
 Un	un	DET	_
-Autre	Autre	NC	_
+Autre	autre	NC	_
 où	où	PROREL	_
 le	il	CLO	_
 prendrions	prendre	V	_
@@ -36566,7 +36593,7 @@ dans	dans	P	_
 mon	mon	DET	_
 carrosse	carrosse	NC	_
 .	.	PONCT	_
-Tous	tous	PRO	_
+Tous	tout	PRO	_
 hein	hein	I	_
 ?	?	PONCT	_
 ...	…	PONCT	_
@@ -36612,7 +36639,7 @@ veut	vouloir	V	_
 réchauffée	réchauffer	VPP	_
 !	!	PONCT	_
 Les	le	DET	_
-Cadets	Cadets	NC	_
+Cadets	cadet	NC	_
 ,	,	PONCT	_
 se	se	CLO	_
 ruant	ruer	VPR	_
@@ -36673,7 +36700,7 @@ enthousiasme	enthousiasme	NC	_
 .	.	PONCT	_
 )	)	PONCT	_
 Les	le	DET	_
-Cadets	Cadets	NC	_
+Cadets	cadet	NC	_
 bravo	bravo	I	_
 !	!	PONCT	_
 Bravo	bravo	I	_
@@ -37414,7 +37441,7 @@ silence	silence	NC	_
 ACTE	acte	NC	_
 IV	IV	ADJ	_
 ,	,	PONCT	_
-SCèNE	SCèNE	NC	_
+SCèNE	scène	NC	_
 7	7	ADJ	_
 les	le	DET	_
 mêmes	même	NC	_
@@ -37484,7 +37511,7 @@ il	il	CLS	_
 bouge	bouger	V	_
 !	!	PONCT	_
 Un	un	DET	_
-Autre	Autre	NC	_
+Autre	autre	NC	_
 poum	poum	I	_
 ...	…	PONCT	_
 poum	poum	I	_
@@ -37634,11 +37661,11 @@ Cadet	Cadet	NC	_
 se	se	CLO	_
 dandinant	dandiner	VPR	_
 .	.	PONCT	_
-charmante	charmant	ADJ	_
+charmante	charmer	ADJ	_
 attention	attention	NC	_
 !	!	PONCT	_
 Un	un	DET	_
-Autre	Autre	NC	_
+Autre	autre	NC	_
 ,	,	PONCT	_
 lui	il	CLO	_
 souriant	sourire	VPR	_
@@ -37677,7 +37704,7 @@ au	à_le	P+D	_
 recul	recul	NC	_
 .	.	PONCT	_
 Le	le	DET	_
-Premier	Premier	NP	_
+Premier	premier	NP	_
 Cadet	Cadet	NP	_
 ah	ah	I	_
 !	!	PONCT	_
@@ -37976,7 +38003,7 @@ un	un	PRO	_
 ils	il	CLS	_
 se	se	CLO	_
 mettent	mettre	V	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 à	à	P	_
 danser	danser	VINF	_
 .	.	PONCT	_
@@ -38174,7 +38201,7 @@ dise	dire	V	_
 ...	…	PONCT	_
 oh	oh	I	_
 !	!	PONCT	_
-Mon	Mon	V	_
+Mon	mon	V	_
 dieu	dieu	NC	_
 ,	,	PONCT	_
 c'	ce	CLS	_
@@ -38376,7 +38403,7 @@ tente	tente	NC	_
 ACTE	acte	NC	_
 IV	IV	ADJ	_
 ,	,	PONCT	_
-SCèNE	SCèNE	NC	_
+SCèNE	scène	NC	_
 8	8	ADJ	_
 Roxane	Roxane	NP	_
 ,	,	PONCT	_
@@ -38973,7 +39000,7 @@ oh	oh	I	_
 Roxane	Roxane	NP	_
 tu	tu	CLS	_
 doutes	douter	V	_
-encor	encor	ADV	_
+encor	encore	ADV	_
 d'	de	P	_
 une	un	DET	_
 telle	tel	ADJ	_
@@ -39092,7 +39119,7 @@ adore	adorer	V	_
 ,	,	PONCT	_
 et	et	CC	_
 moins	moins	ADV	_
-brillant	brillant	ADJ	_
+brillant	briller	ADJ	_
 ...	…	PONCT	_
 Christian	Christian	NP	_
 tais	taire	V	_
@@ -39245,7 +39272,7 @@ elle	il	PRO	_
 ACTE	acte	NC	_
 IV	IV	ADJ	_
 ,	,	PONCT	_
-SCèNE	SCèNE	NC	_
+SCèNE	scène	NC	_
 9	9	ADJ	_
 Christian	Christian	NP	_
 ,	,	PONCT	_
@@ -39407,7 +39434,7 @@ ait	avoir	V	_
 dit	dire	VPP	_
 cela	cela	PRO	_
 !	!	PONCT	_
-Mais	Mais	NP	_
+Mais	mais	NP	_
 va	aller	V	_
 ,	,	PONCT	_
 va	aller	V	_
@@ -39499,7 +39526,8 @@ je	je	CLS	_
 tuerais	tuer	V	_
 ton	ton	DET	_
 bonheur	bonheur	NC	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 je	je	CLS	_
 suis	être	V	_
 beau	beau	ADJ	_
@@ -39519,7 +39547,8 @@ au	à_le	P+D	_
 tombeau	tombeau	NC	_
 le	le	DET	_
 tien	tien	NC	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 ,	,	PONCT	_
 grâce	grâce	NC	_
 au	à_le	P+D	_
@@ -39698,7 +39727,7 @@ sort	sortir	V	_
 ACTE	acte	NC	_
 IV	IV	ADJ	_
 ,	,	PONCT	_
-SCèNE	SCèNE	NC	_
+SCèNE	scène	NC	_
 10	10	ADJ	_
 Roxane	Roxane	NP	_
 ,	,	PONCT	_
@@ -39722,7 +39751,7 @@ Ragueneau	Ragueneau	NP	_
 De	de	P	_
 Guiche	Guiche	NP	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 Roxane	Roxane	NP	_
 importante	important	ADJ	_
 ?	?	PONCT	_
@@ -40283,7 +40312,7 @@ Roxane	Roxane	NP	_
 Christian	Christian	NP	_
 !	!	PONCT	_
 La	le	DET	_
-Voix	Voix	NC	_
+Voix	voix	NC	_
 De	de	P	_
 Carbon	Carbon	NP	_
 ,	,	PONCT	_
@@ -40330,7 +40359,7 @@ Christian	Christian	NP	_
 d'	de	P	_
 une	un	DET	_
 voix	voix	NC	_
-mourante	mourant	ADJ	_
+mourante	mourir	ADJ	_
 .	.	PONCT	_
 Roxane	Roxane	NP	_
 !	!	PONCT	_
@@ -40379,7 +40408,7 @@ toi	tu	PRO	_
 qu'	que	PROREL	_
 elle	il	CLS	_
 aime	aimer	V	_
-encor	encor	ADV	_
+encor	encore	ADV	_
 !	!	PONCT	_
 (	(	PONCT	_
 Christian	Christian	NP	_
@@ -40581,7 +40610,7 @@ une	un	DET	_
 âme	âme	NC	_
 magnifique	magnifique	ADJ	_
 et	et	CC	_
-charmante	charmant	ADJ	_
+charmante	charmer	ADJ	_
 ?	?	PONCT	_
 Cyrano	Cyrano	NP	_
 ,	,	PONCT	_
@@ -40618,7 +40647,7 @@ et	et	CC	_
 je	je	CLS	_
 n'	ne	ADV	_
 ai	avoir	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 à	à	P	_
 mourir	mourir	VINF	_
 aujourd'hui	aujourd'hui	ADV	_
@@ -40698,7 +40727,7 @@ des	un	DET	_
 pleurs	pleur	NC	_
 !	!	PONCT	_
 Une	un	DET	_
-Voix	Voix	NC	_
+Voix	voix	NC	_
 ,	,	PONCT	_
 au	à_le	P+D	_
 dehors	dehors	NC	_
@@ -40709,7 +40738,7 @@ rendez-vous	rendez-vous	NC	_
 !	!	PONCT	_
 Voix	voix	NC	_
 Des	de_le	P+D	_
-Cadets	Cadets	NC	_
+Cadets	cadet	NC	_
 non	non	I	_
 !	!	PONCT	_
 Ragueneau	Ragueneau	NP	_
@@ -40724,7 +40753,9 @@ carrosse	carrosse	NC	_
 regarde	regarder	V	_
 la	le	DET	_
 bataille	bataille	NC	_
-par-dessus	par-dessus	P	_
+par	par	S	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 le	le	DET	_
 talus	talus	NC	_
 .	.	PONCT	_
@@ -40759,7 +40790,7 @@ lettre	lettre	NC	_
 d'	de	P	_
 une	un	DET	_
 voix	voix	NC	_
-mourante	mourant	ADJ	_
+mourante	mourir	ADJ	_
 .	.	PONCT	_
 son	son	DET	_
 sang	sang	NC	_
@@ -40801,7 +40832,7 @@ tenez	tenir	V	_
 bon	bon	ADV	_
 !	!	PONCT	_
 Une	un	DET	_
-Voix	Voix	NC	_
+Voix	voix	NC	_
 ,	,	PONCT	_
 au	à_le	P+D	_
 dehors	dehors	NC	_
@@ -40812,7 +40843,7 @@ armes	arme	NC	_
 !	!	PONCT	_
 Voix	voix	NC	_
 Des	de_le	P+D	_
-Cadets	Cadets	NC	_
+Cadets	cadet	NC	_
 non	non	I	_
 !	!	PONCT	_
 Cyrano	Cyrano	NP	_
@@ -40857,7 +40888,7 @@ bras	bras	NC	_
 .	.	PONCT	_
 soit	soit	CC	_
 !	!	PONCT	_
-Mais	Mais	NP	_
+Mais	mais	NP	_
 on	on	CLS	_
 est	être	V	_
 vainqueur	vainqueur	ADJ	_
@@ -41187,7 +41218,7 @@ gens	gens	NC	_
 qui	qui	PROREL	_
 se	se	CLO	_
 font	faire	V	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 tuer	tuer	VINF	_
 ?	?	PONCT	_
 Cyrano	Cyrano	NP	_
@@ -41428,7 +41459,9 @@ la	le	DET	_
 frondaison	frondaison	NC	_
 est	être	V	_
 rousse	roux	ADJ	_
-au-dessus	au-dessus	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 des	de_le	P+D	_
 pelouses	pelouse	NC	_
 fraîches	frais	ADJ	_
@@ -41533,7 +41566,7 @@ banc	banc	NC	_
 autour	autour	ADV	_
 d'	de	P	_
 une	un	DET	_
-religieuse	religieuse	NC	_
+religieuse	religieux	NC	_
 plus	plus	ADV	_
 âgée	âgé	ADJ	_
 .	.	PONCT	_
@@ -41544,7 +41577,7 @@ tombent	tomber	V	_
 ACTE	acte	NC	_
 V	V	NC	_
 ,	,	PONCT	_
-SCèNE	SCèNE	NC	_
+SCèNE	scène	NC	_
 1	1	ADJ	_
 mère	mère	NC	_
 Marguerite	Marguerite	NP	_
@@ -41858,7 +41891,7 @@ défends	défendre	V	_
 de	de	P	_
 l'	il	CLO	_
 entreprendre	entreprendre	VINF	_
-encor	encor	ADV	_
+encor	encore	ADV	_
 sur	sur	P	_
 ce	ce	DET	_
 point	point	NC	_
@@ -42152,7 +42185,7 @@ temps	temps	NC	_
 ACTE	acte	NC	_
 V	V	NC	_
 ,	,	PONCT	_
-SCèNE	SCèNE	NC	_
+SCèNE	scène	NC	_
 2	2	ADJ	_
 Roxane	Roxane	NP	_
 ,	,	PONCT	_
@@ -42294,7 +42327,7 @@ il	il	CLS	_
 n'	ne	ADV	_
 est	être	V	_
 mort	mort	ADJ	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 à	à	P	_
 demi	demi	NC	_
 ,	,	PONCT	_
@@ -42613,7 +42646,7 @@ Il	il	CLS	_
 n'	ne	ADV	_
 a	avoir	V	_
 plus	plus	ADV	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 un	un	DET	_
 petit	petit	ADJ	_
 habit	habit	NC	_
@@ -42753,7 +42786,8 @@ Duc	duc	NP	_
 s'	se	CLO	_
 arrêtant	arrêter	VPR	_
 ,	,	PONCT	_
-tandis_qu'	tandis_que	CS	_
+tandis	tandis	ADV	_
+qu'	que	CS	_
 elle	il	CLS	_
 monte	monter	V	_
 .	.	PONCT	_
@@ -43151,7 +43185,7 @@ Bret	Bret	NP	_
 ACTE	acte	NC	_
 V	V	NC	_
 ,	,	PONCT	_
-SCèNE	SCèNE	NC	_
+SCèNE	scène	NC	_
 3	3	ADJ	_
 Le	le	DET	_
 Bret	Bret	NP	_
@@ -43514,7 +43548,7 @@ C'	ce	CLS	_
 est	être	V	_
 quelque	quelque	DET	_
 histoire	histoire	NC	_
-encor	encor	ADV	_
+encor	encore	ADV	_
 de	de	P	_
 ce	ce	DET	_
 bon	bon	ADJ	_
@@ -43530,7 +43564,7 @@ perron	perron	NC	_
 ACTE	acte	NC	_
 V	V	NC	_
 ,	,	PONCT	_
-SCèNE	SCèNE	NC	_
+SCèNE	scène	NC	_
 4	4	ADJ	_
 Roxane	Roxane	NP	_
 seule	seul	ADJ	_
@@ -43775,7 +43809,7 @@ Bergerac	Bergerac	NP	_
 ACTE	acte	NC	_
 V	V	NC	_
 ,	,	PONCT	_
-SCèNE	SCèNE	NC	_
+SCèNE	scène	NC	_
 5	5	ADJ	_
 Roxane	Roxane	NP	_
 ,	,	PONCT	_
@@ -43961,7 +43995,7 @@ cousine	cousiner	V	_
 c'	ce	CLS	_
 était	être	V	_
 une	un	DET	_
-fâcheuse	fâcheuse	NC	_
+fâcheuse	fâcheux	NC	_
 .	.	PONCT	_
 Roxane	Roxane	NP	_
 vous	vous	CLS	_
@@ -44249,7 +44283,7 @@ Soeur	sœur	NC	_
 Marthe	Marthe	NP	_
 ah	ah	I	_
 !	!	PONCT	_
-Vous	Vous	ADV	_
+Vous	vous	ADV	_
 êtes	être	V	_
 un	un	DET	_
 peu	peu	NC	_
@@ -44593,7 +44627,7 @@ fois	fois	NC	_
 du	de_le	P+D	_
 raisiné	raisiné	NC	_
 de	de	P	_
-Cette	Cette	NP	_
+Cette	ce	NP	_
 ,	,	PONCT	_
 le	le	DET	_
 roi	roi	NC	_
@@ -44968,7 +45002,7 @@ où	où	PROREL	_
 l'on	on	CLS	_
 peut	pouvoir	V	_
 voir	voir	VINF	_
-encor	encor	ADV	_
+encor	encore	ADV	_
 des	un	DET	_
 larmes	larme	NC	_
 et	et	CC	_
@@ -45008,7 +45042,7 @@ lire	lire	VINF	_
 Roxane	Roxane	NP	_
 ah	ah	I	_
 !	!	PONCT	_
-Vous	Vous	ADV	_
+Vous	vous	ADV	_
 voulez	vouloir	V	_
 ?	?	PONCT	_
 ...	…	PONCT	_
@@ -45086,7 +45120,7 @@ Roxane	Roxane	NP	_
 s'	se	CLO	_
 arrêtant	arrêter	VPR	_
 ,	,	PONCT	_
-étonnée	étonné	ADJ	_
+étonnée	étonner	ADJ	_
 .	.	PONCT	_
 tout	tout	ADV	_
 haut	haut	ADV	_
@@ -45114,7 +45148,7 @@ ai	avoir	V	_
 l'	le	DET	_
 âme	âme	NC	_
 lourde	lourd	ADJ	_
-encor	encor	ADV	_
+encor	encore	ADV	_
 d'	de	P	_
 amour	amour	NC	_
 inexprimée	inexprimé	ADJ	_
@@ -45661,7 +45695,7 @@ courant	courir	VPR	_
 ACTE	acte	NC	_
 V	V	NC	_
 ,	,	PONCT	_
-SCèNE	SCèNE	NC	_
+SCèNE	scène	NC	_
 6	6	ADJ	_
 les	le	DET	_
 mêmes	même	NC	_
@@ -46149,7 +46183,7 @@ l'	le	DET	_
 allée	allée	NC	_
 ,	,	PONCT	_
 les	le	DET	_
-religieuses	religieuse	NC	_
+religieuses	religieux	NC	_
 se	se	CLO	_
 rendant	rendre	VPR	_
 à	à	P	_
@@ -46204,7 +46238,7 @@ là	là	ADV	_
 .	.	PONCT	_
 (	(	PONCT	_
 les	le	DET	_
-religieuses	religieuse	NC	_
+religieuses	religieux	NC	_
 sont	être	V	_
 entrées	entrer	VPP	_
 dans	dans	P	_
@@ -46397,7 +46431,7 @@ Roxane	Roxane	NP	_
 je	je	CLS	_
 n'	ne	ADV	_
 aimais	aimer	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 un	un	DET	_
 seul	seul	ADJ	_
 être	être	NC	_
@@ -46848,7 +46882,7 @@ raidit	raidir	V	_
 )	)	PONCT	_
 oh	oh	I	_
 !	!	PONCT	_
-Mais	Mais	NP	_
+Mais	mais	NP	_
 !	!	PONCT	_
 ...	…	PONCT	_
 puisqu'	puisque	CS	_
@@ -46887,7 +46921,7 @@ défaillante	défaillant	ADJ	_
 Cyrano	Cyrano	NP	_
 !	!	PONCT	_
 (	(	PONCT	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 reculent	reculer	V	_
 épouvantés	épouvanter	VPP	_
 .	.	PONCT	_
@@ -46975,7 +47009,7 @@ mille	mille	NC	_
 ?	?	PONCT	_
 Ah	ah	I	_
 !	!	PONCT	_
-Je	Je	V	_
+Je	je	V	_
 vous	vous	CLS	_
 reconnais	reconnaître	V	_
 ,	,	PONCT	_

@@ -200,7 +200,7 @@ en	en	P	_
 effet	effet	NC	_
 que	que	CS	_
 ce	ce	DET	_
-brillant	brillant	ADJ	_
+brillant	briller	ADJ	_
 système	système	NC	_
 qu'	que	PROREL	_
 on	on	CLS	_
@@ -233,7 +233,7 @@ est	être	V	_
 aux	à_le	P+D	_
 vulgaires	vulgaire	ADJ	_
 yeux	œil	NC	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 une	un	DET	_
 pierre	pierre	NC	_
 insensible	insensible	ADJ	_
@@ -1565,7 +1565,7 @@ quiconque	quiconque	PRO	_
 y	y	CLO	_
 veut	vouloir	V	_
 monter	monter	VINF	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 il	il	CLS	_
 faut	falloir	V	_
 savoir	savoir	VINF	_
@@ -1730,7 +1730,7 @@ colonne	colonne	NC	_
 .	.	PONCT	_
 à	à	P	_
 nous	nous	PRO	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 aujourd'hui	aujourd'hui	ADV	_
 ,	,	PONCT	_
 vos	votre	DET	_
@@ -1789,7 +1789,7 @@ enfuit	enfuir	V	_
 Ce	ce	CLS	_
 n'	ne	ADV	_
 est	être	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 aux	à_le	P+D	_
 inventeurs	inventeur	NC	_
 que	que	CS	_
@@ -1804,7 +1804,7 @@ les	le	DET	_
 enfants	enfant	NC	_
 de	de	P	_
 la	le	DET	_
-fière	fière	NC	_
+fière	fier	NC	_
 Tamise	Tamise	NP	_
 ,	,	PONCT	_
 de	de	P	_
@@ -1916,7 +1916,7 @@ front	front	NC	_
 d'	de	P	_
 une	un	DET	_
 nymphe	nymphe	NC	_
-brillante	brillant	ADJ	_
+brillante	briller	ADJ	_
 hérisser	hérisser	VINF	_
 d'	de	P	_
 un	un	DET	_
@@ -2676,7 +2676,7 @@ Démocrite	Démocrite	NP	_
 platon	Platon	NP	_
 ,	,	PONCT	_
 *	*	PONCT	_
-épicure	épicure	NC	_
+épicure	Épicure	NP	_
 ,	,	PONCT	_
 Thalès	Thalès	NP	_
 ,	,	PONCT	_
@@ -3552,7 +3552,7 @@ en	en	P	_
 effet	effet	NC	_
 que	que	CS	_
 ce	ce	DET	_
-brillant	brillant	ADJ	_
+brillant	briller	ADJ	_
 système	système	NC	_
 qu'	que	PROREL	_
 ils	il	CLS	_
@@ -3834,7 +3834,7 @@ même	même	ADV	_
 encore	encore	ADV	_
 ,	,	PONCT	_
 ô	ô	I	_
-charmantes	charmant	ADJ	_
+charmantes	charmer	ADJ	_
 merveilles	merveille	NC	_
 !	!	PONCT	_
 Sous	sous	P	_
@@ -3979,7 +3979,7 @@ larmes	larme	NC	_
 précieuses	précieux	ADJ	_
 où	où	PROREL	_
 la	le	DET	_
-fière	fière	NC	_
+fière	fier	NC	_
 Vistule	Vistule	NP	_
 ,	,	PONCT	_
 en	en	P	_
@@ -4184,7 +4184,7 @@ inconnus	inconnu	ADJ	_
 ceindre	ceindre	VINF	_
 ton	ton	DET	_
 front	front	NC	_
-brillant	brillant	ADJ	_
+brillant	briller	ADJ	_
 .	.	PONCT	_
 Aux	à_le	P+D	_
 antres	antre	NC	_
@@ -4198,7 +4198,7 @@ est	être	V	_
 aux	à_le	P+D	_
 vulgaires	vulgaire	ADJ	_
 yeux	œil	NC	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 une	un	DET	_
 pierre	pierre	NC	_
 insensible	insensible	ADJ	_

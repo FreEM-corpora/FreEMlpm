@@ -243,7 +243,8 @@ pyramide	pyramide	NC	_
 est	être	V	_
 ensevelie	ensevelir	VPP	_
 .	.	PONCT	_
-Quant_au	quant_à_le	P+D	_
+Quant	quant	ADV	_
+au	à_le	P+D	_
 Zaccar	Zaccar	NP	_
 ,	,	PONCT	_
 notre	notre	DET	_
@@ -498,7 +499,7 @@ avoir	avoir	VINF	_
 connu	connaître	VPP	_
 la	le	DET	_
 lumière	lumière	NC	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 à	à	P	_
 l'	le	DET	_
 état	état	NC	_
@@ -759,7 +760,7 @@ que	que	CS	_
 je	je	CLS	_
 pensai	penser	V	_
 au	à_le	P+D	_
-Désert	Désert	NC	_
+Désert	désert	NC	_
 .	.	PONCT	_
 -	-	PONCT	_
 La	le	DET	_
@@ -1018,7 +1019,7 @@ rapide	rapide	ADJ	_
 ,	,	PONCT	_
 sur	sur	P	_
 un	un	DET	_
-charmant	charmant	ADJ	_
+charmant	charmer	ADJ	_
 village	village	NC	_
 ,	,	PONCT	_
 arrosé	arroser	VPP	_
@@ -1145,7 +1146,7 @@ haut	haut	ADJ	_
 rempart	rempart	NC	_
 de	de	P	_
 rochers	rocher	NC	_
-auquel	auquel	PROREL	_
+auquel	à_lequel	PROREL	_
 il	il	CLS	_
 est	être	V	_
 adossé	adosser	VPP	_
@@ -1159,7 +1160,7 @@ croyance	croyance	NC	_
 établie	établir	VPP	_
 chez	chez	P	_
 les	le	DET	_
-Arabes	Arabe	NC	_
+Arabe	arabe	NC	_
 que	que	CS	_
 la	le	DET	_
 montagne	montagne	NC	_
@@ -1284,7 +1285,9 @@ marquait	marquer	V	_
 notre	notre	DET	_
 réveil	réveil	NC	_
 1	1	ADJ	_
-au-dessous	au-dessous	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessous	dessous	ADV	_
 de	de	P	_
 0	0	NC	_
 .	.	PONCT	_
@@ -1449,7 +1452,9 @@ d'	de	P	_
 un	un	DET	_
 vol	vol	NC	_
 circulaire	circulaire	ADJ	_
-au-dessus	au-dessus	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 de	de	P	_
 nos	notre	DET	_
 têtes	tête	NC	_
@@ -1585,7 +1590,7 @@ fut	être	V	_
 que	que	ADV	_
 le	le	DET	_
 lendemain	lendemain	NC	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 en	en	P	_
 l'	il	CLO	_
 entendant	entendre	VPR	_
@@ -1707,7 +1712,9 @@ enthousiasme	enthousiasme	NC	_
 Je	je	CLS	_
 ne	ne	ADV	_
 sais	savoir	V	_
-là-dessus	là-dessus	ADV	_
+là	là	ADV	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 que	que	ADV	_
 ce	ce	PRO	_
 qu'	que	PROREL	_
@@ -2358,7 +2365,7 @@ subite	subit	ADJ	_
 apparition	apparition	NC	_
 de	de	P	_
 l'	le	DET	_
-Orient	Orient	NC	_
+Orient	orient	NC	_
 par	par	P	_
 la	le	DET	_
 porte	porte	NC	_
@@ -2743,7 +2750,9 @@ ciel	ciel	NC	_
 sans	sans	P	_
 nuages	nuage	NC	_
 ,	,	PONCT	_
-au-dessus	au-dessus	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 du	de_le	P+D	_
 désert	désert	NC	_
 sans	sans	P	_
@@ -2818,7 +2827,7 @@ l'	il	CLO	_
 un	un	DET	_
 sentier	sentier	NC	_
 d'	de	P	_
-Arabe	Arabe	NC	_
+Arabe	arabe	NC	_
 dans	dans	P	_
 un	un	DET	_
 pays	pays	NC	_
@@ -3044,7 +3053,9 @@ on	on	CLS	_
 voit	voir	V	_
 filer	filer	VINF	_
 paisiblement	paisiblement	ADV	_
-au-dessus	au-dessus	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 des	un	DET	_
 bois	bois	NC	_
 ,	,	PONCT	_
@@ -3105,7 +3116,7 @@ de	de	P	_
 chien	chien	NC	_
 .	.	PONCT	_
 L'	le	DET	_
-Arabe	Arabe	NC	_
+Arabe	arabe	NC	_
 n'	ne	ADV	_
 aime	aimer	V	_
 pas	pas	ADV	_
@@ -3353,7 +3364,8 @@ la	le	DET	_
 fortune	fortune	NC	_
 mobilière	mobilier	ADJ	_
 ,	,	PONCT	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 rien	rien	PRO	_
 ne	ne	ADV	_
 la	il	CLO	_
@@ -3577,7 +3589,9 @@ petit	petit	ADJ	_
 oiseau	oiseau	NC	_
 noir	noir	ADJ	_
 fuir	fuir	VINF	_
-au-dessus	au-dessus	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 des	de_le	P+D	_
 fourrés	fourré	NC	_
 .	.	PONCT	_
@@ -3689,7 +3703,9 @@ la	le	DET	_
 plaine	plaine	NC	_
 ,	,	PONCT	_
 et	et	CC	_
-au-dessus	au-dessus	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 ,	,	PONCT	_
 dans	dans	P	_
 le	le	DET	_
@@ -3800,7 +3816,9 @@ piquée	piquer	VPP	_
 de	de	P	_
 points	point	NC	_
 blanchâtres	blanchâtre	ADJ	_
-au-dessus	au-dessus	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 d'	de	P	_
 un	un	DET	_
 triple	triple	ADJ	_
@@ -4136,7 +4154,7 @@ El	l	NC	_
 Gouëa	Gouëa	NP	_
 n'	ne	ADV	_
 est	être	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 un	un	DET	_
 modeste	modeste	ADJ	_
 corps	corps	NC	_
@@ -4228,7 +4246,9 @@ roulés	rouler	VPP	_
 en	en	P	_
 masses	masse	NC	_
 étincelantes	étincelant	ADJ	_
-au-dessus	au-dessus	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 des	de_le	P+D	_
 coteaux	coteau	NC	_
 devenus	devenir	VPP	_
@@ -4480,7 +4500,7 @@ le	il	CLO	_
 sais	savoir	V	_
 ,	,	PONCT	_
 est	être	V	_
-M.	M.	NC	_
+M.	monsieur	NC	_
 N.	N.	NP	_
 .	.	PONCT	_
 .	.	PONCT	_
@@ -4636,7 +4656,8 @@ hospitalité	hospitalité	NC	_
 plus	plus	ADV	_
 encourageante	encourageant	ADJ	_
 .	.	PONCT	_
-Quant_à	quant_à	P	_
+Quant	quant	ADV	_
+à	à	P	_
 notre	notre	DET	_
 hôte	hôte	NC	_
 ,	,	PONCT	_
@@ -5109,7 +5130,7 @@ des	de_le	P+D	_
 lèvres	lèvre	NC	_
 n'	ne	ADV	_
 est	être	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 une	un	DET	_
 manière	manière	NC	_
 d'	de	P	_
@@ -5685,7 +5706,7 @@ boire	boire	VINF	_
 on	on	CLS	_
 n'	ne	ADV	_
 a	avoir	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 une	un	DET	_
 gamelle	gamelle	NC	_
 ,	,	PONCT	_
@@ -5773,14 +5794,14 @@ le	le	DET	_
 livre	livre	NC	_
 excellent	excellent	ADJ	_
 de	de	P	_
-M.	M.	NC	_
+M.	monsieur	NC	_
 le	le	DET	_
 général	général	NC	_
 Daumas	Daumas	NP	_
 sur	sur	P	_
 le	le	DET	_
 Grand	Grand	NC	_
-Désert	Désert	NP	_
+Désert	désert	NP	_
 ,	,	PONCT	_
 tu	tu	CLS	_
 dois	devoir	V	_
@@ -6178,7 +6199,7 @@ suivant	suivant	P	_
 le	le	DET	_
 mot	mot	NC	_
 des	de_le	P+D	_
-Arabes	Arabe	NC	_
+Arabe	arabe	NC	_
 ,	,	PONCT	_
 mette	mettre	V	_
 la	le	DET	_
@@ -6200,7 +6221,9 @@ tout	tout	ADV	_
 a	avoir	V	_
 été	être	VPP	_
 dit	dire	VPP	_
-là-dessus	là-dessus	ADV	_
+là	là	ADV	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 ,	,	PONCT	_
 excepté	excepté	P	_
 peut-être	peut-être	ADV	_
@@ -6337,7 +6360,7 @@ tabac	tabac	NC	_
 ne	ne	ADV	_
 sont	être	V	_
 servis	servir	VPP	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 aux	à_le	P+D	_
 étrangers	étranger	NC	_
 chrétiens	chrétien	ADJ	_
@@ -6359,7 +6382,7 @@ du	de_le	P+D	_
 sud	sud	NC	_
 .	.	PONCT	_
 Un	un	DET	_
-Arabe	Arabe	NC	_
+Arabe	arabe	NC	_
 qui	qui	PROREL	_
 se	se	CLO	_
 respecte	respecter	V	_
@@ -6397,7 +6420,7 @@ tort	tort	NC	_
 ,	,	PONCT	_
 que	que	CS	_
 chaque	chaque	DET	_
-Arabe	Arabe	NC	_
+Arabe	arabe	NC	_
 est	être	V	_
 armé	armer	VPP	_
 de	de	P	_
@@ -6420,7 +6443,7 @@ eux	il	PRO	_
 ne	ne	ADV	_
 fument	fumer	V	_
 pas	pas	ADV	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 .	.	PONCT	_
 J'	je	CLS	_
 en	en	CLO	_
@@ -6529,7 +6552,9 @@ commence	commencer	V	_
 blanchir	blanchir	VINF	_
 l'	le	DET	_
 horizon	horizon	NC	_
-au-dessus	au-dessus	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 des	de_le	P+D	_
 bois	bois	NC	_
 .	.	PONCT	_
@@ -6553,7 +6578,7 @@ et	et	CC	_
 près	près	ADV	_
 duquel	duquel	PROREL	_
 les	le	DET	_
-Arabes	Arabe	NC	_
+Arabe	arabe	NC	_
 ont	avoir	V	_
 jusqu'	jusque	P	_
 à	à	P	_
@@ -6576,14 +6601,14 @@ d'	de	P	_
 Antar	Antar	NP	_
 ,	,	PONCT	_
 quoi	quoi	PROWH	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 en	en	CLO	_
 disent	dire	V	_
 les	le	DET	_
 voyageurs	voyageur	NC	_
 revenus	revenir	VPP	_
 d'	de	P	_
-Orient	Orient	NC	_
+Orient	orient	NC	_
 ;	;	PONCT	_
 le	le	DET	_
 feu	feu	NC	_
@@ -6595,7 +6620,7 @@ et	et	CC	_
 ne	ne	ADV	_
 répand	répandre	V	_
 plus	plus	ADV	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 une	un	DET	_
 vague	vague	ADJ	_
 odeur	odeur	NC	_
@@ -6638,7 +6663,8 @@ un	un	DET	_
 de	de	P	_
 trompette	trompette	NC	_
 ;	;	PONCT	_
-tandis_qu'	tandis_que	CS	_
+tandis	tandis	ADV	_
+qu'	que	CS	_
 une	un	DET	_
 chouette	chouette	NC	_
 ,	,	PONCT	_
@@ -6952,7 +6978,8 @@ comme	comme	P	_
 un	un	DET	_
 belvédère	belvédère	NC	_
 ;	;	PONCT	_
-quant_à	quant_à	P	_
+quant	quant	ADV	_
+à	à	P	_
 Boghari	Boghari	NP	_
 ,	,	PONCT	_
 heureusement	heureusement	ADV	_
@@ -6964,7 +6991,7 @@ peine	peine	NC	_
 habitable	habitable	ADJ	_
 pour	pour	P	_
 les	le	DET	_
-Arabes	Arabe	NC	_
+Arabe	arabe	NC	_
 ,	,	PONCT	_
 c'	ce	CLS	_
 est	être	V	_
@@ -7344,7 +7371,7 @@ hospitalier	hospitalier	NC	_
 comme	comme	CS	_
 disent	dire	V	_
 les	le	DET	_
-Arabes	Arabe	NC	_
+Arabe	arabe	NC	_
 ,	,	PONCT	_
 nous	nous	CLS	_
 attendait	attendre	V	_
@@ -7725,7 +7752,8 @@ sacrifice	sacrifice	NC	_
 Au	à_le	P+D	_
 delà	delà	ADV	_
 ,	,	PONCT	_
-afin_de	afin_de	P	_
+afin	afin	ADV	_
+de	de	P	_
 compléter	compléter	VINF	_
 la	le	DET	_
 scène	scène	NC	_
@@ -7811,7 +7839,7 @@ n'	ne	ADV	_
 y	y	CLO	_
 avait	avoir	V	_
 donc	donc	ADV	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 une	un	DET	_
 petite	petit	ADJ	_
 ombre	ombre	NC	_
@@ -7849,7 +7877,7 @@ sur	sur	P	_
 nature	nature	NC	_
 ,	,	PONCT	_
 mais	mais	CC	_
-auquel	auquel	PROREL	_
+auquel	à_lequel	PROREL	_
 il	il	CLS	_
 manquera	manquer	V	_
 la	le	DET	_
@@ -7881,7 +7909,7 @@ bas	bas	ADJ	_
 je	je	CLS	_
 ne	ne	ADV	_
 garderai	garder	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 une	un	DET	_
 seule	seul	ADJ	_
 note	note	NC	_
@@ -7994,7 +8022,7 @@ n'	ne	ADV	_
 est	être	V	_
 au	à_le	P+D	_
 contraire	contraire	NC	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 en	en	P	_
 entrant	entrer	VPR	_
 dans	dans	P	_
@@ -8057,7 +8085,7 @@ rien	rien	PRO	_
 imaginé	imaginer	VPP	_
 d'	de	P	_
 aussi	aussi	ADV	_
-complétement	complétement	ADV	_
+complétement	complètement	ADV	_
 fauve	fauve	ADJ	_
 ,	,	PONCT	_
 -	-	PONCT	_
@@ -8113,7 +8141,7 @@ et	et	CC	_
 qui	qui	PROREL	_
 n'	ne	ADV	_
 est	être	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 une	un	DET	_
 apparence	apparence	NC	_
 .	.	PONCT	_
@@ -8378,7 +8406,7 @@ de	de	P	_
 Boghari	Boghari	NP	_
 ,	,	PONCT	_
 des	de_le	P+D	_
-danseuses	danseuse	NC	_
+danseuses	danseur	NC	_
 et	et	CC	_
 des	un	DET	_
 musiciens	musicien	NC	_
@@ -8419,7 +8447,7 @@ A'	A'	NP	_
 r'	r'	NP	_
 azlia	azlia	NP	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 ,	,	PONCT	_
 où	où	PROREL	_
 les	le	DET	_
@@ -8444,11 +8472,11 @@ tribus	tribu	NC	_
 environnantes	environnant	ADJ	_
 .	.	PONCT	_
 Les	le	DET	_
-Orientaux	Orientaux	NC	_
+Orientaux	oriental	NC	_
 ont	avoir	V	_
 des	un	DET	_
 noms	nom	NC	_
-charmants	charmant	ADJ	_
+charmants	charmer	ADJ	_
 pour	pour	P	_
 déguiser	déguiser	VINF	_
 l'	le	DET	_
@@ -8469,7 +8497,7 @@ appellerai	appeler	V	_
 celles	celui	PRO	_
 -ci	ci	ADV	_
 des	un	DET	_
-danseuses	danseuse	NC	_
+danseuses	danseur	NC	_
 .	.	PONCT	_
 On	on	CLS	_
 alluma	allumer	V	_
@@ -8651,7 +8679,7 @@ pour	pour	P	_
 ne	ne	ADV	_
 laisser	laisser	VINF	_
 voir	voir	VINF	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 un	un	DET	_
 dessin	dessin	NC	_
 tantôt	tantôt	ADV	_
@@ -8680,7 +8708,7 @@ furie	furie	NC	_
 d'	de	P	_
 effet	effet	NC	_
 sans	sans	P	_
-pareilles	pareille	NC	_
+pareilles	pareil	NC	_
 .	.	PONCT	_
 C'	ce	CLS	_
 était	être	V	_
@@ -8688,7 +8716,7 @@ quelque	quelque	DET	_
 chose	chose	NC	_
 comme	comme	P	_
 la	le	DET	_
-Ronde	Ronde	NC	_
+Ronde	rond	NC	_
 de	de	P	_
 nuit	nuit	NC	_
 de	de	P	_
@@ -8776,7 +8804,7 @@ hasard	hasard	NC	_
 et	et	CC	_
 avec	avec	P	_
 d'	un	DET	_
-effrayants	effrayant	ADJ	_
+effrayants	effrayer	ADJ	_
 caprices	caprice	NC	_
 d'	de	P	_
 une	un	DET	_
@@ -8879,7 +8907,9 @@ ciel	ciel	NC	_
 ni	ni	CC	_
 terre	terre	NC	_
 ;	;	PONCT	_
-au-dessus	au-dessus	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 ,	,	PONCT	_
 autour	autour	ADV	_
 ,	,	PONCT	_
@@ -8912,7 +8942,7 @@ aveugles	aveugle	NC	_
 Aussi	aussi	ADV	_
 ,	,	PONCT	_
 la	le	DET	_
-danseuse	danseuse	NC	_
+danseuse	danseur	NC	_
 ,	,	PONCT	_
 debout	debout	ADV	_
 au	à_le	P+D	_
@@ -8975,7 +9005,7 @@ une	un	DET	_
 conjuration	conjuration	NC	_
 ,	,	PONCT	_
 la	le	DET	_
-danseuse	danseuse	NC	_
+danseuse	danseur	NC	_
 ,	,	PONCT	_
 au	à_le	P+D	_
 premier	premier	ADJ	_
@@ -9181,12 +9211,12 @@ femme	femme	NC	_
 arabe	arabe	ADJ	_
 .	.	PONCT	_
 La	le	DET	_
-danseuse	danseuse	NC	_
+danseuse	danseur	NC	_
 ne	ne	ADV	_
 montre	montrer	V	_
 d'	de	P	_
 abord	abord	NC	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 à	à	P	_
 regret	regret	NC	_
 son	son	DET	_
@@ -9420,7 +9450,7 @@ moins	moins	NC	_
 autant	autant	ADV	_
 que	que	CS	_
 la	le	DET	_
-danseuse	danseuse	NC	_
+danseuse	danseur	NC	_
 ,	,	PONCT	_
 en	en	CLO	_
 ait	avoir	V	_
@@ -9447,7 +9477,7 @@ des	un	DET	_
 tambourins	tambourin	NC	_
 .	.	PONCT	_
 Notre	notre	DET	_
-danseuse	danseuse	NC	_
+danseuse	danseur	NC	_
 ,	,	PONCT	_
 qui	qui	PROREL	_
 n'	ne	ADV	_
@@ -9534,7 +9564,7 @@ aussi	aussi	ADV	_
 vif	vif	ADJ	_
 que	que	CS	_
 nos	notre	DET	_
-Arabes	Arabe	NC	_
+Arabe	arabe	NC	_
 ;	;	PONCT	_
 mais	mais	CC	_
 j'	je	CLS	_
@@ -9616,7 +9646,7 @@ l'	le	DET	_
 égard	égard	NC	_
 de	de	P	_
 la	le	DET	_
-danseuse	danseuse	NC	_
+danseuse	danseur	NC	_
 ,	,	PONCT	_
 celle	celui	PRO	_
 -ci	ci	ADV	_
@@ -9764,7 +9794,7 @@ d'	de	P	_
 .	.	PONCT	_
 Ce	ce	CLS	_
 sont	être	V	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 gens	gens	NC	_
 du	de_le	P+D	_
 sud	sud	NC	_
@@ -9780,7 +9810,7 @@ Nayl	Nayl	NP	_
 l'	le	DET	_
 Aghouâti	Aghouâti	NC	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 Les	le	DET	_
 burnouss	burnouss	NC	_
 bruns	brun	ADJ	_
@@ -10059,7 +10089,7 @@ Tell	Tell	NP	_
 et	et	CC	_
 Sahara	Sahara	NP	_
 .	.	PONCT	_
-M.	M.	NC	_
+M.	monsieur	NC	_
 le	le	DET	_
 général	général	NC	_
 Daumas	Daumas	NP	_
@@ -10187,7 +10217,7 @@ le	le	DET	_
 Sehaur	Sehaur	NC	_
 n'	ne	ADV	_
 apparaît	apparaître	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 en	en	P	_
 dernier	dernier	NC	_
 .	.	PONCT	_
@@ -10206,7 +10236,7 @@ ne	ne	ADV	_
 veut	vouloir	V	_
 point	point	ADV	_
 dire	dire	VINF	_
-Désert	Désert	NP	_
+Désert	désert	NP	_
 .	.	PONCT	_
 C'	ce	CLS	_
 est	être	V	_
@@ -10291,7 +10321,7 @@ qui	qui	PROREL	_
 ne	ne	ADV	_
 commence	commencer	V	_
 guère	guère	ADV	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 au	à_le	P+D	_
 delà	delà	ADV	_
 du	de_le	P+D	_
@@ -10336,7 +10366,7 @@ du	de_le	P+D	_
 Falat	Falat	NC	_
 ou	ou	CC	_
 Grand	Grand	NP	_
-Désert	Désert	NP	_
+Désert	désert	NP	_
 .	.	PONCT	_
 Encore	encore	ADV	_
 une	un	DET	_
@@ -10399,7 +10429,7 @@ est	être	V	_
 la	le	DET	_
 race	race	NC	_
 des	de_le	P+D	_
-Arabes	Arabe	NC	_
+Arabe	arabe	NC	_
 conquérants	conquérant	ADJ	_
 ,	,	PONCT	_
 nomade	nomade	ADJ	_
@@ -10437,7 +10467,7 @@ n'	ne	ADV	_
 empêche	empêcher	V	_
 pas	pas	ADV	_
 l'	le	DET	_
-Arabe	Arabe	NC	_
+Arabe	arabe	NC	_
 de	de	P	_
 mépriser	mépriser	VINF	_
 absolument	absolument	ADV	_
@@ -10614,7 +10644,7 @@ le	le	DET	_
 plus	plus	ADV	_
 nombreux	nombreux	ADJ	_
 de	de	P	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 .	.	PONCT	_
 Cela	cela	PRO	_
 dit	dire	V	_
@@ -11062,7 +11092,8 @@ peau	peau	NC	_
 de	de	P	_
 lion	lion	NC	_
 .	.	PONCT	_
-Quant_au	quant_à_le	P+D	_
+Quant	quant	ADV	_
+au	à_le	P+D	_
 Chéliff	Chéliff	NP	_
 ,	,	PONCT	_
 qui	qui	PROREL	_
@@ -11784,7 +11815,7 @@ avant-garde	avant-garde	NC	_
 notre	notre	DET	_
 khrebir	khrebir	NC	_
 ,	,	PONCT	_
-M.	M.	NC	_
+M.	monsieur	NC	_
 N.	N.	NP	_
 .	.	PONCT	_
 .	.	PONCT	_
@@ -11889,7 +11920,8 @@ de	de	P	_
 sa	son	DET	_
 selle	selle	NC	_
 .	.	PONCT	_
-Quant_à	quant_à	P	_
+Quant	quant	ADV	_
+à	à	P	_
 moi	je	PRO	_
 ,	,	PONCT	_
 tu	tu	CLS	_
@@ -11911,7 +11943,8 @@ des	de_le	P+D	_
 plus	plus	ADV	_
 paisibles	paisible	ADJ	_
 ,	,	PONCT	_
-afin_d'	afin_de	P	_
+afin	afin	ADV	_
+d'	de	P	_
 être	être	VINF	_
 plus	plus	ADV	_
 à	à	P	_
@@ -12139,7 +12172,9 @@ s'	se	CLO	_
 arrondit	arrondir	V	_
 en	en	P	_
 boule	boule	NC	_
-au-dessus	au-dessus	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 d'	de	P	_
 un	un	DET	_
 petit	petit	ADJ	_
@@ -12866,7 +12901,7 @@ nous	nous	CLS	_
 la	il	CLO	_
 passâmes	passer	V	_
 presque	presque	ADV	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 à	à	P	_
 dormir	dormir	VINF	_
 sous	sous	P	_
@@ -12920,7 +12955,7 @@ osseux	osseux	ADJ	_
 de	de	P	_
 Boghari	Boghari	NP	_
 ,	,	PONCT	_
-effrayant	effrayant	ADJ	_
+effrayant	effrayer	ADJ	_
 ,	,	PONCT	_
 bizarre	bizarre	ADJ	_
 ,	,	PONCT	_
@@ -13030,7 +13065,9 @@ brumes	brume	NC	_
 incolores	incolore	ADJ	_
 ;	;	PONCT	_
 et	et	CC	_
-là-dessus	là-dessus	ADV	_
+là	là	ADV	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 ,	,	PONCT	_
 un	un	DET	_
 ciel	ciel	NC	_
@@ -13785,7 +13822,7 @@ nous	nous	CLS	_
 avons	avoir	V	_
 reçue	recevoir	VPP	_
 de	de	P	_
-M.	M.	NC	_
+M.	monsieur	NC	_
 F.	F.	NP	_
 de	de	P	_
 P.	P.	NP	_
@@ -13842,7 +13879,9 @@ apprendre	apprendre	VINF	_
 ni	ni	CC	_
 d'	de	P	_
 ennuis	ennui	NC	_
-au-dessus	au-dessus	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 de	de	P	_
 sa	son	DET	_
 patience	patience	NC	_
@@ -14068,7 +14107,7 @@ de	de	P	_
 romarins	romarin	NC	_
 odorants	odorant	ADJ	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 .	.	PONCT	_
 .	.	PONCT	_
 ;	;	PONCT	_
@@ -14265,7 +14304,9 @@ blancs	blanc	ADJ	_
 de	de	P	_
 midi	midi	NC	_
 ;	;	PONCT	_
-par-dessous	par-dessous	P	_
+par	par	S	_
+-	-	PONCT	_
+dessous	dessous	ADV	_
 ,	,	PONCT	_
 tout	tout	PRO	_
 paraît	paraître	V	_
@@ -14361,7 +14402,7 @@ on	on	CLS	_
 en	en	CLO	_
 fait	faire	V	_
 en	en	P	_
-Orient	Orient	NC	_
+Orient	orient	NC	_
 des	de_le	P+D	_
 ouvrages	ouvrage	NC	_
 de	de	P	_
@@ -14400,7 +14441,7 @@ servir	servir	VINF	_
 les	le	DET	_
 fruits	fruit	NC	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 Sur	sur	P	_
 pied	pied	NC	_
 ,	,	PONCT	_
@@ -14544,7 +14585,7 @@ où	où	PROREL	_
 l'on	on	CLS	_
 ne	ne	ADV	_
 va	aller	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 en	en	P	_
 zig	zig	NC	_
 -	-	PONCT	_
@@ -14636,7 +14677,8 @@ végétation	végétation	NC	_
 Je	je	CLS	_
 préfère	préférer	V	_
 ,	,	PONCT	_
-quant_à	quant_à	P	_
+quant	quant	ADV	_
+à	à	P	_
 moi	je	PRO	_
 ,	,	PONCT	_
 les	le	DET	_
@@ -15645,7 +15687,7 @@ brute	brut	ADJ	_
 du	de_le	P+D	_
 chameau	chameau	NC	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 Et	et	CC	_
 parmi	parmi	P	_
 tout	tout	ADJ	_
@@ -15947,7 +15989,7 @@ dire	dire	VINF	_
 Il	il	CLS	_
 n'	ne	ADV	_
 est	être	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 à	à	P	_
 moitié	moitié	NC	_
 vrai	vrai	ADJ	_
@@ -16059,7 +16101,7 @@ en	en	P	_
 vrai	vrai	ADJ	_
 pays	pays	NC	_
 de	de	P	_
-Chanaan	Chanaan	NP	_
+Chanaan	Canaan	NP	_
 ,	,	PONCT	_
 moins	moins	ADV	_
 l'	le	DET	_
@@ -16154,7 +16196,7 @@ effigie	effigie	NC	_
 vivante	vivant	ADJ	_
 ,	,	PONCT	_
 en	en	P	_
-Orient	Orient	NC	_
+Orient	orient	NC	_
 .	.	PONCT	_
 Cette	ce	DET	_
 opinion	opinion	NC	_
@@ -16172,7 +16214,7 @@ c'	ce	CLS	_
 est	être	V	_
 que	que	CS	_
 les	le	DET	_
-Arabes	Arabe	NC	_
+Arabe	arabe	NC	_
 ,	,	PONCT	_
 ayant	avoir	VPR	_
 à	à	P	_
@@ -16260,7 +16302,7 @@ Antigone	Antigone	NP	_
 fille	fille	NC	_
 du	de_le	P+D	_
 roi	roi	NC	_
-OEdipe	OEdipe	NP	_
+OEdipe	Œdipe	NP	_
 ;	;	PONCT	_
 qu'	que	CS	_
 elles	il	CLS	_
@@ -16301,7 +16343,7 @@ vivre	vivre	VINF	_
 comme	comme	P	_
 vivent	vivre	V	_
 les	le	DET	_
-Arabes	Arabe	NC	_
+Arabe	arabe	NC	_
 ,	,	PONCT	_
 comme	comme	P	_
 eux	il	PRO	_
@@ -16330,7 +16372,8 @@ reste	reste	NC	_
 Mon	mon	DET	_
 opinion	opinion	NC	_
 ,	,	PONCT	_
-quant_au	quant_à_le	P+D	_
+Quant	quant	ADV	_
+au	à_le	P+D	_
 système	système	NC	_
 ,	,	PONCT	_
 la	il	CLO	_
@@ -16627,7 +16670,8 @@ la	il	CLO	_
 possède	posséder	V	_
 seul	seul	ADJ	_
 ,	,	PONCT	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 ,	,	PONCT	_
 seul	seul	ADJ	_
 au	à_le	P+D	_
@@ -16672,7 +16716,8 @@ est	être	V	_
 beau	beau	ADJ	_
 ,	,	PONCT	_
 surtout	surtout	ADV	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 ,	,	PONCT	_
 sans	sans	P	_
 être	être	VINF	_
@@ -16704,7 +16749,7 @@ Seul	seul	ADJ	_
 ,	,	PONCT	_
 par	par	P	_
 un	un	DET	_
-privilége	privilége	NC	_
+privilége	privilège	NC	_
 admirable	admirable	ADJ	_
 ,	,	PONCT	_
 il	il	CLS	_
@@ -16780,7 +16825,7 @@ en	en	P	_
 cessant	cesser	VPR	_
 d'	de	P	_
 être	être	VINF	_
-Arabe	Arabe	NC	_
+Arabe	arabe	NC	_
 pour	pour	P	_
 devenir	devenir	VINF	_
 humain	humain	ADJ	_
@@ -17075,7 +17120,9 @@ de	de	P	_
 logis	logis	NC	_
 élevé	élever	VPP	_
 carrément	carrément	ADV	_
-au-dessus	au-dessus	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 d'	de	P	_
 une	un	DET	_
 enceinte	enceinte	NC	_
@@ -17540,9 +17587,9 @@ qui	qui	PROREL	_
 n'	ne	ADV	_
 avait	avoir	V	_
 pour	pour	P	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 meubles	meuble	ADJ	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 une	un	DET	_
 cheminée	cheminée	NC	_
 de	de	P	_
@@ -18097,7 +18144,7 @@ sa	son	DET	_
 vie	vie	NC	_
 militaire	militaire	ADJ	_
 .	.	PONCT	_
-M.	M.	NC	_
+M.	monsieur	NC	_
 N.	N.	NP	_
 .	.	PONCT	_
 .	.	PONCT	_
@@ -18354,7 +18401,9 @@ la	le	DET	_
 table	table	NC	_
 et	et	CC	_
 vint	venir	V	_
-par-dessus	par-dessus	P	_
+par	par	S	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 l'	le	DET	_
 épaule	épaule	NC	_
 de	de	P	_
@@ -18374,7 +18423,7 @@ penchai	pencher	V	_
 avec	avec	P	_
 inquiétude	inquiétude	NC	_
 vers	vers	P	_
-M.	M.	NC	_
+M.	monsieur	NC	_
 N.	N.	NP	_
 .	.	PONCT	_
 .	.	PONCT	_
@@ -18626,7 +18675,7 @@ ouach	ouach	ET	_
 Mohamm	Mohamm	ET	_
 ...	…	PONCT	_
 )	)	PONCT	_
-Et	Et	V	_
+Et	et	V	_
 pendant	pendant	P	_
 longtemps	longtemps	ADV	_
 on	on	CLS	_
@@ -18696,7 +18745,7 @@ de	de	P	_
 plus	plus	ADV	_
 comment	comment	PROWH	_
 les	le	DET	_
-Arabes	Arabe	NC	_
+Arabe	arabe	NC	_
 savent	savoir	V	_
 détourner	détourner	VINF	_
 le	le	DET	_
@@ -18764,7 +18813,7 @@ d'	de	P	_
 une	un	DET	_
 escorte	escorte	NC	_
 assez	assez	ADV	_
-brillante	brillant	ADJ	_
+brillante	briller	ADJ	_
 de	de	P	_
 cavaliers	cavalière	NC	_
 et	et	CC	_
@@ -18961,7 +19010,7 @@ il	il	CLS	_
 se	se	CLO	_
 nourrit	nourrir	V	_
 sans	sans	P	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 on	on	CLS	_
 y	y	CLO	_
 pourvoie	pourvoir	V	_
@@ -19197,7 +19246,7 @@ d'	de	P	_
 une	un	DET	_
 journée	journée	NC	_
 sans	sans	P	_
-pareille	pareille	NC	_
+pareille	pareil	NC	_
 .	.	PONCT	_
 Je	je	CLS	_
 l'	il	CLO	_
@@ -19403,7 +19452,9 @@ qu'	que	CS	_
 un	un	DET	_
 ramier	ramier	NC	_
 passe	passer	V	_
-au-dessus	au-dessus	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 de	de	P	_
 ma	mon	DET	_
 tête	tête	NC	_
@@ -19904,7 +19955,9 @@ près	près	ADV	_
 de	de	P	_
 huit_cents	huit_cents	DET	_
 mètres	mètre	NC	_
-au-dessus	au-dessus	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 du	de_le	P+D	_
 niveau	niveau	NC	_
 de	de	P	_
@@ -19940,7 +19993,8 @@ dans	dans	P	_
 l'	le	DET	_
 ouest	ouest	NC	_
 ,	,	PONCT	_
-tandis_que	tandis_que	CS	_
+tandis	tandis	ADV	_
+que	que	CS	_
 ,	,	PONCT	_
 partout	partout	ADV	_
 ailleurs	ailleurs	ADV	_
@@ -20040,7 +20094,7 @@ contraire	contraire	NC	_
 n'	ne	ADV	_
 est	être	V	_
 plus	plus	ADV	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 à	à	P	_
 73	73	NC	_
 .	.	PONCT	_
@@ -20055,7 +20109,9 @@ le	le	DET	_
 Sahara	Sahara	NP	_
 s'	se	CLO	_
 abaisse	abaisser	V	_
-au-dessous	au-dessous	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessous	dessous	ADV	_
 du	de_le	P+D	_
 niveau	niveau	NC	_
 de	de	P	_
@@ -20310,7 +20366,7 @@ il	il	CLS	_
 n'	ne	ADV	_
 y	y	CLO	_
 a	avoir	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 un	un	DET	_
 peu	peu	NC	_
 d'	de	P	_
@@ -20367,7 +20423,9 @@ vibrer	vibrer	VINF	_
 la	le	DET	_
 chaleur	chaleur	NC	_
 comme	comme	P	_
-au-dessus	au-dessus	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 d'	de	P	_
 un	un	DET	_
 poêle	poêle	NC	_
@@ -20829,7 +20887,7 @@ Aghouat	Aghouat	NP	_
 .	.	PONCT	_
 ,	,	PONCT	_
 sept	sept	NC	_
-heures	heures	ADJ	_
+heures	heure	ADJ	_
 .	.	PONCT	_
 sept	sept	NP	_
 heures	heure	NC	_
@@ -20846,7 +20904,9 @@ vapeur	vapeur	NC	_
 sont	être	V	_
 restées	rester	VPP	_
 étendues	étendre	VPP	_
-au-dessus	au-dessus	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 de	de	P	_
 l'	le	DET	_
 horizon	horizon	NC	_
@@ -21163,7 +21223,9 @@ dans	dans	P	_
 la	le	DET	_
 pierre	pierre	NC	_
 ,	,	PONCT	_
-au-dessus	au-dessus	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 de	de	P	_
 la	le	DET	_
 porte	porte	NC	_
@@ -21185,7 +21247,7 @@ sous	sous	P	_
 le	le	DET	_
 gouvernement	gouvernement	NC	_
 de	de	P	_
-M.	M.	NC	_
+M.	monsieur	NC	_
 le	le	DET	_
 général	général	NC	_
 Randon	Randon	NP	_
@@ -21484,7 +21546,7 @@ connaît	connaître	V	_
 l'	le	DET	_
 ingénuité	ingénuité	NC	_
 des	de_le	P+D	_
-Arabes	Arabe	NC	_
+Arabe	arabe	NC	_
 à	à	P	_
 l'	le	DET	_
 endroit	endroit	NC	_
@@ -21656,7 +21718,7 @@ venant	venir	VPR	_
 du	de_le	P+D	_
 reste	reste	NC	_
 ,	,	PONCT	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 à	à	P	_
 ses	son	DET	_
 heures	heure	NC	_
@@ -21750,7 +21812,8 @@ dis	dire	V	_
 sa	son	DET	_
 femme	femme	NC	_
 ,	,	PONCT	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 on	on	CLS	_
 parle	parler	V	_
 d'	de	P	_
@@ -22060,7 +22123,7 @@ peut	pouvoir	V	_
 plus	plus	ADV	_
 négligée	négliger	VPP	_
 .	.	PONCT	_
-M.	M.	NC	_
+M.	monsieur	NC	_
 N.	N.	NP	_
 .	.	PONCT	_
 .	.	PONCT	_
@@ -22093,7 +22156,8 @@ de	de	P	_
 fine	fin	ADJ	_
 laine	laine	NC	_
 .	.	PONCT	_
-Quant_à	quant_à	P	_
+Quant	quant	ADV	_
+à	à	P	_
 la	le	DET	_
 soeur	sœur	NC	_
 de	de	P	_
@@ -22223,7 +22287,9 @@ aperçu	apercevoir	VPP	_
 du	de_le	P+D	_
 harem	harem	NC	_
 emprisonné	emprisonner	VPP	_
-là-haut	là-haut	ADV	_
+à	à_le	P+D	_
+-	-	PONCT	_
+haut	haut	ADV	_
 ,	,	PONCT	_
 derrière	derrière	P	_
 ces	ce	DET	_
@@ -22518,7 +22584,7 @@ rang	rang	NC	_
 énorme	énorme	ADJ	_
 chez	chez	P	_
 les	le	DET	_
-Arabes	Arabe	NC	_
+Arabe	arabe	NC	_
 ,	,	PONCT	_
 n'	ne	ADV	_
 exclut	exclure	V	_
@@ -22533,7 +22599,8 @@ et	et	CC	_
 le	le	DET	_
 serviteur	serviteur	NC	_
 .	.	PONCT	_
-Quant_à	quant_à	P	_
+Quant	quant	ADV	_
+à	à	P	_
 la	le	DET	_
 distance	distance	NC	_
 établie	établir	VPP	_
@@ -22900,7 +22967,7 @@ vert	vert	ADJ	_
 et	et	CC	_
 jaune	jaune	ADJ	_
 ;	;	PONCT	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 en	en	P	_
 tenue	tenue	NC	_
 de	de	P	_
@@ -22959,7 +23026,7 @@ longs	long	ADJ	_
 pistolets	pistolet	NC	_
 aux	à_le	P+D	_
 pommeaux	pommeau	NC	_
-brillants	brillant	ADJ	_
+brillants	briller	ADJ	_
 .	.	PONCT	_
 Il	il	CLS	_
 a	avoir	V	_
@@ -23281,14 +23348,15 @@ est	être	V	_
 assurément	assurément	ADV	_
 le	le	DET	_
 plus	plus	ADV	_
-brillant	brillant	ADJ	_
+brillant	briller	ADJ	_
 ;	;	PONCT	_
 il	il	CLS	_
 a	avoir	V	_
 ce	ce	DET	_
 mérite	mérite	NC	_
 ,	,	PONCT	_
-en_outre	en_outre	ADV	_
+en	en	P	_
+outre	outre	P	_
 ,	,	PONCT	_
 d'	de	P	_
 être	être	VINF	_
@@ -23400,7 +23468,7 @@ pour	pour	P	_
 voir	voir	VINF	_
 la	le	DET	_
 place	place	NC	_
-abandonnée	abandonnée	ADJ	_
+abandonnée	abandonné	ADJ	_
 d'	de	P	_
 où	où	PROREL	_
 nos	notre	DET	_
@@ -23446,7 +23514,7 @@ il	il	CLS	_
 me	je	CLO	_
 semble	sembler	V	_
 que	que	CS	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 ont	avoir	V	_
 été	être	VPP	_
 passagèrement	passagèrement	ADV	_
@@ -23605,7 +23673,7 @@ de	de	P	_
 plateaux	plateau	NC	_
 verts	vert	ADJ	_
 ,	,	PONCT	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 pareils	pareil	ADJ	_
 ,	,	PONCT	_
 de	de	P	_
@@ -23736,7 +23804,8 @@ reviens	revenir	V	_
 ,	,	PONCT	_
 c'	ce	CLS	_
 est	être	V	_
-afin_de	afin_de	P	_
+afin	afin	ADV	_
+de	de	P	_
 tenir	tenir	VINF	_
 un	un	DET	_
 compte	compte	NC	_
@@ -24313,7 +24382,8 @@ montait	monter	V	_
 au	à_le	P+D	_
 ventre	ventre	NC	_
 .	.	PONCT	_
-Quant_à	quant_à	P	_
+Quant	quant	ADV	_
+à	à	P	_
 moi	je	PRO	_
 ,	,	PONCT	_
 sans	sans	P	_
@@ -24425,7 +24495,7 @@ et	et	CC	_
 qu'	que	PROREL	_
 on	on	CLS	_
 dirait	dire	V	_
-abandonnées	abandonnées	NC	_
+abandonnées	abandonner	NC	_
 .	.	PONCT	_
 On	on	CLS	_
 les	il	CLO	_
@@ -24968,7 +25038,7 @@ diminué	diminuer	VPP	_
 .	.	PONCT	_
 Vers	vers	P	_
 sept	sept	NC	_
-heures	heures	ADJ	_
+heures	heure	ADJ	_
 ,	,	PONCT	_
 le	le	DET	_
 ciel	ciel	NC	_
@@ -25413,7 +25483,7 @@ supporter	supporter	VINF	_
 la	le	DET	_
 fatigue	fatigue	NC	_
 ,	,	PONCT	_
-gourmande	gourmande	NC	_
+gourmande	gourmand	NC	_
 au	à_le	P+D	_
 delà	delà	NC	_
 de	de	P	_
@@ -25875,7 +25945,7 @@ qui	qui	PROREL	_
 a	avoir	V	_
 fourni	fournir	VPP	_
 à	à	P	_
-M.	M.	NC	_
+M.	monsieur	NC	_
 le	le	DET	_
 général	général	NC	_
 Daumas	Daumas	NP	_
@@ -25905,7 +25975,7 @@ les	le	DET	_
 auteurs	auteur	NC	_
 du	de_le	P+D	_
 Grand	Grand	NC	_
-Désert	Désert	NP	_
+Désert	désert	NP	_
 ont	avoir	V	_
 mis	mettre	VPP	_
 le	le	DET	_
@@ -26057,7 +26127,7 @@ lion	lion	NC	_
 du	de_le	P+D	_
 Château-Rouge	Château-Rouge	NP	_
 .	.	PONCT	_
-M.	M.	NC	_
+M.	monsieur	NC	_
 N.	N.	NP	_
 .	.	PONCT	_
 .	.	PONCT	_
@@ -26225,7 +26295,7 @@ son	son	DET	_
 haïk	haïk	NC	_
 ,	,	PONCT	_
 nos	notre	DET	_
-Arabes	Arabe	NC	_
+Arabe	arabe	NC	_
 attentifs	attentif	ADJ	_
 à	à	P	_
 le	il	CLO	_
@@ -26340,10 +26410,10 @@ aussi	aussi	ADV	_
 le	le	DET	_
 seul	seul	NC	_
 de	de	P	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 qui	qui	PROREL	_
 soit	être	V	_
-charmant	charmant	ADJ	_
+charmant	charmer	ADJ	_
 .	.	PONCT	_
 C'	ce	CLS	_
 est	être	V	_
@@ -26351,7 +26421,7 @@ un	un	PRO	_
 des	de_le	P+D	_
 serviteurs	serviteur	NC	_
 de	de	P	_
-M.	M.	NC	_
+M.	monsieur	NC	_
 N.	N.	NP	_
 .	.	PONCT	_
 .	.	PONCT	_
@@ -26602,7 +26672,7 @@ se	se	CLO	_
 faire	faire	VINF	_
 hacher	hacher	VINF	_
 pour	pour	P	_
-M.	M.	NC	_
+M.	monsieur	NC	_
 N.	N.	NP	_
 .	.	PONCT	_
 .	.	PONCT	_
@@ -26673,7 +26743,7 @@ pour	pour	P	_
 aux	à_le	P+D	_
 ordres	ordre	NC	_
 de	de	P	_
-M.	M.	NC	_
+M.	monsieur	NC	_
 N.	N.	NP	_
 .	.	PONCT	_
 .	.	PONCT	_
@@ -26717,7 +26787,7 @@ sa	son	DET	_
 femme	femme	NC	_
 pour	pour	P	_
 suivre	suivre	VINF	_
-M.	M.	NC	_
+M.	monsieur	NC	_
 N.	N.	NP	_
 .	.	PONCT	_
 .	.	PONCT	_
@@ -26754,7 +26824,8 @@ El	l	NC	_
 -	-	PONCT	_
 Aghouat	Aghouat	NP	_
 ,	,	PONCT	_
-afin_de	afin_de	P	_
+afin	afin	ADV	_
+de	de	P	_
 rendre	rendre	VINF	_
 son	son	DET	_
 exil	exil	NC	_
@@ -26845,7 +26916,7 @@ Maclou	Maclou	NP	_
 ,	,	PONCT	_
 ou	ou	CC	_
 communément	communément	ADV	_
-M.	M.	NC	_
+M.	monsieur	NC	_
 Maclou	Maclou	NP	_
 .	.	PONCT	_
 Il	il	CLS	_
@@ -26939,7 +27010,7 @@ Aghouat	Aghouat	NP	_
 Aux	à_le	P+D	_
 yeux	œil	NC	_
 des	de_le	P+D	_
-Arabes	Arabe	NC	_
+Arabe	arabe	NC	_
 ,	,	PONCT	_
 un	un	DET	_
 bon	bon	ADJ	_
@@ -26974,7 +27045,7 @@ respect	respect	NC	_
 ne	ne	ADV	_
 s'	se	CLO	_
 attache	attacher	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 à	à	P	_
 ce	ce	PRO	_
 qui	qui	PROREL	_
@@ -27163,7 +27234,8 @@ se	se	CLO	_
 faire	faire	VINF	_
 valoir	valoir	VINF	_
 .	.	PONCT	_
-Quant_à	quant_à	P	_
+Quant	quant	ADV	_
+à	à	P	_
 moi	je	PRO	_
 ,	,	PONCT	_
 je	je	CLS	_
@@ -27397,7 +27469,7 @@ la	le	DET	_
 plus	plus	ADV	_
 ornée	orner	VPP	_
 de	de	P	_
-toutes	tous	PRO	_
+toutes	tout	PRO	_
 ,	,	PONCT	_
 traîne	traîner	V	_
 à	à	P	_
@@ -27829,7 +27901,7 @@ les	le	DET	_
 traits	trait	NC	_
 de	de	P	_
 l'	le	DET	_
-Arabe	Arabe	NC	_
+Arabe	arabe	NC	_
 et	et	CC	_
 montre	montre	NC	_
 qu'	que	PROREL	_
@@ -28078,7 +28150,9 @@ tête	tête	NC	_
 apparaît	apparaître	V	_
 de	de	P	_
 loin	loin	ADV	_
-par-dessus	par-dessus	P	_
+par	par	S	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 la	le	DET	_
 ligne	ligne	NC	_
 de	de	P	_
@@ -28345,7 +28419,7 @@ Je	je	CLS	_
 n'	ne	ADV	_
 ai	avoir	V	_
 fait	faire	VPP	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 entrevoir	entrevoir	VINF	_
 tout	tout	ADV	_
 cela	cela	PRO	_
@@ -28390,7 +28464,7 @@ y	y	CLO	_
 a	avoir	V	_
 laissé	laisser	VPP	_
 quelques	quelque	DET	_
-Arabes	Arabe	NC	_
+Arabe	arabe	NC	_
 seulement	seulement	ADV	_
 pour	pour	P	_
 gardiens	gardien	NC	_
@@ -28413,7 +28487,8 @@ dresser	dresser	VINF	_
 les	le	DET	_
 tentes	tente	NC	_
 .	.	PONCT	_
-Quant_à	quant_à	P	_
+Quant	quant	ADV	_
+à	à	P	_
 nous	nous	PRO	_
 ,	,	PONCT	_
 nous	nous	CLS	_
@@ -28504,7 +28579,7 @@ Ces	ce	DET	_
 chambres	chambre	NC	_
 n'	ne	ADV	_
 ont	avoir	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 une	un	DET	_
 porte	porte	NC	_
 ,	,	PONCT	_
@@ -28610,7 +28685,7 @@ vipères	vipère	NC	_
 redoutables	redoutable	ADJ	_
 que	que	CS	_
 les	le	DET	_
-Arabes	Arabe	NC	_
+Arabe	arabe	NC	_
 appellent	appeler	V	_
 lefaa	lefaa	NP	_
 .	.	PONCT	_
@@ -28622,7 +28697,7 @@ de	de	P	_
 ne	ne	ADV	_
 m'	je	CLO	_
 asseoir	asseoir	VINF	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 avec	avec	P	_
 prudence	prudence	NC	_
 et	et	CC	_
@@ -28767,7 +28842,7 @@ ne	ne	ADV	_
 l'	il	CLO	_
 a	avoir	V	_
 quittée	quitter	VPP	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 une	un	DET	_
 heure	heure	NC	_
 après	après	ADV	_
@@ -28936,7 +29011,7 @@ de	de	P	_
 France	France	NP	_
 se	se	CLO	_
 tiennent	tenir	V	_
-toutes	tous	PRO	_
+toutes	tout	PRO	_
 ;	;	PONCT	_
 elles	il	CLS	_
 se	se	CLO	_
@@ -29513,7 +29588,7 @@ assises	assise	NC	_
 et	et	CC	_
 les	il	CLO	_
 eût	avoir	V	_
-toutes	tous	PRO	_
+toutes	tout	PRO	_
 inclinées	incliner	VPP	_
 dans	dans	P	_
 le	le	DET	_
@@ -29631,7 +29706,8 @@ ville	ville	NC	_
 ;	;	PONCT	_
 je	je	CLS	_
 savais	savoir	V	_
-en_outre	en_outre	ADV	_
+en	en	P	_
+outre	outre	P	_
 qu'	que	CS	_
 El	l	NC	_
 -	-	PONCT	_
@@ -29880,7 +29956,9 @@ je	je	CLS	_
 vis	vivre	V	_
 apparaître	apparaître	VINF	_
 ,	,	PONCT	_
-au-dessus	au-dessus	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 d'	de	P	_
 une	un	DET	_
 plaine	plaine	NC	_
@@ -30185,7 +30263,8 @@ un	un	DET	_
 peu	peu	NC	_
 l'	le	DET	_
 âme	âme	NC	_
-afin_d'	afin_de	P	_
+afin	afin	ADV	_
+d'	de	P	_
 embrasser	embrasser	VINF	_
 tout	tout	ADJ	_
 ce	ce	DET	_
@@ -30623,7 +30702,7 @@ Ce	ce	CLS	_
 fut	être	V	_
 donc	donc	ADV	_
 avec	avec	P	_
-M.	M.	NC	_
+M.	monsieur	NC	_
 C.	C.	NP	_
 .	.	PONCT	_
 .	.	PONCT	_
@@ -30726,7 +30805,7 @@ de	de	P	_
 la	le	DET	_
 cavalerie	cavalerie	NC	_
 ;	;	PONCT	_
-M.	M.	NC	_
+M.	monsieur	NC	_
 C.	C.	NP	_
 .	.	PONCT	_
 .	.	PONCT	_
@@ -31294,7 +31373,8 @@ du	de_le	P+D	_
 côté	côté	NC	_
 opposé	opposer	VPP	_
 .	.	PONCT	_
-Quant_à	quant_à	P	_
+Quant	quant	ADV	_
+à	à	P	_
 la	le	DET	_
 porte	porte	NC	_
 ,	,	PONCT	_
@@ -31424,7 +31504,7 @@ de	de	P	_
 vestibule	vestibule	NC	_
 garni	garnir	VPP	_
 de	de	P	_
-siéges	siéges	NC	_
+siéges	siège	NC	_
 ,	,	PONCT	_
 ou	ou	CC	_
 pour	pour	P	_
@@ -31587,7 +31667,9 @@ de	de	P	_
 la	le	DET	_
 rue	rue	NC	_
 ;	;	PONCT	_
-au-dessus	au-dessus	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 ,	,	PONCT	_
 le	le	DET	_
 ciel	ciel	NC	_
@@ -31621,7 +31703,7 @@ midi	midi	NC	_
 ,	,	PONCT	_
 me	je	CLO	_
 dit	dire	V	_
-M.	M.	NC	_
+M.	monsieur	NC	_
 N.	N.	NP	_
 .	.	PONCT	_
 .	.	PONCT	_
@@ -31827,7 +31909,7 @@ au	à_le	P+D	_
 fond	fond	NC	_
 de	de	P	_
 cette	ce	DET	_
-étroite	étroite	NC	_
+étroite	étroit	NC	_
 avenue	avenir	VPP	_
 frappée	frapper	VPP	_
 d'	de	P	_
@@ -31874,7 +31956,9 @@ aigrettes	aigrette	NC	_
 de	de	P	_
 palmiers	palmier	NC	_
 pointaient	pointer	V	_
-au-dessus	au-dessus	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 des	un	DET	_
 terrasses	terrasse	NC	_
 ;	;	PONCT	_
@@ -31905,7 +31989,7 @@ sommet	sommet	NC	_
 et	et	CC	_
 ne	ne	ADV	_
 présentant	présenter	VPR	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 une	un	DET	_
 silhouette	silhouette	NC	_
 obscure	obscur	ADJ	_
@@ -31931,7 +32015,7 @@ des	de_le	P+D	_
 gaietés	gaieté	NC	_
 de	de	P	_
 l'	le	DET	_
-Orient	Orient	NC	_
+Orient	orient	NC	_
 .	.	PONCT	_
 La	le	DET	_
 rue	rue	NC	_
@@ -31951,7 +32035,7 @@ marcher	marcher	VINF	_
 de	de	P	_
 front	front	NC	_
 .	.	PONCT	_
-M.	M.	NC	_
+M.	monsieur	NC	_
 N.	N.	NP	_
 .	.	PONCT	_
 .	.	PONCT	_
@@ -31995,7 +32079,9 @@ cafés	café	NC	_
 des	un	DET	_
 toiles	toile	NC	_
 tendues	tendre	VPP	_
-au-dessus	au-dessus	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 de	de	P	_
 la	le	DET	_
 rue	rue	NC	_
@@ -32067,7 +32153,7 @@ Mahkzen	Mahkzen	NC	_
 et	et	CC	_
 de	de	P	_
 quelques	quelque	DET	_
-Arabes	Arabe	NC	_
+Arabe	arabe	NC	_
 vêtus	vêtir	VPP	_
 de	de	P	_
 blanc	blanc	NC	_
@@ -32119,7 +32205,8 @@ lui	il	CLO	_
 connaissais	connaître	V	_
 pas	pas	ADV	_
 ;	;	PONCT	_
-quant_aux	quant_à_le	P+D	_
+quant	quant	ADV	_
+aux	à_le	P+D	_
 deux	deux	ADJ	_
 valets	valet	NC	_
 ,	,	PONCT	_
@@ -32139,7 +32226,7 @@ jeu	jeu	NC	_
 de	de	P	_
 dames	dame	NC	_
 .	.	PONCT	_
-M.	M.	NC	_
+M.	monsieur	NC	_
 N.	N.	NP	_
 .	.	PONCT	_
 .	.	PONCT	_
@@ -32240,7 +32327,7 @@ la	le	DET	_
 forme	forme	NC	_
 enveloppée	envelopper	VPP	_
 d'	de	P	_
-Arabes	Arabe	NC	_
+Arabe	arabe	NC	_
 endormis	endormir	VPP	_
 .	.	PONCT	_
 Une	un	DET	_
@@ -32352,7 +32439,7 @@ commandant	commandant	NC	_
 ,	,	PONCT	_
 me	je	CLO	_
 dit	dire	V	_
-M.	M.	NC	_
+M.	monsieur	NC	_
 N.	N.	NP	_
 .	.	PONCT	_
 .	.	PONCT	_
@@ -32439,7 +32526,7 @@ deux	deux	DET	_
 heures	heure	NC	_
 dans	dans	P	_
 la	le	DET	_
-Maison	Maison	NC	_
+Maison	maison	NC	_
 des	de_le	P+D	_
 hôtes	hôte	NC	_
 ;	;	PONCT	_
@@ -32570,7 +32657,7 @@ content	content	ADJ	_
 me	je	CLO	_
 dit	dire	V	_
 obligeamment	obligeamment	ADV	_
-M.	M.	NC	_
+M.	monsieur	NC	_
 N.	N.	NP	_
 .	.	PONCT	_
 .	.	PONCT	_
@@ -32579,7 +32666,8 @@ m'	je	CLO	_
 y	y	CLO	_
 introduisant	introduire	VPR	_
 ,	,	PONCT	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 au	à_le	P+D	_
 moins	moins	NC	_
 vous	vous	CLS	_
@@ -32743,7 +32831,8 @@ et	et	CC	_
 aux	à_le	P+D	_
 lézards	lézard	NC	_
 .	.	PONCT	_
-Quant_à	quant_à	P	_
+Quant	quant	ADV	_
+à	à	P	_
 l'	le	DET	_
 état	état	NC	_
 des	de_le	P+D	_
@@ -32934,7 +33023,8 @@ l'	il	CLO	_
 apprendre	apprendre	VINF	_
 par	par	P	_
 coeur	cœur	NC	_
-afin_de	afin_de	P	_
+afin	afin	ADV	_
+de	de	P	_
 pouvoir	pouvoir	VINF	_
 ,	,	PONCT	_
 la	le	DET	_
@@ -32975,7 +33065,7 @@ et	et	CC	_
 n'	ne	ADV	_
 offre	offrir	V	_
 plus	plus	ADV	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 un	un	DET	_
 point	point	NC	_
 d'	de	P	_
@@ -34026,7 +34116,9 @@ un	un	DET	_
 moment	moment	NC	_
 le	le	DET	_
 couchant	couchant	NC	_
-au-dessus	au-dessus	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 des	de_le	P+D	_
 montagnes	montagne	NC	_
 plus	plus	ADV	_
@@ -34191,7 +34283,7 @@ monsieur	monsieur	NC	_
 ,	,	PONCT	_
 me	je	CLO	_
 dit	dire	V	_
-M.	M.	NC	_
+M.	monsieur	NC	_
 .	.	PONCT	_
 .	.	PONCT	_
 en	en	P	_
@@ -34435,7 +34527,7 @@ Ahmet	Ahmet	NP	_
 c'	ce	CLS	_
 était	être	V	_
 l'	le	DET	_
-Arabe	Arabe	NC	_
+Arabe	arabe	NC	_
 qui	qui	PROREL	_
 fumait	fumer	V	_
 en	en	P	_
@@ -34569,7 +34661,7 @@ moi	je	PRO	_
 ,	,	PONCT	_
 dans	dans	P	_
 la	le	DET	_
-Maison	Maison	NC	_
+Maison	maison	NC	_
 des	de_le	P+D	_
 hôtes	hôte	NC	_
 ,	,	PONCT	_
@@ -34672,7 +34764,7 @@ ont	avoir	V	_
 été	être	VPP	_
 témoins	témoin	NC	_
 du	de_le	P+D	_
-siége	siége	NC	_
+siége	siège	NC	_
 .	.	PONCT	_
 El	El	NP	_
 -	-	PONCT	_
@@ -34776,7 +34868,7 @@ extrêmes	extrême	ADJ	_
 au	à_le	P+D	_
 moment	moment	NC	_
 du	de_le	P+D	_
-siége	siége	NC	_
+siége	siège	NC	_
 ,	,	PONCT	_
 armés	armer	VPP	_
 chacun	chacun	PRO	_
@@ -34984,7 +35076,9 @@ prêtes	prêt	ADJ	_
 à	à	P	_
 se	se	CLO	_
 fusiller	fusiller	VINF	_
-par-dessus	par-dessus	P	_
+par	par	S	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 leur	leur	DET	_
 mur	mur	NC	_
 mitoyen	mitoyen	ADJ	_
@@ -35637,7 +35731,7 @@ lions	lion	NC	_
 viendront	venir	V	_
 vous	vous	CLO	_
 prendre	prendre	VINF	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 ensemble	ensemble	ADV	_
 et	et	CC	_
 vous	vous	CLO	_
@@ -35878,7 +35972,7 @@ nord-ouest	nord-ouest	NC	_
 presque	presque	ADV	_
 aussitôt	aussitôt	ADV	_
 le	le	DET	_
-siége	siége	NC	_
+siége	siège	NC	_
 commença	commencer	V	_
 .	.	PONCT	_
 Dans	dans	P	_
@@ -35938,7 +36032,7 @@ avait	avoir	V	_
 en	en	P	_
 cas	cas	NC	_
 de	de	P	_
-siége	siége	NC	_
+siége	siège	NC	_
 ,	,	PONCT	_
 une	un	DET	_
 enceinte	enceinte	NC	_
@@ -36248,7 +36342,7 @@ guerre	guerre	NC	_
 qui	qui	PROREL	_
 plaît	plaire	V	_
 aux	à_le	P+D	_
-Arabes	Arabe	NC	_
+Arabe	arabe	NC	_
 ;	;	PONCT	_
 et	et	CC	_
 depuis	depuis	P	_
@@ -36275,7 +36369,7 @@ long	long	ADJ	_
 Ce	ce	CLS	_
 ne	ne	ADV	_
 fut	être	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 à	à	P	_
 la	le	DET	_
 troisième	troisième	ADJ	_
@@ -36475,7 +36569,8 @@ les	le	DET	_
 jardins	jardin	NC	_
 ;	;	PONCT	_
 et	et	CC	_
-quant_à	quant_à	P	_
+quant	quant	ADV	_
+à	à	P	_
 la	le	DET	_
 lutte	lutte	NC	_
 qui	qui	PROREL	_
@@ -36499,7 +36594,7 @@ de	de	P	_
 la	le	DET	_
 part	part	NC	_
 des	de_le	P+D	_
-Arabes	Arabe	NC	_
+Arabe	arabe	NC	_
 ,	,	PONCT	_
 mais	mais	CC	_
 courte	court	ADJ	_
@@ -36631,7 +36726,7 @@ N.	N.	NP	_
 me	je	CLO	_
 parlant	parler	VPR	_
 du	de_le	P+D	_
-siége	siége	NC	_
+siége	siège	NC	_
 ,	,	PONCT	_
 et	et	CC	_
 moi	je	PRO	_
@@ -36886,7 +36981,9 @@ y	y	CLO	_
 a	avoir	V	_
 une	un	DET	_
 barre	barre	NC	_
-au-dessous	au-dessous	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessous	dessous	ADV	_
 ,	,	PONCT	_
 peut-être	peut-être	ADV	_
 faite	faire	VPP	_
@@ -37251,7 +37348,7 @@ n'	ne	ADV	_
 y	y	CLO	_
 a	avoir	V	_
 plus	plus	ADV	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 une	un	DET	_
 tour	tour	NC	_
 ,	,	PONCT	_
@@ -37493,7 +37590,8 @@ pluie	pluie	NC	_
 de	de	P	_
 mitraille	mitraille	NC	_
 ,	,	PONCT	_
-tandis_que	tandis_que	CS	_
+tandis	tandis	ADV	_
+que	que	CS	_
 quelques	quelque	DET	_
 éclats	éclat	NC	_
 plus	plus	ADV	_
@@ -37617,7 +37715,7 @@ officiers	officier	NC	_
 tués	tuer	VPP	_
 pendant	pendant	P	_
 le	le	DET	_
-siége	siége	NC	_
+siége	siège	NC	_
 ou	ou	CC	_
 morts	mort	NC	_
 depuis	depuis	P	_
@@ -38450,7 +38548,7 @@ quelques	quelque	DET	_
 mois	mois	NC	_
 avant	avant	P	_
 le	le	DET	_
-siége	siége	NC	_
+siége	siège	NC	_
 ,	,	PONCT	_
 le	le	DET	_
 lieutenant	lieutenant	NC	_
@@ -38876,7 +38974,7 @@ nu	nu	NC	_
 .	.	PONCT	_
 -	-	X	_
 Les	le	DET	_
-malheureuses	malheureuse	NC	_
+malheureuses	malheureux	NC	_
 !	!	PONCT	_
 dit	dire	V	_
 le	le	DET	_
@@ -38936,7 +39034,9 @@ arraché	arracher	VPP	_
 les	le	DET	_
 charnières	charnière	NC	_
 .	.	PONCT	_
-Au-dessus	au-dessus	ADV	_
+Au	à_le	P+D	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 des	de_le	P+D	_
 deux	deux	ADJ	_
 femmes	femme	NC	_
@@ -39121,7 +39221,7 @@ mort	mort	NC	_
 il	il	CLS	_
 ne	ne	ADV	_
 fit	faire	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 une	un	DET	_
 traite	traite	NC	_
 d'	de	P	_
@@ -39235,7 +39335,9 @@ sur	sur	P	_
 la	le	DET	_
 ville	ville	NC	_
 comme	comme	P	_
-au-dessus	au-dessus	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 d'	de	P	_
 un	un	DET	_
 charnier	charnier	NC	_
@@ -39274,7 +39376,7 @@ succédant	succéder	VPR	_
 aux	à_le	P+D	_
 canonnades	canonnade	NC	_
 du	de_le	P+D	_
-siége	siége	NC	_
+siége	siège	NC	_
 avait	avoir	V	_
 si	si	ADV	_
 bien	bien	ADV	_
@@ -39423,7 +39525,8 @@ sous	sous	P	_
 le	le	DET	_
 séquestre	séquestre	NC	_
 .	.	PONCT	_
-Quant_à	quant_à	P	_
+Quant	quant	ADV	_
+à	à	P	_
 cet	ce	DET	_
 immense	immense	ADJ	_
 butin	butin	NC	_
@@ -39758,7 +39861,8 @@ de	de	P	_
 briser	briser	VINF	_
 les	le	DET	_
 lignes	ligne	NC	_
-afin_de	afin_de	P	_
+afin	afin	ADV	_
+de	de	P	_
 laisser	laisser	VINF	_
 encore	encore	ADV	_
 moins	moins	ADV	_
@@ -40165,7 +40269,8 @@ zabites	zabites	ADJ	_
 On	on	CLS	_
 y	y	CLO	_
 voit	voir	V	_
-en_outre	en_outre	ADV	_
+en	en	P	_
+outre	outre	P	_
 ,	,	PONCT	_
 aux	à_le	P+D	_
 endroits	endroit	NC	_
@@ -40256,7 +40361,7 @@ l'on	on	CLS	_
 remarque	remarquer	V	_
 qu'	que	CS	_
 aucun	aucun	DET	_
-Arabe	Arabe	NC	_
+Arabe	arabe	NC	_
 ne	ne	ADV	_
 vient	venir	V	_
 s'	se	CLO	_
@@ -40530,7 +40635,7 @@ ami	ami	NC	_
 Bakir	Bakir	NP	_
 ,	,	PONCT	_
 les	le	DET	_
-Arabes	Arabe	NC	_
+Arabe	arabe	NC	_
 les	il	CLO	_
 appellent	appeler	V	_
 les	le	DET	_
@@ -40800,7 +40905,7 @@ Aghouat	Aghouat	NP	_
 ne	ne	ADV	_
 pouvait	pouvoir	V	_
 être	être	VINF	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 un	un	DET	_
 rendez-vous	rendez-vous	NC	_
 d'	de	P	_
@@ -40843,7 +40948,7 @@ abord	abord	NC	_
 je	je	CLS	_
 ne	ne	ADV	_
 vis	vivre	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 une	un	DET	_
 plaine	plaine	NC	_
 vide	vide	ADJ	_
@@ -40891,7 +40996,7 @@ laitières	laitier	ADJ	_
 ,	,	PONCT	_
 dont	dont	PROREL	_
 un	un	DET	_
-Arabe	Arabe	NC	_
+Arabe	arabe	NC	_
 examinait	examiner	V	_
 les	le	DET	_
 mamelles	mamelle	NC	_
@@ -41305,7 +41410,7 @@ double	double	NC	_
 rangée	ranger	VPP	_
 de	de	P	_
 figures	figure	NC	_
-charmantes	charmant	ADJ	_
+charmantes	charmer	ADJ	_
 collées	coller	VPP	_
 au	à_le	P+D	_
 mur	mur	NC	_
@@ -41389,7 +41494,7 @@ et	et	CC	_
 qui	qui	PROREL	_
 n'	ne	ADV	_
 avait	avoir	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 un	un	DET	_
 tort	tort	NC	_
 ,	,	PONCT	_
@@ -41477,7 +41582,7 @@ voici	voici	V	_
 une	un	DET	_
 fois	fois	NC	_
 pour	pour	P	_
-toutes	tous	PRO	_
+toutes	tout	PRO	_
 ,	,	PONCT	_
 ce	ce	DET	_
 costume	costume	NC	_
@@ -41502,7 +41607,8 @@ turban	turban	NC	_
 ,	,	PONCT	_
 quelquefois	quelquefois	ADV	_
 ,	,	PONCT	_
-en_outre	en_outre	ADV	_
+en	en	P	_
+outre	outre	P	_
 ,	,	PONCT	_
 d'	de	P	_
 une	un	DET	_
@@ -41605,7 +41711,9 @@ moyen	moyen	NC	_
 d'	de	P	_
 une	un	DET	_
 épingle	épingle	NC	_
-au-dessus	au-dessus	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 du	de_le	P+D	_
 sein	sein	NC	_
 ,	,	PONCT	_
@@ -41696,7 +41804,8 @@ plus	plus	ADV	_
 grande	grand	ADJ	_
 élégance	élégance	NC	_
 .	.	PONCT	_
-Quant_au	quant_à_le	P+D	_
+Quant	quant	ADV	_
+au	à_le	P+D	_
 turban	turban	NC	_
 ,	,	PONCT	_
 il	il	CLS	_
@@ -42329,9 +42438,9 @@ de	de	P	_
 jolies	joli	ADJ	_
 ;	;	PONCT	_
 presque	presque	ADV	_
-toutes	tous	PRO	_
+toutes	tout	PRO	_
 sont	être	V	_
-charmantes	charmant	ADJ	_
+charmantes	charmer	ADJ	_
 ;	;	PONCT	_
 elles	il	CLS	_
 ont	avoir	V	_
@@ -42419,7 +42528,7 @@ connais	connaître	V	_
 le	le	DET	_
 mépris	mépris	NC	_
 des	de_le	P+D	_
-Arabes	Arabe	NC	_
+Arabe	arabe	NC	_
 pour	pour	P	_
 la	le	DET	_
 profession	profession	NC	_
@@ -42442,7 +42551,7 @@ une	un	DET	_
 foule	foule	NC	_
 de	de	P	_
 suppositions	supposition	NC	_
-effrayantes	effrayant	ADJ	_
+effrayantes	effrayer	ADJ	_
 pour	pour	P	_
 leur	leur	DET	_
 sexe	sexe	NC	_
@@ -42471,7 +42580,9 @@ tout	tout	ADV	_
 petit	petit	ADJ	_
 visage	visage	NC	_
 ,	,	PONCT	_
-au-dessus	au-dessus	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 d'	de	P	_
 un	un	DET	_
 cou	cou	NC	_
@@ -42650,7 +42761,7 @@ je	je	CLS	_
 lui	il	CLO	_
 tends	tendre	V	_
 un	un	DET	_
-piége	piége	NC	_
+piége	piège	NC	_
 ;	;	PONCT	_
 et	et	CC	_
 confusément	confusément	ADV	_
@@ -42824,7 +42935,7 @@ je	je	CLS	_
 n'	ne	ADV	_
 ai	avoir	V	_
 plus	plus	ADV	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 à	à	P	_
 quitter	quitter	VINF	_
 la	le	DET	_
@@ -42927,7 +43038,9 @@ soleil	soleil	NC	_
 leurs	leur	DET	_
 haïks	haïk	NC	_
 retroussés	retrousser	VPP	_
-au-dessus	au-dessus	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 du	de_le	P+D	_
 genou	genou	NC	_
 ,	,	PONCT	_
@@ -43097,7 +43210,7 @@ et	et	CC	_
 nue	nu	ADJ	_
 ,	,	PONCT	_
 car	car	CC	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 n'	ne	ADV	_
 ont	avoir	V	_
 pas	pas	ADV	_
@@ -43351,7 +43464,8 @@ antithèse	antithèse	NC	_
 c'	ce	CLS	_
 est	être	V	_
 uniquement	uniquement	ADV	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 elle	il	CLS	_
 appartient	appartenir	V	_
 encore	encore	ADV	_
@@ -43639,7 +43753,7 @@ sous	sous	P	_
 ses	son	DET	_
 doigts	doigt	NC	_
 déjà	déjà	ADV	_
-tremblants	tremblant	ADJ	_
+tremblants	trembler	ADJ	_
 ce	ce	DET	_
 singulier	singulier	ADJ	_
 chapelet	chapelet	NC	_
@@ -43877,7 +43991,8 @@ de	de	P	_
 la	le	DET	_
 maison	maison	NC	_
 .	.	PONCT	_
-Quant_à	quant_à	P	_
+Quant	quant	ADV	_
+à	à	P	_
 l'	le	DET	_
 homme	homme	NC	_
 ,	,	PONCT	_
@@ -43930,7 +44045,7 @@ La	le	DET	_
 définition	définition	NC	_
 n'	ne	ADV	_
 est	être	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 à	à	P	_
 moitié	moitié	NC	_
 vraie	vrai	ADJ	_
@@ -43956,7 +44071,7 @@ crois	croire	V	_
 ,	,	PONCT	_
 que	que	CS	_
 les	le	DET	_
-Arabes	Arabe	NC	_
+Arabe	arabe	NC	_
 du	de_le	P+D	_
 sud	sud	NC	_
 ne	ne	ADV	_
@@ -44079,7 +44194,7 @@ pourtant	pourtant	ADV	_
 résument	résumer	V	_
 tout	tout	ADJ	_
 l'	le	DET	_
-Orient	Orient	NC	_
+Orient	orient	NC	_
 .	.	PONCT	_
 Tu	tu	CLS	_
 trouveras	trouver	V	_
@@ -44696,7 +44811,7 @@ l'	le	DET	_
 enveloppe	enveloppe	NC	_
 de	de	P	_
 nébulosités	nébulosité	NC	_
-mouvantes	mouvant	ADJ	_
+mouvantes	mouvoir	ADJ	_
 ,	,	PONCT	_
 révèlent	révéler	V	_
 une	un	DET	_
@@ -44733,7 +44848,7 @@ prêts	prêt	ADJ	_
 se	se	CLO	_
 cacher	cacher	VINF	_
 dès	dès	P	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 un	un	DET	_
 étranger	étranger	NC	_
 paraît	paraître	V	_
@@ -44767,7 +44882,8 @@ y	y	CLO	_
 sont	être	V	_
 respectés	respecter	VPP	_
 que	que	ADV	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 on	on	CLS	_
 y	y	CLO	_
 compte	compter	V	_
@@ -44993,7 +45109,7 @@ notre	notre	DET	_
 temps	temps	NC	_
 .	.	PONCT	_
 L'	le	DET	_
-Arabe	Arabe	NC	_
+Arabe	arabe	NC	_
 ,	,	PONCT	_
 comme	comme	P	_
 beaucoup	beaucoup	PRO	_
@@ -45014,7 +45130,8 @@ On	on	CLS	_
 en	en	CLO	_
 est	être	V	_
 las	las	ADJ	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 il	il	CLS	_
 est	être	V	_
 devenu	devenir	VPP	_
@@ -45153,7 +45270,7 @@ arabe	arabe	ADJ	_
 ,	,	PONCT	_
 voilà	voilà	V	_
 l'	le	DET	_
-Arabe	Arabe	NC	_
+Arabe	arabe	NC	_
 .	.	PONCT	_
 Tu	tu	CLS	_
 l'	il	CLO	_
@@ -45603,7 +45720,7 @@ il	il	CLS	_
 n'	ne	ADV	_
 y	y	CLO	_
 a	avoir	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 un	un	DET	_
 faible	faible	ADJ	_
 mélange	mélange	NC	_
@@ -45644,12 +45761,15 @@ sortir	sortir	VINF	_
 d'	de	P	_
 un	un	DET	_
 moule	moule	NC	_
-au-dessus	au-dessus	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 de	de	P	_
 nature	nature	NC	_
 .	.	PONCT	_
 -	-	PONCT	_
-Quant_aux	quant_à_le	P+D	_
+quant	quant	ADV	_
+aux	à_le	P+D	_
 yeux	œil	NC	_
 ,	,	PONCT	_
 c'	ce	CLS	_
@@ -45779,7 +45899,7 @@ burnouss	burnouss	NC	_
 ,	,	PONCT	_
 ghaët	ghaët	NC	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 ;	;	PONCT	_
 rien	rien	PRO	_
 n'	ne	ADV	_
@@ -45837,7 +45957,8 @@ dont	dont	PROREL	_
 le	le	DET	_
 capuchon	capuchon	NC	_
 peut	pouvoir	V	_
-en_outre	en_outre	ADV	_
+en	en	P	_
+outre	outre	P	_
 abriter	abriter	VINF	_
 la	le	DET	_
 tête	tête	NC	_
@@ -45885,7 +46006,7 @@ collante	collant	ADJ	_
 et	et	CC	_
 ne	ne	ADV	_
 fait	faire	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 élargir	élargir	VINF	_
 le	le	DET	_
 crâne	crâne	NC	_
@@ -45964,7 +46085,7 @@ fantasia	fantasia	NC	_
 comme	comme	CS	_
 disent	dire	V	_
 les	le	DET	_
-Arabes	Arabe	NC	_
+Arabe	arabe	NC	_
 ,	,	PONCT	_
 c'est-à-dire	c'est-à-dire	CC	_
 de	de	P	_
@@ -46192,7 +46313,7 @@ l'	le	DET	_
 autre	autre	NC	_
 .	.	PONCT	_
 L'	le	DET	_
-Arabe	Arabe	NC	_
+Arabe	arabe	NC	_
 à	à	P	_
 pied	pied	NC	_
 ,	,	PONCT	_
@@ -46419,7 +46540,7 @@ trouver	trouver	VINF	_
 Est	être	V	_
 -ce	ce	CLS	_
 l'	le	DET	_
-Arabe	Arabe	NC	_
+Arabe	arabe	NC	_
 ?	?	PONCT	_
 est	être	V	_
 -ce	ce	CLS	_
@@ -46608,7 +46729,7 @@ des	un	DET	_
 efforts	effort	NC	_
 de	de	P	_
 jarrets	jarret	NC	_
-effrayants	effrayant	ADJ	_
+effrayants	effrayer	ADJ	_
 .	.	PONCT	_
 Le	le	DET	_
 pavé	pavé	NC	_
@@ -46939,7 +47060,7 @@ pour	pour	P	_
 tout	tout	ADV	_
 autre	autre	ADJ	_
 ;	;	PONCT	_
-privilége	privilége	ADJ	_
+privilége	privilège	ADJ	_
 précieux	précieux	ADJ	_
 pour	pour	P	_
 moi	je	PRO	_
@@ -47031,7 +47152,9 @@ de	de	P	_
 philosophie	philosophie	NC	_
 ,	,	PONCT	_
 et	et	CC	_
-au-dessus	au-dessus	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 de	de	P	_
 certains	certain	DET	_
 préjugés	préjugé	NC	_
@@ -47234,7 +47357,8 @@ chassant	chasser	VPR	_
 ;	;	PONCT	_
 il	il	CLS	_
 parle	parler	V	_
-en_outre	en_outre	ADV	_
+en	en	P	_
+outre	outre	P	_
 de	de	P	_
 l'	le	DET	_
 Oued	Oued	NC	_
@@ -47524,7 +47648,8 @@ dans	dans	P	_
 la	le	DET	_
 cour	cour	NC	_
 .	.	PONCT	_
-Quant_au	quant_à_le	P+D	_
+Quant	quant	ADV	_
+au	à_le	P+D	_
 plafond	plafond	NC	_
 ,	,	PONCT	_
 perdu	perdre	VPP	_
@@ -47537,7 +47662,7 @@ il	il	CLS	_
 sert	servir	V	_
 de	de	P	_
 retraite	retraite	NC	_
-effrayante	effrayant	ADJ	_
+effrayante	effrayer	ADJ	_
 à	à	P	_
 des	un	DET	_
 animaux	animal	NC	_
@@ -47737,7 +47862,7 @@ depuis	depuis	P	_
 la	le	DET	_
 prise	prise	NC	_
 ,	,	PONCT	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 une	un	DET	_
 industrie	industrie	NC	_
 de	de	P	_
@@ -47968,7 +48093,8 @@ sur	sur	P	_
 la	le	DET	_
 figure	figure	NC	_
 ,	,	PONCT	_
-afin_de	afin_de	P	_
+afin	afin	ADV	_
+de	de	P	_
 les	il	CLO	_
 préserver	préserver	VINF	_
 des	un	DET	_
@@ -48130,7 +48256,9 @@ accumulés	accumuler	VPP	_
 des	de_le	P+D	_
 repas	repas	NC	_
 .	.	PONCT	_
-Là-dessus	là-dessus	ADV	_
+Là	là	ADV	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 ,	,	PONCT	_
 répands	répandre	V	_
 des	un	DET	_
@@ -48181,7 +48309,9 @@ essaim	essaim	NC	_
 place	place	NC	_
 en	en	P	_
 sentinelle	sentinelle	NC	_
-au-dessus	au-dessus	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 de	de	P	_
 la	le	DET	_
 porte	porte	NC	_
@@ -48550,7 +48680,9 @@ commençaient	commencer	V	_
 à	à	P	_
 se	se	CLO	_
 répandre	répandre	VINF	_
-au-dessus	au-dessus	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 des	de_le	P+D	_
 terrasses	terrasse	NC	_
 .	.	PONCT	_
@@ -48807,7 +48939,7 @@ rares	rare	ADJ	_
 et	et	CC	_
 ne	ne	ADV	_
 font	faire	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 y	y	CLO	_
 apparaître	apparaître	VINF	_
 au	à_le	P+D	_
@@ -49013,7 +49145,7 @@ sont	être	V	_
 fort	fort	ADV	_
 appréciées	apprécier	VPP	_
 des	de_le	P+D	_
-Arabes	Arabe	NC	_
+Arabe	arabe	NC	_
 ;	;	PONCT	_
 on	on	CLS	_
 les	il	CLO	_
@@ -49211,7 +49343,8 @@ un	un	DET	_
 pareil	pareil	NC	_
 conteur	conteur	ADJ	_
 .	.	PONCT	_
-Quant_à	quant_à	P	_
+Quant	quant	ADV	_
+à	à	P	_
 moi	je	PRO	_
 ,	,	PONCT	_
 j'	je	CLS	_
@@ -49354,7 +49487,9 @@ espace	espace	NC	_
 et	et	CC	_
 guettant	guetter	VPR	_
 ;	;	PONCT	_
-par-dessus	par-dessus	P	_
+par	par	S	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 tout	tout	ADV	_
 enfin	enfin	ADV	_
 ,	,	PONCT	_
@@ -49684,7 +49819,7 @@ avec	avec	P	_
 des	un	DET	_
 yeux	œil	NC	_
 fixes	fixe	ADJ	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 on	on	CLS	_
 devinait	deviner	V	_
 sans	sans	P	_
@@ -50087,7 +50222,7 @@ mot	mot	NC	_
 Ce	ce	CLS	_
 ne	ne	ADV	_
 fut	être	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 au	à_le	P+D	_
 moment	moment	NC	_
 de	de	P	_
@@ -50141,7 +50276,8 @@ et	et	CC	_
 se	se	CLO	_
 rassit	rasseoir	V	_
 .	.	PONCT	_
-Quant_au	quant_à_le	P+D	_
+Quant	quant	ADV	_
+au	à_le	P+D	_
 chasseur	chasseur	NC	_
 ,	,	PONCT	_
 il	il	CLS	_
@@ -50575,7 +50711,7 @@ bonsoir	bonsoir	NC	_
 d'	de	P	_
 une	un	DET	_
 voix	voix	NC	_
-charmante	charmant	ADJ	_
+charmante	charmer	ADJ	_
 .	.	PONCT	_
 C'	ce	CLS	_
 était	être	V	_
@@ -50791,7 +50927,7 @@ soldat	soldat	NC	_
 et	et	CC	_
 très	très	ADV	_
 -	-	PONCT	_
-brillant	brillant	ADJ	_
+brillant	briller	ADJ	_
 cavalier	cavalier	NC	_
 .	.	PONCT	_
 Mais	mais	CC	_
@@ -50982,7 +51118,7 @@ toutes	tout	ADJ	_
 en	en	P	_
 blanc	blanc	NC	_
 ,	,	PONCT	_
-toutes	tous	PRO	_
+toutes	tout	PRO	_
 une	un	DET	_
 tasse	tasse	NC	_
 à	à	P	_
@@ -51152,7 +51288,9 @@ La	le	DET	_
 voie	voie	NC	_
 lactée	lacté	ADJ	_
 passait	passer	V	_
-au-dessus	au-dessus	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 de	de	P	_
 nos	notre	DET	_
 têtes	tête	NC	_
@@ -51289,7 +51427,7 @@ marchait	marcher	V	_
 comme	comme	P	_
 marchent	marcher	V	_
 les	le	DET	_
-Arabes	Arabe	NC	_
+Arabe	arabe	NC	_
 quand	quand	CS	_
 ils	il	CLS	_
 craignent	craindre	V	_
@@ -51714,7 +51852,7 @@ il	il	CLS	_
 trois	trois	DET	_
 heures	heure	NC	_
 et	et	CC	_
-demie	demie	NC	_
+demie	demi	ADJ	_
 .	.	PONCT	_
 -	-	X	_
 Allons	aller	V	_
@@ -52639,7 +52777,7 @@ Il	il	CLS	_
 n'	ne	ADV	_
 y	y	CLO	_
 a	avoir	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 un	un	DET	_
 degré	degré	NC	_
 de	de	P	_
@@ -53317,7 +53455,9 @@ sources	source	NC	_
 .	.	PONCT	_
 Ils	il	CLS	_
 passent	passer	V	_
-au-dessus	au-dessus	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 de	de	P	_
 la	le	DET	_
 ville	ville	NC	_
@@ -53495,7 +53635,7 @@ alors	alors	ADV	_
 six	six	DET	_
 heures	heure	NC	_
 et	et	CC	_
-demie	demie	NC	_
+demie	demi	ADJ	_
 .	.	PONCT	_
 Une	un	DET	_
 heure	heure	NC	_
@@ -53744,7 +53884,9 @@ idée	idée	NC	_
 de	de	P	_
 s'	se	CLO	_
 aventurer	aventurer	VINF	_
-là-haut	là-haut	ADV	_
+à	à_le	P+D	_
+-	-	PONCT	_
+haut	haut	ADV	_
 .	.	PONCT	_
 Le	le	DET	_
 soleil	soleil	NC	_
@@ -53844,7 +53986,9 @@ incroyables	incroyable	ADJ	_
 La	le	DET	_
 ville	ville	NC	_
 dort	dormir	V	_
-au-dessous	au-dessous	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessous	dessous	ADV	_
 de	de	P	_
 moi	je	PRO	_
 ,	,	PONCT	_
@@ -53912,7 +54056,7 @@ n'	ne	ADV	_
 y	y	CLO	_
 a	avoir	V	_
 plus	plus	ADV	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 une	un	DET	_
 ou	ou	CC	_
 deux	deux	DET	_
@@ -54061,7 +54205,7 @@ de	de	P	_
 petits	petit	ADJ	_
 vergers	verger	NC	_
 ,	,	PONCT	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 également	également	ADV	_
 clos	clore	VPP	_
 de	de	P	_
@@ -54186,7 +54330,9 @@ vent	vent	NC	_
 ,	,	PONCT	_
 ont	avoir	V	_
 passé	passer	VPP	_
-par-dessus	par-dessus	P	_
+par	par	S	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 le	le	DET	_
 mur	mur	NC	_
 d'	de	P	_
@@ -54650,7 +54796,7 @@ leurs	leur	DET	_
 dattes	datte	NC	_
 ,	,	PONCT	_
 les	le	DET	_
-meilleures	meilleure	NC	_
+meilleures	meilleur	NC	_
 du	de_le	P+D	_
 monde	monde	NC	_
 ;	;	PONCT	_
@@ -55449,7 +55595,9 @@ J'	je	CLS	_
 sur	sur	P	_
 une	un	DET	_
 terrasse	terrasse	NC	_
-au-dessus	au-dessus	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 de	de	P	_
 l'	le	DET	_
 oasis	oasis	NC	_
@@ -55743,7 +55891,8 @@ bougez	bouger	V	_
 pas	pas	ADV	_
 .	.	PONCT	_
 -	-	PONCT	_
-Quant_à	quant_à	P	_
+Quant	quant	ADV	_
+à	à	P	_
 Ahmet	Ahmet	NP	_
 ,	,	PONCT	_
 il	il	CLS	_
@@ -56282,7 +56431,8 @@ dans	dans	P	_
 la	le	DET	_
 terrasse	terrasse	NC	_
 .	.	PONCT	_
-Quant_aux	quant_à_le	P+D	_
+quant	quant	ADV	_
+aux	à_le	P+D	_
 tarentes	tarente	NC	_
 ,	,	PONCT	_
 je	je	CLS	_
@@ -56820,7 +56970,8 @@ sans	sans	P	_
 le	il	CLO	_
 vouloir	vouloir	V	_
 .	.	PONCT	_
-Quant_aux	quant_à_le	P+D	_
+quant	quant	ADV	_
+aux	à_le	P+D	_
 femmes	femme	NC	_
 ,	,	PONCT	_
 démarches	démarche	NC	_
@@ -57016,7 +57167,7 @@ dans	dans	P	_
 la	le	DET	_
 rue	rue	NC	_
 des	de_le	P+D	_
-Marchands	Marchands	NP	_
+Marchands	marchand	NP	_
 .	.	PONCT	_
 Il	il	CLS	_
 entra	entrer	V	_
@@ -57358,7 +57509,8 @@ directement	directement	ADV	_
 mes	mon	DET	_
 intérêts	intérêt	NC	_
 .	.	PONCT	_
-Quant_à	quant_à	P	_
+Quant	quant	ADV	_
+à	à	P	_
 ce	ce	PRO	_
 qu'	que	PROREL	_
 il	il	CLS	_
@@ -57901,7 +58053,7 @@ du	de_le	P+D	_
 canon	canon	NC	_
 de	de	P	_
 sept	sept	NC	_
-heures	heures	ADJ	_
+heures	heure	ADJ	_
 ;	;	PONCT	_
 et	et	CC	_
 nous	nous	CLS	_
@@ -58220,7 +58372,7 @@ sais	savoir	V	_
 comment	comment	PROWH	_
 il	il	CLS	_
 arriva	arriver	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 au	à_le	P+D	_
 lieu	lieu	NC	_
 de	de	P	_
@@ -58523,7 +58675,7 @@ et	et	CC	_
 ce	ce	CLS	_
 ne	ne	ADV	_
 fut	être	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 en	en	P	_
 remontant	remonter	VPR	_
 les	le	DET	_
@@ -58571,7 +58723,7 @@ le	le	DET	_
 jour	jour	NC	_
 même	même	ADJ	_
 du	de_le	P+D	_
-siége	siége	NC	_
+siége	siège	NC	_
 .	.	PONCT	_
 Depuis	depuis	P	_
 lors	lors	ADV	_
@@ -58775,7 +58927,9 @@ moments	moment	NC	_
 ,	,	PONCT	_
 on	on	CLS	_
 entend	entendre	V	_
-là-dedans	là-dedans	ADV	_
+là	là	ADV	_
+-	-	PONCT	_
+dedans	dedans	ADV	_
 des	un	DET	_
 luttes	lutte	NC	_
 effroyables	effroyable	ADJ	_
@@ -58907,7 +59061,9 @@ cris	cri	NC	_
 lointains	lointain	ADJ	_
 nous	nous	CLO	_
 arrivaient	arriver	V	_
-par-dessus	par-dessus	P	_
+par	par	S	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 l'	le	DET	_
 oasis	oasis	NC	_
 ;	;	PONCT	_
@@ -58995,7 +59151,7 @@ de	de	P	_
 fort	fort	ADV	_
 loin	loin	ADV	_
 et	et	CC	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 il	il	CLS	_
 ne	ne	ADV	_
 quitte	quitter	V	_
@@ -59032,7 +59188,7 @@ nous	nous	CLO	_
 décidâmes	décider	V	_
 pour	pour	P	_
 un	un	DET	_
-siége	siége	NC	_
+siége	siège	NC	_
 de	de	P	_
 pierres	pierre	NC	_
 ,	,	PONCT	_
@@ -59105,7 +59261,9 @@ le	le	DET	_
 ciel	ciel	NC	_
 ,	,	PONCT	_
 mais	mais	CC	_
-au-dessus	au-dessus	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 de	de	P	_
 laquelle	il	PROREL	_
 seulement	seulement	ADV	_
@@ -59437,7 +59595,8 @@ trouvé	trouver	VPP	_
 son	son	DET	_
 fils	fils	NC	_
 ;	;	PONCT	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 avec	avec	P	_
 des	un	DET	_
 débris	débris	NC	_
@@ -59772,7 +59931,9 @@ petits	petit	ADJ	_
 vergers	verger	NC	_
 contigus	contigu	ADJ	_
 ,	,	PONCT	_
-au-dessus	au-dessus	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 desquels	duquel	PROREL	_
 on	on	CLS	_
 voit	voir	V	_
@@ -59832,7 +59993,7 @@ pouvoir	pouvoir	VINF	_
 en	en	CLO	_
 sortir	sortir	VINF	_
 autrement	autrement	ADV	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 en	en	P	_
 retrouvant	retrouver	VPR	_
 l'	le	DET	_
@@ -60199,7 +60360,7 @@ les	le	DET	_
 poésies	poésie	NC	_
 de	de	P	_
 l'	le	DET	_
-Orient	Orient	NC	_
+Orient	orient	NC	_
 .	.	PONCT	_
 Aussi	aussi	ADV	_
 ,	,	PONCT	_
@@ -60224,7 +60385,7 @@ arbres	arbre	NC	_
 comme	comme	P	_
 des	un	DET	_
 parasols	parasol	NC	_
-mouvants	mouvant	ADJ	_
+mouvants	mouvoir	ADJ	_
 .	.	PONCT	_
 II	II	X	_
 ,	,	PONCT	_
@@ -60596,7 +60757,7 @@ les	le	DET	_
 jardins	jardin	NC	_
 ;	;	PONCT	_
 un	un	DET	_
-Arabe	Arabe	NC	_
+Arabe	arabe	NC	_
 tout	tout	ADV	_
 nu	nu	ADJ	_
 y	y	CLO	_
@@ -60629,7 +60790,7 @@ Oui	oui	I	_
 ,	,	PONCT	_
 dit	dire	V	_
 l'	le	DET	_
-Arabe	Arabe	NC	_
+Arabe	arabe	NC	_
 en	en	P	_
 montrant	montrer	VPR	_
 le	le	DET	_
@@ -61209,7 +61370,7 @@ Le	le	DET	_
 lieutenant	lieutenant	NC	_
 ne	ne	ADV	_
 fit	faire	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 un	un	DET	_
 bond	bond	NC	_
 ,	,	PONCT	_
@@ -61609,7 +61770,8 @@ nuits	nuit	NC	_
 de	de	P	_
 Rhamadan	Rhamadan	NP	_
 .	.	PONCT	_
-Quant_à	quant_à	P	_
+Quant	quant	ADV	_
+à	à	P	_
 Ahmet	Ahmet	NP	_
 ,	,	PONCT	_
 il	il	CLS	_
@@ -61854,7 +62016,8 @@ Mahdy	Mahdy	NP	_
 Il	il	CLS	_
 nous	nous	CLO	_
 autorisait	autoriser	V	_
-en_outre	en_outre	ADV	_
+en	en	P	_
+outre	outre	P	_
 à	à	P	_
 prendre	prendre	VINF	_
 deux	deux	DET	_
@@ -62379,7 +62542,7 @@ par	par	P	_
 la	le	DET	_
 rue	rue	NC	_
 des	de_le	P+D	_
-Marchands	Marchands	NP	_
+Marchands	marchand	NP	_
 .	.	PONCT	_
 Elle	il	CLS	_
 était	être	V	_
@@ -62577,7 +62740,7 @@ moi	je	PRO	_
 ;	;	PONCT	_
 mon	mon	DET	_
 domestique	domestique	NC	_
-M.	M.	NC	_
+M.	monsieur	NC	_
 .	.	PONCT	_
 .	.	PONCT	_
 à	à	P	_
@@ -62796,7 +62959,7 @@ je	je	CLS	_
 ne	ne	ADV	_
 vis	vivre	V	_
 plus	plus	ADV	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 un	un	DET	_
 disque	disque	NC	_
 écarlate	écarlate	ADJ	_
@@ -62926,7 +63089,9 @@ fumée	fumée	NC	_
 blanche	blanc	ADJ	_
 se	se	CLO	_
 balançait	balancer	V	_
-au-dessus	au-dessus	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 de	de	P	_
 l'	le	DET	_
 ancien	ancien	ADJ	_
@@ -62981,7 +63146,7 @@ est	être	V	_
 le	le	DET	_
 carême	carême	NC	_
 des	de_le	P+D	_
-Arabes	Arabe	NC	_
+Arabe	arabe	NC	_
 ,	,	PONCT	_
 dure	dur	ADJ	_
 l'	le	DET	_
@@ -63031,7 +63196,8 @@ fil	fil	NC	_
 blanc	blanc	ADJ	_
 .	.	PONCT	_
 »	"	PONCT	_
-Quant_au	quant_à_le	P+D	_
+Quant	quant	ADV	_
+au	à_le	P+D	_
 mois	mois	NC	_
 d'	de	P	_
 abstinence	abstinence	NC	_
@@ -63200,7 +63366,9 @@ l'	il	CLO	_
 aurait	avoir	V	_
 cru	croire	VPP	_
 creusé	creuser	VPP	_
-par-dessous	par-dessous	P	_
+par	par	S	_
+-	-	PONCT	_
+dessous	dessous	ADV	_
 .	.	PONCT	_
 Presque	presque	ADV	_
 aussitôt	aussitôt	ADV	_
@@ -63818,7 +63986,7 @@ de	de	P	_
 la	le	DET	_
 route	route	NC	_
 ;	;	PONCT	_
-M.	M.	NC	_
+M.	monsieur	NC	_
 .	.	PONCT	_
 .	.	PONCT	_
 ,	,	PONCT	_
@@ -63853,7 +64021,8 @@ s'	se	CLO	_
 était	être	V	_
 tu	taire	VPP	_
 ;	;	PONCT	_
-quant_à	quant_à	P	_
+quant	quant	ADV	_
+à	à	P	_
 Ben	Ben	NP	_
 -	-	PONCT	_
 Ameur	Ameur	NC	_
@@ -64397,11 +64566,12 @@ cheval	cheval	NC	_
 et	et	CC	_
 celui	celui	PRO	_
 de	de	P	_
-M.	M.	NC	_
+M.	monsieur	NC	_
 .	.	PONCT	_
 .	.	PONCT	_
 ;	;	PONCT	_
-quant_aux	quant_à_le	P+D	_
+quant	quant	ADV	_
+aux	à_le	P+D	_
 deux	deux	ADJ	_
 chevaux	cheval	NC	_
 des	de_le	P+D	_
@@ -64575,7 +64745,9 @@ qui	qui	PROREL	_
 se	se	CLO	_
 levait	lever	V	_
 paisiblement	paisiblement	ADV	_
-au-dessus	au-dessus	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 d'	de	P	_
 un	un	DET	_
 pays	pays	NC	_
@@ -64668,7 +64840,9 @@ coude	coude	NC	_
 ,	,	PONCT	_
 et	et	CC	_
 ,	,	PONCT	_
-par-dessus	par-dessus	P	_
+par	par	S	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 les	le	DET	_
 berges	berge	NC	_
 tapissées	tapisser	VPP	_
@@ -65079,7 +65253,9 @@ commençait	commencer	V	_
 à	à	P	_
 se	se	CLO	_
 former	former	VINF	_
-au-dessus	au-dessus	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 de	de	P	_
 la	le	DET	_
 plaine	plaine	NC	_
@@ -65499,7 +65675,7 @@ Les	le	DET	_
 Arba	Arba	NP	_
 ,	,	PONCT	_
 dit	dire	V	_
-M.	M.	NC	_
+M.	monsieur	NC	_
 le	le	DET	_
 général	général	NC	_
 Daumas	Daumas	NP	_
@@ -65723,7 +65899,7 @@ pour	pour	P	_
 un	un	DET	_
 carrousel	carrousel	NC	_
 ;	;	PONCT	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 ,	,	PONCT	_
 avec	avec	P	_
 leurs	leur	DET	_
@@ -65961,7 +66137,7 @@ bien	bien	ADV	_
 observées	observer	VPP	_
 par	par	P	_
 les	le	DET	_
-Arabes	Arabe	NC	_
+Arabe	arabe	NC	_
 ,	,	PONCT	_
 si	si	ADV	_
 hardiment	hardiment	ADV	_
@@ -65971,7 +66147,7 @@ les	le	DET	_
 comparaisons	comparaison	NC	_
 de	de	P	_
 leurs	leur	DET	_
-poëtes	poëtes	NC	_
+poëtes	poète	NC	_
 .	.	PONCT	_
 -	-	PONCT	_
 Je	je	CLS	_
@@ -66083,7 +66259,8 @@ des	un	DET	_
 chevaux	cheval	NC	_
 roses	rose	ADJ	_
 .	.	PONCT	_
-Tandis_que	tandis_que	CS	_
+Tandis	tandis	ADV	_
+que	que	CS	_
 cette	ce	DET	_
 cavalcade	cavalcade	NC	_
 si	si	ADV	_
@@ -66135,7 +66312,7 @@ Au	à_le	P+D	_
 centre	centre	NC	_
 de	de	P	_
 ce	ce	DET	_
-brillant	brillant	ADJ	_
+brillant	briller	ADJ	_
 état-major	état-major	NC	_
 ,	,	PONCT	_
 à	à	P	_
@@ -66632,7 +66809,7 @@ l'	le	DET	_
 ;	;	PONCT	_
 l'	le	DET	_
 enfant	enfant	NC	_
-étonné	étonné	ADJ	_
+étonné	étonner	ADJ	_
 comprit	comprendre	V	_
 le	le	DET	_
 geste	geste	NC	_
@@ -66658,7 +66835,7 @@ au	à_le	P+D	_
 milieu	milieu	NC	_
 de	de	P	_
 son	son	DET	_
-cortége	cortége	NC	_
+cortége	cortège	NC	_
 barbare	barbare	ADJ	_
 ,	,	PONCT	_
 avec	avec	P	_
@@ -66764,7 +66941,8 @@ nous	nous	CLS	_
 le	il	CLO	_
 pûmes	pouvoir	V	_
 .	.	PONCT	_
-Quant_au	quant_à_le	P+D	_
+Quant	quant	ADV	_
+au	à_le	P+D	_
 jeune	jeune	ADJ	_
 homme	homme	NC	_
 ,	,	PONCT	_
@@ -66947,7 +67125,7 @@ marchant	marcher	VPR	_
 comme	comme	CS	_
 disent	dire	V	_
 les	le	DET	_
-Arabes	Arabe	NC	_
+Arabe	arabe	NC	_
 :	:	PONCT	_
 «	"	PONCT	_
 du	de_le	P+D	_
@@ -67144,7 +67322,7 @@ cette	ce	DET	_
 fantaisie	fantaisie	NC	_
 naturelle	naturel	ADJ	_
 aux	à_le	P+D	_
-Orientaux	Orientaux	NC	_
+Orientaux	oriental	NC	_
 ,	,	PONCT	_
 les	le	DET	_
 seuls	seul	ADJ	_
@@ -67158,7 +67336,7 @@ le	le	DET	_
 point	point	NC	_
 le	le	DET	_
 plus	plus	ADV	_
-brillant	brillant	ADJ	_
+brillant	briller	ADJ	_
 et	et	CC	_
 le	le	DET	_
 centre	centre	NC	_
@@ -67187,7 +67365,9 @@ sorte	sorte	NC	_
 de	de	P	_
 mitre	mitre	NC	_
 étincelante	étincelant	ADJ	_
-au-dessus	au-dessus	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 de	de	P	_
 la	le	DET	_
 tête	tête	NC	_
@@ -67229,7 +67409,9 @@ pied	pied	NC	_
 qui	qui	PROREL	_
 se	se	CLO	_
 tenait	tenir	V	_
-au-dessous	au-dessous	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessous	dessous	ADV	_
 de	de	P	_
 chaque	chaque	DET	_
 litière	litière	NC	_
@@ -67390,7 +67572,9 @@ cris	cri	NC	_
 de	de	P	_
 détresse	détresse	NC	_
 ;	;	PONCT	_
-par-dessus	par-dessus	P	_
+par	par	S	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 tout	tout	ADV	_
 cela	cela	PRO	_
 la	le	DET	_
@@ -67475,7 +67659,8 @@ déménagement	déménagement	NC	_
 On	on	CLS	_
 voyait	voir	V	_
 ,	,	PONCT	_
-en_outre	en_outre	ADV	_
+en	en	P	_
+outre	outre	P	_
 ,	,	PONCT	_
 de	de	P	_
 jeunes	jeune	ADJ	_
@@ -67492,7 +67677,9 @@ des	de_le	P+D	_
 bêtes	bête	NC	_
 ,	,	PONCT	_
 juste	juste	ADV	_
-au-dessus	au-dessus	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 de	de	P	_
 la	le	DET	_
 queue	queue	NC	_
@@ -67628,7 +67815,8 @@ de	un	DET	_
 longs	long	ADJ	_
 bâtons	bâton	NC	_
 ;	;	PONCT	_
-tandis_que	tandis_que	CS	_
+tandis	tandis	ADV	_
+que	que	CS	_
 de	un	DET	_
 grands	grand	ADJ	_
 vieillards	vieillard	NC	_
@@ -67946,7 +68134,7 @@ pierreux	pierreux	ADJ	_
 qui	qui	PROREL	_
 n'	ne	ADV	_
 est	être	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 un	un	DET	_
 renflement	renflement	NC	_
 de	de	P	_
@@ -68171,7 +68359,7 @@ encore	encore	ADV	_
 par	par	P	_
 deux	deux	DET	_
 touches	touche	NC	_
-brillantes	brillant	ADJ	_
+brillantes	briller	ADJ	_
 ,	,	PONCT	_
 la	le	DET	_
 monochromie	monochromie	NC	_
@@ -68297,7 +68485,7 @@ qui	qui	PROREL	_
 ne	ne	ADV	_
 s'	se	CLO	_
 adresse	adresser	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 aux	à_le	P+D	_
 puissants	puissant	NC	_
 de	de	P	_
@@ -68366,13 +68554,13 @@ en	en	P	_
 ruines	ruine	NC	_
 par	par	P	_
 un	un	DET	_
-siége	siége	NC	_
+siége	siège	NC	_
 ,	,	PONCT	_
 brûlée	brûler	VPP	_
 ,	,	PONCT	_
 aride	aride	ADJ	_
 ,	,	PONCT	_
-abandonnée	abandonnée	ADJ	_
+abandonnée	abandonné	ADJ	_
 ,	,	PONCT	_
 et	et	CC	_
 que	que	CS	_
@@ -68437,7 +68625,7 @@ des	de_le	P+D	_
 jardins	jardin	NC	_
 .	.	PONCT	_
 Un	un	DET	_
-Arabe	Arabe	NC	_
+Arabe	arabe	NC	_
 à	à	P	_
 mine	mine	NC	_
 farouche	farouche	ADJ	_
@@ -68524,7 +68712,9 @@ de	de	P	_
 plus	plus	NC	_
 ,	,	PONCT	_
 personne	personne	PRO	_
-au-dessus	au-dessus	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 des	un	DET	_
 murailles	muraille	NC	_
 ;	;	PONCT	_
@@ -68634,7 +68824,9 @@ maçonnerie	maçonnerie	NC	_
 de	de	P	_
 quatre	quatre	DET	_
 pieds	pied	NC	_
-au-dessus	au-dessus	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 du	de_le	P+D	_
 sol	sol	NC	_
 .	.	PONCT	_
@@ -68684,7 +68876,7 @@ nous	nous	CLS	_
 apparûmes	apparaître	V	_
 ,	,	PONCT	_
 un	un	DET	_
-Arabe	Arabe	NC	_
+Arabe	arabe	NC	_
 ,	,	PONCT	_
 assez	assez	ADV	_
 proprement	proprement	ADV	_
@@ -68705,7 +68897,8 @@ gamelle	gamelle	NC	_
 de	de	P	_
 lait	lait	NC	_
 ,	,	PONCT	_
-tandis_que	tandis_que	CS	_
+tandis	tandis	ADV	_
+que	que	CS	_
 de	de	P	_
 l'	le	DET	_
 autre	autre	NC	_
@@ -68927,7 +69120,7 @@ la	le	DET	_
 canicule	canicule	NC	_
 ,	,	PONCT	_
 -	-	X	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 avec	avec	P	_
 la	le	DET	_
 chance	chance	NC	_
@@ -68940,7 +69133,8 @@ incommodités	incommodité	NC	_
 imaginables	imaginable	ADJ	_
 .	.	PONCT	_
 Et	et	CC	_
-quant_à	quant_à	P	_
+quant	quant	ADV	_
+à	à	P	_
 celui	celui	PRO	_
 -ci	ci	ADV	_
 ,	,	PONCT	_
@@ -69023,7 +69217,9 @@ le	le	DET	_
 plafond	plafond	NC	_
 ,	,	PONCT	_
 juste	juste	ADV	_
-au-dessus	au-dessus	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 du	de_le	P+D	_
 divan	divan	NC	_
 .	.	PONCT	_
@@ -69246,7 +69442,7 @@ entendais	entendre	V	_
 du	de_le	P+D	_
 milieu	milieu	NC	_
 des	de_le	P+D	_
-Arabes	Arabe	NC	_
+Arabe	arabe	NC	_
 une	un	DET	_
 voix	voix	NC	_
 grave	grave	ADJ	_
@@ -69260,7 +69456,7 @@ prends	prendre	V	_
 garde	garde	NC	_
 !	!	PONCT	_
 )	)	PONCT	_
-Alors	Alors	ADV	_
+Alors	alors	ADV	_
 il	il	CLS	_
 y	y	CLO	_
 en	en	CLO	_
@@ -69388,7 +69584,7 @@ partie	partie	NC	_
 de	de	P	_
 la	le	DET	_
 lenteur	lenteur	NC	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 on	on	CLS	_
 y	y	CLO	_
 apporte	apporter	V	_
@@ -69411,7 +69607,8 @@ bain	bain	NC	_
 Je	je	CLS	_
 ressentais	ressentir	V	_
 ,	,	PONCT	_
-en_outre	en_outre	ADV	_
+en	en	P	_
+outre	outre	P	_
 ,	,	PONCT	_
 d'	un	DET	_
 intolérables	intolérable	ADJ	_
@@ -69857,8 +70054,8 @@ est	être	V	_
 point	point	ADV	_
 relevé	relever	VPP	_
 du	de_le	P+D	_
-siége	siége	NC	_
-qu'	qu'	ADV	_
+siége	siège	NC	_
+qu'	que	ADV	_
 il	il	CLS	_
 a	avoir	V	_
 subi	subir	VPP	_
@@ -70063,7 +70260,7 @@ n'	ne	ADV	_
 arrose	arroser	V	_
 ni	ni	CC	_
 ne	ne	ADV	_
-protége	protége	V	_
+protége	protéger	V	_
 plus	plus	ADV	_
 rien	rien	PRO	_
 .	.	PONCT	_
@@ -70209,7 +70406,7 @@ cendrées	cendrer	VPP	_
 d'	de	P	_
 un	un	DET	_
 ton	ton	NC	_
-charmant	charmant	ADJ	_
+charmant	charmer	ADJ	_
 ,	,	PONCT	_
 mais	mais	CC	_
 où	où	PROREL	_
@@ -70232,7 +70429,9 @@ petit	petit	ADJ	_
 nuage	nuage	NC	_
 unique	unique	ADJ	_
 flottait	flotter	V	_
-au-dessus	au-dessus	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 d'	de	P	_
 un	un	DET	_
 piton	piton	NC	_
@@ -70466,7 +70665,7 @@ tarir	tarir	VINF	_
 et	et	CC	_
 ne	ne	ADV	_
 donnent	donner	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 à	à	P	_
 peu	peu	ADV	_
 de	de	P	_
@@ -70708,7 +70907,8 @@ pour	pour	P	_
 le	le	DET	_
 goût	goût	NC	_
 .	.	PONCT	_
-Quant_à	quant_à	P	_
+Quant	quant	ADV	_
+à	à	P	_
 l'	le	DET	_
 abricotier	abricotier	NC	_
 du	de_le	P+D	_
@@ -70807,7 +71007,7 @@ et	et	CC	_
 du	de_le	P+D	_
 Raisin	Raisin	NC	_
 de	de	P	_
-Chanaan	Chanaan	NP	_
+Chanaan	Canaan	NP	_
 .	.	PONCT	_
 À	à	P	_
 l'	le	DET	_
@@ -71012,7 +71212,9 @@ des	un	DET	_
 verjus	verjus	NC	_
 monstrueux	monstrueux	ADJ	_
 ;	;	PONCT	_
-par-dessus	par-dessus	P	_
+par	par	S	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 tout	tout	ADV	_
 cela	cela	PRO	_
 les	le	DET	_
@@ -71110,7 +71312,7 @@ paix	paix	NC	_
 dans	dans	P	_
 leurs	leur	DET	_
 maisons	maison	NC	_
-mouvantes	mouvant	ADJ	_
+mouvantes	mouvoir	ADJ	_
 de	de	P	_
 feuillages	feuillage	NC	_
 .	.	PONCT	_
@@ -71341,7 +71543,7 @@ c'	ce	CLS	_
 était	être	V	_
 nous	nous	CLO	_
 soulager	soulager	VINF	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 que	que	PROREL	_
 de	de	P	_
 nous	nous	CLO	_
@@ -72040,7 +72242,9 @@ pas	pas	ADV	_
 ,	,	PONCT	_
 faisaient	faire	V	_
 entendre	entendre	VINF	_
-au-dessus	au-dessus	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 de	de	P	_
 nos	notre	DET	_
 têtes	tête	NC	_
@@ -72371,7 +72575,8 @@ un	un	DET	_
 bâton	bâton	NC	_
 brut	brut	ADJ	_
 .	.	PONCT	_
-Quant_aux	quant_à_le	P+D	_
+quant	quant	ADV	_
+aux	à_le	P+D	_
 ânes	âne	NC	_
 ,	,	PONCT	_
 je	je	CLS	_
@@ -72429,7 +72634,9 @@ paquets	paquet	NC	_
 de	de	P	_
 plumes	plume	NC	_
 ondoyer	ondoyer	VINF	_
-au-dessus	au-dessus	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 de	de	P	_
 la	le	DET	_
 charge	charge	NC	_
@@ -72522,7 +72729,7 @@ tailles	taille	NC	_
 diverses	divers	ADJ	_
 ,	,	PONCT	_
 et	et	CC	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 d'	de	P	_
 une	un	DET	_
 composition	composition	NC	_
@@ -72579,7 +72786,7 @@ tout	tout	ADV	_
 fait	fait	NC	_
 farouche	farouche	ADJ	_
 ,	,	PONCT	_
-auxquels	auquel	PROREL	_
+auxquels	à_lequel	PROREL	_
 il	il	CLS	_
 ne	ne	ADV	_
 manquait	manquer	V	_
@@ -72900,7 +73107,9 @@ comme	comme	P	_
 une	un	DET	_
 tache	tache	NC	_
 grise	gris	ADJ	_
-au-dessus	au-dessus	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 d'	de	P	_
 une	un	DET	_
 ligne	ligne	NC	_
@@ -73231,7 +73440,7 @@ hasard	hasard	NC	_
 ,	,	PONCT	_
 en	en	P	_
 pensant	penser	VPR	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 un	un	DET	_
 jour	jour	NC	_
 ils	il	CLS	_
@@ -73848,7 +74057,7 @@ tu	tu	CLS	_
 me	je	CLO	_
 liras	lire	V	_
 ,	,	PONCT	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 un	un	DET	_
 intérêt	intérêt	NC	_
 bien	bien	ADV	_
@@ -74052,7 +74261,7 @@ nombre	nombre	NC	_
 de	de	P	_
 gens	gens	NC	_
 qui	qui	PROREL	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 regardaient	regarder	V	_
 du	de_le	P+D	_
 même	même	ADV	_
@@ -74484,7 +74693,7 @@ cette	ce	DET	_
 fois	fois	NC	_
 d'	de	P	_
 un	un	DET	_
-cortége	cortége	NC	_
+cortége	cortège	NC	_
 assez	assez	ADV	_
 nombreux	nombreux	ADJ	_
 de	de	P	_
@@ -74495,7 +74704,7 @@ amis	ami	NC	_
 .	.	PONCT	_
 Ils	il	CLS	_
 demeurèrent	demeurer	V	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 debout	debout	ADV	_
 à	à	P	_
 l'	le	DET	_
@@ -74581,7 +74790,7 @@ soir	soir	NC	_
 ,	,	PONCT	_
 à	à	P	_
 sept	sept	NC	_
-heures	heures	ADJ	_
+heures	heure	ADJ	_
 trente-cinq	trente-cinq	DET	_
 minutes	minute	NC	_
 .	.	PONCT	_
@@ -74646,7 +74855,7 @@ El	l	NC	_
 Aghouat	Aghouat	NC	_
 à	à	P	_
 sept	sept	NC	_
-heures	heures	ADJ	_
+heures	heure	ADJ	_
 trente-cinq	trente-cinq	DET	_
 minutes	minute	NC	_
 du	de_le	P+D	_
@@ -74792,7 +75001,7 @@ et	et	CC	_
 nous	nous	CLS	_
 vîmes	voir	V	_
 ,	,	PONCT	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 ensemble	ensemble	ADV	_
 ,	,	PONCT	_
 apparaître	apparaître	VINF	_
@@ -74835,7 +75044,9 @@ d'	de	P	_
 or	or	NC	_
 vert	vert	ADJ	_
 .	.	PONCT	_
-Au-dessous	au-dessous	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessous	dessous	ADV	_
 d'	de	P	_
 elle	il	PRO	_
 ,	,	PONCT	_
@@ -74843,7 +75054,7 @@ scintillait	scintiller	V	_
 une	un	DET	_
 petite	petit	ADJ	_
 étoile	étoile	NC	_
-brillante	brillant	ADJ	_
+brillante	briller	ADJ	_
 ,	,	PONCT	_
 comme	comme	P	_
 un	un	DET	_
@@ -74860,7 +75071,7 @@ quelques	quelque	DET	_
 minutes	minute	NC	_
 ce	ce	DET	_
 signal	signal	NC	_
-charmant	charmant	ADJ	_
+charmant	charmer	ADJ	_
 de	de	P	_
 la	le	DET	_
 fin	fin	NC	_
@@ -74969,7 +75180,8 @@ sur	sur	P	_
 le	le	DET	_
 tapis	tapis	NC	_
 ,	,	PONCT	_
-afin_de	afin_de	P	_
+afin	afin	ADV	_
+de	de	P	_
 passer	passer	VINF	_
 la	le	DET	_
 nuit	nuit	NC	_
@@ -74977,7 +75189,8 @@ près	près	ADV	_
 de	de	P	_
 nous	nous	PRO	_
 .	.	PONCT	_
-Quant_à	quant_à	P	_
+Quant	quant	ADV	_
+à	à	P	_
 moi	je	PRO	_
 ,	,	PONCT	_
 le	le	DET	_
@@ -75026,7 +75239,9 @@ moment	moment	NC	_
 luire	luire	VINF	_
 les	le	DET	_
 étoiles	étoile	NC	_
-au-dessus	au-dessus	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 de	de	P	_
 ma	mon	DET	_
 tête	tête	NC	_
@@ -75116,7 +75331,7 @@ ville	ville	NC	_
 arabe	arabe	ADJ	_
 est	être	V	_
 ce	ce	PRO	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 il	il	CLS	_
 y	y	CLO	_
 a	avoir	V	_
@@ -75321,7 +75536,7 @@ lieu	lieu	NC	_
 de	de	P	_
 chanceler	chanceler	VINF	_
 en	en	P	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 sens	sens	NC	_
 et	et	CC	_
 d'	de	P	_
@@ -75654,7 +75869,7 @@ le	il	CLO	_
 sais	savoir	V	_
 ,	,	PONCT	_
 le	le	DET	_
-siége	siége	NC	_
+siége	siège	NC	_
 dura	durer	V	_
 neuf	neuf	DET	_
 mois	mois	NC	_
@@ -76022,7 +76237,7 @@ voulut	vouloir	V	_
 plus	plus	ADV	_
 la	il	CLO	_
 consacrer	consacrer	VINF	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 aux	à_le	P+D	_
 bonnes	bon	ADJ	_
 oeuvres	œuvre	NC	_
@@ -76059,7 +76274,7 @@ intérieure	intérieur	ADJ	_
 de	de	P	_
 son	son	DET	_
 petit	petit	ADJ	_
-État	État	NC	_
+État	état	NC	_
 ,	,	PONCT	_
 j'	je	CLS	_
 allais	aller	V	_
@@ -76249,7 +76464,7 @@ C'	ce	CLS	_
 est	être	V	_
 maintenant	maintenant	ADV	_
 un	un	DET	_
-privilége	privilége	NC	_
+privilége	privilège	NC	_
 à	à	P	_
 perpétuité	perpétuité	NC	_
 .	.	PONCT	_
@@ -76666,7 +76881,7 @@ bottes	botte	NC	_
 à	à	P	_
 éperons	éperon	NC	_
 ;	;	PONCT	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 portent	porter	V	_
 la	le	DET	_
 sandale	sandale	NC	_
@@ -76814,7 +77029,7 @@ détail	détail	NC	_
 de	de	P	_
 plus	plus	ADV	_
 que	que	CS	_
-toutes	tous	PRO	_
+toutes	tout	PRO	_
 portent	porter	V	_
 la	le	DET	_
 melhafa	melhafa	NC	_
@@ -76997,7 +77212,7 @@ alignait	aligner	V	_
 une	un	DET	_
 rangée	rangée	NC	_
 d'	de	P	_
-Arabes	Arabe	NC	_
+Arabe	arabe	NC	_
 assis	assis	ADJ	_
 ,	,	PONCT	_
 couchés	coucher	VPP	_
@@ -77215,7 +77430,7 @@ n'	ne	ADV	_
 en	en	CLO	_
 formaient	former	V	_
 plus	plus	ADV	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 un	un	DET	_
 ,	,	PONCT	_
 et	et	CC	_
@@ -77420,7 +77635,7 @@ est	être	V	_
 guère	guère	ADV	_
 mieux	mieux	ADV	_
 bâti	bâtir	VPP	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 El	l	NC	_
 -	-	PONCT	_
 Aghouat	Aghouat	NP	_
@@ -77654,7 +77869,7 @@ terrasse	terrasse	NC	_
 du	de_le	P+D	_
 palais	palais	NC	_
 d'	de	P	_
-OEdipe	OEdipe	NP	_
+OEdipe	Œdipe	NP	_
 et	et	CC	_
 cherchant	chercher	VPR	_
 à	à	P	_
@@ -77848,7 +78063,7 @@ jardins	jardin	NC	_
 ,	,	PONCT	_
 pendant	pendant	P	_
 le	le	DET	_
-siége	siége	NC	_
+siége	siège	NC	_
 de	de	P	_
 1838	1838	NC	_
 ;	;	PONCT	_
@@ -77953,7 +78168,7 @@ nous	nous	CLS	_
 arrivions	arriver	V	_
 ,	,	PONCT	_
 un	un	DET	_
-Arabe	Arabe	NC	_
+Arabe	arabe	NC	_
 était	être	V	_
 assis	asseoir	VPP	_
 par	par	P	_
@@ -78200,7 +78415,9 @@ gris	gris	ADJ	_
 qui	qui	PROREL	_
 s'	se	CLO	_
 amasse	amasser	V	_
-au-dessus	au-dessus	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 de	de	P	_
 la	le	DET	_
 ville	ville	NC	_
@@ -78568,7 +78785,8 @@ d'	de	P	_
 un	un	DET	_
 régal	régal	NC	_
 .	.	PONCT	_
-Quant_aux	quant_à_le	P+D	_
+quant	quant	ADV	_
+aux	à_le	P+D	_
 trois	trois	ADJ	_
 gobelets	gobelet	NC	_
 ,	,	PONCT	_
@@ -78815,7 +79033,7 @@ chose	chose	NC	_
 la	le	DET	_
 sobriété	sobriété	NC	_
 des	de_le	P+D	_
-Arabes	Arabe	NC	_
+Arabe	arabe	NC	_
 ,	,	PONCT	_
 c'	ce	CLS	_
 est	être	V	_
@@ -78878,7 +79096,7 @@ kouskoussou	kouskoussou	NC	_
 ,	,	PONCT	_
 et	et	CC	_
 l'	le	DET	_
-effrayante	effrayant	ADJ	_
+effrayante	effrayer	ADJ	_
 gourmandise	gourmandise	NC	_
 des	de_le	P+D	_
 visages	visage	NC	_
@@ -78959,7 +79177,7 @@ personnages	personnage	NC	_
 ,	,	PONCT	_
 a	avoir	V	_
 le	le	DET	_
-privilége	privilége	NC	_
+privilége	privilège	NC	_
 de	de	P	_
 prélever	prélever	VINF	_
 le	le	DET	_
@@ -79311,7 +79529,7 @@ la	le	DET	_
 nuit	nuit	NC	_
 ,	,	PONCT	_
 sont	être	V	_
-mouvantes	mouvant	ADJ	_
+mouvantes	mouvoir	ADJ	_
 ;	;	PONCT	_
 on	on	CLS	_
 y	y	CLO	_
@@ -79451,7 +79669,9 @@ lieue	lieue	NC	_
 de	de	P	_
 nous	nous	PRO	_
 ,	,	PONCT	_
-au-dessus	au-dessus	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 de	de	P	_
 l'	le	DET	_
 oasis	oasis	NC	_
@@ -79790,7 +80010,7 @@ encore	encore	ADV	_
 dans	dans	P	_
 le	le	DET	_
 geste	geste	NC	_
-effrayant	effrayant	ADJ	_
+effrayant	effrayer	ADJ	_
 de	de	P	_
 ces	ce	DET	_
 doigts	doigt	NC	_
@@ -79816,7 +80036,9 @@ arabe	arabe	ADJ	_
 qui	qui	PROREL	_
 s'	se	CLO	_
 étend	étendre	V	_
-au-dessous	au-dessous	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessous	dessous	ADV	_
 du	de_le	P+D	_
 marabout	marabout	NC	_
 historique	historique	ADJ	_
@@ -80210,7 +80432,7 @@ le	le	DET	_
 soir	soir	NC	_
 ,	,	PONCT	_
 sont	être	V	_
-abandonnés	abandonnés	VPP	_
+abandonnés	abandonner	VPP	_
 .	.	PONCT	_
 Chacun	chacun	PRO	_
 se	se	CLO	_

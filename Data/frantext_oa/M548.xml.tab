@@ -401,7 +401,7 @@ les	le	DET	_
 lois	loi	NC	_
 n'	ne	ADV	_
 ont	avoir	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 une	un	DET	_
 influence	influence	NC	_
 accidentelle	accidentel	ADJ	_
@@ -586,7 +586,7 @@ il	il	CLS	_
 est	être	V	_
 profitable	profitable	ADJ	_
 à	à	P	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 ;	;	PONCT	_
 elle	il	CLS	_
 enseigne	enseigner	V	_
@@ -696,7 +696,7 @@ de	de	P	_
 l'	le	DET	_
 administrateur	administrateur	NC	_
 :	:	PONCT	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 ont	avoir	V	_
 besoin	besoin	NC	_
 de	de	P	_
@@ -783,7 +783,7 @@ demande	demander	V	_
 expliquée	expliquer	VPP	_
 ;	;	PONCT	_
 les	le	DET	_
-développemens	développemens	NC	_
+développemens	développement	NC	_
 qui	qui	PROREL	_
 en	en	CLO	_
 résulteront	résulter	V	_
@@ -1272,7 +1272,8 @@ effets	effet	NC	_
 :	:	PONCT	_
 c'	ce	CLS	_
 est	être	V	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 il	il	CLS	_
 est	être	V	_
 dans	dans	P	_
@@ -1410,7 +1411,7 @@ statistique	statistique	NC	_
 qui	qui	PROREL	_
 n'	ne	ADV	_
 est	être	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 une	un	DET	_
 science	science	NC	_
 descriptive	descriptif	ADJ	_
@@ -1739,7 +1740,7 @@ de	de	P	_
 Smith	Smith	NP	_
 n'	ne	ADV	_
 est	être	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 un	un	DET	_
 assemblage	assemblage	NC	_
 confus	confus	ADJ	_
@@ -1893,7 +1894,8 @@ des	de_le	P+D	_
 pays	pays	NC	_
 éloignés	éloigné	ADJ	_
 .	.	PONCT	_
-Quant_au	quant_à_le	P+D	_
+Quant	quant	ADV	_
+au	à_le	P+D	_
 temps	temps	NC	_
 présent	présent	ADJ	_
 ,	,	PONCT	_
@@ -1933,7 +1935,7 @@ L'	le	DET	_
 inexactitude	inexactitude	NC	_
 des	de_le	P+D	_
 rapports	rapport	NC	_
-auxquels	auquel	PROREL	_
+auxquels	à_lequel	PROREL	_
 on	on	CLS	_
 est	être	V	_
 obligé	obliger	VPP	_
@@ -2216,7 +2218,7 @@ car	car	CC	_
 qui	qui	PROREL	_
 peut	pouvoir	V	_
 répondre	répondre	VINF	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 une	un	DET	_
 circonstance	circonstance	NC	_
 inconnue	inconnu	ADJ	_
@@ -2628,7 +2630,7 @@ agissent	agir	V	_
 Ce	ce	CLS	_
 n'	ne	ADV	_
 est	être	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 un	un	DET	_
 empirisme	empirisme	NC	_
 dangereux	dangereux	ADJ	_
@@ -2728,7 +2730,7 @@ jusqu'	jusque	P	_
 à	à	P	_
 des	un	DET	_
 sommes	somme	NC	_
-effrayantes	effrayant	ADJ	_
+effrayantes	effrayer	ADJ	_
 ;	;	PONCT	_
 et	et	CC	_
 après	après	P	_
@@ -2749,7 +2751,7 @@ au	à_le	P+D	_
 temps	temps	NC	_
 où	où	PROREL	_
 elles	il	CLS	_
-fesaient	fesaient	V	_
+fesaient	faire	V	_
 librement	librement	ADV	_
 le	le	DET	_
 commerce	commerce	NC	_
@@ -2775,7 +2777,8 @@ riches	riche	ADJ	_
 et	et	CC	_
 puissantes	puissant	ADJ	_
 ,	,	PONCT	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 on	on	CLS	_
 avait	avoir	V	_
 surchargé	surcharger	VPP	_
@@ -2785,7 +2788,8 @@ leur	leur	DET	_
 industrie	industrie	NC	_
 ,	,	PONCT	_
 et	et	CC	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 on	on	CLS	_
 avait	avoir	V	_
 grevé	grever	VPP	_
@@ -3640,7 +3644,7 @@ un	un	DET	_
 système	système	NC	_
 ;	;	PONCT	_
 et	et	CC	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 diront	dire	V	_
 qu'	que	CS	_
 ils	il	CLS	_
@@ -3696,7 +3700,7 @@ traite	traiter	V	_
 en	en	P	_
 conséquence	conséquence	NC	_
 de	de	P	_
-rêveries	rêver	V	_
+rêveries	rêverie	NC	_
 toutes	tout	ADJ	_
 les	le	DET	_
 lois	loi	NC	_
@@ -3835,7 +3839,8 @@ de	un	DET	_
 véritables	véritable	ADJ	_
 extravagances	extravagance	NC	_
 .	.	PONCT	_
-Quant_aux	quant_à_le	P+D	_
+quant	quant	ADV	_
+aux	à_le	P+D	_
 extravagances	extravagance	NC	_
 et	et	CC	_
 aux	à_le	P+D	_
@@ -4089,7 +4094,7 @@ et	et	CC	_
 Dolomieu	Dolomieu	NP	_
 ,	,	PONCT	_
 étaient	être	V	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 gens	gens	NC	_
 de	de	P	_
 mérite	mérite	NC	_
@@ -4112,7 +4117,8 @@ existaient	exister	V	_
 -elles	il	CLS	_
 pas	pas	ADV	_
 ,	,	PONCT	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 ils	il	CLS	_
 se	se	CLO	_
 sont	être	V	_
@@ -4402,7 +4408,8 @@ conséquences	conséquence	NC	_
 à	à	P	_
 tirer	tirer	VINF	_
 ,	,	PONCT	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 elles	il	CLS	_
 sauteront	sauter	V	_
 aux	à_le	P+D	_
@@ -4453,7 +4460,8 @@ appuyer	appuyer	VINF	_
 de	de	P	_
 preuves	preuve	NC	_
 ,	,	PONCT	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 ils	il	CLS	_
 ne	ne	ADV	_
 seront	être	V	_
@@ -4614,7 +4622,7 @@ même	même	ADV	_
 acquérir	acquérir	VINF	_
 la	le	DET	_
 certitude	certitude	NC	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 aucune	aucun	DET	_
 circonstance	circonstance	NC	_
 inconnue	inconnu	ADJ	_
@@ -4705,7 +4713,7 @@ n'	ne	ADV	_
 est	être	V	_
 elle	il	PRO	_
 -même	même	ADJ	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 un	un	DET	_
 instrument	instrument	NC	_
 au	à_le	P+D	_
@@ -4794,7 +4802,7 @@ un	un	DET	_
 genre	genre	NC	_
 d'	de	P	_
 argumentation	argumentation	NC	_
-auquel	auquel	PROREL	_
+auquel	à_lequel	PROREL	_
 je	je	CLS	_
 crois	croire	V	_
 ,	,	PONCT	_
@@ -4843,7 +4851,7 @@ raisonnement	raisonnement	NC	_
 abstrait	abstrait	ADJ	_
 n'	ne	ADV	_
 est	être	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 un	un	DET	_
 calcul	calcul	NC	_
 avec	avec	P	_
@@ -5128,7 +5136,7 @@ public	public	NC	_
 n'	ne	ADV	_
 a	avoir	V	_
 cherché	chercher	VPP	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 à	à	P	_
 soutenir	soutenir	VINF	_
 son	son	DET	_
@@ -5629,7 +5637,7 @@ est	être	V	_
 un	un	DET	_
 gain	gain	NC	_
 artificiel	artificiel	ADJ	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 il	il	CLS	_
 réprouve	réprouver	V	_
 .	.	PONCT	_
@@ -5705,7 +5713,7 @@ une	un	DET	_
 loi	loi	NC	_
 d'	de	P	_
 *	*	PONCT	_
-égypte	égypte	NC	_
+égypte	Égypte	NC	_
 prescrivait	prescrire	V	_
 à	à	P	_
 un	un	DET	_
@@ -5730,7 +5738,9 @@ de	de	P	_
 créer	créer	VINF	_
 des	un	DET	_
 produits	produit	NC	_
-au-delà	au-delà	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+delà	delà	ADV	_
 de	de	P	_
 ce	ce	PRO	_
 qu'	que	PROREL	_
@@ -6930,7 +6940,7 @@ richesses	richesse	NC	_
 ,	,	PONCT	_
 ne	ne	ADV	_
 furent	être	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 un	un	DET	_
 moyen	moyen	NC	_
 de	de	P	_
@@ -7819,7 +7829,7 @@ maximes	maxime	NC	_
 utiles	utile	ADJ	_
 ,	,	PONCT	_
 en	en	P	_
-fesant	fesant	VPR	_
+fesant	faire	VPR	_
 supposer	supposer	VINF	_
 par	par	P	_
 leur	leur	DET	_
@@ -7913,7 +7923,7 @@ que	que	CS	_
 leurs	leur	DET	_
 écrits	écrit	NC	_
 ont	avoir	V	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 été	être	VPP	_
 favorables	favorable	ADJ	_
 à	à	P	_
@@ -8154,7 +8164,7 @@ est	être	V	_
 devenue	devenir	VPP	_
 une	un	DET	_
 science	science	NC	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 en	en	P	_
 devenant	devenir	VPR	_
 une	un	DET	_
@@ -8432,7 +8442,7 @@ il	il	CLS	_
 n'	ne	ADV	_
 ait	avoir	V	_
 donné	donner	VPP	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 en	en	P	_
 1780	1780	NC	_
 son	son	DET	_
@@ -8719,7 +8729,8 @@ dû	devoir	VPP	_
 appeler	appeler	VINF	_
 industrie	industrie	NC	_
 ,	,	PONCT	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 le	le	DET	_
 mot	mot	NC	_
 industrie	industrie	ADJ	_
@@ -8855,7 +8866,7 @@ monnayés	monnayer	VPP	_
 ne	ne	ADV	_
 sont	être	V	_
 devenus	devenir	VPP	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 une	un	DET	_
 portion	portion	NC	_
 ,	,	PONCT	_
@@ -8884,7 +8895,8 @@ s'	se	CLO	_
 accroître	accroître	VINF	_
 ,	,	PONCT	_
 et	et	CC	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 ses	son	DET	_
 usages	usage	NC	_
 peuvent	pouvoir	V	_
@@ -8924,7 +8936,9 @@ intéressés	intéresser	VPP	_
 s'	se	CLO	_
 en	en	CLO	_
 procurer	procurer	VINF	_
-par-delà	par-delà	P	_
+par	par	S	_
+-	-	PONCT	_
+delà	delà	ADV	_
 ce	ce	PRO	_
 qu'	que	PROREL	_
 exigent	exiger	V	_
@@ -9283,7 +9297,9 @@ Steuart	Steuart	NP	_
 ;	;	PONCT	_
 il	il	CLS	_
 plane	planer	V	_
-au-dessus	au-dessus	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 d'	de	P	_
 un	un	DET	_
 terrain	terrain	NC	_
@@ -9507,7 +9523,7 @@ de	de	P	_
 Quesnay	Quesnay	NP	_
 n'	ne	ADV	_
 attribuaient	attribuer	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 aux	à_le	P+D	_
 seuls	seul	ADJ	_
 produits	produit	NC	_
@@ -9647,7 +9663,8 @@ l'	il	CLO	_
 ont	avoir	V	_
 attaqué	attaquer	VPP	_
 ,	,	PONCT	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 tout	tout	ADV	_
 a	avoir	V	_
 contribué	contribuer	VPP	_
@@ -9711,12 +9728,12 @@ au	à_le	P+D	_
 reste	reste	NC	_
 ,	,	PONCT	_
 ne	ne	ADV	_
-fesait	fesait	V	_
+fesait	faire	V	_
 nulle	nul	DET	_
 difficulté	difficulté	NC	_
 d'	de	P	_
 avouer	avouer	VINF	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 il	il	CLS	_
 avait	avoir	V	_
 profité	profiter	VPP	_
@@ -10094,7 +10111,7 @@ autre	autre	ADJ	_
 fléau	fléau	NC	_
 ,	,	PONCT	_
 en	en	P	_
-fesant	fesant	VPR	_
+fesant	faire	VPR	_
 renchérir	renchérir	VINF	_
 les	le	DET	_
 denrées	denrée	NC	_
@@ -10449,7 +10466,7 @@ les	le	DET	_
 économiques	économique	ADJ	_
 ,	,	PONCT	_
 se	se	CLO	_
-fesant	fesant	VPR	_
+fesant	faire	VPR	_
 des	un	DET	_
 idées	idée	NC	_
 trop	trop	ADV	_
@@ -10709,7 +10726,7 @@ personnes	personne	NC	_
 d'	de	P	_
 ailleurs	ailleurs	NC	_
 ,	,	PONCT	_
-fesant	fesant	VPR	_
+fesant	faire	VPR	_
 profession	profession	NC	_
 de	de	P	_
 le	il	CLO	_
@@ -11557,7 +11574,8 @@ peut	pouvoir	V	_
 les	il	CLO	_
 refaire	refaire	VINF	_
 .	.	PONCT	_
-Quant_aux	quant_à_le	P+D	_
+quant	quant	ADV	_
+aux	à_le	P+D	_
 conclusions	conclusion	NC	_
 générales	général	ADJ	_
 que	que	PROREL	_
@@ -11729,7 +11747,7 @@ mais	mais	CC	_
 ne	ne	ADV	_
 s'	se	CLO	_
 attacher	attacher	VINF	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 aux	à_le	P+D	_
 erreurs	erreur	NC	_
 accréditées	accréditer	VPP	_
@@ -12042,7 +12060,7 @@ des	un	DET	_
 vérités	vérité	NC	_
 et	et	CC	_
 des	de_le	P+D	_
-développemens	développemens	NC	_
+développemens	développement	NC	_
 propres	propre	ADJ	_
 à	à	P	_
 avancer	avancer	VINF	_
@@ -12112,7 +12130,7 @@ sur	sur	P	_
 des	un	DET	_
 principes	principe	NC	_
 abstraits	abstrait	ADJ	_
-auxquels	auquel	PROREL	_
+auxquels	à_lequel	PROREL	_
 il	il	CLS	_
 donne	donner	V	_
 trop	trop	ADV	_
@@ -12131,7 +12149,8 @@ ne	ne	ADV	_
 peut	pouvoir	V	_
 attaquer	attaquer	VINF	_
 ,	,	PONCT	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 elle	il	CLS	_
 est	être	V	_
 fondée	fonder	VPP	_
@@ -12451,7 +12470,7 @@ de	de	P	_
 principes	principe	NC	_
 ,	,	PONCT	_
 en	en	P	_
-fesant	fesant	VPR	_
+fesant	faire	VPR	_
 abstraction	abstraction	NC	_
 de	de	P	_
 tous	tout	ADJ	_
@@ -12752,14 +12771,15 @@ feraient	faire	V	_
 croire	croire	VINF	_
 au	à_le	P+D	_
 public	public	NC	_
-ignorant	ignorant	ADJ	_
+ignorant	ignorer	ADJ	_
 que	que	CS	_
 rien	rien	PRO	_
 n'	ne	ADV	_
 est	être	V	_
 prouvé	prouver	VPP	_
 ,	,	PONCT	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 on	on	CLS	_
 dispute	disputer	V	_
 sur	sur	P	_
@@ -13104,7 +13124,7 @@ régulier	régulier	ADJ	_
 ?	?	PONCT	_
 S'	si	CS	_
 ils	il	CLS	_
-fesaient	fesaient	V	_
+fesaient	faire	V	_
 malgré	malgré	P	_
 vous	vous	PRO	_
 ,	,	PONCT	_
@@ -13136,7 +13156,7 @@ enfin	enfin	ADV	_
 s'	si	CS	_
 il	il	CLS	_
 les	il	CLO	_
-fesaient	fesaient	V	_
+fesaient	faire	V	_
 exécuter	exécuter	VINF	_
 par	par	P	_
 des	un	DET	_
@@ -14231,7 +14251,7 @@ grand	grand	ADJ	_
 nombre	nombre	NC	_
 d'	de	P	_
 autres	autre	NC	_
-auxquels	auquel	PROREL	_
+auxquels	à_lequel	PROREL	_
 il	il	CLS	_
 est	être	V	_
 non-seulement	non-seulement	ADV	_
@@ -14306,7 +14326,7 @@ dans	dans	P	_
 les	le	DET	_
 intérêts	intérêt	NC	_
 de	de	P	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 ,	,	PONCT	_
 qu'	que	CS	_
 aucun	aucun	DET	_
@@ -14320,7 +14340,8 @@ qu'	que	CS	_
 on	on	CLS	_
 repousse	repousser	V	_
 uniquement	uniquement	ADV	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 on	on	CLS	_
 méconnaît	méconnaître	V	_
 à	à	P	_
@@ -14348,7 +14369,7 @@ des	un	DET	_
 avantages	avantage	NC	_
 communs	commun	ADJ	_
 à	à	P	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 .	.	PONCT	_
 Ils	il	CLS	_
 se	se	CLO	_
@@ -14356,7 +14377,8 @@ défient	défier	V	_
 des	un	DET	_
 livres	livre	NC	_
 ,	,	PONCT	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 il	il	CLS	_
 y	y	CLO	_
 en	en	CLO	_
@@ -14369,7 +14391,8 @@ que	que	CS	_
 de	de	P	_
 bons	bon	NC	_
 ;	;	PONCT	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 ceux	celui	PRO	_
 qui	qui	PROREL	_
 ne	ne	ADV	_
@@ -14391,7 +14414,7 @@ réel	réel	ADJ	_
 ,	,	PONCT	_
 ne	ne	ADV	_
 conduisent	conduire	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 à	à	P	_
 des	un	DET	_
 résultats	résultat	NC	_
@@ -14400,7 +14423,8 @@ douteux	douteux	ADJ	_
 et	et	CC	_
 enfin	enfin	ADV	_
 ,	,	PONCT	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 il	il	CLS	_
 s'	se	CLO	_
 en	en	CLO	_
@@ -14482,14 +14506,15 @@ ne	ne	ADV	_
 peuvent	pouvoir	V	_
 jamais	jamais	ADV	_
 ruiner	ruiner	VINF	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 un	un	DET	_
 petit	petit	ADJ	_
 nombre	nombre	NC	_
 de	de	P	_
 familles	famille	NC	_
 ,	,	PONCT	_
-tandis_que	tandis_que	CS	_
+tandis	tandis	ADV	_
+que	que	CS	_
 celles	celui	PRO	_
 des	de_le	P+D	_
 princes	prince	NC	_
@@ -15059,7 +15084,7 @@ droits	droit	NC	_
 pour	pour	P	_
 choisir	choisir	VINF	_
 les	le	DET	_
-placemens	placemens	NC	_
+placemens	placement	NC	_
 les	le	DET	_
 plus	plus	ADV	_
 solides	solide	ADJ	_
@@ -15126,9 +15151,9 @@ du	de_le	P+D	_
 corps	corps	NC	_
 social	social	ADJ	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 L'	le	DET	_
 opinion	opinion	NC	_
 que	que	PROREL	_
@@ -15140,7 +15165,7 @@ l'	le	DET	_
 politique	politique	ADJ	_
 ne	ne	ADV	_
 convient	convenir	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 aux	à_le	P+D	_
 hommes	homme	NC	_
 d'	de	P	_
@@ -15452,7 +15477,8 @@ avançait	avancer	V	_
 au	à_le	P+D	_
 hasard	hasard	NC	_
 ,	,	PONCT	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 il	il	CLS	_
 n'	ne	ADV	_
 y	y	CLO	_
@@ -15559,7 +15585,7 @@ exclusif	exclusif	ADJ	_
 nuit	nuit	NC	_
 prodigieusement	prodigieusement	ADV	_
 aux	à_le	P+D	_
-développemens	développemens	NC	_
+développemens	développement	NC	_
 de	de	P	_
 l'	le	DET	_
 industrie	industrie	NC	_
@@ -15587,7 +15613,7 @@ supprimer	supprimer	VINF	_
 brusquement	brusquement	ADV	_
 les	le	DET	_
 institutions	institution	NC	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 il	il	CLS	_
 a	avoir	V	_
 fondées	fonder	VPP	_
@@ -16011,7 +16037,7 @@ dit	dire	V	_
 civilisées	civiliser	VPP	_
 sont	être	V	_
 encore	encore	ADV	_
-ignorantes	ignorant	ADJ	_
+ignorantes	ignorer	ADJ	_
 et	et	CC	_
 barbares	barbare	ADJ	_
 !	!	PONCT	_
@@ -16215,11 +16241,12 @@ Elle	il	CLS	_
 nous	nous	CLO	_
 paraît	paraître	V	_
 lente	lent	ADJ	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 nous	nous	CLS	_
 ne	ne	ADV	_
 vivons	vivre	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 un	un	DET	_
 instant	instant	NC	_
 ;	;	PONCT	_
@@ -16345,7 +16372,8 @@ les	le	DET	_
 plus	plus	ADV	_
 certaines	certain	PRO	_
 .	.	PONCT	_
-Tandis_que	tandis_que	CS	_
+Tandis	tandis	ADV	_
+que	que	CS	_
 l'	le	DET	_
 université	université	NC	_
 d'	de	P	_
@@ -16935,7 +16963,7 @@ favorable	favorable	ADJ	_
 à	à	P	_
 tous	tout	ADJ	_
 les	le	DET	_
-développemens	développemens	NC	_
+développemens	développement	NC	_
 des	de_le	P+D	_
 facultés	faculté	NC	_
 humaines	humain	ADJ	_
@@ -17059,7 +17087,7 @@ sont	être	V	_
 pas	pas	ADV	_
 ces	ce	DET	_
 biens	bien	NC	_
-auxquels	auquel	PROREL	_
+auxquels	à_lequel	PROREL	_
 ,	,	PONCT	_
 dans	dans	P	_
 l'	le	DET	_
@@ -17148,7 +17176,8 @@ est	être	V	_
 que	que	CS	_
 c'	ce	CLS	_
 est	être	V	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 ils	il	CLS	_
 renferment	renfermer	V	_
 un	un	DET	_
@@ -17862,7 +17891,7 @@ mais	mais	CC	_
 suivant	suivant	P	_
 l'	le	DET	_
 utilité	utilité	NC	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 on	on	CLS	_
 lui	il	CLO	_
 a	avoir	V	_
@@ -17908,9 +17937,9 @@ tirer	tirer	VINF	_
 la	le	DET	_
 conséquence	conséquence	NC	_
 absurde	absurde	ADJ	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 en	en	P	_
-fesant	fesant	VPR	_
+fesant	faire	VPR	_
 monter	monter	VINF	_
 leur	leur	DET	_
 prix	prix	NC	_
@@ -18029,7 +18058,7 @@ acheteur	acheteur	NC	_
 ne	ne	ADV	_
 l'	il	CLO	_
 achète	acheter	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 à	à	P	_
 cause	cause	NC	_
 de	de	P	_
@@ -18059,7 +18088,9 @@ obligé	obliger	VPP	_
 de	de	P	_
 le	il	CLO	_
 payer	payer	VINF	_
-au-delà	au-delà	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+delà	delà	ADV	_
 de	de	P	_
 ce	ce	PRO	_
 que	que	PROREL	_
@@ -18172,7 +18203,7 @@ n'	ne	ADV	_
 enrichit	enrichir	V	_
 les	le	DET	_
 uns	un	NC	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 en	en	P	_
 appauvrissant	appauvrir	VPR	_
 inutilement	inutilement	ADV	_
@@ -18247,7 +18278,7 @@ marchandise	marchandise	NC	_
 n'	ne	ADV	_
 est	être	V	_
 ici	ici	ADV	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 un	un	DET	_
 moyen	moyen	NC	_
 d'	de	P	_
@@ -18516,14 +18547,14 @@ sauvages	sauvage	NC	_
 La	le	DET	_
 nature	nature	NC	_
 ,	,	PONCT	_
-abandonnée	abandonnée	NC	_
+abandonnée	abandonné	NC	_
 à	à	P	_
 elle	il	PRO	_
 -même	même	ADJ	_
 ,	,	PONCT	_
 ne	ne	ADV	_
 fournirait	fournir	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 imparfaitement	imparfaitement	ADV	_
 à	à	P	_
 l'	le	DET	_
@@ -18559,7 +18590,8 @@ jetés	jeter	VPP	_
 par	par	P	_
 hasard	hasard	NC	_
 ;	;	PONCT	_
-tandis_que	tandis_que	CS	_
+tandis	tandis	ADV	_
+que	que	CS	_
 ,	,	PONCT	_
 grâce	grâce	NC	_
 à	à	P	_
@@ -18762,7 +18794,7 @@ point	point	ADV	_
 ou	ou	CC	_
 accroissent	accroître	V	_
 celle	celui	PRO	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 une	un	DET	_
 chose	chose	NC	_
 avait	avoir	V	_
@@ -19072,7 +19104,7 @@ le	le	DET	_
 nom	nom	NC	_
 de	de	P	_
 productive	productif	ADJ	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 à	à	P	_
 cette	ce	DET	_
 industrie	industrie	NC	_
@@ -19108,7 +19140,7 @@ ne	ne	ADV	_
 sont	être	V	_
 des	un	DET	_
 richesses	richesse	NC	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 en	en	P	_
 raison	raison	NC	_
 de	de	P	_
@@ -19183,7 +19215,7 @@ nouvelle	nouveau	ADJ	_
 valeur	valeur	NC	_
 aux	à_le	P+D	_
 matières	matière	NC	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 on	on	CLS	_
 a	avoir	V	_
 déjà	déjà	ADV	_
@@ -19251,7 +19283,9 @@ d'	de	P	_
 élever	élever	VINF	_
 leur	leur	DET	_
 prix	prix	NC	_
-au-delà	au-delà	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+delà	delà	ADV	_
 de	de	P	_
 ce	ce	PRO	_
 qui	qui	PROREL	_
@@ -19437,7 +19471,8 @@ servi	servir	VPP	_
 leur	leur	DET	_
 entretien	entretien	NC	_
 que	que	ADV	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 c'	ce	CLS	_
 étaient	être	V	_
 des	un	DET	_
@@ -20153,7 +20188,7 @@ l'	le	DET	_
 infini	infini	NC	_
 ,	,	PONCT	_
 et	et	CC	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 se	se	CLO	_
 fondraient	fondre	V	_
 par	par	P	_
@@ -20236,7 +20271,7 @@ richesses	richesse	NC	_
 ,	,	PONCT	_
 ne	ne	ADV	_
 vivent	vivre	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 aux	à_le	P+D	_
 dépens	dépendre	V	_
 de	de	P	_
@@ -20266,7 +20301,7 @@ choses	chose	NC	_
 ce	ce	CLS	_
 n'	ne	ADV	_
 est	être	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 en	en	P	_
 consommant	consommer	VPR	_
 une	un	DET	_
@@ -20304,13 +20339,14 @@ Colbert	Colbert	NP	_
 ruina	ruiner	V	_
 la	le	DET	_
 France	France	NP	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 il	il	CLS	_
 protégea	protéger	V	_
 les	le	DET	_
 manufactures	manufacture	NC	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 Le	le	DET	_
 fait	fait	NC	_
 est	être	V	_
@@ -20565,7 +20601,8 @@ dépeuplé	dépeupler	VPP	_
 .	.	PONCT	_
 C'	ce	CLS	_
 est	être	V	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 elle	il	CLS	_
 borne	borner	V	_
 son	son	DET	_
@@ -20574,7 +20611,8 @@ industrie	industrie	NC	_
 l'	le	DET	_
 agriculture	agriculture	NC	_
 ,	,	PONCT	_
-tandis_qu'	tandis_que	CS	_
+tandis	tandis	ADV	_
+qu'	que	CS	_
 elle	il	CLS	_
 devrait	devoir	V	_
 être	être	VINF	_
@@ -20823,7 +20861,9 @@ et	et	CC	_
 il	il	CLS	_
 fallait	falloir	V	_
 que	que	CS	_
-là-dedans	là-dedans	ADV	_
+là	là	ADV	_
+-	-	PONCT	_
+dedans	dedans	ADV	_
 se	se	CLO	_
 trouvassent	trouver	V	_
 ,	,	PONCT	_
@@ -20853,7 +20893,8 @@ consommations	consommation	NC	_
 du	de_le	P+D	_
 gouvernement	gouvernement	NC	_
 ;	;	PONCT	_
-tandis_qu'	tandis_que	CS	_
+tandis	tandis	ADV	_
+qu'	que	CS	_
 on	on	CLS	_
 vient	venir	V	_
 de	de	P	_
@@ -20928,7 +20969,8 @@ est	être	V	_
 moins	moins	ADV	_
 une	un	DET	_
 richesse	richesse	NC	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 elle	il	CLS	_
 doit	devoir	V	_
 être	être	VINF	_
@@ -21118,7 +21160,7 @@ et	et	CC	_
 du	de_le	P+D	_
 monde	monde	NC	_
 .	.	PONCT	_
-Tous	tous	PRO	_
+Tous	tout	PRO	_
 s'	se	CLO	_
 imaginent	imaginer	V	_
 que	que	CS	_
@@ -21194,7 +21236,7 @@ ne	ne	ADV	_
 pouvaient	pouvoir	V	_
 être	être	VINF	_
 riches	riche	ADJ	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 aux	à_le	P+D	_
 dépens	dépendre	V	_
 des	de_le	P+D	_
@@ -21220,7 +21262,7 @@ riches	riche	ADJ	_
 à	à	P	_
 une	un	DET	_
 époque	époque	NC	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 à	à	P	_
 l'	le	DET	_
 autre	autre	NC	_
@@ -21538,7 +21580,7 @@ apercevoir	apercevoir	VINF	_
 que	que	ADV	_
 seule	seul	ADJ	_
 ,	,	PONCT	_
-abandonnée	abandonnée	ADJ	_
+abandonnée	abandonné	ADJ	_
 à	à	P	_
 elle	il	PRO	_
 -même	même	ADJ	_
@@ -22133,14 +22175,16 @@ bestiaux	bestial	ADJ	_
 de	de	P	_
 clôtures	clôture	NC	_
 .	.	PONCT	_
-Tous	tous	PRO	_
+Tous	tout	PRO	_
 évitent	éviter	V	_
 de	de	P	_
 garder	garder	VINF	_
 de	de	P	_
 l'	le	DET	_
 argent	argent	NC	_
-au-delà	au-delà	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+delà	delà	ADV	_
 de	de	P	_
 ce	ce	PRO	_
 que	que	PROREL	_
@@ -22267,7 +22311,7 @@ ici	ici	ADV	_
 ;	;	PONCT	_
 mais	mais	CC	_
 ,	,	PONCT	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 on	on	CLS	_
 estime	estimer	V	_
 la	le	DET	_
@@ -22356,7 +22400,7 @@ de	de	P	_
 numéraire	numéraire	NC	_
 ne	ne	ADV	_
 sont	être	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 une	un	DET	_
 assez	assez	ADV	_
 petite	petit	ADJ	_
@@ -22442,7 +22486,7 @@ Smith	Smith	NP	_
 ne	ne	ADV	_
 l'	il	CLO	_
 évaluait	évaluer	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 à	à	P	_
 18	18	DET	_
 millions	million	NC	_
@@ -22481,7 +22525,8 @@ reproduction	reproduction	NC	_
 Contentons	contenter	V	_
 -nous	nous	CLO	_
 ,	,	PONCT	_
-quant_à	quant_à	P	_
+quant	quant	ADV	_
+à	à	P	_
 présent	présent	NC	_
 ,	,	PONCT	_
 de	de	P	_
@@ -22709,7 +22754,7 @@ par	par	P	_
 le	le	DET	_
 soleil	soleil	NC	_
 ,	,	PONCT	_
-auquel	auquel	PROREL	_
+auquel	à_lequel	PROREL	_
 l'	le	DET	_
 homme	homme	NC	_
 n'	ne	ADV	_
@@ -22833,7 +22878,7 @@ par	par	P	_
 la	le	DET	_
 combustion	combustion	NC	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 Souvent	Souvent	V	_
 la	le	DET	_
 faculté	faculté	NC	_
@@ -23520,7 +23565,7 @@ homme	homme	NC	_
 ,	,	PONCT	_
 en	en	P	_
 s'	se	CLO	_
-occpant	occpant	VPR	_
+occupant	occuper	VPR	_
 exclusivement	exclusivement	ADV	_
 d'	de	P	_
 un	un	DET	_
@@ -24021,7 +24066,7 @@ demeurent	demeurer	V	_
 l'	le	DET	_
 usage	usage	NC	_
 de	de	P	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 ,	,	PONCT	_
 comme	comme	P	_
 le	le	DET	_
@@ -24050,8 +24095,8 @@ sur	sur	P	_
 les	le	DET	_
 autres	autre	NC	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
-Nous	Nous	NP	_
+etc.	etc	ADV	_
+Nous	nous	NP	_
 aurons	avoir	V	_
 occasion	occasion	NC	_
 de	de	P	_
@@ -24223,7 +24268,8 @@ productifs	productif	ADJ	_
 de	de	P	_
 valeurs	valeur	NC	_
 ,	,	PONCT	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 ils	il	CLS	_
 ne	ne	ADV	_
 cèdent	céder	V	_
@@ -24256,7 +24302,8 @@ possesseurs	possesseur	NC	_
 Contentons	contenter	V	_
 -nous	nous	CLO	_
 ,	,	PONCT	_
-quant_à	quant_à	P	_
+quant	quant	ADV	_
+à	à	P	_
 présent	présent	NC	_
 ,	,	PONCT	_
 de	de	P	_
@@ -24378,7 +24425,7 @@ celle	celui	PRO	_
 qui	qui	PROREL	_
 ne	ne	ADV	_
 possède	posséder	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 un	un	DET	_
 capital	capital	NC	_
 et	et	CC	_
@@ -24401,7 +24448,7 @@ personne	personne	NC	_
 qui	qui	PROREL	_
 n'	ne	ADV	_
 a	avoir	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 un	un	DET	_
 fonds	fond	NC	_
 de	de	P	_
@@ -24678,7 +24725,7 @@ de	de	P	_
 ses	son	DET	_
 aiguilles	aiguille	NC	_
 :	:	PONCT	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 sont	être	V	_
 vêtus	vêtir	VPP	_
 ,	,	PONCT	_
@@ -24753,7 +24800,7 @@ perles	perle	NC	_
 du	de_le	P+D	_
 corail	corail	NC	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 ,	,	PONCT	_
 alors	alors	ADV	_
 on	on	CLS	_
@@ -25050,9 +25097,9 @@ double	double	ADJ	_
 d'	de	P	_
 ouvriers	ouvrier	NC	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 Toutefois	Toutefois	NP	_
 ,	,	PONCT	_
 la	le	DET	_
@@ -25182,7 +25229,8 @@ près	près	ADV	_
 de	de	P	_
 Neufchâtel	Neufchâtel	NP	_
 ,	,	PONCT	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 on	on	CLS	_
 y	y	CLO	_
 exerce	exercer	V	_
@@ -25523,7 +25571,7 @@ que	que	PROREL	_
 soit	être	V	_
 le	le	DET	_
 sujet	sujet	NC	_
-auquel	auquel	PROREL	_
+auquel	à_lequel	PROREL	_
 elle	il	CLS	_
 s'	se	CLO	_
 applique	appliquer	V	_
@@ -25805,7 +25853,7 @@ n'	ne	ADV	_
 ont	avoir	V	_
 pu	pouvoir	VPP	_
 exister	exister	VINF	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 à	à	P	_
 la	le	DET	_
 suite	suite	NC	_
@@ -26118,7 +26166,7 @@ exécution	exécution	NC	_
 Ce	ce	CLS	_
 n'	ne	ADV	_
 est	être	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 autant	autant	ADV	_
 qu'	que	CS	_
 une	un	DET	_
@@ -26186,7 +26234,7 @@ oeil	œil	NC	_
 ne	ne	ADV	_
 paraissent	paraître	V	_
 destinées	destiner	VPP	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 à	à	P	_
 satisfaire	satisfaire	VINF	_
 une	un	DET	_
@@ -26923,7 +26971,7 @@ Ces	ce	DET	_
 qualités	qualité	NC	_
 ne	ne	ADV	_
 profitent	profiter	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 à	à	P	_
 ceux	celui	PRO	_
 qui	qui	PROREL	_
@@ -27088,7 +27136,8 @@ et	et	CC	_
 le	le	DET	_
 midi	midi	NC	_
 ,	,	PONCT	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 ils	il	CLS	_
 savent	savoir	V	_
 les	il	CLO	_
@@ -27703,7 +27752,7 @@ les	le	DET	_
 hollandais	hollandais	NC	_
 ,	,	PONCT	_
 qui	qui	PROREL	_
-fesaient	fesaient	V	_
+fesaient	faire	V	_
 le	le	DET	_
 commerce	commerce	NC	_
 de	de	P	_
@@ -27762,7 +27811,9 @@ en	en	P	_
 Europe	Europe	NP	_
 chaque	chaque	DET	_
 année	année	NC	_
-au-delà	au-delà	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+delà	delà	ADV	_
 de	de	P	_
 45	45	DET	_
 millions	million	NC	_
@@ -28037,7 +28088,8 @@ est	être	V	_
 peu	peu	ADV	_
 sensible	sensible	ADJ	_
 ,	,	PONCT	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 elle	il	CLS	_
 est	être	V	_
 répartie	répartir	VPP	_
@@ -28426,7 +28478,7 @@ services	service	NC	_
 productifs	productif	ADJ	_
 des	de_le	P+D	_
 produits	produit	NC	_
-auxquels	auquel	PROREL	_
+auxquels	à_lequel	PROREL	_
 nous	nous	CLS	_
 avons	avoir	V	_
 donné	donner	VPP	_
@@ -28487,7 +28539,7 @@ machine	machine	NC	_
 vapeur	vapeur	NC	_
 n'	ne	ADV	_
 est	être	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 un	un	DET	_
 moyen	moyen	NC	_
 compliqué	compliqué	ADJ	_
@@ -29013,9 +29065,9 @@ de	de	P	_
 conduite	conduite	NC	_
 ,	,	PONCT	_
 les	le	DET	_
-embranchemens	embranchemens	NC	_
+embranchemens	embranchement	NC	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 3)	3)	X	_
 le	le	DET	_
 sort	sort	NC	_
@@ -29044,7 +29096,7 @@ du	de_le	P+D	_
 produit	produit	NC	_
 même	même	ADJ	_
 ,	,	PONCT	_
-auquel	auquel	PROREL	_
+auquel	à_lequel	PROREL	_
 elle	il	CLS	_
 concourait	concourir	V	_
 .	.	PONCT	_
@@ -29173,7 +29225,7 @@ coton	coton	NC	_
 on	on	CLS	_
 les	il	CLO	_
 aurait	avoir	V	_
-toutes	tous	PRO	_
+toutes	tout	PRO	_
 tirées	tirer	VPP	_
 du	de_le	P+D	_
 dehors	dehors	NC	_
@@ -29230,7 +29282,8 @@ des	de_le	P+D	_
 nouvelles	nouveau	ADJ	_
 machines	machine	NC	_
 .	.	PONCT	_
-Quant_à	quant_à	P	_
+Quant	quant	ADV	_
+à	à	P	_
 l'	le	DET	_
 effet	effet	NC	_
 ultérieur	ultérieur	ADJ	_
@@ -29572,7 +29625,7 @@ manuscrits	manuscrit	ADJ	_
 le	le	DET	_
 bas	bas	ADJ	_
 prix	prix	NC	_
-auquel	auquel	PROREL	_
+auquel	à_lequel	PROREL	_
 les	le	DET	_
 livres	livre	NC	_
 tombèrent	tomber	V	_
@@ -29907,14 +29960,16 @@ la	le	DET	_
 classe	classe	NC	_
 essentielle	essentiel	ADJ	_
 ,	,	PONCT	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 elle	il	CLS	_
 est	être	V	_
 la	le	DET	_
 plus	plus	ADV	_
 nombreuse	nombreux	ADJ	_
 ,	,	PONCT	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 les	le	DET	_
 producteurs	producteur	NC	_
 de	de	P	_
@@ -30091,7 +30146,7 @@ meûniers	meûniers	NC	_
 d'	de	P	_
 à	à	P	_
 présent	présent	NC	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 à	à	P	_
 ceux	celui	PRO	_
 d'	de	P	_
@@ -30273,7 +30328,7 @@ multiplient	multiplier	V	_
 même	même	ADV	_
 les	le	DET	_
 produits	produit	NC	_
-auxquels	auquel	PROREL	_
+auxquels	à_lequel	PROREL	_
 elles	il	CLS	_
 ne	ne	ADV	_
 s'	se	CLO	_
@@ -30511,7 +30566,7 @@ le	le	DET	_
 froment	froment	NC	_
 dont	dont	PROREL	_
 on	on	CLS	_
-fesait	fesait	V	_
+fesait	faire	V	_
 le	le	DET	_
 pain	pain	NC	_
 ;	;	PONCT	_
@@ -30787,7 +30842,7 @@ meubles	meuble	NC	_
 les	le	DET	_
 quincailleries	quincaillerie	NC	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 ,	,	PONCT	_
 occupent	occuper	V	_
 autant	autant	ADV	_
@@ -31173,7 +31228,7 @@ tenue	tenir	VPP	_
 à	à	P	_
 cet	ce	DET	_
 effort	effort	NC	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 il	il	CLS	_
 faut	falloir	V	_
 toujours	toujours	ADV	_
@@ -31414,7 +31469,7 @@ inconvéniens	inconvénient	NC	_
 ou	ou	CC	_
 les	le	DET	_
 secours	secours	NC	_
-auxquels	auquel	PROREL	_
+auxquels	à_lequel	PROREL	_
 on	on	CLS	_
 doit	devoir	V	_
 s'	se	CLO	_
@@ -31461,7 +31516,7 @@ naviguer	naviguer	VINF	_
 avec	avec	P	_
 succès	succès	NC	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 S'	S'	NP	_
 agit	agir	V	_
 -il	il	CLS	_
@@ -31521,9 +31576,9 @@ commerce	commerce	NC	_
 en	en	P	_
 détail	détail	NC	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 Cela	Cela	NP	_
 n'	ne	ADV	_
 empêche	empêcher	V	_
@@ -31576,7 +31631,8 @@ qu'	que	PROREL	_
 il	il	CLS	_
 fournit	fournir	V	_
 ,	,	PONCT	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 l'	le	DET	_
 une	un	NC	_
 de	de	P	_
@@ -31713,7 +31769,8 @@ fonctions	fonction	NC	_
 du	de_le	P+D	_
 commerçant	commerçant	NC	_
 ,	,	PONCT	_
-afin_d'	afin_de	P	_
+afin	afin	ADV	_
+d'	de	P	_
 éviter	éviter	VINF	_
 de	de	P	_
 lui	il	CLO	_
@@ -31990,7 +32047,9 @@ des	de_le	P+D	_
 produits	produit	NC	_
 s'	se	CLO	_
 étend	étendre	V	_
-au-delà	au-delà	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+delà	delà	ADV	_
 d'	de	P	_
 un	un	DET	_
 certain	certain	ADJ	_
@@ -32236,7 +32295,8 @@ et	et	CC	_
 d'	de	P	_
 apothicaire	apothicaire	NC	_
 ;	;	PONCT	_
-tandis_que	tandis_que	CS	_
+tandis	tandis	ADV	_
+que	que	CS	_
 dans	dans	P	_
 une	un	DET	_
 grande	grand	ADJ	_
@@ -32293,7 +32353,7 @@ lesquels	lequel	PROREL	_
 ,	,	PONCT	_
 n'	ne	ADV	_
 exerçant	exercer	VPR	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 une	un	DET	_
 seule	seul	ADJ	_
 partie	partie	NC	_
@@ -32366,7 +32426,8 @@ sais	savoir	V	_
 public	public	ADJ	_
 peut-être	peut-être	ADV	_
 ,	,	PONCT	_
-tandis_que	tandis_que	CS	_
+tandis	tandis	ADV	_
+que	que	CS	_
 ,	,	PONCT	_
 dans	dans	P	_
 les	le	DET	_
@@ -32380,7 +32441,7 @@ non	non	ADV	_
 pas	pas	ADV	_
 des	un	DET	_
 seules	seule	NC	_
-épiceries	épicer	V	_
+épiceries	épicerie	V	_
 ,	,	PONCT	_
 mais	mais	CC	_
 même	même	ADV	_
@@ -32513,7 +32574,7 @@ bien	bien	ADV	_
 qu'	que	CS	_
 ils	il	CLS	_
 gagnent	gagner	V	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 ;	;	PONCT	_
 et	et	CC	_
 si	si	CS	_
@@ -32819,7 +32880,7 @@ prix	prix	NC	_
 ,	,	PONCT	_
 ne	ne	ADV	_
 sont	être	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 à	à	P	_
 la	le	DET	_
 portée	portée	NC	_
@@ -33067,7 +33128,7 @@ même	même	ADJ	_
 lieu	lieu	NC	_
 pour	pour	P	_
 concourir	concourir	VINF	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 ensemble	ensemble	ADV	_
 à	à	P	_
 la	le	DET	_
@@ -33128,7 +33189,8 @@ labourer	labourer	VINF	_
 toute	tout	ADJ	_
 l'	le	DET	_
 année	année	NC	_
-tandis_qu'	tandis_que	CS	_
+tandis	tandis	ADV	_
+qu'	que	CS	_
 un	un	DET	_
 autre	autre	NC	_
 récolterait	récolter	V	_
@@ -33197,7 +33259,8 @@ aux	à_le	P+D	_
 mêmes	même	ADJ	_
 époques	époque	NC	_
 ,	,	PONCT	_
-tandis_que	tandis_que	CS	_
+tandis	tandis	ADV	_
+que	que	CS	_
 dans	dans	P	_
 d'	un	DET	_
 autres	autre	ADJ	_
@@ -33329,7 +33392,7 @@ Si	si	CS	_
 dix-huit	dix-huit	DET	_
 ouvriers	ouvrier	NC	_
 ne	ne	ADV	_
-fesaient	fesaient	V	_
+fesaient	faire	V	_
 que	que	ADV	_
 vingt	vingt	DET	_
 épingles	épingle	NC	_
@@ -33529,7 +33592,7 @@ ne	ne	ADV	_
 peut	pouvoir	V	_
 avoir	avoir	VINF	_
 lieu	lieu	NC	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 au	à_le	P+D	_
 moyen	moyen	NC	_
 de	de	P	_
@@ -33756,7 +33819,7 @@ toute	tout	ADJ	_
 sa	son	DET	_
 vie	vie	NC	_
 ,	,	PONCT	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 une	un	DET	_
 même	même	ADJ	_
 opération	opération	NC	_
@@ -34066,7 +34129,8 @@ bien	bien	ADV	_
 autrement	autrement	ADV	_
 embarrassé	embarrasser	VPP	_
 ;	;	PONCT	_
-tandis_qu'	tandis_que	CS	_
+tandis	tandis	ADV	_
+qu'	que	CS	_
 un	un	DET	_
 paysan	paysan	NC	_
 grossier	grossier	ADJ	_
@@ -34160,7 +34224,7 @@ l'	le	DET	_
 autre	autre	NC	_
 n'	ne	ADV	_
 est	être	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 un	un	DET	_
 accessoire	accessoire	NC	_
 qui	qui	PROREL	_
@@ -34729,12 +34793,12 @@ acheteurs	acheteur	NC	_
 des	de_le	P+D	_
 vendeurs	vendeur	NC	_
 .	.	PONCT	_
-Tous	tous	PRO	_
+Tous	tout	PRO	_
 font	faire	V	_
 le	le	DET	_
 commerce	commerce	NC	_
 ,	,	PONCT	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 exercent	exercer	V	_
 une	un	DET	_
 industrie	industrie	NC	_
@@ -34797,7 +34861,8 @@ commerçant	commerçant	NC	_
 ,	,	PONCT	_
 c'	ce	CLS	_
 est	être	V	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 elles	il	CLS	_
 le	il	CLO	_
 sont	être	V	_
@@ -35032,7 +35097,7 @@ divers	divers	DET	_
 moyens	moyen	NC	_
 ,	,	PONCT	_
 qui	qui	PROREL	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 ont	avoir	V	_
 leur	leur	DET	_
 valeur	valeur	NC	_
@@ -35251,7 +35316,8 @@ prix	prix	NC	_
 sans	sans	P	_
 perte	perte	NC	_
 ,	,	PONCT	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 ,	,	PONCT	_
 s'	si	CS	_
 il	il	CLS	_
@@ -35472,7 +35538,9 @@ de	de	P	_
 ce	ce	PRO	_
 que	que	PROREL	_
 gagnent	gagner	V	_
-là-dedans	là-dedans	ADV	_
+là	là	ADV	_
+-	-	PONCT	_
+dedans	dedans	ADV	_
 les	le	DET	_
 industrieux	industrieux	ADJ	_
 et	et	CC	_
@@ -35626,7 +35694,7 @@ habitans	habiter	VPR	_
 double	double	ADJ	_
 de	de	P	_
 ce	ce	PRO	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 en	en	CLO	_
 contient	contenir	V	_
 l'	le	DET	_
@@ -35876,7 +35944,9 @@ ferait	faire	V	_
 tomber	tomber	VINF	_
 le	le	DET	_
 prix	prix	NC	_
-au-dessous	au-dessous	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessous	dessous	ADV	_
 de	de	P	_
 ses	son	DET	_
 frais	frais	NC	_
@@ -35905,7 +35975,9 @@ son	son	DET	_
 prix	prix	NC	_
 étant	être	VPR	_
 porté	porter	VPP	_
-au-dessus	au-dessus	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 de	de	P	_
 son	son	DET	_
 taux	taux	NC	_
@@ -35980,7 +36052,7 @@ c'	ce	CLS	_
 est	être	V	_
 une	un	DET	_
 preuve	preuve	NC	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 il	il	CLS	_
 était	être	V	_
 inutile	inutile	ADJ	_
@@ -36067,7 +36139,7 @@ on	on	CLS	_
 nomme	nommer	V	_
 cela	cela	PRO	_
 des	de_le	P+D	_
-accaparemens	accaparemens	NC	_
+accaparemens	accaparement	NC	_
 .	.	PONCT	_
 ils	il	CLS	_
 sont	être	V	_
@@ -36208,7 +36280,8 @@ font	faire	V	_
 avec	avec	P	_
 avantage	avantage	NC	_
 ,	,	PONCT	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 ils	il	CLS	_
 ont	avoir	V	_
 une	un	DET	_
@@ -36483,7 +36556,7 @@ employer	employer	VINF	_
 des	un	DET	_
 navires	navire	NC	_
 français	français	ADJ	_
-auxquels	auquel	PROREL	_
+auxquels	à_lequel	PROREL	_
 le	le	DET	_
 même	même	ADJ	_
 transport	transport	NC	_
@@ -36818,7 +36891,7 @@ la	le	DET	_
 Hollande	Hollande	NP	_
 ,	,	PONCT	_
 qui	qui	PROREL	_
-fesait	fesait	V	_
+fesait	faire	V	_
 alors	alors	ADV	_
 un	un	DET	_
 grand	grand	ADJ	_
@@ -36933,7 +37006,8 @@ et	et	CC	_
 des	un	DET	_
 révolutions	révolution	NC	_
 ;	;	PONCT	_
-tandis_que	tandis_que	CS	_
+tandis	tandis	ADV	_
+que	que	CS	_
 l'	le	DET	_
 attrait	attrait	NC	_
 d'	de	P	_
@@ -36960,7 +37034,8 @@ résulte	résulter	V	_
 est	être	V	_
 durable	durable	ADJ	_
 ,	,	PONCT	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 elle	il	CLS	_
 est	être	V	_
 naturelle	naturel	ADJ	_
@@ -37146,7 +37221,7 @@ veut	vouloir	V	_
 ,	,	PONCT	_
 considérer	considérer	VINF	_
 comme	comme	P	_
-fesant	fesant	VPR	_
+fesant	faire	VPR	_
 partie	partie	NC	_
 de	de	P	_
 la	le	DET	_
@@ -37315,7 +37390,7 @@ salaire	salaire	NC	_
 des	de_le	P+D	_
 manouvriers	manouvrier	NC	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 Remarquez	remarquer	V	_
 que	que	CS	_
 cette	ce	DET	_
@@ -37435,7 +37510,7 @@ année	année	NC	_
 à	à	P	_
 rétablir	rétablir	VINF	_
 ses	son	DET	_
-approvisionnemens	approvisionnemens	NC	_
+approvisionnemens	approvisionnement	NC	_
 en	en	P	_
 argent	argent	NC	_
 ,	,	PONCT	_
@@ -37636,7 +37711,8 @@ suivant	suivant	ADJ	_
 Il	il	CLS	_
 suffit	suffire	V	_
 ,	,	PONCT	_
-quant_à	quant_à	P	_
+quant	quant	ADV	_
+à	à	P	_
 présent	présent	NC	_
 ,	,	PONCT	_
 de	de	P	_
@@ -37656,7 +37732,8 @@ est	être	V	_
 point	point	ADV	_
 détruite	détruire	VPP	_
 ,	,	PONCT	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 elle	il	CLS	_
 a	avoir	V	_
 été	être	VPP	_
@@ -37758,7 +37835,8 @@ et	et	CC	_
 certains	certain	DET	_
 outils	outil	NC	_
 ,	,	PONCT	_
-tandis_que	tandis_que	CS	_
+tandis	tandis	ADV	_
+que	que	CS	_
 d'	un	DET	_
 autres	autre	ADJ	_
 portions	portion	NC	_
@@ -37873,7 +37951,7 @@ avec	avec	P	_
 des	un	DET	_
 espèces	espèce	NC	_
 ,	,	PONCT	_
-achète	achète	NC	_
+achète	acheter	V	_
 des	de_le	P+D	_
 étoffes	étoffe	NC	_
 et	et	CC	_
@@ -37977,7 +38055,7 @@ voit	voir	V	_
 que	que	CS	_
 les	le	DET	_
 choses	chose	NC	_
-fesant	fesant	ADJ	_
+fesant	faire	ADJ	_
 office	office	NC	_
 de	de	P	_
 capital	capital	NC	_
@@ -38195,7 +38273,9 @@ toute	tout	DET	_
 autorité	autorité	NC	_
 qui	qui	PROREL	_
 intervient	intervenir	V	_
-là-dedans	là-dedans	ADV	_
+là	là	ADV	_
+-	-	PONCT	_
+dedans	dedans	ADV	_
 ,	,	PONCT	_
 tout	tout	ADV	_
 système	système	NC	_
@@ -38208,7 +38288,7 @@ production	production	NC	_
 ,	,	PONCT	_
 ne	ne	ADV	_
 peut	pouvoir	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 y	y	CLO	_
 être	être	VINF	_
 nuisible	nuisible	ADJ	_
@@ -38536,7 +38616,7 @@ production	production	NC	_
 n'	ne	ADV	_
 est	être	V	_
 jamais	jamais	ADV	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 une	un	DET	_
 avance	avance	NC	_
 destinée	destiner	VPP	_
@@ -39258,7 +39338,7 @@ le	le	DET	_
 blé	blé	NC	_
 vendu	vendre	VPP	_
 ne	ne	ADV	_
-fesait	fesait	V	_
+fesait	faire	V	_
 plus	plus	ADV	_
 partie	partie	NC	_
 du	de_le	P+D	_
@@ -39286,7 +39366,7 @@ du	de_le	P+D	_
 blé	blé	NC	_
 qui	qui	PROREL	_
 en	en	P	_
-fesait	fesait	NC	_
+fesait	faire	NC	_
 partie	partie	NC	_
 .	.	PONCT	_
 Le	le	DET	_
@@ -39803,7 +39883,7 @@ capital	capital	NC	_
 ,	,	PONCT	_
 ne	ne	ADV	_
 commence	commencer	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 après	après	P	_
 que	que	CS	_
 l'	le	DET	_
@@ -39913,7 +39993,8 @@ renouvelle	renouveler	V	_
 à	à	P	_
 perpétuité	perpétuité	NC	_
 ,	,	PONCT	_
-tandis_qu'	tandis_que	CS	_
+tandis	tandis	ADV	_
+qu'	que	CS	_
 une	un	DET	_
 consommation	consommation	NC	_
 improductive	improductif	ADJ	_
@@ -39971,7 +40052,7 @@ sous	sous	P	_
 laquelle	il	PROREL	_
 la	le	DET	_
 valeur	valeur	NC	_
-épargnée	épargné	ADJ	_
+épargnée	épargner	ADJ	_
 se	se	CLO	_
 trouve	trouver	V	_
 être	être	VINF	_
@@ -40446,7 +40527,7 @@ bâtiment	bâtiment	NC	_
 ,	,	PONCT	_
 produit	produit	NC	_
 durable	durable	ADJ	_
-fesant	fesant	ADJ	_
+fesant	faire	ADJ	_
 partie	partie	NC	_
 d'	de	P	_
 un	un	DET	_
@@ -40466,7 +40547,7 @@ brodé	broder	VPP	_
 qui	qui	PROREL	_
 ne	ne	ADV	_
 durera	durer	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 un	un	DET	_
 temps	temps	NC	_
 .	.	PONCT	_
@@ -40475,7 +40556,7 @@ entrepreneur	entrepreneur	NC	_
 d'	de	P	_
 industrie	industrie	NC	_
 ,	,	PONCT	_
-fesant	fesant	VPR	_
+fesant	faire	VPR	_
 lui	il	PRO	_
 -même	même	ADJ	_
 travailler	travailler	VINF	_
@@ -40564,7 +40645,7 @@ ils	il	CLS	_
 cherchent	chercher	V	_
 de	un	DET	_
 nouveaux	nouveau	ADJ	_
-placemens	placemens	NC	_
+placemens	placement	NC	_
 ,	,	PONCT	_
 pour	pour	P	_
 eux	il	PRO	_
@@ -41521,7 +41602,7 @@ ne	ne	ADV	_
 peuvent	pouvoir	V	_
 se	se	CLO	_
 soutenir	soutenir	VINF	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 en	en	P	_
 diminuant	diminuer	VPR	_
 le	le	DET	_
@@ -41972,7 +42053,7 @@ plus	plus	ADV	_
 qu'	que	CS	_
 on	on	CLS	_
 ne	ne	ADV	_
-fesait	fesait	V	_
+fesait	faire	V	_
 autrefois	autrefois	ADV	_
 ,	,	PONCT	_
 et	et	CC	_
@@ -42955,7 +43036,8 @@ multiplier	multiplier	VINF	_
 ses	son	DET	_
 forces	force	NC	_
 ;	;	PONCT	_
-tandis_que	tandis_que	CS	_
+tandis	tandis	ADV	_
+que	que	CS	_
 les	le	DET	_
 alimens	aliment	NC	_
 dont	dont	PROREL	_
@@ -42971,7 +43053,7 @@ pour	pour	P	_
 eux	il	PRO	_
 que	que	ADV	_
 des	un	DET	_
-approvisionnemens	approvisionnemens	NC	_
+approvisionnemens	approvisionnement	NC	_
 pour	pour	P	_
 passer	passer	VINF	_
 une	un	DET	_
@@ -43014,7 +43096,8 @@ en	en	P	_
 oeuvre	œuvre	NC	_
 .	.	PONCT	_
 Remarquez	remarquer	V	_
-en_outre	en_outre	ADV	_
+en	en	P	_
+outre	outre	P	_
 qu'	que	CS	_
 il	il	CLS	_
 est	être	V	_
@@ -43167,7 +43250,7 @@ productif	productif	ADJ	_
 de	de	P	_
 son	son	DET	_
 capital	capital	NC	_
-épargné	épargné	ADJ	_
+épargné	épargner	ADJ	_
 .	.	PONCT	_
 Il	il	CLS	_
 prive	priver	V	_
@@ -43656,7 +43739,9 @@ pouvoir	pouvoir	VINF	_
 durer	durer	VINF	_
 elles	il	PRO	_
 -mêmes	même	ADJ	_
-au-delà	au-delà	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+delà	delà	ADV	_
 du	de_le	P+D	_
 moment	moment	NC	_
 de	de	P	_
@@ -43958,7 +44043,7 @@ il	il	CLS	_
 donne	donner	V	_
 au	à_le	P+D	_
 travail	travail	NC	_
-auquel	auquel	PROREL	_
+auquel	à_lequel	PROREL	_
 elles	il	CLS	_
 se	se	CLO	_
 livrent	livrer	V	_
@@ -44001,7 +44086,7 @@ il	il	CLS	_
 ne	ne	ADV	_
 le	il	CLO	_
 donne	donner	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 aux	à_le	P+D	_
 choses	chose	NC	_
 qui	qui	PROREL	_
@@ -44125,7 +44210,7 @@ qui	qui	PROREL	_
 est	être	V	_
 matériel	matériel	ADJ	_
 ,	,	PONCT	_
-auquel	auquel	PROREL	_
+auquel	à_lequel	PROREL	_
 Smith	Smith	NP	_
 accorde	accorder	V	_
 le	le	DET	_
@@ -44341,7 +44426,7 @@ le	le	DET	_
 travail	travail	NC	_
 ,	,	PONCT	_
 en	en	P	_
-fesant	fesant	VPR	_
+fesant	faire	VPR	_
 abstraction	abstraction	NC	_
 de	de	P	_
 la	le	DET	_
@@ -44460,7 +44545,8 @@ aucun	aucun	DET	_
 accroissement	accroissement	NC	_
 direct	direct	ADJ	_
 ,	,	PONCT	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 lurs	lurs	NC	_
 produits	produit	NC	_
 seraient	être	V	_
@@ -44620,7 +44706,8 @@ de	un	DET	_
 nouveaux	nouveau	ADJ	_
 subterfuges	subterfuge	NC	_
 ,	,	PONCT	_
-tandis_qu'	tandis_que	CS	_
+tandis	tandis	ADV	_
+qu'	que	CS	_
 elle	il	CLS	_
 n'	ne	ADV	_
 ajoute	ajouter	V	_
@@ -44812,7 +44899,7 @@ ne	ne	ADV	_
 sont	être	V	_
 des	un	DET	_
 produits	produit	NC	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 autant	autant	ADV	_
 que	que	CS	_
 l'	le	DET	_
@@ -45018,7 +45105,7 @@ chanson	chanson	NC	_
 du	de_le	P+D	_
 musicien	musicien	NC	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 :	:	PONCT	_
 ces	ce	DET	_
 produits	produit	NC	_
@@ -45282,7 +45369,7 @@ pouvait	pouvoir	V	_
 résulter	résulter	VINF	_
 un	un	DET	_
 plaisir	plaisir	NC	_
-auquel	auquel	PROREL	_
+auquel	à_lequel	PROREL	_
 les	le	DET	_
 hommes	homme	NC	_
 attacheraient	attacher	V	_
@@ -45422,7 +45509,7 @@ portefaix	portefaix	NC	_
 des	un	DET	_
 courtisanes	courtisane	NC	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 ,	,	PONCT	_
 l'	le	DET	_
 apprentissage	apprentissage	NC	_
@@ -45784,7 +45871,7 @@ ornemens	ornement	NC	_
 qui	qui	PROREL	_
 ne	ne	ADV	_
 servent	servir	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 à	à	P	_
 augmenter	augmenter	VINF	_
 les	le	DET	_
@@ -46193,7 +46280,7 @@ et	et	CC	_
 quelquefois	quelquefois	ADV	_
 rassemblés	rassembler	VPP	_
 presque	presque	ADV	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 à	à	P	_
 la	le	DET	_
 fois	fois	NC	_
@@ -46635,7 +46722,7 @@ a	avoir	V	_
 des	un	DET	_
 produits	produit	NC	_
 immatériels	immatériel	ADJ	_
-auxquels	auquel	PROREL	_
+auxquels	à_lequel	PROREL	_
 un	un	DET	_
 fonds	fond	NC	_
 de	de	P	_
@@ -47565,7 +47652,7 @@ en	en	CLO	_
 ai	avoir	V	_
 vu	voir	VPP	_
 plusieurs	plusieurs	PRO	_
-auxquels	auquel	PROREL	_
+auxquels	à_lequel	PROREL	_
 la	le	DET	_
 vénération	vénération	NC	_
 publique	public	ADJ	_
@@ -47669,7 +47756,7 @@ les	il	CLO	_
 concerne	concerner	V	_
 ,	,	PONCT	_
 et	et	CC	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 réunis	réunir	VPP	_
 ,	,	PONCT	_
 concourent	concourir	V	_
@@ -47777,7 +47864,8 @@ de	de	P	_
 ce	ce	DET	_
 droit	droit	NC	_
 ;	;	PONCT	_
-quant_à	quant_à	P	_
+quant	quant	ADV	_
+à	à	P	_
 l'	le	DET	_
 économie	économie	NC	_
 politique	politique	ADJ	_
@@ -47850,7 +47938,9 @@ lois	loi	NC	_
 s'	si	CS	_
 il	il	CLS	_
 était	être	V	_
-au-dessus	au-dessus	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 de	de	P	_
 son	son	DET	_
 pouvoir	pouvoir	NC	_
@@ -48007,7 +48097,7 @@ valoir	valoir	VINF	_
 Qui	qui	PROWH	_
 ne	ne	ADV	_
 sait	savoir	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 en	en	P	_
 général	général	NC	_
 nul	nul	PRO	_
@@ -48178,7 +48268,7 @@ le	le	DET	_
 consentement	consentement	NC	_
 n'	ne	ADV	_
 est	être	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 illusoire	illusoire	ADJ	_
 .	.	PONCT	_
 Si	si	CS	_
@@ -48780,7 +48870,7 @@ peut	pouvoir	V	_
 lever	lever	VINF	_
 des	un	DET	_
 valeurs	valeur	NC	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 en	en	P	_
 les	il	CLO	_
 prenant	prendre	VPR	_
@@ -49040,7 +49130,9 @@ une	un	DET	_
 veine	veine	NC	_
 minérale	minéral	ADJ	_
 passe	passer	V	_
-au-dessous	au-dessous	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessous	dessous	ADV	_
 du	de_le	P+D	_
 sol	sol	NC	_
 de	de	P	_
@@ -49115,7 +49207,7 @@ d'	de	P	_
 un	un	DET	_
 propriétaire	propriétaire	NC	_
 ,	,	PONCT	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 à	à	P	_
 jouir	jouir	VINF	_
 de	de	P	_
@@ -49224,7 +49316,7 @@ prête	prêter	V	_
 le	le	DET	_
 secours	secours	NC	_
 de	de	P	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 aux	à_le	P+D	_
 besoins	besoin	NC	_
 d'	de	P	_
@@ -49415,7 +49507,7 @@ parti	partir	VPP	_
 de	de	P	_
 ses	son	DET	_
 facultés	faculté	NC	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 à	à	P	_
 l'	le	DET	_
 aide	aide	NC	_
@@ -50220,7 +50312,8 @@ dites	dire	V	_
 que	que	CS	_
 c'	ce	CLS	_
 est	être	V	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 les	le	DET	_
 acquéreurs	acquéreur	NC	_
 manquent	manquer	V	_
@@ -50275,7 +50368,7 @@ il	il	CLS	_
 transportera	transporter	V	_
 chez	chez	P	_
 celui	celui	PRO	_
-auquel	auquel	PROREL	_
+auquel	à_lequel	PROREL	_
 vous	vous	CLS	_
 ferez	faire	V	_
 un	un	DET	_
@@ -50368,7 +50461,8 @@ est	être	V	_
 que	que	CS	_
 c'	ce	CLS	_
 est	être	V	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 on	on	CLS	_
 y	y	CLO	_
 produit	produire	V	_
@@ -50405,7 +50499,8 @@ ne	ne	ADV	_
 va	aller	V	_
 pas	pas	ADV	_
 ,	,	PONCT	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 l'	le	DET	_
 argent	argent	NC	_
 est	être	V	_
@@ -50492,14 +50587,16 @@ ne	ne	ADV	_
 va	aller	V	_
 pas	pas	ADV	_
 ,	,	PONCT	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 l'	le	DET	_
 argent	argent	NC	_
 est	être	V	_
 rare	rare	ADJ	_
 ,	,	PONCT	_
 mais	mais	CC	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 les	le	DET	_
 autres	autre	ADJ	_
 produits	produit	NC	_
@@ -50807,7 +50904,7 @@ loi	loi	NC	_
 des	un	DET	_
 prêtres	prêtre	NC	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 ,	,	PONCT	_
 et	et	CC	_
 qui	qui	PROREL	_
@@ -51037,7 +51134,7 @@ ne	ne	ADV	_
 peut	pouvoir	V	_
 être	être	VINF	_
 fait	faire	VPP	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 avec	avec	P	_
 la	le	DET	_
 valeur	valeur	NC	_
@@ -51113,7 +51210,7 @@ L'	le	DET	_
 argent	argent	NC	_
 ne	ne	ADV	_
 remplit	remplir	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 un	un	DET	_
 office	office	NC	_
 passager	passager	ADJ	_
@@ -51150,7 +51247,7 @@ remarquer	remarquer	VINF	_
 qu'	que	CS	_
 un	un	DET	_
 produit	produit	NC	_
-terminé	terminé	ADJ	_
+terminé	terminer	ADJ	_
 offre	offre	NC	_
 ,	,	PONCT	_
 dès	dès	P	_
@@ -51248,7 +51345,7 @@ défaire	défaire	VINF	_
 de	de	P	_
 son	son	DET	_
 argent	argent	NC	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 en	en	P	_
 demandant	demander	VPR	_
 à	à	P	_
@@ -51478,7 +51575,8 @@ ces	ce	DET	_
 marchandises	marchandise	NC	_
 ,	,	PONCT	_
 soit	soit	CC	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 on	on	CLS	_
 en	en	CLO	_
 a	avoir	V	_
@@ -51490,7 +51588,8 @@ considérables	considérable	ADJ	_
 ,	,	PONCT	_
 soit	soit	CC	_
 plutôt	plutôt	ADV	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 d'	un	DET	_
 autres	autre	ADJ	_
 productions	production	NC	_
@@ -51501,7 +51600,8 @@ Certains	certain	DET	_
 produits	produit	NC	_
 surabondent	surabonder	V	_
 ,	,	PONCT	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 d'	un	DET	_
 autres	autre	NC	_
 sont	être	V	_
@@ -51521,7 +51621,8 @@ ont	avoir	V	_
 moins	moins	ADV	_
 acheté	acheter	VPP	_
 ,	,	PONCT	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 ils	il	CLS	_
 ont	avoir	V	_
 moins	moins	ADV	_
@@ -51533,7 +51634,8 @@ ont	avoir	V	_
 moins	moins	ADV	_
 gagné	gagner	VPP	_
 ,	,	PONCT	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 ils	il	CLS	_
 ont	avoir	V	_
 trouvé	trouver	VPP	_
@@ -51550,7 +51652,8 @@ production	production	NC	_
 ,	,	PONCT	_
 ou	ou	CC	_
 bien	bien	ADV	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 ces	ce	DET	_
 moyens	moyen	NC	_
 leur	il	CLO	_
@@ -51704,7 +51807,7 @@ rarement	rarement	ADV	_
 avilis	avilir	VPP	_
 ,	,	PONCT	_
 si	si	CS	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 étaient	être	V	_
 toujours	toujours	ADV	_
 laissés	laisser	VPP	_
@@ -51730,7 +51833,7 @@ intéressé	intéresser	VPP	_
 la	le	DET	_
 prospérité	prospérité	NC	_
 de	de	P	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 ,	,	PONCT	_
 et	et	CC	_
 que	que	CS	_
@@ -51910,13 +52013,15 @@ y	y	CLO	_
 vendrait	vendre	V	_
 peu	peu	ADV	_
 ,	,	PONCT	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 on	on	CLS	_
 y	y	CLO	_
 produit	produire	V	_
 peu	peu	ADV	_
 ;	;	PONCT	_
-tandis_qu'	tandis_que	CS	_
+tandis	tandis	ADV	_
+qu'	que	CS	_
 à	à	P	_
 Paris	Paris	NP	_
 ,	,	PONCT	_
@@ -52264,7 +52369,7 @@ démontré	démontrer	VPP	_
 ,	,	PONCT	_
 par	par	P	_
 les	le	DET	_
-brillans	brillant	ADJ	_
+brillans	briller	ADJ	_
 résultats	résultat	NC	_
 qu'	que	PROREL	_
 elle	il	CLS	_
@@ -52302,7 +52407,8 @@ de	de	P	_
 vérités	vérité	NC	_
 pratiques	pratique	ADJ	_
 ,	,	PONCT	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 ils	il	CLS	_
 les	il	CLO	_
 mettent	mettre	V	_
@@ -52372,7 +52478,7 @@ acheter	acheter	VINF	_
 les	le	DET	_
 marchandises	marchandise	NC	_
 étrangères	étranger	ADJ	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 avec	avec	P	_
 des	un	DET	_
 produits	produit	NC	_
@@ -52388,7 +52494,7 @@ de	de	P	_
 nos	notre	DET	_
 capitaux	capital	NC	_
 ,	,	PONCT	_
-auxquels	auquel	PROREL	_
+auxquels	à_lequel	PROREL	_
 ce	ce	DET	_
 commerce	commerce	NC	_
 par	par	P	_
@@ -52619,7 +52725,7 @@ importer	importer	VINF	_
 Les	le	DET	_
 négocians	négociant	NC	_
 qui	qui	PROREL	_
-fesaient	fesaient	V	_
+fesaient	faire	V	_
 usage	usage	NC	_
 de	de	P	_
 ces	ce	DET	_
@@ -52840,7 +52946,8 @@ excitent	exciter	V	_
 à	à	P	_
 produire	produire	VINF	_
 ,	,	PONCT	_
-afin_de	afin_de	P	_
+afin	afin	ADV	_
+de	de	P	_
 se	se	CLO	_
 mettre	mettre	VINF	_
 en	en	P	_
@@ -53134,7 +53241,9 @@ observé	observer	VPP	_
 sur	sur	P	_
 quelques-uns	quelqu'un	PRO	_
 .	.	PONCT	_
-Au-delà	au-delà	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+delà	delà	ADV	_
 d'	de	P	_
 un	un	DET	_
 certain	certain	ADJ	_
@@ -53336,7 +53445,7 @@ de	un	DET	_
 nouvelles	nouveau	ADJ	_
 habitations	habitation	NC	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 à	à	P	_
 la	le	DET	_
 vérité	vérité	NC	_
@@ -53710,7 +53819,8 @@ un	un	DET	_
 négociant	négociant	NC	_
 français	français	ADJ	_
 ,	,	PONCT	_
-afin_de	afin_de	P	_
+afin	afin	ADV	_
+de	de	P	_
 rentrer	rentrer	VINF	_
 plus	plus	ADV	_
 tôt	tôt	ADV	_
@@ -53986,7 +54096,7 @@ employer	employer	VINF	_
 un	un	DET	_
 capital	capital	NC	_
 sans	sans	P	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 il	il	CLS	_
 en	en	CLO	_
 coûte	coûter	V	_
@@ -54148,7 +54258,8 @@ circonstance	circonstance	NC	_
 à	à	P	_
 éviter	éviter	VINF	_
 .	.	PONCT	_
-Quant_à	quant_à	P	_
+Quant	quant	ADV	_
+à	à	P	_
 la	le	DET	_
 rapidité	rapidité	NC	_
 qu'	que	PROREL	_
@@ -54222,7 +54333,8 @@ de	de	P	_
 la	le	DET	_
 monnaie	monnaie	NC	_
 ,	,	PONCT	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 en	en	P	_
 effet	effet	NC	_
 il	il	CLS	_
@@ -54579,7 +54691,9 @@ aime	aimer	V	_
 mieux	mieux	ADV	_
 alors	alors	ADV	_
 passer	passer	VINF	_
-par-dessus	par-dessus	P	_
+par	par	S	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 les	le	DET	_
 inconvéniens	inconvénient	NC	_
 attachés	attacher	VPP	_
@@ -54972,7 +55086,8 @@ grande	grand	ADJ	_
 importance	importance	NC	_
 ,	,	PONCT	_
 et	et	CC	_
-afin_de	afin_de	P	_
+afin	afin	ADV	_
+de	de	P	_
 fournir	fournir	VINF	_
 de	un	DET	_
 nouvelles	nouveau	ADJ	_
@@ -54980,12 +55095,12 @@ preuves	preuve	NC	_
 et	et	CC	_
 de	un	DET	_
 nouveaux	nouveau	ADJ	_
-développemens	développemens	NC	_
+développemens	développement	NC	_
 aux	à_le	P+D	_
 principes	principe	NC	_
 .	.	PONCT	_
 Chemin	chemin	NC	_
-fesant	fesant	ADJ	_
+fesant	faire	ADJ	_
 ,	,	PONCT	_
 nous	nous	CLS	_
 verrons	voir	V	_
@@ -55423,7 +55538,7 @@ dont	dont	PROREL	_
 le	le	DET	_
 besoin	besoin	NC	_
 se	se	CLO	_
-fesait	fesait	V	_
+fesait	faire	V	_
 le	le	DET	_
 plus	plus	ADV	_
 sentir	sentir	VINF	_
@@ -56197,7 +56312,7 @@ les	le	DET	_
 impôts	impôt	NC	_
 ne	ne	ADV	_
 sont	être	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 un	un	DET	_
 pillage	pillage	NC	_
 organisé	organiser	VPP	_
@@ -56688,7 +56803,7 @@ Reims	Reims	NP	_
 de	de	P	_
 Beauvais	Beauvais	NP	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 ,	,	PONCT	_
 se	se	CLO	_
 mit	mettre	V	_
@@ -56730,7 +56845,8 @@ a	avoir	V	_
 un	un	DET	_
 demi-siècle	demi-siècle	NC	_
 ;	;	PONCT	_
-tandis_que	tandis_que	CS	_
+tandis	tandis	ADV	_
+que	que	CS	_
 l'	le	DET	_
 opulence	opulence	NC	_
 de	de	P	_
@@ -58056,7 +58172,7 @@ de	de	P	_
 nos	notre	DET	_
 livres	livre	NC	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 Sous	Sous	ADJ	_
 ces	ce	DET	_
 formes	forme	NC	_
@@ -58168,7 +58284,9 @@ pas	pas	ADV	_
 estimer	estimer	VINF	_
 cet	ce	DET	_
 avantage	avantage	NC	_
-au-delà	au-delà	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+delà	delà	ADV	_
 de	de	P	_
 sa	son	DET	_
 véritable	véritable	ADJ	_
@@ -58414,7 +58532,8 @@ valeur	valeur	NC	_
 en	en	P	_
 numéraire	numéraire	NC	_
 ,	,	PONCT	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 c'	ce	CLS	_
 est	être	V	_
 d'	de	P	_
@@ -59324,7 +59443,8 @@ lui	il	PRO	_
 ,	,	PONCT	_
 une	un	DET	_
 marchandise	marchandise	NC	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 elle	il	CLS	_
 réclamera	réclamer	V	_
 encore	encore	ADV	_
@@ -59361,7 +59481,8 @@ de	de	P	_
 la	le	DET	_
 marchandise	marchandise	NC	_
 ,	,	PONCT	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 il	il	CLS	_
 sait	savoir	V	_
 mieux	mieux	ADV	_
@@ -59440,7 +59561,7 @@ faire	faire	VINF	_
 des	un	DET	_
 partages	partage	NC	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 :	:	PONCT	_
 une	un	DET	_
 nation	nation	NC	_
@@ -59453,7 +59574,8 @@ cas	cas	NC	_
 -là	là	ADV	_
 ;	;	PONCT	_
 et	et	CC	_
-quant_aux	quant_à_le	P+D	_
+quant	quant	ADV	_
+aux	à_le	P+D	_
 liquidations	liquidation	NC	_
 ,	,	PONCT	_
 aux	à_le	P+D	_
@@ -59817,7 +59939,8 @@ les	le	DET	_
 plus	plus	ADV	_
 clairs	clair	ADJ	_
 ,	,	PONCT	_
-afin_qu'	afin_que	CS	_
+afin	afin	ADV	_
+qu'	que	CS	_
 on	on	CLS	_
 juge	juger	V	_
 plus	plus	ADV	_
@@ -60192,7 +60315,9 @@ négociant	négocier	VPR	_
 en	en	P	_
 marchandises	marchandise	NC	_
 d'	de	P	_
-outre-mer	outre-mer	NC	_
+outre	outre	ADV	_
+-	-	PONCT	_
+mer	mer	P	_
 ,	,	PONCT	_
 envoie	envoyer	V	_
 dans	dans	P	_
@@ -60516,7 +60641,8 @@ marchandise	marchandise	NC	_
 consommée	consommer	VPP	_
 ensuite	ensuite	ADV	_
 ;	;	PONCT	_
-tandis_qu'	tandis_que	CS	_
+tandis	tandis	ADV	_
+qu'	que	CS	_
 en	en	P	_
 consommant	consommer	VPR	_
 des	un	DET	_
@@ -60947,7 +61073,7 @@ payer	payer	VINF	_
 une	un	DET	_
 autre	autre	ADJ	_
 nation	nation	NC	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 avec	avec	P	_
 ses	son	DET	_
 produits	produit	NC	_
@@ -61593,7 +61719,7 @@ dès	dès	P	_
 lors	lors	ADV	_
 cinq_cents	cinq_cents	DET	_
 voitures	voiture	NC	_
-ioccupées	ioccupées	ADJ	_
+inoccupées	inoccupé	ADJ	_
 sous	sous	P	_
 différentes	différent	DET	_
 remises	remise	NC	_
@@ -61733,7 +61859,7 @@ nécessairement	nécessairement	ADV	_
 il	il	CLS	_
 ne	ne	ADV	_
 forme	former	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 une	un	DET	_
 partie	partie	NC	_
 des	de_le	P+D	_
@@ -61750,7 +61876,8 @@ les	le	DET	_
 richesses	richesse	NC	_
 sociales	social	ADJ	_
 ,	,	PONCT	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 on	on	CLS	_
 a	avoir	V	_
 besoin	besoin	NC	_
@@ -61797,7 +61924,7 @@ que	que	PROREL	_
 soient	être	V	_
 les	le	DET	_
 qualités	qualité	NC	_
-brillantes	brillant	ADJ	_
+brillantes	briller	ADJ	_
 ou	ou	CC	_
 solides	solide	ADJ	_
 de	de	P	_
@@ -61906,7 +62033,9 @@ on	on	CLS	_
 multiplie	multiplier	V	_
 cette	ce	DET	_
 denrée	denrée	NC	_
-au-delà	au-delà	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+delà	delà	ADV	_
 des	de_le	P+D	_
 besoins	besoin	NC	_
 ;	;	PONCT	_
@@ -62138,7 +62267,8 @@ est	être	V	_
 disons	dire	V	_
 -le	il	CLO	_
 ,	,	PONCT	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 les	le	DET	_
 premiers	premier	ADJ	_
 princips	princeps	NC	_
@@ -62152,7 +62282,8 @@ presque	presque	ADV	_
 généralement	généralement	ADV	_
 ignorés	ignorer	VPP	_
 ;	;	PONCT	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 on	on	CLS	_
 élève	élever	V	_
 sur	sur	P	_
@@ -62570,7 +62701,9 @@ en	en	CLO	_
 élever	élever	VINF	_
 le	le	DET	_
 prix	prix	NC	_
-au-dessus	au-dessus	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 du	de_le	P+D	_
 taux	taux	NC	_
 naturel	naturel	ADJ	_
@@ -62746,7 +62879,7 @@ consommateur	consommateur	NC	_
 en	en	CLO	_
 trouverait	trouver	V	_
 de	un	DET	_
-pareilles	pareille	NC	_
+pareilles	pareil	NC	_
 pour	pour	P	_
 trois	trois	DET	_
 francs	franc	NC	_
@@ -63150,7 +63283,7 @@ de	de	P	_
 chez	chez	P	_
 lui	il	PRO	_
 ,	,	PONCT	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 à	à	P	_
 jouir	jouir	VINF	_
 ,	,	PONCT	_
@@ -63398,7 +63531,8 @@ guère	guère	ADV	_
 les	le	DET	_
 yeux	œil	NC	_
 ,	,	PONCT	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 il	il	CLS	_
 se	se	CLO	_
 fait	faire	V	_
@@ -63412,7 +63546,7 @@ petites	petit	ADJ	_
 portions	portion	NC	_
 chaque	chaque	DET	_
 fois	fois	NC	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 on	on	CLS	_
 achète	acheter	V	_
 quelque	quelque	DET	_
@@ -63429,7 +63563,8 @@ fréquente	fréquent	ADJ	_
 répétition	répétition	NC	_
 ,	,	PONCT	_
 et	et	CC	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 il	il	CLS	_
 pèse	peser	V	_
 universellement	universellement	ADV	_
@@ -63481,7 +63616,7 @@ il	il	CLS	_
 n'	ne	ADV	_
 y	y	CLO	_
 aurait	avoir	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 une	un	DET	_
 seule	seul	ADJ	_
 denrée	denrée	NC	_
@@ -63540,7 +63675,8 @@ pauvre	pauvre	ADJ	_
 On	on	CLS	_
 la	il	CLO	_
 prive	priver	V	_
-en_outre	en_outre	ADV	_
+en	en	P	_
+outre	outre	P	_
 de	de	P	_
 l'	le	DET	_
 avantage	avantage	NC	_
@@ -63616,7 +63752,8 @@ très	très	ADV	_
 partiellement	partiellement	ADV	_
 vrai	vrai	ADJ	_
 ,	,	PONCT	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 les	le	DET	_
 monopoleurs	monopoleur	NC	_
 ne	ne	ADV	_
@@ -63684,7 +63821,7 @@ ailleurs	ailleurs	ADV	_
 ;	;	PONCT	_
 de	de	P	_
 sorte	sorte	NC	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 en	en	P	_
 sa	son	DET	_
 qualité	qualité	NC	_
@@ -63838,7 +63975,8 @@ l'	le	DET	_
 étranger	étranger	NC	_
 ;	;	PONCT	_
 et	et	CC	_
-quant_à	quant_à	P	_
+quant	quant	ADV	_
+à	à	P	_
 l'	le	DET	_
 encouragement	encouragement	NC	_
 qui	qui	PROREL	_
@@ -63891,7 +64029,7 @@ ne	ne	ADV	_
 peut	pouvoir	V	_
 être	être	VINF	_
 acquis	acquérir	VPP	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 avec	avec	P	_
 des	un	DET	_
 produits	produit	NC	_
@@ -63912,7 +64050,7 @@ fais	faire	V	_
 donc	donc	ADV	_
 en	en	P	_
 réalité	réalité	NC	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 envoyer	envoyer	VINF	_
 à	à	P	_
 l'	le	DET	_
@@ -64443,7 +64581,8 @@ se	se	CLO	_
 paiera	payer	V	_
 ainsi	ainsi	ADV	_
 ,	,	PONCT	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 la	le	DET	_
 chose	chose	NC	_
 ne	ne	ADV	_
@@ -64714,7 +64853,8 @@ de	de	P	_
 sa	son	DET	_
 consommation	consommation	NC	_
 ;	;	PONCT	_
-tandis_que	tandis_que	CS	_
+tandis	tandis	ADV	_
+que	que	CS	_
 si	si	CS	_
 ce	ce	DET	_
 particulier	particulier	NC	_
@@ -64929,7 +65069,7 @@ marchands	marchand	NC	_
 en	en	P	_
 boutique	boutique	NC	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 ,	,	PONCT	_
 n'	ne	ADV	_
 ont	avoir	V	_
@@ -65442,7 +65582,8 @@ suivant	suivant	P	_
 ce	ce	DET	_
 système	système	NC	_
 ,	,	PONCT	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 ,	,	PONCT	_
 chez	chez	P	_
 elles	il	PRO	_
@@ -65554,7 +65695,8 @@ de	de	P	_
 ces	ce	DET	_
 outrages	outrage	NC	_
 ,	,	PONCT	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 ce	ce	CLS	_
 sont	être	V	_
 les	le	DET	_
@@ -65905,7 +66047,8 @@ une	un	DET	_
 entreprise	entreprise	NC	_
 impossible	impossible	ADJ	_
 ,	,	PONCT	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 tout	tout	ADJ	_
 le	le	DET	_
 monde	monde	NC	_
@@ -65923,7 +66066,7 @@ n'	ne	ADV	_
 est	être	V	_
 jamais	jamais	ADV	_
 exposé	exposer	VPP	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 à	à	P	_
 changer	changer	VINF	_
 la	le	DET	_
@@ -65938,11 +66081,12 @@ toujours	toujours	ADV	_
 se	se	CLO	_
 les	il	CLO	_
 acheter	acheter	VINF	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 lui	il	PRO	_
 -même	même	ADJ	_
 ,	,	PONCT	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 les	le	DET	_
 produits	produit	NC	_
 ,	,	PONCT	_
@@ -66481,7 +66625,7 @@ compter	compter	VINF	_
 que	que	ADV	_
 sur	sur	P	_
 des	un	DET	_
-approvisionnemens	approvisionnemens	NC	_
+approvisionnemens	approvisionnement	NC	_
 étrangers	étranger	ADJ	_
 .	.	PONCT	_
 C'	ce	CLS	_
@@ -67088,7 +67232,7 @@ si	si	CS	_
 ,	,	PONCT	_
 en	en	P	_
 lui	il	PRO	_
-fesant	fesant	VPR	_
+fesant	faire	VPR	_
 craindre	craindre	VINF	_
 pour	pour	P	_
 elle	il	PRO	_
@@ -67186,7 +67330,8 @@ des	un	DET	_
 relations	relation	NC	_
 utiles	utile	ADJ	_
 ,	,	PONCT	_
-afin_de	afin_de	P	_
+afin	afin	ADV	_
+de	de	P	_
 leur	il	CLO	_
 interdire	interdire	VINF	_
 des	un	DET	_
@@ -67438,12 +67583,12 @@ faire	faire	VINF	_
 valoir	valoir	VINF	_
 une	un	DET	_
 concession	concession	NC	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 on	on	CLS	_
 fait	faire	V	_
 aux	à_le	P+D	_
 uns	un	NC	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 en	en	P	_
 la	il	CLO	_
 refusant	refuser	VPR	_
@@ -67671,7 +67816,7 @@ est	être	V	_
 et	et	CC	_
 les	le	DET	_
 maux	mal	NC	_
-auxquels	auquel	PROREL	_
+auxquels	à_lequel	PROREL	_
 on	on	CLS	_
 peut	pouvoir	V	_
 être	être	VINF	_
@@ -67867,7 +68012,7 @@ prix	prix	NC	_
 inférieur	inférieur	ADJ	_
 à	à	P	_
 celui	celui	PRO	_
-auquel	auquel	PROREL	_
+auquel	à_lequel	PROREL	_
 elle	il	CLS	_
 lui	il	CLO	_
 revient	revenir	V	_
@@ -67908,7 +68053,7 @@ nous	nous	CLS	_
 les	il	CLO	_
 payons	payer	V	_
 pour	pour	P	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 ils	il	CLS	_
 nous	nous	CLO	_
 accordent	accorder	V	_
@@ -67957,10 +68102,12 @@ prix	prix	NC	_
 n'	ne	ADV	_
 est	être	V	_
 pas	pas	ADV	_
-au-dessous	au-dessous	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessous	dessous	ADV	_
 de	de	P	_
 celui	celui	PRO	_
-auquel	auquel	PROREL	_
+auquel	à_lequel	PROREL	_
 on	on	CLS	_
 peut	pouvoir	V	_
 se	se	CLO	_
@@ -68111,7 +68258,7 @@ Celle	celui	PRO	_
 -ci	ci	ADV	_
 n'	ne	ADV	_
 envoie	envoyer	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 un	un	DET	_
 retour	retour	NC	_
 de	de	P	_
@@ -68228,7 +68375,8 @@ producteur	producteur	NC	_
 ,	,	PONCT	_
 qui	qui	PROREL	_
 est	être	V	_
-en_outre	en_outre	ADV	_
+en	en	P	_
+outre	outre	P	_
 payé	payer	VPP	_
 du	de_le	P+D	_
 profit	profit	NC	_
@@ -68342,7 +68490,8 @@ de	de	P	_
 la	il	CLO	_
 fabriquer	fabriquer	VINF	_
 ,	,	PONCT	_
-afin_de	afin_de	P	_
+afin	afin	ADV	_
+de	de	P	_
 ne	ne	ADV	_
 pas	pas	ADV	_
 supporter	supporter	VINF	_
@@ -68685,7 +68834,9 @@ l'	le	DET	_
 dussent	devoir	V	_
 -ils	il	CLS	_
 coûter	coûter	VINF	_
-au-delà	au-delà	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+delà	delà	ADV	_
 de	de	P	_
 leur	leur	DET	_
 valeur	valeur	NC	_
@@ -68848,7 +68999,9 @@ industrie	industrie	NC	_
 d'	de	P	_
 une	un	DET	_
 nation	nation	NC	_
-au-delà	au-delà	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+delà	delà	ADV	_
 de	de	P	_
 ce	ce	PRO	_
 que	que	PROREL	_
@@ -68909,7 +69062,7 @@ aurait	avoir	V	_
 naturellement	naturellement	ADV	_
 préférée	préférer	VPP	_
 ...	…	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 "	"	PONCT	_
 *	*	X	_
 Smith	Smith	NP	_
@@ -69059,7 +69212,7 @@ mêmes	même	ADJ	_
 usages	usage	NC	_
 pour	pour	P	_
 les	le	DET	_
-placemens	placemens	NC	_
+placemens	placement	NC	_
 d'	de	P	_
 argent	argent	NC	_
 !	!	PONCT	_
@@ -69068,7 +69221,7 @@ on	on	CLS	_
 ne	ne	ADV	_
 sait	savoir	V	_
 placer	placer	VINF	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 en	en	P	_
 rentes	rente	NC	_
 hypothéquées	hypothéquer	VPP	_
@@ -69945,7 +70098,8 @@ n'	ne	ADV	_
 a	avoir	V	_
 été	être	VPP	_
 ,	,	PONCT	_
-quant_à	quant_à	P	_
+quant	quant	ADV	_
+à	à	P	_
 ses	son	DET	_
 procédés	procédé	NC	_
 ,	,	PONCT	_
@@ -70815,7 +70969,7 @@ jours	jour	NC	_
 sont	être	V	_
 suffisans	suffisant	ADJ	_
 ...	…	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 "	"	PONCT	_
 en	en	P	_
 commençant	commencer	VPR	_
@@ -70906,7 +71060,7 @@ réussi	réussir	VPP	_
 à	à	P	_
 atteindre	atteindre	VINF	_
 des	de_le	P+D	_
-perfectionnemens	perfectionnemens	NC	_
+perfectionnemens	perfectionnement	NC	_
 dont	dont	PROREL	_
 elle	il	CLS	_
 était	être	V	_
@@ -71173,7 +71327,7 @@ que	que	CS	_
 ce	ce	CLS	_
 soit	être	V	_
 ...	…	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 "	"	PONCT	_
 qu'	que	CS	_
 on	on	CLS	_
@@ -71440,7 +71594,7 @@ des	un	DET	_
 diminutions	diminution	NC	_
 sensibles	sensible	ADJ	_
 ...	…	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 "	"	PONCT	_
 on	on	CLS	_
 connaît	connaître	V	_
@@ -71559,7 +71713,7 @@ ont	avoir	V	_
 de	un	DET	_
 défavorable	défavorable	ADJ	_
 ax	ax	NC	_
-développemens	développemens	NC	_
+développemens	développement	NC	_
 de	de	P	_
 l'	le	DET	_
 industrie	industrie	NC	_
@@ -71713,7 +71867,8 @@ jusqu'	jusque	P	_
 la	le	DET	_
 révolution	révolution	NC	_
 ,	,	PONCT	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 elle	il	CLS	_
 demande	demander	V	_
 des	un	DET	_
@@ -72388,7 +72543,9 @@ que	que	CS	_
 la	le	DET	_
 nation	nation	NC	_
 fait	faire	V	_
-au-dehors	au-dehors	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dehors	dehors	ADV	_
 ,	,	PONCT	_
 car	car	CC	_
 l'	le	DET	_
@@ -72424,7 +72581,7 @@ fabricant	fabricant	NC	_
 ,	,	PONCT	_
 comme	comme	P	_
 la	le	DET	_
-meilleure	meilleure	NC	_
+meilleure	meilleur	NC	_
 des	de_le	P+D	_
 garanties	garantie	NC	_
 .	.	PONCT	_
@@ -72657,7 +72814,8 @@ mal	mal	NC	_
 ,	,	PONCT	_
 d'	de	P	_
 abord	abord	NC	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 elle	il	CLS	_
 vexe	vexer	V	_
 et	et	CC	_
@@ -72667,7 +72825,8 @@ particuliers	particulier	NC	_
 ,	,	PONCT	_
 et	et	CC	_
 ensuite	ensuite	ADV	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 elle	il	CLS	_
 est	être	V	_
 coûteuse	coûteux	ADJ	_
@@ -72987,7 +73146,9 @@ porter	porter	VINF	_
 le	le	DET	_
 prix	prix	NC	_
 fort	fort	ADV	_
-au-dessus	au-dessus	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 de	de	P	_
 ce	ce	PRO	_
 qui	qui	PROREL	_
@@ -73198,7 +73359,8 @@ veulent	vouloir	V	_
 bien	bien	ADV	_
 ;	;	PONCT	_
 et	et	CC	_
-quant_à	quant_à	P	_
+quant	quant	ADV	_
+à	à	P	_
 ceux	celui	PRO	_
 qui	qui	PROREL	_
 ne	ne	ADV	_
@@ -73366,7 +73528,7 @@ tels	tel	ADJ	_
 priviléges	privilège	NC	_
 ne	ne	ADV	_
 durent	devoir	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 un	un	DET	_
 certain	certain	ADJ	_
 nombre	nombre	NC	_
@@ -73735,7 +73897,8 @@ point	point	ADV	_
 pris	prendre	VPP	_
 de	de	P	_
 brevets	brevet	NC	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 ils	il	CLS	_
 ne	ne	ADV	_
 prétendaient	prétendre	V	_
@@ -73888,7 +74051,8 @@ aurait	avoir	V	_
 été	être	VPP	_
 incomplet	incomplet	ADJ	_
 ,	,	PONCT	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 chaque	chaque	DET	_
 jour	jour	NC	_
 voit	voir	V	_
@@ -74005,7 +74169,9 @@ privilégiés	privilégié	ADJ	_
 élèvent	élever	V	_
 leurs	leur	DET	_
 prix	prix	NC	_
-au-dessus	au-dessus	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 du	de_le	P+D	_
 taux	taux	NC	_
 qu'	que	PROREL	_
@@ -74197,7 +74363,7 @@ on	on	CLS	_
 ne	ne	ADV	_
 peut	pouvoir	V	_
 faire	faire	VINF	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 à	à	P	_
 main	main	NC	_
 armée	armé	ADJ	_
@@ -74949,7 +75115,8 @@ suit	suivre	V	_
 partout	partout	ADV	_
 ailleurs	ailleurs	ADV	_
 ?	?	PONCT	_
-Afin_de	afin_de	P	_
+Afin	afin	ADV	_
+de	de	P	_
 payer	payer	VINF	_
 moins	moins	ADV	_
 cher	cher	ADJ	_
@@ -75014,7 +75181,9 @@ y	y	CLO	_
 resterait	rester	V	_
 pas	pas	ADV	_
 long-temps	long-temps	ADV	_
-au-dessus	au-dessus	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 du	de_le	P+D	_
 taux	taux	NC	_
 où	où	PROREL	_
@@ -75383,7 +75552,9 @@ que	que	PROREL	_
 le	le	DET	_
 consommateur	consommateur	NC	_
 paie	payer	V	_
-au-delà	au-delà	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+delà	delà	ADV	_
 du	de_le	P+D	_
 prix	prix	NC	_
 que	que	PROREL	_
@@ -75473,7 +75644,7 @@ principal	principal	NC	_
 revenu	revenir	VPP	_
 ,	,	PONCT	_
 se	se	CLO	_
-fesait	fesait	V	_
+fesait	faire	V	_
 faire	faire	VINF	_
 les	le	DET	_
 plus	plus	ADV	_
@@ -75635,7 +75806,7 @@ et	et	CC	_
 qui	qui	PROREL	_
 ont	avoir	V	_
 presque	presque	ADV	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 des	de_le	P+D	_
 intérêts	intérêt	NC	_
 plus	plus	ADV	_
@@ -75742,7 +75913,7 @@ mamelucks	mamelucks	NC	_
 sur	sur	P	_
 l'	le	DET	_
 *	*	PONCT	_
-égypte	égypte	NC	_
+égypte	Égypte	NC	_
 .	.	PONCT	_
 Quelques	quelque	DET	_
 autres	autre	ADJ	_
@@ -75778,7 +75949,7 @@ industrie	industrie	NC	_
 qui	qui	PROREL	_
 ne	ne	ADV	_
 demandaient	demander	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 à	à	P	_
 se	se	CLO	_
 fixer	fixer	VINF	_
@@ -75886,7 +76057,8 @@ et	et	CC	_
 l'	il	CLO	_
 obtint	obtenir	V	_
 ,	,	PONCT	_
-tandis_que	tandis_que	CS	_
+tandis	tandis	ADV	_
+que	que	CS	_
 des	de_le	P+D	_
 négocians	négociant	NC	_
 avaient	avoir	V	_
@@ -76304,7 +76476,7 @@ il	il	CLS	_
 ne	ne	ADV	_
 serait	être	V	_
 plus	plus	ADV	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 un	un	DET	_
 don	don	NC	_
 qu'	que	PROREL	_
@@ -76437,11 +76609,13 @@ des	un	DET	_
 calculs	calcul	NC	_
 numériques	numérique	ADJ	_
 ;	;	PONCT	_
-tandis_que	tandis_que	CS	_
+tandis	tandis	ADV	_
+que	que	CS	_
 l'	le	DET	_
 inconvénient	inconvénient	NC	_
 ,	,	PONCT	_
-tandis_que	tandis_que	CS	_
+tandis	tandis	ADV	_
+que	que	CS	_
 la	le	DET	_
 perte	perte	NC	_
 ,	,	PONCT	_
@@ -76483,7 +76657,7 @@ fallait	falloir	V	_
 s'	se	CLO	_
 en	en	CLO	_
 rapporter	rapporter	VINF	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 aux	à_le	P+D	_
 chiffres	chiffre	NC	_
 ;	;	PONCT	_
@@ -77030,7 +77204,7 @@ la	le	DET	_
 quantité	quantité	NC	_
 moyenne	moyen	ADJ	_
 des	de_le	P+D	_
-approvisionnemens	approvisionnemens	NC	_
+approvisionnemens	approvisionnement	NC	_
 fût	être	V	_
 comme	comme	P	_
 la	le	DET	_
@@ -77130,7 +77304,7 @@ seraient	être	V	_
 embarrassés	embarrasser	VPP	_
 dans	dans	P	_
 leurs	leur	DET	_
-déplacemens	déplacemens	NC	_
+déplacemens	déplacement	NC	_
 .	.	PONCT	_
 Peut	pouvoir	V	_
 -on	on	CLS	_
@@ -77308,7 +77482,7 @@ les	le	DET	_
 plus	plus	ADV	_
 utiles	utile	ADJ	_
 de	de	P	_
-toutes	tous	PRO	_
+toutes	tout	PRO	_
 ,	,	PONCT	_
 puisqu'	puisque	CS	_
 elles	il	CLS	_
@@ -77657,7 +77831,7 @@ fera	faire	V	_
 pas	pas	ADV	_
 disposer	disposer	VINF	_
 des	de_le	P+D	_
-approvisionnemens	approvisionnemens	NC	_
+approvisionnemens	approvisionnement	NC	_
 avant	avant	P	_
 le	le	DET	_
 temps	temps	NC	_
@@ -77736,7 +77910,9 @@ porter	porter	VINF	_
 le	le	DET	_
 prix	prix	NC	_
 fort	fort	ADV	_
-au-dessus	au-dessus	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 des	de_le	P+D	_
 facultés	faculté	NC	_
 du	de_le	P+D	_
@@ -77870,7 +78046,8 @@ sûre	sûr	ADJ	_
 et	et	CC	_
 efficace	efficace	ADJ	_
 ,	,	PONCT	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 les	le	DET	_
 contractans	contractant	NC	_
 donneraient	donner	V	_
@@ -77964,7 +78141,7 @@ seulement	seulement	ADV	_
 .	.	PONCT	_
 Les	le	DET	_
 meilleurs	meilleur	NC	_
-approvisionnemens	approvisionnemens	ADJ	_
+approvisionnemens	approvisionnement	ADJ	_
 et	et	CC	_
 les	le	DET	_
 plus	plus	ADV	_
@@ -78116,7 +78293,7 @@ profits	profit	NC	_
 qui	qui	PROREL	_
 ne	ne	ADV	_
 sont	être	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 une	un	DET	_
 contribution	contribution	NC	_
 gratuite	gratuit	ADJ	_
@@ -78146,7 +78323,7 @@ on	on	CLS	_
 entendait	entendre	V	_
 par	par	P	_
 des	un	DET	_
-accaparemens	accaparemens	NC	_
+accaparemens	accaparement	NC	_
 de	de	P	_
 grains	grain	NC	_
 ?	?	PONCT	_
@@ -78232,7 +78409,7 @@ autorité	autorité	NC	_
 Entend	entendre	V	_
 -on	on	CLS	_
 par	par	P	_
-accaparemens	accaparemens	NC	_
+accaparemens	accaparement	NC	_
 les	le	DET	_
 magasins	magasin	NC	_
 formés	former	VPP	_
@@ -78487,7 +78664,7 @@ fortes	fort	ADJ	_
 quantités	quantité	NC	_
 .	.	PONCT	_
 Les	le	DET	_
-accaparemens	accaparemens	NC	_
+accaparemens	accaparement	NC	_
 par	par	P	_
 spéculation	spéculation	NC	_
 sont	être	V	_
@@ -78507,7 +78684,7 @@ et	et	CC	_
 les	le	DET	_
 plus	plus	ADV	_
 inévitables	inévitable	ADJ	_
-accaparemens	accaparemens	NC	_
+accaparemens	accaparement	NC	_
 ,	,	PONCT	_
 se	se	CLO	_
 composent	composer	V	_
@@ -78541,7 +78718,9 @@ précaution	précaution	NC	_
 ,	,	PONCT	_
 un	un	DET	_
 peu	peu	NC	_
-au-delà	au-delà	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+delà	delà	ADV	_
 de	de	P	_
 ce	ce	PRO	_
 qui	qui	PROREL	_
@@ -78605,7 +78784,7 @@ cette	ce	DET	_
 foule	foule	NC	_
 de	de	P	_
 petits	petit	ADJ	_
-accaparemens	accaparemens	NC	_
+accaparemens	accaparement	NC	_
 forment	former	V	_
 ,	,	PONCT	_
 par	par	P	_
@@ -78804,7 +78983,8 @@ de	de	P	_
 la	le	DET	_
 denrée	denrée	NC	_
 .	.	PONCT	_
-Quant_au	quant_à_le	P+D	_
+Quant	quant	ADV	_
+au	à_le	P+D	_
 tribut	tribut	NC	_
 qu'	que	PROREL	_
 on	on	CLS	_
@@ -78923,7 +79103,7 @@ verra	voir	V	_
 s'	se	CLO	_
 agiter	agiter	VINF	_
 en	en	P	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 sens	sens	NC	_
 sur	sur	P	_
 la	le	DET	_
@@ -79024,7 +79204,7 @@ donnez	donner	V	_
 toute	tout	DET	_
 sécurité	sécurité	NC	_
 aux	à_le	P+D	_
-trafiquans	trafiquans	NC	_
+trafiquans	trafiquant	NC	_
 ,	,	PONCT	_
 et	et	CC	_
 laissez	laisser	V	_
@@ -79175,7 +79355,7 @@ livré	livrer	VPP	_
 ce	ce	DET	_
 commerce	commerce	NC	_
 aux	à_le	P+D	_
-trafiquans	trafiquans	NC	_
+trafiquans	trafiquant	NC	_
 du	de_le	P+D	_
 plus	plus	ADV	_
 bas	bas	ADJ	_
@@ -79219,7 +79399,8 @@ beaucoup	beaucoup	ADV	_
 plus	plus	ADV	_
 chèrement	chèrement	ADV	_
 ,	,	PONCT	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 il	il	CLS	_
 fallait	falloir	V	_
 bien	bien	ADV	_
@@ -79385,7 +79566,7 @@ et	et	CC	_
 elle	il	CLS	_
 supprime	supprimer	V	_
 les	le	DET	_
-approvisionnemens	approvisionnemens	NC	_
+approvisionnemens	approvisionnement	NC	_
 qu'	que	PROREL	_
 aurait	avoir	V	_
 procurés	procurer	VPP	_
@@ -79443,7 +79624,7 @@ de	de	P	_
 leurs	leur	DET	_
 administrés	administré	NC	_
 ,	,	PONCT	_
-fesaient	fesaient	V	_
+fesaient	faire	V	_
 acheter	acheter	VINF	_
 du	de_le	P+D	_
 blé	blé	NC	_
@@ -79518,7 +79699,9 @@ les	le	DET	_
 denrées	denrée	NC	_
 se	se	CLO	_
 vendaient	vendre	V	_
-au-dessous	au-dessous	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessous	dessous	ADV	_
 de	de	P	_
 leur	leur	DET	_
 valeur	valeur	NC	_
@@ -79526,7 +79709,7 @@ valeur	valeur	NC	_
 et	et	CC	_
 on	on	CLS	_
 leur	il	CLO	_
-fesait	fesait	V	_
+fesait	faire	V	_
 payer	payer	VINF	_
 une	un	DET	_
 amende	amende	NC	_
@@ -79552,7 +79735,9 @@ faire	faire	VINF	_
 tomber	tomber	VINF	_
 le	le	DET	_
 prix	prix	NC	_
-au-dessous	au-dessous	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessous	dessous	ADV	_
 de	de	P	_
 son	son	DET	_
 taux	taux	NC	_
@@ -79610,7 +79795,8 @@ fasse	faire	V	_
 de	un	DET	_
 mauvaises	mauvais	ADJ	_
 lois	loi	NC	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 il	il	CLS	_
 a	avoir	V	_
 eu	avoir	VPP	_
@@ -79876,7 +80062,8 @@ est	être	V	_
 plus	plus	ADV	_
 assurée	assuré	ADJ	_
 ,	,	PONCT	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 il	il	CLS	_
 est	être	V	_
 difficile	difficile	ADJ	_
@@ -80067,7 +80254,9 @@ de	de	P	_
 commerce	commerce	NC	_
 ,	,	PONCT	_
 fort	fort	ADV	_
-au-dessous	au-dessous	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessous	dessous	ADV	_
 du	de_le	P+D	_
 prix	prix	NC	_
 de	de	P	_
@@ -80368,7 +80557,7 @@ deux	deux	ADJ	_
 tiers	tiers	NC	_
 du	de_le	P+D	_
 prix	prix	NC	_
-auquel	auquel	PROREL	_
+auquel	à_lequel	PROREL	_
 ils	il	CLS	_
 revenaient	revenir	V	_
 au	à_le	P+D	_
@@ -80989,7 +81178,7 @@ bien	bien	ADV	_
 oblige	obliger	V	_
 à	à	P	_
 des	un	DET	_
-approvisionnemens	approvisionnemens	NC	_
+approvisionnemens	approvisionnement	NC	_
 préparés	préparer	VPP	_
 d'	de	P	_
 avance	avance	NC	_
@@ -81070,7 +81259,7 @@ peut	pouvoir	V	_
 se	se	CLO	_
 dissimuler	dissimuler	VINF	_
 cependant	cependant	ADV	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 il	il	CLS	_
 n'	ne	ADV	_
 y	y	CLO	_
@@ -81089,7 +81278,7 @@ dans	dans	P	_
 celui	celui	PRO	_
 où	où	PROREL	_
 les	le	DET	_
-approvisionnemens	approvisionnemens	NC	_
+approvisionnemens	approvisionnement	NC	_
 du	de_le	P+D	_
 commerce	commerce	NC	_
 sont	être	V	_
@@ -81316,7 +81505,8 @@ on	on	CLS	_
 prétendrait	prétendre	V	_
 que	que	CS	_
 ,	,	PONCT	_
-tandis_que	tandis_que	CS	_
+tandis	tandis	ADV	_
+que	que	CS	_
 legouvernement	legouvernement	ADV	_
 y	y	CLO	_
 perd	perdre	V	_
@@ -81807,7 +81997,9 @@ consentir	consentir	VINF	_
 vendre	vendre	VINF	_
 un	un	DET	_
 produit	produit	NC	_
-au-dessous	au-dessous	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessous	dessous	ADV	_
 du	de_le	P+D	_
 prix	prix	NC	_
 coûtant	coûtant	ADJ	_
@@ -81818,7 +82010,8 @@ le	le	DET	_
 même	même	ADJ	_
 pied	pied	NC	_
 ,	,	PONCT	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 la	le	DET	_
 perte	perte	NC	_
 qui	qui	PROREL	_
@@ -81976,7 +82169,7 @@ confier	confier	VINF	_
 à	à	P	_
 d'	un	DET	_
 autres	autre	NC	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 à	à	P	_
 ses	son	DET	_
 agens	agent	NC	_
@@ -81998,7 +82191,7 @@ poudre	poudre	NC	_
 à	à	P	_
 canon	canon	NC	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 :	:	PONCT	_
 cependant	cependant	ADV	_
 le	le	DET	_
@@ -82472,7 +82665,7 @@ de	de	P	_
 tout	tout	ADJ	_
 le	le	DET	_
 prix	prix	NC	_
-auquel	auquel	PROREL	_
+auquel	à_lequel	PROREL	_
 il	il	CLS	_
 vend	vendre	V	_
 ses	son	DET	_
@@ -82593,7 +82786,7 @@ sont	être	V	_
 d'	de	P	_
 autant	autant	ADV	_
 plus	plus	ADV	_
-brillans	brillant	ADJ	_
+brillans	briller	ADJ	_
 que	que	CS	_
 ,	,	PONCT	_
 de	de	P	_
@@ -83031,7 +83224,8 @@ plus	plus	ADV	_
 marquée	marquer	VPP	_
 encore	encore	ADV	_
 ,	,	PONCT	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 à	à	P	_
 la	le	DET	_
 sûreté	sûreté	NC	_
@@ -83074,7 +83268,7 @@ dans	dans	P	_
 l'	le	DET	_
 intérêt	intérêt	NC	_
 de	de	P	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 .	.	PONCT	_
 J'	je	CLS	_
 ai	avoir	V	_
@@ -83206,7 +83400,7 @@ nation	nation	NC	_
 pour	pour	P	_
 les	il	CLO	_
 embrasser	embrasser	VINF	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 ,	,	PONCT	_
 mais	mais	CC	_
 sans	sans	P	_
@@ -83663,7 +83857,7 @@ qu'	que	CS	_
 auparavant	auparavant	ADV	_
 il	il	CLS	_
 fût	être	V	_
-complétement	complétement	ADV	_
+complétement	complètement	ADV	_
 inhabité	inhabité	ADJ	_
 ,	,	PONCT	_
 soit	soit	CC	_
@@ -83824,7 +84018,7 @@ la	le	DET	_
 plus	plus	ADV	_
 grande	grand	ADJ	_
 de	de	P	_
-toutes	tous	PRO	_
+toutes	tout	PRO	_
 ,	,	PONCT	_
 c'est-à-dire	c'est-à-dire	CC	_
 le	le	DET	_
@@ -84133,7 +84327,7 @@ grandes	grand	ADJ	_
 la	le	DET	_
 vie	vie	NC	_
 agricole	agricole	ADJ	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 ils	il	CLS	_
 sont	être	V	_
 n	n	NC	_
@@ -84147,7 +84341,7 @@ la	le	DET	_
 plus	plus	ADV	_
 économique	économique	ADJ	_
 de	de	P	_
-toutes	tous	PRO	_
+toutes	tout	PRO	_
 ;	;	PONCT	_
 enfin	enfin	ADV	_
 leur	leur	DET	_
@@ -84715,7 +84909,7 @@ de	de	P	_
 cette	ce	DET	_
 odieuse	odieux	ADJ	_
 pratique	pratique	NC	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 en	en	P	_
 prouvant	prouver	VPR	_
 qu'	que	CS	_
@@ -84827,7 +85021,7 @@ son	son	DET	_
 maître	maître	NC	_
 à	à	P	_
 des	un	DET	_
-remplacemens	remplacemens	NC	_
+remplacemens	remplacement	NC	_
 coûteux	coûteux	ADJ	_
 ;	;	PONCT	_
 enfin	enfin	ADV	_
@@ -84842,7 +85036,8 @@ son	son	DET	_
 propre	propre	ADJ	_
 entretien	entretien	NC	_
 ,	,	PONCT	_
-tandis_que	tandis_que	CS	_
+tandis	tandis	ADV	_
+que	que	CS	_
 le	le	DET	_
 maître	maître	NC	_
 a	avoir	V	_
@@ -84960,7 +85155,8 @@ dix	dix	NC	_
 pour	pour	P	_
 cent	cent	NC	_
 ,	,	PONCT	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 il	il	CLS	_
 est	être	V	_
 viager	viager	ADJ	_
@@ -85083,7 +85279,7 @@ francs	franc	NC	_
 Le	le	DET	_
 simple	simple	ADJ	_
 raisonnement	raisonnement	NC	_
-indique	indique	ADJ	_
+indique	indiquer	ADJ	_
 que	que	CS	_
 la	le	DET	_
 consommation	consommation	NC	_
@@ -85147,7 +85343,7 @@ nourriture	nourriture	NC	_
 ,	,	PONCT	_
 du	de_le	P+D	_
 manioc	manioc	NC	_
-auquel	auquel	PROREL	_
+auquel	à_lequel	PROREL	_
 on	on	CLS	_
 ajoute	ajouter	V	_
 de	de	P	_
@@ -85574,7 +85770,7 @@ marché	marché	NC	_
 Ce	ce	CLS	_
 n'	ne	ADV	_
 est	être	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 à	à	P	_
 la	le	DET	_
 faveur	faveur	NC	_
@@ -85742,11 +85938,11 @@ d'	de	P	_
 éloges	éloge	NC	_
 (	(	PONCT	_
 *	*	PONCT	_
-M	M	NC	_
+M	monsieur	NC	_
 Steel	Steel	NP	_
 ,	,	PONCT	_
 *	*	PONCT	_
-M	M	NC	_
+M	monsieur	NC	_
 Nottingham	Nottingham	NP	_
 )	)	PONCT	_
 ,	,	PONCT	_
@@ -86296,7 +86492,7 @@ où	où	PROREL	_
 règnent	régner	V	_
 des	un	DET	_
 principes	principe	NC	_
-lus	lu	ADJ	_
+plus	plus	ADV	_
 libéraux	libéral	ADJ	_
 ;	;	PONCT	_
 principes	principe	NC	_
@@ -86534,7 +86730,7 @@ elle	il	CLS	_
 ne	ne	ADV	_
 peut	pouvoir	V	_
 durer	durer	VINF	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 avec	avec	P	_
 le	le	DET	_
 secours	secours	NC	_
@@ -87249,7 +87445,7 @@ n'	ne	ADV	_
 est	être	V	_
 point	point	ADV	_
 ce	ce	PRO	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 elle	il	CLS	_
 doit	devoir	V	_
 être	être	VINF	_
@@ -87297,7 +87493,8 @@ grandes	grand	ADJ	_
 entreprises	entreprise	NC	_
 maritimes	maritime	ADJ	_
 ,	,	PONCT	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 elles	il	CLS	_
 sont	être	V	_
 trop	trop	ADV	_
@@ -87328,7 +87525,9 @@ accès	accès	NC	_
 des	de_le	P+D	_
 pays	pays	NC	_
 d'	de	P	_
-outre-mer	outre-mer	NC	_
+outre	outre	ADV	_
+-	-	PONCT	_
+mer	mer	P	_
 ,	,	PONCT	_
 et	et	CC	_
 à	à	P	_
@@ -87396,7 +87595,7 @@ désirer	désirer	VINF	_
 qu'	que	CS	_
 ils	il	CLS	_
 soient	être	V	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 indépendans	indépendant	ADJ	_
 ,	,	PONCT	_
 pour	pour	P	_
@@ -87970,7 +88169,8 @@ guerre	guerre	NC	_
 d'	de	P	_
 espagne	Espagne	NP	_
 ,	,	PONCT	_
-tandis_que	tandis_que	CS	_
+tandis	tandis	ADV	_
+que	que	CS	_
 ,	,	PONCT	_
 toute	tout	DET	_
 proportion	proportion	NC	_
@@ -88107,7 +88307,7 @@ culture	culture	NC	_
 ,	,	PONCT	_
 même	même	ADV	_
 les	il	CLO	_
-épiceries	épicer	V	_
+épiceries	épicerie	V	_
 des	de_le	P+D	_
 *	*	X	_
 Moluques	Moluques	NP	_
@@ -88143,10 +88343,10 @@ celui	celui	PRO	_
 que	que	PROREL	_
 les	le	DET	_
 hollandais	hollandais	NC	_
-fesaient	fesaient	ADJ	_
+fesaient	faire	ADJ	_
 de	de	P	_
 ces	ce	DET	_
-épiceries	épiceries	NC	_
+épiceries	épicerie	NC	_
 .	.	PONCT	_
 Ils	il	CLS	_
 possdaient	possdaient	V	_
@@ -88246,7 +88446,7 @@ le	le	DET	_
 plus	plus	ADV	_
 favorable	favorable	ADJ	_
 de	de	P	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 au	à_le	P+D	_
 système	système	NC	_
 colonial	colonial	ADJ	_
@@ -88290,7 +88490,7 @@ accaparée	accaparer	VPP	_
 comme	comme	P	_
 celle	celui	PRO	_
 des	de_le	P+D	_
-épiceries	épicer	V	_
+épiceries	épicerie	V	_
 ;	;	PONCT	_
 et	et	CC	_
 encore	encore	ADV	_
@@ -88314,7 +88514,7 @@ férir	férir	VINF	_
 Les	le	DET	_
 anciens	ancien	NC	_
 se	se	CLO	_
-fesaient	fesaient	V	_
+fesaient	faire	V	_
 ,	,	PONCT	_
 par	par	P	_
 leurs	leur	DET	_
@@ -88483,7 +88683,8 @@ modération	modération	NC	_
 des	de_le	P+D	_
 gouvernans	gouvernant	NC	_
 ,	,	PONCT	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 ils	il	CLS	_
 sont	être	V	_
 hommes	homme	NC	_
@@ -88500,7 +88701,7 @@ lumières	lumière	NC	_
 par	par	P	_
 la	le	DET	_
 raison	raison	NC	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 une	un	DET	_
 multitude	multitude	NC	_
 d'	de	P	_
@@ -88820,7 +89021,7 @@ son	son	DET	_
 argent	argent	NC	_
 ,	,	PONCT	_
 et	et	CC	_
-fesaient	fesaient	V	_
+fesaient	faire	V	_
 un	un	DET	_
 profit	profit	NC	_
 égal	égal	ADJ	_
@@ -88902,7 +89103,7 @@ on	on	CLS	_
 s'	se	CLO	_
 est	être	V	_
 imaginé	imaginer	VPP	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 on	on	CLS	_
 devait	devoir	V	_
 l'	il	CLO	_
@@ -89348,7 +89549,7 @@ des	de_le	P+D	_
 étrangers	étranger	NC	_
 qu'	que	PROREL	_
 elles	il	CLS	_
-fesaient	fesaient	V	_
+fesaient	faire	V	_
 dépenser	dépenser	VINF	_
 ,	,	PONCT	_
 c'	ce	CLS	_
@@ -89564,7 +89765,7 @@ Brandebourg	Brandebourg	NP	_
 ,	,	PONCT	_
 on	on	CLS	_
 ne	ne	ADV	_
-fesait	fesait	V	_
+fesait	faire	V	_
 dans	dans	P	_
 ce	ce	DET	_
 pays	pays	NC	_
@@ -89618,7 +89819,7 @@ fâcheuse	fâcheux	ADJ	_
 pour	pour	P	_
 la	le	DET	_
 patrie	patrie	NC	_
-abandonnée	abandonnée	ADJ	_
+abandonnée	abandonné	ADJ	_
 .	.	PONCT	_
 La	le	DET	_
 reine	reine	NC	_
@@ -90104,7 +90305,9 @@ produit	produire	V	_
 en	en	P	_
 un	un	DET	_
 seulgenre	seulgenre	NC	_
-au-delà	au-delà	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+delà	delà	ADV	_
 de	de	P	_
 ses	son	DET	_
 besoins	besoin	NC	_
@@ -90212,7 +90415,7 @@ société	société	NC	_
 n'	ne	ADV	_
 est	être	V	_
 consommée	consommer	VPP	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 à	à	P	_
 la	le	DET	_
 suite	suite	NC	_
@@ -90247,7 +90450,7 @@ Ils	il	CLS	_
 n'	ne	ADV	_
 y	y	CLO	_
 figurent	figurer	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 accessoirement	accessoirement	ADV	_
 ;	;	PONCT	_
 tellement	tellement	ADV	_
@@ -90407,7 +90610,8 @@ nombre	nombre	NC	_
 de	de	P	_
 genres	genre	NC	_
 ,	,	PONCT	_
-tandis_qu'	tandis_que	CS	_
+tandis	tandis	ADV	_
+qu'	que	CS	_
 ils	il	CLS	_
 sont	être	V	_
 consommateurs	consommateur	ADJ	_
@@ -90669,7 +90873,8 @@ de	de	P	_
 ses	son	DET	_
 couteaux	couteau	NC	_
 ,	,	PONCT	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 l'	le	DET	_
 expérience	expérience	NC	_
 lui	il	CLO	_
@@ -90829,7 +91034,8 @@ pourra	pouvoir	V	_
 avoir	avoir	VINF	_
 besoin	besoin	NC	_
 ;	;	PONCT	_
-tandis_que	tandis_que	CS	_
+tandis	tandis	ADV	_
+que	que	CS	_
 s'	si	CS	_
 il	il	CLS	_
 est	être	V	_
@@ -90969,7 +91175,8 @@ contre	contre	P	_
 du	de_le	P+D	_
 numéraire	numéraire	NC	_
 ,	,	PONCT	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 ,	,	PONCT	_
 outre	outre	P	_
 le	le	DET	_
@@ -91014,7 +91221,8 @@ vendu	vendre	VPP	_
 ;	;	PONCT	_
 et	et	CC	_
 ensuite	ensuite	ADV	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 on	on	CLS	_
 peut	pouvoir	V	_
 à	à	P	_
@@ -91213,7 +91421,7 @@ de	de	P	_
 la	le	DET	_
 toile	toile	NC	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 ;	;	PONCT	_
 mais	mais	CC	_
 ni	ni	CC	_
@@ -91452,7 +91660,7 @@ des	un	DET	_
 Si	si	CS	_
 ,	,	PONCT	_
 en	en	P	_
-fesant	fesant	VPR	_
+fesant	faire	VPR	_
 un	un	DET	_
 marché	marché	NC	_
 ,	,	PONCT	_
@@ -91530,7 +91738,8 @@ C'	ce	CLS	_
 est	être	V	_
 donc	donc	ADV	_
 uniquement	uniquement	ADV	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 on	on	CLS	_
 sait	savoir	V	_
 par	par	P	_
@@ -91856,7 +92065,8 @@ la	le	DET	_
 nature	nature	NC	_
 desmonnaies	desmonnaies	ADJ	_
 .	.	PONCT	_
-Afin_d'	afin_de	P	_
+Afin	afin	ADV	_
+d'	de	P	_
 entourer	entourer	VINF	_
 de	de	P	_
 clarté	clarté	NC	_
@@ -91937,7 +92147,7 @@ et	et	CC	_
 la	le	DET	_
 nature	nature	NC	_
 des	de_le	P+D	_
-dérangemens	dérangemens	NC	_
+dérangemens	dérangement	NC	_
 qu'	que	PROREL	_
 y	y	CLO	_
 apportent	apporter	V	_
@@ -92346,7 +92556,7 @@ ne	ne	ADV	_
 puisse	pouvoir	V	_
 l'	il	CLO	_
 échanger	échanger	VINF	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 en	en	P	_
 transportant	transporter	VPR	_
 des	un	DET	_
@@ -92396,7 +92606,7 @@ Outre	outre	P	_
 beaucoup	beaucoup	PRO	_
 d'	de	P	_
 inconvéniens	inconvénient	NC	_
-auxquels	auquel	PROREL	_
+auxquels	à_lequel	PROREL	_
 ces	ce	DET	_
 matières	matière	NC	_
 sont	être	V	_
@@ -93009,7 +93219,7 @@ plupart	plupart	NC	_
 des	de_le	P+D	_
 marchandises	marchandise	NC	_
 ,	,	PONCT	_
-échappe	échappe	NC	_
+échappe	échapper	V	_
 aux	à_le	P+D	_
 sens	sens	NC	_
 par	par	P	_
@@ -93377,7 +93587,7 @@ La	le	DET	_
 monnaie	monnaie	NC	_
 n'	ne	ADV	_
 étant	être	VPR	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 un	un	DET	_
 instrument	instrument	NC	_
 qui	qui	PROREL	_
@@ -93651,7 +93861,8 @@ marchandises	marchandise	NC	_
 à	à	P	_
 vendre	vendre	VINF	_
 ,	,	PONCT	_
-tandis_qu'	tandis_que	CS	_
+tandis	tandis	ADV	_
+qu'	que	CS	_
 on	on	CLS	_
 offrirait	offrir	V	_
 ,	,	PONCT	_
@@ -93882,7 +94093,7 @@ monnaies	monnaie	NC	_
 ,	,	PONCT	_
 en	en	P	_
 y	y	CLO	_
-fesant	fesant	VPR	_
+fesant	faire	VPR	_
 les	le	DET	_
 corrections	correction	NC	_
 nécessaires	nécessaire	ADJ	_
@@ -94084,7 +94295,9 @@ des	de_le	P+D	_
 monnaies	monnaie	NC	_
 s'	se	CLO	_
 élèverait	élever	V	_
-au-dessus	au-dessus	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 des	de_le	P+D	_
 frais	frais	NC	_
 de	de	P	_
@@ -94232,7 +94445,8 @@ aux	à_le	P+D	_
 pièces	pièce	NC	_
 ,	,	PONCT	_
 que	que	CS	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 la	le	DET	_
 fraude	fraude	NC	_
 serait	être	V	_
@@ -94553,7 +94767,7 @@ anglais	anglais	ADJ	_
 par	par	P	_
 conséquent	conséquent	NC	_
 ,	,	PONCT	_
-fesait	fesait	V	_
+fesait	faire	V	_
 supporter	supporter	VINF	_
 à	à	P	_
 ses	son	DET	_
@@ -94566,7 +94780,7 @@ fabrication	fabrication	NC	_
 et	et	CC	_
 ne	ne	ADV	_
 les	le	DET	_
-fesait	fesait	NC	_
+fesait	faire	NC	_
 pas	pas	ADV	_
 jouir	jouir	VINF	_
 de	de	P	_
@@ -94860,7 +95074,7 @@ n'	ne	ADV	_
 est	être	V	_
 autre	autre	ADJ	_
 chose	chose	NC	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 un	un	DET	_
 manufacturier	manufacturier	NC	_
 .	.	PONCT	_
@@ -95177,7 +95391,7 @@ d'	de	P	_
 argent	argent	NC	_
 monnayé	monnayer	VPP	_
 le	le	DET	_
-fesant	fesant	NC	_
+fesant	faire	NC	_
 plus	plus	ADV	_
 vivement	vivement	ADV	_
 rechercher	rechercher	VINF	_
@@ -95638,7 +95852,7 @@ et	et	CC	_
 si	si	ADV	_
 fidèle	fidèle	ADJ	_
 ,	,	PONCT	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 elles	il	CLS	_
 ont	avoir	V	_
 cours	cour	NC	_
@@ -95879,7 +96093,7 @@ employât	employer	V	_
 à	à	P	_
 l'	le	DET	_
 usage	usage	NC	_
-auquel	auquel	PROREL	_
+auquel	à_lequel	PROREL	_
 le	le	DET	_
 gouvernement	gouvernement	NC	_
 avait	avoir	V	_
@@ -95917,7 +96131,9 @@ Il	il	CLS	_
 fallait	falloir	V	_
 laisser	laisser	VINF	_
 porter	porter	VINF	_
-au-dehors	au-dehors	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dehors	dehors	ADV	_
 la	le	DET	_
 valeur	valeur	NC	_
 ,	,	PONCT	_
@@ -95937,7 +96153,9 @@ gros	gros	ADJ	_
 retours	retour	NC	_
 ;	;	PONCT	_
 et	et	CC	_
-là-dessus	là-dessus	ADV	_
+là	là	ADV	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 on	on	CLS	_
 pouvait	pouvoir	V	_
 s'	se	CLO	_
@@ -96443,7 +96661,9 @@ pièces	pièce	NC	_
 monnayées	monnayer	VPP	_
 ne	ne	ADV	_
 tombent	tomber	V	_
-au-dessous	au-dessous	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessous	dessous	ADV	_
 de	de	P	_
 la	le	DET	_
 valeur	valeur	NC	_
@@ -96550,7 +96770,9 @@ argent	argent	NC	_
 ne	ne	ADV	_
 tombe	tomber	V	_
 jamais	jamais	ADV	_
-au-dessous	au-dessous	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessous	dessous	ADV	_
 de	de	P	_
 la	le	DET	_
 valeur	valeur	NC	_
@@ -96582,7 +96804,9 @@ ne	ne	ADV	_
 s'	se	CLO	_
 élève	élever	V	_
 guère	guère	ADV	_
-au-dessus	au-dessus	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 ,	,	PONCT	_
 nous	nous	CLS	_
 conclurons	conclure	V	_
@@ -97127,7 +97351,9 @@ Si	si	CS	_
 leur	leur	DET	_
 valeur	valeur	NC	_
 baisse	baisser	V	_
-au-dessous	au-dessous	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessous	dessous	ADV	_
 de	de	P	_
 celle	celui	PRO	_
 de	de	P	_
@@ -97301,7 +97527,8 @@ des	de_le	P+D	_
 unités	unité	NC	_
 monétaires	monétaire	ADJ	_
 ,	,	PONCT	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 ils	il	CLS	_
 satisfont	satisfaire	V	_
 aux	à_le	P+D	_
@@ -97337,7 +97564,8 @@ conserve	conserver	V	_
 aucune	aucun	DET	_
 valeur	valeur	NC	_
 ,	,	PONCT	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 si	si	CS	_
 l'on	on	CLS	_
 voulait	vouloir	V	_
@@ -98303,7 +98531,7 @@ en	en	P	_
 or	or	NC	_
 les	le	DET	_
 paiemens	payement	NC	_
-auxquels	auquel	PROREL	_
+auxquels	à_lequel	PROREL	_
 on	on	CLS	_
 était	être	V	_
 engagé	engager	VPP	_
@@ -98503,7 +98731,8 @@ préférence	préférence	NC	_
 l'	le	DET	_
 or	or	NC	_
 ,	,	PONCT	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 en	en	P	_
 orient	orient	NC	_
 il	il	CLS	_
@@ -98616,7 +98845,7 @@ et	et	CC	_
 l'on	on	CLS	_
 perdait	perdre	V	_
 en	en	P	_
-fesant	fesant	NC	_
+fesant	faire	NC	_
 des	de_le	P+D	_
 paiemens	payement	NC	_
 en	en	P	_
@@ -98655,7 +98884,7 @@ tous	tout	ADJ	_
 les	le	DET	_
 paiemens	payement	NC	_
 se	se	CLO	_
-fesaient	fesaient	V	_
+fesaient	faire	V	_
 en	en	P	_
 or	or	NC	_
 .	.	PONCT	_
@@ -98669,7 +98898,8 @@ qu'	que	CS	_
 en	en	P	_
 papier	papier	NC	_
 ,	,	PONCT	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 une	un	DET	_
 livre	livre	NC	_
 sterling	sterling	ADJ	_
@@ -99018,10 +99248,12 @@ les	le	DET	_
 mains	main	NC	_
 du	de_le	P+D	_
 public	public	NC	_
-au-delà	au-delà	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+delà	delà	ADV	_
 de	de	P	_
 ce	ce	PRO	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 en	en	CLO	_
 réclament	réclamer	V	_
 les	le	DET	_
@@ -99251,7 +99483,7 @@ les	le	DET	_
 monnaies	monnaie	NC	_
 valent	valoir	V	_
 ,	,	PONCT	_
-fesaient	fesaient	V	_
+fesaient	faire	V	_
 leur	leur	DET	_
 prix	prix	NC	_
 en	en	P	_
@@ -99469,7 +99701,8 @@ par	par	P	_
 lui	il	PRO	_
 -même	même	ADJ	_
 ,	,	PONCT	_
-tandis_que	tandis_que	CS	_
+tandis	tandis	ADV	_
+que	que	CS	_
 la	le	DET	_
 monnaie	monnaie	NC	_
 de	de	P	_
@@ -99571,7 +99804,7 @@ conserveraient	conserver	V	_
 leur	leur	DET	_
 valeur	valeur	NC	_
 aussi	aussi	ADV	_
-complétement	complétement	ADV	_
+complétement	complètement	ADV	_
 que	que	CS	_
 si	si	CS	_
 elles	il	CLS	_
@@ -100472,7 +100705,8 @@ augmentation	augmentation	NC	_
 des	de_le	P+D	_
 monnaies	monnaie	NC	_
 ,	,	PONCT	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 une	un	DET	_
 telle	tel	ADJ	_
 opération	opération	NC	_
@@ -100643,7 +100877,8 @@ de	de	P	_
 ce	ce	DET	_
 métal	métal	NC	_
 .	.	PONCT	_
-Tandis_que	tandis_que	CS	_
+Tandis	tandis	ADV	_
+que	que	CS	_
 le	le	DET	_
 roi	roi	NC	_
 recevait	recevoir	V	_
@@ -101248,7 +101483,7 @@ marchands	marchand	NC	_
 ;	;	PONCT	_
 ce	ce	PRO	_
 qui	qui	PROREL	_
-fesait	fesait	V	_
+fesait	faire	V	_
 ,	,	PONCT	_
 ajoute	ajouter	V	_
 l'	le	DET	_
@@ -101843,7 +102078,7 @@ des	un	DET	_
 ressources	ressource	NC	_
 factices	factice	ADJ	_
 et	et	CC	_
-malfesantes	malfesantes	ADJ	_
+malfesantes	malfaisant	ADJ	_
 ,	,	PONCT	_
 mais	mais	CC	_
 des	un	DET	_
@@ -102171,7 +102406,8 @@ qu'	que	PROREL	_
 elle	il	CLS	_
 devait	devoir	V	_
 .	.	PONCT	_
-Quant_aux	quant_à_le	P+D	_
+quant	quant	ADV	_
+aux	à_le	P+D	_
 particuliers	particulier	NC	_
 ,	,	PONCT	_
 leurs	leur	DET	_
@@ -102326,7 +102562,7 @@ quart	quart	NC	_
 de	de	P	_
 moitié	moitié	NC	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 Distinguons	Distinguons	NP	_
 .	.	PONCT	_
 Des	un	DET	_
@@ -102338,7 +102574,8 @@ créancier	créancier	NC	_
 supporte	supporter	V	_
 la	le	DET	_
 perte	perte	NC	_
-quant_aux	quant_à_le	P+D	_
+quant	quant	ADV	_
+aux	à_le	P+D	_
 achats	achat	NC	_
 qu'	que	PROREL	_
 il	il	CLS	_
@@ -102374,7 +102611,8 @@ même	même	ADV	_
 pour	pour	P	_
 lui	il	PRO	_
 .	.	PONCT	_
-Quant_aux	quant_à_le	P+D	_
+quant	quant	ADV	_
+aux	à_le	P+D	_
 créanciers	créancier	NC	_
 qu'	que	PROREL	_
 il	il	CLS	_
@@ -102796,7 +103034,7 @@ ou	ou	CC	_
 qui	qui	PROREL	_
 ne	ne	ADV	_
 stipule	stipuler	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 un	un	DET	_
 remboursement	remboursement	NC	_
 illusoire	illusoire	ADJ	_
@@ -103380,7 +103618,7 @@ près	près	ADV	_
 au	à_le	P+D	_
 même	même	ADV	_
 taux	taux	NC	_
-auquel	auquel	PROREL	_
+auquel	à_lequel	PROREL	_
 il	il	CLS	_
 l'	il	CLO	_
 a	avoir	V	_
@@ -103440,7 +103678,7 @@ très	très	ADV	_
 -	-	PONCT	_
 favorable	favorable	ADJ	_
 aux	à_le	P+D	_
-développemens	développemens	NC	_
+développemens	développement	NC	_
 de	de	P	_
 l'	le	DET	_
 industrie	industrie	NC	_
@@ -103457,7 +103695,7 @@ la	le	DET	_
 régence	régence	NC	_
 ,	,	PONCT	_
 furent	être	V	_
-brillans	brillant	ADJ	_
+brillans	briller	ADJ	_
 ;	;	PONCT	_
 on	on	CLS	_
 en	en	CLO	_
@@ -103665,7 +103903,7 @@ point	point	NC	_
 de	de	P	_
 l'	il	CLO	_
 avilir	avilir	VINF	_
-complétement	complétement	ADV	_
+complétement	complètement	ADV	_
 .	.	PONCT	_
 Les	le	DET	_
 gouvernemens	gouvernement	NC	_
@@ -103781,7 +104019,7 @@ reçue	recevoir	VPP	_
 à	à	P	_
 Paris	Paris	NP	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 "	"	PONCT	_
 la	le	DET	_
 banque	banque	NC	_
@@ -103790,7 +104028,7 @@ qui	qui	PROREL	_
 n'	ne	ADV	_
 était	être	V	_
 encore	encore	ADV	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 une	un	DET	_
 entreprise	entreprise	NC	_
 particulière	particulier	ADJ	_
@@ -103887,7 +104125,7 @@ reçue	recevoir	VPP	_
 à	à	P	_
 Paris	Paris	NP	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 "	"	PONCT	_
 ce	ce	DET	_
 changement	changement	NC	_
@@ -104116,7 +104354,8 @@ peu	peu	NC	_
 plus	plus	ADV	_
 tard	tard	ADV	_
 ;	;	PONCT	_
-tandis_que	tandis_que	CS	_
+tandis	tandis	ADV	_
+que	que	CS	_
 les	le	DET	_
 assignats	assignat	NC	_
 ne	ne	ADV	_
@@ -104215,7 +104454,8 @@ celle	celui	PRO	_
 des	de_le	P+D	_
 assignats	assignat	NC	_
 ,	,	PONCT	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 leur	leur	DET	_
 prix	prix	NC	_
 nominal	nominal	ADJ	_
@@ -104393,7 +104633,7 @@ de	de	P	_
 cent	cent	DET	_
 francs	franc	NC	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 Or	Or	NP	_
 ,	,	PONCT	_
 que	que	PROREL	_
@@ -104700,7 +104940,8 @@ aussi	aussi	ADV	_
 forte	fort	ADJ	_
 dépréciation	dépréciation	NC	_
 ,	,	PONCT	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 il	il	CLS	_
 fut	être	V	_
 émis	émettre	VPP	_
@@ -104823,7 +105064,7 @@ or	or	NC	_
 ils	il	CLS	_
 n'	ne	ADV	_
 eurent	avoir	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 à	à	P	_
 en	en	CLO	_
 diminuer	diminuer	VINF	_
@@ -105006,7 +105247,8 @@ les	il	CLO	_
 acquittaient	acquitter	V	_
 aisément	aisément	ADV	_
 ,	,	PONCT	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 les	le	DET	_
 denrées	denrée	NC	_
 ,	,	PONCT	_
@@ -105450,7 +105692,7 @@ sur	sur	P	_
 le	le	DET	_
 même	même	ADJ	_
 pied	pied	NC	_
-auquel	auquel	PROREL	_
+auquel	à_lequel	PROREL	_
 ils	il	CLS	_
 avaient	avoir	V	_
 été	être	VPP	_
@@ -105720,7 +105962,9 @@ ne	ne	ADV	_
 pourrait	pouvoir	V	_
 pas	pas	ADV	_
 tomber	tomber	VINF	_
-au-dessous	au-dessous	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessous	dessous	ADV	_
 de	de	P	_
 la	le	DET	_
 valeur	valeur	NC	_
@@ -105761,7 +106005,8 @@ conversion	conversion	NC	_
 en	en	P	_
 métal	métal	NC	_
 ,	,	PONCT	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 des	un	DET	_
 lingots	lingot	NC	_
 ne	ne	ADV	_
@@ -105781,7 +106026,7 @@ défiance	défiance	NC	_
 ,	,	PONCT	_
 on	on	CLS	_
 se	se	CLO	_
-fesait	fesait	V	_
+fesait	faire	V	_
 trop	trop	ADV	_
 rembourser	rembourser	VINF	_
 de	de	P	_
@@ -106129,7 +106374,7 @@ argent	argent	NC	_
 Outre	outre	P	_
 les	le	DET	_
 accidens	accident	NC	_
-auquels	auquel	PROREL	_
+auquels	à_lequel	PROREL	_
 les	il	CLO	_
 expose	exposer	V	_
 l'	le	DET	_
@@ -106159,10 +106404,10 @@ prévoir	prévoir	VINF	_
 ni	ni	CC	_
 prévenir	prévenir	VINF	_
 ...	…	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 "	"	PONCT	_
 *	*	X	_
-M	M	NC	_
+M	monsieur	NC	_
 Th	Th	NP	_
 Tooke	Tooke	NP	_
 ,	,	PONCT	_
@@ -106509,7 +106754,7 @@ n'	ne	ADV	_
 a	avoir	V	_
 de	un	DET	_
 valeur	valeur	NC	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 en	en	P	_
 vertu	vertu	NC	_
 de	de	P	_
@@ -106531,7 +106776,8 @@ de	de	P	_
 payer	payer	VINF	_
 .	.	PONCT	_
 Mais	mais	CC	_
-quant_à	quant_à	P	_
+quant	quant	ADV	_
+à	à	P	_
 la	le	DET	_
 monnaie	monnaie	NC	_
 d'	de	P	_
@@ -106671,7 +106917,7 @@ la	le	DET	_
 valeur	valeur	NC	_
 totale	total	ADJ	_
 de	de	P	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 es	être	V	_
 autres	autre	ADJ	_
 biens	bien	NC	_
@@ -107139,7 +107385,8 @@ invariable	invariable	ADJ	_
 et	et	CC	_
 connu	connaître	VPP	_
 ,	,	PONCT	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 il	il	CLS	_
 n'	ne	ADV	_
 y	y	CLO	_
@@ -107281,7 +107528,8 @@ de	de	P	_
 véritables	véritable	ADJ	_
 mesures	mesure	NC	_
 ,	,	PONCT	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 elles	il	CLS	_
 présentent	présenter	V	_
 toujours	toujours	ADV	_
@@ -107615,7 +107863,7 @@ on	on	CLS	_
 ne	ne	ADV	_
 fait	faire	V	_
 encore	encore	ADV	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 évaluer	évaluer	VINF	_
 le	le	DET	_
 rapport	rapport	NC	_
@@ -107713,7 +107961,8 @@ des	de_le	P+D	_
 deux	deux	ADJ	_
 maisons	maison	NC	_
 ,	,	PONCT	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 l'	le	DET	_
 esprit	esprit	NC	_
 saisit	saisir	V	_
@@ -107909,7 +108158,8 @@ d'	de	P	_
 à	à	P	_
 présent	présent	NC	_
 ,	,	PONCT	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 la	le	DET	_
 valeur	valeur	NC	_
 des	de_le	P+D	_
@@ -108056,7 +108306,8 @@ l'	le	DET	_
 économie	économie	NC	_
 politique	politique	ADJ	_
 ,	,	PONCT	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 il	il	CLS	_
 n'	ne	ADV	_
 y	y	CLO	_
@@ -108087,7 +108338,7 @@ composée	composer	VPP	_
 ,	,	PONCT	_
 n'	ne	ADV	_
 est	être	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 une	un	DET	_
 marchandise	marchandise	NC	_
 dont	dont	PROREL	_
@@ -108273,7 +108524,8 @@ de	un	DET	_
 bonnes	bon	ADJ	_
 raisons	raison	NC	_
 ,	,	PONCT	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 il	il	CLS	_
 y	y	CLO	_
 en	en	CLO	_
@@ -108283,7 +108535,7 @@ et	et	CC	_
 non	non	ADV	_
 des	un	DET	_
 traits	trait	NC	_
-brillans	brillant	ADJ	_
+brillans	briller	ADJ	_
 qui	qui	PROREL	_
 trompent	tromper	V	_
 et	et	CC	_
@@ -108427,7 +108679,7 @@ Smith	Smith	NP	_
 ,	,	PONCT	_
 de	de	P	_
 ce	ce	PRO	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 une	un	DET	_
 certaine	certain	ADJ	_
 quantité	quantité	NC	_
@@ -108645,7 +108897,8 @@ varie	varier	V	_
 le	le	DET	_
 plus	plus	NC	_
 ,	,	PONCT	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 il	il	CLS	_
 est	être	V	_
 ,	,	PONCT	_
@@ -108724,12 +108977,13 @@ mesure	mesure	NC	_
 des	de_le	P+D	_
 valeurs	valeur	NC	_
 ,	,	PONCT	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 il	il	CLS	_
 faudrait	falloir	V	_
 pour	pour	P	_
 cela	cela	PRO	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 il	il	CLS	_
 y	y	CLO	_
 eût	avoir	V	_
@@ -108860,11 +109114,12 @@ soie	soie	NC	_
 par	par	P	_
 exemple	exemple	NC	_
 ,	,	PONCT	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 cette	ce	DET	_
 marchandise	marchandise	NC	_
 ,	,	PONCT	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 on	on	CLS	_
 était	être	V	_
 obligé	obliger	VPP	_
@@ -109088,7 +109343,8 @@ n'	ne	ADV	_
 en	en	CLO	_
 vois	voir	V	_
 point	point	ADV	_
-en_outre	en_outre	ADV	_
+en	en	P	_
+outre	outre	P	_
 dont	dont	PROREL	_
 les	le	DET	_
 frais	frais	NC	_
@@ -109265,7 +109521,9 @@ n'	ne	ADV	_
 est	être	V	_
 pas	pas	ADV	_
 fort	fort	ADV	_
-au-dessous	au-dessous	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessous	dessous	ADV	_
 de	de	P	_
 celui	celui	PRO	_
 où	où	PROREL	_
@@ -109393,7 +109651,8 @@ des	un	DET	_
 époques	époque	NC	_
 différentes	différent	ADJ	_
 .	.	PONCT	_
-Quant_à	quant_à	P	_
+Quant	quant	ADV	_
+à	à	P	_
 leur	leur	DET	_
 estimation	estimation	NC	_
 en	en	P	_
@@ -109764,7 +110023,7 @@ vendra	vendre	V	_
 une	un	DET	_
 once	once	NC	_
 et	et	CC	_
-demie	demie	NC	_
+demie	demi	ADJ	_
 d'	de	P	_
 argent	argent	NC	_
 .	.	PONCT	_
@@ -109920,7 +110179,9 @@ il	il	CLS	_
 n'	ne	ADV	_
 est	être	V	_
 question	question	NC	_
-là-dedans	là-dedans	ADV	_
+là	là	ADV	_
+-	-	PONCT	_
+dedans	dedans	ADV	_
 que	que	CS	_
 de	de	P	_
 comparer	comparer	VINF	_
@@ -110044,7 +110305,8 @@ monnaie	monnaie	NC	_
 ,	,	PONCT	_
 c'	ce	CLS	_
 est	être	V	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 la	le	DET	_
 valeur	valeur	NC	_
 d'	de	P	_
@@ -110111,7 +110373,8 @@ qu'	que	PROREL	_
 elle	il	CLS	_
 est	être	V	_
 ,	,	PONCT	_
-tandis_que	tandis_que	CS	_
+tandis	tandis	ADV	_
+que	que	CS	_
 la	le	DET	_
 cultivation	cultivation	NC	_
 de	de	P	_
@@ -110516,7 +110779,7 @@ s'	se	CLO	_
 retiré	retirer	VPP	_
 à	à	P	_
 *	*	X	_
-égine	égine	NP	_
+égine	Égine	NP	_
 ,	,	PONCT	_
 y	y	CLO	_
 déploya	déployer	V	_
@@ -110629,7 +110892,8 @@ fort	fort	ADV	_
 cher	cher	ADJ	_
 ,	,	PONCT	_
 et	et	CC	_
-tandis_qu'	tandis_que	CS	_
+tandis	tandis	ADV	_
+qu'	que	CS	_
 il	il	CLS	_
 se	se	CLO	_
 vendait	vendre	V	_
@@ -111207,7 +111471,8 @@ donnerait	donner	V	_
 le	le	DET	_
 prix	prix	NC	_
 ,	,	PONCT	_
-afin_de	afin_de	P	_
+afin	afin	ADV	_
+de	de	P	_
 connaître	connaître	VINF	_
 son	son	DET	_
 rapport	rapport	NC	_
@@ -111602,7 +111867,8 @@ graduellement	graduellement	ADV	_
 de	de	P	_
 leur	leur	DET	_
 prix	prix	NC	_
-tandis_que	tandis_que	CS	_
+tandis	tandis	ADV	_
+que	que	CS	_
 l'	le	DET	_
 économe	économe	ADJ	_
 surintendant	surintendant	NC	_
@@ -111721,7 +111987,7 @@ que	que	CS	_
 la	le	DET	_
 guerre	guerre	NC	_
 se	se	CLO	_
-fesait	fesait	V	_
+fesait	faire	V	_
 alors	alors	ADV	_
 bien	bien	ADV	_
 différemment	différemment	ADV	_
@@ -111899,7 +112165,9 @@ permit	permettre	V	_
 pas	pas	ADV	_
 de	de	P	_
 payer	payer	VINF	_
-au-delà	au-delà	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+delà	delà	ADV	_
 de	de	P	_
 six	six	DET	_
 mois	mois	NC	_
@@ -112797,7 +113065,7 @@ de	de	P	_
 présenter	présenter	VINF	_
 des	un	DET	_
 quantités	quantité	NC	_
-pondérantes	pondérantes	ADJ	_
+pondérantes	pondérant	ADJ	_
 ,	,	PONCT	_
 fixes	fixe	ADJ	_
 depuis	depuis	P	_
@@ -113126,7 +113394,7 @@ que	que	CS	_
 pour	pour	P	_
 les	il	CLO	_
 épurer	épurer	VINF	_
-complétement	complétement	ADV	_
+complétement	complètement	ADV	_
 ,	,	PONCT	_
 il	il	CLS	_
 faudrait	falloir	V	_
@@ -113343,7 +113611,7 @@ en	en	P	_
 argent	argent	NC	_
 ,	,	PONCT	_
 seraient	être	V	_
-toutes	tous	PRO	_
+toutes	tout	PRO	_
 des	de_le	P+D	_
 multiples	multiple	NC	_
 ou	ou	CC	_
@@ -113398,7 +113666,7 @@ ne	ne	ADV	_
 pourrait	pouvoir	V	_
 être	être	VINF	_
 soldée	solder	VPP	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 en	en	P	_
 pièces	pièce	NC	_
 frappées	frapper	VPP	_
@@ -113410,7 +113678,8 @@ stipulation	stipulation	NC	_
 contraire	contraire	ADJ	_
 )	)	PONCT	_
 ,	,	PONCT	_
-afin_que	afin_que	CS	_
+afin	afin	ADV	_
+que	que	CS	_
 le	le	DET	_
 débiteur	débiteur	NC	_
 ne	ne	ADV	_
@@ -113444,13 +113713,14 @@ rendue	rendre	VPP	_
 une	un	DET	_
 fois	fois	NC	_
 pour	pour	P	_
-toutes	tous	PRO	_
+toutes	tout	PRO	_
 ,	,	PONCT	_
 et	et	CC	_
 qui	qui	PROREL	_
 pourrait	pouvoir	V	_
 porter	porter	VINF	_
-en_outre	en_outre	ADV	_
+en	en	P	_
+outre	outre	P	_
 que	que	CS	_
 les	le	DET	_
 mots	mot	NC	_
@@ -113518,7 +113788,7 @@ les	le	DET	_
 lingots	lingot	NC	_
 des	de_le	P+D	_
 particuliers	particulier	NC	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 autant	autant	ADV	_
 qu'	que	CS	_
 on	on	CLS	_
@@ -113553,7 +113823,7 @@ fabriquer	fabriquer	VINF	_
 Rien	rien	PRO	_
 n'	ne	ADV	_
 empêcherait	empêcher	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 à	à	P	_
 l'	le	DET	_
 empreinte	empreinte	NC	_
@@ -113660,7 +113930,8 @@ vain	vain	NC	_
 la	il	CLO	_
 fixer	fixer	VINF	_
 .	.	PONCT	_
-Quant_aux	quant_à_le	P+D	_
+quant	quant	ADV	_
+aux	à_le	P+D	_
 obligations	obligation	NC	_
 ,	,	PONCT	_
 elles	il	CLS	_
@@ -113895,7 +114166,8 @@ cette	ce	DET	_
 monnaie	monnaie	NC	_
 ,	,	PONCT	_
 seulement	seulement	ADV	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 elle	il	CLS	_
 contint	contenir	V	_
 toujours	toujours	ADV	_
@@ -114412,7 +114684,8 @@ par	par	P	_
 le	le	DET	_
 législateur	législateur	NC	_
 ,	,	PONCT	_
-tandis_qu'	tandis_que	CS	_
+tandis	tandis	ADV	_
+qu'	que	CS	_
 une	un	DET	_
 mesure	mesure	NC	_
 fondée	fondé	ADJ	_
@@ -114509,7 +114782,8 @@ a	avoir	V	_
 été	être	VPP	_
 rejetée	rejeter	VPP	_
 ,	,	PONCT	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 elle	il	CLS	_
 est	être	V	_
 trop	trop	ADV	_
@@ -114606,7 +114880,8 @@ plutôt	plutôt	ADV	_
 qu'	que	CS	_
 étendues	étendu	ADJ	_
 .	.	PONCT	_
-Quant_à	quant_à	P	_
+Quant	quant	ADV	_
+à	à	P	_
 l'	le	DET	_
 empreinte	empreinte	NC	_
 ,	,	PONCT	_
@@ -114621,7 +114896,7 @@ qualités	qualité	NC	_
 la	le	DET	_
 première	première	NC	_
 de	de	P	_
-toutes	tous	PRO	_
+toutes	tout	PRO	_
 est	être	V	_
 de	de	P	_
 constater	constater	VINF	_
@@ -114648,10 +114923,11 @@ très	très	ADV	_
 -	-	PONCT	_
 intelligible	intelligible	ADJ	_
 ,	,	PONCT	_
-afin_que	afin_que	CS	_
+afin	afin	ADV	_
+que	que	CS	_
 les	le	DET	_
 plus	plus	ADV	_
-ignorans	ignorant	ADJ	_
+ignorans	ignorer	ADJ	_
 puissent	pouvoir	V	_
 comprendre	comprendre	VINF	_
 ce	ce	PRO	_
@@ -115059,7 +115335,7 @@ l'	il	CLO	_
 Ce	ce	CLS	_
 n'	ne	ADV	_
 est	être	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 après	après	P	_
 aoir	aoir	NC	_
 circulé	circuler	VPP	_
@@ -115182,7 +115458,7 @@ achète	acheter	V	_
 moins	moins	ADV	_
 de	de	P	_
 marchandises	marchandise	NC	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 une	un	DET	_
 monnaie	monnaie	NC	_
 neuve	neuf	ADJ	_
@@ -115590,7 +115866,9 @@ ne	ne	ADV	_
 les	il	CLO	_
 estima	estimer	V	_
 pas	pas	ADV	_
-au-dessous	au-dessous	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessous	dessous	ADV	_
 de	de	P	_
 ce	ce	PRO	_
 qu'	que	PROREL	_
@@ -115601,7 +115879,9 @@ intrinsèquement	intrinsèquement	ADV	_
 mais	mais	CC	_
 les	il	CLO	_
 estima	estimer	V	_
-au-dessous	au-dessous	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessous	dessous	ADV	_
 de	de	P	_
 la	le	DET	_
 valeur	valeur	NC	_
@@ -115946,7 +116226,7 @@ de	de	P	_
 tout	tout	ADJ	_
 le	le	DET	_
 prix	prix	NC	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 il	il	CLS	_
 paie	payer	V	_
 à	à	P	_
@@ -116474,7 +116754,7 @@ livre	livre	NC	_
 sterling	sterling	ADJ	_
 ne	ne	ADV	_
 contienne	contenir	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 autant	autant	ADV	_
 d'	de	P	_
 argent	argent	NC	_
@@ -116808,7 +117088,7 @@ change	change	NC	_
 sur	sur	P	_
 une	un	DET	_
 ville	ville	NC	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 autant	autant	ADV	_
 que	que	CS	_
 la	le	DET	_
@@ -117268,7 +117548,7 @@ envers	envers	P	_
 un	un	DET	_
 autre	autre	NC	_
 ,	,	PONCT	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 en	en	P	_
 lui	il	CLO	_
 envoyant	envoyer	VPR	_
@@ -117660,7 +117940,7 @@ basé	baser	VPP	_
 sur	sur	P	_
 le	le	DET	_
 parti	parti	NC	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 en	en	P	_
 peut	pouvoir	V	_
 tirer	tirer	VINF	_
@@ -117854,7 +118134,7 @@ peut	pouvoir	V	_
 donner	donner	VINF	_
 en	en	P	_
 échange	échange	NC	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 une	un	DET	_
 monnaie	monnaie	NC	_
 courante	courant	ADJ	_
@@ -117879,7 +118159,7 @@ contre	contre	P	_
 la	le	DET	_
 monnaie	monnaie	NC	_
 étrangère	étranger	ADJ	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 avec	avec	P	_
 désavantage	désavantage	NC	_
 .	.	PONCT	_
@@ -118429,7 +118709,9 @@ monnaie	monnaie	NC	_
 de	de	P	_
 banque	banque	NC	_
 a	avoir	V	_
-par-dessus	par-dessus	P	_
+par	par	S	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 l'	le	DET	_
 autre	autre	NC	_
 .	.	PONCT	_
@@ -119301,7 +119583,8 @@ de	de	P	_
 change	change	NC	_
 ,	,	PONCT	_
 précisément	précisément	ADV	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 elle	il	CLS	_
 les	il	CLO	_
 a	avoir	V	_
@@ -119857,7 +120140,7 @@ cette	ce	DET	_
 somme	somme	NC	_
 de	de	P	_
 billets	billet	NC	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 une	un	DET	_
 obligation	obligation	NC	_
 très	très	ADV	_
@@ -119926,7 +120209,7 @@ Pour	pour	P	_
 pouvoir	pouvoir	VINF	_
 es	être	V	_
 acquitter	acquitter	VINF	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 ,	,	PONCT	_
 il	il	CLS	_
 lui	il	CLO	_
@@ -120107,7 +120390,7 @@ tels	tel	ADJ	_
 billets	billet	NC	_
 ,	,	PONCT	_
 la	le	DET	_
-meilleure	meilleure	NC	_
+meilleure	meilleur	NC	_
 de	de	P	_
 toutes	tout	ADJ	_
 les	le	DET	_
@@ -120177,7 +120460,7 @@ qu'	que	PROREL	_
 on	on	CLS	_
 négocie	négocier	V	_
 en	en	P	_
-fesant	fesant	VPR	_
+fesant	faire	VPR	_
 le	le	DET	_
 sacrifice	sacrifice	NC	_
 de	de	P	_
@@ -120229,7 +120512,7 @@ escompte	escompte	NC	_
 ,	,	PONCT	_
 n'	ne	ADV	_
 est	être	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 un	un	DET	_
 moyen	moyen	NC	_
 de	de	P	_
@@ -120253,7 +120536,7 @@ second	second	NC	_
 ,	,	PONCT	_
 du	de_le	P+D	_
 second	second	NC	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 avec	avec	P	_
 un	un	DET	_
 troisième	troisième	NC	_
@@ -120265,13 +120548,13 @@ suite	suite	NC	_
 .	.	PONCT	_
 Un	un	DET	_
 engagement	engagement	NC	_
-auquel	auquel	PROREL	_
+auquel	à_lequel	PROREL	_
 l'	le	DET	_
 engagé	engagé	NC	_
 ne	ne	ADV	_
 peut	pouvoir	V	_
 satisfaire	satisfaire	VINF	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 en	en	P	_
 le	il	CLO	_
 renouvelant	renouveler	VPR	_
@@ -120817,7 +121100,7 @@ ou	ou	CC	_
 qui	qui	PROREL	_
 n'	ne	ADV	_
 a	avoir	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 un	un	DET	_
 contrôle	contrôle	NC	_
 illusoire	illusoire	ADJ	_
@@ -120991,7 +121274,7 @@ circulation	circulation	NC	_
 et	et	CC	_
 ne	ne	ADV	_
 forme	former	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 une	un	DET	_
 médiocre	médiocre	ADJ	_
 portion	portion	NC	_
@@ -121002,7 +121285,8 @@ d'	de	P	_
 une	un	DET	_
 nation	nation	NC	_
 .	.	PONCT	_
-Quant_à	quant_à	P	_
+Quant	quant	ADV	_
+à	à	P	_
 la	le	DET	_
 somme	somme	NC	_
 qu'	que	PROREL	_
@@ -121028,7 +121312,7 @@ n'	ne	ADV	_
 en	en	CLO	_
 peut	pouvoir	V	_
 remplacer	remplacer	VINF	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 une	un	DET	_
 assez	assez	ADV	_
 faible	faible	ADJ	_
@@ -121215,7 +121499,7 @@ ne	ne	ADV	_
 peut	pouvoir	V	_
 se	se	CLO	_
 soutenir	soutenir	VINF	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 autant	autant	ADV	_
 qu'	que	CS	_
 il	il	CLS	_
@@ -121359,7 +121643,9 @@ billets	billet	NC	_
 qu'	que	PROREL	_
 elles	il	CLS	_
 émettent	émettre	V	_
-au-delà	au-delà	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+delà	delà	ADV	_
 de	de	P	_
 la	le	DET	_
 somme	somme	NC	_
@@ -121594,7 +121880,7 @@ monnaie	monnaie	NC	_
 ,	,	PONCT	_
 la	le	DET	_
 remplaçant	remplacer	VPR	_
-complétement	complétement	ADV	_
+complétement	complètement	ADV	_
 jusqu'	jusque	P	_
 à	à	P	_
 concurrence	concurrence	NC	_
@@ -121967,7 +122253,7 @@ la	le	DET	_
 production	production	NC	_
 .	.	PONCT	_
 Les	le	DET	_
-développemens	développemens	NC	_
+développemens	développement	NC	_
 que	que	PROREL	_
 j'	je	CLS	_
 y	y	CLO	_
@@ -122073,7 +122359,8 @@ froment	froment	NC	_
 c'	ce	CLS	_
 est	être	V	_
 uniquement	uniquement	ADV	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 l'	le	DET	_
 habitude	habitude	NC	_
 d'	de	P	_
@@ -122227,7 +122514,8 @@ dans	dans	P	_
 sa	son	DET	_
 quantité	quantité	NC	_
 ,	,	PONCT	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 l'	le	DET	_
 évaluation	évaluation	NC	_
 peut	pouvoir	V	_
@@ -122514,7 +122802,9 @@ elle	il	CLS	_
 l'	il	CLO	_
 a	avoir	V	_
 payée	payer	VPP	_
-au-delà	au-delà	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+delà	delà	ADV	_
 de	de	P	_
 sa	son	DET	_
 valeur	valeur	NC	_
@@ -122709,7 +122999,8 @@ pour	pour	P	_
 un	un	DET	_
 lapon	lapon	NC	_
 ,	,	PONCT	_
-tandis_que	tandis_que	CS	_
+tandis	tandis	ADV	_
+que	que	CS	_
 le	le	DET	_
 nom	nom	NC	_
 même	même	ADV	_
@@ -122763,7 +123054,8 @@ du	de_le	P+D	_
 corps	corps	NC	_
 social	social	ADJ	_
 ;	;	PONCT	_
-tandis_que	tandis_que	CS	_
+tandis	tandis	ADV	_
+que	que	CS	_
 les	le	DET	_
 habitans	habitant	NC	_
 indigènes	indigène	ADJ	_
@@ -122847,7 +123139,8 @@ des	de_le	P+D	_
 richesses	richesse	NC	_
 naturelles	naturel	ADJ	_
 ,	,	PONCT	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 la	le	DET	_
 nature	nature	NC	_
 seule	seul	ADJ	_
@@ -122862,7 +123155,7 @@ les	il	CLO	_
 donne	donner	V	_
 indifféremment	indifféremment	ADV	_
 à	à	P	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 ,	,	PONCT	_
 personne	personne	PRO	_
 n'	ne	ADV	_
@@ -122987,7 +123280,8 @@ une	un	DET	_
 étude	étude	NC	_
 scientifique	scientifique	ADJ	_
 ,	,	PONCT	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 ce	ce	CLS	_
 sont	être	V	_
 les	le	DET	_
@@ -123201,7 +123495,7 @@ dont	dont	PROREL	_
 ils	il	CLS	_
 ont	avoir	V	_
 envie	envie	NC	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 en	en	P	_
 offrant	offrir	VPR	_
 d'	un	DET	_
@@ -123281,7 +123575,7 @@ consommateur	consommateur	NC	_
 ne	ne	ADV	_
 peut	pouvoir	V	_
 acheter	acheter	VINF	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 une	un	DET	_
 quantité	quantité	NC	_
 de	de	P	_
@@ -123334,7 +123628,7 @@ nation	nation	NC	_
 ne	ne	ADV	_
 peut	pouvoir	V	_
 consommer	consommer	VINF	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 en	en	P	_
 proportion	proportion	NC	_
 de	de	P	_
@@ -123475,7 +123769,7 @@ besoins	besoin	NC	_
 pour	pour	P	_
 satisfaire	satisfaire	VINF	_
 ceux	celui	PRO	_
-auxquels	auquel	PROREL	_
+auxquels	à_lequel	PROREL	_
 ils	il	CLS	_
 attachent	attacher	V	_
 plus	plus	ADV	_
@@ -123485,7 +123779,7 @@ importance	importance	NC	_
 préférablement	préférablement	ADV	_
 à	à	P	_
 ceux	celui	PRO	_
-auxquels	auquel	PROREL	_
+auxquels	à_lequel	PROREL	_
 ils	il	CLS	_
 en	en	CLO	_
 attachent	attacher	V	_
@@ -123685,7 +123979,7 @@ modifiée	modifier	VPP	_
 par	par	P	_
 le	le	DET	_
 prix	prix	NC	_
-auquel	auquel	PROREL	_
+auquel	à_lequel	PROREL	_
 il	il	CLS	_
 peut	pouvoir	V	_
 être	être	VINF	_
@@ -123839,7 +124133,7 @@ produits	produit	NC	_
 ,	,	PONCT	_
 qui	qui	PROREL	_
 sont	être	V	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 désirables	désirable	ADJ	_
 pour	pour	P	_
 la	le	DET	_
@@ -123917,7 +124211,8 @@ plus	plus	ADV	_
 bas	bas	ADJ	_
 prix	prix	NC	_
 ,	,	PONCT	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 alors	alors	ADV	_
 ils	il	CLS	_
 se	se	CLO	_
@@ -123991,7 +124286,7 @@ tricotée	tricoter	VPP	_
 qui	qui	PROREL	_
 ne	ne	ADV	_
 reviennent	revenir	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 à	à	P	_
 six	six	DET	_
 francs	franc	NC	_
@@ -124003,7 +124298,7 @@ que	que	CS	_
 tous	tout	ADJ	_
 les	le	DET	_
 gens	gens	NC	_
-auxquels	auquel	PROREL	_
+auxquels	à_lequel	PROREL	_
 il	il	CLS	_
 restera	rester	V	_
 six	six	DET	_
@@ -124038,7 +124333,7 @@ achèteront	acheter	V	_
 .	.	PONCT	_
 Mais	mais	CC	_
 ceux	celui	PRO	_
-auxquels	auquel	PROREL	_
+auxquels	à_lequel	PROREL	_
 ,	,	PONCT	_
 quand	quand	CS	_
 tous	tout	ADJ	_
@@ -124112,7 +124407,7 @@ qui	qui	PROREL	_
 jadis	jadis	ADV	_
 n'	ne	ADV	_
 étaient	être	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 à	à	P	_
 l'	le	DET	_
 usage	usage	NC	_
@@ -124439,7 +124734,9 @@ où	où	PROREL	_
 les	le	DET	_
 souliers	soulier	NC	_
 sont	être	V	_
-au-dessus	au-dessus	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 de	de	P	_
 la	le	DET	_
 portée	portée	NC	_
@@ -124467,7 +124764,9 @@ peuple	peuple	NC	_
 ce	ce	DET	_
 niveau	niveau	NC	_
 est	être	V	_
-au-dessous	au-dessous	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessous	dessous	ADV	_
 des	un	DET	_
 frais	frais	NC	_
 de	de	P	_
@@ -124563,7 +124862,7 @@ varie	varier	V	_
 suivant	suivant	P	_
 le	le	DET	_
 prix	prix	NC	_
-auquel	auquel	PROREL	_
+auquel	à_lequel	PROREL	_
 elle	il	CLS	_
 peut	pouvoir	V	_
 être	être	VINF	_
@@ -124597,7 +124896,8 @@ se	se	CLO	_
 la	il	CLO	_
 procurer	procurer	VINF	_
 .	.	PONCT	_
-Quant_à	quant_à	P	_
+Quant	quant	ADV	_
+à	à	P	_
 la	le	DET	_
 quantité	quantité	NC	_
 offerte	offrir	VPP	_
@@ -124677,7 +124977,7 @@ serait	être	V	_
 dans	dans	P	_
 la	le	DET	_
 circulation	circulation	NC	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 au	à_le	P+D	_
 moment	moment	NC	_
 où	où	PROREL	_
@@ -124731,7 +125031,7 @@ marché	marché	NC	_
 Ce	ce	CLS	_
 n'	ne	ADV	_
 est	être	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 un	un	DET	_
 détail	détail	NC	_
 d'	de	P	_
@@ -125089,7 +125389,8 @@ baissent	baisser	V	_
 de	de	P	_
 prix	prix	NC	_
 ,	,	PONCT	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 ils	il	CLS	_
 sont	être	V	_
 plus	plus	ADV	_
@@ -125214,7 +125515,9 @@ produits	produit	NC	_
 existans	existant	ADJ	_
 s'	se	CLO	_
 élèvent	élever	V	_
-au-dessus	au-dessus	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 des	de_le	P+D	_
 frais	frais	NC	_
 qu'	que	PROREL	_
@@ -125310,7 +125613,9 @@ un	un	DET	_
 produit	produit	NC	_
 est	être	V	_
 payé	payer	VPP	_
-au-delà	au-delà	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+delà	delà	ADV	_
 de	de	P	_
 son	son	DET	_
 utilité	utilité	NC	_
@@ -125790,7 +126095,7 @@ lorsqu'	lorsque	CS	_
 il	il	CLS	_
 ne	ne	ADV	_
 fournit	fournir	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 un	un	DET	_
 travail	travail	NC	_
 médiocre	médiocre	ADJ	_
@@ -126216,7 +126521,7 @@ homme	homme	NC	_
 ,	,	PONCT	_
 dit	dire	V	_
 *	*	PONCT	_
-M	M	NC	_
+M	monsieur	NC	_
 Mac	Mac	NP	_
 -	-	PONCT	_
 Culloch	Culloch	NP	_
@@ -126545,7 +126850,8 @@ population	population	NC	_
 des	de_le	P+D	_
 états	état	NC	_
 .	.	PONCT	_
-Quant_aux	quant_à_le	P+D	_
+quant	quant	ADV	_
+aux	à_le	P+D	_
 richesses	richesse	NC	_
 que	que	CS	_
 les	le	DET	_
@@ -127343,7 +127649,7 @@ cochenille	cochenille	NC	_
 Dans	dans	P	_
 tous	tout	ADJ	_
 ces	ce	DET	_
-perfectionnemens	perfectionnemens	NC	_
+perfectionnemens	perfectionnement	NC	_
 et	et	CC	_
 dans	dans	P	_
 tous	tout	ADJ	_
@@ -127777,11 +128083,11 @@ obligé	obliger	VPP	_
 d'	de	P	_
 en	en	CLO	_
 vendre	vendre	VINF	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 une	un	DET	_
 livre	livre	NC	_
 et	et	CC	_
-demie	demie	NC	_
+demie	demi	ADJ	_
 ;	;	PONCT	_
 il	il	CLS	_
 n'	ne	ADV	_
@@ -127851,7 +128157,7 @@ sucre	sucre	NC	_
 ne	ne	ADV	_
 coûte	coûter	V	_
 plus	plus	ADV	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 un	un	DET	_
 franc	franc	NC	_
 au	à_le	P+D	_
@@ -128291,7 +128597,7 @@ les	le	DET	_
 frais	frais	NC	_
 de	de	P	_
 production	production	NC	_
-indique	indique	ADJ	_
+indique	indiquer	ADJ	_
 toujours	toujours	ADV	_
 qu'	que	CS	_
 il	il	CLS	_
@@ -128372,7 +128678,9 @@ tomber	tomber	VINF	_
 le	le	DET	_
 prix	prix	NC	_
 courant	courant	ADJ	_
-au-dessous	au-dessous	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessous	dessous	ADV	_
 des	un	DET	_
 frais	frais	NC	_
 de	de	P	_
@@ -128437,7 +128745,7 @@ fallu	falloir	VPP	_
 la	le	DET	_
 suite	suite	NC	_
 des	de_le	P+D	_
-perfectionnemens	perfectionnemens	NC	_
+perfectionnemens	perfectionnement	NC	_
 qui	qui	PROREL	_
 ont	avoir	V	_
 accru	accroître	VPP	_
@@ -128808,7 +129116,7 @@ y	y	CLO	_
 en	en	CLO	_
 aurait	avoir	V	_
 plus	plus	ADV	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 une	un	PRO	_
 qui	qui	PROREL	_
 vaudrait	valoir	V	_
@@ -129236,7 +129544,9 @@ cher	cher	ADJ	_
 .	.	PONCT	_
 Nous	nous	CLS	_
 trouvons	trouver	V	_
-là-dedans	là-dedans	ADV	_
+là	là	ADV	_
+-	-	PONCT	_
+dedans	dedans	ADV	_
 l'	le	DET	_
 explication	explication	NC	_
 et	et	CC	_
@@ -129502,7 +129812,7 @@ richesses	richesse	NC	_
 on	on	CLS	_
 les	il	CLO	_
 aurait	avoir	V	_
-toutes	tous	PRO	_
+toutes	tout	PRO	_
 formées	former	VPP	_
 .	.	PONCT	_
 Quoiqu'	quoique	CS	_
@@ -130094,7 +130404,7 @@ négocians	négociant	NC	_
 qui	qui	PROREL	_
 auront	avoir	V	_
 des	un	DET	_
-approvisionnemens	approvisionnemens	NC	_
+approvisionnemens	approvisionnement	NC	_
 faits	faire	VPP	_
 aux	à_le	P+D	_
 prix	prix	NC	_
@@ -130425,7 +130735,8 @@ argent	argent	NC	_
 c'	ce	CLS	_
 est	être	V	_
 probablement	probablement	ADV	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 cent	cent	DET	_
 grammes	gramme	NC	_
 d'	de	P	_
@@ -130974,7 +131285,7 @@ au	à_le	P+D	_
 moyen-âge	moyen-âge	NC	_
 :	:	PONCT	_
 *	*	X	_
-Charlemagne	charlemagne	NC	_
+Charlemagne	Charlemagne	NC	_
 fit	faire	V	_
 un	un	DET	_
 réglement	règlement	NC	_
@@ -130987,7 +131298,9 @@ le	le	DET	_
 modius	modius	NC	_
 de	de	P	_
 blé	blé	NC	_
-au-dessus	au-dessus	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 de	de	P	_
 quatre	quatre	DET	_
 deniers	denier	NC	_
@@ -131528,7 +131841,7 @@ sans	sans	P	_
 être	être	VINF	_
 retrouvé	retrouver	VPP	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 ,	,	PONCT	_
 peut	pouvoir	V	_
 -on	on	CLS	_
@@ -131743,7 +132056,8 @@ et	et	CC	_
 leur	leur	DET	_
 gouvernement	gouvernement	NC	_
 ,	,	PONCT	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 ils	il	CLS	_
 en	en	CLO	_
 tirèrent	tirer	V	_
@@ -131912,7 +132226,7 @@ hectolitre	hectolitre	NC	_
 de	de	P	_
 froment	froment	NC	_
 se	se	CLO	_
-fesait	fesait	V	_
+fesait	faire	V	_
 payer	payer	VINF	_
 731	731	DET	_
 grains	grain	NC	_
@@ -132472,7 +132786,7 @@ pareil	pareil	ADJ	_
 l'	le	DET	_
 égard	égard	NC	_
 des	de_le	P+D	_
-épiceries	épicer	V	_
+épiceries	épicerie	V	_
 ,	,	PONCT	_
 que	que	CS	_
 nous	nous	CLS	_
@@ -132488,7 +132802,7 @@ meilleur	meilleur	ADJ	_
 marché	marché	NC	_
 que	que	CS	_
 ne	ne	ADV	_
-fesaient	fesaient	V	_
+fesaient	faire	V	_
 les	le	DET	_
 anciens	ancien	NC	_
 .	.	PONCT	_
@@ -132802,7 +133116,8 @@ est	être	V	_
 je	je	CLS	_
 crois	croire	V	_
 ,	,	PONCT	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 ces	ce	DET	_
 auteurs	auteur	NC	_
 méconnaissaient	méconnaître	V	_
@@ -132818,7 +133133,7 @@ est	être	V	_
 point	point	ADV	_
 ,	,	PONCT	_
 ainsi	ainsi	ADV	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 ils	il	CLS	_
 l'	il	CLO	_
 imaginaient	imaginer	V	_
@@ -132938,7 +133253,7 @@ mines	mine	NC	_
 et	et	CC	_
 les	le	DET	_
 grands	grand	ADJ	_
-développemens	développemens	NC	_
+développemens	développement	NC	_
 de	de	P	_
 l'	le	DET	_
 industrie	industrie	NC	_
@@ -132980,7 +133295,7 @@ brutes	brut	ADJ	_
 que	que	PROREL	_
 les	le	DET	_
 mêmes	même	NC	_
-développemens	développemens	NC	_
+développemens	développement	NC	_
 auraient	avoir	V	_
 probablement	probablement	ADV	_
 eu	avoir	VPP	_
@@ -134218,7 +134533,8 @@ le	le	DET	_
 gouvernement	gouvernement	NC	_
 espagnol	espagnol	ADJ	_
 ,	,	PONCT	_
-tandis_qu'	tandis_que	CS	_
+tandis	tandis	ADV	_
+qu'	que	CS	_
 il	il	CLS	_
 dominait	dominer	V	_
 encore	encore	ADV	_
@@ -134363,7 +134679,7 @@ nous	nous	CLO	_
 fournir	fournir	VINF	_
 nos	notre	DET	_
 principaux	principal	ADJ	_
-approvisionnemens	approvisionnemens	NC	_
+approvisionnemens	approvisionnement	NC	_
 de	de	P	_
 métaux	métal	NC	_
 précieux	précieux	ADJ	_
@@ -134430,7 +134746,8 @@ et	et	CC	_
 d'	de	P	_
 argent	argent	NC	_
 ,	,	PONCT	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 les	le	DET	_
 procédés	procédé	NC	_
 pour	pour	P	_
@@ -134444,7 +134761,8 @@ eux	il	PRO	_
 plus	plus	ADV	_
 perfectionnés	perfectionner	VPP	_
 ,	,	PONCT	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 ils	il	CLS	_
 auront	avoir	V	_
 besoin	besoin	NC	_
@@ -134504,7 +134822,7 @@ ces	ce	DET	_
 troubles	trouble	NC	_
 n'	ne	ADV	_
 ont	avoir	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 un	un	DET	_
 temps	temps	NC	_
 ;	;	PONCT	_
@@ -134891,7 +135209,8 @@ nul	nul	DET	_
 autre	autre	NC	_
 .	.	PONCT	_
 Et	et	CC	_
-quant_à	quant_à	P	_
+quant	quant	ADV	_
+à	à	P	_
 ses	son	DET	_
 capitaux	capital	NC	_
 ,	,	PONCT	_
@@ -135073,7 +135392,7 @@ productives	productif	ADJ	_
 ,	,	PONCT	_
 n'	ne	ADV	_
 est	être	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 une	un	DET	_
 avance	avance	NC	_
 .	.	PONCT	_
@@ -135267,7 +135586,8 @@ peut	pouvoir	V	_
 tirr	tirr	ADV	_
 .	.	PONCT	_
 Et	et	CC	_
-quant_aux	quant_à_le	P+D	_
+quant	quant	ADV	_
+aux	à_le	P+D	_
 fonds	fond	NC	_
 inaliénables	inaliénable	ADJ	_
 ,	,	PONCT	_
@@ -136495,7 +136815,8 @@ satisfaire	satisfaire	VINF	_
 mes	mon	DET	_
 besoins	besoin	NC	_
 ;	;	PONCT	_
-tandis_que	tandis_que	CS	_
+tandis	tandis	ADV	_
+que	que	CS	_
 si	si	CS	_
 je	je	CLS	_
 suis	être	V	_
@@ -136578,7 +136899,8 @@ pour	pour	P	_
 les	le	DET	_
 autres	autre	NC	_
 .	.	PONCT	_
-Quant_au	quant_à_le	P+D	_
+Quant	quant	ADV	_
+au	à_le	P+D	_
 revenu	revenir	VPP	_
 général	général	ADJ	_
 de	de	P	_
@@ -136654,11 +136976,11 @@ on	on	CLS	_
 ne	ne	ADV	_
 pouvait	pouvoir	V	_
 exécuter	exécuter	VINF	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 en	en	P	_
 quatre	quatre	NC	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 ,	,	PONCT	_
 dès	dès	P	_
 ce	ce	DET	_
@@ -136930,7 +137252,7 @@ a	avoir	V	_
 pu	pouvoir	VPP	_
 les	il	CLO	_
 obtenir	obtenir	VINF	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 au	à_le	P+D	_
 prix	prix	NC	_
 d'	de	P	_
@@ -137000,7 +137322,7 @@ consommation	consommation	NC	_
 qui	qui	PROREL	_
 n'	ne	ADV	_
 est	être	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 une	un	DET	_
 espèce	espèce	NC	_
 d'	de	P	_
@@ -137755,7 +138077,7 @@ moins	moins	ADV	_
 suivant	suivant	P	_
 divers	divers	DET	_
 motifs	motif	NC	_
-auxquels	auquel	PROREL	_
+auxquels	à_lequel	PROREL	_
 nous	nous	CLS	_
 remonterons	remonter	V	_
 dans	dans	P	_
@@ -138105,7 +138427,7 @@ cadran	cadran	NC	_
 le	le	DET	_
 cristal	cristal	NC	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 ;	;	PONCT	_
 et	et	CC	_
 ,	,	PONCT	_
@@ -138898,7 +139220,7 @@ faites	faire	VPP	_
 avec	avec	P	_
 l'	le	DET	_
 entrepreneur	entrepreneur	NC	_
-auquel	auquel	PROREL	_
+auquel	à_lequel	PROREL	_
 ils	il	CLS	_
 ont	avoir	V	_
 prêté	prêter	VPP	_
@@ -139024,7 +139346,7 @@ profit	profit	NC	_
 ne	ne	ADV	_
 s'	se	CLO	_
 élève	élever	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 à	à	P	_
 une	un	DET	_
 portion	portion	NC	_
@@ -139033,7 +139355,7 @@ la	le	DET	_
 valeur	valeur	NC	_
 du	de_le	P+D	_
 produit	produit	NC	_
-auquel	auquel	PROREL	_
+auquel	à_lequel	PROREL	_
 j'	je	CLS	_
 ai	avoir	V	_
 concouru	concourir	VPP	_
@@ -139314,7 +139636,7 @@ ne	ne	ADV	_
 peut	pouvoir	V	_
 s'	se	CLO	_
 appliquer	appliquer	VINF	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 aux	à_le	P+D	_
 revenus	revenu	NC	_
 de	de	P	_
@@ -139431,7 +139753,7 @@ ne	ne	ADV	_
 s'	se	CLO	_
 imagine	imaginer	V	_
 pas	pas	ADV	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 un	un	DET	_
 revenu	revenu	NC	_
 ,	,	PONCT	_
@@ -139447,13 +139769,15 @@ pas	pas	ADV	_
 un	un	DET	_
 revenu	revenu	NC	_
 ,	,	PONCT	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 il	il	CLS	_
 a	avoir	V	_
 été	être	VPP	_
 consommé	consommer	VPP	_
 ,	,	PONCT	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 il	il	CLS	_
 a	avoir	V	_
 subi	subir	VPP	_
@@ -139809,7 +140133,7 @@ la	le	DET	_
 terre	terre	NC	_
 ne	ne	ADV	_
 formaient	former	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 une	un	DET	_
 seule	seul	ADJ	_
 nation	nation	NC	_
@@ -140208,7 +140532,8 @@ monnaie	monnaie	NC	_
 cette	ce	DET	_
 évaluation	évaluation	NC	_
 que	que	ADV	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 nous	nous	CLS	_
 sommes	être	V	_
 habitués	habituer	VPP	_
@@ -140307,7 +140632,8 @@ de	de	P	_
 l'	le	DET	_
 année	année	NC	_
 ,	,	PONCT	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 elle	il	CLS	_
 n'	ne	ADV	_
 est	être	V	_
@@ -140338,7 +140664,7 @@ année	année	NC	_
 passée	passer	VPP	_
 ,	,	PONCT	_
 la	le	DET	_
-précédente	précédente	NC	_
+précédente	précédent	NC	_
 ,	,	PONCT	_
 le	le	DET	_
 siècle	siècle	NC	_
@@ -141148,7 +141474,8 @@ convenaient	convenir	V	_
 nos	notre	DET	_
 besoins	besoin	NC	_
 .	.	PONCT	_
-Quant_au	quant_à_le	P+D	_
+Quant	quant	ADV	_
+au	à_le	P+D	_
 producteur	producteur	NC	_
 qui	qui	PROREL	_
 crée	créer	V	_
@@ -141506,7 +141833,7 @@ invasion	invasion	NC	_
 ,	,	PONCT	_
 d'	de	P	_
 un	un	DET	_
-siége	siége	NC	_
+siége	siège	NC	_
 .	.	PONCT	_
 L'	le	DET	_
 influence	influence	NC	_
@@ -141736,7 +142063,9 @@ le	le	DET	_
 prix	prix	NC	_
 courant	courant	ADJ	_
 fort	fort	ADV	_
-au-dessus	au-dessus	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 du	de_le	P+D	_
 prix	prix	NC	_
 naturel	naturel	ADJ	_
@@ -141756,7 +142085,9 @@ le	le	DET	_
 fait	fait	NC	_
 tomber	tomber	VINF	_
 fort	fort	ADV	_
-au-dessous	au-dessous	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessous	dessous	ADV	_
 ;	;	PONCT	_
 les	le	DET	_
 superfluités	superfluité	NC	_
@@ -142207,7 +142538,8 @@ de	un	DET	_
 grandes	grand	ADJ	_
 maisons	maison	NC	_
 ,	,	PONCT	_
-tandis_qu'	tandis_que	CS	_
+tandis	tandis	ADV	_
+qu'	que	CS	_
 il	il	CLS	_
 n'	ne	ADV	_
 est	être	V	_
@@ -142352,7 +142684,7 @@ conduite	conduite	NC	_
 ,	,	PONCT	_
 se	se	CLO	_
 retirent	retirer	V	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 plus	plus	ADV	_
 ou	ou	CC	_
 moins	moins	ADV	_
@@ -142713,7 +143045,9 @@ tous	tout	ADJ	_
 les	le	DET	_
 ans	an	NC	_
 d'	de	P	_
-outre-mer	outre-mer	NC	_
+outre	outre	ADV	_
+-	-	PONCT	_
+mer	mer	P	_
 .	.	PONCT	_
 C'	ce	CLS	_
 est	être	V	_
@@ -143227,9 +143561,10 @@ l'	le	DET	_
 homme	homme	NC	_
 est	être	V	_
 la	le	DET	_
-meilleure	meilleure	NC	_
+meilleure	meilleur	NC	_
 ,	,	PONCT	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 les	le	DET	_
 personnes	personne	NC	_
 qui	qui	PROREL	_
@@ -143285,7 +143620,8 @@ leurs	leur	DET	_
 autres	autre	ADJ	_
 revenus	revenu	NC	_
 ;	;	PONCT	_
-tandis_qu'	tandis_que	CS	_
+tandis	tandis	ADV	_
+qu'	que	CS	_
 il	il	CLS	_
 ne	ne	ADV	_
 dépend	dépendre	V	_
@@ -143636,7 +143972,7 @@ plus	plus	ADV	_
 somptueuse	somptueux	ADJ	_
 libéralité	libéralité	NC	_
 ...	…	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 "	"	PONCT	_
 on	on	CLS	_
 objectera	objecter	V	_
@@ -143674,7 +144010,7 @@ dans	dans	P	_
 ce	ce	DET	_
 cas	cas	NC	_
 ,	,	PONCT	_
-abandonnés	abandonnés	VPP	_
+abandonnés	abandonner	VPP	_
 à	à	P	_
 leur	leur	DET	_
 cours	cour	NC	_
@@ -143765,7 +144101,7 @@ les	le	DET	_
 émolumens	émolument	NC	_
 ne	ne	ADV	_
 sont	être	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 une	un	DET	_
 juste	juste	ADJ	_
 récompense	récompense	NC	_
@@ -143864,7 +144200,8 @@ emploie	employer	V	_
 ;	;	PONCT	_
 c'	ce	CLS	_
 est	être	V	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 il	il	CLS	_
 faut	falloir	V	_
 que	que	CS	_
@@ -143929,7 +144266,8 @@ route	route	NC	_
 peu	peu	ADV	_
 fréquentée	fréquenter	VPP	_
 ,	,	PONCT	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 il	il	CLS	_
 faut	falloir	V	_
 que	que	CS	_
@@ -144060,7 +144398,9 @@ et	et	CC	_
 ne	ne	ADV	_
 subsiste	subsister	V	_
 pas	pas	ADV	_
-au-delà	au-delà	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+delà	delà	ADV	_
 de	de	P	_
 la	le	DET	_
 vie	vie	NC	_
@@ -144210,7 +144550,7 @@ capital	capital	NC	_
 il	il	CLS	_
 semble	sembler	V	_
 donc	donc	ADV	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 il	il	CLS	_
 faudrait	falloir	V	_
 ,	,	PONCT	_
@@ -144240,7 +144580,7 @@ salaire	salaire	NC	_
 de	de	P	_
 sa	son	DET	_
 peine	peine	NC	_
-auquel	auquel	PROREL	_
+auquel	à_lequel	PROREL	_
 paraissent	paraître	V	_
 se	se	CLO	_
 borner	borner	VINF	_
@@ -144607,7 +144947,7 @@ séduits	séduire	VPP	_
 par	par	P	_
 des	un	DET	_
 succès	succès	NC	_
-brillans	brillant	ADJ	_
+brillans	briller	ADJ	_
 sans	sans	P	_
 avoir	avoir	VINF	_
 pu	pouvoir	VPP	_
@@ -145535,7 +145875,7 @@ la	le	DET	_
 valeur	valeur	NC	_
 des	de_le	P+D	_
 produits	produit	NC	_
-auxquels	auquel	PROREL	_
+auxquels	à_lequel	PROREL	_
 elles	il	CLS	_
 auront	avoir	V	_
 contribué	contribuer	VPP	_
@@ -145806,7 +146146,7 @@ savant	savant	NC	_
 Rien	rien	PRO	_
 n'	ne	ADV	_
 empêche	empêcher	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 un	un	DET	_
 savant	savant	NC	_
 ne	ne	ADV	_
@@ -147102,7 +147442,8 @@ de	de	P	_
 sa	son	DET	_
 profession	profession	NC	_
 ,	,	PONCT	_
-tandis_qu'	tandis_que	CS	_
+tandis	tandis	ADV	_
+qu'	que	CS	_
 il	il	CLS	_
 y	y	CLO	_
 a	avoir	V	_
@@ -147475,7 +147816,9 @@ en	en	P	_
 chaque	chaque	DET	_
 pays	pays	NC	_
 ,	,	PONCT	_
-au-delà	au-delà	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+delà	delà	ADV	_
 de	de	P	_
 ce	ce	PRO	_
 qui	qui	PROREL	_
@@ -147603,7 +147946,7 @@ qu'	que	CS	_
 il	il	CLS	_
 n'	ne	ADV	_
 atteint	atteindre	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 à	à	P	_
 l'	le	DET	_
 âge	âge	NC	_
@@ -147937,7 +148280,8 @@ employer	employer	VINF	_
 des	un	DET	_
 ouvriers	ouvrier	NC	_
 mariés	marier	VPP	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 ils	il	CLS	_
 sont	être	V	_
 plus	plus	ADV	_
@@ -148019,7 +148363,8 @@ dans	dans	P	_
 les	le	DET	_
 villes	ville	NC	_
 ,	,	PONCT	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 les	le	DET	_
 enfans	enfant	NC	_
 s'	se	CLO	_
@@ -148052,7 +148397,7 @@ nécessairement	nécessairement	ADV	_
 dans	dans	P	_
 les	le	DET	_
 produits	produit	NC	_
-auxquels	auquel	PROREL	_
+auxquels	à_lequel	PROREL	_
 son	son	DET	_
 travail	travail	NC	_
 concourt	concourir	V	_
@@ -148109,7 +148454,9 @@ degrés	degré	NC	_
 les	le	DET	_
 salaires	salaire	NC	_
 tombent	tomber	V	_
-au-dessous	au-dessous	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessous	dessous	ADV	_
 du	de_le	P+D	_
 taux	taux	NC	_
 nécessaire	nécessaire	ADJ	_
@@ -148190,7 +148537,7 @@ de	de	P	_
 quelques	quelque	DET	_
 qualités	qualité	NC	_
 plus	plus	ADV	_
-brillantes	brillant	ADJ	_
+brillantes	briller	ADJ	_
 ,	,	PONCT	_
 prennent	prendre	V	_
 un	un	DET	_
@@ -148413,7 +148760,9 @@ elles	il	CLS	_
 sont	être	V	_
 capables	capable	ADJ	_
 ,	,	PONCT	_
-au-dessous	au-dessous	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessous	dessous	ADV	_
 du	de_le	P+D	_
 taux	taux	NC	_
 où	où	PROREL	_
@@ -148436,7 +148785,7 @@ des	de_le	P+D	_
 moines	moine	NC	_
 et	et	CC	_
 des	un	DET	_
-religieuses	religieuse	NC	_
+religieuses	religieux	NC	_
 .	.	PONCT	_
 Dans	dans	P	_
 les	le	DET	_
@@ -148472,7 +148821,7 @@ s'	si	CS	_
 il	il	CLS	_
 s'	se	CLO	_
 y	y	CLO	_
-fesait	fesait	V	_
+fesait	faire	V	_
 des	un	DET	_
 ouvrages	ouvrage	NC	_
 d'	de	P	_
@@ -148542,7 +148891,7 @@ loi	loi	NC	_
 prohibitive	prohibitif	ADJ	_
 ,	,	PONCT	_
 en	en	P	_
-fesant	fesant	VPR	_
+fesant	faire	VPR	_
 cesser	cesser	VINF	_
 tout	tout	ADV	_
 à	à	P	_
@@ -148763,7 +149112,9 @@ salaire	salaire	NC	_
 des	de_le	P+D	_
 travaux	travail	NC	_
 communs	commun	ADJ	_
-au-dessous	au-dessous	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessous	dessous	ADV	_
 du	de_le	P+D	_
 taux	taux	NC	_
 nécessaire	nécessaire	ADJ	_
@@ -148787,7 +149138,7 @@ leurs	leur	DET	_
 effets	effet	NC	_
 aux	à_le	P+D	_
 vues	vue	NC	_
-bienfesantes	bienfesantes	ADJ	_
+bienfesantes	bienfaisant	ADJ	_
 des	de_le	P+D	_
 gouvernemens	gouvernement	NC	_
 ,	,	PONCT	_
@@ -148911,8 +149262,8 @@ fonder	fonder	VINF	_
 des	un	DET	_
 colonies	colonie	NC	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
-Si	Si	NP	_
+etc.	etc	ADV	_
+Si	si	NP	_
 la	le	DET	_
 chute	chute	NC	_
 de	de	P	_
@@ -149023,7 +149374,7 @@ impossible	impossible	ADJ	_
 de	de	P	_
 les	il	CLO	_
 employer	employer	VINF	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 .	.	PONCT	_
 Une	un	DET	_
 guerre	guerre	NC	_
@@ -149577,7 +149928,7 @@ bas	bas	ADJ	_
 plus	plus	CS	_
 les	le	DET	_
 produits	produit	NC	_
-auxquels	auquel	PROREL	_
+auxquels	à_lequel	PROREL	_
 il	il	CLS	_
 concourt	concourir	V	_
 sont	être	V	_
@@ -149598,7 +149949,7 @@ salaires	salaire	NC	_
 ,	,	PONCT	_
 le	le	DET	_
 produit	produit	NC	_
-auquel	auquel	PROREL	_
+auquel	à_lequel	PROREL	_
 il	il	CLS	_
 concourt	concourir	V	_
 renchérit	renchérir	V	_
@@ -149864,7 +150215,7 @@ s'	se	CLO	_
 en	en	CLO	_
 est	être	V	_
 rapporté	rapporter	VPP	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 aux	à_le	P+D	_
 impulsions	impulsion	NC	_
 d'	de	P	_
@@ -150546,7 +150897,8 @@ un	un	DET	_
 seul	seul	ADJ	_
 ouvrier	ouvrier	NC	_
 ;	;	PONCT	_
-tandis_qu'	tandis_que	CS	_
+tandis	tandis	ADV	_
+qu'	que	CS	_
 il	il	CLS	_
 est	être	V	_
 peu	peu	ADV	_
@@ -150914,7 +151266,7 @@ le	le	DET	_
 prix	prix	NC	_
 des	de_le	P+D	_
 produits	produit	NC	_
-auxquels	auquel	PROREL	_
+auxquels	à_lequel	PROREL	_
 l'	le	DET	_
 ouvrier	ouvrier	NC	_
 travaille	travailler	V	_
@@ -150997,7 +151349,9 @@ excès	excès	NC	_
 de	de	P	_
 la	le	DET	_
 population	population	NC	_
-par-dessus	par-dessus	P	_
+par	par	S	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 les	le	DET	_
 moyens	moyen	NC	_
 de	de	P	_
@@ -151111,7 +151465,8 @@ intérêts	intérêt	NC	_
 des	de_le	P+D	_
 ouvriers	ouvrier	NC	_
 ,	,	PONCT	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 ils	il	CLS	_
 sont	être	V	_
 moins	moins	ADV	_
@@ -151318,7 +151673,8 @@ dans	dans	P	_
 l'	le	DET	_
 état	état	NC	_
 ,	,	PONCT	_
-afin_d'	afin_de	P	_
+afin	afin	ADV	_
+d'	de	P	_
 approvisionner	approvisionner	VINF	_
 à	à	P	_
 meilleur	meilleur	ADJ	_
@@ -151452,7 +151808,7 @@ qu'	que	PROREL	_
 elle	il	CLS	_
 reçoit	recevoir	V	_
 ...	…	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 "	"	PONCT	_
 v	u	NC	_
 -	-	PONCT	_
@@ -151531,7 +151887,7 @@ changé	changer	VPP	_
 la	le	DET	_
 suite	suite	NC	_
 des	de_le	P+D	_
-développemens	développemens	NC	_
+développemens	développement	NC	_
 de	de	P	_
 l'	le	DET	_
 industrie	industrie	NC	_
@@ -152506,7 +152862,9 @@ il	il	CLS	_
 faut	falloir	V	_
 s'	se	CLO	_
 attacher	attacher	VINF	_
-par-dessus	par-dessus	P	_
+par	par	S	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 tout	tout	PRO	_
 ;	;	PONCT	_
 et	et	CC	_
@@ -152566,7 +152924,7 @@ ne	ne	ADV	_
 pouvant	pouvoir	VPR	_
 se	se	CLO	_
 maintenir	maintenir	VINF	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 à	à	P	_
 l'	le	DET	_
 aide	aide	NC	_
@@ -152824,7 +153182,7 @@ qu'	que	PROREL	_
 aura	avoir	V	_
 le	le	DET	_
 produit	produit	NC	_
-auquel	auquel	PROREL	_
+auquel	à_lequel	PROREL	_
 le	le	DET	_
 capital	capital	NC	_
 a	avoir	V	_
@@ -153356,7 +153714,7 @@ des	un	DET	_
 grands	grand	ADJ	_
 propriétaires	propriétaire	NC	_
 qui	qui	PROREL	_
-fesaient	fesaient	V	_
+fesaient	faire	V	_
 travailler	travailler	VINF	_
 des	un	DET	_
 serfs	serf	NC	_
@@ -153566,7 +153924,7 @@ tirer	tirer	VINF	_
 un	un	DET	_
 loyer	loyer	NC	_
 ,	,	PONCT	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 à	à	P	_
 tirer	tirer	VINF	_
 un	un	DET	_
@@ -153634,7 +153992,8 @@ l'	le	DET	_
 est	être	V	_
 consommé	consommer	VPP	_
 ;	;	PONCT	_
-tandis_que	tandis_que	CS	_
+tandis	tandis	ADV	_
+que	que	CS	_
 dans	dans	P	_
 le	le	DET	_
 prêt	prêt	NC	_
@@ -153962,7 +154321,7 @@ d'	de	P	_
 emprunter	emprunter	VINF	_
 le	le	DET	_
 leur	leur	NC	_
-fesait	fesait	V	_
+fesait	faire	V	_
 tolérer	tolérer	VINF	_
 chez	chez	P	_
 les	le	DET	_
@@ -154440,7 +154799,7 @@ emploi	emploi	NC	_
 hasardeux	hasardeux	ADJ	_
 que	que	PROREL	_
 l'on	on	CLS	_
-fesait	fesait	V	_
+fesait	faire	V	_
 de	de	P	_
 l'	le	DET	_
 argent	argent	NC	_
@@ -154537,7 +154896,7 @@ an	an	NC	_
 ;	;	PONCT	_
 ce	ce	PRO	_
 qui	qui	PROREL	_
-fesait	fesait	V	_
+fesait	faire	V	_
 revenir	revenir	VINF	_
 l'	le	DET	_
 intérêt	intérêt	NC	_
@@ -154548,7 +154907,8 @@ pour	pour	P	_
 cent	cent	DET	_
 environ	environ	NC	_
 ,	,	PONCT	_
-tandis_que	tandis_que	CS	_
+tandis	tandis	ADV	_
+que	que	CS	_
 l'	le	DET	_
 intérêt	intérêt	NC	_
 terrestre	terrestre	ADJ	_
@@ -154611,7 +154971,9 @@ que	que	PROREL	_
 je	je	CLS	_
 crois	croire	V	_
 encore	encore	ADV	_
-au-dessus	au-dessus	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 de	de	P	_
 la	le	DET	_
 vérité	vérité	NC	_
@@ -154982,7 +155344,7 @@ redoute	redouter	V	_
 moins	moins	ADV	_
 un	un	DET	_
 risque	risque	NC	_
-auquel	auquel	PROREL	_
+auquel	à_lequel	PROREL	_
 on	on	CLS	_
 croit	croire	V	_
 pouvoir	pouvoir	VINF	_
@@ -155017,7 +155379,7 @@ dans	dans	P	_
 le	le	DET	_
 bas	bas	ADJ	_
 intérêt	intérêt	NC	_
-auquel	auquel	PROREL	_
+auquel	à_lequel	PROREL	_
 plusieurs	plusieurs	PRO	_
 d'	de	P	_
 entre	entre	P	_
@@ -155164,7 +155526,8 @@ l'	il	CLO	_
 était	être	V	_
 pas	pas	ADV	_
 .	.	PONCT	_
-Quant_à	quant_à	P	_
+Quant	quant	ADV	_
+à	à	P	_
 l'	le	DET	_
 influence	influence	NC	_
 du	de_le	P+D	_
@@ -155796,7 +156159,7 @@ dettes	dette	NC	_
 ,	,	PONCT	_
 ils	il	CLS	_
 sont	être	V	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 inefficaces	inefficace	ADJ	_
 partout	partout	ADV	_
 où	où	PROREL	_
@@ -155822,7 +156185,9 @@ espérer	espérer	VINF	_
 de	de	P	_
 se	se	CLO	_
 mettre	mettre	VINF	_
-au-dessus	au-dessus	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 des	de_le	P+D	_
 atteintes	atteinte	NC	_
 de	de	P	_
@@ -156298,7 +156663,8 @@ des	de_le	P+D	_
 capitaux	capital	NC	_
 prêtés	prêter	VPP	_
 .	.	PONCT	_
-Quant_à	quant_à	P	_
+Quant	quant	ADV	_
+à	à	P	_
 la	le	DET	_
 quantité	quantité	NC	_
 des	de_le	P+D	_
@@ -156647,7 +157013,7 @@ liquider	liquider	VINF	_
 comme	comme	P	_
 celui	celui	PRO	_
 des	de_le	P+D	_
-épiceries	épicer	V	_
+épiceries	épicerie	V	_
 .	.	PONCT	_
 La	le	DET	_
 vente	vente	NC	_
@@ -157208,7 +157574,7 @@ capitalistes	capitaliste	NC	_
 à	à	P	_
 ne	ne	ADV	_
 prêter	prêter	VINF	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 à	à	P	_
 un	un	DET	_
 certain	certain	ADJ	_
@@ -157341,7 +157707,7 @@ l'	le	DET	_
 augmentation	augmentation	NC	_
 des	de_le	P+D	_
 risques	risque	NC	_
-auxquels	auquel	PROREL	_
+auxquels	à_lequel	PROREL	_
 on	on	CLS	_
 expose	exposer	V	_
 le	le	DET	_
@@ -157463,7 +157829,8 @@ dans	dans	P	_
 la	le	DET	_
 société	société	NC	_
 ,	,	PONCT	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 le	le	DET	_
 taux	taux	NC	_
 le	le	DET	_
@@ -157671,7 +158038,7 @@ de	de	P	_
 l'	le	DET	_
 argent	argent	NC	_
 qui	qui	PROREL	_
-fesait	fesait	V	_
+fesait	faire	V	_
 baisser	baisser	VINF	_
 le	le	DET	_
 taux	taux	NC	_
@@ -157799,7 +158166,7 @@ n'	ne	ADV	_
 est	être	V	_
 lui	il	PRO	_
 -même	même	ADJ	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 une	un	DET	_
 marchandise	marchandise	NC	_
 ;	;	PONCT	_
@@ -157973,7 +158340,7 @@ capitale	capital	ADJ	_
 (	(	PONCT	_
 une	un	DET	_
 valeur	valeur	NC	_
-fesant	fesant	ADJ	_
+fesant	faire	ADJ	_
 office	office	NC	_
 de	de	P	_
 capital	capital	NC	_
@@ -158719,7 +159086,7 @@ pas	pas	ADV	_
 dans	dans	P	_
 le	le	DET	_
 prix	prix	NC	_
-auquel	auquel	PROREL	_
+auquel	à_lequel	PROREL	_
 il	il	CLS	_
 vend	vendre	V	_
 ses	son	DET	_
@@ -158753,7 +159120,7 @@ capital	capital	NC	_
 si	si	CS	_
 ,	,	PONCT	_
 en	en	P	_
-fesant	fesant	VPR	_
+fesant	faire	VPR	_
 valoir	valoir	VINF	_
 par	par	P	_
 lui	il	PRO	_
@@ -158766,7 +159133,9 @@ n'	ne	ADV	_
 en	en	CLO	_
 tirait	tirer	V	_
 rien	rien	PRO	_
-au-delà	au-delà	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+delà	delà	ADV	_
 du	de_le	P+D	_
 salaire	salaire	NC	_
 de	de	P	_
@@ -158810,7 +159179,7 @@ donc	donc	ADV	_
 qu'	que	CS	_
 on	on	CLS	_
 veutanalyser	veutanalyser	V	_
-complétement	complétement	ADV	_
+complétement	complètement	ADV	_
 les	le	DET	_
 faits	fait	NC	_
 ,	,	PONCT	_
@@ -158834,7 +159203,7 @@ qu'	que	PROREL	_
 il	il	CLS	_
 ne	ne	ADV	_
 doit	devoir	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 à	à	P	_
 son	son	DET	_
 industrie	industrie	NC	_
@@ -159317,7 +159686,7 @@ propriétaire	propriétaire	ADJ	_
 ou	ou	CC	_
 l'	le	DET	_
 entrepreneur	entrepreneur	NC	_
-auquel	auquel	PROREL	_
+auquel	à_lequel	PROREL	_
 on	on	CLS	_
 pourrait	pouvoir	V	_
 le	il	CLO	_
@@ -159400,7 +159769,8 @@ les	le	DET	_
 plus	plus	ADV	_
 profitables	profitable	ADJ	_
 ,	,	PONCT	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 il	il	CLS	_
 faudrait	falloir	V	_
 s'	se	CLO	_
@@ -159427,7 +159797,7 @@ elles	il	CLS	_
 peuvent	pouvoir	V	_
 être	être	VINF	_
 le	le	DET	_
-siége	siége	NC	_
+siége	siège	NC	_
 .	.	PONCT	_
 Les	le	DET	_
 villes	ville	NC	_
@@ -159458,7 +159828,8 @@ faire	faire	VINF	_
 valoir	valoir	VINF	_
 ailleurs	ailleurs	ADV	_
 ,	,	PONCT	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 les	le	DET	_
 capitalistes	capitaliste	NC	_
 n'	ne	ADV	_
@@ -159764,7 +160135,7 @@ des	un	DET	_
 fonds	fond	NC	_
 ,	,	PONCT	_
 y	y	CLO	_
-fesaient	fesaient	V	_
+fesaient	faire	V	_
 ,	,	PONCT	_
 en	en	P	_
 peu	peu	ADV	_
@@ -159871,7 +160242,7 @@ tendent	tendre	V	_
 élever	élever	VINF	_
 les	le	DET	_
 profits	profit	NC	_
-auxquels	auquel	PROREL	_
+auxquels	à_lequel	PROREL	_
 peut	pouvoir	V	_
 prétendre	prétendre	VINF	_
 ,	,	PONCT	_
@@ -160150,7 +160521,7 @@ dans	dans	P	_
 des	un	DET	_
 actes	acte	NC	_
 de	de	P	_
-bienfesance	bienfesance	NC	_
+bienfesance	bienfaisance	NC	_
 et	et	CC	_
 de	de	P	_
 munificence	munificence	NC	_
@@ -160976,7 +161347,7 @@ entières	entier	ADJ	_
 qui	qui	PROREL	_
 n'	ne	ADV	_
 étaient	être	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 un	un	DET	_
 roc	roc	NC	_
 décharné	décharner	VPP	_
@@ -161209,7 +161580,8 @@ du	de_le	P+D	_
 commerce	commerce	NC	_
 intérieur	intérieur	ADJ	_
 ,	,	PONCT	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 il	il	CLS	_
 met	mettre	V	_
 en	en	P	_
@@ -161225,7 +161597,8 @@ dans	dans	P	_
 le	le	DET	_
 pays	pays	NC	_
 ,	,	PONCT	_
-tandis_que	tandis_que	CS	_
+tandis	tandis	ADV	_
+que	que	CS	_
 les	le	DET	_
 capitaux	capital	NC	_
 employés	employer	VPP	_
@@ -161295,7 +161668,7 @@ d'	de	P	_
 industrie	industrie	NC	_
 ,	,	PONCT	_
 puisque	puisque	CS	_
-toutes	tous	PRO	_
+toutes	tout	PRO	_
 sont	être	V	_
 profitables	profitable	ADJ	_
 à	à	P	_
@@ -161327,7 +161700,7 @@ sont	être	V	_
 dans	dans	P	_
 un	un	DET	_
 état	état	NC	_
-brillant	brillant	ADJ	_
+brillant	briller	ADJ	_
 d'	de	P	_
 entretien	entretien	NC	_
 et	et	CC	_
@@ -161388,7 +161761,8 @@ vers	vers	P	_
 cet	ce	DET	_
 emploi	emploi	NC	_
 que	que	ADV	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 d'	un	DET	_
 autres	autre	NC	_
 ne	ne	ADV	_
@@ -161514,7 +161888,9 @@ gagnerait	gagner	V	_
 étendre	étendre	VINF	_
 ses	son	DET	_
 relations	relation	NC	_
-au-dehors	au-dehors	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dehors	dehors	ADV	_
 ;	;	PONCT	_
 mais	mais	CC	_
 elle	il	CLS	_
@@ -161601,7 +161977,7 @@ le	le	DET	_
 plus	plus	ADV	_
 solide	solide	ADJ	_
 de	de	P	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 ;	;	PONCT	_
 ensuite	ensuite	ADV	_
 les	le	DET	_
@@ -161842,7 +162218,7 @@ ou	ou	CC	_
 de	de	P	_
 chauffage	chauffage	NC	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 Son	son	DET	_
 action	action	NC	_
 dans	dans	P	_
@@ -161908,7 +162284,7 @@ charbons	charbon	NC	_
 la	le	DET	_
 tourbe	tourbe	NC	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 La	le	DET	_
 terre	terre	NC	_
 ,	,	PONCT	_
@@ -162314,7 +162690,7 @@ terre	terre	NC	_
 est	être	V	_
 commune	commun	ADJ	_
 à	à	P	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 ,	,	PONCT	_
 s'	se	CLO	_
 arrachent	arracher	V	_
@@ -162372,7 +162748,8 @@ d'	de	P	_
 autres	autre	ADJ	_
 alimens	aliment	NC	_
 ;	;	PONCT	_
-tandis_que	tandis_que	CS	_
+tandis	tandis	ADV	_
+que	que	CS	_
 le	le	DET	_
 plus	plus	ADV	_
 mince	mince	ADJ	_
@@ -162489,7 +162866,7 @@ terrain	terrain	NC	_
 ?	?	PONCT	_
 En	en	P	_
 le	le	DET	_
-fesant	fesant	NC	_
+fesant	faire	NC	_
 valoir	valoir	VINF	_
 ,	,	PONCT	_
 il	il	CLS	_
@@ -162511,7 +162888,7 @@ il	il	CLS	_
 n'	ne	ADV	_
 est	être	V	_
 remboursé	rembourser	VPP	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 au	à_le	P+D	_
 moment	moment	NC	_
 de	de	P	_
@@ -162683,7 +163060,7 @@ ne	ne	ADV	_
 rapporte	rapporter	V	_
 pas	pas	ADV	_
 plus	plus	ADV	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 un	un	DET	_
 mauvais	mauvais	NC	_
 ;	;	PONCT	_
@@ -162806,7 +163183,8 @@ une	un	DET	_
 terre	terre	NC	_
 médiocre	médiocre	ADJ	_
 ;	;	PONCT	_
-tandis_que	tandis_que	CS	_
+tandis	tandis	ADV	_
+que	que	CS	_
 le	le	DET	_
 profit	profit	NC	_
 foncier	foncier	ADJ	_
@@ -162907,7 +163285,8 @@ trois	trois	DET	_
 quatre_mille	quatre_mille	DET	_
 francs	franc	NC	_
 ,	,	PONCT	_
-tandis_que	tandis_que	CS	_
+tandis	tandis	ADV	_
+que	que	CS	_
 le	le	DET	_
 capital	capital	NC	_
 en	en	CLO	_
@@ -162957,7 +163336,7 @@ plusieurs	plusieurs	DET	_
 métamorphoses	métamorphose	NC	_
 et	et	CC	_
 plusieurs	plusieurs	DET	_
-déplacemens	déplacemens	NC	_
+déplacemens	déplacement	NC	_
 ,	,	PONCT	_
 dont	dont	PROREL	_
 le	le	DET	_
@@ -162978,7 +163357,8 @@ aux	à_le	P+D	_
 opérations	opération	NC	_
 industrielles	industriel	ADJ	_
 ,	,	PONCT	_
-tandis_qu'	tandis_que	CS	_
+tandis	tandis	ADV	_
+qu'	que	CS	_
 un	un	DET	_
 fonds	fond	NC	_
 de	de	P	_
@@ -163376,7 +163756,7 @@ que	que	CS	_
 le	le	DET	_
 risque	risque	NC	_
 des	de_le	P+D	_
-placemens	placemens	NC	_
+placemens	placement	NC	_
 surpasse	surpasser	V	_
 tous	tout	ADJ	_
 ces	ce	DET	_
@@ -163411,7 +163791,7 @@ que	que	PROREL	_
 soit	être	V	_
 le	le	DET	_
 prix	prix	NC	_
-auquel	auquel	PROREL	_
+auquel	à_lequel	PROREL	_
 s'	se	CLO	_
 échangent	échanger	V	_
 mutuellement	mutuellement	ADV	_
@@ -163897,7 +164277,8 @@ trouvent	trouver	V	_
 point	point	ADV	_
 d'	un	DET	_
 acheteurs	acheteur	NC	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 elles	il	CLS	_
 ne	ne	ADV	_
 sont	être	V	_
@@ -163982,7 +164363,7 @@ ce	ce	DET	_
 traité	traité	NC	_
 ,	,	PONCT	_
 *	*	PONCT	_
-M	M	NC	_
+M	monsieur	NC	_
 David	David	NP	_
 *	*	X	_
 Ricardo	Ricardo	NP	_
@@ -164023,7 +164404,7 @@ rapportent	rapporter	V	_
 que	que	ADV	_
 les	le	DET	_
 profits	profit	NC	_
-auxquels	auquel	PROREL	_
+auxquels	à_lequel	PROREL	_
 peuvent	pouvoir	V	_
 prétendre	prétendre	VINF	_
 le	le	DET	_
@@ -164610,7 +164991,7 @@ sur	sur	P	_
 quel	quel	DET	_
 fondement	fondement	NC	_
 *	*	X	_
-M	M	NC	_
+M	monsieur	NC	_
 Mac	Mac	NP	_
 Culloch	Culloch	NP	_
 a	avoir	V	_
@@ -164879,7 +165260,7 @@ du	de_le	P+D	_
 propriétaire	propriétaire	NC	_
 ?	?	PONCT	_
 *	*	PONCT	_
-M	M	NC	_
+M	monsieur	NC	_
 Buchanan	Buchanan	NP	_
 ,	,	PONCT	_
 qui	qui	PROREL	_
@@ -164931,7 +165312,7 @@ société	société	NC	_
 ce	ce	CLS	_
 n'	ne	ADV	_
 est	être	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 un	un	DET	_
 revenu	revenu	NC	_
 transféré	transférer	VPP	_
@@ -164942,7 +165323,7 @@ classe	classe	NC	_
 une	un	DET	_
 autre	autre	NC	_
 ...	…	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 "	"	PONCT	_
 le	le	DET	_
 même	même	ADJ	_
@@ -164964,7 +165345,7 @@ entrer	entrer	VINF	_
 dans	dans	P	_
 sa	son	DET	_
 bourse	bourse	NC	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 une	un	DET	_
 valeur	valeur	NC	_
 qui	qui	PROREL	_
@@ -164977,7 +165358,7 @@ autrui	autrui	PRO	_
 ,	,	PONCT	_
 et	et	CC	_
 comme	comme	P	_
-fesant	fesant	VPR	_
+fesant	faire	VPR	_
 payer	payer	VINF	_
 des	un	DET	_
 frais	frais	NC	_
@@ -165196,7 +165577,8 @@ produite	produit	ADJ	_
 et	et	CC	_
 c'	ce	CLS	_
 est	être	V	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 la	le	DET	_
 terre	terre	NC	_
 produit	produire	V	_
@@ -165405,7 +165787,8 @@ de	de	P	_
 parler	parler	VINF	_
 ,	,	PONCT	_
 uniquement	uniquement	ADV	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 on	on	CLS	_
 en	en	CLO	_
 a	avoir	V	_
@@ -165651,7 +166034,7 @@ charretes	charretes	NC	_
 ,	,	PONCT	_
 bestiaux	bestial	ADJ	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 C'	ce	CLS	_
 est	être	V	_
 un	un	DET	_
@@ -165755,7 +166138,7 @@ ses	son	DET	_
 améliorations	amélioration	NC	_
 ,	,	PONCT	_
 comme	comme	P	_
-fesant	fesant	VPR	_
+fesant	faire	VPR	_
 partie	partie	NC	_
 du	de_le	P+D	_
 capital	capital	NC	_
@@ -165785,7 +166168,7 @@ appliquer	appliquer	VINF	_
 à	à	P	_
 cette	ce	DET	_
 industrie	industrie	NC	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 à	à	P	_
 toute	tout	DET	_
 autre	autre	NC	_
@@ -165822,7 +166205,8 @@ a	avoir	V	_
 des	un	DET	_
 bornes	borne	NC	_
 ,	,	PONCT	_
-tandis_que	tandis_que	CS	_
+tandis	tandis	ADV	_
+que	que	CS	_
 la	le	DET	_
 masse	masse	NC	_
 des	de_le	P+D	_
@@ -165836,7 +166220,7 @@ n'	ne	ADV	_
 en	en	CLO	_
 a	avoir	V	_
 point	point	ADV	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 on	on	CLS	_
 puisse	pouvoir	V	_
 assigner	assigner	VINF	_
@@ -165932,7 +166316,9 @@ louer	louer	VINF	_
 ne	ne	ADV	_
 peut	pouvoir	V	_
 aller	aller	VINF	_
-au-delà	au-delà	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+delà	delà	ADV	_
 de	de	P	_
 ceux	celui	PRO	_
 qui	qui	PROREL	_
@@ -165940,7 +166326,8 @@ s'	se	CLO	_
 y	y	CLO	_
 trouvent	trouver	V	_
 ;	;	PONCT	_
-tandis_que	tandis_que	CS	_
+tandis	tandis	ADV	_
+que	que	CS	_
 le	le	DET	_
 nombre	nombre	NC	_
 de	de	P	_
@@ -166395,7 +166782,7 @@ particulier	particulier	NC	_
 :	:	PONCT	_
 elles	il	CLS	_
 tendent	tendre	V	_
-toutes	tous	PRO	_
+toutes	tout	PRO	_
 à	à	P	_
 l'	le	DET	_
 augmentation	augmentation	NC	_
@@ -166551,7 +166938,7 @@ sa	son	DET	_
 terre	terre	NC	_
 ,	,	PONCT	_
 en	en	P	_
-fesant	fesant	NC	_
+fesant	faire	NC	_
 des	de_le	P+D	_
 saignées	saignée	NC	_
 de	de	P	_
@@ -166927,7 +167314,7 @@ ne	ne	ADV	_
 sont	être	V	_
 plus	plus	ADV	_
 respectés	respecter	VPP	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 en	en	P	_
 Angleterre	Angleterre	NP	_
 .	.	PONCT	_
@@ -166999,7 +167386,7 @@ ont	avoir	V	_
 rien	rien	PRO	_
 ,	,	PONCT	_
 et	et	CC	_
-auxquels	auquel	PROREL	_
+auxquels	à_lequel	PROREL	_
 le	le	DET	_
 propriétaire	propriétaire	NC	_
 fournit	fournir	V	_
@@ -167136,7 +167523,8 @@ avait	avoir	V	_
 de	un	DET	_
 gros	gros	ADJ	_
 revenus	revenu	NC	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 on	on	CLS	_
 avait	avoir	V	_
 de	un	DET	_
@@ -167209,7 +167597,7 @@ pu	pouvoir	VPP	_
 tripler	tripler	VINF	_
 :	:	PONCT	_
 on	on	CLS	_
-fesait	fesait	V	_
+fesait	faire	V	_
 la	le	DET	_
 guerre	guerre	NC	_
 ,	,	PONCT	_
@@ -167457,7 +167845,8 @@ d'	de	P	_
 un	un	DET	_
 étranger	étranger	NC	_
 .	.	PONCT	_
-Quant_à	quant_à	P	_
+Quant	quant	ADV	_
+à	à	P	_
 la	le	DET	_
 nation	nation	NC	_
 au	à_le	P+D	_
@@ -167473,7 +167862,7 @@ enfans	enfant	NC	_
 elle	il	CLS	_
 fait	faire	V	_
 la	le	DET	_
-meilleure	meilleure	NC	_
+meilleure	meilleur	NC	_
 de	de	P	_
 toutes	tout	ADJ	_
 les	le	DET	_
@@ -167736,7 +168125,8 @@ qu'	que	CS	_
 aux	à_le	P+D	_
 nationaux	national	NC	_
 ,	,	PONCT	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 au	à_le	P+D	_
 moins	moins	NC	_
 cette	ce	DET	_
@@ -167928,7 +168318,7 @@ L'	le	DET	_
 étranger	étranger	NC	_
 ,	,	PONCT	_
 en	en	P	_
-fesant	fesant	VPR	_
+fesant	faire	VPR	_
 un	un	DET	_
 achat	achat	NC	_
 de	de	P	_
@@ -168074,7 +168464,8 @@ doit	devoir	V	_
 employé	employer	VPP	_
 reproductivement	reproductivement	ADV	_
 .	.	PONCT	_
-Quant_à	quant_à	P	_
+Quant	quant	ADV	_
+à	à	P	_
 la	le	DET	_
 forme	forme	NC	_
 sous	sous	P	_
@@ -168147,7 +168538,8 @@ convient	convenir	V	_
 le	le	DET	_
 mieux	mieux	NC	_
 ,	,	PONCT	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 c'	ce	CLS	_
 est	être	V	_
 indubitablement	indubitablement	ADV	_
@@ -168318,7 +168710,7 @@ l'	le	DET	_
 Inde	Inde	NP	_
 ne	ne	ADV	_
 perd	perdre	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 un_million	un_million	ADJ	_
 .	.	PONCT	_
 Si	si	CS	_
@@ -168687,7 +169079,7 @@ n'	ne	ADV	_
 accorder	accorder	VINF	_
 sa	son	DET	_
 protection	protection	NC	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 à	à	P	_
 l'	le	DET	_
 espèce	espèce	NC	_
@@ -168929,7 +169321,8 @@ prix	prix	NC	_
 -là	là	ADV	_
 .	.	PONCT	_
 Et	et	CC	_
-quant_aux	quant_à_le	P+D	_
+quant	quant	ADV	_
+aux	à_le	P+D	_
 prix	prix	NC	_
 des	de_le	P+D	_
 deux	deux	ADJ	_
@@ -169072,7 +169465,7 @@ du	de_le	P+D	_
 blé	blé	NC	_
 avec	avec	P	_
 ses	son	DET	_
-épiceries	épiceries	NC	_
+épiceries	épicerie	NC	_
 et	et	CC	_
 ses	son	DET	_
 toiles	toile	NC	_
@@ -169473,7 +169866,9 @@ mais	mais	CC	_
 encore	encore	ADV	_
 un	un	DET	_
 peu	peu	NC	_
-au-delà	au-delà	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+delà	delà	ADV	_
 .	.	PONCT	_
 Il	il	CLS	_
 est	être	V	_
@@ -169564,7 +169959,8 @@ et	et	CC	_
 que	que	CS	_
 c'	ce	CLS	_
 est	être	V	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 ils	il	CLS	_
 manquent	manquer	V	_
 de	de	P	_
@@ -169871,7 +170267,8 @@ multiplient	multiplier	V	_
 de	de	P	_
 préférence	préférence	NC	_
 ,	,	PONCT	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 ce	ce	CLS	_
 sont	être	V	_
 ceux	celui	PRO	_
@@ -169922,7 +170319,7 @@ les	le	DET	_
 hommes	homme	NC	_
 n'	ne	ADV	_
 existent	exister	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 autant	autant	ADV	_
 qu'	que	CS	_
 ils	il	CLS	_
@@ -169986,7 +170383,7 @@ de	de	P	_
 cet	ce	DET	_
 homme	homme	NC	_
 en	en	P	_
-fesait	fesait	NC	_
+fesait	faire	NC	_
 vivre	vivre	VINF	_
 un	un	DET	_
 autre	autre	NC	_
@@ -170587,7 +170984,7 @@ Qui	qui	PROWH	_
 n'	ne	ADV	_
 aurait	avoir	V	_
 pensé	penser	VPP	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 après	après	P	_
 un	un	DET	_
 si	si	ADV	_
@@ -170946,7 +171343,7 @@ son	son	DET	_
 principe	principe	NC	_
 ,	,	PONCT	_
 en	en	P	_
-ddsséchant	ddsséchant	VPR	_
+desséchant	desséchant	VPR	_
 les	le	DET	_
 sources	source	NC	_
 de	de	P	_
@@ -171981,7 +172378,7 @@ et	et	CC	_
 qui	qui	PROREL	_
 ne	ne	ADV	_
 subsistent	subsister	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 au	à_le	P+D	_
 moyen	moyen	NC	_
 de	de	P	_
@@ -172269,7 +172666,7 @@ leur	leur	DET	_
 influence	influence	NC	_
 sur	sur	P	_
 les	le	DET	_
-développemens	développemens	NC	_
+développemens	développement	NC	_
 de	de	P	_
 l'	le	DET	_
 industrie	industrie	NC	_
@@ -172503,7 +172900,7 @@ artistes	artiste	NC	_
 mais	mais	CC	_
 aussi	aussi	ADV	_
 le	le	DET	_
-siége	siége	NC	_
+siége	siège	NC	_
 des	de_le	P+D	_
 administrations	administration	NC	_
 ,	,	PONCT	_
@@ -172957,7 +173354,7 @@ leurs	leur	DET	_
 dépendances	dépendance	NC	_
 ,	,	PONCT	_
 les	le	DET	_
-abbayes	abbayes	NC	_
+abbayes	abbaye	NC	_
 ,	,	PONCT	_
 les	le	DET	_
 couvens	couvent	NC	_
@@ -173215,7 +173612,7 @@ ne	ne	ADV	_
 produit	produire	V	_
 tout	tout	ADJ	_
 ce	ce	PRO	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 elle	il	CLS	_
 doit	devoir	V	_
 produire	produire	VINF	_
@@ -173309,7 +173706,7 @@ recherche	recherche	NC	_
 ils	il	CLS	_
 ne	ne	ADV	_
 sont	être	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 à	à	P	_
 moitié	moitié	NC	_
 civilisés	civiliser	VPP	_
@@ -173583,7 +173980,7 @@ manufactures	manufacture	NC	_
 ne	ne	ADV	_
 se	se	CLO	_
 fondent	fonder	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 avec	avec	P	_
 des	un	DET	_
 capitaux	capital	NC	_
@@ -173684,7 +174081,7 @@ ville	ville	NC	_
 on	on	CLS	_
 n'	ne	ADV	_
 élève	élever	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 une	un	DET	_
 décoration	décoration	NC	_
 de	de	P	_
@@ -173697,7 +174094,8 @@ pas	pas	ADV	_
 à	à	P	_
 tomber	tomber	VINF	_
 ,	,	PONCT	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 rien	rien	PRO	_
 ne	ne	ADV	_
 la	il	CLO	_
@@ -173720,7 +174118,7 @@ Tauride	Tauride	NP	_
 et	et	CC	_
 ce	ce	PRO	_
 que	que	PROREL	_
-fesait	fesait	V	_
+fesait	faire	V	_
 pressentir	pressentir	VINF	_
 l'	le	DET	_
 empereur	empereur	NC	_
@@ -173862,7 +174260,8 @@ Unis	Unis	NP	_
 en	en	P	_
 général	général	NC	_
 ;	;	PONCT	_
-tandis_que	tandis_que	CS	_
+tandis	tandis	ADV	_
+que	que	CS	_
 la	le	DET	_
 seule	seul	ADJ	_
 situation	situation	NC	_
@@ -173890,7 +174289,8 @@ entourée	entourer	VPP	_
 ,	,	PONCT	_
 et	et	CC	_
 seulement	seulement	ADV	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 elle	il	CLS	_
 était	être	V	_
 devenue	devenir	VPP	_
@@ -173925,7 +174325,7 @@ la	le	DET	_
 Thèbes	Thèbes	NP	_
 d'	de	P	_
 *	*	PONCT	_
-égypte	égypte	NC	_
+égypte	Égypte	NC	_
 .	.	PONCT	_
 La	le	DET	_
 seule	seul	ADJ	_
@@ -174143,7 +174543,7 @@ moindres	moindre	ADJ	_
 ;	;	PONCT	_
 où	où	PROREL	_
 les	le	DET	_
-approvisionnemens	approvisionnemens	NC	_
+approvisionnemens	approvisionnement	NC	_
 ,	,	PONCT	_
 les	le	DET	_
 chevaux	cheval	NC	_
@@ -174291,7 +174691,7 @@ livre	livre	NC	_
 dire	dire	VINF	_
 le	le	DET	_
 sens	sens	NC	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 il	il	CLS	_
 fallait	falloir	V	_
 attacher	attacher	VINF	_
@@ -174613,7 +175013,7 @@ ne	ne	ADV	_
 consommer	consommer	VINF	_
 un	un	DET	_
 produit	produit	NC	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 en	en	P	_
 partie	partie	NC	_
 .	.	PONCT	_
@@ -175732,7 +176132,7 @@ n'	ne	ADV	_
 est	être	V	_
 entièrement	entièrement	ADV	_
 consommée	consommer	VPP	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 au	à_le	P+D	_
 bout	bout	NC	_
 de	de	P	_
@@ -175744,7 +176144,7 @@ consommation	consommation	NC	_
 n'	ne	ADV	_
 emporte	emporter	V	_
 annuellement	annuellement	ADV	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 un	un	DET	_
 quart	quart	NC	_
 ,	,	PONCT	_
@@ -176078,7 +176478,8 @@ que	que	CS	_
 les	le	DET	_
 autres	autre	NC	_
 ,	,	PONCT	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 ils	il	CLS	_
 produisent	produire	V	_
 incomparablement	incomparablement	ADV	_
@@ -176188,7 +176589,8 @@ Steuart	Steuart	NP	_
 vante	vanter	V	_
 les	le	DET	_
 lacédémoniens	lacédémonien	NC	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 ils	il	CLS	_
 savaient	savoir	V	_
 se	se	CLO	_
@@ -176496,7 +176898,8 @@ un	un	DET	_
 bel	beau	ADJ	_
 habit	habit	NC	_
 ;	;	PONCT	_
-tandis_que	tandis_que	CS	_
+tandis	tandis	ADV	_
+que	que	CS	_
 dans	dans	P	_
 la	le	DET	_
 consommation	consommation	NC	_
@@ -176569,7 +176972,7 @@ si	si	ADV	_
 pourtant	pourtant	ADV	_
 il	il	CLS	_
 veut	vouloir	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 elle	il	CLS	_
 soit	être	V	_
 consommée	consommer	VPP	_
@@ -176795,7 +177198,7 @@ consommations	consommation	NC	_
 n'	ne	ADV	_
 ont	avoir	V	_
 lieu	lieu	NC	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 à	à	P	_
 la	le	DET	_
 suite	suite	NC	_
@@ -177114,7 +177517,7 @@ somme	somme	NC	_
 ,	,	PONCT	_
 ont	avoir	V	_
 été	être	VPP	_
-cnsommées	cnsommées	VPP	_
+consommées	consommé	VPP	_
 ,	,	PONCT	_
 et	et	CC	_
 leur	leur	DET	_
@@ -177780,7 +178183,7 @@ de	de	P	_
 ces	ce	DET	_
 deux	deux	ADJ	_
 valeurs	valeur	NC	_
-terminé	terminé	ADJ	_
+terminé	terminer	ADJ	_
 ,	,	PONCT	_
 les	le	DET	_
 deux	deux	ADJ	_
@@ -178001,7 +178404,7 @@ une	un	DET	_
 production	production	NC	_
 antérieure	antérieur	ADJ	_
 ,	,	PONCT	_
-fesant	fesant	VPR	_
+fesant	faire	VPR	_
 maintenant	maintenant	ADV	_
 partie	partie	NC	_
 du	de_le	P+D	_
@@ -178018,7 +178421,7 @@ côté	côté	NC	_
 ,	,	PONCT	_
 des	un	DET	_
 toisons	toison	NC	_
-fesant	fesant	ADJ	_
+fesant	faire	ADJ	_
 partie	partie	NC	_
 du	de_le	P+D	_
 produi	produi	NC	_
@@ -178394,12 +178797,13 @@ se	se	CLO	_
 sont	être	V	_
 ruinés	ruiner	VPP	_
 ,	,	PONCT	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 ils	il	CLS	_
 ne	ne	ADV	_
 savaient	savoir	V	_
 travailler	travailler	VINF	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 à	à	P	_
 grands	grand	ADJ	_
 frais	frais	NC	_
@@ -179111,7 +179515,7 @@ manière	manière	NC	_
 il	il	CLS	_
 n'	ne	ADV	_
 est	être	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 un	un	DET	_
 accident	accident	NC	_
 dont	dont	PROREL	_
@@ -179207,7 +179611,7 @@ faire	faire	VINF	_
 valoir	valoir	VINF	_
 un	un	DET	_
 capital	capital	NC	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 en	en	P	_
 le	il	CLO	_
 dépensant	dépenser	VPR	_
@@ -179310,7 +179714,7 @@ distribués	distribuer	VPP	_
 aux	à_le	P+D	_
 producteurs	producteur	NC	_
 de	de	P	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 grades	grade	NC	_
 .	.	PONCT	_
 Cela	cela	PRO	_
@@ -179730,7 +180134,7 @@ d'	de	P	_
 ostentation	ostentation	NC	_
 ne	ne	ADV	_
 procure	procurer	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 une	un	DET	_
 satisfaction	satisfaction	NC	_
 creuse	creux	ADJ	_
@@ -179784,7 +180188,7 @@ autre	autre	ADJ	_
 motif	motif	NC	_
 ,	,	PONCT	_
 sinon	sinon	P	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 il	il	CLS	_
 s'	se	CLO	_
 accroît	accroître	V	_
@@ -180327,7 +180731,7 @@ fabrication	fabrication	NC	_
 ;	;	PONCT	_
 comme	comme	P	_
 dans	dans	P	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 il	il	CLS	_
 y	y	CLO	_
 a	avoir	V	_
@@ -181306,7 +181710,8 @@ se	se	CLO	_
 font	faire	V	_
 ,	,	PONCT	_
 non-seulement	non-seulement	ADV	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 il	il	CLS	_
 est	être	V	_
 appelé	appeler	VPP	_
@@ -181320,7 +181725,8 @@ consommations	consommation	NC	_
 publiques	public	ADJ	_
 ,	,	PONCT	_
 mais	mais	CC	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 son	son	DET	_
 exemple	exemple	NC	_
 et	et	CC	_
@@ -182441,7 +182847,8 @@ grâce	grâce	NC	_
 plus	plus	ADV	_
 aisément	aisément	ADV	_
 ,	,	PONCT	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 elle	il	CLS	_
 invite	inviter	V	_
 à	à	P	_
@@ -182507,7 +182914,7 @@ argent	argent	NC	_
 n'	ne	ADV	_
 est	être	V	_
 bon	bon	ADJ	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 à	à	P	_
 être	être	VINF	_
 dépensé	dépenser	VPP	_
@@ -182982,7 +183389,7 @@ il	il	CLS	_
 n'	ne	ADV	_
 est	être	V	_
 accordé	accorder	VPP	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 aux	à_le	P+D	_
 dépens	dépendre	V	_
 de	de	P	_
@@ -183057,14 +183464,16 @@ ménager	ménager	VINF	_
 le	le	DET	_
 nécessaire	nécessaire	NC	_
 ,	,	PONCT	_
-tandis_que	tandis_que	CS	_
+tandis	tandis	ADV	_
+que	que	CS	_
 l'	le	DET	_
 avare	avare	NC	_
 se	se	CLO	_
 refuse	refuser	V	_
 le	le	DET	_
 nécessaire	nécessaire	NC	_
-afin_de	afin_de	P	_
+afin	afin	ADV	_
+de	de	P	_
 se	se	CLO	_
 procurer	procurer	VINF	_
 le	le	DET	_
@@ -183339,7 +183748,9 @@ qui	qui	PROREL	_
 met	mettre	V	_
 un	un	DET	_
 homme	homme	NC	_
-au-dessus	au-dessus	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 des	de_le	P+D	_
 bassesses	bassesse	NC	_
 .	.	PONCT	_
@@ -183439,13 +183850,14 @@ qu'	que	CS	_
 il	il	CLS	_
 ne	ne	ADV	_
 donne	donner	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 à	à	P	_
 charge	charge	NC	_
 de	de	P	_
 revanche	revanche	NC	_
 ,	,	PONCT	_
-tandis_qu'	tandis_que	CS	_
+tandis	tandis	ADV	_
+qu'	que	CS	_
 une	un	DET	_
 personne	personne	NC	_
 économe	économe	ADJ	_
@@ -183453,7 +183865,8 @@ donne	donner	V	_
 toujours	toujours	ADV	_
 gratuitement	gratuitement	ADV	_
 ,	,	PONCT	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 elle	il	CLS	_
 ne	ne	ADV	_
 donne	donner	V	_
@@ -183824,7 +184237,7 @@ ne	ne	ADV	_
 peuvent	pouvoir	V	_
 jamais	jamais	ADV	_
 avoir	avoir	VINF	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 une	un	DET	_
 valeur	valeur	NC	_
 relative	relatif	ADJ	_
@@ -184401,7 +184814,7 @@ objet	objet	NC	_
 de	de	P	_
 luxe	luxe	NC	_
 ce	ce	PRO	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 un	un	DET	_
 homme	homme	NC	_
 éclairé	éclairer	VPP	_
@@ -184985,7 +185398,7 @@ l'	le	DET	_
 politique	politique	ADJ	_
 ,	,	PONCT	_
 en	en	P	_
-fesant	fesant	VPR	_
+fesant	faire	VPR	_
 connaître	connaître	VINF	_
 les	le	DET	_
 véritables	véritable	ADJ	_
@@ -185281,7 +185694,7 @@ fracas	fracas	NC	_
 d'	de	P	_
 un	un	DET	_
 luxe	luxe	NC	_
-brillant	brillant	ADJ	_
+brillant	briller	ADJ	_
 .	.	PONCT	_
 Ils	il	CLS	_
 croient	croire	V	_
@@ -185398,7 +185811,7 @@ habitudes	habitude	NC	_
 funestes	funeste	ADJ	_
 du	de_le	P+D	_
 pays	pays	NC	_
-auquel	auquel	PROREL	_
+auquel	à_lequel	PROREL	_
 on	on	CLS	_
 est	être	V	_
 attaché	attacher	VPP	_
@@ -185446,7 +185859,7 @@ Il	il	CLS	_
 n'	ne	ADV	_
 y	y	CLO	_
 a	avoir	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 un	un	DET	_
 bien	bien	ADV	_
 petit	petit	ADJ	_
@@ -185671,7 +186084,7 @@ et	et	CC	_
 quand	quand	CS	_
 on	on	CLS	_
 permet	permettre	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 eles	eles	NP	_
 s'	se	CLO	_
 éclairent	éclairer	V	_
@@ -185795,7 +186208,7 @@ encore	encore	ADV	_
 augmenter	augmenter	VINF	_
 la	le	DET	_
 production	production	NC	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 au	à_le	P+D	_
 moyen	moyen	NC	_
 d'	de	P	_
@@ -186551,7 +186964,8 @@ avoir	avoir	VINF	_
 une	un	DET	_
 douzaine	douzaine	NC	_
 ,	,	PONCT	_
-afin_de	afin_de	P	_
+afin	afin	ADV	_
+de	de	P	_
 pouvoir	pouvoir	VINF	_
 changer	changer	VINF	_
 de	de	P	_
@@ -186580,7 +186994,8 @@ Ce	ce	CLS	_
 n'	ne	ADV	_
 est	être	V	_
 jamais	jamais	ADV	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 on	on	CLS	_
 a	avoir	V	_
 gagné	gagner	VPP	_
@@ -186603,7 +187018,7 @@ point	point	ADV	_
 incompatible	incompatible	ADJ	_
 ,	,	PONCT	_
 ainsi	ainsi	ADV	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 on	on	CLS	_
 l'	il	CLO	_
 a	avoir	V	_
@@ -186817,7 +187232,7 @@ du	de_le	P+D	_
 militaire	militaire	NC	_
 qui	qui	PROREL	_
 la	le	DET	_
-défend	défend	NC	_
+défend	défendre	V	_
 contre	contre	P	_
 des	un	DET	_
 agressions	agression	NC	_
@@ -186851,7 +187266,9 @@ s'	si	CS	_
 ils	il	CLS	_
 sont	être	V	_
 multipliés	multiplier	VPP	_
-au-delà	au-delà	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+delà	delà	ADV	_
 du	de_le	P+D	_
 besoin	besoin	NC	_
 ,	,	PONCT	_
@@ -186859,7 +187276,9 @@ s'	si	CS	_
 ils	il	CLS	_
 sont	être	V	_
 payés	payer	VPP	_
-au-delà	au-delà	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+delà	delà	ADV	_
 de	de	P	_
 leur	leur	DET	_
 valeur	valeur	NC	_
@@ -187220,7 +187639,7 @@ l'	le	DET	_
 administrateur	administrateur	NC	_
 au	à_le	P+D	_
 fournisseur	fournisseur	NC	_
-auquel	auquel	PROREL	_
+auquel	à_lequel	PROREL	_
 on	on	CLS	_
 a	avoir	V	_
 acheté	acheter	VPP	_
@@ -187331,7 +187750,7 @@ si	si	CS	_
 ce	ce	CLS	_
 n'	ne	ADV	_
 est	être	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 il	il	CLS	_
 aurait	avoir	V	_
 joui	jouir	VPP	_
@@ -187339,7 +187758,8 @@ de	de	P	_
 cette	ce	DET	_
 consommation	consommation	NC	_
 ,	,	PONCT	_
-tandis_que	tandis_que	CS	_
+tandis	tandis	ADV	_
+que	que	CS	_
 c'	ce	CLS	_
 est	être	V	_
 l'	le	DET	_
@@ -187940,7 +188360,7 @@ n'	ne	ADV	_
 ont	avoir	V	_
 plus	plus	ADV	_
 été	être	VPP	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 un	un	DET	_
 mal	mal	NC	_
 sans	sans	P	_
@@ -187955,7 +188375,7 @@ des	un	DET	_
 consommations	consommation	NC	_
 de	de	P	_
 l'	le	DET	_
-État	État	NC	_
+État	état	NC	_
 ?	?	PONCT	_
 Consommer	consommer	VINF	_
 pour	pour	P	_
@@ -188015,7 +188435,7 @@ celui	celui	PRO	_
 qui	qui	PROREL	_
 gouverne	gouverner	V	_
 L'	le	DET	_
-État	État	NC	_
+État	état	NC	_
 !	!	PONCT	_
 Que	que	CS	_
 chez	chez	P	_
@@ -188047,7 +188467,8 @@ qui	qui	PROREL	_
 lui	il	CLO	_
 appartiennent	appartenir	V	_
 ,	,	PONCT	_
-tandis_qu'	tandis_que	CS	_
+tandis	tandis	ADV	_
+qu'	que	CS	_
 un	un	DET	_
 gouvernement	gouvernement	NC	_
 n'	ne	ADV	_
@@ -188058,7 +188479,7 @@ propriétaire	propriétaire	ADJ	_
 il	il	CLS	_
 n'	ne	ADV	_
 est	être	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 administrateur	administrateur	NC	_
 de	de	P	_
 la	le	DET	_
@@ -188353,7 +188774,8 @@ la	le	DET	_
 perversité	perversité	NC	_
 même	même	ADJ	_
 ,	,	PONCT	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 on	on	CLS	_
 les	il	CLO	_
 suit	suivre	V	_
@@ -188366,7 +188788,8 @@ on	on	CLS	_
 entend	entendre	V	_
 mal	mal	ADV	_
 ,	,	PONCT	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 on	on	CLS	_
 les	il	CLO	_
 suit	suivre	V	_
@@ -188458,7 +188881,7 @@ il	il	CLS	_
 ne	ne	ADV	_
 s'	se	CLO	_
 arrêta	arrêter	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 au	à_le	P+D	_
 moment	moment	NC	_
 où	où	PROREL	_
@@ -188621,7 +189044,8 @@ les	il	CLO	_
 remplacent	remplacer	V	_
 pas	pas	ADV	_
 ,	,	PONCT	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 ils	il	CLS	_
 ne	ne	ADV	_
 produisent	produire	V	_
@@ -188710,7 +189134,7 @@ elles	il	CLS	_
 ne	ne	ADV	_
 sont	être	V	_
 justifiables	justifiable	ADJ	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 autant	autant	ADV	_
 qu'	que	CS	_
 il	il	CLS	_
@@ -188887,7 +189311,8 @@ forcé	forcer	VPP	_
 de	de	P	_
 répéter	répéter	VINF	_
 que	que	CS	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 la	le	DET	_
 folie	folie	NC	_
 et	et	CC	_
@@ -188934,7 +189359,9 @@ totales	total	ADJ	_
 ,	,	PONCT	_
 et	et	CC	_
 même	même	ADV	_
-au-delà	au-delà	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+delà	delà	ADV	_
 ,	,	PONCT	_
 il	il	CLS	_
 en	en	CLO	_
@@ -189427,7 +189854,7 @@ grandes	grand	ADJ	_
 choses	chose	NC	_
 .	.	PONCT	_
 *	*	PONCT	_
-Charlemagne	charlemagne	NC	_
+Charlemagne	Charlemagne	NC	_
 est	être	V	_
 un	un	PRO	_
 des	de_le	P+D	_
@@ -189545,7 +189972,7 @@ richesses	richesse	NC	_
 Je	je	CLS	_
 ne	ne	ADV	_
 dirai	dire	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 un	un	DET	_
 mot	mot	NC	_
 :	:	PONCT	_
@@ -189725,7 +190152,7 @@ Colbert	Colbert	NP	_
 Necker	Necker	NP	_
 ,	,	PONCT	_
 ont	avoir	V	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 été	être	VPP	_
 guidés	guider	VPP	_
 par	par	P	_
@@ -189733,7 +190160,7 @@ le	le	DET	_
 même	même	ADJ	_
 principe	principe	NC	_
 .	.	PONCT	_
-Tous	tous	PRO	_
+Tous	tout	PRO	_
 ont	avoir	V	_
 trouvé	trouver	VPP	_
 ,	,	PONCT	_
@@ -189814,7 +190241,7 @@ Colbert	Colbert	NP	_
 ,	,	PONCT	_
 les	le	DET	_
 succès	succès	NC	_
-brillans	brillant	ADJ	_
+brillans	briller	ADJ	_
 de	de	P	_
 Louis	Louis	NP	_
 *	*	PONCT	_
@@ -190060,7 +190487,7 @@ de	de	P	_
 beurre	beurre	NC	_
 salé	salé	ADJ	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 Mais	mais	CC	_
 tous	tout	ADJ	_
 ces	ce	DET	_
@@ -190226,7 +190653,7 @@ santé	santé	NC	_
 qui	qui	PROREL	_
 ne	ne	ADV	_
 demandent	demander	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 à	à	P	_
 n'	ne	ADV	_
 être	être	VINF	_
@@ -190236,7 +190663,7 @@ pour	pour	P	_
 prendre	prendre	VINF	_
 le	le	DET	_
 plus	plus	ADV	_
-brillant	brillant	ADJ	_
+brillant	briller	ADJ	_
 essor	essor	NC	_
 .	.	PONCT	_
 En	en	P	_
@@ -190667,7 +191094,7 @@ traitemens	traitement	NC	_
 des	un	DET	_
 salaires	salaire	NC	_
 ,	,	PONCT	_
-achète	achète	NC	_
+achète	acheter	V	_
 des	de_le	P+D	_
 services	service	NC	_
 personnels	personnel	ADJ	_
@@ -190976,7 +191403,7 @@ et	et	CC	_
 du	de_le	P+D	_
 Jura	Jura	NP	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 Lorsque	lorsque	CS	_
 ces	ce	DET	_
 établissemens	établissement	NC	_
@@ -191523,7 +191950,7 @@ pas	pas	ADV	_
 bien	bien	ADV	_
 l'	le	DET	_
 office	office	NC	_
-auquel	auquel	PROREL	_
+auquel	à_lequel	PROREL	_
 il	il	CLS	_
 est	être	V	_
 destiné	destiner	VPP	_
@@ -191678,7 +192105,7 @@ injustices	injustice	NC	_
 ses	son	DET	_
 exaction	exaction	NC	_
 ,	,	PONCT	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 au	à_le	P+D	_
 moyen	moyen	NC	_
 de	de	P	_
@@ -191766,7 +192193,9 @@ impéritie	impéritie	NC	_
 vont	aller	V	_
 même	même	ADV	_
 beaucoup	beaucoup	ADV	_
-au-delà	au-delà	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+delà	delà	ADV	_
 de	de	P	_
 son	son	DET	_
 salaire	salaire	NC	_
@@ -191866,7 +192295,8 @@ très	très	ADV	_
 bas	bas	ADJ	_
 prix	prix	NC	_
 ,	,	PONCT	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 le	le	DET	_
 mérite	mérite	NC	_
 s'	se	CLO	_
@@ -191958,7 +192388,7 @@ a	avoir	V	_
 des	un	DET	_
 gens	gens	NC	_
 intègres	intègre	ADJ	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 en	en	P	_
 les	le	DET	_
 payant	payant	NC	_
@@ -192233,7 +192663,7 @@ un	un	DET	_
 navire	navire	NC	_
 ,	,	PONCT	_
 on	on	CLS	_
-fesait	fesait	V	_
+fesait	faire	V	_
 quelqu'un	quelqu'un	PRO	_
 pilote	pilote	NC	_
 pour	pour	P	_
@@ -192756,7 +193186,7 @@ donner	donner	VINF	_
 à	à	P	_
 chaque	chaque	DET	_
 objet	objet	NC	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 une	un	DET	_
 fort	fort	ADV	_
 petite	petit	ADJ	_
@@ -192778,7 +193208,7 @@ flattent	flatter	V	_
 sa	son	DET	_
 vanité	vanité	NC	_
 ,	,	PONCT	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 aux	à_le	P+D	_
 soins	soin	NC	_
 dont	dont	PROREL	_
@@ -192787,7 +193217,8 @@ public	public	NC	_
 seul	seul	ADJ	_
 profite	profiter	V	_
 !	!	PONCT	_
-Quant_au	quant_à_le	P+D	_
+Quant	quant	ADV	_
+au	à_le	P+D	_
 prince	prince	NC	_
 et	et	CC	_
 au	à_le	P+D	_
@@ -193001,7 +193432,9 @@ ne	ne	ADV	_
 se	se	CLO	_
 multiplieraient	multiplier	V	_
 pas	pas	ADV	_
-au-delà	au-delà	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+delà	delà	ADV	_
 de	de	P	_
 tous	tout	ADJ	_
 les	le	DET	_
@@ -193440,7 +193873,7 @@ livre	livrer	V	_
 à	à	P	_
 une	un	DET	_
 exploitation	exploitation	NC	_
-lus	lu	ADJ	_
+plus	plus	ADV	_
 compliquée	compliqué	ADJ	_
 ,	,	PONCT	_
 et	et	CC	_
@@ -194044,7 +194477,7 @@ usines	usine	NC	_
 les	le	DET	_
 magasins	magasin	NC	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 ,	,	PONCT	_
 ont	avoir	V	_
 forcé	forcer	VPP	_
@@ -194445,7 +194878,7 @@ comprenait	comprendre	V	_
 aussi	aussi	ADV	_
 les	le	DET	_
 ravages	ravage	NC	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 elle	il	CLS	_
 commet	commettre	V	_
 ,	,	PONCT	_
@@ -194764,7 +195197,8 @@ l'	il	CLO	_
 avoir	avoir	VINF	_
 commencée	commencer	VPP	_
 ?	?	PONCT	_
-Quant_à	quant_à	P	_
+Quant	quant	ADV	_
+à	à	P	_
 la	le	DET	_
 gloire	gloire	NC	_
 qui	qui	PROREL	_
@@ -194965,7 +195399,8 @@ fera	faire	V	_
 encore	encore	ADV	_
 .	.	PONCT	_
 Précisément	précisément	ADV	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 la	le	DET	_
 guerre	guerre	NC	_
 est	être	V	_
@@ -195554,7 +195989,8 @@ habitude	habitude	NC	_
 manuelle	manuel	ADJ	_
 ,	,	PONCT	_
 et	et	CC	_
-en_outre	en_outre	ADV	_
+en	en	P	_
+outre	outre	P	_
 d'	de	P	_
 une	un	DET	_
 foule	foule	NC	_
@@ -195598,7 +196034,7 @@ avantage	avantage	NC	_
 proportionné	proportionner	VPP	_
 à	à	P	_
 celui	celui	PRO	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 en	en	CLO	_
 retire	retirer	V	_
 la	le	DET	_
@@ -196085,7 +196521,8 @@ par	par	P	_
 ce	ce	DET	_
 moyen	moyen	NC	_
 ,	,	PONCT	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 la	le	DET	_
 récompense	récompense	NC	_
 naturelle	naturel	ADJ	_
@@ -196119,7 +196556,7 @@ ne	ne	ADV	_
 sera	être	V	_
 donc	donc	ADV	_
 jamais	jamais	ADV	_
-complétement	complétement	ADV	_
+complétement	complètement	ADV	_
 satisfait	satisfait	ADJ	_
 ,	,	PONCT	_
 qu'	que	CS	_
@@ -196190,7 +196627,8 @@ des	un	DET	_
 productions	production	NC	_
 imparfaites	imparfait	ADJ	_
 ,	,	PONCT	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 il	il	CLS	_
 ne	ne	ADV	_
 s'	se	CLO	_
@@ -196243,7 +196681,7 @@ exclut	exclure	V	_
 pas	pas	ADV	_
 alors	alors	ADV	_
 une	un	DET	_
-meilleure	meilleure	NC	_
+meilleure	meilleur	NC	_
 ;	;	PONCT	_
 et	et	CC	_
 avec	avec	P	_
@@ -196379,7 +196817,7 @@ jusque	jusque	P	_
 dans	dans	P	_
 leurs	leur	DET	_
 moindres	moindre	ADJ	_
-embranchemens	embranchemens	NC	_
+embranchemens	embranchement	NC	_
 ,	,	PONCT	_
 la	le	DET	_
 plupart	plupart	NC	_
@@ -196782,7 +197220,7 @@ n'	ne	ADV	_
 est	être	V	_
 pas	pas	ADV	_
 encore	encore	ADV	_
-complétement	complétement	ADV	_
+complétement	complètement	ADV	_
 tirée	tirer	VPP	_
 de	de	P	_
 l'	le	DET	_
@@ -196874,7 +197312,8 @@ cette	ce	DET	_
 instruction	instruction	NC	_
 élémentaire	élémentaire	ADJ	_
 ,	,	PONCT	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 on	on	CLS	_
 n'	ne	ADV	_
 est	être	V	_
@@ -197528,7 +197967,8 @@ sur	sur	P	_
 les	le	DET	_
 moeurs	mœurs	NC	_
 ,	,	PONCT	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 il	il	CLS	_
 emploie	employer	V	_
 beaucoup	beaucoup	PRO	_
@@ -197545,7 +197985,8 @@ celle	celui	PRO	_
 des	de_le	P+D	_
 particuliers	particulier	NC	_
 ,	,	PONCT	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 il	il	CLS	_
 est	être	V	_
 moins	moins	ADV	_
@@ -197746,7 +198187,8 @@ notre	notre	DET	_
 caractère	caractère	NC	_
 moral	moral	ADJ	_
 .	.	PONCT	_
-Quant_aux	quant_à_le	P+D	_
+quant	quant	ADV	_
+aux	à_le	P+D	_
 exhortations	exhortation	NC	_
 et	et	CC	_
 aux	à_le	P+D	_
@@ -197832,7 +198274,7 @@ relatives	relatif	ADJ	_
 aux	à_le	P+D	_
 établissemens	établissement	NC	_
 de	de	P	_
-bienfesance	bienfesance	NC	_
+bienfesance	bienfaisance	NC	_
 .	.	PONCT	_
 Beaucoup	beaucoup	PRO	_
 de	de	P	_
@@ -198076,7 +198518,7 @@ que	que	CS	_
 les	le	DET	_
 établissemens	établissement	NC	_
 de	de	P	_
-bienfesance	bienfesance	NC	_
+bienfesance	bienfaisance	NC	_
 coûtent	coûter	V	_
 à	à	P	_
 la	le	DET	_
@@ -198099,7 +198541,7 @@ regarder	regarder	VINF	_
 les	le	DET	_
 établissemens	établissement	NC	_
 de	de	P	_
-bienfesance	bienfesance	NC	_
+bienfesance	bienfaisance	NC	_
 comme	comme	P	_
 des	un	DET	_
 espèces	espèce	NC	_
@@ -198136,7 +198578,7 @@ riche	riche	ADJ	_
 ne	ne	ADV	_
 suppose	supposer	V	_
 guère	guère	ADV	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 il	il	CLS	_
 soit	être	V	_
 jamais	jamais	ADV	_
@@ -198307,7 +198749,9 @@ toujours	toujours	ADV	_
 à	à	P	_
 s'	se	CLO	_
 accroîtr	accroîtr	V	_
-au-delà	au-delà	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+delà	delà	ADV	_
 des	un	DET	_
 moyes	moye	NC	_
 d'	de	P	_
@@ -198490,7 +198934,7 @@ rien	rien	PRO	_
 aux	à_le	P+D	_
 établissemens	établissement	NC	_
 de	de	P	_
-bienfesance	bienfesance	NC	_
+bienfesance	bienfaisance	NC	_
 ;	;	PONCT	_
 ils	il	CLS	_
 coûtent	coûter	V	_
@@ -198508,7 +198952,8 @@ aux	à_le	P+D	_
 plus	plus	ADV	_
 indigentes	indigent	ADJ	_
 .	.	PONCT	_
-Quant_aux	quant_à_le	P+D	_
+quant	quant	ADV	_
+aux	à_le	P+D	_
 entrepreneurs	entrepreneur	NC	_
 d'	de	P	_
 industrie	industrie	NC	_
@@ -198669,7 +199114,8 @@ on	on	CLS	_
 leur	il	CLO	_
 donne	donner	V	_
 et	et	CC	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 il	il	CLS	_
 s'	se	CLO	_
 en	en	CLO	_
@@ -198899,7 +199345,7 @@ l'	le	DET	_
 abri	abri	NC	_
 du	de_le	P+D	_
 danger	danger	NC	_
-auquel	auquel	PROREL	_
+auquel	à_lequel	PROREL	_
 certaines	certain	DET	_
 maladies	maladie	NC	_
 l'	il	CLO	_
@@ -198915,7 +199361,7 @@ les	le	DET	_
 maladies	maladie	NC	_
 contagieuses	contagieux	ADJ	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 Aussi	Aussi	NP	_
 ,	,	PONCT	_
 indépendamment	indépendamment	ADV	_
@@ -198928,14 +199374,14 @@ tout	tout	DET	_
 pays	pays	NC	_
 par	par	P	_
 la	le	DET	_
-bienfesance	bienfesance	NC	_
+bienfesance	bienfaisance	NC	_
 des	de_le	P+D	_
 particuliers	particulier	NC	_
 ,	,	PONCT	_
 une	un	DET	_
 sorte	sorte	NC	_
 de	de	P	_
-bienfesance	bienfesance	NC	_
+bienfesance	bienfaisance	NC	_
 publique	public	ADJ	_
 ,	,	PONCT	_
 et	et	CC	_
@@ -199233,7 +199679,7 @@ précisément	précisément	ADV	_
 dans	dans	P	_
 la	le	DET	_
 profession	profession	NC	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 il	il	CLS	_
 a	avoir	V	_
 apprise	apprendre	VPP	_
@@ -199263,7 +199709,7 @@ administration	administration	NC	_
 des	de_le	P+D	_
 établissemens	établissement	NC	_
 de	de	P	_
-bienfesance	bienfesance	NC	_
+bienfesance	bienfaisance	NC	_
 peut	pouvoir	V	_
 avec	avec	P	_
 avantage	avantage	NC	_
@@ -199465,11 +199911,12 @@ juste	juste	ADJ	_
 appréciation	appréciation	NC	_
 de	de	P	_
 ce	ce	PRO	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 elles	il	CLS	_
 coûtent	coûter	V	_
 .	.	PONCT	_
-Quant_à	quant_à	P	_
+Quant	quant	ADV	_
+à	à	P	_
 l'	le	DET	_
 appréciation	appréciation	NC	_
 de	de	P	_
@@ -199576,7 +200023,8 @@ avantage	avantage	NC	_
 toute	tout	DET	_
 évaluation	évaluation	NC	_
 .	.	PONCT	_
-Quant_au	quant_à_le	P+D	_
+Quant	quant	ADV	_
+au	à_le	P+D	_
 sacrifice	sacrifice	NC	_
 au	à_le	P+D	_
 prix	prix	NC	_
@@ -200370,7 +200818,8 @@ encore	encore	ADV	_
 plus	plus	ADV	_
 considérable	considérable	ADJ	_
 ,	,	PONCT	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 il	il	CLS	_
 en	en	CLO	_
 résulte	résulter	V	_
@@ -200380,7 +200829,8 @@ encore	encore	ADV	_
 plus	plus	ADV	_
 forte	fort	ADJ	_
 .	.	PONCT	_
-Quant_aux	quant_à_le	P+D	_
+quant	quant	ADV	_
+aux	à_le	P+D	_
 édifices	édifice	NC	_
 publics	public	ADJ	_
 sans	sans	P	_
@@ -200738,7 +201188,7 @@ ne	ne	ADV	_
 doit	devoir	V	_
 rendre	rendre	VINF	_
 grâce	grâce	NC	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 à	à	P	_
 sa	son	DET	_
 bonne	bon	ADJ	_
@@ -200763,7 +201213,7 @@ chez	chez	P	_
 les	le	DET	_
 romains	romain	NC	_
 se	se	CLO	_
-fesait	fesait	V	_
+fesait	faire	V	_
 immédiatement	immédiatement	ADV	_
 aux	à_le	P+D	_
 dépens	dépendre	V	_
@@ -201359,7 +201809,7 @@ d'	de	P	_
 instruction	instruction	NC	_
 et	et	CC	_
 de	de	P	_
-bienfesance	bienfesance	NC	_
+bienfesance	bienfaisance	NC	_
 ,	,	PONCT	_
 qui	qui	PROREL	_
 sont	être	V	_
@@ -201637,7 +202087,8 @@ d'	de	P	_
 agrément	agrément	NC	_
 public	public	ADJ	_
 ,	,	PONCT	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 elles	il	CLS	_
 voient	voir	V	_
 de	de	P	_
@@ -202069,7 +202520,8 @@ est	être	V	_
 pas	pas	ADV	_
 reversée	reverser	VPP	_
 ,	,	PONCT	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 elle	il	CLS	_
 n'	ne	ADV	_
 est	être	V	_
@@ -202353,7 +202805,8 @@ et	et	CC	_
 aux	à_le	P+D	_
 producteurs	producteur	NC	_
 ,	,	PONCT	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 elle	il	CLS	_
 détruit	détruire	V	_
 des	un	DET	_
@@ -202901,7 +203354,8 @@ produit	produire	V	_
 souvent	souvent	ADV	_
 un	un	DET	_
 bien	bien	NC	_
-quant_à	quant_à	P	_
+quant	quant	ADV	_
+à	à	P	_
 son	son	DET	_
 emploi	emploi	NC	_
 ,	,	PONCT	_
@@ -202910,7 +203364,8 @@ est	être	V	_
 toujours	toujours	ADV	_
 un	un	DET	_
 mal	mal	NC	_
-quant_à	quant_à	P	_
+quant	quant	ADV	_
+à	à	P	_
 sa	son	DET	_
 levée	levée	NC	_
 .	.	PONCT	_
@@ -202941,7 +203396,8 @@ il	il	CLS	_
 l'	il	CLO	_
 enrichit	enrichir	V	_
 ,	,	PONCT	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 il	il	CLS	_
 consomme	consommer	V	_
 une	un	DET	_
@@ -203034,7 +203490,8 @@ qu'	que	CS	_
 ils	il	CLS	_
 sont	être	V	_
 riches	riche	ADJ	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 ils	il	CLS	_
 paient	payer	V	_
 plus	plus	ADV	_
@@ -203058,14 +203515,16 @@ n'	ne	ADV	_
 est	être	V	_
 pas	pas	ADV	_
 riche	riche	ADJ	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 on	on	CLS	_
 paie	payer	V	_
 ,	,	PONCT	_
 mais	mais	CC	_
 on	on	CLS	_
 paie	payer	V	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 on	on	CLS	_
 est	être	V	_
 riche	riche	ADJ	_
@@ -203107,7 +203566,8 @@ que	que	CS	_
 celui	celui	PRO	_
 -ci	ci	ADV	_
 dépense	dépenser	V	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 il	il	CLS	_
 est	être	V	_
 riche	riche	ADJ	_
@@ -203353,7 +203813,7 @@ reste	rester	V	_
 de	de	P	_
 la	le	DET	_
 situation	situation	NC	_
-brillante	brillant	ADJ	_
+brillante	briller	ADJ	_
 où	où	PROREL	_
 ils	il	CLS	_
 se	se	CLO	_
@@ -203498,7 +203958,7 @@ n'	ne	ADV	_
 a	avoir	V	_
 une	un	DET	_
 valeur	valeur	NC	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 en	en	P	_
 la	il	CLO	_
 créant	créer	VPR	_
@@ -203599,7 +204059,8 @@ sont	être	V	_
 les	le	DET	_
 plus	plus	ADV	_
 modérés	modéré	ADJ	_
-quant_à	quant_à	P	_
+quant	quant	ADV	_
+à	à	P	_
 leur	leur	DET	_
 quotité	quotité	NC	_
 ;	;	PONCT	_
@@ -203684,7 +204145,8 @@ développement	développement	NC	_
 les	le	DET	_
 plus	plus	ADV	_
 modérés	modéré	ADJ	_
-quant_à	quant_à	P	_
+quant	quant	ADV	_
+à	à	P	_
 leur	leur	DET	_
 quotité	quotité	NC	_
 .	.	PONCT	_
@@ -204624,7 +205086,8 @@ un	un	DET	_
 grand	grand	ADJ	_
 mal	mal	NC	_
 ,	,	PONCT	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 elles	il	CLS	_
 les	il	CLO	_
 croient	croire	V	_
@@ -204665,7 +205128,8 @@ principal	principal	NC	_
 des	de_le	P+D	_
 contributions	contribution	NC	_
 ,	,	PONCT	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 l'	le	DET	_
 un	un	NC	_
 comme	comme	P	_
@@ -204793,7 +205257,7 @@ pour	pour	P	_
 30	30	DET	_
 millions	million	NC	_
 que	que	CS	_
-fesaient	fesaient	V	_
+fesaient	faire	V	_
 entrer	entrer	VINF	_
 au	à_le	P+D	_
 trésor	trésor	NC	_
@@ -205396,7 +205860,7 @@ qu'	que	CS	_
 il	il	CLS	_
 porte	porter	V	_
 sur	sur	P	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 .	.	PONCT	_
 L'	le	DET	_
 impôt	impôt	NC	_
@@ -206022,13 +206486,14 @@ pour	pour	P	_
 le	le	DET	_
 bonheur	bonheur	NC	_
 ;	;	PONCT	_
-tandis_qu'	tandis_que	CS	_
+tandis	tandis	ADV	_
+qu'	que	CS	_
 une	un	DET	_
 famille	famille	NC	_
 qui	qui	PROREL	_
 ne	ne	ADV	_
 posséderait	posséder	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 un	un	DET	_
 revenu	revenu	NC	_
 de	de	P	_
@@ -206654,7 +207119,8 @@ terre	terre	NC	_
 ?	?	PONCT	_
 C'	ce	CLS	_
 est	être	V	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 il	il	CLS	_
 a	avoir	V	_
 en	en	P	_
@@ -206701,7 +207167,8 @@ oisifs	oisif	ADJ	_
 ,	,	PONCT	_
 ou	ou	CC	_
 bien	bien	ADV	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 il	il	CLS	_
 croit	croire	V	_
 la	le	DET	_
@@ -207625,7 +208092,7 @@ industrie	industrie	NC	_
 ?	?	PONCT	_
 Lorsqu'	lorsque	CS	_
 on	on	CLS	_
-fesait	fesait	V	_
+fesait	faire	V	_
 payer	payer	VINF	_
 le	le	DET	_
 droit	droit	NC	_
@@ -208554,7 +209021,7 @@ les	le	DET	_
 exemptions	exemption	NC	_
 et	et	CC	_
 les	le	DET	_
-remplacemens	remplacemens	NC	_
+remplacemens	remplacement	NC	_
 ;	;	PONCT	_
 il	il	CLS	_
 s'	se	CLO	_
@@ -208815,7 +209282,7 @@ partie	partie	NC	_
 elle	il	CLS	_
 n'	ne	ADV	_
 est	être	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 un	un	DET	_
 moyen	moyen	NC	_
 ,	,	PONCT	_
@@ -208892,7 +209359,7 @@ il	il	CLS	_
 n'	ne	ADV	_
 y	y	CLO	_
 aurait	avoir	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 un	un	DET	_
 seul	seul	ADJ	_
 impôt	impôt	NC	_
@@ -209380,7 +209847,8 @@ des	de_le	P+D	_
 contributions	contribution	NC	_
 indirectes	indirect	ADJ	_
 ,	,	PONCT	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 la	le	DET	_
 demande	demande	NC	_
 n'	ne	ADV	_
@@ -209617,7 +210085,8 @@ la	le	DET	_
 contribution	contribution	NC	_
 mobilière	mobilier	ADJ	_
 ;	;	PONCT	_
-tandis_que	tandis_que	CS	_
+tandis	tandis	ADV	_
+que	que	CS	_
 le	le	DET	_
 revenu	revenu	NC	_
 du	de_le	P+D	_
@@ -209632,7 +210101,7 @@ contribution	contribution	NC	_
 ne	ne	ADV	_
 l'	il	CLO	_
 est	être	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 une	un	DET	_
 seule	seul	ADJ	_
 fois	fois	NC	_
@@ -209662,7 +210131,8 @@ paie	payer	V	_
 avec	avec	P	_
 répugnance	répugnance	NC	_
 ,	,	PONCT	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 le	le	DET	_
 prix	prix	NC	_
 de	de	P	_
@@ -210160,7 +210630,8 @@ variable	variable	ADJ	_
 ,	,	PONCT	_
 incertaine	incertain	ADJ	_
 ,	,	PONCT	_
-tandis_que	tandis_que	CS	_
+tandis	tandis	ADV	_
+que	que	CS	_
 les	le	DET	_
 dépenses	dépense	NC	_
 publiques	public	ADJ	_
@@ -210557,7 +211028,7 @@ n'	ne	ADV	_
 est	être	V	_
 pour	pour	P	_
 eux	il	PRO	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 une	un	DET	_
 avance	avance	NC	_
 qu'	que	PROREL	_
@@ -210756,7 +211227,7 @@ lorsqu'	lorsque	CS	_
 il	il	CLS	_
 ne	ne	ADV	_
 vaut	valoir	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 un	un	DET	_
 sou	sou	NC	_
 .	.	PONCT	_
@@ -211195,7 +211666,7 @@ sur	sur	P	_
 les	le	DET	_
 consommations	consommation	NC	_
 ,	,	PONCT	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 en	en	P	_
 proportion	proportion	NC	_
 de	de	P	_
@@ -211620,7 +212091,8 @@ pas	pas	ADV	_
 d'	un	DET	_
 usage	usage	NC	_
 ;	;	PONCT	_
-tandis_que	tandis_que	CS	_
+tandis	tandis	ADV	_
+que	que	CS	_
 le	le	DET	_
 producteur	producteur	NC	_
 qui	qui	PROREL	_
@@ -212077,7 +212549,7 @@ est	être	V	_
 payé	payer	VPP	_
 en	en	P	_
 principal	principal	NC	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 en	en	P	_
 proportion	proportion	NC	_
 de	de	P	_
@@ -212357,7 +212829,8 @@ s'	se	CLO	_
 y	y	CLO	_
 soustraire	soustraire	VINF	_
 ,	,	PONCT	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 ils	il	CLS	_
 sont	être	V	_
 un	un	DET	_
@@ -212430,7 +212903,7 @@ détenteur	détenteur	NC	_
 ne	ne	ADV	_
 la	il	CLO	_
 cède	céder	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 autant	autant	ADV	_
 que	que	CS	_
 tous	tout	ADJ	_
@@ -212847,7 +213320,7 @@ pour	pour	P	_
 qu'	que	CS	_
 il	il	CLS	_
 devienne	devenir	V	_
-complétement	complétement	ADV	_
+complétement	complètement	ADV	_
 strile	strile	ADJ	_
 et	et	CC	_
 qu'	que	CS	_
@@ -212896,7 +213369,7 @@ preuve	preuve	NC	_
 elle	il	CLS	_
 n'	ne	ADV	_
 est	être	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 un	un	DET	_
 moyen	moyen	NC	_
 de	de	P	_
@@ -213446,7 +213919,7 @@ français	français	NC	_
 ,	,	PONCT	_
 s'	se	CLO	_
 est	être	V	_
-touvée	touvée	VPP	_
+touvée	touvé	VPP	_
 ,	,	PONCT	_
 à	à	P	_
 certaines	certain	DET	_
@@ -213591,7 +214064,7 @@ Ne	ne	ADV	_
 sont	être	V	_
 -ils	il	CLS	_
 pas	pas	ADV	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 des	un	DET	_
 sources	source	NC	_
 où	où	PROREL	_
@@ -213673,7 +214146,7 @@ le	le	DET	_
 plus	plus	ADV	_
 équitable	équitable	ADJ	_
 de	de	P	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 ;	;	PONCT	_
 il	il	CLS	_
 n'	ne	ADV	_
@@ -214213,7 +214686,7 @@ fastidieux	fastidieux	ADJ	_
 de	de	P	_
 les	il	CLO	_
 reproduire	reproduire	VINF	_
-toutes	tous	PRO	_
+toutes	tout	PRO	_
 .	.	PONCT	_
 Qu'	que	CS	_
 on	on	CLS	_
@@ -214290,7 +214763,9 @@ ferait	faire	V	_
 vendre	vendre	VINF	_
 les	le	DET	_
 denrées	denrée	NC	_
-au-dessous	au-dessous	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessous	dessous	ADV	_
 du	de_le	P+D	_
 taux	taux	NC	_
 ,	,	PONCT	_
@@ -214848,7 +215323,7 @@ pourraient	pouvoir	V	_
 -ils	il	CLS	_
 avoir	avoir	VINF	_
 lieu	lieu	NC	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 à	à	P	_
 ce	ce	DET	_
 prix	prix	NC	_
@@ -215115,7 +215590,8 @@ soutenir	soutenir	VINF	_
 la	le	DET	_
 concurrence	concurrence	NC	_
 ,	,	PONCT	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 l'	le	DET	_
 impôt	impôt	NC	_
 y	y	CLO	_
@@ -215170,7 +215646,8 @@ particulier	particulier	NC	_
 ,	,	PONCT	_
 c'	ce	CLS	_
 est	être	V	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 ils	il	CLS	_
 se	se	CLO	_
 lient	lier	V	_
@@ -215546,7 +216023,7 @@ Souvent	souvent	ADV	_
 il	il	CLS	_
 ne	ne	ADV	_
 fait	faire	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 avancer	avancer	VINF	_
 ,	,	PONCT	_
 sinon	sinon	P	_
@@ -215613,7 +216090,7 @@ soit	soit	CC	_
 par	par	P	_
 les	le	DET	_
 prix	prix	NC	_
-auxquels	auquel	PROREL	_
+auxquels	à_lequel	PROREL	_
 ils	il	CLS	_
 achètent	acheter	V	_
 les	le	DET	_
@@ -216068,7 +216545,8 @@ il	il	CLS	_
 n'	ne	ADV	_
 était	être	V	_
 ,	,	PONCT	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 il	il	CLS	_
 se	se	CLO	_
 trouve	trouver	V	_
@@ -216560,7 +217038,8 @@ une	un	DET	_
 manière	manière	NC	_
 productive	productif	ADJ	_
 ;	;	PONCT	_
-tandis_que	tandis_que	CS	_
+tandis	tandis	ADV	_
+que	que	CS	_
 les	le	DET	_
 seconds	second	NC	_
 n'	ne	ADV	_
@@ -216581,7 +217060,8 @@ prêté	prêter	VPP	_
 .	.	PONCT	_
 C'	ce	CLS	_
 est	être	V	_
-afin_de	afin_de	P	_
+afin	afin	ADV	_
+de	de	P	_
 pourvoir	pourvoir	VINF	_
 à	à	P	_
 des	un	DET	_
@@ -216814,7 +217294,7 @@ fonds	fond	NC	_
 il	il	CLS	_
 ne	ne	ADV	_
 reste	rester	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 un	un	DET	_
 ,	,	PONCT	_
 celui	celui	PRO	_
@@ -216875,7 +217355,8 @@ Bien	bien	ADV	_
 des	un	DET	_
 gens	gens	NC	_
 ,	,	PONCT	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 ils	il	CLS	_
 ne	ne	ADV	_
 voient	voir	V	_
@@ -216903,7 +217384,7 @@ valeur	valeur	NC	_
 et	et	CC	_
 s'	se	CLO	_
 imaginent	imaginer	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 il	il	CLS	_
 en	en	CLO	_
 résulte	résulter	V	_
@@ -216913,7 +217394,8 @@ déplacement	déplacement	NC	_
 de	de	P	_
 richesse	richesse	NC	_
 .	.	PONCT	_
-Afin_de	afin_de	P	_
+Afin	afin	ADV	_
+de	de	P	_
 rendre	rendre	VINF	_
 leur	leur	DET	_
 erreur	erreur	NC	_
@@ -216983,7 +217465,8 @@ on	on	CLS	_
 nomme	nommer	V	_
 perpétuelle	perpétuel	ADJ	_
 .	.	PONCT	_
-Quant_aux	quant_à_le	P+D	_
+quant	quant	ADV	_
+aux	à_le	P+D	_
 emprunts	emprunt	NC	_
 remboursables	remboursable	ADJ	_
 ,	,	PONCT	_
@@ -217558,7 +218041,8 @@ la	le	DET	_
 dette	dette	NC	_
 flottante	flottant	ADJ	_
 .	.	PONCT	_
-Quant_à	quant_à	P	_
+Quant	quant	ADV	_
+à	à	P	_
 la	le	DET	_
 dette	dette	NC	_
 consolidée	consolider	VPP	_
@@ -217805,7 +218289,9 @@ obliger	obliger	VINF	_
 demander	demander	VINF	_
 au	à_le	P+D	_
 contribuable	contribuable	NC	_
-au-delà	au-delà	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+delà	delà	ADV	_
 de	de	P	_
 l'	le	DET	_
 intérêt	intérêt	NC	_
@@ -218001,7 +218487,8 @@ gouvernement	gouvernement	NC	_
 au	à_le	P+D	_
 prêteur	prêteur	NC	_
 ,	,	PONCT	_
-afin_que	afin_que	CS	_
+afin	afin	ADV	_
+que	que	CS	_
 celui	celui	PRO	_
 -ci	ci	ADV	_
 puisse	pouvoir	V	_
@@ -218251,7 +218738,8 @@ elles	il	PRO	_
 est	être	V	_
 accompagnée	accompagner	VPP	_
 .	.	PONCT	_
-Quant_aux	quant_à_le	P+D	_
+quant	quant	ADV	_
+aux	à_le	P+D	_
 gains	gain	NC	_
 qui	qui	PROREL	_
 proviennent	provenir	V	_
@@ -218301,7 +218789,7 @@ terme	terme	NC	_
 ne	ne	ADV	_
 sont	être	V	_
 plus	plus	ADV	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 un	un	DET	_
 jeu	jeu	NC	_
 où	où	PROREL	_
@@ -218809,7 +219297,7 @@ pour	pour	P	_
 la	le	DET	_
 navigation	navigation	NC	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 ,	,	PONCT	_
 il	il	CLS	_
 valait	valoir	V	_
@@ -218864,7 +219352,7 @@ comme	comme	P	_
 les	le	DET	_
 gouvernemens	gouvernement	NC	_
 ,	,	PONCT	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 un	un	DET	_
 usufruit	usufruit	NC	_
 à	à	P	_
@@ -219200,7 +219688,7 @@ même	même	ADV	_
 au	à_le	P+D	_
 milieu	milieu	NC	_
 des	de_le	P+D	_
-brillantes	brillant	ADJ	_
+brillantes	briller	ADJ	_
 victoires	victoire	NC	_
 de	de	P	_
 Marlborough	Marlborough	NP	_
@@ -219224,7 +219712,7 @@ emprunta	emprunter	V	_
 neuf_millions	neuf_millions	DET	_
 sterling	sterling	NC	_
 ,	,	PONCT	_
-auxquels	auquel	PROREL	_
+auxquels	à_lequel	PROREL	_
 on	on	CLS	_
 attacha	attacher	V	_
 des	un	DET	_
@@ -219357,7 +219845,8 @@ ruiner	ruiner	VINF	_
 un	un	DET	_
 particulier	particulier	NC	_
 ,	,	PONCT	_
-tandis_que	tandis_que	CS	_
+tandis	tandis	ADV	_
+que	que	CS	_
 les	le	DET	_
 revenus	revenu	NC	_
 d'	de	P	_
@@ -219525,7 +220014,7 @@ de	de	P	_
 plus	plus	ADV	_
 investi	investir	VPP	_
 les	le	DET	_
-placemens	placemens	NC	_
+placemens	placement	NC	_
 dans	dans	P	_
 les	le	DET	_
 fonds	fond	NC	_
@@ -220002,7 +220491,7 @@ ne	ne	ADV	_
 peut	pouvoir	V	_
 le	il	CLO	_
 payer	payer	VINF	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 en	en	P	_
 donnant	donner	VPR	_
 une	un	DET	_
@@ -220126,7 +220615,8 @@ et	et	CC	_
 plus	plus	ADV	_
 fâcheuse	fâcheux	ADJ	_
 .	.	PONCT	_
-Afin_d'	afin_de	P	_
+Afin	afin	ADV	_
+d'	de	P	_
 assurer	assurer	VINF	_
 le	le	DET	_
 titre	titre	NC	_
@@ -220497,10 +220987,10 @@ Amsterdam	Amsterdam	NP	_
 *	*	X	_
 Hambourg	Hambourg	NP	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 Le	le	DET	_
 taux	taux	NC	_
-auquel	auquel	PROREL	_
+auquel	à_lequel	PROREL	_
 la	le	DET	_
 compagnie	compagnie	NC	_
 consent	consentir	V	_
@@ -220516,7 +221006,7 @@ toujours	toujours	ADV	_
 inférieur	inférieur	ADJ	_
 à	à	P	_
 celui	celui	PRO	_
-auquel	auquel	PROREL	_
+auquel	à_lequel	PROREL	_
 se	se	CLO	_
 vendent	vendre	V	_
 les	le	DET	_
@@ -222013,7 +222503,7 @@ manière	manière	NC	_
 de	de	P	_
 l'	le	DET	_
 emploi	emploi	NC	_
-auquel	auquel	PROREL	_
+auquel	à_lequel	PROREL	_
 ils	il	CLS	_
 avaient	avoir	V	_
 été	être	VPP	_
@@ -222220,7 +222710,7 @@ intérêts	intérêt	NC	_
 composés	composer	VPP	_
 n'	ne	ADV	_
 est	être	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 un	un	DET	_
 pur	pur	ADJ	_
 charlatanisme	charlatanisme	NC	_
@@ -222663,7 +223153,8 @@ de	de	P	_
 son	son	DET	_
 revenu	revenu	NC	_
 ,	,	PONCT	_
-tandis_qu'	tandis_que	CS	_
+tandis	tandis	ADV	_
+qu'	que	CS	_
 en	en	P	_
 supprimant	supprimer	VPR	_
 l'	le	DET	_

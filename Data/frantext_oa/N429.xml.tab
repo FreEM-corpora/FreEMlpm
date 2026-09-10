@@ -33,7 +33,7 @@ constater	constater	VINF	_
 les	le	DET	_
 dates	date	NC	_
 des	de_le	P+D	_
-évènemens	évènemens	NC	_
+évènemens	événement	NC	_
 moraux	moral	ADJ	_
 ;	;	PONCT	_
 de	de	P	_
@@ -192,7 +192,7 @@ sur	sur	P	_
 les	le	DET	_
 causes	cause	NC	_
 des	de_le	P+D	_
-évènemens	évènemens	NC	_
+évènemens	événement	NC	_
 !	!	PONCT	_
 Et	et	CC	_
 quelle	quel	DET	_
@@ -333,7 +333,7 @@ de	de	P	_
 l'	le	DET	_
 autre	autre	NC	_
 ,	,	PONCT	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 aux	à_le	P+D	_
 petites	petit	ADJ	_
 portions	portion	NC	_
@@ -938,7 +938,7 @@ ensévelies	ensevelir	VPP	_
 !	!	PONCT	_
 Combien	combien	PROWH	_
 d'	de	P	_
-évènemens	évènemens	NC	_
+évènemens	événement	NC	_
 entièrement	entièrement	ADV	_
 oubliés	oublier	VPP	_
 !	!	PONCT	_
@@ -1265,7 +1265,7 @@ sur	sur	P	_
 l'	le	DET	_
 équateur	équateur	NC	_
 et	et	CC	_
-abaissée	abaissée	NC	_
+abaissée	abaissé	NC	_
 sous	sous	P	_
 les	le	DET	_
 pôles	pôle	NC	_
@@ -1459,7 +1459,7 @@ contester	contester	VINF	_
 .	.	PONCT	_
 Voyons	voir	V	_
 si	si	CS	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 sont	être	V	_
 prouvés	prouver	VPP	_
 ,	,	PONCT	_
@@ -1740,7 +1740,7 @@ la	le	DET	_
 chaleur	chaleur	NC	_
 ne	ne	ADV	_
 formeroit	former	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 une	un	DET	_
 substance	substance	NC	_
 solide	solide	ADJ	_
@@ -1765,7 +1765,8 @@ le	le	DET	_
 globe	globe	NC	_
 terrestre	terrestre	ADJ	_
 ,	,	PONCT	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 il	il	CLS	_
 semble	sembler	V	_
 d'	de	P	_
@@ -2066,7 +2067,9 @@ dès	dès	P	_
 qu'	que	CS	_
 on	on	CLS	_
 pénètre	pénétrer	V	_
-au-dedans	au-dedans	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dedans	dedans	ADV	_
 de	de	P	_
 la	le	DET	_
 terre	terre	NC	_
@@ -2370,7 +2373,7 @@ du	de_le	P+D	_
 soleil	soleil	NC	_
 ne	ne	ADV	_
 pénètre	pénétrer	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 à	à	P	_
 six_cents	six_cents	DET	_
 pieds	pied	NC	_
@@ -2410,7 +2413,9 @@ les	le	DET	_
 eaux	eau	NC	_
 qui	qui	PROREL	_
 sont	être	V	_
-au-dessous	au-dessous	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessous	dessous	ADV	_
 de	de	P	_
 cette	ce	DET	_
 profondeur	profondeur	NC	_
@@ -2485,7 +2490,9 @@ qu'	que	CS	_
 il	il	CLS	_
 y	y	CLO	_
 a	avoir	V	_
-au-dessous	au-dessous	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessous	dessous	ADV	_
 du	de_le	P+D	_
 bassin	bassin	NC	_
 de	de	P	_
@@ -2607,7 +2614,7 @@ les	le	DET	_
 puits	puits	NC	_
 ,	,	PONCT	_
 les	le	DET	_
-aquéducs	aquéducs	NC	_
+aquéducs	aqueduc	NC	_
 recouverts	recouvrir	VPP	_
 ,	,	PONCT	_
 les	le	DET	_
@@ -2618,7 +2625,8 @@ citernes	citerne	NC	_
 ,	,	PONCT	_
 etc	etc	ADV	_
 ;	;	PONCT	_
-tandis_que	tandis_que	CS	_
+tandis	tandis	ADV	_
+que	que	CS	_
 sur	sur	P	_
 tout	tout	ADJ	_
 le	le	DET	_
@@ -2808,7 +2816,7 @@ des	un	DET	_
 animaux	animal	NC	_
 n'	ne	ADV	_
 est	être	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 une	un	DET	_
 matière	matière	NC	_
 vitrescible	vitrescible	ADJ	_
@@ -2820,7 +2828,7 @@ résidus	résidu	NC	_
 ,	,	PONCT	_
 tous	tout	ADJ	_
 leurs	leur	DET	_
-détrimens	détrimens	NC	_
+détrimens	détriment	NC	_
 ultérieurs	ultérieur	ADJ	_
 peuvent	pouvoir	V	_
 se	se	CLO	_
@@ -2845,7 +2853,8 @@ regardent	regarder	V	_
 comme	comme	P	_
 infusibles	infusible	ADJ	_
 ,	,	PONCT	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 elles	il	CLS	_
 résistent	résister	V	_
 au	à_le	P+D	_
@@ -2919,7 +2928,7 @@ feu	feu	NC	_
 ,	,	PONCT	_
 les	il	CLO	_
 réduire	réduire	VINF	_
-toutes	tous	PRO	_
+toutes	tout	PRO	_
 ultérieurement	ultérieurement	ADV	_
 à	à	P	_
 leur	leur	DET	_
@@ -3270,8 +3279,9 @@ de	de	P	_
 l'	le	DET	_
 eau	eau	NC	_
 ;	;	PONCT	_
-parce_que	parce_que	CS	_
-toutes	tous	PRO	_
+parce	parce	ADV	_
+que	que	CS	_
+toutes	tout	PRO	_
 sont	être	V	_
 composées	composer	VPP	_
 de	de	P	_
@@ -3347,7 +3357,7 @@ très	très	ADV	_
 grande	grand	ADJ	_
 partie	partie	NC	_
 ;	;	PONCT	_
-toutes	tous	PRO	_
+toutes	tout	PRO	_
 ont	avoir	V	_
 originairement	originairement	ADV	_
 été	être	VPP	_
@@ -3446,7 +3456,7 @@ premières	premier	ADJ	_
 matières	matière	NC	_
 ,	,	PONCT	_
 qui	qui	PROREL	_
-toutes	tous	PRO	_
+toutes	tout	PRO	_
 nous	nous	CLS	_
 décèlent	déceler	V	_
 leur	leur	DET	_
@@ -3554,7 +3564,7 @@ dans	dans	P	_
 l'	le	DET	_
 eau	eau	NC	_
 ;	;	PONCT	_
-toutes	tous	PRO	_
+toutes	tout	PRO	_
 sont	être	V	_
 entièrement	entièrement	ADV	_
 composées	composer	VPP	_
@@ -3565,7 +3575,7 @@ de	de	P	_
 coquilles	coquille	NC	_
 et	et	CC	_
 de	de	P	_
-détrimens	détrimens	NC	_
+détrimens	détriment	NC	_
 des	de_le	P+D	_
 dépouilles	dépouille	NC	_
 de	de	P	_
@@ -3616,7 +3626,7 @@ madrépores	madrépore	NC	_
 d'	de	P	_
 astroïtes	astroïte	NC	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 Dont	dont	PROREL	_
 toutes	tout	ADJ	_
 les	le	DET	_
@@ -3706,7 +3716,7 @@ débris	débris	NC	_
 ou	ou	CC	_
 plutôt	plutôt	ADV	_
 des	de_le	P+D	_
-détrimens	détrimens	NC	_
+détrimens	détriment	NC	_
 de	de	P	_
 ces	ce	DET	_
 mêmes	même	ADJ	_
@@ -3839,7 +3849,7 @@ sont	être	V	_
 composées	composer	VPP	_
 de	de	P	_
 leurs	leur	DET	_
-détrimens	détrimens	NC	_
+détrimens	détriment	NC	_
 .	.	PONCT	_
 Seconds	second	ADJ	_
 monumens	monument	NC	_
@@ -3886,7 +3896,7 @@ des	de_le	P+D	_
 espèces	espèce	NC	_
 d'	de	P	_
 animaux	animal	NC	_
-auxquels	auquel	PROREL	_
+auxquels	à_lequel	PROREL	_
 ces	ce	DET	_
 dépouilles	dépouille	NC	_
 ont	avoir	V	_
@@ -4316,7 +4326,7 @@ sur	sur	P	_
 l'	le	DET	_
 équateur	équateur	NC	_
 et	et	CC	_
-abaissée	abaissée	NC	_
+abaissée	abaissé	NC	_
 sous	sous	P	_
 les	le	DET	_
 pôles	pôle	NC	_
@@ -4934,7 +4944,7 @@ est	être	V	_
 aujourd'hui	aujourd'hui	ADV	_
 .	.	PONCT	_
 *	*	PONCT	_
-M	M	NC	_
+M	monsieur	NC	_
 Gmelin	Gmelin	NP	_
 ,	,	PONCT	_
 qui	qui	PROREL	_
@@ -4987,7 +4997,7 @@ nord	nord	NC	_
 où	où	PROREL	_
 ils	il	CLS	_
 auront	avoir	V	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 péri	périr	VPP	_
 à	à	P	_
 la	le	DET	_
@@ -5406,7 +5416,7 @@ espèce	espèce	NC	_
 les	le	DET	_
 grosses	gros	ADJ	_
 dents	dent	NC	_
-quarrées	quarrer	VPP	_
+quarrées	carré	ADJ	_
 trouvées	trouver	VPP	_
 dans	dans	P	_
 ces	ce	DET	_
@@ -5424,7 +5434,7 @@ est	être	V	_
 en	en	P	_
 forme	forme	NC	_
 de	de	P	_
-treffle	treffle	NP	_
+treffle	trèfle	NP	_
 ,	,	PONCT	_
 ont	avoir	V	_
 tous	tout	ADJ	_
@@ -5502,7 +5512,7 @@ ceux	celui	PRO	_
 des	de_le	P+D	_
 éléphans	éléphant	NC	_
 actuels	actuel	ADJ	_
-auxquels	auquel	PROREL	_
+auxquels	à_lequel	PROREL	_
 nous	nous	CLS	_
 les	il	CLO	_
 avons	avoir	V	_
@@ -5784,7 +5794,8 @@ de	de	P	_
 l'	le	DET	_
 écliptique	écliptique	NC	_
 ;	;	PONCT	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 à	à	P	_
 la	le	DET	_
 première	premier	ADJ	_
@@ -5998,7 +6009,7 @@ le	le	DET	_
 60	60	NC	_
 ème	ème	ADJ	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 à	à	P	_
 cela	cela	PRO	_
 je	je	CLS	_
@@ -6642,7 +6653,7 @@ terres	terre	NC	_
 méridionales	méridional	ADJ	_
 ,	,	PONCT	_
 et	et	CC	_
-auxquels	auquel	PROREL	_
+auxquels	à_lequel	PROREL	_
 cette	ce	DET	_
 chaleur	chaleur	NC	_
 est	être	V	_
@@ -6671,7 +6682,7 @@ et	et	CC	_
 n'	ne	ADV	_
 en	en	CLO	_
 est	être	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 une	un	DET	_
 simple	simple	ADJ	_
 conséquence	conséquence	NC	_
@@ -6879,7 +6890,7 @@ on	on	CLS	_
 doit	devoir	V	_
 en	en	CLO	_
 conclure	conclure	VINF	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 à	à	P	_
 mesure	mesure	NC	_
 que	que	CS	_
@@ -7189,7 +7200,7 @@ des	de_le	P+D	_
 premiers	premier	ADJ	_
 siècles	siècle	NC	_
 ,	,	PONCT	_
-sur-tout	sur-tout	ADV	_
+sur-tout	surtout	ADV	_
 dans	dans	P	_
 les	le	DET	_
 espèces	espèce	NC	_
@@ -7405,7 +7416,7 @@ dents	dent	NC	_
 molaires	molaire	ADJ	_
 ,	,	PONCT	_
 presque	presque	ADV	_
-quarrées	quarrer	VPP	_
+quarrées	carré	ADJ	_
 ,	,	PONCT	_
 et	et	CC	_
 à	à	P	_
@@ -7463,7 +7474,7 @@ devoient	dévoyer	V	_
 nourrir	nourrir	VINF	_
 des	un	DET	_
 animaux	animal	NC	_
-auxquels	auquel	PROREL	_
+auxquels	à_lequel	PROREL	_
 ce	ce	DET	_
 degré	degré	NC	_
 de	de	P	_
@@ -7478,7 +7489,8 @@ subsistent	subsister	V	_
 plus	plus	ADV	_
 aujourd'hui	aujourd'hui	ADV	_
 ,	,	PONCT	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 probablement	probablement	ADV	_
 ils	il	CLS	_
 ont	avoir	V	_
@@ -7865,7 +7877,7 @@ vérité	vérité	NC	_
 ils	il	CLS	_
 ne	ne	ADV	_
 peuvent	pouvoir	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 y	y	CLO	_
 ajouter	ajouter	VINF	_
 un	un	DET	_
@@ -7938,7 +7950,7 @@ placés	placer	VPP	_
 dans	dans	P	_
 le	le	DET	_
 ciel	ciel	NC	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 au	à_le	P+D	_
 quatrième	quatrième	ADJ	_
 jour	jour	NC	_
@@ -8061,7 +8073,7 @@ le	le	DET	_
 plus	plus	ADV	_
 ancien	ancien	ADJ	_
 de	de	P	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 ,	,	PONCT	_
 pendant	pendant	P	_
 lequel	lequel	PROREL	_
@@ -8194,7 +8206,7 @@ abyme	abîme	NC	_
 n'	ne	ADV	_
 eussent	avoir	V	_
 existé	exister	VPP	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 un	un	DET	_
 jour	jour	NC	_
 ,	,	PONCT	_
@@ -8803,7 +8815,8 @@ des	de_le	P+D	_
 choses	chose	NC	_
 semblables	semblable	ADJ	_
 ;	;	PONCT	_
-tandis_que	tandis_que	CS	_
+tandis	tandis	ADV	_
+que	que	CS	_
 dans	dans	P	_
 nos	notre	DET	_
 langues	langue	NC	_
@@ -8908,7 +8921,7 @@ ne	ne	ADV	_
 doit	devoir	V	_
 s'	se	CLO	_
 appliquer	appliquer	VINF	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 à	à	P	_
 ces	ce	DET	_
 premières	premier	ADJ	_
@@ -9406,7 +9419,7 @@ que	que	PROREL	_
 nous	nous	CLS	_
 ne	ne	ADV	_
 faisons	faire	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 autant	autant	ADV	_
 que	que	CS	_
 nous	nous	CLS	_
@@ -9518,7 +9531,8 @@ ou	ou	CC	_
 huit_mille	huit_mille	DET	_
 ans	an	NC	_
 ,	,	PONCT	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 les	le	DET	_
 différentes	différent	ADJ	_
 généalogies	généalogie	NC	_
@@ -9720,7 +9734,9 @@ s'	se	CLO	_
 est	être	V	_
 pas	pas	ADV	_
 élevé	élever	VPP	_
-au-dessus	au-dessus	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 de	de	P	_
 leurs	leur	DET	_
 connoissances	connaissance	NC	_
@@ -9741,7 +9757,9 @@ s'	se	CLO	_
 étendoient	étendre	V	_
 pas	pas	ADV	_
 même	même	ADV	_
-au-delà	au-delà	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+delà	delà	ADV	_
 des	un	DET	_
 notions	notion	NC	_
 communes	commun	ADJ	_
@@ -9754,7 +9772,8 @@ rapport	rapport	NC	_
 des	de_le	P+D	_
 sens	sens	NC	_
 ;	;	PONCT	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 en	en	P	_
 effet	effet	NC	_
 c'	ce	CLS	_
@@ -9795,13 +9814,13 @@ il	il	CLS	_
 n'	ne	ADV	_
 y	y	CLO	_
 a	avoir	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 un	un	DET	_
 petit	petit	ADJ	_
 nombre	nombre	NC	_
 d'	de	P	_
 hommes	homme	NC	_
-auxquels	auquel	PROREL	_
+auxquels	à_lequel	PROREL	_
 les	le	DET	_
 vérités	vérité	NC	_
 astronomiques	astronomique	ADJ	_
@@ -10126,7 +10145,9 @@ de	de	P	_
 celles	celui	PRO	_
 qui	qui	PROREL	_
 étoient	être	V	_
-au-dessus	au-dessus	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 du	de_le	P+D	_
 firmament	firmament	NC	_
 ,	,	PONCT	_
@@ -10241,7 +10262,8 @@ les	le	DET	_
 eaux	eau	NC	_
 supérieures	supérieur	ADJ	_
 ,	,	PONCT	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 ils	il	CLS	_
 s'	se	CLO	_
 approchent	approcher	V	_
@@ -10370,7 +10392,7 @@ les	le	DET	_
 corps	corps	NC	_
 célestes	céleste	ADJ	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 Etc.	etc.	ADV	_
 Etc.	etc.	ADV	_
 Tout	tout	ADV	_
@@ -10400,7 +10422,7 @@ l'	le	DET	_
 homme	homme	NC	_
 vulgaire	vulgaire	ADJ	_
 ,	,	PONCT	_
-auquel	auquel	PROREL	_
+auquel	à_lequel	PROREL	_
 il	il	CLS	_
 ne	ne	ADV	_
 s'	se	CLO	_
@@ -10598,7 +10620,7 @@ du	de_le	P+D	_
 vrai	vrai	ADJ	_
 miracle	miracle	NC	_
 ,	,	PONCT	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 en	en	P	_
 ce	ce	PRO	_
 que	que	CS	_
@@ -10745,7 +10767,7 @@ moi	je	PRO	_
 être	être	VINF	_
 en	en	P	_
 contradiction	contradiction	NC	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 en	en	P	_
 apparence	apparence	NC	_
 ;	;	PONCT	_
@@ -10832,7 +10854,7 @@ toute	tout	DET	_
 hypothèse	hypothèse	NC	_
 ,	,	PONCT	_
 et	et	CC	_
-auxquels	auquel	PROREL	_
+auxquels	à_lequel	PROREL	_
 j'	je	CLS	_
 ai	avoir	V	_
 soumis	soumettre	VPP	_
@@ -10883,7 +10905,7 @@ l'	le	DET	_
 équateur	équateur	NC	_
 en	en	P	_
 s'	se	CLO	_
-abaissant	abaissant	VPR	_
+abaissant	abaisser	VPR	_
 sous	sous	P	_
 les	le	DET	_
 pôles	pôle	NC	_
@@ -11000,7 +11022,8 @@ d'	de	P	_
 un	un	DET	_
 treizième	treizième	NC	_
 ,	,	PONCT	_
-tandis_que	tandis_que	CS	_
+tandis	tandis	ADV	_
+que	que	CS	_
 ceux	celui	PRO	_
 de	de	P	_
 la	le	DET	_
@@ -11321,7 +11344,7 @@ qui	qui	PROREL	_
 circulent	circuler	V	_
 en	en	P	_
 effet	effet	NC	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 dans	dans	P	_
 le	le	DET	_
 plan	plan	NC	_
@@ -12101,7 +12124,7 @@ impulsion	impulsion	NC	_
 puisqu'	puisque	CS	_
 elles	il	CLS	_
 circulent	circuler	V	_
-toutes	tous	PRO	_
+toutes	tout	PRO	_
 dans	dans	P	_
 le	le	DET	_
 même	même	ADJ	_
@@ -12197,7 +12220,8 @@ celui	celui	PRO	_
 des	de_le	P+D	_
 planètes	planète	NC	_
 ,	,	PONCT	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 elles	il	CLS	_
 ont	avoir	V	_
 entr'elles	entr'elles	VPP	_
@@ -12970,7 +12994,7 @@ fixes	fixe	ADJ	_
 ce	ce	CLS	_
 n'	ne	ADV	_
 est	être	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 à	à	P	_
 cause	cause	NC	_
 de	de	P	_
@@ -13159,7 +13183,8 @@ violence	violence	NC	_
 extrême	extrême	ADJ	_
 ,	,	PONCT	_
 non-seulement	non-seulement	ADV	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 les	le	DET	_
 corps	corps	NC	_
 qui	qui	PROREL	_
@@ -13168,7 +13193,7 @@ autour	autour	ADV	_
 de	de	P	_
 lui	il	CLO	_
 sont	être	V	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 vastes	vaste	ADJ	_
 ,	,	PONCT	_
 solides	solide	ADJ	_
@@ -13179,7 +13204,8 @@ rapidement	rapidement	ADV	_
 mais	mais	CC	_
 encore	encore	ADV	_
 ,	,	PONCT	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 ils	il	CLS	_
 sont	être	V	_
 en	en	P	_
@@ -13204,7 +13230,7 @@ de	de	P	_
 Saturne	Saturne	NP	_
 ,	,	PONCT	_
 qui	qui	PROREL	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 pèsent	peser	V	_
 sur	sur	P	_
 le	le	DET	_
@@ -13413,7 +13439,7 @@ pour	pour	P	_
 ne	ne	ADV	_
 pas	pas	ADV	_
 dire	dire	VINF	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 ,	,	PONCT	_
 font	faire	V	_
 leur	leur	DET	_
@@ -13520,7 +13546,7 @@ Ainsi	ainsi	ADV	_
 en	en	P	_
 les	il	CLO	_
 réduisant	réduire	VPR	_
-toutes	tous	PRO	_
+toutes	tout	PRO	_
 à	à	P	_
 trois_cents_vingt-six	trois_cents_vingt-six	DET	_
 ans	an	NC	_
@@ -13872,7 +13898,7 @@ est	être	V	_
 devenu	devenir	VPP	_
 que	que	ADV	_
 plus	plus	ADV	_
-brillant	brillant	ADJ	_
+brillant	briller	ADJ	_
 ,	,	PONCT	_
 plus	plus	ADV	_
 actif	actif	ADJ	_
@@ -14381,7 +14407,7 @@ la	le	DET	_
 terre	terre	NC	_
 n'	ne	ADV	_
 est	être	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 une	un	DET	_
 petite	petit	ADJ	_
 planète	planète	NC	_
@@ -14391,7 +14417,7 @@ sur	sur	P	_
 l'	le	DET	_
 équateur	équateur	NC	_
 et	et	CC	_
-abaissée	abaissée	NC	_
+abaissée	abaissé	NC	_
 sous	sous	P	_
 les	le	DET	_
 pôles	pôle	NC	_
@@ -14438,7 +14464,7 @@ mouvemens	mouvement	NC	_
 leur	leur	DET	_
 pesanteur	pesanteur	NC	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 Mais	mais	CC	_
 je	je	CLS	_
 suis	être	V	_
@@ -14685,7 +14711,7 @@ planètes	planète	NC	_
 nouvelles	nouveau	ADJ	_
 ,	,	PONCT	_
 qui	qui	PROREL	_
-toutes	tous	PRO	_
+toutes	tout	PRO	_
 circuleroient	circuleroient	ADV	_
 ensemble	ensemble	ADV	_
 comme	comme	P	_
@@ -14746,7 +14772,7 @@ l'	le	DET	_
 équateur	équateur	NC	_
 en	en	P	_
 s'	se	CLO	_
-abaissant	abaissant	VPR	_
+abaissant	abaisser	VPR	_
 sous	sous	P	_
 les	le	DET	_
 pôles	pôle	NC	_
@@ -14971,7 +14997,9 @@ soleil	soleil	NC	_
 en	en	P	_
 la	il	CLO	_
 projetant	projeter	VPR	_
-au-dehors	au-dehors	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dehors	dehors	ADV	_
 ?	?	PONCT	_
 Je	je	CLS	_
 demande	demander	V	_
@@ -15411,7 +15439,7 @@ nul	nul	PRO	_
 ,	,	PONCT	_
 se	se	CLO	_
 sont	être	V	_
-abaissées	abaissées	VPP	_
+abaissées	abaissé	VPP	_
 dans	dans	P	_
 la	le	DET	_
 proportion	proportion	NC	_
@@ -15471,7 +15499,8 @@ viendroit	venir	V	_
 s'	se	CLO	_
 accélérer	accélérer	VINF	_
 ,	,	PONCT	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 la	le	DET	_
 matière	matière	NC	_
 ayant	avoir	VPR	_
@@ -16334,7 +16363,9 @@ intérieur	intérieur	NC	_
 ,	,	PONCT	_
 et	et	CC	_
 lançoient	lancer	V	_
-au-dehors	au-dehors	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dehors	dehors	ADV	_
 une	un	DET	_
 lumière	lumière	NC	_
 très	très	ADV	_
@@ -16452,7 +16483,7 @@ saturne	saturne	NC	_
 ,	,	PONCT	_
 lesquels	lequel	PROREL	_
 sont	être	V	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 dans	dans	P	_
 le	le	DET	_
 plan	plan	NC	_
@@ -16751,7 +16782,7 @@ lune	un	NC	_
 ,	,	PONCT	_
 n'	ne	ADV	_
 est	être	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 à	à	P	_
 89500	89500	DET	_
 lieues	lieue	NC	_
@@ -16846,7 +16877,7 @@ la	le	DET	_
 plus	plus	ADV	_
 légère	léger	ADJ	_
 de	de	P	_
-toutes	tous	PRO	_
+toutes	tout	PRO	_
 ,	,	PONCT	_
 a	avoir	V	_
 été	être	VPP	_
@@ -16860,7 +16891,7 @@ ne	ne	ADV	_
 s'	se	CLO	_
 est	être	V	_
 rassemblée	rassembler	VPP	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 à	à	P	_
 397877	397877	DET	_
 lieues	lieue	NC	_
@@ -17214,7 +17245,7 @@ leur	leur	DET	_
 chaleur	chaleur	NC	_
 ,	,	PONCT	_
 et	et	CC	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 seroient	être	V	_
 aujourd'hui	aujourd'hui	ADV	_
 plus	plus	ADV	_
@@ -17475,7 +17506,7 @@ point	point	ADV	_
 de	un	DET	_
 satellites	satellite	NC	_
 .	.	PONCT	_
-Vénus	vénus	NC	_
+Vénus	Vénus	NC	_
 pourroit	pouvoir	V	_
 en	en	CLO	_
 avoir	avoir	VINF	_
@@ -17806,7 +17837,8 @@ par	par	P	_
 le	le	DET	_
 feu	feu	NC	_
 ;	;	PONCT	_
-tandis_que	tandis_que	CS	_
+tandis	tandis	ADV	_
+que	que	CS	_
 la	le	DET	_
 lune	un	NC	_
 qui	qui	PROREL	_
@@ -18160,7 +18192,7 @@ Toutes	tous	PRO	_
 au	à_le	P+D	_
 commencement	commencement	NC	_
 étoient	être	V	_
-brillantes	brillant	ADJ	_
+brillantes	briller	ADJ	_
 et	et	CC	_
 lumineuses	lumineux	ADJ	_
 ;	;	PONCT	_
@@ -18280,7 +18312,8 @@ dans	dans	P	_
 sa	son	DET	_
 splendeur	splendeur	NC	_
 ,	,	PONCT	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 il	il	CLS	_
 est	être	V	_
 le	le	DET	_
@@ -18578,7 +18611,8 @@ monnoie	monnaie	NC	_
 !	!	PONCT	_
 seroit	être	V	_
 -ce	ce	CLS	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 la	le	DET	_
 somme	somme	NC	_
 du	de_le	P+D	_
@@ -18682,7 +18716,7 @@ grands	grand	ADJ	_
 effets	effet	NC	_
 ,	,	PONCT	_
 et	et	CC	_
-sur-tout	sur-tout	ADV	_
+sur-tout	surtout	ADV	_
 avec	avec	P	_
 les	le	DET	_
 constructions	construction	NC	_
@@ -18741,7 +18775,7 @@ coquilles	coquille	NC	_
 et	et	CC	_
 de	de	P	_
 leurs	leur	DET	_
-détrimens	détrimens	NC	_
+détrimens	détriment	NC	_
 ;	;	PONCT	_
 enfin	enfin	ADV	_
 sur	sur	P	_
@@ -18864,7 +18898,7 @@ de	de	P	_
 hauteur	hauteur	NC	_
 .	.	PONCT	_
 Les	le	DET	_
-sédimens	sédimens	NC	_
+sédimens	sédiment	NC	_
 successifs	successif	ADJ	_
 des	de_le	P+D	_
 eaux	eau	NC	_
@@ -19047,7 +19081,7 @@ le	le	DET	_
 dépôt	dépôt	NC	_
 n'	ne	ADV	_
 augmente	augmenter	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 insensiblement	insensiblement	ADV	_
 et	et	CC	_
 de	de	P	_
@@ -19129,7 +19163,7 @@ au	à_le	P+D	_
 desséchement	dessèchement	NC	_
 de	de	P	_
 ces	ce	DET	_
-sédimens	sédimens	NC	_
+sédimens	sédiment	NC	_
 ,	,	PONCT	_
 et	et	CC	_
 encore	encore	ADV	_
@@ -19162,7 +19196,8 @@ dans	dans	P	_
 ce	ce	DET	_
 détail	détail	NC	_
 ,	,	PONCT	_
-afin_de	afin_de	P	_
+afin	afin	ADV	_
+de	de	P	_
 démontrer	démontrer	VINF	_
 qu'	que	CS	_
 au	à_le	P+D	_
@@ -19203,7 +19238,7 @@ la	le	DET	_
 nature	nature	NC	_
 .	.	PONCT	_
 SECONDE	second	ADJ	_
-ÉPOQUE	ÉPOQUE	NC	_
+ÉPOQUE	époque	NC	_
 lorsque	lorsque	CS	_
 la	le	DET	_
 matière	matière	NC	_
@@ -19326,7 +19361,9 @@ des	un	DET	_
 aspérités	aspérité	NC	_
 ;	;	PONCT	_
 et	et	CC	_
-au-dessous	au-dessous	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessous	dessous	ADV	_
 de	de	P	_
 la	le	DET	_
 surface	surface	NC	_
@@ -19630,7 +19667,9 @@ la	le	DET	_
 grande	grand	ADJ	_
 chaleur	chaleur	NC	_
 chasse	chasser	V	_
-au-dehors	au-dehors	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dehors	dehors	ADV	_
 ,	,	PONCT	_
 et	et	CC	_
 qui	qui	PROREL	_
@@ -19679,7 +19718,8 @@ chaleur	chaleur	NC	_
 moins	moins	ADV	_
 forte	fort	ADJ	_
 ,	,	PONCT	_
-tandis_que	tandis_que	CS	_
+tandis	tandis	ADV	_
+que	que	CS	_
 les	le	DET	_
 matières	matière	NC	_
 fixes	fixe	ADJ	_
@@ -19756,7 +19796,7 @@ lesquelles	il	PROREL	_
 n'	ne	ADV	_
 ont	avoir	V	_
 existé	exister	VPP	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 après	après	P	_
 l'	le	DET	_
 établissement	établissement	NC	_
@@ -19828,7 +19868,7 @@ s'	se	CLO	_
 sur	sur	P	_
 la	le	DET	_
 terre	terre	NC	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 au	à_le	P+D	_
 moment	moment	NC	_
 où	où	PROREL	_
@@ -19888,7 +19928,7 @@ brûler	brûler	VINF	_
 ;	;	PONCT	_
 de	de	P	_
 sorte	sorte	NC	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 en	en	P	_
 comptant	compter	VPR	_
 soixante-quinze_mille	soixante-quinze_mille	DET	_
@@ -19960,7 +20000,7 @@ différence	différence	NC	_
 entre	entre	P	_
 le	le	DET	_
 degré	degré	NC	_
-auquel	auquel	PROREL	_
+auquel	à_lequel	PROREL	_
 l'	le	DET	_
 eau	eau	NC	_
 chaude	chaud	ADJ	_
@@ -20414,7 +20454,7 @@ arbres	arbre	NC	_
 métalliques	métallique	ADJ	_
 ,	,	PONCT	_
 ayant	avoir	VPR	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 été	être	VPP	_
 formés	former	VPP	_
 ,	,	PONCT	_
@@ -20457,7 +20497,8 @@ des	de_le	P+D	_
 hautes	haut	ADJ	_
 montagnes	montagne	NC	_
 ;	;	PONCT	_
-tandis_que	tandis_que	CS	_
+tandis	tandis	ADV	_
+que	que	CS	_
 c'	ce	CLS	_
 est	être	V	_
 au	à_le	P+D	_
@@ -20540,7 +20581,7 @@ minérales	minéral	ADJ	_
 qu'	que	CS	_
 elle	il	CLS	_
 a	avoir	V	_
-chariées	chariées	VPP	_
+chariées	charrié	VPP	_
 et	et	CC	_
 déposées	déposer	VPP	_
 sous	sous	P	_
@@ -20549,7 +20590,9 @@ formes	forme	NC	_
 ,	,	PONCT	_
 et	et	CC	_
 toujours	toujours	ADV	_
-au-dessous	au-dessous	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessous	dessous	ADV	_
 des	un	DET	_
 filons	filon	NC	_
 primitifs	primitif	ADJ	_
@@ -20766,7 +20809,7 @@ feu	feu	NC	_
 toutes	tout	ADV	_
 vitrifiées	vitrifier	VPP	_
 ,	,	PONCT	_
-toutes	tous	PRO	_
+toutes	tout	PRO	_
 de	de	P	_
 la	le	DET	_
 même	même	ADJ	_
@@ -21036,7 +21079,7 @@ que	que	CS	_
 les	le	DET	_
 mines	mine	NC	_
 ,	,	PONCT	_
-sur-tout	sur-tout	ADV	_
+sur-tout	surtout	ADV	_
 celles	celui	PRO	_
 des	de_le	P+D	_
 métaux	métal	NC	_
@@ -21144,7 +21187,7 @@ ou	ou	CC	_
 neuf	neuf	DET	_
 heures	heure	NC	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 Qui	qui	PROWH	_
 étend	étendre	V	_
 des	un	DET	_
@@ -21453,7 +21496,8 @@ une	un	DET	_
 forme	forme	NC	_
 minéralisée	minéraliser	VPP	_
 ,	,	PONCT	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 ils	il	CLS	_
 ont	avoir	V	_
 été	être	VPP	_
@@ -21697,7 +21741,8 @@ fixes	fixe	ADJ	_
 au	à_le	P+D	_
 feu	feu	NC	_
 ,	,	PONCT	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 ils	il	CLS	_
 contiennent	contenir	V	_
 des	un	DET	_
@@ -21846,7 +21891,7 @@ différens	différent	ADJ	_
 métaux	métal	NC	_
 se	se	CLO	_
 trouvent	trouver	V	_
-toutes	tous	PRO	_
+toutes	tout	PRO	_
 dans	dans	P	_
 la	le	DET	_
 roche	roche	NC	_
@@ -21959,7 +22004,7 @@ le	le	DET	_
 plus	plus	ADV	_
 volatil	volatil	ADJ	_
 de	de	P	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 ,	,	PONCT	_
 et	et	CC	_
 cependant	cependant	ADV	_
@@ -21976,7 +22021,7 @@ le	le	DET	_
 plus	plus	ADV	_
 fixe	fixe	ADJ	_
 de	de	P	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 ,	,	PONCT	_
 que	que	ADV	_
 par	par	P	_
@@ -22034,7 +22079,7 @@ comme	comme	CS	_
 il	il	CLS	_
 ne	ne	ADV	_
 faut	falloir	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 une	un	DET	_
 très	très	ADV	_
 -	-	PONCT	_
@@ -22082,7 +22127,8 @@ l'	il	CLO	_
 est	être	V	_
 encore	encore	ADV	_
 ,	,	PONCT	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 la	le	DET	_
 chaleur	chaleur	NC	_
 actuelle	actuel	ADJ	_
@@ -22126,7 +22172,9 @@ il	il	CLS	_
 faut	falloir	V	_
 197	197	DET	_
 degrés	degré	NC	_
-au-dessous	au-dessous	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessous	dessous	ADV	_
 de	de	P	_
 la	le	DET	_
 température	température	NC	_
@@ -22156,7 +22204,9 @@ partie	partie	NC	_
 des	de_le	P+D	_
 1000	1000	NC	_
 degrés	degré	NC	_
-au-dessous	au-dessous	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessous	dessous	ADV	_
 de	de	P	_
 la	le	DET	_
 congélation	congélation	NC	_
@@ -22343,7 +22393,7 @@ nature	nature	NC	_
 ce	ce	CLS	_
 n'	ne	ADV	_
 est	être	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 une	un	DET	_
 pierre	pierre	NC	_
 ferrugineuse	ferrugineux	ADJ	_
@@ -22781,7 +22831,7 @@ de	de	P	_
 Magellan	Magellan	NP	_
 n'	ne	ADV	_
 est	être	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 une	un	DET	_
 coupure	coupure	NC	_
 accidentelle	accidentel	ADJ	_
@@ -23463,7 +23513,7 @@ Antilles	Antilles	NP	_
 n'	ne	ADV	_
 en	en	CLO	_
 sont	être	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 une	un	DET	_
 branche	branche	NC	_
 qui	qui	PROREL	_
@@ -23507,7 +23557,9 @@ extrémité	extrémité	NC	_
 des	de_le	P+D	_
 cordelières	cordelière	NC	_
 ,	,	PONCT	_
-au-delà	au-delà	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+delà	delà	ADV	_
 des	un	DET	_
 lacs	lac	NC	_
 sioux	sioux	ADJ	_
@@ -23757,7 +23809,7 @@ depuis	depuis	P	_
 les	le	DET	_
 alpes	Alpes	NP	_
 du	de_le	P+D	_
-Tirol	Tirol	NP	_
+Tirol	Tyrol	NP	_
 jusqu'	jusque	P	_
 en	en	P	_
 Pologne	Pologne	NP	_
@@ -23910,7 +23962,7 @@ de	de	P	_
 matières	matière	NC	_
 vitrescibles	vitrescible	ADJ	_
 :	:	PONCT	_
-toutes	tous	PRO	_
+toutes	tout	PRO	_
 tiennent	tenir	V	_
 par	par	P	_
 leur	leur	DET	_
@@ -23943,7 +23995,7 @@ temps	temps	NC	_
 et	et	CC	_
 presque	presque	ADV	_
 en	en	P	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 sens	sentir	V	_
 la	le	DET	_
 surface	surface	NC	_
@@ -23988,7 +24040,7 @@ ne	ne	ADV	_
 peuvent	pouvoir	V	_
 être	être	VINF	_
 attribués	attribuer	VPP	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 à	à	P	_
 l'	le	DET	_
 action	action	NC	_
@@ -24053,7 +24105,7 @@ cavités	cavité	NC	_
 l'	le	DET	_
 intérieur	intérieur	NC	_
 ,	,	PONCT	_
-sur-tout	sur-tout	ADV	_
+sur-tout	surtout	ADV	_
 dans	dans	P	_
 les	le	DET	_
 couches	couche	NC	_
@@ -24145,7 +24197,7 @@ qui	qui	PROREL	_
 ne	ne	ADV	_
 s'	se	CLO	_
 élevoient	élever	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 à	à	P	_
 une	un	DET	_
 hauteur	hauteur	NC	_
@@ -24161,12 +24213,12 @@ la	le	DET	_
 suite	suite	NC	_
 par	par	P	_
 les	le	DET	_
-sédimens	sédimens	NC	_
+sédimens	sédiment	NC	_
 des	de_le	P+D	_
 eaux	eau	NC	_
 ,	,	PONCT	_
 et	et	CC	_
-toutes	tous	PRO	_
+toutes	tout	PRO	_
 ont	avoir	V	_
 été	être	VPP	_
 environnées	environner	VPP	_
@@ -24182,7 +24234,7 @@ hauteurs	hauteur	NC	_
 de	de	P	_
 ces	ce	DET	_
 mêmes	même	NC	_
-sédimens	sédimens	ADJ	_
+sédimens	sédiment	ADJ	_
 ;	;	PONCT	_
 c'	ce	CLS	_
 est	être	V	_
@@ -24410,7 +24462,9 @@ a	avoir	V	_
 découvert	découvrir	VPP	_
 de	de	P	_
 terre	terre	NC	_
-au-delà	au-delà	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+delà	delà	ADV	_
 :	:	PONCT	_
 il	il	CLS	_
 y	y	CLO	_
@@ -24507,7 +24561,7 @@ Californie	Californie	NP	_
 celle	celui	PRO	_
 du	de_le	P+D	_
 *	*	X	_
-Groënland	Groënland	NC	_
+Groënland	Groenland	NC	_
 ;	;	PONCT	_
 la	le	DET	_
 pointe	pointe	NC	_
@@ -24658,7 +24712,7 @@ ne	ne	ADV	_
 doit	devoir	V	_
 être	être	VINF	_
 attribuée	attribuer	VPP	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 aux	à_le	P+D	_
 effets	effet	NC	_
 de	de	P	_
@@ -24695,7 +24749,8 @@ les	le	DET	_
 deux	deux	ADJ	_
 tropiques	tropique	NC	_
 ,	,	PONCT	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 cette	ce	DET	_
 zone	zone	NC	_
 de	de	P	_
@@ -24801,7 +24856,7 @@ les	le	DET	_
 mers	mer	NC	_
 les	le	DET	_
 plus	plus	ADV	_
-entre-coupées	entre-coupées	ADJ	_
+entre-coupées	entre-coupé	ADJ	_
 ,	,	PONCT	_
 semées	semer	VPP	_
 d'	de	P	_
@@ -24838,7 +24893,7 @@ la	le	DET	_
 moins	moins	ADV	_
 solide	solide	ADJ	_
 de	de	P	_
-toutes	tous	PRO	_
+toutes	tout	PRO	_
 .	.	PONCT	_
 Et	et	CC	_
 quoique	quoique	CS	_
@@ -25048,7 +25103,7 @@ approchoient	approcher	V	_
 des	un	DET	_
 pôles	pôle	NC	_
 :	:	PONCT	_
-toutes	tous	PRO	_
+toutes	tout	PRO	_
 n'	ne	ADV	_
 étoient	être	V	_
 composées	composer	VPP	_
@@ -25069,7 +25124,7 @@ intérieure	intérieur	ADJ	_
 du	de_le	P+D	_
 globe	globe	NC	_
 ;	;	PONCT	_
-toutes	tous	PRO	_
+toutes	tout	PRO	_
 doivent	devoir	V	_
 leur	leur	DET	_
 origine	origine	NC	_
@@ -25128,7 +25183,7 @@ suite	suite	NC	_
 recouvertes	recouvrir	VPP	_
 par	par	P	_
 les	le	DET	_
-sédimens	sédimens	NC	_
+sédimens	sédiment	NC	_
 des	de_le	P+D	_
 eaux	eau	NC	_
 et	et	CC	_
@@ -25159,7 +25214,9 @@ souvent	souvent	ADV	_
 des	un	DET	_
 bancs	banc	NC	_
 calcaires	calcaire	ADJ	_
-au-dessus	au-dessus	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 des	de_le	P+D	_
 rochers	rocher	NC	_
 de	de	P	_
@@ -25186,7 +25243,9 @@ masses	masse	NC	_
 de	de	P	_
 roc	roc	NC	_
 vif	vif	ADJ	_
-au-dessus	au-dessus	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 des	de_le	P+D	_
 bancs	banc	NC	_
 calcaires	calcaire	ADJ	_
@@ -25303,7 +25362,7 @@ troisième	troisième	ADJ	_
 époque	époque	NC	_
 .	.	PONCT	_
 TROISIÈME	troisième	ADJ	_
-ÉPOQUE	ÉPOQUE	NC	_
+ÉPOQUE	époque	NC	_
 lorsque	lorsque	CS	_
 les	le	DET	_
 eaux	eau	NC	_
@@ -25434,7 +25493,9 @@ jusqu'	jusque	P	_
 à	à	P	_
 quinze_cents	quinze_cents	DET	_
 toises	toise	NC	_
-au-dessus	au-dessus	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 du	de_le	P+D	_
 niveau	niveau	NC	_
 de	de	P	_
@@ -25512,7 +25573,9 @@ deux_mille	deux_mille	DET	_
 toises	toise	NC	_
 de	de	P	_
 hauteur	hauteur	NC	_
-au-dessus	au-dessus	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 du	de_le	P+D	_
 niveau	niveau	NC	_
 de	de	P	_
@@ -25636,7 +25699,7 @@ inférer	inférer	VINF	_
 que	que	CS	_
 les	le	DET	_
 animaux	animal	NC	_
-auxquels	auquel	PROREL	_
+auxquels	à_lequel	PROREL	_
 ces	ce	DET	_
 dépouilles	dépouille	NC	_
 ont	avoir	V	_
@@ -25670,7 +25733,7 @@ dépouilles	dépouille	NC	_
 et	et	CC	_
 de	de	P	_
 leurs	leur	DET	_
-détrimens	détrimens	NC	_
+détrimens	détriment	NC	_
 ;	;	PONCT	_
 puisque	puisque	CS	_
 c'	ce	CLS	_
@@ -25682,7 +25745,7 @@ dépouilles	dépouille	NC	_
 et	et	CC	_
 de	de	P	_
 leurs	leur	DET	_
-détrimens	détrimens	NC	_
+détrimens	détriment	NC	_
 qu'	que	PROREL	_
 ont	avoir	V	_
 été	être	VPP	_
@@ -25791,7 +25854,7 @@ chaleur	chaleur	NC	_
 ne	ne	ADV	_
 pouvoit	pouvoir	V	_
 convenir	convenir	VINF	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 à	à	P	_
 d'	un	DET	_
 autres	autre	ADJ	_
@@ -25868,7 +25931,7 @@ ont	avoir	V	_
 suivi	suivre	VPP	_
 le	le	DET	_
 temps	temps	NC	_
-auquel	auquel	PROREL	_
+auquel	à_lequel	PROREL	_
 les	le	DET	_
 eaux	eau	NC	_
 venoient	venir	V	_
@@ -26146,7 +26209,7 @@ précédemment	précédemment	ADV	_
 sublimées	sublimer	VPP	_
 ,	,	PONCT	_
 qui	qui	PROREL	_
-toutes	tous	PRO	_
+toutes	tout	PRO	_
 s'	se	CLO	_
 en	en	CLO	_
 séparèrent	séparer	V	_
@@ -26274,7 +26337,7 @@ violence	violence	NC	_
 des	de_le	P+D	_
 vents	vent	NC	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 Auront	avoir	V	_
 obéi	obéir	VPP	_
 à	à	P	_
@@ -26364,7 +26427,7 @@ mêmes	même	ADJ	_
 eaux	eau	NC	_
 se	se	CLO	_
 sont	être	V	_
-abaissées	abaissées	VPP	_
+abaissées	abaissé	VPP	_
 successivement	successivement	ADV	_
 pour	pour	P	_
 remplir	remplir	VINF	_
@@ -26500,7 +26563,7 @@ acides	acide	NC	_
 les	le	DET	_
 sels	sel	NC	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 Elle	il	CLS	_
 a	avoir	V	_
 converti	convertir	VPP	_
@@ -26584,7 +26647,7 @@ très	très	ADV	_
 s'	se	CLO	_
 est	être	V	_
 successivement	successivement	ADV	_
-abaissée	abaissée	ADJ	_
+abaissée	abaissé	ADJ	_
 pour	pour	P	_
 remplir	remplir	VINF	_
 les	le	DET	_
@@ -26729,7 +26792,9 @@ trouve	trouver	V	_
 de	un	DET	_
 grandes	grand	ADJ	_
 hauteurs	hauteur	NC	_
-au-dessus	au-dessus	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 du	de_le	P+D	_
 niveau	niveau	NC	_
 actuel	actuel	ADJ	_
@@ -26785,7 +26850,7 @@ qui	qui	PROREL	_
 sont	être	V	_
 dans	dans	P	_
 les	le	DET	_
-terreins	terreins	NC	_
+terreins	terrain	NC	_
 plus	plus	ADV	_
 bas	bas	ADJ	_
 .	.	PONCT	_
@@ -27096,7 +27161,7 @@ qu'	que	CS	_
 elle	il	CLS	_
 avoit	avoir	V	_
 promptement	promptement	ADV	_
-abandonnées	abandonnées	VPP	_
+abandonnées	abandonner	VPP	_
 ;	;	PONCT	_
 et	et	CC	_
 ces	ce	DET	_
@@ -27390,7 +27455,7 @@ que	que	CS	_
 le	le	DET	_
 mouvement	mouvement	NC	_
 des	de_le	P+D	_
-marées	marées	NC	_
+marées	marée	NC	_
 et	et	CC	_
 des	un	DET	_
 vents	vent	NC	_
@@ -27410,7 +27475,7 @@ la	le	DET	_
 terre	terre	NC	_
 par	par	P	_
 les	le	DET	_
-sédimens	sédimens	NC	_
+sédimens	sédiment	NC	_
 et	et	CC	_
 le	le	DET	_
 dépôt	dépôt	NC	_
@@ -27530,7 +27595,7 @@ et	et	CC	_
 produites	produire	VPP	_
 par	par	P	_
 leurs	leur	DET	_
-sédimens	sédimens	NC	_
+sédimens	sédiment	NC	_
 .	.	PONCT	_
 Il	il	CLS	_
 n'	ne	ADV	_
@@ -27676,7 +27741,7 @@ de	de	P	_
 terres	terre	NC	_
 et	et	CC	_
 de	de	P	_
-sédimens	sédimens	NC	_
+sédimens	sédiment	NC	_
 de	de	P	_
 toute	tout	DET	_
 espèce	espèce	NC	_
@@ -27958,7 +28023,8 @@ aux	à_le	P+D	_
 autres	autre	ADJ	_
 matières	matière	NC	_
 que	que	ADV	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 elles	il	CLS	_
 contiennent	contenir	V	_
 des	un	DET	_
@@ -28074,7 +28140,9 @@ successivement	successivement	ADV	_
 transportées	transporter	VPP	_
 et	et	CC	_
 déposées	déposer	VPP	_
-au-dessus	au-dessus	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 de	de	P	_
 la	le	DET	_
 roche	roche	NC	_
@@ -28084,7 +28152,9 @@ globe	globe	NC	_
 ,	,	PONCT	_
 c'est-à-dire	c'est-à-dire	CC	_
 ,	,	PONCT	_
-au-dessus	au-dessus	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 de	de	P	_
 la	le	DET	_
 masse	masse	NC	_
@@ -28224,7 +28294,9 @@ argileuses	argileux	ADJ	_
 on	on	CLS	_
 trouve	trouver	V	_
 quelquefois	quelquefois	ADV	_
-au-dessous	au-dessous	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessous	dessous	ADV	_
 de	de	P	_
 ces	ce	DET	_
 mêmes	même	ADJ	_
@@ -28327,7 +28399,7 @@ ne	ne	ADV	_
 sont	être	V	_
 que	que	ADV	_
 les	le	DET	_
-détrimens	détrimens	NC	_
+détrimens	détriment	NC	_
 des	de_le	P+D	_
 granites	granite	NC	_
 ,	,	PONCT	_
@@ -28636,7 +28708,7 @@ on	on	CLS	_
 n'	ne	ADV	_
 eût	avoir	V	_
 creusé	creuser	VPP	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 à	à	P	_
 cinquante	cinquante	DET	_
 pieds	pied	NC	_
@@ -28677,7 +28749,9 @@ quatre-vingts	quatre-vingts	DET	_
 pieds	pied	NC	_
 de	de	P	_
 hauteur	hauteur	NC	_
-au-dessus	au-dessus	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 :	:	PONCT	_
 cela	cela	PRO	_
 me	je	CLO	_
@@ -28729,7 +28803,9 @@ horizontalement	horizontalement	ADV	_
 la	le	DET	_
 même	même	ADJ	_
 hauteur	hauteur	NC	_
-au-dessus	au-dessus	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 de	de	P	_
 la	le	DET	_
 couche	couche	NC	_
@@ -28806,7 +28882,7 @@ a	avoir	V	_
 eu	avoir	VPP	_
 d'	de	P	_
 intervalle	intervalle	NC	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 autant	autant	ADV	_
 que	que	CS	_
 la	le	DET	_
@@ -28875,7 +28951,7 @@ le	le	DET	_
 tout	tout	NC	_
 comme	comme	P	_
 des	un	DET	_
-sédimens	sédimens	NC	_
+sédimens	sédiment	NC	_
 ,	,	PONCT	_
 elle	il	CLS	_
 a	avoir	V	_
@@ -29114,7 +29190,9 @@ d'	de	P	_
 argile	argile	NC	_
 ;	;	PONCT	_
 car	car	CC	_
-au-dessous	au-dessous	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessous	dessous	ADV	_
 de	de	P	_
 cent_trente	cent_trente	DET	_
 pieds	pied	NC	_
@@ -29232,7 +29310,8 @@ presque	presque	ADV	_
 toujours	toujours	ADV	_
 inclinées	incliner	VPP	_
 ;	;	PONCT	_
-tandis_que	tandis_que	CS	_
+tandis	tandis	ADV	_
+que	que	CS	_
 celles	celui	PRO	_
 des	de_le	P+D	_
 argiles	argile	NC	_
@@ -29273,7 +29352,8 @@ une	un	DET	_
 base	base	NC	_
 horizontale	horizontal	ADJ	_
 ;	;	PONCT	_
-tandis_que	tandis_que	CS	_
+tandis	tandis	ADV	_
+que	que	CS	_
 les	le	DET	_
 autres	autre	NC	_
 ,	,	PONCT	_
@@ -29291,7 +29371,7 @@ un	un	DET	_
 courant	courant	NC	_
 sur	sur	P	_
 un	un	DET	_
-terrein	terrein	NC	_
+terrein	terrain	NC	_
 en	en	P	_
 pente	pente	NC	_
 .	.	PONCT	_
@@ -29301,7 +29381,7 @@ de	de	P	_
 charbon	charbon	NC	_
 ,	,	PONCT	_
 qui	qui	PROREL	_
-toutes	tous	PRO	_
+toutes	tout	PRO	_
 sont	être	V	_
 composées	composer	VPP	_
 de	de	P	_
@@ -29335,7 +29415,9 @@ qui	qui	PROREL	_
 se	se	CLO	_
 trouvoient	trouver	V	_
 élevées	élever	VPP	_
-au-dessus	au-dessus	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 des	de_le	P+D	_
 eaux	eau	NC	_
 produisirent	produire	V	_
@@ -29630,13 +29712,15 @@ charbon	charbon	NC	_
 dans	dans	P	_
 le	le	DET	_
 même	même	NC	_
-terrein	terrein	ADJ	_
+terrein	terrain	ADJ	_
 ;	;	PONCT	_
 car	car	CC	_
 on	on	CLS	_
 trouve	trouver	V	_
 souvent	souvent	ADV	_
-au-dessous	au-dessous	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessous	dessous	ADV	_
 de	de	P	_
 la	le	DET	_
 première	premier	ADJ	_
@@ -29982,7 +30066,7 @@ entiers	entier	ADJ	_
 ,	,	PONCT	_
 et	et	CC	_
 les	le	DET	_
-détrimens	détrimens	NC	_
+détrimens	détriment	NC	_
 très	très	ADV	_
 -	-	PONCT	_
 reconnoissables	reconnaissable	ADJ	_
@@ -30003,7 +30087,7 @@ de	de	P	_
 terre	terre	NC	_
 n'	ne	ADV	_
 est	être	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 un	un	DET	_
 assemblage	assemblage	NC	_
 de	de	P	_
@@ -30245,7 +30329,9 @@ toutes	tout	ADJ	_
 les	le	DET	_
 terres	terre	NC	_
 élevées	élevé	ADJ	_
-au-dessus	au-dessus	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 des	de_le	P+D	_
 eaux	eau	NC	_
 étant	être	VPR	_
@@ -30288,7 +30374,7 @@ végétaux	végétal	NC	_
 et	et	CC	_
 de	de	P	_
 leurs	leur	DET	_
-détrimens	détrimens	NC	_
+détrimens	détriment	NC	_
 ,	,	PONCT	_
 entraînés	entraîner	VPP	_
 par	par	P	_
@@ -30443,7 +30529,8 @@ choisissent	choisir	V	_
 pour	pour	P	_
 gîte	gîte	NC	_
 ,	,	PONCT	_
-afin_de	afin_de	P	_
+afin	afin	ADV	_
+de	de	P	_
 reconnoître	reconnaître	VINF	_
 s'	si	CS	_
 il	il	CLS	_
@@ -30582,7 +30669,7 @@ charbon	charbon	NC	_
 fossile	fossile	ADJ	_
 .	.	PONCT	_
 Les	le	DET	_
-détrimens	détrimens	NC	_
+détrimens	détriment	NC	_
 des	de_le	P+D	_
 substances	substance	NC	_
 végétales	végétal	ADJ	_
@@ -30874,7 +30961,7 @@ ont	avoir	V	_
 produites	produire	VPP	_
 par	par	P	_
 les	le	DET	_
-sédimens	sédimens	NC	_
+sédimens	sédiment	NC	_
 successifs	successif	ADJ	_
 d'	de	P	_
 une	un	DET	_
@@ -30895,7 +30982,7 @@ sont	être	V	_
 celles	celui	PRO	_
 de	de	P	_
 nos	notre	DET	_
-marées	marées	NC	_
+marées	marée	NC	_
 ordinaires	ordinaire	ADJ	_
 ou	ou	CC	_
 des	de_le	P+D	_
@@ -31009,7 +31096,9 @@ car	car	CC	_
 ces	ce	DET	_
 pointes	pointe	NC	_
 avancées	avancé	ADJ	_
-au-dessus	au-dessus	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 de	de	P	_
 la	le	DET	_
 surface	surface	NC	_
@@ -31075,7 +31164,7 @@ on	on	CLS	_
 les	il	CLO	_
 trouve	trouver	V	_
 presque	presque	ADV	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 dans	dans	P	_
 les	le	DET	_
 hautes	haut	ADJ	_
@@ -31131,7 +31220,7 @@ leurs	leur	DET	_
 dépouilles	dépouille	NC	_
 et	et	CC	_
 leurs	leur	DET	_
-détrimens	détrimens	NC	_
+détrimens	détriment	NC	_
 ont	avoir	V	_
 fait	faire	VPP	_
 les	le	DET	_
@@ -31162,7 +31251,7 @@ mouvement	mouvement	NC	_
 et	et	CC	_
 par	par	P	_
 leurs	leur	DET	_
-sédimens	sédimens	NC	_
+sédimens	sédiment	NC	_
 ,	,	PONCT	_
 ont	avoir	V	_
 composé	composer	VPP	_
@@ -31566,7 +31655,7 @@ sont	être	V	_
 ceux	celui	PRO	_
 de	de	P	_
 leurs	leur	DET	_
-détrimens	détrimens	NC	_
+détrimens	détriment	NC	_
 ;	;	PONCT	_
 en	en	P	_
 effet	effet	NC	_
@@ -32030,7 +32119,8 @@ de	de	P	_
 l'	le	DET	_
 atmosphère	atmosphère	NC	_
 ,	,	PONCT	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 le	le	DET	_
 soleil	soleil	NC	_
 fait	faire	V	_
@@ -32151,7 +32241,8 @@ avec	avec	P	_
 l'	le	DET	_
 Amérique	Amérique	NP	_
 :	:	PONCT	_
-tandis_qu'	tandis_que	CS	_
+tandis	tandis	ADV	_
+qu'	que	CS	_
 au	à_le	P+D	_
 contraire	contraire	NC	_
 ,	,	PONCT	_
@@ -32369,7 +32460,7 @@ espèces	espèce	NC	_
 d'	de	P	_
 animaux	animal	NC	_
 terrestres	terrestre	ADJ	_
-auxquels	auquel	PROREL	_
+auxquels	à_lequel	PROREL	_
 la	le	DET	_
 grande	grand	ADJ	_
 chaleur	chaleur	NC	_
@@ -32460,7 +32551,7 @@ Riphées	Riphées	NP	_
 ,	,	PONCT	_
 Rymniques	Rymniques	NP	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 Ont	avoir	V	_
 été	être	VPP	_
 les	le	DET	_
@@ -32473,7 +32564,8 @@ pendant	pendant	P	_
 plusieurs	plusieurs	DET	_
 siècles	siècle	NC	_
 ,	,	PONCT	_
-tandis_que	tandis_que	CS	_
+tandis	tandis	ADV	_
+que	que	CS	_
 toutes	tout	ADJ	_
 les	le	DET	_
 terres	terre	NC	_
@@ -32502,7 +32594,7 @@ nos	notre	DET	_
 terres	terre	NC	_
 ,	,	PONCT	_
 les	le	DET	_
-sédimens	sédimens	NC	_
+sédimens	sédiment	NC	_
 et	et	CC	_
 les	le	DET	_
 dépôts	dépôt	NC	_
@@ -32578,7 +32670,7 @@ tomber	tomber	VINF	_
 en	en	P	_
 forme	forme	NC	_
 de	de	P	_
-sédimens	sédimens	NC	_
+sédimens	sédiment	NC	_
 :	:	PONCT	_
 ensuite	ensuite	ADV	_
 elles	il	CLS	_
@@ -32817,7 +32909,7 @@ du	de_le	P+D	_
 globe	globe	NC	_
 ,	,	PONCT	_
 et	et	CC	_
-sur-tout	sur-tout	ADV	_
+sur-tout	surtout	ADV	_
 les	le	DET	_
 sommets	sommet	NC	_
 des	de_le	P+D	_
@@ -32863,7 +32955,8 @@ se	se	CLO	_
 soit	être	V	_
 manifestée	manifester	VPP	_
 ;	;	PONCT	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 ces	ce	DET	_
 parties	partie	NC	_
 du	de_le	P+D	_
@@ -32987,7 +33080,8 @@ la	le	DET	_
 mer	mer	NC	_
 ,	,	PONCT	_
 et	et	CC	_
-tandis_que	tandis_que	CS	_
+tandis	tandis	ADV	_
+que	que	CS	_
 les	le	DET	_
 bancs	banc	NC	_
 calcaires	calcaire	ADJ	_
@@ -32997,7 +33091,7 @@ collines	colline	NC	_
 se	se	CLO	_
 formoient	former	V	_
 des	de_le	P+D	_
-détrimens	détrimens	NC	_
+détrimens	détriment	NC	_
 de	de	P	_
 ses	son	DET	_
 productions	production	NC	_
@@ -33211,7 +33305,7 @@ perpendiculairement	perpendiculairement	ADV	_
 et	et	CC	_
 ils	il	CLS	_
 sont	être	V	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 situés	situer	VPP	_
 sur	sur	P	_
 la	le	DET	_
@@ -33250,7 +33344,7 @@ la	le	DET	_
 seule	seul	ADJ	_
 étendue	étendue	NC	_
 de	de	P	_
-terrein	terrein	NP	_
+terrein	terrain	NP	_
 qui	qui	PROREL	_
 avoisine	avoisiner	V	_
 mes	mon	DET	_
@@ -33324,7 +33418,7 @@ profondeur	profondeur	NC	_
 :	:	PONCT	_
 elles	il	CLS	_
 sont	être	V	_
-toutes	tous	PRO	_
+toutes	tout	PRO	_
 également	également	ADV	_
 situées	situer	VPP	_
 dans	dans	P	_
@@ -33377,7 +33471,7 @@ gros	gros	ADJ	_
 et	et	CC	_
 qui	qui	PROREL	_
 sont	être	V	_
-toutes	tous	PRO	_
+toutes	tout	PRO	_
 plus	plus	ADV	_
 ou	ou	CC	_
 moins	moins	ADV	_
@@ -33444,7 +33538,7 @@ glaises	glaise	NC	_
 et	et	CC	_
 d'	un	DET	_
 autres	autre	NC	_
-sédimens	sédimens	NC	_
+sédimens	sédiment	NC	_
 ;	;	PONCT	_
 car	car	CC	_
 ces	ce	DET	_
@@ -33456,7 +33550,7 @@ fer	fer	NC	_
 en	en	P	_
 grains	grain	NC	_
 sont	être	V	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 surmontés	surmonter	VPP	_
 ou	ou	CC	_
 latéralement	latéralement	ADV	_
@@ -33466,7 +33560,7 @@ une	un	DET	_
 espèce	espèce	NC	_
 de	de	P	_
 terre	terre	NC	_
-limonneuse	limonneuse	ADJ	_
+limonneuse	limoneux	ADJ	_
 rougeâtre	rougeâtre	ADJ	_
 ,	,	PONCT	_
 plus	plus	ADV	_
@@ -33488,7 +33582,7 @@ même	même	ADV	_
 que	que	CS	_
 cette	ce	DET	_
 terre	terre	NC	_
-limonneuse	limonneuse	ADJ	_
+limonneuse	limoneux	ADJ	_
 ,	,	PONCT	_
 plus	plus	ADV	_
 ou	ou	CC	_
@@ -33707,7 +33801,7 @@ vitrescible	vitrescible	ADJ	_
 et	et	CC	_
 la	le	DET	_
 terre	terre	NC	_
-limonneuse	limonneuse	ADJ	_
+limonneuse	limoneux	ADJ	_
 ,	,	PONCT	_
 dont	dont	PROREL	_
 ces	ce	DET	_
@@ -33736,7 +33830,7 @@ formés	former	VPP	_
 dans	dans	P	_
 cette	ce	DET	_
 terre	terre	NC	_
-limonneuse	limonneuse	ADJ	_
+limonneuse	limoneux	ADJ	_
 depuis	depuis	P	_
 qu'	que	CS	_
 elle	il	CLS	_
@@ -33782,7 +33876,7 @@ celle	celui	PRO	_
 de	de	P	_
 la	le	DET	_
 terre	terre	NC	_
-limonneuse	limonneuse	ADJ	_
+limonneuse	limoneux	ADJ	_
 .	.	PONCT	_
 Les	le	DET	_
 grains	grain	NC	_
@@ -33849,7 +33943,7 @@ rochers	rocher	NC	_
 .	.	PONCT	_
 La	le	DET	_
 terre	terre	NC	_
-limonneuse	limonneuse	ADJ	_
+limonneuse	limoneux	ADJ	_
 ,	,	PONCT	_
 les	le	DET	_
 grains	grain	NC	_
@@ -33890,7 +33984,7 @@ ce	ce	CLS	_
 ne	ne	ADV	_
 peut	pouvoir	V	_
 être	être	VINF	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 en	en	P	_
 petite	petit	ADJ	_
 quantité	quantité	NC	_
@@ -33917,7 +34011,7 @@ la	le	DET	_
 quantité	quantité	NC	_
 de	de	P	_
 terre	terre	NC	_
-limonneuse	limonneuse	ADJ	_
+limonneuse	limoneux	ADJ	_
 qu'	que	CS	_
 on	on	CLS	_
 a	avoir	V	_
@@ -33991,7 +34085,7 @@ assez	assez	ADV	_
 grande	grand	ADJ	_
 étendue	étendue	NC	_
 de	de	P	_
-terrein	terrein	NC	_
+terrein	terrain	NC	_
 formant	former	VPR	_
 une	un	DET	_
 espèce	espèce	NC	_
@@ -33999,7 +34093,9 @@ de	de	P	_
 petite	petit	ADJ	_
 plaine	plaine	NC	_
 ,	,	PONCT	_
-au-dessus	au-dessus	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 des	de_le	P+D	_
 collines	colline	NC	_
 calcaires	calcaire	ADJ	_
@@ -34021,7 +34117,7 @@ on	on	CLS	_
 trouve	trouver	V	_
 dans	dans	P	_
 ce	ce	DET	_
-terrein	terrein	NC	_
+terrein	terrain	NC	_
 une	un	DET	_
 grande	grand	ADJ	_
 quantité	quantité	NC	_
@@ -34089,7 +34185,7 @@ comme	comme	P	_
 tous	tout	ADJ	_
 les	le	DET	_
 autres	autre	NC	_
-sédimens	sédimens	NC	_
+sédimens	sédiment	NC	_
 des	de_le	P+D	_
 eaux	eau	NC	_
 :	:	PONCT	_
@@ -34110,7 +34206,7 @@ presqu'	presque	ADV	_
 la	le	DET	_
 surface	surface	NC	_
 du	de_le	P+D	_
-terrein	terrein	NC	_
+terrein	terrain	NC	_
 ,	,	PONCT	_
 sur	sur	P	_
 une	un	DET	_
@@ -34182,7 +34278,8 @@ en	en	CLO	_
 soit	être	V	_
 composée	composer	VPP	_
 ;	;	PONCT	_
-tandis_que	tandis_que	CS	_
+tandis	tandis	ADV	_
+que	que	CS	_
 dans	dans	P	_
 les	le	DET	_
 huit	huit	ADJ	_
@@ -34384,7 +34481,7 @@ les	le	DET	_
 eaux	eau	NC	_
 les	il	CLO	_
 ont	avoir	V	_
-abandonnées	abandonnées	VPP	_
+abandonnées	abandonner	VPP	_
 .	.	PONCT	_
 à	à	P	_
 peine	peine	NC	_
@@ -34473,7 +34570,7 @@ autrefois	autrefois	ADV	_
 la	le	DET	_
 forme	forme	NC	_
 du	de_le	P+D	_
-terrein	terrein	NC	_
+terrein	terrain	NC	_
 à	à	P	_
 Paris	Paris	NP	_
 et	et	CC	_
@@ -34528,7 +34625,9 @@ collines	colline	NC	_
 à-peu-près	à-peu-près	NC	_
 également	également	ADV	_
 élevées	élever	VPP	_
-au-dessus	au-dessus	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 de	de	P	_
 la	le	DET	_
 *	*	X	_
@@ -34961,7 +35060,7 @@ nos	notre	DET	_
 continens	continent	NC	_
 se	se	CLO	_
 sont	être	V	_
-abaissées	abaissées	ADJ	_
+abaissées	abaissé	ADJ	_
 et	et	CC	_
 retirées	retirer	VPP	_
 en	en	P	_
@@ -35026,7 +35125,7 @@ eaux	eau	NC	_
 ;	;	PONCT	_
 combien	combien	PROWH	_
 de	de	P	_
-sédimens	sédimens	NC	_
+sédimens	sédiment	NC	_
 de	de	P	_
 différente	différent	ADJ	_
 nature	nature	NC	_
@@ -35170,7 +35269,7 @@ réduise	réduire	V	_
 à	à	P	_
 gagner	gagner	VINF	_
 quelque	quelque	DET	_
-terrein	terrein	NC	_
+terrein	terrain	NC	_
 vers	vers	P	_
 l'	le	DET	_
 occident	occident	NC	_
@@ -35322,7 +35421,7 @@ emparer	emparer	VINF	_
 Néanmoins	néanmoins	ADV	_
 comme	comme	P	_
 ces	ce	DET	_
-évènemens	évènemens	NC	_
+évènemens	événement	NC	_
 ,	,	PONCT	_
 qui	qui	PROREL	_
 dans	dans	P	_
@@ -35728,7 +35827,8 @@ qu'	que	PROREL	_
 l'	le	DET	_
 est	est	NC	_
 ,	,	PONCT	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 le	le	DET	_
 mouvement	mouvement	NC	_
 général	général	ADJ	_
@@ -35752,7 +35852,7 @@ les	le	DET	_
 eaux	eau	NC	_
 se	se	CLO	_
 sont	être	V	_
-abaissées	abaissées	VPP	_
+abaissées	abaissé	VPP	_
 ,	,	PONCT	_
 elles	il	CLS	_
 ont	avoir	V	_
@@ -35829,7 +35929,7 @@ ensuite	ensuite	ADV	_
 ils	il	CLS	_
 ont	avoir	V	_
 été	être	VPP	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 escarpés	escarper	VPP	_
 en	en	P	_
 pente	pente	NC	_
@@ -35866,7 +35966,7 @@ en	en	P	_
 occident	occident	NC	_
 .	.	PONCT	_
 QUATRIÈME	quatrième	ADJ	_
-ÉPOQUE	ÉPOQUE	NC	_
+ÉPOQUE	époque	NC	_
 lorsque	lorsque	CS	_
 les	le	DET	_
 eaux	eau	NC	_
@@ -36119,7 +36219,7 @@ ont	avoir	V	_
 gagné	gagner	VPP	_
 successivement	successivement	ADV	_
 du	de_le	P+D	_
-terrein	terrein	NC	_
+terrein	terrain	NC	_
 et	et	CC	_
 sont	être	V	_
 arrivées	arriver	VPP	_
@@ -36144,7 +36244,9 @@ deux_mille	deux_mille	DET	_
 toises	toise	NC	_
 de	de	P	_
 hauteur	hauteur	NC	_
-au-dessus	au-dessus	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 du	de_le	P+D	_
 niveau	niveau	NC	_
 de	de	P	_
@@ -36207,7 +36309,7 @@ lieux	lieu	NC	_
 pour	pour	P	_
 occuper	occuper	VINF	_
 les	le	DET	_
-terreins	terreins	NC	_
+terreins	terrain	NC	_
 inférieurs	inférieur	ADJ	_
 dès	dès	P	_
 qu'	que	CS	_
@@ -36290,7 +36392,8 @@ les	le	DET	_
 premières	première	NC	_
 ;	;	PONCT	_
 et	et	CC	_
-tandis_que	tandis_que	CS	_
+tandis	tandis	ADV	_
+que	que	CS	_
 toute	tout	ADJ	_
 la	le	DET	_
 surface	surface	NC	_
@@ -36303,7 +36406,7 @@ pour	pour	P	_
 ainsi	ainsi	ADV	_
 dire	dire	VINF	_
 ,	,	PONCT	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 un	un	DET	_
 archipel	archipel	NC	_
 général	général	ADJ	_
@@ -36373,7 +36476,9 @@ où	où	PROREL	_
 les	le	DET	_
 terres	terre	NC	_
 élevées	élevé	ADJ	_
-au-dessus	au-dessus	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 des	de_le	P+D	_
 eaux	eau	NC	_
 se	se	CLO	_
@@ -36524,7 +36629,9 @@ les	le	DET	_
 terres	terre	NC	_
 élevées	élevé	ADJ	_
 alors	alors	ADV	_
-au-dessus	au-dessus	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 des	de_le	P+D	_
 eaux	eau	NC	_
 à	à	P	_
@@ -36546,7 +36653,7 @@ c'est-à-dire	c'est-à-dire	CC	_
 à	à	P	_
 cent_trente_mille	cent_trente_mille	DET	_
 lieues	lieue	NC	_
-quarrées	quarrer	VPP	_
+quarrées	carré	ADJ	_
 ,	,	PONCT	_
 il	il	CLS	_
 est	être	V	_
@@ -36556,7 +36663,7 @@ sentir	sentir	VINF	_
 combien	combien	PROWH	_
 ce	ce	DET	_
 vaste	vaste	NC	_
-terrein	terrein	ADJ	_
+terrein	terrain	ADJ	_
 de	de	P	_
 cent_trente_mille	cent_trente_mille	DET	_
 lieues	lieue	NC	_
@@ -36576,7 +36683,7 @@ années	année	NC	_
 ,	,	PONCT	_
 combien	combien	PROWH	_
 leurs	leur	DET	_
-détrimens	détrimens	NC	_
+détrimens	détriment	NC	_
 se	se	CLO	_
 sont	être	V	_
 accumulés	accumuler	VPP	_
@@ -36663,7 +36770,7 @@ a	avoir	V	_
 pu	pouvoir	VPP	_
 s'	se	CLO	_
 opérer	opérer	VINF	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 après	après	P	_
 la	le	DET	_
 chute	chute	NC	_
@@ -36787,7 +36894,8 @@ dire	dire	VINF	_
 ,	,	PONCT	_
 momentanées	momentané	ADJ	_
 ,	,	PONCT	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 à	à	P	_
 l'	le	DET	_
 instant	instant	NC	_
@@ -37162,7 +37270,7 @@ acquérir	acquérir	VINF	_
 une	un	DET	_
 action	action	NC	_
 permanente	permanent	ADJ	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 après	après	P	_
 l'	le	DET	_
 abaissement	abaissement	NC	_
@@ -37800,13 +37908,15 @@ mais	mais	CC	_
 l'	le	DET	_
 orage	orage	NC	_
 est	être	V	_
-au-dessous	au-dessous	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessous	dessous	ADV	_
 .	.	PONCT	_
 Un	un	DET	_
 volcan	volcan	NC	_
 n'	ne	ADV	_
 est	être	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 un	un	DET	_
 vaste	vaste	ADJ	_
 fourneau	fourneau	NC	_
@@ -37830,7 +37940,9 @@ inférieures	inférieur	ADJ	_
 à	à	P	_
 côté	côté	NC	_
 et	et	CC	_
-au-dessous	au-dessous	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessous	dessous	ADV	_
 du	de_le	P+D	_
 foyer	foyer	NC	_
 :	:	PONCT	_
@@ -37954,7 +38066,9 @@ et	et	CC	_
 destructeurs	destructeur	NC	_
 ,	,	PONCT	_
 manifestent	manifester	V	_
-au-dehors	au-dehors	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dehors	dehors	ADV	_
 le	le	DET	_
 mouvement	mouvement	NC	_
 convulsif	convulsif	ADJ	_
@@ -38511,7 +38625,7 @@ que	que	CS	_
 les	le	DET	_
 volcans	volcan	NC	_
 soient	être	V	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 situés	situer	VPP	_
 dans	dans	P	_
 les	le	DET	_
@@ -38646,7 +38760,7 @@ construire	construire	VINF	_
 les	le	DET	_
 pyramides	pyramide	NC	_
 d'	de	P	_
-égypte	égypte	NP	_
+égypte	Égypte	NP	_
 ?	?	PONCT	_
 Ces	ce	DET	_
 monumens	monument	NC	_
@@ -39032,7 +39146,8 @@ les	le	DET	_
 substances	substance	NC	_
 minérales	minéral	ADJ	_
 ,	,	PONCT	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 en	en	P	_
 les	il	CLO	_
 examinant	examiner	VPR	_
@@ -39125,7 +39240,8 @@ notre	notre	DET	_
 seconde	second	ADJ	_
 époque	époque	NC	_
 ;	;	PONCT	_
-tandis_que	tandis_que	CS	_
+tandis	tandis	ADV	_
+que	que	CS	_
 la	le	DET	_
 formation	formation	NC	_
 des	de_le	P+D	_
@@ -39141,7 +39257,7 @@ argiles	argile	NC	_
 des	un	DET	_
 charbons	charbon	NC	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 N'	ne	ADV	_
 a	avoir	V	_
 eu	avoir	VPP	_
@@ -39325,7 +39441,8 @@ aucune	aucun	DET	_
 explosion	explosion	NC	_
 violente	violent	ADJ	_
 ,	,	PONCT	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 étant	être	VPR	_
 éloignés	éloigner	VPP	_
 des	de_le	P+D	_
@@ -39717,7 +39834,7 @@ les	le	DET	_
 mers	mer	NC	_
 en	en	P	_
 s'	se	CLO	_
-abaissant	abaissant	VPR	_
+abaissant	abaisser	VPR	_
 se	se	CLO	_
 sont	être	V	_
 éloignées	éloigner	VPP	_
@@ -39894,7 +40011,7 @@ qui	qui	PROREL	_
 n'	ne	ADV	_
 ont	avoir	V	_
 cessé	cesser	VPP	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 après	après	P	_
 la	le	DET	_
 retraite	retraite	NC	_
@@ -39964,7 +40081,9 @@ les	il	CLO	_
 ont	avoir	V	_
 quelquefois	quelquefois	ADV	_
 poussées	pousser	VPP	_
-au-dessus	au-dessus	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 du	de_le	P+D	_
 niveau	niveau	NC	_
 de	de	P	_
@@ -40021,7 +40140,9 @@ grand	grand	ADJ	_
 espace	espace	NC	_
 de	de	P	_
 terre	terre	NC	_
-au-dessus	au-dessus	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 de	de	P	_
 la	le	DET	_
 surface	surface	NC	_
@@ -40048,7 +40169,7 @@ leurs	leur	DET	_
 déblais	déblai	NC	_
 tous	tout	ADJ	_
 les	le	DET	_
-terreins	terreins	NC	_
+terreins	terrain	NC	_
 qui	qui	PROREL	_
 les	il	CLO	_
 environnoient	environner	V	_
@@ -40300,17 +40421,17 @@ une	un	DET	_
 caverne	caverne	NC	_
 soutenant	soutenir	VPR	_
 un	un	DET	_
-terrein	terrein	NC	_
+terrein	terrain	NC	_
 de	de	P	_
 cent	cent	DET	_
 lieues	lieue	NC	_
-quarrées	quarrer	VPP	_
+quarrées	carré	ADJ	_
 ,	,	PONCT	_
 ce	ce	PRO	_
 qui	qui	PROREL	_
 ne	ne	ADV	_
 feroit	faire	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 une	un	PRO	_
 des	de_le	P+D	_
 petites	petit	ADJ	_
@@ -40356,7 +40477,7 @@ violent	violent	ADJ	_
 Quoique	quoique	CS	_
 cent	cent	DET	_
 lieues	lieue	NC	_
-quarrées	quarrer	VPP	_
+quarrées	carré	ADJ	_
 ne	ne	ADV	_
 fassent	faire	V	_
 que	que	ADV	_
@@ -40504,7 +40625,7 @@ résulter	résulter	VINF	_
 plusieurs	plusieurs	DET	_
 effets	effet	NC	_
 ,	,	PONCT	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 grands	grand	ADJ	_
 ,	,	PONCT	_
 et	et	CC	_
@@ -40541,7 +40662,7 @@ conséquent	conséquent	NC	_
 découvert	découvert	NC	_
 de	de	P	_
 nouveaux	nouveau	ADJ	_
-terreins	terreins	NC	_
+terreins	terrain	NC	_
 :	:	PONCT	_
 2	2	X	_
 l'	le	DET	_
@@ -40759,7 +40880,7 @@ qui	qui	PROREL	_
 ne	ne	ADV	_
 la	il	CLO	_
 voient	voir	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 en	en	P	_
 petit	petit	ADJ	_
 ,	,	PONCT	_
@@ -40989,7 +41110,7 @@ sels	sel	NC	_
 les	le	DET	_
 pyrites	pyrite	NC	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 Tous	tout	ADJ	_
 ces	ce	DET	_
 premiers	premier	NC	_
@@ -41161,7 +41282,9 @@ Langres	Langres	NP	_
 qui	qui	PROREL	_
 s'	se	CLO	_
 élève	élever	V	_
-au-dessus	au-dessus	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 de	de	P	_
 toutes	tout	ADJ	_
 les	le	DET	_
@@ -41321,7 +41444,7 @@ Marne	Marne	NP	_
 la	le	DET	_
 Seine	Seine	NP	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 Et	et	CC	_
 que	que	CS	_
 de	de	P	_
@@ -41372,7 +41495,7 @@ collines	colline	NC	_
 vont	aller	V	_
 en	en	P	_
 s'	se	CLO	_
-abaissant	abaissant	VPR	_
+abaissant	abaisser	VPR	_
 à	à	P	_
 peu	peu	ADV	_
 -	-	PONCT	_
@@ -41417,7 +41540,9 @@ vitrescibles	vitrescible	ADJ	_
 ;	;	PONCT	_
 savoir	savoir	VINF	_
 ,	,	PONCT	_
-au-delà	au-delà	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+delà	delà	ADV	_
 de	de	P	_
 l'	le	DET	_
 Armanson	Armanson	NP	_
@@ -41430,7 +41555,9 @@ une	un	DET	_
 part	part	NC	_
 ;	;	PONCT	_
 et	et	CC	_
-au-delà	au-delà	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+delà	delà	ADV	_
 des	un	DET	_
 sources	source	NC	_
 de	de	P	_
@@ -41485,7 +41612,7 @@ les	le	DET	_
 eaux	eau	NC	_
 se	se	CLO	_
 sont	être	V	_
-abaissées	abaissées	VPP	_
+abaissées	abaissé	VPP	_
 :	:	PONCT	_
 auparavant	auparavant	ADV	_
 ,	,	PONCT	_
@@ -41578,7 +41705,7 @@ que	que	CS	_
 les	le	DET	_
 vallées	vallée	NC	_
 ont	avoir	V	_
-toutes	tous	PRO	_
+toutes	tout	PRO	_
 été	être	VPP	_
 creusées	creuser	VPP	_
 par	par	P	_
@@ -41623,7 +41750,7 @@ d'	de	P	_
 abord	abord	NC	_
 que	que	CS	_
 les	le	DET	_
-terreins	terreins	NC	_
+terreins	terrain	NC	_
 les	le	DET	_
 moins	moins	ADV	_
 solides	solide	ADJ	_
@@ -41665,7 +41792,8 @@ d'	de	P	_
 un	un	DET	_
 côté	côté	NC	_
 ,	,	PONCT	_
-tandis_que	tandis_que	CS	_
+tandis	tandis	ADV	_
+que	que	CS	_
 de	de	P	_
 l'	le	DET	_
 autre	autre	NC	_
@@ -41806,14 +41934,15 @@ le	le	DET	_
 côté	côté	NC	_
 où	où	PROREL	_
 le	le	DET	_
-terrein	terrein	NC	_
+terrein	terrain	NC	_
 doit	devoir	V	_
 se	se	CLO	_
 trouver	trouver	VINF	_
 en	en	P	_
 plaine	plaine	NC	_
 ,	,	PONCT	_
-tandis_que	tandis_que	CS	_
+tandis	tandis	ADV	_
+que	que	CS	_
 de	de	P	_
 l'	le	DET	_
 autre	autre	ADJ	_
@@ -41856,7 +41985,7 @@ de	de	P	_
 quel	quel	DET	_
 côté	côté	NC	_
 les	le	DET	_
-terreins	terreins	NC	_
+terreins	terrain	NC	_
 s'	se	CLO	_
 élargiront	élargir	V	_
 ou	ou	CC	_
@@ -42133,7 +42262,7 @@ s'	se	CLO	_
 davantage	davantage	ADV	_
 du	de_le	P+D	_
 sommet	sommet	NC	_
-auquel	auquel	PROREL	_
+auquel	à_lequel	PROREL	_
 leurs	leur	DET	_
 rameaux	rameau	NC	_
 aboutissent	aboutir	V	_
@@ -42174,7 +42303,7 @@ remontent	remonter	V	_
 jusqu'	jusque	P	_
 au	à_le	P+D	_
 sommet	sommet	NC	_
-auquel	auquel	PROREL	_
+auquel	à_lequel	PROREL	_
 ils	il	CLS	_
 aboutissent	aboutir	V	_
 .	.	PONCT	_
@@ -42197,7 +42326,7 @@ prend	prendre	V	_
 ensemble	ensemble	ADV	_
 tous	tout	ADJ	_
 les	le	DET	_
-terreins	terreins	NC	_
+terreins	terrain	NC	_
 qui	qui	PROREL	_
 versent	verser	V	_
 leurs	leur	DET	_
@@ -42231,7 +42360,7 @@ ne	ne	ADV	_
 prenons	prendre	V	_
 que	que	ADV	_
 les	le	DET	_
-terreins	terreins	NC	_
+terreins	terrain	NC	_
 qui	qui	PROREL	_
 portent	porter	V	_
 leurs	leur	DET	_
@@ -42265,7 +42394,7 @@ des	de_le	P+D	_
 montagnes	montagne	NC	_
 ,	,	PONCT	_
 les	le	DET	_
-terreins	terreins	NC	_
+terreins	terrain	NC	_
 qui	qui	PROREL	_
 versent	verser	V	_
 leurs	leur	DET	_
@@ -42344,7 +42473,7 @@ si	si	CS	_
 nous	nous	CLS	_
 prenons	prendre	V	_
 les	le	DET	_
-terreins	terreins	NC	_
+terreins	terrain	NC	_
 qui	qui	PROREL	_
 portent	porter	V	_
 leurs	leur	DET	_
@@ -42384,7 +42513,7 @@ ne	ne	ADV	_
 prenons	prendre	V	_
 que	que	ADV	_
 les	le	DET	_
-terreins	terreins	NC	_
+terreins	terrain	NC	_
 dont	dont	PROREL	_
 les	le	DET	_
 eaux	eau	NC	_
@@ -42407,7 +42536,7 @@ ordre	ordre	NC	_
 ;	;	PONCT	_
 enfin	enfin	ADV	_
 les	le	DET	_
-terreins	terreins	NC	_
+terreins	terrain	NC	_
 qui	qui	PROREL	_
 versent	verser	V	_
 leurs	leur	DET	_
@@ -42550,7 +42679,9 @@ est	être	V	_
 aujourd'hui	aujourd'hui	ADV	_
 ,	,	PONCT	_
 car	car	CC	_
-au-dessous	au-dessous	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessous	dessous	ADV	_
 de	de	P	_
 ces	ce	DET	_
 soixante-quinze	soixante-quinze	ADJ	_
@@ -42638,7 +42769,9 @@ horizontaux	horizontal	ADJ	_
 et	et	CC	_
 des	un	DET	_
 argiles	argile	NC	_
-au-dessous	au-dessous	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessous	dessous	ADV	_
 à	à	P	_
 une	un	DET	_
 profondeur	profondeur	NC	_
@@ -42728,7 +42861,7 @@ qu'	que	CS	_
 il	il	CLS	_
 déchiroit	déchirer	V	_
 les	le	DET	_
-terreins	terreins	NC	_
+terreins	terrain	NC	_
 supérieurs	supérieur	ADJ	_
 ;	;	PONCT	_
 le	le	DET	_
@@ -42741,7 +42874,8 @@ demeuré	demeurer	VPP	_
 presque	presque	ADV	_
 nu	nu	ADJ	_
 ,	,	PONCT	_
-tandis_que	tandis_que	CS	_
+tandis	tandis	ADV	_
+que	que	CS	_
 celui	celui	PRO	_
 des	de_le	P+D	_
 vallées	vallée	NC	_
@@ -42912,7 +43046,7 @@ graviers	gravier	NC	_
 et	et	CC	_
 les	le	DET	_
 autres	autre	NC	_
-détrimens	détrimens	NC	_
+détrimens	détriment	NC	_
 amenés	amener	VPP	_
 par	par	P	_
 les	le	DET	_
@@ -42950,7 +43084,7 @@ vallées	vallée	NC	_
 ,	,	PONCT	_
 ces	ce	DET	_
 mêmes	même	NC	_
-détrimens	détrimens	ADJ	_
+détrimens	détriment	ADJ	_
 amenés	amener	VPP	_
 par	par	P	_
 les	le	DET	_
@@ -43004,7 +43138,8 @@ nature	nature	NC	_
 en	en	P	_
 désordre	désordre	NC	_
 ,	,	PONCT	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 ils	il	CLS	_
 y	y	CLO	_
 voient	voir	V	_
@@ -43017,7 +43152,7 @@ les	le	DET	_
 matières	matière	NC	_
 vitrescibles	vitrescible	ADJ	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 Mais	mais	CC	_
 n'	ne	ADV	_
 est	être	V	_
@@ -43074,7 +43209,9 @@ qui	qui	PROREL	_
 se	se	CLO	_
 sont	être	V	_
 formés	former	VPP	_
-au-dessous	au-dessous	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessous	dessous	ADV	_
 des	un	DET	_
 sommets	sommet	NC	_
 de	de	P	_
@@ -43106,7 +43243,7 @@ Si	si	CS	_
 nous	nous	CLS	_
 examinons	examiner	V	_
 ces	ce	DET	_
-terreins	terreins	NC	_
+terreins	terrain	NC	_
 en	en	P	_
 détail	détail	NC	_
 ,	,	PONCT	_
@@ -43243,7 +43380,8 @@ aussi	aussi	ADV	_
 moins	moins	ADV	_
 escarpées	escarper	VPP	_
 ,	,	PONCT	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 le	le	DET	_
 mouvement	mouvement	NC	_
 des	de_le	P+D	_
@@ -43261,7 +43399,7 @@ les	le	DET	_
 vallons	vallon	NC	_
 étroits	étroit	ADJ	_
 des	de_le	P+D	_
-terreins	terreins	NC	_
+terreins	terrain	NC	_
 voisins	voisin	ADJ	_
 du	de_le	P+D	_
 sommet	sommet	NC	_
@@ -43560,7 +43698,7 @@ Si	si	CS	_
 l'on	on	CLS	_
 considère	considérer	V	_
 le	le	DET	_
-terrein	terrein	NC	_
+terrein	terrain	NC	_
 qui	qui	PROREL	_
 environne	environner	V	_
 l'	le	DET	_
@@ -43627,7 +43765,7 @@ continus	continu	ADJ	_
 et	et	CC	_
 ne	ne	ADV	_
 faisoient	faire	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 une	un	DET	_
 seule	seul	ADJ	_
 masse	masse	NC	_
@@ -43680,7 +43818,7 @@ Maurice	Maurice	NP	_
 ,	,	PONCT	_
 tout	tout	ADJ	_
 ce	ce	DET	_
-terrein	terrein	NC	_
+terrein	terrain	NC	_
 étoit	être	V	_
 continu	continu	ADJ	_
 avant	avant	P	_
@@ -43718,7 +43856,7 @@ non-seulement	non-seulement	ADV	_
 avec	avec	P	_
 ces	ce	DET	_
 premiers	premier	ADJ	_
-terreins	terreins	NC	_
+terreins	terrain	NC	_
 ,	,	PONCT	_
 mais	mais	CC	_
 avec	avec	P	_
@@ -43738,7 +43876,7 @@ Le	le	DET	_
 -	-	PONCT	_
 Rocheux	Rocheux	NP	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 Il	il	CLS	_
 est	être	V	_
 aisé	aisé	ADJ	_
@@ -43754,7 +43892,7 @@ la	le	DET	_
 continuité	continuité	NC	_
 de	de	P	_
 ces	ce	DET	_
-terreins	terreins	NC	_
+terreins	terrain	NC	_
 n'	ne	ADV	_
 a	avoir	V	_
 été	être	VPP	_
@@ -43874,7 +44012,7 @@ Heuilly	Heuilly	NP	_
 -	-	PONCT	_
 Coton	Coton	NP	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 Nous	nous	CLS	_
 devons	devoir	V	_
 observer	observer	VINF	_
@@ -43902,7 +44040,8 @@ sont	être	V	_
 actuellement	actuellement	ADV	_
 séparées	séparer	VPP	_
 ,	,	PONCT	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 le	le	DET	_
 courant	courant	NC	_
 remplissant	remplir	VPR	_
@@ -43913,7 +44052,9 @@ du	de_le	P+D	_
 vallon	vallon	NC	_
 ,	,	PONCT	_
 passoit	passer	V	_
-par-dessus	par-dessus	P	_
+par	par	S	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 ces	ce	DET	_
 collines	colline	NC	_
 isolées	isolé	ADJ	_
@@ -43929,14 +44070,15 @@ par	par	P	_
 le	le	DET	_
 sommet	sommet	NC	_
 ;	;	PONCT	_
-tandis_qu'	tandis_que	CS	_
+tandis	tandis	ADV	_
+qu'	que	CS	_
 il	il	CLS	_
 ne	ne	ADV	_
 faisoit	faire	V	_
 que	que	ADV	_
 baigner	baigner	VINF	_
 le	le	DET	_
-terrein	terrein	NC	_
+terrein	terrain	NC	_
 des	de_le	P+D	_
 côteaux	côteaux	NC	_
 du	de_le	P+D	_
@@ -43986,7 +44128,9 @@ de	de	P	_
 la	le	DET	_
 colline	colline	NC	_
 isolée	isolé	ADJ	_
-au-dessus	au-dessus	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 de	de	P	_
 laquelle	il	PROREL	_
 sont	être	V	_
@@ -44005,7 +44149,8 @@ de	de	P	_
 cent_quarante	cent_quarante	DET	_
 pieds	pied	NC	_
 ;	;	PONCT	_
-tandis_que	tandis_que	CS	_
+tandis	tandis	ADV	_
+que	que	CS	_
 les	le	DET	_
 montagnes	montagne	NC	_
 qui	qui	PROREL	_
@@ -44059,7 +44204,8 @@ que	que	CS	_
 les	le	DET	_
 autres	autre	NC	_
 ,	,	PONCT	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 étant	être	VPR	_
 au	à_le	P+D	_
 milieu	milieu	NC	_
@@ -44210,7 +44356,7 @@ entamé	entamer	VPP	_
 la	le	DET	_
 superficie	superficie	NC	_
 du	de_le	P+D	_
-terrein	terrein	NC	_
+terrein	terrain	NC	_
 et	et	CC	_
 formé	former	VPP	_
 la	le	DET	_
@@ -44263,7 +44409,7 @@ d'	de	P	_
 abord	abord	NC	_
 que	que	ADV	_
 des	de_le	P+D	_
-sédimens	sédimens	NC	_
+sédimens	sédiment	NC	_
 superposés	superposer	VPP	_
 de	de	P	_
 matières	matière	NC	_
@@ -44394,7 +44540,7 @@ rivières	rivière	NC	_
 dans	dans	P	_
 tous	tout	ADJ	_
 les	le	DET	_
-terreins	terreins	NC	_
+terreins	terrain	NC	_
 aisés	aisé	ADJ	_
 à	à	P	_
 diviser	diviser	VINF	_
@@ -44407,7 +44553,7 @@ construction	construction	NC	_
 même	même	ADJ	_
 de	de	P	_
 ces	ce	DET	_
-terreins	terreins	NC	_
+terreins	terrain	NC	_
 calcaires	calcaire	ADJ	_
 et	et	CC	_
 non	non	ADV	_
@@ -44480,7 +44626,7 @@ configuration	configuration	NC	_
 de	de	P	_
 ces	ce	DET	_
 mêmes	même	NC	_
-terreins	terreins	ADJ	_
+terreins	terrain	ADJ	_
 calcaires	calcaire	ADJ	_
 :	:	PONCT	_
 il	il	CLS	_
@@ -44502,7 +44648,9 @@ abord	abord	NC	_
 de	de	P	_
 deux_mille	deux_mille	DET	_
 toises	toise	NC	_
-au-dessus	au-dessus	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 du	de_le	P+D	_
 niveau	niveau	NC	_
 de	de	P	_
@@ -44578,7 +44726,7 @@ ou	ou	CC	_
 qu'	que	CS	_
 elles	il	CLS	_
 avoient	avoyer	V	_
-abandonnés	abandonnés	VPP	_
+abandonnés	abandonner	VPP	_
 les	le	DET	_
 premiers	premier	NC	_
 ,	,	PONCT	_
@@ -44590,7 +44738,7 @@ végétaux	végétal	NC	_
 ;	;	PONCT	_
 car	car	CC	_
 leurs	leur	DET	_
-détrimens	détrimens	NC	_
+détrimens	détriment	NC	_
 en	en	P	_
 volume	volume	NC	_
 immense	immense	ADJ	_
@@ -44783,7 +44931,7 @@ mer	mer	NC	_
 et	et	CC	_
 dans	dans	P	_
 des	un	DET	_
-terreins	terreins	NC	_
+terreins	terrain	NC	_
 bas	bas	ADJ	_
 ;	;	PONCT	_
 mais	mais	CC	_
@@ -44822,7 +44970,7 @@ sont	être	V	_
 formées	former	VPP	_
 que	que	ADV	_
 des	un	DET	_
-détrimens	détrimens	NC	_
+détrimens	détriment	NC	_
 des	de_le	P+D	_
 anciennes	ancien	ADJ	_
 couches	couche	NC	_
@@ -44831,7 +44979,9 @@ pierre	pierre	NC	_
 ,	,	PONCT	_
 toutes	tout	ADV	_
 situées	situer	VPP	_
-au-dessus	au-dessus	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 de	de	P	_
 ces	ce	DET	_
 nouvelles	nouveau	ADJ	_
@@ -44855,7 +45005,8 @@ de	de	P	_
 carrières	carrière	NC	_
 parasites	parasite	ADJ	_
 ,	,	PONCT	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 elles	il	CLS	_
 se	se	CLO	_
 forment	former	V	_
@@ -44877,7 +45028,7 @@ n'	ne	ADV	_
 a	avoir	V	_
 donc	donc	ADV	_
 été	être	VPP	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 une	un	DET	_
 masse	masse	NC	_
 de	de	P	_
@@ -44904,7 +45055,7 @@ sa	son	DET	_
 surface	surface	NC	_
 n'	ne	ADV	_
 étoit	être	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 une	un	DET	_
 mer	mer	NC	_
 universelle	universel	ADJ	_
@@ -44934,7 +45085,7 @@ et	et	CC	_
 ce	ce	CLS	_
 n'	ne	ADV	_
 est	être	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 à	à	P	_
 la	le	DET	_
 fin	fin	NC	_
@@ -45064,7 +45215,7 @@ soleil	soleil	NC	_
 ,	,	PONCT	_
 produisit	produire	V	_
 les	le	DET	_
-marées	marées	NC	_
+marées	marée	NC	_
 et	et	CC	_
 le	le	DET	_
 mouvement	mouvement	NC	_
@@ -45093,7 +45244,8 @@ vers	vers	P	_
 l'	le	DET	_
 équateur	équateur	NC	_
 ,	,	PONCT	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 les	le	DET	_
 parties	partie	NC	_
 polaires	polaire	ADJ	_
@@ -45221,7 +45373,7 @@ temps	temps	NC	_
 laissé	laisser	VPP	_
 tous	tout	ADJ	_
 les	le	DET	_
-terreins	terreins	NC	_
+terreins	terrain	NC	_
 en	en	P	_
 pente	pente	NC	_
 douce	doux	ADJ	_
@@ -45360,7 +45512,7 @@ et	et	CC	_
 ce	ce	CLS	_
 n'	ne	ADV	_
 est	être	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 après	après	P	_
 cette	ce	DET	_
 seconde	second	ADJ	_
@@ -45408,7 +45560,8 @@ aussi	aussi	ADV	_
 beaucoup	beaucoup	ADV	_
 diminué	diminuer	VPP	_
 ,	,	PONCT	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 leurs	leur	DET	_
 éruptions	éruption	NC	_
 ne	ne	ADV	_
@@ -45418,7 +45571,7 @@ opérer	opérer	VINF	_
 que	que	ADV	_
 par	par	P	_
 le	le	DET	_
-conflict	conflict	NC	_
+conflict	conflit	NC	_
 de	de	P	_
 l'	le	DET	_
 eau	eau	NC	_
@@ -45435,7 +45588,7 @@ la	le	DET	_
 mer	mer	NC	_
 en	en	P	_
 s'	se	CLO	_
-abaissant	abaissant	VPR	_
+abaissant	abaisser	VPR	_
 s'	se	CLO	_
 en	en	CLO	_
 étoit	être	V	_
@@ -45622,7 +45775,7 @@ témoin	témoin	ADJ	_
 de	de	P	_
 ces	ce	DET	_
 scènes	scène	NC	_
-effrayantes	effrayant	ADJ	_
+effrayantes	effrayer	ADJ	_
 et	et	CC	_
 terribles	terrible	ADJ	_
 ,	,	PONCT	_
@@ -45645,7 +45798,7 @@ et	et	CC	_
 sensible	sensible	ADJ	_
 .	.	PONCT	_
 CINQUIÈME	cinquième	ADJ	_
-ÉPOQUE	ÉPOQUE	NC	_
+ÉPOQUE	époque	NC	_
 lorsque	lorsque	CS	_
 les	le	DET	_
 éléphans	éléphant	NC	_
@@ -45988,7 +46141,8 @@ recette	recette	NC	_
 des	de_le	P+D	_
 eaux	eau	NC	_
 ,	,	PONCT	_
-tandis_que	tandis_que	CS	_
+tandis	tandis	ADV	_
+que	que	CS	_
 la	le	DET	_
 chaleur	chaleur	NC	_
 des	de_le	P+D	_
@@ -46225,7 +46379,8 @@ incessamment	incessamment	ADV	_
 le	le	DET	_
 refroidissement	refroidissement	NC	_
 ,	,	PONCT	_
-tandis_qu'	tandis_que	CS	_
+tandis	tandis	ADV	_
+qu'	que	CS	_
 aucune	aucun	DET	_
 cause	cause	NC	_
 extérieure	extérieur	ADJ	_
@@ -46437,7 +46592,8 @@ ou	ou	CC	_
 trente-six_mille	trente-six_mille	DET	_
 ans	an	NC	_
 ,	,	PONCT	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 alors	alors	ADV	_
 le	le	DET	_
 globe	globe	NC	_
@@ -46517,7 +46673,7 @@ un	un	DET	_
 état	état	NC	_
 d'	de	P	_
 ébullition	ébullition	NC	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 au	à_le	P+D	_
 moment	moment	NC	_
 où	où	PROREL	_
@@ -46666,7 +46822,7 @@ les	le	DET	_
 dépouilles	dépouille	NC	_
 et	et	CC	_
 les	le	DET	_
-détrimens	détrimens	NC	_
+détrimens	détriment	NC	_
 dans	dans	P	_
 les	le	DET	_
 mines	mine	NC	_
@@ -46796,7 +46952,7 @@ nés	naître	VPP	_
 les	le	DET	_
 premiers	premier	NC	_
 de	de	P	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 ,	,	PONCT	_
 et	et	CC	_
 qu'	que	PROREL	_
@@ -47186,7 +47342,7 @@ italie	Italie	NP	_
 en	en	P	_
 Angleterre	Angleterre	NP	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 Nous	nous	CLS	_
 avons	avoir	V	_
 sur	sur	P	_
@@ -47314,7 +47470,8 @@ de	de	P	_
 la	le	DET	_
 terre	terre	NC	_
 ;	;	PONCT	_
-tandis_que	tandis_que	CS	_
+tandis	tandis	ADV	_
+que	que	CS	_
 ce	ce	CLS	_
 n'	ne	ADV	_
 est	être	V	_
@@ -47494,7 +47651,7 @@ que	que	CS	_
 les	le	DET	_
 anciens	ancien	ADJ	_
 hippopotames	hippopotame	NC	_
-auxquels	auquel	PROREL	_
+auxquels	à_lequel	PROREL	_
 ces	ce	DET	_
 grosses	gros	ADJ	_
 dents	dent	NC	_
@@ -47568,7 +47725,7 @@ Nous	nous	CLS	_
 ne	ne	ADV	_
 pouvons	pouvoir	V	_
 douter	douter	VINF	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 après	après	P	_
 avoir	avoir	VINF	_
 occupé	occuper	VPP	_
@@ -47812,7 +47969,9 @@ du	de_le	P+D	_
 l'	le	DET	_
 équateur	équateur	NC	_
 et	et	CC	_
-au-delà	au-delà	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+delà	delà	ADV	_
 à	à	P	_
 la	le	DET	_
 même	même	ADJ	_
@@ -47842,7 +48001,9 @@ l'	le	DET	_
 asie	Asie	NP	_
 qui	qui	PROREL	_
 sont	être	V	_
-au-delà	au-delà	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+delà	delà	ADV	_
 du	de_le	P+D	_
 60e	60e	ADJ	_
 degré	degré	NC	_
@@ -47921,7 +48082,7 @@ ont	avoir	V	_
 été	être	VPP	_
 les	le	DET	_
 premières	premier	ADJ	_
-abandonnées	abandonnées	NC	_
+abandonnées	abandonner	NC	_
 par	par	P	_
 les	le	DET	_
 eaux	eau	NC	_
@@ -48014,8 +48175,9 @@ au	à_le	P+D	_
 30e	30e	ADJ	_
 degré	degré	NC	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
-Parce_que	parce_que	CS	_
+etc.	etc	ADV	_
+Parce	parce	ADV	_
+que	que	CS	_
 le	le	DET	_
 refroidissement	refroidissement	NC	_
 successif	successif	ADJ	_
@@ -48091,11 +48253,12 @@ formation	formation	NC	_
 du	de_le	P+D	_
 globe	globe	NC	_
 ,	,	PONCT	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 ce	ce	CLS	_
 n'	ne	ADV	_
 est	être	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 à	à	P	_
 cet	ce	DET	_
 instant	instant	NC	_
@@ -48164,7 +48327,7 @@ terre	terre	NC	_
 nous	nous	CLS	_
 ne	ne	ADV	_
 compterons	compter	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 environ	environ	ADV	_
 quinze_mille	quinze_mille	DET	_
 ans	an	NC	_
@@ -48579,7 +48742,8 @@ séparation	séparation	NC	_
 des	de_le	P+D	_
 continens	continent	NC	_
 ,	,	PONCT	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 ces	ce	DET	_
 animaux	animal	NC	_
 n'	ne	ADV	_
@@ -48607,7 +48771,7 @@ ancien	ancien	NC	_
 tant	tant	ADV	_
 en	en	P	_
 asie	Asie	NP	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 en	en	P	_
 Afrique	Afrique	NP	_
 ?	?	PONCT	_
@@ -48677,7 +48841,9 @@ auront	avoir	V	_
 donc	donc	ADV	_
 pas	pas	ADV	_
 été	être	VPP	_
-au-delà	au-delà	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+delà	delà	ADV	_
 des	un	DET	_
 terres	terre	NC	_
 de	de	P	_
@@ -48801,7 +48967,8 @@ y	y	CLO	_
 sont	être	V	_
 conservés	conserver	VPP	_
 ,	,	PONCT	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 leur	leur	DET	_
 nature	nature	NC	_
 n'	ne	ADV	_
@@ -49434,7 +49601,7 @@ que	que	CS	_
 ce	ce	CLS	_
 n'	ne	ADV	_
 est	être	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 après	après	P	_
 un	un	DET	_
 long	long	ADJ	_
@@ -49573,7 +49740,7 @@ la	le	DET	_
 nature	nature	NC	_
 vivante	vivant	ADJ	_
 ,	,	PONCT	_
-sur-tout	sur-tout	ADJ	_
+sur-tout	surtout	ADJ	_
 de	de	P	_
 celle	celui	PRO	_
 des	de_le	P+D	_
@@ -49637,7 +49804,7 @@ le	le	DET	_
 nouveau	nouveau	ADJ	_
 monde	monde	NC	_
 ,	,	PONCT	_
-sur-tout	sur-tout	ADV	_
+sur-tout	surtout	ADV	_
 dans	dans	P	_
 ses	son	DET	_
 parties	partie	NC	_
@@ -49789,7 +49956,7 @@ leurs	leur	DET	_
 dépouilles	dépouille	NC	_
 ;	;	PONCT	_
 les	le	DET	_
-cétacées	cétacées	NC	_
+cétacées	cétacé	NC	_
 d'	de	P	_
 aujourd'hui	aujourd'hui	ADV	_
 sont	être	V	_
@@ -49833,7 +50000,8 @@ aux	à_le	P+D	_
 mers	mer	NC	_
 septentrionales	septentrional	ADJ	_
 ;	;	PONCT	_
-tandis_que	tandis_que	CS	_
+tandis	tandis	ADV	_
+que	que	CS	_
 l'on	on	CLS	_
 ne	ne	ADV	_
 trouve	trouver	V	_
@@ -49855,7 +50023,7 @@ les	le	DET	_
 marsoins	marsoins	NC	_
 ,	,	PONCT	_
 qui	qui	PROREL	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 sont	être	V	_
 inférieurs	inférieur	ADJ	_
 aux	à_le	P+D	_
@@ -49903,7 +50071,8 @@ contrées	contrée	NC	_
 du	de_le	P+D	_
 midi	midi	NC	_
 ;	;	PONCT	_
-tandis_que	tandis_que	CS	_
+tandis	tandis	ADV	_
+que	que	CS	_
 tous	tout	ADJ	_
 les	le	DET	_
 plus	plus	ADV	_
@@ -50007,7 +50176,7 @@ vagabonde	vagabond	ADJ	_
 de	de	P	_
 ces	ce	DET	_
 grands	grand	ADJ	_
-cétacées	cétacées	NC	_
+cétacées	cétacé	NC	_
 ,	,	PONCT	_
 toutes	tout	ADJ	_
 les	le	DET	_
@@ -50105,7 +50274,8 @@ pieds	pied	NC	_
 de	de	P	_
 longueur	longueur	NC	_
 ;	;	PONCT	_
-tandis_que	tandis_que	CS	_
+tandis	tandis	ADV	_
+que	que	CS	_
 les	le	DET	_
 plus	plus	ADV	_
 grandes	grand	ADJ	_
@@ -50543,7 +50713,7 @@ sentir	sentir	VINF	_
 et	et	CC	_
 ces	ce	DET	_
 grands	grand	ADJ	_
-cétacées	cétacées	NC	_
+cétacées	cétacé	NC	_
 ne	ne	ADV	_
 les	il	CLO	_
 éprouvent	éprouver	V	_
@@ -50622,7 +50792,7 @@ autres	autre	ADJ	_
 animaux	animal	NC	_
 ,	,	PONCT	_
 les	le	DET	_
-défend	défend	NC	_
+défend	défendre	V	_
 en	en	P	_
 même	même	ADJ	_
 temps	temps	NC	_
@@ -50644,7 +50814,8 @@ où	où	PROREL	_
 ils	il	CLS	_
 sont	être	V	_
 ,	,	PONCT	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 ils	il	CLS	_
 n'	ne	ADV	_
 ont	avoir	V	_
@@ -51146,7 +51317,8 @@ des	un	DET	_
 espèces	espèce	NC	_
 nouvelles	nouveau	ADJ	_
 ,	,	PONCT	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 ces	ce	DET	_
 molécules	molécule	NC	_
 organiques	organique	ADJ	_
@@ -51257,7 +51429,8 @@ des	un	DET	_
 espèces	espèce	NC	_
 nouvelles	nouveau	ADJ	_
 ;	;	PONCT	_
-tandis_qu'	tandis_que	CS	_
+tandis	tandis	ADV	_
+qu'	que	CS	_
 au	à_le	P+D	_
 contraire	contraire	NC	_
 dans	dans	P	_
@@ -51311,7 +51484,7 @@ autres	autre	NC	_
 ,	,	PONCT	_
 et	et	CC	_
 qui	qui	PROREL	_
-toutes	tous	PRO	_
+toutes	tout	PRO	_
 sont	être	V	_
 inférieures	inférieur	ADJ	_
 ,	,	PONCT	_
@@ -51569,7 +51742,8 @@ terres	terre	NC	_
 du	de_le	P+D	_
 nord	nord	NC	_
 ;	;	PONCT	_
-tandis_que	tandis_que	CS	_
+tandis	tandis	ADV	_
+que	que	CS	_
 dans	dans	P	_
 celles	celui	PRO	_
 de	de	P	_
@@ -52255,7 +52429,8 @@ s'	se	CLO	_
 habituer	habituer	VINF	_
 par-tout	par-tout	ADV	_
 ;	;	PONCT	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 avec	avec	P	_
 plus	plus	ADV	_
 ou	ou	CC	_
@@ -53189,7 +53364,7 @@ elles	il	CLS	_
 se	se	CLO	_
 sont	être	V	_
 successivement	successivement	ADV	_
-abaissées	abaissées	ADJ	_
+abaissées	abaissé	ADJ	_
 ?	?	PONCT	_
 Et	et	CC	_
 enfin	enfin	ADV	_
@@ -53328,12 +53503,13 @@ est	être	V	_
 aujourd'hui	aujourd'hui	ADV	_
 séparée	séparer	VPP	_
 du	de_le	P+D	_
-Groënland	Groënland	NP	_
+Groënland	Groenland	NP	_
 ,	,	PONCT	_
 c'	ce	CLS	_
 est	être	V	_
 probablement	probablement	ADV	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 il	il	CLS	_
 s'	se	CLO	_
 est	être	V	_
@@ -53345,11 +53521,11 @@ entre	entre	P	_
 les	le	DET	_
 terres	terre	NC	_
 du	de_le	P+D	_
-Groënland	Groënland	NP	_
+Groënland	Groenland	NP	_
 et	et	CC	_
 celles	celui	PRO	_
 de	de	P	_
-Norwège	Norwège	NP	_
+Norwège	Norvège	NP	_
 et	et	CC	_
 de	de	P	_
 la	le	DET	_
@@ -53388,7 +53564,7 @@ que	que	ADV	_
 les	le	DET	_
 sommets	sommet	NC	_
 des	de_le	P+D	_
-terreins	terreins	NC	_
+terreins	terrain	NC	_
 submergés	submerger	VPP	_
 ;	;	PONCT	_
 et	et	CC	_
@@ -53514,13 +53690,13 @@ encore	encore	ADV	_
 que	que	CS	_
 non-seulement	non-seulement	ADV	_
 le	le	DET	_
-Groënland	Groënland	NP	_
+Groënland	Groenland	NP	_
 a	avoir	V	_
 été	être	VPP	_
 joint	joindre	VPP	_
 à	à	P	_
 la	le	DET	_
-Norwège	Norwège	NP	_
+Norwège	Norvège	NP	_
 et	et	CC	_
 à	à	P	_
 l'	le	DET	_
@@ -53622,7 +53798,7 @@ ne	ne	ADV	_
 peut	pouvoir	V	_
 s'	se	CLO	_
 appliquer	appliquer	VINF	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 à	à	P	_
 une	un	DET	_
 très	très	ADV	_
@@ -53776,7 +53952,7 @@ les	le	DET	_
 terres	terre	NC	_
 du	de_le	P+D	_
 *	*	X	_
-Groënland	Groënland	NC	_
+Groënland	Groenland	NC	_
 tiennent	tenir	V	_
 à	à	P	_
 celles	celui	PRO	_
@@ -53795,7 +53971,7 @@ car	car	CC	_
 cette	ce	DET	_
 terre	terre	NC	_
 du	de_le	P+D	_
-Groënland	Groënland	NP	_
+Groënland	Groenland	NP	_
 en	en	CLO	_
 est	être	V	_
 séparée	séparer	VPP	_
@@ -53846,14 +54022,16 @@ que	que	CS	_
 ce	ce	CLS	_
 n'	ne	ADV	_
 est	être	V	_
-qu'	qu'	ADV	_
-au-delà	au-delà	ADV	_
+qu'	que	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+delà	delà	ADV	_
 de	de	P	_
 ce	ce	DET	_
 terme	terme	NC	_
 que	que	PROREL	_
 le	le	DET	_
-Groënland	Groënland	NP	_
+Groënland	Groenland	NP	_
 et	et	CC	_
 l'	le	DET	_
 Amérique	Amérique	NP	_
@@ -53875,7 +54053,7 @@ la	le	DET	_
 côte	côte	NC	_
 orientale	oriental	ADJ	_
 du	de_le	P+D	_
-Groënland	Groënland	NP	_
+Groënland	Groenland	NP	_
 ,	,	PONCT	_
 et	et	CC	_
 il	il	CLS	_
@@ -53891,12 +54069,12 @@ entre	entre	P	_
 cette	ce	DET	_
 côte	côte	NC	_
 du	de_le	P+D	_
-Groënland	Groënland	NP	_
+Groënland	Groenland	NP	_
 et	et	CC	_
 celle	celui	PRO	_
 de	de	P	_
 la	le	DET	_
-Lapponie	Lapponie	NP	_
+Lapponie	Laponie	NP	_
 ;	;	PONCT	_
 ainsi	ainsi	ADV	_
 l'on	on	CLS	_
@@ -53916,7 +54094,7 @@ aient	avoir	V	_
 pu	pouvoir	VPP	_
 passer	passer	VINF	_
 au	à_le	P+D	_
-Groënland	Groënland	NP	_
+Groënland	Groenland	NP	_
 :	:	PONCT	_
 il	il	CLS	_
 en	en	CLO	_
@@ -53937,7 +54115,7 @@ peut	pouvoir	V	_
 supposer	supposer	VINF	_
 entre	entre	P	_
 la	le	DET	_
-Norwège	Norwège	NP	_
+Norwège	Norvège	NP	_
 ,	,	PONCT	_
 l'	le	DET	_
 *	*	PONCT	_
@@ -53948,7 +54126,7 @@ Islande	Islande	NP	_
 et	et	CC	_
 le	le	DET	_
 *	*	X	_
-Groënland	Groënland	NC	_
+Groënland	Groenland	NC	_
 ;	;	PONCT	_
 car	car	CC	_
 cet	ce	DET	_
@@ -53972,7 +54150,7 @@ ainsi	ainsi	ADV	_
 que	que	CS	_
 celles	celui	PRO	_
 du	de_le	P+D	_
-Groënland	Groënland	NP	_
+Groënland	Groenland	NP	_
 ,	,	PONCT	_
 sont	être	V	_
 plus	plus	ADV	_
@@ -53990,7 +54168,7 @@ d'	de	P	_
 tant	tant	ADV	_
 au	à_le	P+D	_
 Canada	Canada	NP	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 en	en	P	_
 Sibérie	Sibérie	NP	_
 :	:	PONCT	_
@@ -54047,7 +54225,7 @@ l'	le	DET	_
 écosse	écosser	V	_
 au	à_le	P+D	_
 *	*	X	_
-Groënland	Groënland	NC	_
+Groënland	Groenland	NC	_
 ,	,	PONCT	_
 cette	ce	DET	_
 route	route	NC	_
@@ -54057,7 +54235,7 @@ la	le	DET	_
 plus	plus	ADV	_
 naturelle	naturel	ADJ	_
 de	de	P	_
-toutes	tous	PRO	_
+toutes	tout	PRO	_
 ,	,	PONCT	_
 si	si	CS	_
 nous	nous	CLS	_
@@ -54285,9 +54463,13 @@ que	que	CS	_
 les	le	DET	_
 mers	mer	NC	_
 orientales	oriental	ADJ	_
-au-delà	au-delà	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+delà	delà	ADV	_
 et	et	CC	_
-au-dessus	au-dessus	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 de	de	P	_
 Kamtschatka	Kamtschatka	NP	_
 n'	ne	ADV	_
@@ -54319,7 +54501,7 @@ dont	dont	PROREL	_
 quelques-unes	quelqu'un	PRO	_
 forment	former	V	_
 des	de_le	P+D	_
-terreins	terreins	NC	_
+terreins	terrain	NC	_
 d'	de	P	_
 une	un	DET	_
 vaste	vaste	NC	_
@@ -54715,7 +54897,7 @@ du	de_le	P+D	_
 lieu	lieu	NC	_
 de	de	P	_
 l'	le	DET	_
-évènement	évènement	NC	_
+évènement	événement	NC	_
 :	:	PONCT	_
 il	il	CLS	_
 sembleroit	sembler	V	_
@@ -54963,7 +55145,7 @@ Caspienne	Caspienne	NP	_
 ,	,	PONCT	_
 ne	ne	ADV	_
 fournissent	fournir	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 autant	autant	ADV	_
 d'	de	P	_
 eau	eau	NC	_
@@ -55024,7 +55206,8 @@ a	avoir	V	_
 de	un	DET	_
 trop	trop	ADV	_
 ;	;	PONCT	_
-tandis_qu'	tandis_que	CS	_
+tandis	tandis	ADV	_
+qu'	que	CS	_
 au	à_le	P+D	_
 contraire	contraire	NC	_
 la	le	DET	_
@@ -55033,7 +55216,7 @@ Méditerranée	Méditerranée	NP	_
 qui	qui	PROREL	_
 ne	ne	ADV	_
 reçoit	recevoir	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 une	un	DET	_
 petite	petit	ADJ	_
 quantité	quantité	NC	_
@@ -55132,7 +55315,7 @@ la	le	DET	_
 Caspienne	Caspienne	NP	_
 ne	ne	ADV	_
 faisoient	faire	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 un	un	DET	_
 seul	seul	ADJ	_
 grand	grand	ADJ	_
@@ -55407,7 +55590,7 @@ le	le	DET	_
 *	*	X	_
 Donjec	Donjec	NC	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 Et	et	CC	_
 celles	celui	PRO	_
 de	de	P	_
@@ -55699,7 +55882,7 @@ Volga	Volga	NP	_
 le	le	DET	_
 Jaïk	Jaïk	NP	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 Et	et	CC	_
 au	à_le	P+D	_
 midi	midi	NC	_
@@ -55731,7 +55914,8 @@ ce	ce	DET	_
 réceptacle	réceptacle	NC	_
 commun	commun	ADJ	_
 ;	;	PONCT	_
-tandis_que	tandis_que	CS	_
+tandis	tandis	ADV	_
+que	que	CS	_
 le	le	DET	_
 bassin	bassin	NC	_
 de	de	P	_
@@ -55759,7 +55943,7 @@ rivières	rivière	NC	_
 ;	;	PONCT	_
 de	de	P	_
 sorte	sorte	NC	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 en	en	P	_
 comparant	comparer	VPR	_
 l'	le	DET	_
@@ -56308,12 +56492,12 @@ soit	être	V	_
 ce	ce	CLS	_
 n'	ne	ADV	_
 est	être	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 après	après	P	_
 ces	ce	DET	_
 deux	deux	ADJ	_
 grands	grand	ADJ	_
-évènemens	évènemens	NC	_
+évènemens	événement	NC	_
 que	que	CS	_
 l'	le	DET	_
 équilibre	équilibre	NC	_
@@ -56504,7 +56688,7 @@ et	et	CC	_
 de	de	P	_
 l'	le	DET	_
 *	*	PONCT	_
-égypte	égypte	NC	_
+égypte	Égypte	NC	_
 ,	,	PONCT	_
 dont	dont	PROREL	_
 la	le	DET	_
@@ -56538,7 +56722,7 @@ récent	récent	ADJ	_
 en	en	P	_
 comparaison	comparaison	NC	_
 des	de_le	P+D	_
-évènemens	évènemens	NC	_
+évènemens	événement	NC	_
 dont	dont	PROREL	_
 nous	nous	CLS	_
 venons	venir	V	_
@@ -56549,7 +56733,7 @@ puisque	puisque	CS	_
 l'on	on	CLS	_
 ne	ne	ADV	_
 compte	compter	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 environ	environ	ADV	_
 quatre_mille_cent	quatre_mille_cent	DET	_
 années	année	NC	_
@@ -56660,7 +56844,8 @@ de	de	P	_
 la	le	DET	_
 terre	terre	NC	_
 ,	,	PONCT	_
-tandis_que	tandis_que	CS	_
+tandis	tandis	ADV	_
+que	que	CS	_
 la	le	DET	_
 séparation	séparation	NC	_
 des	de_le	P+D	_
@@ -56677,7 +56862,7 @@ a	avoir	V	_
 pu	pouvoir	VPP	_
 se	se	CLO	_
 faire	faire	VINF	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 en	en	P	_
 submergeant	submerger	VPR	_
 à	à	P	_
@@ -56699,7 +56884,7 @@ plus	plus	ADV	_
 grande	grand	ADJ	_
 partie	partie	NC	_
 des	de_le	P+D	_
-terreins	terreins	NC	_
+terreins	terrain	NC	_
 actuellement	actuellement	ADV	_
 couverts	couvrir	VPP	_
 par	par	P	_
@@ -56746,7 +56931,7 @@ l'	le	DET	_
 océan	océan	NC	_
 .	.	PONCT	_
 Ces	ce	DET	_
-évènemens	évènemens	NC	_
+évènemens	événement	NC	_
 ,	,	PONCT	_
 quoique	quoique	ADV	_
 postérieurs	postérieur	ADJ	_
@@ -56826,7 +57011,7 @@ ne	ne	ADV	_
 s'	se	CLO	_
 est	être	V	_
 faite	faire	VPP	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 à	à	P	_
 mesure	mesure	NC	_
 du	de_le	P+D	_
@@ -56862,7 +57047,7 @@ réunissoient	réunir	V	_
 ,	,	PONCT	_
 celle	celui	PRO	_
 des	de_le	P+D	_
-terreins	terreins	NC	_
+terreins	terrain	NC	_
 adjacens	adjacent	ADJ	_
 à	à	P	_
 l'	le	DET	_
@@ -57007,7 +57192,8 @@ torride	torride	ADJ	_
 sont	être	V	_
 habitées	habiter	VPP	_
 ,	,	PONCT	_
-tandis_qu'	tandis_que	CS	_
+tandis	tandis	ADV	_
+qu'	que	CS	_
 on	on	CLS	_
 en	en	CLO	_
 doit	devoir	V	_
@@ -57052,7 +57238,8 @@ des	de_le	P+D	_
 pays	pays	NC	_
 tempérés	tempéré	ADJ	_
 ,	,	PONCT	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 étant	être	VPR	_
 plus	plus	ADV	_
 élevées	élevé	ADJ	_
@@ -57161,7 +57348,7 @@ Sibérie	Sibérie	NP	_
 et	et	CC	_
 de	de	P	_
 la	le	DET	_
-haute	haute	NC	_
+haute	haut	NC	_
 tartarie	tartarie	NP	_
 .	.	PONCT	_
 Lorsque	lorsque	CS	_
@@ -57278,9 +57465,9 @@ Forbisher	Forbisher	NP	_
 celle	celui	PRO	_
 du	de_le	P+D	_
 *	*	X	_
-Groënland	Groënland	NC	_
+Groënland	Groenland	NC	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 C'	C'	NP	_
 est	être	V	_
 à	à	P	_
@@ -57660,7 +57847,7 @@ une	un	DET	_
 grande	grand	ADJ	_
 étendue	étendue	NC	_
 de	de	P	_
-terrein	terrein	NP	_
+terrein	terrain	NP	_
 sur	sur	P	_
 les	le	DET	_
 côtes	côte	NC	_
@@ -57687,7 +57874,7 @@ de	de	P	_
 la	le	DET	_
 Chine	Chine	NP	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 Il	il	CLS	_
 paroît	paraître	V	_
 même	même	ADV	_
@@ -57905,7 +58092,7 @@ partie	partie	NC	_
 du	de_le	P+D	_
 monde	monde	NC	_
 ,	,	PONCT	_
-sur-tout	sur-tout	ADV	_
+sur-tout	surtout	ADV	_
 dans	dans	P	_
 les	le	DET	_
 contrées	contrée	NC	_
@@ -58071,7 +58258,7 @@ perdu	perdre	VPP	_
 car	car	CC	_
 indépendamment	indépendamment	ADV	_
 des	de_le	P+D	_
-terreins	terreins	NC	_
+terreins	terrain	NC	_
 de	de	P	_
 l'	le	DET	_
 intérieur	intérieur	NC	_
@@ -58079,7 +58266,7 @@ de	de	P	_
 l'	le	DET	_
 asie	Asie	NP	_
 nouvellement	nouvellement	ADV	_
-abandonnés	abandonnés	VPP	_
+abandonnés	abandonner	VPP	_
 par	par	P	_
 les	le	DET	_
 eaux	eau	NC	_
@@ -58118,7 +58305,7 @@ grands	grand	ADJ	_
 fleuves	fleuve	NC	_
 ont	avoir	V	_
 presque	presque	ADV	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 formé	former	VPP	_
 des	de_le	P+D	_
 îles	île	NC	_
@@ -58139,7 +58326,7 @@ delta	delta	NC	_
 de	de	P	_
 l'	le	DET	_
 *	*	PONCT	_
-égypte	égypte	NC	_
+égypte	Égypte	NC	_
 ,	,	PONCT	_
 dont	dont	PROREL	_
 l'	le	DET	_
@@ -58153,7 +58340,7 @@ considérable	considérable	ADJ	_
 ,	,	PONCT	_
 n'	ne	ADV	_
 est	être	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 un	un	DET	_
 attérissement	attérissement	NC	_
 produit	produire	VPP	_
@@ -58367,7 +58554,7 @@ on	on	CLS	_
 ne	ne	ADV	_
 peut	pouvoir	V	_
 pénétrer	pénétrer	VINF	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 en	en	P	_
 canot	canot	NC	_
 et	et	CC	_
@@ -58402,7 +58589,9 @@ de	de	P	_
 la	le	DET	_
 terre	terre	NC	_
 ,	,	PONCT	_
-au-delà	au-delà	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+delà	delà	ADV	_
 de	de	P	_
 cette	ce	DET	_
 large	large	ADJ	_
@@ -58492,7 +58681,9 @@ s'	se	CLO	_
 y	y	CLO	_
 percher	percher	VINF	_
 .	.	PONCT	_
-Au-delà	au-delà	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+delà	delà	ADV	_
 des	un	DET	_
 palétuviers	palétuvier	NC	_
 et	et	CC	_
@@ -58524,9 +58715,9 @@ eau	eau	NC	_
 mais	mais	CC	_
 dans	dans	P	_
 les	le	DET	_
-terreins	terreins	NC	_
+terreins	terrain	NC	_
 bourbeux	bourbeux	ADJ	_
-auxquels	auquel	PROREL	_
+auxquels	à_lequel	PROREL	_
 aboutissent	aboutir	V	_
 les	le	DET	_
 savannes	savannes	NC	_
@@ -58664,7 +58855,8 @@ passer	passer	VINF	_
 la	le	DET	_
 nuit	nuit	NC	_
 ;	;	PONCT	_
-tandis_qu'	tandis_que	CS	_
+tandis	tandis	ADV	_
+qu'	que	CS	_
 à	à	P	_
 quelque	quelque	DET	_
 distance	distance	NC	_
@@ -58708,7 +58900,7 @@ Guyane	Guyane	NP	_
 n'	ne	ADV	_
 est	être	V	_
 donc	donc	ADV	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 une	un	DET	_
 forêt	forêt	NC	_
 tout	tout	ADV	_
@@ -58785,7 +58977,9 @@ effet	effet	NC	_
 au	à_le	P+D	_
 point	point	NC	_
 qu'	que	CS	_
-au-dessus	au-dessus	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 de	de	P	_
 l'	le	DET	_
 une	un	NC	_
@@ -58827,7 +59021,9 @@ sept_cents	sept_cents	DET	_
 pieds	pied	NC	_
 de	de	P	_
 hauteur	hauteur	NC	_
-au-dessus	au-dessus	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 de	de	P	_
 son	son	DET	_
 niveau	niveau	NC	_
@@ -58856,7 +59052,7 @@ bâtir	bâtir	VINF	_
 Cayenne	Cayenne	NP	_
 :	:	PONCT	_
 ce	ce	PRO	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 on	on	CLS	_
 appelle	appeler	V	_
 pierre	pierre	NC	_
@@ -58908,7 +59104,8 @@ sont	être	V	_
 actuellement	actuellement	ADV	_
 éteints	éteindre	VPP	_
 ,	,	PONCT	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 la	le	DET	_
 mer	mer	NC	_
 s'	se	CLO	_
@@ -59031,7 +59228,7 @@ de	de	P	_
 la	le	DET	_
 mer	mer	NC	_
 en	en	P	_
-sédimens	sédimens	NC	_
+sédimens	sédiment	NC	_
 vaseux	vaseux	ADJ	_
 :	:	PONCT	_
 ainsi	ainsi	ADV	_
@@ -59229,7 +59426,9 @@ franchi	franchir	VPP	_
 les	le	DET	_
 hautes	haut	ADJ	_
 terres	terre	NC	_
-au-delà	au-delà	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+delà	delà	ADV	_
 de	de	P	_
 l'	le	DET	_
 isthme	isthme	NC	_
@@ -59288,7 +59487,8 @@ l'	le	DET	_
 espèce	espèce	NC	_
 humaine	humain	ADJ	_
 ,	,	PONCT	_
-tandis_qu'	tandis_que	CS	_
+tandis	tandis	ADV	_
+qu'	que	CS	_
 on	on	CLS	_
 n'	ne	ADV	_
 y	y	CLO	_
@@ -59307,7 +59507,7 @@ on	on	CLS	_
 ne	ne	ADV	_
 peut	pouvoir	V	_
 douter	douter	VINF	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 on	on	CLS	_
 n'	ne	ADV	_
 ait	avoir	V	_
@@ -59321,7 +59521,7 @@ hommes	homme	NC	_
 en	en	P	_
 grand	grand	ADJ	_
 nombre	nombre	NC	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 plus	plus	ADV	_
 grands	grand	ADJ	_
 ,	,	PONCT	_
@@ -59409,7 +59609,8 @@ ce	ce	DET	_
 continent	continent	NC	_
 désert	désert	ADJ	_
 ;	;	PONCT	_
-tandis_qu'	tandis_que	CS	_
+tandis	tandis	ADV	_
+qu'	que	CS	_
 elle	il	CLS	_
 a	avoir	V	_
 été	être	VPP	_
@@ -59648,7 +59849,8 @@ jusqu'	jusque	P	_
 ce	ce	DET	_
 jour	jour	NC	_
 ;	;	PONCT	_
-tandis_qu'	tandis_que	CS	_
+tandis	tandis	ADV	_
+qu'	que	CS	_
 il	il	CLS	_
 y	y	CLO	_
 a	avoir	V	_
@@ -59717,12 +59919,12 @@ froides	froid	ADJ	_
 Le	le	DET	_
 nord	nord	NC	_
 du	de_le	P+D	_
-Groënland	Groënland	NP	_
+Groënland	Groenland	NP	_
 ,	,	PONCT	_
 de	de	P	_
 la	le	DET	_
 *	*	X	_
-Lapponie	Lapponie	NP	_
+Lapponie	Laponie	NP	_
 ,	,	PONCT	_
 du	de_le	P+D	_
 Spitzberg	Spitzberg	NP	_
@@ -59840,7 +60042,7 @@ difficile	difficile	ADJ	_
 qu'	que	CS	_
 elle	il	CLS	_
 est	être	V	_
-abandonnée	abandonnée	ADJ	_
+abandonnée	abandonné	ADJ	_
 .	.	PONCT	_
 Ces	ce	DET	_
 mêmes	même	ADJ	_
@@ -60029,7 +60231,7 @@ Chine	Chine	NP	_
 l'	il	CLO	_
 ont	avoir	V	_
 entièrement	entièrement	ADV	_
-abandonnée	abandonnée	VPP	_
+abandonnée	abandonné	VPP	_
 ;	;	PONCT	_
 mais	mais	CC	_
 peut-être	peut-être	ADV	_
@@ -60079,7 +60281,9 @@ toutes	tout	ADJ	_
 les	le	DET	_
 régions	région	NC	_
 septentrionales	septentrional	ADJ	_
-au-delà	au-delà	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+delà	delà	ADV	_
 du	de_le	P+D	_
 76e	76e	ADJ	_
 degré	degré	NC	_
@@ -60088,7 +60292,7 @@ le	le	DET	_
 nord	nord	NC	_
 de	de	P	_
 la	le	DET	_
-Norwège	Norwège	NP	_
+Norwège	Norvège	NP	_
 jusqu'	jusque	P	_
 à	à	P	_
 l'	le	DET	_
@@ -60285,7 +60489,7 @@ diminuer	diminuer	VINF	_
 ,	,	PONCT	_
 ne	ne	ADV	_
 pourra	pouvoir	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 augmenter	augmenter	VINF	_
 avec	avec	P	_
 le	le	DET	_
@@ -60341,7 +60545,9 @@ frappante	frappant	ADJ	_
 .	.	PONCT	_
 On	on	CLS	_
 trouve	trouver	V	_
-au-dessus	au-dessus	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 des	de_le	P+D	_
 alpes	Alpes	NP	_
 ,	,	PONCT	_
@@ -60382,7 +60588,7 @@ jusqu'	jusque	P	_
 celles	celui	PRO	_
 du	de_le	P+D	_
 *	*	X	_
-Tirol	Tirol	NC	_
+Tirol	Tyrol	NC	_
 ,	,	PONCT	_
 une	un	DET	_
 étendue	étendue	NC	_
@@ -60976,7 +61182,9 @@ navigateur	navigateur	NC	_
 intrépide	intrépide	ADJ	_
 de	de	P	_
 pénétrer	pénétrer	VINF	_
-au-delà	au-delà	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+delà	delà	ADV	_
 du	de_le	P+D	_
 82e	82e	ADJ	_
 degré	degré	NC	_
@@ -61664,7 +61872,7 @@ on	on	CLS	_
 n'	ne	ADV	_
 en	en	CLO	_
 rencontre	rencontrer	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 à	à	P	_
 20	20	DET	_
 degrés	degré	NC	_
@@ -61695,7 +61903,8 @@ que	que	CS	_
 d'	de	P	_
 eau	eau	NC	_
 ,	,	PONCT	_
-tandis_que	tandis_que	CS	_
+tandis	tandis	ADV	_
+que	que	CS	_
 tout	tout	PRO	_
 est	être	V	_
 mer	mer	NC	_
@@ -61901,7 +62110,7 @@ venons	venir	V	_
 d'	de	P	_
 exposer	exposer	VINF	_
 ,	,	PONCT	_
-auxquels	auquel	PROREL	_
+auxquels	à_lequel	PROREL	_
 nous	nous	CLS	_
 devons	devoir	V	_
 ajouter	ajouter	VINF	_
@@ -61921,7 +62130,7 @@ la	le	DET	_
 côte	côte	NC	_
 orientale	oriental	ADJ	_
 du	de_le	P+D	_
-Groënland	Groënland	NP	_
+Groënland	Groenland	NP	_
 ;	;	PONCT	_
 on	on	CLS	_
 peut	pouvoir	V	_
@@ -61975,7 +62184,7 @@ asie	Asie	NP	_
 car	car	CC	_
 malgré	malgré	P	_
 ce	ce	PRO	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 en	en	CLO	_
 ont	avoir	V	_
 dit	dire	VPP	_
@@ -62207,7 +62416,7 @@ somme	somme	NC	_
 totale	total	ADJ	_
 ces	ce	DET	_
 grands	grand	ADJ	_
-évènemens	évènemens	NC	_
+évènemens	événement	NC	_
 ,	,	PONCT	_
 ces	ce	DET	_
 opérations	opération	NC	_
@@ -62280,7 +62489,7 @@ puisque	puisque	CS	_
 ce	ce	CLS	_
 n'	ne	ADV	_
 est	être	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 après	après	P	_
 la	le	DET	_
 naissance	naissance	NC	_
@@ -62395,7 +62604,7 @@ tableau	tableau	NC	_
 ne	ne	ADV	_
 fût	être	V	_
 -il	il	CLS	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 une	un	DET	_
 esquisse	esquisse	NC	_
 très	très	ADV	_
@@ -62555,7 +62764,7 @@ devenir	devenir	VINF	_
 la	le	DET	_
 proie	proie	NC	_
 ;	;	PONCT	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 également	également	ADV	_
 pénétrés	pénétrer	VPP	_
 du	de_le	P+D	_
@@ -62566,7 +62775,7 @@ une	un	DET	_
 terreur	terreur	NC	_
 funeste	funeste	ADJ	_
 ,	,	PONCT	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 également	également	ADV	_
 pressés	presser	VPP	_
 par	par	P	_
@@ -62734,7 +62943,7 @@ assaini	assainir	VPP	_
 ,	,	PONCT	_
 purifié	purifier	VPP	_
 les	le	DET	_
-terreins	terreins	NC	_
+terreins	terrain	NC	_
 qu'	que	PROREL	_
 il	il	CLS	_
 vouloit	vouloir	V	_
@@ -62978,7 +63187,7 @@ forcées	forcer	VPP	_
 de	de	P	_
 partager	partager	VINF	_
 leur	leur	DET	_
-terrein	terrein	NC	_
+terrein	terrain	NC	_
 entr'elles	entr'elles	ADJ	_
 ,	,	PONCT	_
 et	et	CC	_
@@ -63280,7 +63489,7 @@ a	avoir	V	_
 pu	pouvoir	VPP	_
 s'	se	CLO	_
 acquérir	acquérir	VINF	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 après	après	P	_
 l'	le	DET	_
 établissement	établissement	NC	_
@@ -63888,7 +64097,7 @@ ne	ne	ADV	_
 peut	pouvoir	V	_
 s'	se	CLO	_
 acquérir	acquérir	VINF	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 après	après	P	_
 avoir	avoir	VINF	_
 tout	tout	PRO	_
@@ -64522,7 +64731,7 @@ que	que	CS	_
 la	le	DET	_
 lune	un	NC	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 Il	il	CLS	_
 est	être	V	_
 donc	donc	ADV	_
@@ -64696,7 +64905,7 @@ née	naître	VPP	_
 à	à	P	_
 la	le	DET	_
 Chine	Chine	NP	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 aux	à_le	P+D	_
 Indes	Indes	NP	_
 ;	;	PONCT	_
@@ -64796,7 +65005,7 @@ astronomie	astronomie	NC	_
 n'	ne	ADV	_
 est	être	V	_
 dûe	devoir	VPP	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 à	à	P	_
 l'	le	DET	_
 opiniâtre	opiniâtre	ADJ	_
@@ -65033,7 +65242,7 @@ les	il	CLO	_
 habitoient	habiter	V	_
 ,	,	PONCT	_
 encore	encore	ADV	_
-ignorans	ignorant	ADJ	_
+ignorans	ignorer	ADJ	_
 ,	,	PONCT	_
 farouches	farouche	ADJ	_
 et	et	CC	_
@@ -65284,7 +65493,7 @@ cette	ce	DET	_
 terre	terre	NC	_
 de	de	P	_
 la	le	DET	_
-haute	haute	NC	_
+haute	haut	NC	_
 asie	Asie	NP	_
 ,	,	PONCT	_
 et	et	CC	_
@@ -65460,7 +65669,9 @@ d'	de	P	_
 un	un	DET	_
 être	être	NC	_
 dégradé	dégrader	VPP	_
-au-dessous	au-dessous	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessous	dessous	ADV	_
 de	de	P	_
 l'	le	DET	_
 animal	animal	NC	_
@@ -65476,7 +65687,7 @@ sciences	science	NC	_
 les	le	DET	_
 arts	art	NC	_
 utiles	utile	ADJ	_
-auxquels	auquel	PROREL	_
+auxquels	à_lequel	PROREL	_
 elles	il	CLS	_
 avoient	avoyer	V	_
 donné	donner	VPP	_
@@ -65540,7 +65751,7 @@ texture	texture	NC	_
 des	de_le	P+D	_
 étoffes	étoffe	NC	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 Ont	avoir	V	_
 survécu	survivre	VPP	_
 à	à	P	_
@@ -65606,7 +65817,7 @@ celui	celui	PRO	_
 de	de	P	_
 l'	le	DET	_
 *	*	PONCT	_
-égypte	égypte	NC	_
+égypte	Égypte	NC	_
 ,	,	PONCT	_
 d'	de	P	_
 éthiopie	éthiopie	NP	_
@@ -65621,7 +65832,7 @@ celui	celui	PRO	_
 de	de	P	_
 rome	Rome	NP	_
 ,	,	PONCT	_
-auquel	auquel	PROREL	_
+auquel	à_lequel	PROREL	_
 notre	notre	DET	_
 Europe	Europe	NP	_
 doit	devoir	V	_
@@ -65998,7 +66209,7 @@ qui	qui	PROREL	_
 ne	ne	ADV	_
 le	il	CLO	_
 sont	être	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 à	à	P	_
 demi	demi	NC	_
 ;	;	PONCT	_
@@ -66419,7 +66630,7 @@ autant	autant	ADV	_
 que	que	CS	_
 si	si	CS	_
 cette	ce	DET	_
-fière	fière	NC	_
+fière	fier	NC	_
 et	et	CC	_
 grande	grand	ADJ	_
 nation	nation	NC	_
@@ -67391,7 +67602,7 @@ cette	ce	DET	_
 petite	petit	ADJ	_
 étendue	étendue	NC	_
 de	de	P	_
-terrein	terrein	NP	_
+terrein	terrain	NP	_
 défriché	défricher	VPP	_
 est	être	V	_
 si	si	ADV	_
@@ -67410,7 +67621,8 @@ pendant	pendant	P	_
 la	le	DET	_
 nuit	nuit	NC	_
 ;	;	PONCT	_
-tandis_que	tandis_que	CS	_
+tandis	tandis	ADV	_
+que	que	CS	_
 dans	dans	P	_
 toutes	tout	ADJ	_
 les	le	DET	_
@@ -67528,7 +67740,8 @@ grain	grain	NC	_
 de	de	P	_
 midi	midi	NC	_
 ,	,	PONCT	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 c'	ce	CLS	_
 est	être	V	_
 vers	vers	P	_
@@ -67553,7 +67766,8 @@ jamais	jamais	ADV	_
 à	à	P	_
 Cayenne	Cayenne	NP	_
 ,	,	PONCT	_
-tandis_que	tandis_que	CS	_
+tandis	tandis	ADV	_
+que	que	CS	_
 les	le	DET	_
 tonnerres	tonnerre	NC	_
 sont	être	V	_
@@ -67818,7 +68032,8 @@ saint	saint	ADJ	_
 -	-	PONCT	_
 Marceau	Marceau	NP	_
 ;	;	PONCT	_
-parce_que	parce_que	CS	_
+parce	parce	ADV	_
+que	que	CS	_
 le	le	DET	_
 vent	vent	NC	_
 du	de_le	P+D	_
@@ -67906,7 +68121,7 @@ si	si	CS	_
 ces	ce	DET	_
 forêts	forêt	NC	_
 sont	être	V	_
-abandonnées	abandonnées	VPP	_
+abandonnées	abandonner	VPP	_
 à	à	P	_
 la	le	DET	_
 seule	seul	ADJ	_
@@ -67924,7 +68139,8 @@ sur	sur	P	_
 la	le	DET	_
 terre	terre	NC	_
 ;	;	PONCT	_
-tandis_qu'	tandis_que	CS	_
+tandis	tandis	ADV	_
+qu'	que	CS	_
 entre	entre	P	_
 les	le	DET	_
 mains	main	NC	_
@@ -68027,7 +68243,7 @@ diminuer	diminuer	VINF	_
 ,	,	PONCT	_
 ne	ne	ADV	_
 peut	pouvoir	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 augmenter	augmenter	VINF	_
 ,	,	PONCT	_
 par	par	P	_
@@ -68053,7 +68269,7 @@ autres	autre	ADJ	_
 exemples	exemple	NC	_
 ,	,	PONCT	_
 qui	qui	PROREL	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 concourent	concourir	V	_
 à	à	P	_
 démontrer	démontrer	VINF	_
@@ -68304,7 +68520,9 @@ saisons	saison	NC	_
 à	à	P	_
 10	10	DET	_
 degrés	degré	NC	_
-au-dessus	au-dessus	ADV	_
+au	à_le	P+D	_
+-	-	PONCT	_
+dessus	dessus	ADV	_
 de	de	P	_
 la	le	DET	_
 congélation	congélation	NC	_
@@ -68719,7 +68937,8 @@ figurent	figurer	V	_
 plus	plus	ADV	_
 grandement	grandement	ADV	_
 ,	,	PONCT	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 elles	il	CLS	_
 sont	être	V	_
 dirigées	diriger	VPP	_
@@ -69134,7 +69353,7 @@ car	car	CC	_
 ce	ce	CLS	_
 n'	ne	ADV	_
 est	être	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 après	après	P	_
 se	se	CLO	_
 les	il	CLO	_
@@ -69579,7 +69798,7 @@ il	il	CLS	_
 n'	ne	ADV	_
 y	y	CLO	_
 a	avoir	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 à	à	P	_
 comparer	comparer	VINF	_
 nos	notre	DET	_
@@ -69671,7 +69890,7 @@ oreilles	oreille	NC	_
 d'	de	P	_
 ours	ours	NC	_
 ,	,	PONCT	_
-etc.	etc.	ADV	_
+etc.	etc	ADV	_
 seroient	être	V	_
 rejetées	rejeter	VPP	_
 aujourd'hui	aujourd'hui	ADV	_
@@ -69735,7 +69954,7 @@ variété	variété	NC	_
 sans	sans	P	_
 nuances	nuance	NC	_
 ,	,	PONCT	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 caractères	caractère	NC	_
 agrestes	agreste	ADJ	_
 de	de	P	_
@@ -69764,7 +69983,8 @@ deux	deux	NC	_
 assez	assez	ADV	_
 mauvaises	mauvais	ADJ	_
 ,	,	PONCT	_
-tandis_qu'	tandis_que	CS	_
+tandis	tandis	ADV	_
+qu'	que	CS	_
 aujourd'hui	aujourd'hui	ADV	_
 nous	nous	CLS	_
 pouvons	pouvoir	V	_
@@ -69776,7 +69996,7 @@ laitues	laitue	NC	_
 et	et	CC	_
 chicorées	chicorée	NC	_
 ,	,	PONCT	_
-toutes	tous	PRO	_
+toutes	tout	PRO	_
 très	très	ADV	_
 -	-	PONCT	_
 bonnes	bon	ADJ	_
@@ -69803,13 +70023,13 @@ et	et	CC	_
 à	à	P	_
 noyaux	noyau	NC	_
 ,	,	PONCT	_
-tous	tous	PRO	_
+tous	tout	PRO	_
 différens	différent	ADJ	_
 de	de	P	_
 ceux	celui	PRO	_
 des	de_le	P+D	_
 anciens	ancien	NC	_
-auxquels	auquel	PROREL	_
+auxquels	à_lequel	PROREL	_
 ils	il	CLS	_
 ne	ne	ADV	_
 ressemblent	ressembler	V	_
@@ -70018,7 +70238,7 @@ produits	produire	VPP	_
 Ce	ce	CLS	_
 n'	ne	ADV	_
 est	être	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 en	en	P	_
 semant	semer	VPR	_
 ,	,	PONCT	_
@@ -70278,7 +70498,8 @@ ses	son	DET	_
 mauvaises	mauvais	ADJ	_
 qualités	qualité	NC	_
 ,	,	PONCT	_
-parce_qu'	parce_que	CS	_
+parce	parce	ADV	_
+qu'	que	CS	_
 il	il	CLS	_
 n'	ne	ADV	_
 a	avoir	V	_
@@ -70303,7 +70524,7 @@ nourrice	nourrice	NC	_
 qui	qui	PROREL	_
 ne	ne	ADV	_
 sert	servir	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 à	à	P	_
 leur	leur	DET	_
 développement	développement	NC	_
@@ -70436,7 +70657,7 @@ grand	grand	ADJ	_
 nombre	nombre	NC	_
 ,	,	PONCT	_
 qui	qui	PROREL	_
-toutes	tous	PRO	_
+toutes	tout	PRO	_
 peuvent	pouvoir	V	_
 se	se	CLO	_
 propager	propager	VINF	_
@@ -70826,7 +71047,7 @@ et	et	CC	_
 ce	ce	CLS	_
 n'	ne	ADV	_
 est	être	V	_
-qu'	qu'	ADV	_
+qu'	que	ADV	_
 après	après	P	_
 un	un	DET	_
 trop	trop	ADV	_
