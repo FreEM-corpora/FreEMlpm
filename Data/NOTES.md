@@ -57,6 +57,9 @@ Nouvelles mesures:
 pesoient	peser	Vvc	O	O	O	O	_
 cinq	cinq	Mc	O	O	O	O	_
 quarterons	quarteron	Nc	O	O	O	O	_
+
+soixante	soixante	Mc	O	O	O	O	_
+brasses	brasse	Nc	O	O	O	O	_
 ```
 
 Lemmes _morfiaillé_ 
@@ -133,6 +136,14 @@ de	de	S	I-amount	I-amount	I-comp.qualifier	O	_
 douze	douze	Mc	B-amount	B-amount	B-comp.val	O	_
 cents	cent	Mc	I-amount	I-amount	I-comp.val	O	_
 toises	toise	Nc	I-amount	I-amount	B-comp.unit	O	_
+```
+
+Il y des oublis:
+```console
+37	37	Mc	O	O	O	O	_
+toises	toise	Nc	O	O	O	O	_
+3	3	Mc	B-amount	B-amount	B-comp.val	O	_
+piés	pied	Nc	I-amount	I-amount	B-comp.unit	O	_
 ```
 
 Recontrôler tout les `AMOUNT`
